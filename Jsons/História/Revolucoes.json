@@ -1,0 +1,792 @@
+[
+  {
+    "pergunta": "O que foi a Revolução Francesa e por que ela marcou o fim do Antigo Regime?",
+    "resposta": "A Revolução Francesa, iniciada em mil setecentos e oitenta e nove, foi um movimento que derrubou a monarquia absolutista e instaurou a República na França. Ela nasceu do descontentamento popular com os altos impostos, a fome e os privilégios da nobreza e do clero. Inspirada nas ideias iluministas de liberdade e igualdade, espalhou princípios que influenciaram todo o mundo ocidental. Sabia que o lema 'Liberdade, Igualdade e Fraternidade' surgiu nesse contexto e se tornou símbolo universal da democracia?",
+    "palavras_chave": ["revolução francesa", "antigo regime", "iluminismo", "liberdade", "igualdade"]
+  },
+  {
+    "pergunta": "Como a Revolução Industrial transformou a economia e a sociedade europeia?",
+    "resposta": "A Revolução Industrial, iniciada na Inglaterra no século dezoito, transformou profundamente a produção e o modo de vida das pessoas. As fábricas substituíram o trabalho artesanal e o uso de máquinas a vapor impulsionou a economia. Cidades cresceram rapidamente e surgiram novas classes sociais, como o proletariado e a burguesia industrial. Sabia que a invenção da máquina a vapor por James Watt foi um dos motores dessa transformação global?",
+    "palavras_chave": ["revolução industrial", "máquina a vapor", "urbanização", "indústria", "trabalho"]
+  },
+  {
+    "pergunta": "O que motivou a Revolução Russa de mil novecentos e dezessete?",
+    "resposta": "A Revolução Russa de mil novecentos e dezessete foi impulsionada pela insatisfação com o regime czarista, as más condições de vida e os impactos da Primeira Guerra Mundial. Liderados pelos bolcheviques e por Vladimir Lênin, os revolucionários derrubaram o czar Nicolau Segundo e instauraram o primeiro Estado socialista do mundo. Sabia que o lema 'Paz, pão e terra' sintetizava as principais demandas do povo russo na época?",
+    "palavras_chave": ["revolução russa", "lenin", "czarismo", "socialismo", "bolcheviques"]
+  },
+  {
+    "pergunta": "Como a Revolução Americana influenciou outras independências pelo mundo?",
+    "resposta": "A Revolução Americana, que culminou na independência dos Estados Unidos em mil setecentos e setenta e seis, inspirou movimentos libertários em várias partes do mundo. Ela foi guiada pela defesa dos direitos individuais e pela rejeição ao domínio britânico. As ideias iluministas tiveram grande peso na elaboração da Constituição americana. Sabia que esse foi o primeiro caso bem-sucedido de colônia que se tornou uma nação independente moderna?",
+    "palavras_chave": ["revolução americana", "independência", "iluminismo", "direitos", "colônia"]
+  },
+  {
+    "pergunta": "Quais foram as principais causas e consequências da Revolução Cubana?",
+    "resposta": "A Revolução Cubana, iniciada em mil novecentos e cinquenta e nove, foi liderada por Fidel Castro e Ernesto Che Guevara contra a ditadura de Fulgêncio Batista. O movimento buscava justiça social, reforma agrária e independência econômica. Após a vitória, Cuba adotou o socialismo e se aproximou da União Soviética, o que gerou tensões com os Estados Unidos durante a Guerra Fria. Sabia que a ilha se tornou símbolo de resistência ao imperialismo na América Latina?",
+    "palavras_chave": ["revolução cubana", "fidel castro", "che guevara", "socialismo", "guerra fria"]
+  },
+  {
+    "pergunta": "O que caracterizou a Revolução Gloriosa na Inglaterra?",
+    "resposta": "A Revolução Gloriosa, ocorrida em mil seiscentos e oitenta e oito, foi um movimento político que depôs o rei Jaime Segundo e consolidou a monarquia parlamentar na Inglaterra. Diferente de outras revoluções, ela foi relativamente pacífica e marcou o fortalecimento do Parlamento frente ao poder real. Sabia que, após esse evento, nasceu a chamada 'Declaração de Direitos', base da democracia britânica moderna?",
+    "palavras_chave": ["revolução gloriosa", "inglaterra", "monarquia parlamentar", "parlamento", "direitos"]
+  },
+  {
+    "pergunta": "Como a Revolução Haitiana desafiou o sistema colonial europeu?",
+    "resposta": "A Revolução Haitiana, iniciada em mil setecentos e noventa e um, foi a primeira revolta de escravizados bem-sucedida da história. Liderada por Toussaint Louverture, resultou na independência do Haiti e no fim da escravidão no país. Esse movimento assustou as potências coloniais e inspirou outras lutas por liberdade nas Américas. Sabia que o Haiti foi a primeira república negra do mundo moderno?",
+    "palavras_chave": ["revolução haitiana", "toussaint louverture", "escravidão", "independência", "haiti"]
+  },
+  {
+    "pergunta": "O que foi a Revolução de mil oitocentos e quarenta e oito e por que é chamada de Primavera dos Povos?",
+    "resposta": "A Revolução de mil oitocentos e quarenta e oito, também conhecida como Primavera dos Povos, foi uma série de levantes populares que se espalharam pela Europa. Ela representou a luta por liberdade política, direitos sociais e independência nacional. Embora muitos movimentos tenham sido reprimidos, suas ideias contribuíram para reformas e para o fortalecimento do liberalismo. Sabia que esse foi um dos primeiros grandes movimentos de caráter internacional da era moderna?",
+    "palavras_chave": ["primavera dos povos", "revolução de 1848", "liberalismo", "nacionalismo", "europa"]
+  },
+  {
+    "pergunta": "Como a Revolução Científica mudou a forma de pensar no Ocidente?",
+    "resposta": "A Revolução Científica, entre os séculos dezesseis e dezessete, transformou o modo como o ser humano entendia o universo. Figuras como Galileu Galilei, Isaac Newton e Copérnico desafiaram a visão religiosa dominante e introduziram o método científico. Essa mudança abriu caminho para o Iluminismo e para o desenvolvimento da ciência moderna. Sabia que Galileu foi obrigado a renegar suas ideias diante da Inquisição?",
+    "palavras_chave": ["revolução científica", "galileu", "newton", "copérnico", "método científico"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Industrial no século dezenove e como ela se expandiu?",
+    "resposta": "A segunda fase da Revolução Industrial, no século dezenove, espalhou-se pela Europa e pelos Estados Unidos com a chegada da eletricidade e do aço. A produção em massa e o surgimento de grandes corporações mudaram a economia mundial. Sabia que essa fase marcou o nascimento das cidades modernas, com bondes elétricos, fábricas iluminadas e o início da globalização industrial?",
+    "palavras_chave": ["segunda revolução industrial", "eletricidade", "aço", "produção em massa", "globalização"]
+  },
+  {
+    "pergunta": "Como a Revolução Digital alterou as relações sociais e econômicas?",
+    "resposta": "A Revolução Digital, iniciada na segunda metade do século vinte, revolucionou a comunicação, o trabalho e o consumo. A internet e os computadores pessoais criaram novas formas de interação e aceleraram a globalização. Sabia que o primeiro e-mail foi enviado em mil novecentos e setenta e um, marcando o início da era digital que conhecemos hoje?",
+    "palavras_chave": ["revolução digital", "tecnologia", "internet", "computadores", "globalização"]
+  },
+  {
+    "pergunta": "Qual foi a importância da Revolução Cultural Chinesa?",
+    "resposta": "A Revolução Cultural, lançada por Mao Tsé-Tung em mil novecentos e sessenta e seis, buscava reafirmar o controle do Partido Comunista e eliminar ideias consideradas burguesas. O movimento causou caos político, perseguições e destruição cultural, mas também marcou uma reestruturação ideológica profunda na China. Sabia que milhões de jovens foram mobilizados como 'guardas vermelhos' nesse período?",
+    "palavras_chave": ["revolução cultural", "china", "mao tsé-tung", "comunismo", "guardas vermelhos"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Mexicana e quais mudanças ela trouxe?",
+    "resposta": "A Revolução Mexicana, iniciada em mil novecentos e dez, foi um movimento popular contra a ditadura de Porfírio Díaz. Lideranças como Emiliano Zapata e Pancho Villa lutaram por reformas agrárias e justiça social. O processo resultou em uma nova constituição e profundas transformações políticas no México. Sabia que a Constituição de mil novecentos e dezessete foi uma das primeiras do mundo a incluir direitos trabalhistas?",
+    "palavras_chave": ["revolução mexicana", "porfírio díaz", "zapata", "pancho villa", "constituição"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Inglesa do século dezessete?",
+    "resposta": "A Revolução Inglesa, ocorrida entre mil seiscentos e quarenta e dois e mil seiscentos e quarenta e nove, foi um conflito entre o Parlamento e o rei Carlos Primeiro. O resultado foi a execução do monarca e a breve instauração da República sob Oliver Cromwell. Sabia que foi a primeira vez na história moderna que um rei foi julgado e condenado por seu próprio povo?",
+    "palavras_chave": ["revolução inglesa", "carlos primeiro", "parlamento", "oliver cromwell", "monarquia"]
+  },
+  {
+    "pergunta": "Como a Revolução Verde impactou a agricultura mundial?",
+    "resposta": "A Revolução Verde, iniciada na década de mil novecentos e sessenta, introduziu novas tecnologias agrícolas, como fertilizantes químicos, sementes híbridas e irrigação mecanizada. Isso aumentou a produtividade, mas também gerou debates sobre dependência tecnológica e impacto ambiental. Sabia que o cientista Norman Borlaug é considerado o 'pai da Revolução Verde' por ter desenvolvido técnicas que salvaram milhões da fome?",
+    "palavras_chave": ["revolução verde", "agricultura", "tecnologia", "fertilizantes", "produção"]
+  },
+  {
+    "pergunta": "O que foi a Revolução dos Cravos em Portugal?",
+    "resposta": "A Revolução dos Cravos, de mil novecentos e setenta e quatro, pôs fim à ditadura salazarista em Portugal. O movimento, liderado por militares e apoiado pela população, foi pacífico — os soldados colocavam cravos nos canos das armas como símbolo de esperança. Sabia que esse ato inspirou o nome pelo qual a revolução ficou conhecida?",
+    "palavras_chave": ["revolução dos cravos", "portugal", "ditadura", "democracia", "salazar"]
+  },
+  {
+    "pergunta": "Como a Revolução Iraniana de mil novecentos e setenta e nove alterou o Oriente Médio?",
+    "resposta": "A Revolução Iraniana derrubou o xá Reza Pahlavi e instaurou uma república islâmica sob a liderança do aiatolá Khomeini. Foi um movimento religioso e político que desafiou o modelo ocidental e redefiniu o papel do Islã na política do Oriente Médio. Sabia que esse foi o primeiro grande movimento contemporâneo a combinar fé e revolta popular de forma massiva?",
+    "palavras_chave": ["revolução iraniana", "aiatolá khomeini", "islã", "oriente médio", "xá reza pahlavi"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Chinesa de mil novecentos e quarenta e nove?",
+    "resposta": "A Revolução Chinesa, liderada por Mao Tsé-Tung, marcou o fim da guerra civil e a vitória dos comunistas sobre o governo nacionalista de Chiang Kai-shek. A partir dela, foi fundada a República Popular da China. Sabia que esse evento consolidou o país como uma das maiores potências políticas do século vinte?",
+    "palavras_chave": ["revolução chinesa", "mao tsé-tung", "comunismo", "china", "república popular"]
+  },
+  {
+    "pergunta": "Como a Revolução Feminista mudou a sociedade no século vinte?",
+    "resposta": "A Revolução Feminista ampliou o debate sobre direitos das mulheres, igualdade salarial, participação política e liberdade sexual. Desde os movimentos sufragistas até as pautas contemporâneas, essa luta redefiniu estruturas sociais em todo o mundo. Sabia que a expressão 'o pessoal é político' se tornou um lema do feminismo na década de mil novecentos e sessenta?",
+    "palavras_chave": ["revolução feminista", "direitos das mulheres", "igualdade", "sufragismo", "movimentos sociais"]
+  },
+  {
+    "pergunta": "O que foi a Revolução de Mil Novecentos e Sessenta e Oito e por que ficou famosa?",
+    "resposta": "A Revolução de mil novecentos e sessenta e oito foi um movimento global de protestos estudantis, operários e culturais. Em países como França, Estados Unidos e México, jovens contestaram a rigidez política e social, pedindo liberdade, paz e direitos civis. Esse movimento transformou valores culturais e inspirou o feminismo e as lutas antirracistas. Sabia que o lema 'é proibido proibir' se tornou símbolo dessa geração rebelde?",
+    "palavras_chave": ["revolução de 1968", "juventude", "protestos", "liberdade", "mudança cultural"]
+  },
+  {
+    "pergunta": "Como a Revolução dos Transportes mudou o modo de vida moderno?",
+    "resposta": "A Revolução dos Transportes, entre os séculos dezenove e vinte, revolucionou a locomoção com ferrovias, automóveis e aviões. Essas inovações reduziram distâncias, aceleraram o comércio e transformaram cidades. Sabia que o primeiro voo comercial aconteceu em mil novecentos e quatorze, conectando duas cidades da Flórida em apenas vinte e três minutos?",
+    "palavras_chave": ["revolução dos transportes", "ferrovias", "automóveis", "aviões", "modernização"]
+  },
+  {
+    "pergunta": "O que foi a Revolução da Informação?",
+    "resposta": "A Revolução da Informação, a partir da segunda metade do século vinte, foi impulsionada pelo avanço das telecomunicações e da informática. O mundo passou a ter acesso instantâneo a dados e notícias, mudando a forma de produzir e compartilhar conhecimento. Sabia que o surgimento da internet e dos satélites de comunicação foram decisivos para esse processo?",
+    "palavras_chave": ["revolução da informação", "telecomunicações", "informática", "internet", "globalização"]
+  },
+  {
+    "pergunta": "Como a Revolução Científico-Tecnológica impactou o século vinte?",
+    "resposta": "A Revolução Científico-Tecnológica uniu ciência e indústria em larga escala. A criação de computadores, energia nuclear, biotecnologia e viagens espaciais redefiniu a vida moderna. Sabia que a corrida espacial entre Estados Unidos e União Soviética impulsionou o desenvolvimento de várias dessas inovações?",
+    "palavras_chave": ["ciência", "tecnologia", "corrida espacial", "inovação", "século XX"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Digital e como ela transformou o trabalho?",
+    "resposta": "A Revolução Digital transformou a economia com a automação, a internet e o uso de dados em larga escala. Profissões tradicionais desapareceram, enquanto novas áreas como programação e marketing digital surgiram. Sabia que o primeiro computador pessoal, lançado em mil novecentos e setenta e cinco, pesava mais de vinte quilos?",
+    "palavras_chave": ["revolução digital", "automação", "internet", "trabalho", "inovação"]
+  },
+  {
+    "pergunta": "Como a Revolução dos Costumes alterou a sociedade ocidental?",
+    "resposta": "A Revolução dos Costumes, nas décadas de sessenta e setenta, questionou valores tradicionais sobre sexualidade, gênero e família. O uso de anticoncepcionais, o feminismo e a contracultura promoveram maior liberdade pessoal. Sabia que o festival de Woodstock, em mil novecentos e sessenta e nove, simbolizou esse novo espírito de rebeldia e liberdade?",
+    "palavras_chave": ["revolução dos costumes", "sexualidade", "contracultura", "feminismo", "anos 60"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Verde e quais críticas ela recebeu?",
+    "resposta": "A Revolução Verde aumentou a produção agrícola com uso de fertilizantes, pesticidas e sementes modificadas. Apesar de combater a fome, também gerou impactos ambientais e dependência tecnológica. Sabia que essa revolução começou na Ásia e se espalhou rapidamente para a América Latina?",
+    "palavras_chave": ["revolução verde", "agricultura", "fertilizantes", "ambiente", "produção"]
+  },
+  {
+    "pergunta": "Como a Revolução Industrial influenciou os movimentos trabalhistas?",
+    "resposta": "Com a Revolução Industrial, as longas jornadas e condições precárias levaram à criação de sindicatos e greves. Trabalhadores começaram a lutar por direitos, como jornada de oito horas e férias. Sabia que o Primeiro de Maio surgiu como data internacional de protesto por causa dessas lutas?",
+    "palavras_chave": ["revolução industrial", "trabalho", "sindicatos", "direitos", "movimentos sociais"]
+  },
+  {
+    "pergunta": "O que foi a Revolução da Energia e como ela moldou o mundo moderno?",
+    "resposta": "A Revolução da Energia marcou a substituição da força humana e animal por carvão, petróleo e eletricidade. Essa mudança sustentou o crescimento das cidades e da indústria. Sabia que a invenção do motor a combustão, no século dezenove, foi um divisor de águas para a mobilidade humana?",
+    "palavras_chave": ["revolução da energia", "carvão", "eletricidade", "petróleo", "indústria"]
+  },
+  {
+    "pergunta": "Como a Revolução Urbana transformou as cidades?",
+    "resposta": "A Revolução Urbana, ocorrida entre o final do século dezenove e o início do vinte, trouxe saneamento, transporte público e planejamento urbano. As cidades se tornaram centros de produção e cultura. Sabia que Paris foi uma das primeiras capitais a passar por uma grande reforma urbana, com avenidas e parques planejados?",
+    "palavras_chave": ["revolução urbana", "cidades", "planejamento", "modernização", "urbanização"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Industrial Quatro Ponto Zero?",
+    "resposta": "A chamada Quarta Revolução Industrial combina robótica, inteligência artificial e internet das coisas. Ela está transformando fábricas em ambientes autônomos e conectados. Sabia que já existem indústrias totalmente controladas por algoritmos, sem presença humana direta?",
+    "palavras_chave": ["quarta revolução industrial", "inteligência artificial", "robótica", "inovação", "tecnologia"]
+  },
+  {
+    "pergunta": "Como a Revolução Feminista se relaciona com outras lutas sociais?",
+    "resposta": "A Revolução Feminista inspirou movimentos antirracistas, LGBTQIA+ e trabalhistas, ampliando o conceito de igualdade. Ela mostrou que a opressão de gênero se conecta a outras formas de desigualdade. Sabia que a ONU declarou mil novecentos e setenta e cinco como o Ano Internacional da Mulher?",
+    "palavras_chave": ["revolução feminista", "igualdade", "direitos", "movimentos sociais", "mulheres"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Científica no campo da medicina?",
+    "resposta": "A Revolução Científica transformou a medicina com o estudo do corpo humano e o uso de experimentos. Descobertas como a circulação do sangue e a vacinação mudaram completamente a saúde pública. Sabia que Edward Jenner criou a primeira vacina da história, contra a varíola, em mil setecentos e noventa e seis?",
+    "palavras_chave": ["revolução científica", "medicina", "vacina", "saúde", "experimentos"]
+  },
+  {
+    "pergunta": "Como a Revolução Industrial afetou o meio ambiente?",
+    "resposta": "A Revolução Industrial aumentou a poluição e o desmatamento, com o uso intenso de carvão e petróleo. Ela deu início às mudanças climáticas provocadas pelo ser humano. Sabia que Londres chegou a registrar dias completamente cobertos por fumaça, conhecidos como 'smog'?",
+    "palavras_chave": ["revolução industrial", "poluição", "meio ambiente", "carvão", "mudanças climáticas"]
+  },
+  {
+    "pergunta": "O que foi a Revolução da Educação no século vinte?",
+    "resposta": "A Revolução da Educação ampliou o acesso à escola e valorizou o ensino público e gratuito. Também introduziu métodos pedagógicos mais participativos. Sabia que o educador brasileiro Paulo Freire foi uma das maiores influências dessa transformação global?",
+    "palavras_chave": ["educação", "pedagogia", "paulo freire", "escola pública", "mudança social"]
+  },
+  {
+    "pergunta": "Como a Revolução dos Direitos Civis nos Estados Unidos influenciou o mundo?",
+    "resposta": "A Revolução dos Direitos Civis, nos anos cinquenta e sessenta, lutou contra a segregação racial e a discriminação. Líderes como Martin Luther King Jr. inspiraram movimentos de igualdade em vários países. Sabia que o famoso discurso 'Eu tenho um sonho' foi feito diante de mais de duzentas mil pessoas?",
+    "palavras_chave": ["direitos civis", "martin luther king", "igualdade", "racismo", "justiça social"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Sexual e por que ela foi tão simbólica?",
+    "resposta": "A Revolução Sexual, nas décadas de sessenta e setenta, rompeu tabus sobre corpo, prazer e liberdade. O surgimento da pílula anticoncepcional e os debates sobre gênero transformaram comportamentos sociais. Sabia que revistas, músicas e filmes dessa época ajudaram a espalhar novas ideias de liberdade?",
+    "palavras_chave": ["revolução sexual", "pílula", "liberdade", "comportamento", "anos 60"]
+  },
+  {
+    "pergunta": "Como a Revolução da Imprensa mudou o acesso à informação?",
+    "resposta": "A Revolução da Imprensa começou com a invenção da prensa de Gutenberg, no século quinze, e democratizou o conhecimento. Livros e jornais se tornaram acessíveis, acelerando a difusão de ideias. Sabia que essa invenção é considerada o início da comunicação de massa?",
+    "palavras_chave": ["imprensa", "gutenberg", "livros", "informação", "comunicação"]
+  },
+  {
+    "pergunta": "O que foi a Revolução dos Meios de Comunicação no século vinte?",
+    "resposta": "A expansão do rádio, da televisão e do cinema criou novas formas de cultura e poder político. A informação passou a circular em tempo real, influenciando eleições e modos de vida. Sabia que o primeiro debate televisivo da história foi entre John Kennedy e Richard Nixon, em mil novecentos e sessenta?",
+    "palavras_chave": ["televisão", "rádio", "cinema", "comunicação", "século XX"]
+  },
+  {
+    "pergunta": "Como a Revolução Ambiental mudou a consciência planetária?",
+    "resposta": "A Revolução Ambiental, a partir da década de mil novecentos e setenta, despertou a preocupação global com o meio ambiente. Conferências internacionais e o conceito de desenvolvimento sustentável passaram a guiar políticas mundiais. Sabia que o Dia da Terra foi criado em mil novecentos e setenta como símbolo desse movimento?",
+    "palavras_chave": ["meio ambiente", "sustentabilidade", "ecologia", "movimentos sociais", "planeta"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Francesa e por que ela é considerada um marco na história mundial?",
+    "resposta": "A Revolução Francesa, iniciada em mil setecentos e oitenta e nove, derrubou a monarquia absolutista e proclamou os ideais de liberdade, igualdade e fraternidade. Ela inspirou movimentos de independência e constituições ao redor do mundo. Sabia que o lema revolucionário francês ainda está presente no brasão da França até hoje?",
+    "palavras_chave": ["revolução francesa", "liberdade", "igualdade", "fraternidade", "monarquia"]
+  },
+  {
+    "pergunta": "Como a Revolução Haitiana influenciou a luta contra a escravidão nas Américas?",
+    "resposta": "A Revolução Haitiana, entre mil setecentos e noventa e um e mil oitocentos e quatro, foi a primeira revolta bem-sucedida de pessoas escravizadas. Ela levou à independência do Haiti e inspirou outras lutas por liberdade. Sabia que o Haiti foi o primeiro país da América Latina a abolir completamente a escravidão?",
+    "palavras_chave": ["haiti", "escravidão", "independência", "revolução", "américa latina"]
+  },
+  {
+    "pergunta": "O que motivou a independência das colônias latino-americanas?",
+    "resposta": "As colônias latino-americanas buscaram independência no início do século dezenove, influenciadas pela Revolução Francesa e pela independência dos Estados Unidos. O enfraquecimento das metrópoles europeias após as guerras napoleônicas também ajudou. Sabia que o líder Simón Bolívar sonhava com uma grande nação unida na América do Sul?",
+    "palavras_chave": ["independência", "américa latina", "simon bolívar", "revolução francesa", "napoleão"]
+  },
+  {
+    "pergunta": "O que foi a Revolução de 1848 e por que ela é chamada de 'Primavera dos Povos'?",
+    "resposta": "A Revolução de mil oitocentos e quarenta e oito foi uma série de levantes populares na Europa, exigindo democracia e direitos trabalhistas. Ficou conhecida como 'Primavera dos Povos' por representar o despertar político das massas. Sabia que em alguns países, como França e Alemanha, ela levou à criação de novas constituições?",
+    "palavras_chave": ["primavera dos povos", "1848", "democracia", "trabalhadores", "constituição"]
+  },
+  {
+    "pergunta": "Como ocorreu a unificação da Itália no século XIX?",
+    "resposta": "A unificação da Itália aconteceu entre mil oitocentos e cinquenta e nove e mil oitocentos e setenta, liderada por figuras como Cavour e Garibaldi. O país passou de reinos fragmentados a um Estado nacional. Sabia que Roma só se tornou a capital italiana depois de uma guerra contra o Papa?",
+    "palavras_chave": ["itália", "unificação", "garibaldi", "cavour", "nacionalismo"]
+  },
+  {
+    "pergunta": "O que foi o processo de unificação da Alemanha?",
+    "resposta": "A unificação da Alemanha, concluída em mil oitocentos e setenta e um, foi conduzida por Otto von Bismarck e consolidou o poder da Prússia. O Império Alemão nasceu após a vitória sobre a França. Sabia que esse evento mudou o equilíbrio político da Europa e preparou o terreno para as Guerras Mundiais?",
+    "palavras_chave": ["alemanha", "unificação", "bismarck", "prússia", "império"]
+  },
+  {
+    "pergunta": "Como a Revolução Russa de 1917 transformou o mundo?",
+    "resposta": "A Revolução Russa derrubou o czar Nicolau II e instaurou o primeiro Estado socialista da história. Liderada por Lenin e os bolcheviques, inspirou movimentos comunistas em todo o planeta. Sabia que o termo 'soviético' vem das assembleias populares criadas pelos trabalhadores?",
+    "palavras_chave": ["revolução russa", "lenin", "socialismo", "bolcheviques", "união soviética"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Mexicana e quais foram suas conquistas?",
+    "resposta": "A Revolução Mexicana, iniciada em mil novecentos e dez, foi um conflito que derrubou a ditadura de Porfirio Díaz e trouxe reformas agrárias e sociais. Ela influenciou a cultura, a política e até a arte mexicana. Sabia que o muralismo de artistas como Diego Rivera nasceu desse espírito revolucionário?",
+    "palavras_chave": ["méxico", "revolução mexicana", "reforma agrária", "arte", "porfirio díaz"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Chinesa de 1949?",
+    "resposta": "A Revolução Chinesa, liderada por Mao Tsé-Tung, pôs fim à guerra civil e criou a República Popular da China. Ela marcou a ascensão do comunismo na Ásia. Sabia que milhões de camponeses participaram ativamente dessa revolução, o que a tornou uma das maiores mobilizações populares da história?",
+    "palavras_chave": ["china", "mao tsé-tung", "comunismo", "revolução", "república popular"]
+  },
+  {
+    "pergunta": "Como a Revolução Cubana mudou o cenário político da América Latina?",
+    "resposta": "A Revolução Cubana, de mil novecentos e cinquenta e nove, derrubou a ditadura de Fulgencio Batista e levou Fidel Castro ao poder. Ela inspirou movimentos de esquerda em toda a América Latina e tensionou as relações com os Estados Unidos. Sabia que o famoso guerrilheiro Che Guevara era argentino e não cubano?",
+    "palavras_chave": ["cuba", "fidel castro", "che guevara", "comunismo", "américa latina"]
+  },
+  {
+    "pergunta": "O que foi a Revolução dos Cravos em Portugal?",
+    "resposta": "A Revolução dos Cravos, em mil novecentos e setenta e quatro, foi um levante militar pacífico que derrubou a ditadura salazarista. Ela marcou o fim do colonialismo português na África. Sabia que os soldados colocaram cravos vermelhos nos fuzis como símbolo de paz?",
+    "palavras_chave": ["portugal", "revolução dos cravos", "ditadura", "democracia", "colonialismo"]
+  },
+  {
+    "pergunta": "Como ocorreu a independência do Brasil em 1822?",
+    "resposta": "A independência do Brasil foi proclamada por Dom Pedro I em mil oitocentos e vinte e dois, após tensões com Portugal. Apesar do famoso 'grito do Ipiranga', o processo foi negociado e custou caro aos cofres brasileiros. Sabia que o Brasil pagou uma indenização milionária a Portugal para ser reconhecido como independente?",
+    "palavras_chave": ["brasil", "independência", "dom pedro i", "portugal", "império"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Pernambucana de 1817?",
+    "resposta": "A Revolução Pernambucana foi um movimento republicano e separatista contra o domínio português. Embora derrotada, inspirou outros levantes no Brasil colonial. Sabia que ela foi uma das primeiras tentativas de instaurar uma república em solo brasileiro?",
+    "palavras_chave": ["pernambuco", "revolução", "brasil", "república", "colônia"]
+  },
+  {
+    "pergunta": "Como a Revolução Liberal do Porto influenciou a história do Brasil?",
+    "resposta": "A Revolução Liberal do Porto, em mil oitocentos e vinte, exigiu a volta do rei Dom João VI a Portugal e o fim do absolutismo. Ela acabou pressionando o príncipe Dom Pedro a proclamar a independência do Brasil. Sabia que foi por causa dessa revolução que o Brasil deixou de ser Reino Unido a Portugal?",
+    "palavras_chave": ["revolução do porto", "portugal", "dom pedro", "independência", "liberalismo"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Farroupilha e por que ela é importante?",
+    "resposta": "A Revolução Farroupilha, entre mil oitocentos e trinta e cinco e mil oitocentos e quarenta e cinco, foi uma guerra no sul do Brasil contra o governo imperial. Os gaúchos lutaram por mais autonomia e impostos justos. Sabia que essa revolução durou dez anos e quase criou um país independente chamado República Rio-Grandense?",
+    "palavras_chave": ["revolução farroupilha", "rio grande do sul", "império", "autonomia", "república"]
+  },
+  {
+    "pergunta": "Como a Revolução Praieira expressou o descontentamento político no Império do Brasil?",
+    "resposta": "A Revolução Praieira, em mil oitocentos e quarenta e oito, foi um movimento liberal em Pernambuco contra o poder das elites. Ela defendia voto livre e fim da monarquia. Sabia que o nome 'praieira' vem do jornal 'O Diário Novo', sediado na Rua da Praia, no Recife?",
+    "palavras_chave": ["revolução praieira", "pernambuco", "liberalismo", "império", "democracia"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Constitucionalista de 1932 em São Paulo?",
+    "resposta": "A Revolução Constitucionalista de mil novecentos e trinta e dois foi uma reação paulista ao governo de Getúlio Vargas, pedindo o retorno da Constituição. Apesar da derrota militar, ela forçou a convocação de uma nova Assembleia Constituinte. Sabia que esse é um dos eventos mais lembrados da história paulista?",
+    "palavras_chave": ["revolução constitucionalista", "getúlio vargas", "são paulo", "constituição", "república"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Bolivariana na Venezuela?",
+    "resposta": "A Revolução Bolivariana, iniciada por Hugo Chávez nos anos noventa, buscou reformar a política venezuelana com base no socialismo e no nacionalismo. Ela gerou mudanças profundas, mas também crises políticas e econômicas. Sabia que o termo 'bolivariana' vem de Simón Bolívar, o herói da independência da América do Sul?",
+    "palavras_chave": ["venezuela", "hugo chávez", "bolivariana", "socialismo", "política"]
+  },
+  {
+    "pergunta": "Como a Primavera Árabe pode ser considerada uma revolução contemporânea?",
+    "resposta": "A Primavera Árabe foi uma onda de protestos a partir de dois mil e dez em países do norte da África e do Oriente Médio. Ela exigia democracia, liberdade e fim de regimes autoritários. Sabia que tudo começou com um vendedor tunisiano que protestou contra a repressão policial?",
+    "palavras_chave": ["primavera árabe", "democracia", "protestos", "oriente médio", "liberdade"]
+  },
+  {
+    "pergunta": "O que foi a revolução digital e como ela mudou o modo de viver das pessoas?",
+    "resposta": "A revolução digital começou no final do século vinte e acelerou no início do século vinte e um, com a popularização da internet, dos computadores pessoais e dos smartphones. Ela transformou a forma como trabalhamos, estudamos e nos relacionamos. Sabia que, em menos de trinta anos, o número de pessoas conectadas à internet saltou de alguns milhões para bilhões?",
+    "palavras_chave": ["revolução digital", "internet", "tecnologia", "comunicação", "sociedade"]
+  },
+  {
+    "pergunta": "Como as redes sociais influenciaram a política e os movimentos sociais?",
+    "resposta": "As redes sociais se tornaram ferramentas poderosas de mobilização política. Elas deram voz a grupos antes marginalizados e aceleraram campanhas como a Primavera Árabe e o movimento Black Lives Matter. Sabia que o termo 'hashtag activism' surgiu para descrever essa nova forma de protesto digital?",
+    "palavras_chave": ["redes sociais", "ativismo", "política", "movimentos sociais", "internet"]
+  },
+  {
+    "pergunta": "O que caracteriza a revolução da informação?",
+    "resposta": "A revolução da informação é marcada pelo acesso rápido e massivo a dados e conhecimentos. Plataformas de busca, mídias digitais e inteligência artificial mudaram a forma de consumir e produzir conteúdo. Sabia que o volume de informações geradas por dia hoje é maior do que o que toda a humanidade produziu até o século dezenove?",
+    "palavras_chave": ["informação", "dados", "inteligência artificial", "conhecimento", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o feminismo do século XXI se diferencia das ondas anteriores?",
+    "resposta": "O feminismo contemporâneo se expandiu globalmente com pautas interseccionais, que abordam gênero, raça, classe e orientação sexual. Ele usa a internet como espaço de conscientização e mobilização. Sabia que campanhas como '#MeToo' e '#EleNão' nasceram de ações coletivas online?",
+    "palavras_chave": ["feminismo", "igualdade", "movimentos sociais", "direitos das mulheres", "internet"]
+  },
+  {
+    "pergunta": "O que é a revolução verde e por que ela é tão importante?",
+    "resposta": "A revolução verde moderna envolve práticas sustentáveis, energias limpas e combate às mudanças climáticas. Países e empresas têm investido em fontes renováveis e economia circular. Sabia que, pela primeira vez na história, jovens ativistas como Greta Thunberg levaram o debate ambiental aos fóruns internacionais?",
+    "palavras_chave": ["sustentabilidade", "meio ambiente", "mudanças climáticas", "energia limpa", "greta thunberg"]
+  },
+  {
+    "pergunta": "Como o movimento LGBTQIA+ se fortaleceu no século XXI?",
+    "resposta": "O movimento LGBTQIA+ ganhou força com a ampliação de direitos civis, o reconhecimento do casamento igualitário e a visibilidade nas mídias. O apoio internacional ajudou a promover leis mais inclusivas em vários países. Sabia que o casamento entre pessoas do mesmo sexo foi legalizado em mais de trinta nações desde dois mil e um?",
+    "palavras_chave": ["lgbtqia+", "direitos civis", "igualdade", "movimento social", "diversidade"]
+  },
+  {
+    "pergunta": "O que foi a revolução do streaming e como ela mudou a cultura?",
+    "resposta": "O streaming transformou o consumo de música, filmes e séries, substituindo CDs, DVDs e até a TV tradicional. Plataformas como Spotify e Netflix redefiniram o acesso ao entretenimento. Sabia que o termo 'binge-watching' — assistir vários episódios seguidos — surgiu por causa dessas plataformas?",
+    "palavras_chave": ["streaming", "entretenimento", "tecnologia", "mídia digital", "cultura"]
+  },
+  {
+    "pergunta": "Como o movimento 'Black Lives Matter' impactou o debate sobre racismo?",
+    "resposta": "Criado em dois mil e treze nos Estados Unidos, o movimento Black Lives Matter denunciou a violência policial e o racismo estrutural. Sua influência chegou a vários países, inspirando manifestações globais. Sabia que o movimento começou com uma simples hashtag após a morte de Trayvon Martin?",
+    "palavras_chave": ["black lives matter", "racismo", "ativismo", "direitos humanos", "igualdade racial"]
+  },
+  {
+    "pergunta": "O que é a revolução da inteligência artificial?",
+    "resposta": "A revolução da inteligência artificial trouxe máquinas capazes de aprender e tomar decisões. Ela está presente em assistentes virtuais, diagnósticos médicos e até na arte digital. Sabia que o termo 'inteligência artificial' foi usado pela primeira vez em mil novecentos e cinquenta e seis, mas só se popularizou nas últimas duas décadas?",
+    "palavras_chave": ["inteligência artificial", "tecnologia", "aprendizado de máquina", "inovação", "futuro"]
+  },
+  {
+    "pergunta": "Como a cultura dos influenciadores digitais redefiniu a comunicação?",
+    "resposta": "Os influenciadores digitais se tornaram figuras centrais na publicidade e na formação de opinião. Eles aproximam marcas do público e moldam comportamentos sociais. Sabia que, em muitos países, ser criador de conteúdo já é reconhecido como profissão formal?",
+    "palavras_chave": ["influenciadores", "mídia social", "publicidade", "comunicação", "comportamento"]
+  },
+  {
+    "pergunta": "O que representa a revolução dos dados e da privacidade?",
+    "resposta": "Com o crescimento da internet, empresas passaram a coletar e analisar grandes volumes de dados pessoais. Isso trouxe avanços tecnológicos, mas também desafios éticos e legais. Sabia que a União Europeia criou a Lei Geral de Proteção de Dados, inspirando legislações no mundo todo?",
+    "palavras_chave": ["dados", "privacidade", "tecnologia", "legislação", "ética digital"]
+  },
+  {
+    "pergunta": "Como a pandemia de 2020 acelerou mudanças sociais e tecnológicas?",
+    "resposta": "A pandemia de dois mil e vinte obrigou o mundo a adotar o trabalho remoto, o ensino online e a digitalização em massa. Ela também ampliou o debate sobre saúde mental e desigualdade social. Sabia que o número de usuários de plataformas de videoconferência cresceu mais de mil por cento em poucos meses?",
+    "palavras_chave": ["pandemia", "mudanças sociais", "tecnologia", "trabalho remoto", "educação online"]
+  },
+  {
+    "pergunta": "O que é a revolução da mobilidade urbana?",
+    "resposta": "A revolução da mobilidade envolve novas formas de transporte sustentável, como bicicletas elétricas, carros compartilhados e veículos autônomos. Ela busca reduzir a poluição e o congestionamento nas cidades. Sabia que algumas capitais europeias já planejam eliminar completamente os carros a combustão até dois mil e trinta?",
+    "palavras_chave": ["mobilidade", "sustentabilidade", "transporte", "inovação", "cidades"]
+  },
+  {
+    "pergunta": "Como o movimento ambientalista ganhou força no século XXI?",
+    "resposta": "O movimento ambientalista se tornou global, com marchas, conferências e acordos internacionais, como o Acordo de Paris. Ele também passou a dialogar com justiça social e economia verde. Sabia que, em muitos países, partidos políticos ambientalistas já fazem parte dos parlamentos?",
+    "palavras_chave": ["meio ambiente", "aquecimento global", "acordo de paris", "sustentabilidade", "ativismo"]
+  },
+  {
+    "pergunta": "O que foi a revolução da comunicação instantânea?",
+    "resposta": "A chegada dos aplicativos de mensagens instantâneas mudou radicalmente a forma de se comunicar. O que antes dependia de telefonemas agora é instantâneo e global. Sabia que o primeiro emoji foi criado no Japão no final da década de mil novecentos e noventa?",
+    "palavras_chave": ["comunicação", "mensagens", "internet", "tecnologia", "emoji"]
+  },
+  {
+    "pergunta": "Como os movimentos estudantis se transformaram na era digital?",
+    "resposta": "Os movimentos estudantis do século XXI usam redes sociais para organizar protestos e reivindicações em escala global. O acesso rápido à informação fortalece a consciência política entre os jovens. Sabia que as mobilizações no Chile e em Hong Kong começaram com grupos de estudantes online?",
+    "palavras_chave": ["movimentos estudantis", "ativismo digital", "educação", "juventude", "política"]
+  },
+  {
+    "pergunta": "O que é a revolução da economia colaborativa?",
+    "resposta": "A economia colaborativa é baseada no compartilhamento de recursos, como transporte, hospedagem e trabalho. Plataformas como Uber e Airbnb exemplificam essa mudança. Sabia que esse modelo começou com grupos de pessoas trocando objetos usados online?",
+    "palavras_chave": ["economia colaborativa", "tecnologia", "consumo", "compartilhamento", "inovação"]
+  },
+  {
+    "pergunta": "Como o movimento antirracista se globalizou no século XXI?",
+    "resposta": "Com o avanço das redes sociais, campanhas contra o racismo ganharam visibilidade internacional. Elas conectam causas locais e pressionam governos e empresas por mudanças. Sabia que atletas e artistas têm usado suas plataformas para impulsionar essas discussões mundialmente?",
+    "palavras_chave": ["antirracismo", "igualdade", "ativismo", "direitos humanos", "movimentos sociais"]
+  },
+  {
+    "pergunta": "O que é a revolução do aprendizado online?",
+    "resposta": "A revolução do aprendizado online democratizou o acesso à educação, permitindo que milhões estudem de qualquer lugar. Plataformas de cursos e universidades virtuais cresceram exponencialmente. Sabia que algumas instituições de elite oferecem cursos gratuitos abertos ao público mundial?",
+    "palavras_chave": ["educação online", "aprendizado", "tecnologia", "ensino", "plataformas digitais"]
+  },
+  {
+    "pergunta": "Como o conceito de trabalho mudou com a revolução digital?",
+    "resposta": "O trabalho remoto e o empreendedorismo digital se tornaram comuns, graças à tecnologia. Surgiram novas carreiras ligadas à inovação e à criatividade. Sabia que o termo 'nômade digital' se refere a pessoas que trabalham viajando pelo mundo, conectadas pela internet?",
+    "palavras_chave": ["trabalho remoto", "tecnologia", "empreendedorismo", "digital", "inovação"]
+  },
+  {
+    "pergunta": "O que foi o Projeto Genoma Humano e por que ele foi um marco científico?",
+    "resposta": "O Projeto Genoma Humano, concluído em 2003, mapeou todos os genes do DNA humano. Isso abriu caminho para avanços na medicina personalizada e na biotecnologia. Sabia que o projeto durou 13 anos e envolveu cientistas de seis países diferentes?",
+    "palavras_chave": ["projeto genoma humano", "dna", "biotecnologia", "genética", "ciência"]
+  },
+  {
+    "pergunta": "Como a biotecnologia transformou a agricultura?",
+    "resposta": "A biotecnologia permitiu a criação de plantas geneticamente modificadas, mais resistentes a pragas e variações climáticas. Isso aumentou a produtividade e reduziu perdas agrícolas. Sabia que o primeiro alimento transgênico comercializado foi o tomate Flavr Savr, em 1994?",
+    "palavras_chave": ["biotecnologia", "agricultura", "transgênicos", "ciência", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é a revolução da nanotecnologia?",
+    "resposta": "A nanotecnologia trabalha com estruturas microscópicas, menores que um fio de cabelo, para criar novos materiais e medicamentos. Sabia que ela é usada em tudo, de protetores solares a tecidos inteligentes?",
+    "palavras_chave": ["nanotecnologia", "ciência", "inovação", "materiais", "tecnologia"]
+  },
+  {
+    "pergunta": "Como a medicina evoluiu com o uso da robótica?",
+    "resposta": "A robótica revolucionou cirurgias, tornando-as mais precisas e menos invasivas. Robôs como o Da Vinci são usados em hospitais de todo o mundo. Sabia que já existem braços robóticos controlados à distância por cirurgiões em outro continente?",
+    "palavras_chave": ["robótica", "medicina", "cirurgia", "tecnologia", "inovação"]
+  },
+  {
+    "pergunta": "O que é a edição genética CRISPR e por que ela é tão importante?",
+    "resposta": "A técnica CRISPR permite alterar genes com extrema precisão, oferecendo esperança para curar doenças hereditárias. Sabia que ela foi inspirada em um mecanismo natural de defesa das bactérias?",
+    "palavras_chave": ["crispr", "edição genética", "ciência", "biotecnologia", "saúde"]
+  },
+  {
+    "pergunta": "Como a exploração espacial mudou no século XXI?",
+    "resposta": "Empresas privadas como SpaceX e Blue Origin transformaram a corrida espacial, reduzindo custos e ampliando o alcance da exploração. Sabia que o foguete Falcon 9 foi o primeiro reutilizável da história?",
+    "palavras_chave": ["espaço", "exploração espacial", "spacex", "astronomia", "ciência"]
+  },
+  {
+    "pergunta": "O que é a revolução da energia limpa?",
+    "resposta": "A revolução da energia limpa busca substituir combustíveis fósseis por fontes renováveis como solar, eólica e hidrogênio verde. Sabia que a capacidade global de energia solar cresce mais de 20% ao ano desde 2015?",
+    "palavras_chave": ["energia limpa", "sustentabilidade", "tecnologia", "meio ambiente", "inovação"]
+  },
+  {
+    "pergunta": "Como os carros elétricos transformaram a indústria automotiva?",
+    "resposta": "Os carros elétricos reduziram a dependência de combustíveis fósseis e impulsionaram pesquisas em baterias e sustentabilidade. Sabia que a primeira patente de carro elétrico é de 1890, mas só no século XXI ele se popularizou?",
+    "palavras_chave": ["carros elétricos", "tecnologia", "sustentabilidade", "inovação", "energia"]
+  },
+  {
+    "pergunta": "O que é a computação quântica e por que ela é considerada revolucionária?",
+    "resposta": "A computação quântica usa princípios da física quântica para processar informações de forma muito mais rápida que os computadores comuns. Sabia que um computador quântico pode resolver cálculos que levariam séculos em poucos segundos?",
+    "palavras_chave": ["computação quântica", "física", "tecnologia", "ciência", "inovação"]
+  },
+  {
+    "pergunta": "Como a inteligência artificial está transformando a ciência?",
+    "resposta": "A inteligência artificial acelera pesquisas, analisa dados complexos e até ajuda a criar novos medicamentos. Sabia que a IA já descobriu compostos químicos inéditos em poucos dias?",
+    "palavras_chave": ["inteligência artificial", "ciência", "inovação", "tecnologia", "descobertas"]
+  },
+  {
+    "pergunta": "O que é a revolução dos drones?",
+    "resposta": "Os drones, inicialmente usados em fins militares, hoje servem na agricultura, entregas, cinema e até resgates. Sabia que já existem ambulâncias aéreas baseadas em tecnologia de drone?",
+    "palavras_chave": ["drones", "tecnologia", "ciência", "inovação", "aeronáutica"]
+  },
+  {
+    "pergunta": "Como os satélites mudaram o cotidiano humano?",
+    "resposta": "Os satélites permitem comunicação global, GPS, previsão do tempo e monitoramento ambiental. Sabia que há mais de 8 mil satélites em órbita ao redor da Terra?",
+    "palavras_chave": ["satélites", "tecnologia", "gps", "comunicação", "espaço"]
+  },
+  {
+    "pergunta": "O que é a bioimpressão 3D e quais são suas aplicações?",
+    "resposta": "A bioimpressão 3D usa células vivas para criar tecidos e órgãos artificiais, revolucionando a medicina regenerativa. Sabia que já foram impressas córneas e pele humana em laboratório?",
+    "palavras_chave": ["bioimpressão 3d", "tecnologia", "medicina", "ciência", "inovação"]
+  },
+  {
+    "pergunta": "Como a internet das coisas está mudando as cidades?",
+    "resposta": "A internet das coisas conecta objetos do cotidiano à rede, permitindo que cidades sejam mais inteligentes e eficientes. Sabia que existem semáforos que ajustam o tempo com base no fluxo de veículos?",
+    "palavras_chave": ["internet das coisas", "tecnologia", "cidades inteligentes", "inovação", "automação"]
+  },
+  {
+    "pergunta": "O que é a revolução dos materiais?",
+    "resposta": "Novos materiais como o grafeno e os supercondutores prometem mudar a eletrônica, a energia e a medicina. Sabia que o grafeno é 200 vezes mais resistente que o aço e mais leve que o papel?",
+    "palavras_chave": ["materiais", "grafeno", "ciência", "tecnologia", "inovação"]
+  },
+  {
+    "pergunta": "Como os avanços na neurociência estão ampliando o conhecimento sobre o cérebro?",
+    "resposta": "A neurociência moderna permite mapear a atividade cerebral e desenvolver terapias para distúrbios mentais. Sabia que cientistas já conseguiram traduzir sinais cerebrais em palavras simples?",
+    "palavras_chave": ["neurociência", "cérebro", "ciência", "medicina", "tecnologia"]
+  },
+  {
+    "pergunta": "O que são as vacinas de RNA mensageiro?",
+    "resposta": "As vacinas de RNA mensageiro, como as usadas contra a Covid-19, ensinam o corpo a produzir proteínas que geram imunidade. Sabia que essa tecnologia vinha sendo estudada há mais de 20 anos antes da pandemia?",
+    "palavras_chave": ["vacinas", "rna", "ciência", "medicina", "saúde"]
+  },
+  {
+    "pergunta": "Como a impressão 3D está transformando a indústria?",
+    "resposta": "A impressão 3D permite fabricar peças sob medida de forma rápida e barata, usada da moda à engenharia aeroespacial. Sabia que até casas inteiras já foram construídas com impressoras 3D?",
+    "palavras_chave": ["impressão 3d", "indústria", "tecnologia", "inovação", "produção"]
+  },
+  {
+    "pergunta": "O que são as energias do futuro?",
+    "resposta": "As energias do futuro incluem fontes limpas como solar, eólica, nuclear de quarta geração e fusão. Sabia que a fusão nuclear, que imita o sol, pode gerar energia quase ilimitada sem poluição?",
+    "palavras_chave": ["energia", "fusão nuclear", "sustentabilidade", "ciência", "tecnologia"]
+  },
+  {
+    "pergunta": "Como a tecnologia espacial pode ajudar o meio ambiente na Terra?",
+    "resposta": "Satélites e sensores espaciais monitoram desmatamentos, poluição e mudanças climáticas em tempo real. Sabia que a NASA usa dados espaciais para prever secas e incêndios florestais?",
+    "palavras_chave": ["espaço", "meio ambiente", "satélite", "tecnologia", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Científica e por que ela é considerada um divisor de águas na história?",
+    "resposta": "A Revolução Científica, ocorrida entre os séculos XVI e XVII, marcou a transição de uma visão de mundo baseada na fé e na tradição para uma fundamentada na observação e na razão. Cientistas como Copérnico, Galileu e Newton desafiaram dogmas religiosos e criaram o método científico, transformando a maneira como a humanidade compreende a natureza. Sabia que Galileu chegou a ser julgado pela Inquisição por afirmar que a Terra girava em torno do Sol?",
+    "palavras_chave": ["revolução científica", "galileu", "copérnico", "método científico", "renascimento"]
+  },
+  {
+    "pergunta": "Como o Renascimento contribuiu para o surgimento da ciência moderna?",
+    "resposta": "O Renascimento incentivou o retorno ao estudo da natureza e do ser humano com base na observação e na experiência. O interesse por anatomia, astronomia e artes mecânicas abriu caminho para o pensamento científico moderno. Sabia que artistas como Leonardo da Vinci também foram cientistas e engenheiros, misturando arte e experimentação?",
+    "palavras_chave": ["renascimento", "ciência moderna", "leonardo da vinci", "humanismo", "observação"]
+  },
+  {
+    "pergunta": "Quem foi Nicolau Copérnico e qual foi sua contribuição para a ciência?",
+    "resposta": "Copérnico foi o astrônomo polonês que formulou a teoria heliocêntrica, afirmando que o Sol, e não a Terra, era o centro do sistema solar. Essa ideia revolucionou a astronomia e iniciou uma verdadeira mudança de paradigma. Sabia que sua principal obra, ‘Sobre as Revoluções das Esferas Celestes’, só foi publicada no ano de sua morte, em 1543?",
+    "palavras_chave": ["copérnico", "heliocentrismo", "astronomia", "revolução científica", "teoria"]
+  },
+  {
+    "pergunta": "Qual foi o papel de Galileu Galilei na Revolução Científica?",
+    "resposta": "Galileu foi um dos primeiros a usar o telescópio para observar o céu, confirmando o heliocentrismo e descobrindo luas de Júpiter. Além disso, foi defensor do método experimental. Sabia que ele também inventou instrumentos de medição que ajudaram a estabelecer as bases da física moderna?",
+    "palavras_chave": ["galileu galilei", "telescópio", "física", "astronomia", "experiência"]
+  },
+  {
+    "pergunta": "O que foi o Iluminismo e qual sua relação com a ciência?",
+    "resposta": "O Iluminismo foi um movimento intelectual do século XVIII que defendia a razão, a liberdade e o progresso científico. Inspirado pela Revolução Científica, ele consolidou o valor da observação e da lógica como caminhos para o conhecimento. Sabia que o lema dos iluministas era 'Ouse saber', incentivando o pensamento crítico?",
+    "palavras_chave": ["iluminismo", "razão", "ciência", "filosofia", "século xviii"]
+  },
+  {
+    "pergunta": "Por que Isaac Newton é considerado um dos maiores cientistas da história?",
+    "resposta": "Newton unificou as leis do movimento e da gravitação universal, explicando desde a queda de uma maçã até o movimento dos planetas. Sua obra 'Princípios Matemáticos da Filosofia Natural' é um marco da ciência moderna. Sabia que, além de físico, ele também estudava alquimia e teologia?",
+    "palavras_chave": ["newton", "gravitação", "física", "ciência moderna", "matemática"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Industrial e como ela transformou a sociedade?",
+    "resposta": "A Revolução Industrial, iniciada na Inglaterra no século XVIII, introduziu máquinas e fábricas que substituíram o trabalho manual. Isso mudou a economia, a urbanização e as relações sociais. Sabia que a invenção da máquina a vapor por James Watt foi o motor simbólico dessa transformação?",
+    "palavras_chave": ["revolução industrial", "máquina a vapor", "indústria", "inglaterra", "trabalho"]
+  },
+  {
+    "pergunta": "Como a invenção da imprensa influenciou o avanço da ciência?",
+    "resposta": "A prensa de Gutenberg, criada no século XV, permitiu a rápida disseminação de livros e ideias científicas. Isso democratizou o acesso ao conhecimento e acelerou o progresso intelectual na Europa. Sabia que o primeiro livro impresso foi uma Bíblia em latim, conhecida como a Bíblia de Gutenberg?",
+    "palavras_chave": ["imprensa", "gutenberg", "livros", "ciência", "conhecimento"]
+  },
+  {
+    "pergunta": "Quem foi Francis Bacon e qual foi sua contribuição para o método científico?",
+    "resposta": "Francis Bacon foi um filósofo inglês que defendeu a observação empírica e a experimentação como bases da ciência. Seu pensamento ajudou a estruturar o método científico moderno. Sabia que ele comparava o cientista a um ‘caçador de verdades’, guiado pela razão?",
+    "palavras_chave": ["francis bacon", "método científico", "empirismo", "filosofia", "ciência"]
+  },
+  {
+    "pergunta": "Como a teoria heliocêntrica alterou a visão do ser humano sobre o universo?",
+    "resposta": "A teoria heliocêntrica tirou o ser humano do centro do universo e colocou o Sol como referência, abalando crenças religiosas e filosóficas. Foi um choque cultural que incentivou novas formas de pensar. Sabia que essa mudança é considerada o início da 'revolução do pensamento moderno'?",
+    "palavras_chave": ["heliocentrismo", "copérnico", "universo", "ciência", "filosofia"]
+  },
+  {
+    "pergunta": "Qual a importância da física newtoniana para o desenvolvimento tecnológico?",
+    "resposta": "A física de Newton forneceu as bases matemáticas para o funcionamento de máquinas, pontes e sistemas mecânicos. Ela guiou a engenharia e a tecnologia por mais de dois séculos. Sabia que os cálculos de Newton ainda são usados na aviação e na construção civil?",
+    "palavras_chave": ["newton", "física", "engenharia", "tecnologia", "mecânica"]
+  },
+  {
+    "pergunta": "Como a observação astronômica transformou o conhecimento humano?",
+    "resposta": "A observação astronômica levou à descoberta de planetas, leis do movimento e dimensões cósmicas impensáveis. A invenção do telescópio foi um divisor de águas nesse processo. Sabia que Galileu conseguiu observar manchas solares e comprovar que o Sol não era perfeito?",
+    "palavras_chave": ["astronomia", "telescópio", "galileu", "universo", "descoberta"]
+  },
+  {
+    "pergunta": "O que foram as academias científicas e qual seu papel na Revolução Científica?",
+    "resposta": "As academias científicas, como a Royal Society de Londres, criaram um espaço institucional para a troca de ideias e experimentos. Elas consolidaram a ciência como atividade colaborativa. Sabia que o lema da Royal Society é 'Nullius in verba', ou 'Não acredite em palavras', defendendo a prova empírica?",
+    "palavras_chave": ["academias científicas", "royal society", "ciência", "colaboração", "revolução científica"]
+  },
+  {
+    "pergunta": "Quem foi René Descartes e como ele influenciou o pensamento científico?",
+    "resposta": "Descartes propôs a dúvida como método e a razão como caminho para o conhecimento verdadeiro. Sua frase 'Penso, logo existo' simboliza o racionalismo moderno. Sabia que ele também tentou criar uma teoria física baseada em vórtices no espaço?",
+    "palavras_chave": ["descartes", "racionalismo", "filosofia", "ciência", "razão"]
+  },
+  {
+    "pergunta": "Como as descobertas de Kepler contribuíram para a astronomia moderna?",
+    "resposta": "Kepler descobriu que os planetas se movem em órbitas elípticas, e não circulares, como se acreditava. Suas leis do movimento planetário foram fundamentais para Newton. Sabia que Kepler também escreveu sobre a possibilidade de vida em outros planetas?",
+    "palavras_chave": ["kepler", "astronomia", "órbitas", "planetas", "ciência"]
+  },
+  {
+    "pergunta": "O que caracterizou o surgimento do pensamento científico moderno?",
+    "resposta": "O pensamento científico moderno surgiu com a valorização da razão, da observação e do método experimental, rompendo com a tradição escolástica medieval. Sabia que esse processo foi tão profundo que mudou até a linguagem e o ensino nas universidades?",
+    "palavras_chave": ["pensamento científico", "método", "razão", "experiência", "ciência moderna"]
+  },
+  {
+    "pergunta": "Como a Revolução Industrial estimulou o desenvolvimento da ciência aplicada?",
+    "resposta": "A Revolução Industrial exigiu novas tecnologias e processos, incentivando pesquisas em física, química e engenharia. Foi o início da ciência voltada para a produção. Sabia que a invenção do motor elétrico e da locomotiva nasceram desse contexto?",
+    "palavras_chave": ["revolução industrial", "ciência aplicada", "tecnologia", "indústria", "engenharia"]
+  },
+  {
+    "pergunta": "Qual foi o impacto da Revolução Científica nas artes e na cultura?",
+    "resposta": "A arte passou a valorizar a perspectiva, a proporção e o realismo, refletindo o novo olhar racional e observador sobre o mundo. Sabia que a própria pintura renascentista serviu como laboratório de ótica e anatomia?",
+    "palavras_chave": ["arte", "ciência", "renascimento", "cultura", "observação"]
+  },
+  {
+    "pergunta": "Como a química surgiu como ciência independente durante o século XVIII?",
+    "resposta": "Durante o século XVIII, cientistas como Lavoisier definiram leis fundamentais, como a da conservação da massa, e substituíram a alquimia por experimentos controlados. Sabia que Lavoisier também ajudou a padronizar a nomenclatura química que usamos até hoje?",
+    "palavras_chave": ["química", "lavoisier", "ciência", "século xviii", "alquimia"]
+  },
+  {
+    "pergunta": "Por que o século XVII é considerado o 'século da razão'?",
+    "resposta": "O século XVII foi marcado pelo predomínio do racionalismo, da ciência experimental e da valorização do pensamento lógico. Sabia que, nesse período, a astronomia e a física se tornaram símbolos do progresso humano?",
+    "palavras_chave": ["século xvii", "razão", "ciência", "filosofia", "racionalismo"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Científica e por que ela é considerada um divisor de águas na história?",
+    "resposta": "A Revolução Científica, ocorrida entre os séculos XVI e XVII, marcou a transição de uma visão de mundo baseada na fé e na tradição para uma fundamentada na observação e na razão. Cientistas como Copérnico, Galileu e Newton desafiaram dogmas religiosos e criaram o método científico, transformando a maneira como a humanidade compreende a natureza. Sabia que Galileu chegou a ser julgado pela Inquisição por afirmar que a Terra girava em torno do Sol?",
+    "palavras_chave": ["revolução científica", "galileu", "copérnico", "método científico", "renascimento"]
+  },
+  {
+    "pergunta": "Como o Renascimento contribuiu para o surgimento da ciência moderna?",
+    "resposta": "O Renascimento incentivou o retorno ao estudo da natureza e do ser humano com base na observação e na experiência. O interesse por anatomia, astronomia e artes mecânicas abriu caminho para o pensamento científico moderno. Sabia que artistas como Leonardo da Vinci também foram cientistas e engenheiros, misturando arte e experimentação?",
+    "palavras_chave": ["renascimento", "ciência moderna", "leonardo da vinci", "humanismo", "observação"]
+  },
+  {
+    "pergunta": "Quem foi Nicolau Copérnico e qual foi sua contribuição para a ciência?",
+    "resposta": "Copérnico foi o astrônomo polonês que formulou a teoria heliocêntrica, afirmando que o Sol, e não a Terra, era o centro do sistema solar. Essa ideia revolucionou a astronomia e iniciou uma verdadeira mudança de paradigma. Sabia que sua principal obra, ‘Sobre as Revoluções das Esferas Celestes’, só foi publicada no ano de sua morte, em 1543?",
+    "palavras_chave": ["copérnico", "heliocentrismo", "astronomia", "revolução científica", "teoria"]
+  },
+  {
+    "pergunta": "Qual foi o papel de Galileu Galilei na Revolução Científica?",
+    "resposta": "Galileu foi um dos primeiros a usar o telescópio para observar o céu, confirmando o heliocentrismo e descobrindo luas de Júpiter. Além disso, foi defensor do método experimental. Sabia que ele também inventou instrumentos de medição que ajudaram a estabelecer as bases da física moderna?",
+    "palavras_chave": ["galileu galilei", "telescópio", "física", "astronomia", "experiência"]
+  },
+  {
+    "pergunta": "O que foi o Iluminismo e qual sua relação com a ciência?",
+    "resposta": "O Iluminismo foi um movimento intelectual do século XVIII que defendia a razão, a liberdade e o progresso científico. Inspirado pela Revolução Científica, ele consolidou o valor da observação e da lógica como caminhos para o conhecimento. Sabia que o lema dos iluministas era 'Ouse saber', incentivando o pensamento crítico?",
+    "palavras_chave": ["iluminismo", "razão", "ciência", "filosofia", "século xviii"]
+  },
+  {
+    "pergunta": "Por que Isaac Newton é considerado um dos maiores cientistas da história?",
+    "resposta": "Newton unificou as leis do movimento e da gravitação universal, explicando desde a queda de uma maçã até o movimento dos planetas. Sua obra 'Princípios Matemáticos da Filosofia Natural' é um marco da ciência moderna. Sabia que, além de físico, ele também estudava alquimia e teologia?",
+    "palavras_chave": ["newton", "gravitação", "física", "ciência moderna", "matemática"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Industrial e como ela transformou a sociedade?",
+    "resposta": "A Revolução Industrial, iniciada na Inglaterra no século XVIII, introduziu máquinas e fábricas que substituíram o trabalho manual. Isso mudou a economia, a urbanização e as relações sociais. Sabia que a invenção da máquina a vapor por James Watt foi o motor simbólico dessa transformação?",
+    "palavras_chave": ["revolução industrial", "máquina a vapor", "indústria", "inglaterra", "trabalho"]
+  },
+  {
+    "pergunta": "Como a invenção da imprensa influenciou o avanço da ciência?",
+    "resposta": "A prensa de Gutenberg, criada no século XV, permitiu a rápida disseminação de livros e ideias científicas. Isso democratizou o acesso ao conhecimento e acelerou o progresso intelectual na Europa. Sabia que o primeiro livro impresso foi uma Bíblia em latim, conhecida como a Bíblia de Gutenberg?",
+    "palavras_chave": ["imprensa", "gutenberg", "livros", "ciência", "conhecimento"]
+  },
+  {
+    "pergunta": "Quem foi Francis Bacon e qual foi sua contribuição para o método científico?",
+    "resposta": "Francis Bacon foi um filósofo inglês que defendeu a observação empírica e a experimentação como bases da ciência. Seu pensamento ajudou a estruturar o método científico moderno. Sabia que ele comparava o cientista a um ‘caçador de verdades’, guiado pela razão?",
+    "palavras_chave": ["francis bacon", "método científico", "empirismo", "filosofia", "ciência"]
+  },
+  {
+    "pergunta": "Como a teoria heliocêntrica alterou a visão do ser humano sobre o universo?",
+    "resposta": "A teoria heliocêntrica tirou o ser humano do centro do universo e colocou o Sol como referência, abalando crenças religiosas e filosóficas. Foi um choque cultural que incentivou novas formas de pensar. Sabia que essa mudança é considerada o início da 'revolução do pensamento moderno'?",
+    "palavras_chave": ["heliocentrismo", "copérnico", "universo", "ciência", "filosofia"]
+  },
+  {
+    "pergunta": "Qual a importância da física newtoniana para o desenvolvimento tecnológico?",
+    "resposta": "A física de Newton forneceu as bases matemáticas para o funcionamento de máquinas, pontes e sistemas mecânicos. Ela guiou a engenharia e a tecnologia por mais de dois séculos. Sabia que os cálculos de Newton ainda são usados na aviação e na construção civil?",
+    "palavras_chave": ["newton", "física", "engenharia", "tecnologia", "mecânica"]
+  },
+  {
+    "pergunta": "Como a observação astronômica transformou o conhecimento humano?",
+    "resposta": "A observação astronômica levou à descoberta de planetas, leis do movimento e dimensões cósmicas impensáveis. A invenção do telescópio foi um divisor de águas nesse processo. Sabia que Galileu conseguiu observar manchas solares e comprovar que o Sol não era perfeito?",
+    "palavras_chave": ["astronomia", "telescópio", "galileu", "universo", "descoberta"]
+  },
+  {
+    "pergunta": "O que foram as academias científicas e qual seu papel na Revolução Científica?",
+    "resposta": "As academias científicas, como a Royal Society de Londres, criaram um espaço institucional para a troca de ideias e experimentos. Elas consolidaram a ciência como atividade colaborativa. Sabia que o lema da Royal Society é 'Nullius in verba', ou 'Não acredite em palavras', defendendo a prova empírica?",
+    "palavras_chave": ["academias científicas", "royal society", "ciência", "colaboração", "revolução científica"]
+  },
+  {
+    "pergunta": "Quem foi René Descartes e como ele influenciou o pensamento científico?",
+    "resposta": "Descartes propôs a dúvida como método e a razão como caminho para o conhecimento verdadeiro. Sua frase 'Penso, logo existo' simboliza o racionalismo moderno. Sabia que ele também tentou criar uma teoria física baseada em vórtices no espaço?",
+    "palavras_chave": ["descartes", "racionalismo", "filosofia", "ciência", "razão"]
+  },
+  {
+    "pergunta": "Como as descobertas de Kepler contribuíram para a astronomia moderna?",
+    "resposta": "Kepler descobriu que os planetas se movem em órbitas elípticas, e não circulares, como se acreditava. Suas leis do movimento planetário foram fundamentais para Newton. Sabia que Kepler também escreveu sobre a possibilidade de vida em outros planetas?",
+    "palavras_chave": ["kepler", "astronomia", "órbitas", "planetas", "ciência"]
+  },
+  {
+    "pergunta": "O que caracterizou o surgimento do pensamento científico moderno?",
+    "resposta": "O pensamento científico moderno surgiu com a valorização da razão, da observação e do método experimental, rompendo com a tradição escolástica medieval. Sabia que esse processo foi tão profundo que mudou até a linguagem e o ensino nas universidades?",
+    "palavras_chave": ["pensamento científico", "método", "razão", "experiência", "ciência moderna"]
+  },
+  {
+    "pergunta": "Como a Revolução Industrial estimulou o desenvolvimento da ciência aplicada?",
+    "resposta": "A Revolução Industrial exigiu novas tecnologias e processos, incentivando pesquisas em física, química e engenharia. Foi o início da ciência voltada para a produção. Sabia que a invenção do motor elétrico e da locomotiva nasceram desse contexto?",
+    "palavras_chave": ["revolução industrial", "ciência aplicada", "tecnologia", "indústria", "engenharia"]
+  },
+  {
+    "pergunta": "Qual foi o impacto da Revolução Científica nas artes e na cultura?",
+    "resposta": "A arte passou a valorizar a perspectiva, a proporção e o realismo, refletindo o novo olhar racional e observador sobre o mundo. Sabia que a própria pintura renascentista serviu como laboratório de ótica e anatomia?",
+    "palavras_chave": ["arte", "ciência", "renascimento", "cultura", "observação"]
+  },
+  {
+    "pergunta": "Como a química surgiu como ciência independente durante o século XVIII?",
+    "resposta": "Durante o século XVIII, cientistas como Lavoisier definiram leis fundamentais, como a da conservação da massa, e substituíram a alquimia por experimentos controlados. Sabia que Lavoisier também ajudou a padronizar a nomenclatura química que usamos até hoje?",
+    "palavras_chave": ["química", "lavoisier", "ciência", "século xviii", "alquimia"]
+  },
+  {
+    "pergunta": "Por que o século XVII é considerado o 'século da razão'?",
+    "resposta": "O século XVII foi marcado pelo predomínio do racionalismo, da ciência experimental e da valorização do pensamento lógico. Sabia que, nesse período, a astronomia e a física se tornaram símbolos do progresso humano?",
+    "palavras_chave": ["século xvii", "razão", "ciência", "filosofia", "racionalismo"]
+  },
+  {
+    "pergunta": "Como a descoberta da eletricidade transformou o mundo moderno?",
+    "resposta": "A eletricidade revolucionou a vida cotidiana, impulsionando invenções como o telégrafo, a lâmpada e o motor elétrico. Ela possibilitou o avanço da comunicação, do transporte e da indústria. Sabia que Benjamin Franklin foi um dos primeiros a estudar os raios e demonstrar que eram descargas elétricas naturais?",
+    "palavras_chave": ["eletricidade", "benjamin franklin", "invenções", "comunicação", "indústria"]
+  },
+  {
+    "pergunta": "Quem foi James Watt e por que sua invenção foi tão importante?",
+    "resposta": "James Watt aperfeiçoou a máquina a vapor no século XVIII, tornando-a mais eficiente e adaptável às fábricas. Sua inovação foi essencial para o crescimento industrial e para o transporte ferroviário. Sabia que a unidade de potência 'watt' recebeu esse nome em sua homenagem?",
+    "palavras_chave": ["james watt", "máquina a vapor", "revolução industrial", "energia", "transporte"]
+  },
+  {
+    "pergunta": "Qual foi o papel de Charles Darwin na ciência moderna?",
+    "resposta": "Charles Darwin revolucionou a biologia ao propor a teoria da evolução por seleção natural, explicando como as espécies se adaptam e se transformam ao longo do tempo. Sabia que sua obra 'A Origem das Espécies', de 1859, causou grande controvérsia entre cientistas e religiosos?",
+    "palavras_chave": ["charles darwin", "evolução", "biologia", "seleção natural", "espécies"]
+  },
+  {
+    "pergunta": "Como o telégrafo mudou a comunicação no século XIX?",
+    "resposta": "O telégrafo permitiu o envio rápido de mensagens a longas distâncias, ligando cidades e países pela primeira vez. Ele revolucionou o jornalismo e o comércio. Sabia que a primeira mensagem telegráfica, enviada em 1844, dizia 'O que Deus fez'?",
+    "palavras_chave": ["telégrafo", "comunicação", "século xix", "invenções", "mensagens"]
+  },
+  {
+    "pergunta": "O que foi o Iluminismo científico?",
+    "resposta": "O Iluminismo científico foi a união entre filosofia e ciência para promover o progresso humano. Pensadores como Voltaire e Diderot acreditavam que o conhecimento racional poderia libertar as pessoas da ignorância. Sabia que a 'Enciclopédia' de Diderot foi criada para reunir todo o saber da época?",
+    "palavras_chave": ["iluminismo", "ciência", "enciclopédia", "razão", "século xviii"]
+  },
+  {
+    "pergunta": "Como a Revolução Industrial influenciou a urbanização?",
+    "resposta": "A Revolução Industrial levou milhões de pessoas a migrarem para cidades em busca de trabalho nas fábricas. Isso criou novas formas de vida urbana e também grandes desafios sociais. Sabia que cidades como Manchester e Londres dobraram de tamanho em poucas décadas?",
+    "palavras_chave": ["revolução industrial", "urbanização", "fábricas", "trabalho", "século xix"]
+  },
+  {
+    "pergunta": "Quem foi Marie Curie e por que ela é uma figura tão importante na história da ciência?",
+    "resposta": "Marie Curie foi pioneira nos estudos da radioatividade, descobrindo os elementos polônio e rádio. Ela foi a primeira pessoa a ganhar dois Prêmios Nobel em áreas diferentes, Física e Química. Sabia que trabalhou em condições tão precárias que sua pesquisa chegou a causar sérios danos à sua saúde?",
+    "palavras_chave": ["marie curie", "radioatividade", "ciência", "química", "física"]
+  },
+  {
+    "pergunta": "Como o surgimento das ferrovias alterou a economia mundial?",
+    "resposta": "As ferrovias reduziram o tempo de transporte de mercadorias e pessoas, facilitando o comércio e a expansão industrial. Sabia que, no século XIX, a ferrovia era vista como o símbolo máximo do progresso humano?",
+    "palavras_chave": ["ferrovias", "transporte", "economia", "século xix", "progresso"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Agrícola moderna?",
+    "resposta": "A Revolução Agrícola dos séculos XVIII e XIX introduziu máquinas, fertilizantes e novas técnicas de cultivo, aumentando a produtividade no campo. Sabia que a invenção da colheitadeira e do arado de ferro mudou completamente a vida rural?",
+    "palavras_chave": ["revolução agrícola", "tecnologia", "produção", "campo", "século xix"]
+  },
+  {
+    "pergunta": "Como o pensamento positivista influenciou a ciência e a sociedade?",
+    "resposta": "O positivismo, formulado por Auguste Comte, defendia que o conhecimento verdadeiro vinha apenas da observação científica. Essa filosofia influenciou governos e reformas sociais em todo o mundo. Sabia que o lema 'Ordem e Progresso' da bandeira brasileira vem do pensamento positivista?",
+    "palavras_chave": ["positivismo", "auguste comte", "ciência", "ordem e progresso", "filosofia"]
+  },
+  {
+    "pergunta": "Quem foi Thomas Edison e quais foram suas principais invenções?",
+    "resposta": "Edison foi um inventor norte-americano responsável por inovações como a lâmpada elétrica, o fonógrafo e o cinema. Sua criatividade ajudou a moldar o mundo moderno. Sabia que ele registrou mais de mil patentes durante sua vida?",
+    "palavras_chave": ["thomas edison", "invenções", "lâmpada", "fonógrafo", "cinema"]
+  },
+  {
+    "pergunta": "O que representou a invenção do motor de combustão interna?",
+    "resposta": "O motor de combustão interna permitiu o surgimento dos automóveis e da aviação, transformando completamente o transporte. Sabia que Karl Benz foi o primeiro a construir um carro com esse tipo de motor em 1885?",
+    "palavras_chave": ["motor", "combustão interna", "automóvel", "transporte", "indústria"]
+  },
+  {
+    "pergunta": "Como a fotografia mudou a forma de registrar o mundo?",
+    "resposta": "A fotografia, inventada no século XIX, tornou possível capturar imagens reais e preservar momentos históricos. Sabia que as primeiras câmeras exigiam longas exposições de luz, às vezes de até 15 minutos?",
+    "palavras_chave": ["fotografia", "invenção", "século xix", "imagem", "história"]
+  },
+  {
+    "pergunta": "Qual foi a importância do magnetismo e do eletromagnetismo para a ciência?",
+    "resposta": "O estudo do eletromagnetismo revelou a relação entre eletricidade e magnetismo, base para motores, geradores e telecomunicações. Sabia que Michael Faraday foi quem primeiro demonstrou a indução magnética, princípio dos geradores elétricos modernos?",
+    "palavras_chave": ["eletromagnetismo", "faraday", "ciência", "eletricidade", "magnetismo"]
+  },
+  {
+    "pergunta": "Como a Revolução Científica influenciou as invenções do século XIX?",
+    "resposta": "Os princípios estabelecidos por cientistas dos séculos anteriores inspiraram engenheiros e inventores do século XIX. A aplicação prática da física e da química deu origem à tecnologia moderna. Sabia que essa transição marcou o nascimento da engenharia como profissão?",
+    "palavras_chave": ["revolução científica", "século xix", "engenharia", "tecnologia", "ciência"]
+  },
+  {
+    "pergunta": "Quem foi Louis Pasteur e o que ele descobriu?",
+    "resposta": "Louis Pasteur foi um cientista francês que desenvolveu a pasteurização e criou vacinas contra doenças como a raiva. Suas descobertas transformaram a medicina e a segurança alimentar. Sabia que sua teoria dos germes foi inicialmente rejeitada por muitos médicos?",
+    "palavras_chave": ["louis pasteur", "vacina", "germes", "ciência", "medicina"]
+  },
+  {
+    "pergunta": "Como a química industrial mudou o mundo moderno?",
+    "resposta": "A química industrial criou novos materiais, como plásticos, corantes e fertilizantes, transformando a economia e o consumo. Sabia que o desenvolvimento do aço e do cimento moderno também nasceu nesse contexto?",
+    "palavras_chave": ["química industrial", "materiais", "plásticos", "indústria", "século xix"]
+  },
+  {
+    "pergunta": "Por que o século XIX é conhecido como o século das invenções?",
+    "resposta": "O século XIX foi um período de intensa criatividade tecnológica, com o surgimento de máquinas, transporte rápido e novos meios de comunicação. Sabia que muitas das invenções desse século ainda são a base da tecnologia atual?",
+    "palavras_chave": ["século xix", "invenções", "tecnologia", "ciência", "progresso"]
+  },
+  {
+    "pergunta": "Qual foi o impacto da teoria da evolução nas outras áreas do conhecimento?",
+    "resposta": "A teoria da evolução influenciou não só a biologia, mas também a filosofia, a psicologia e até a sociologia, ao introduzir a ideia de adaptação e mudança. Sabia que até a economia usou analogias evolutivas para explicar o mercado?",
+    "palavras_chave": ["evolução", "darwin", "biologia", "sociedade", "ciência"]
+  },
+  {
+    "pergunta": "Como o avanço dos transportes transformou a globalização do século XIX?",
+    "resposta": "Com trens, navios a vapor e telégrafos, o mundo se conectou como nunca antes. O comércio e as migrações aumentaram, aproximando culturas e economias. Sabia que as primeiras linhas de trem intercontinentais uniram o Atlântico ao Pacífico?",
+    "palavras_chave": ["transporte", "globalização", "século xix", "navios", "trens"]
+  }
+]

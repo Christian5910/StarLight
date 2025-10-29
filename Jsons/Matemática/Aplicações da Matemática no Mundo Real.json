@@ -1,0 +1,512 @@
+[
+  {
+    "pergunta": "Como a matemática é usada na construção civil?",
+    "resposta": "Na construção civil, a matemática aparece em praticamente todas as etapas: do cálculo de áreas e volumes à definição de proporções e ângulos para garantir estabilidade. Engenheiros e arquitetos usam geometria e trigonometria para projetar estruturas seguras e eficientes. Sabia que os antigos egípcios já usavam conceitos de geometria para alinhar as pirâmides com precisão surpreendente?",
+    "palavras_chave": ["geometria", "trigonometria", "engenharia", "proporções", "pirâmides"]
+  },
+  {
+    "pergunta": "De que forma a matemática está presente nas finanças pessoais?",
+    "resposta": "A matemática é essencial no controle financeiro: ajuda a entender juros, porcentagens, investimentos e até o impacto de parcelamentos. Saber calcular o rendimento de uma poupança ou o custo total de um empréstimo é aplicar matemática no dia a dia. Sabia que a ideia de juros compostos já era usada por mercadores na Mesopotâmia há mais de 4 mil anos?",
+    "palavras_chave": ["juros", "finanças", "porcentagem", "investimento", "empréstimo"]
+  },
+  {
+    "pergunta": "Por que a estatística é tão importante na medicina?",
+    "resposta": "A estatística ajuda médicos e pesquisadores a interpretar dados de experimentos e identificar padrões de doenças. É ela que permite comprovar a eficácia de vacinas e tratamentos. Sem a matemática, seria impossível validar cientificamente um medicamento. Sabia que Florence Nightingale, considerada pioneira da enfermagem moderna, também foi uma das primeiras a usar gráficos estatísticos para salvar vidas?",
+    "palavras_chave": ["estatística", "medicina", "pesquisa", "vacinas", "florence nightingale"]
+  },
+  {
+    "pergunta": "Como a matemática influencia o design gráfico?",
+    "resposta": "No design gráfico, a matemática está nas proporções, nos alinhamentos e até nas cores. A proporção áurea, por exemplo, é usada para criar composições equilibradas e visualmente agradáveis. Sabia que artistas do Renascimento, como Leonardo da Vinci, usavam essa proporção em pinturas como a Mona Lisa?",
+    "palavras_chave": ["design", "proporção áurea", "leonardo da vinci", "composição", "geometria"]
+  },
+  {
+    "pergunta": "O que a matemática tem a ver com a música?",
+    "resposta": "A música é pura matemática em movimento: ritmo, tempo e harmonia seguem padrões numéricos. As escalas musicais, por exemplo, são baseadas em razões matemáticas que determinam a altura dos sons. Sabia que Pitágoras foi o primeiro a descobrir que os intervalos musicais podiam ser descritos por proporções simples?",
+    "palavras_chave": ["música", "ritmo", "harmonia", "pitágoras", "proporção"]
+  },
+  {
+    "pergunta": "Como os meteorologistas usam matemática para prever o tempo?",
+    "resposta": "Os meteorologistas utilizam modelos matemáticos que processam enormes quantidades de dados, como temperatura, pressão e umidade. Esses modelos preveem o comportamento da atmosfera e ajudam a antecipar chuvas e tempestades. Sabia que os primeiros modelos de previsão do tempo surgiram durante a Segunda Guerra Mundial?",
+    "palavras_chave": ["meteorologia", "modelos", "previsão", "atmosfera", "dados"]
+  },
+  {
+    "pergunta": "Por que a matemática é fundamental na robótica?",
+    "resposta": "Na robótica, a matemática controla o movimento, o equilíbrio e até a tomada de decisões dos robôs. Equações e algoritmos determinam como cada peça deve se mover com precisão. Sabia que os robôs industriais modernos conseguem calcular sua trajetória milhares de vezes por segundo?",
+    "palavras_chave": ["robótica", "algoritmos", "movimento", "equações", "precisão"]
+  },
+  {
+    "pergunta": "Como a matemática ajuda a melhorar os transportes urbanos?",
+    "resposta": "Modelos matemáticos são usados para otimizar rotas, reduzir congestionamentos e planejar horários de transporte público. A análise de dados permite prever o fluxo de veículos em diferentes horários. Sabia que algumas cidades usam inteligência artificial baseada em cálculos estatísticos para ajustar semáforos em tempo real?",
+    "palavras_chave": ["transportes", "modelos", "otimização", "estatística", "inteligência artificial"]
+  },
+  {
+    "pergunta": "De que forma a matemática é aplicada nos esportes?",
+    "resposta": "A matemática está presente na análise de desempenho, nos cálculos de velocidade e até na estratégia de jogo. Estatísticos esportivos usam dados para prever resultados e melhorar o treinamento de atletas. Sabia que até o ângulo ideal para bater um pênalti pode ser calculado com base em leis da física e da trigonometria?",
+    "palavras_chave": ["esportes", "desempenho", "estatística", "física", "trigonometria"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na economia global?",
+    "resposta": "A economia usa modelos matemáticos para entender o comportamento dos mercados, prever crises e planejar políticas públicas. As equações ajudam a representar o equilíbrio entre oferta e demanda. Sabia que muitos economistas premiados com o Nobel são, na verdade, matemáticos de formação?",
+    "palavras_chave": ["economia", "modelos", "mercado", "equilíbrio", "nobel"]
+  },
+  {
+    "pergunta": "O que a matemática tem a ver com jogos eletrônicos?",
+    "resposta": "Os jogos digitais são programados com base em algoritmos matemáticos que controlam física, movimento e inteligência artificial. A geometria 3D define os espaços e os ângulos de visão. Sabia que até o realismo das sombras nos games é resultado de cálculos complexos de luz e ângulo?",
+    "palavras_chave": ["jogos", "algoritmos", "geometria", "inteligência artificial", "física"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na agricultura moderna?",
+    "resposta": "Agrônomos usam matemática para calcular produtividade, controlar irrigação e planejar o uso do solo. A análise de dados ajuda a prever safras e evitar desperdícios. Sabia que sensores em fazendas inteligentes coletam informações matemáticas em tempo real sobre o crescimento das plantas?",
+    "palavras_chave": ["agricultura", "produtividade", "dados", "sensores", "irrigação"]
+  },
+  {
+    "pergunta": "De que maneira a matemática é aplicada na arquitetura?",
+    "resposta": "Arquitetos usam matemática para planejar proporções, calcular estruturas e distribuir espaços. A geometria garante harmonia e segurança nos projetos. Sabia que o Panteão de Roma foi construído com base em proporções matemáticas perfeitas há quase dois mil anos?",
+    "palavras_chave": ["arquitetura", "geometria", "proporção", "estrutura", "panteão"]
+  },
+  {
+    "pergunta": "Como a matemática contribui para a segurança digital?",
+    "resposta": "A criptografia, base da segurança digital, é inteiramente sustentada por conceitos matemáticos, especialmente teoria dos números e álgebra. Ela protege senhas, mensagens e transações online. Sabia que a criptografia moderna depende da dificuldade de fatorar números muito grandes?",
+    "palavras_chave": ["criptografia", "segurança", "álgebra", "teoria dos números", "internet"]
+  },
+  {
+    "pergunta": "Por que a matemática é essencial na astronomia?",
+    "resposta": "Astrônomos usam matemática para calcular distâncias entre planetas, trajetórias orbitais e o tamanho das estrelas. Equações descrevem os movimentos do universo. Sabia que Johannes Kepler descobriu as leis do movimento planetário com base em milhares de cálculos manuais?",
+    "palavras_chave": ["astronomia", "órbitas", "kepler", "distâncias", "equações"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada na arte?",
+    "resposta": "A matemática aparece na arte por meio da simetria, da perspectiva e das proporções. Artistas como Escher exploraram padrões geométricos para criar ilusões visuais. Sabia que muitos mosaicos islâmicos seguem estruturas matemáticas complexas sem repetirem exatamente um desenho?",
+    "palavras_chave": ["arte", "simetria", "perspectiva", "escher", "geometria"]
+  },
+  {
+    "pergunta": "Como os bancos usam matemática no dia a dia?",
+    "resposta": "Os bancos dependem de modelos matemáticos para calcular juros, riscos de crédito e previsões de mercado. Cada empréstimo, investimento ou seguro passa por cálculos precisos. Sabia que até os caixas eletrônicos usam algoritmos matemáticos para evitar fraudes?",
+    "palavras_chave": ["bancos", "juros", "crédito", "modelos", "riscos"]
+  },
+  {
+    "pergunta": "O que a matemática tem a ver com a internet?",
+    "resposta": "A internet funciona graças a algoritmos e cálculos matemáticos que codificam, comprimem e transmitem dados. Sem matemática, não haveria conexão segura nem busca eficiente. Sabia que o algoritmo do Google foi criado com base em conceitos de álgebra linear?",
+    "palavras_chave": ["internet", "algoritmos", "dados", "google", "álgebra"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na culinária?",
+    "resposta": "Medidas, proporções e tempos de cozimento dependem de matemática. Converter receitas e ajustar porções é aplicar frações e razões na prática. Sabia que chefs profissionais treinam cálculo de proporção para manter o sabor idêntico em grandes quantidades?",
+    "palavras_chave": ["culinária", "proporções", "frações", "medidas", "razões"]
+  },
+  {
+    "pergunta": "De que forma a matemática ajuda no planejamento urbano?",
+    "resposta": "Urbanistas usam matemática para modelar o crescimento das cidades, distribuir serviços e planejar o trânsito. O cálculo populacional orienta políticas públicas e infraestrutura. Sabia que alguns modelos urbanos se inspiram na geometria das colmeias de abelhas?",
+    "palavras_chave": ["urbanismo", "planejamento", "população", "infraestrutura", "modelos"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na aviação?",
+    "resposta": "Pilotos e engenheiros aeronáuticos usam matemática para calcular rotas, consumo de combustível e altitude ideal. Tudo depende de equações e medições exatas. Sabia que um pequeno erro de cálculo pode desviar uma aeronave por dezenas de quilômetros?",
+    "palavras_chave": ["aviação", "rotas", "combustível", "engenharia", "medições"]
+  },
+  {
+    "pergunta": "Por que a matemática é essencial na engenharia civil?",
+    "resposta": "A engenharia civil depende de cálculos estruturais, medidas precisas e análise de forças. A matemática garante que pontes e edifícios suportem o peso e resistam a ventos e abalos. Sabia que o cálculo diferencial é usado para prever deformações em estruturas metálicas?",
+    "palavras_chave": ["engenharia", "estruturas", "forças", "cálculo", "pontes"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada em pesquisas de opinião?",
+    "resposta": "Pesquisas de opinião usam amostragem e estatística para representar o comportamento de grandes grupos. A margem de erro é um cálculo matemático essencial para avaliar a confiabilidade dos resultados. Sabia que até o número de entrevistados é definido por fórmulas estatísticas?",
+    "palavras_chave": ["pesquisa", "estatística", "amostragem", "margem de erro", "dados"]
+  },
+  {
+    "pergunta": "O que a matemática tem a ver com a inteligência artificial?",
+    "resposta": "A base da inteligência artificial é puramente matemática. Algoritmos, funções e matrizes ajudam as máquinas a aprender padrões e tomar decisões. Sabia que redes neurais artificiais imitam o cérebro humano por meio de equações matemáticas?",
+    "palavras_chave": ["inteligência artificial", "algoritmos", "funções", "matrizes", "redes neurais"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na fabricação de roupas?",
+    "resposta": "Na moda, a matemática aparece no corte de tecidos, nas proporções dos moldes e até na modelagem 3D de peças. Ela garante precisão e aproveitamento de material. Sabia que softwares de moda usam geometria computacional para simular o caimento das roupas?",
+    "palavras_chave": ["moda", "geometria", "proporção", "modelagem", "tecidos"]
+  },
+  {
+    "pergunta": "Por que a matemática é indispensável na ciência de dados?",
+    "resposta": "A ciência de dados depende de estatística, álgebra linear e cálculo para transformar informações em conhecimento útil. É a matemática que permite prever tendências e entender comportamentos. Sabia que até plataformas de streaming usam modelos matemáticos para recomendar filmes?",
+    "palavras_chave": ["ciência de dados", "estatística", "álgebra", "tendências", "previsões"]
+  },
+  {
+    "pergunta": "Como a matemática ajuda no controle de estoques em empresas?",
+    "resposta": "Empresas usam matemática para calcular quantidades ideais de produtos, evitar falta ou excesso e planejar reposições. Conceitos como médias, projeções e algoritmos de otimização são essenciais. Sabia que supermercados usam sistemas matemáticos que preveem vendas semanais com base em dados históricos?",
+    "palavras_chave": ["estoque", "projeção", "algoritmos", "média", "planejamento"]
+  },
+  {
+    "pergunta": "De que maneira a matemática é aplicada na logística?",
+    "resposta": "Na logística, cálculos de rotas, distâncias e tempo de transporte são fundamentais para eficiência. A matemática também ajuda a otimizar custos e recursos. Sabia que empresas de entrega usam algoritmos complexos para decidir a rota mais rápida entre centenas de pontos?",
+    "palavras_chave": ["logística", "rotas", "otimização", "custos", "algoritmos"]
+  },
+  {
+    "pergunta": "Como a matemática é usada em pesquisas climáticas?",
+    "resposta": "Pesquisadores usam equações e modelos matemáticos para simular mudanças climáticas, prever desastres naturais e estudar padrões de temperatura e precipitação. Sabia que essas previsões dependem de milhares de cálculos por segundo em supercomputadores?",
+    "palavras_chave": ["clima", "modelos", "simulação", "temperatura", "supercomputadores"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada em controles de qualidade industrial?",
+    "resposta": "Matemática ajuda a monitorar processos de produção, identificar defeitos e reduzir desperdícios usando estatística e probabilidades. Sabia que fábricas de automóveis usam gráficos de controle para garantir que cada carro saia dentro dos padrões?",
+    "palavras_chave": ["qualidade", "produção", "estatística", "controle", "desperdício"]
+  },
+  {
+    "pergunta": "Como a matemática influencia o marketing digital?",
+    "resposta": "No marketing digital, a matemática analisa dados de comportamento de usuários, segmenta públicos e mede retorno de campanhas. Sabia que plataformas como Google Ads usam modelos matemáticos para definir quais anúncios aparecem para cada usuário?",
+    "palavras_chave": ["marketing", "digital", "dados", "segmentação", "campanhas"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada na engenharia elétrica?",
+    "resposta": "Engenheiros elétricos usam álgebra, trigonometria e cálculo para projetar circuitos, prever correntes e tensões e garantir segurança. Sabia que os cálculos de energia elétrica em casas são baseados em fórmulas matemáticas simples que todo eletricista conhece?",
+    "palavras_chave": ["engenharia elétrica", "circuitos", "cálculo", "corrente", "tensão"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia na previsão de demanda de energia?",
+    "resposta": "Matemática permite analisar padrões de consumo, prever picos de demanda e planejar produção de energia. Sabia que modelos estatísticos ajudam a evitar apagões e otimizar o uso de fontes renováveis?",
+    "palavras_chave": ["energia", "demanda", "previsão", "estatística", "renováveis"]
+  },
+  {
+    "pergunta": "Como a matemática é usada em geografia e cartografia?",
+    "resposta": "Geógrafos e cartógrafos usam matemática para medir distâncias, calcular áreas e representar mapas precisos. Coordenadas e projeções cartográficas dependem de álgebra e geometria. Sabia que a projeção de Mercator, criada em 1569, ainda é usada em muitos mapas hoje?",
+    "palavras_chave": ["geografia", "cartografia", "coordenadas", "geometria", "mapas"]
+  },
+  {
+    "pergunta": "Como a matemática contribui para a inteligência de tráfego?",
+    "resposta": "Modelos matemáticos ajudam a prever congestionamentos e otimizar semáforos e rotas. Sabia que algumas cidades usam aprendizado de máquina baseado em estatística para reduzir em até 30% o tempo médio de deslocamento?",
+    "palavras_chave": ["tráfego", "modelos", "estatística", "otimização", "deslocamento"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada em engenharia mecânica?",
+    "resposta": "Engenheiros mecânicos usam cálculo, álgebra e física para projetar máquinas, estimar forças e prever falhas. Sabia que até o movimento de engrenagens simples envolve equações matemáticas complexas?",
+    "palavras_chave": ["engenharia mecânica", "força", "cálculo", "máquinas", "engrenagens"]
+  },
+  {
+    "pergunta": "Como a matemática é usada em seguros?",
+    "resposta": "Companhias de seguros aplicam estatística e probabilidade para avaliar riscos, definir preços e calcular indenizações. Sabia que o conceito de seguro moderno nasceu do cálculo de probabilidades por matemáticos no século XVII?",
+    "palavras_chave": ["seguros", "probabilidade", "estatística", "risco", "indenização"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia em investimentos financeiros?",
+    "resposta": "Matemática financeira calcula juros, rendimentos e riscos de investimentos, permitindo decisões mais seguras. Sabia que o conceito de valor presente foi desenvolvido para comparar diferentes fluxos de caixa ao longo do tempo?",
+    "palavras_chave": ["investimentos", "juros", "rendimento", "valor presente", "risco"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada em transportes marítimos?",
+    "resposta": "Cálculos de velocidade, rota, consumo de combustível e estabilidade dependem de álgebra e trigonometria. Sabia que navios de grande porte usam simulações matemáticas para evitar colisões e garantir eficiência?",
+    "palavras_chave": ["marítimo", "rota", "velocidade", "consumo", "simulação"]
+  },
+  {
+    "pergunta": "Como a matemática ajuda na navegação aérea?",
+    "resposta": "Pilotos e controladores usam geometria, trigonometria e álgebra para planejar rotas, calcular altitudes e estimar tempos de voo. Sabia que a aviação comercial depende de modelos matemáticos para evitar colisões e economizar combustível?",
+    "palavras_chave": ["aviação", "navegação", "trigonometria", "geometria", "rota"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na análise de redes sociais?",
+    "resposta": "Matemática, especialmente teoria de grafos e estatística, ajuda a entender conexões, identificar influenciadores e prever tendências. Sabia que plataformas como Facebook e Twitter analisam milhões de conexões diariamente com cálculos matemáticos?",
+    "palavras_chave": ["redes sociais", "grafos", "estatística", "conexões", "tendências"]
+  },
+  {
+    "pergunta": "Como a matemática ajuda na previsão de epidemias?",
+    "resposta": "Modelos matemáticos simulam a propagação de doenças, avaliam impacto de vacinas e medidas de controle. Sabia que durante a pandemia de COVID-19, fórmulas matemáticas foram essenciais para decisões de quarentena e restrições?",
+    "palavras_chave": ["epidemias", "modelos", "vacinas", "simulação", "controle"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia na indústria automobilística?",
+    "resposta": "Na fabricação de carros, matemática calcula resistência de materiais, consumo de combustível e aerodinâmica. Sabia que até o design de carrocerias é otimizado com equações matemáticas para reduzir arrasto e melhorar performance?",
+    "palavras_chave": ["automobilística", "aerodinâmica", "resistência", "materiais", "design"]
+  },
+  {
+    "pergunta": "Como a matemática contribui para a logística hospitalar?",
+    "resposta": "Cálculos de estoque de medicamentos, escalas de plantão e previsão de pacientes dependem de matemática. Sabia que hospitais usam algoritmos para organizar leitos e reduzir tempos de espera em emergências?",
+    "palavras_chave": ["hospitais", "logística", "algoritmos", "estoque", "previsão"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na climatologia?",
+    "resposta": "Modelos matemáticos ajudam a prever fenômenos climáticos, analisar mudanças e entender padrões sazonais. Sabia que até a previsão de furacões depende de cálculos complexos de pressão e temperatura?",
+    "palavras_chave": ["climatologia", "modelos", "fenômenos", "temperatura", "pressão"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada no comércio eletrônico?",
+    "resposta": "Plataformas de e-commerce usam matemática para recomendar produtos, calcular fretes e prever estoques. Sabia que algoritmos matemáticos personalizados aumentam vendas ao sugerir produtos que cada usuário tem mais chance de comprar?",
+    "palavras_chave": ["e-commerce", "algoritmos", "recomendação", "estoque", "frete"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na indústria alimentícia?",
+    "resposta": "Na indústria alimentícia, cálculos de proporções, tempo de cozimento, peso e distribuição de ingredientes dependem de matemática. Sabia que grandes fábricas usam algoritmos para padronizar produtos em escala industrial?",
+    "palavras_chave": ["alimentícia", "proporções", "tempo", "peso", "algoritmos"]
+  },
+  {
+    "pergunta": "Como a matemática ajuda no planejamento de eventos?",
+    "resposta": "Organizadores usam cálculos para estimar público, alocar espaços, calcular custos e definir logística. Sabia que até o posicionamento de cadeiras e palcos pode ser otimizado com geometria e trigonometria?",
+    "palavras_chave": ["eventos", "planejamento", "logística", "cálculos", "geometria"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia no transporte ferroviário?",
+    "resposta": "Matemática é usada para calcular horários, rotas e segurança dos trens. Sabia que sistemas de controle ferroviário dependem de algoritmos para evitar colisões e otimizar horários de partidas e chegadas?",
+    "palavras_chave": ["ferroviário", "rotas", "algoritmos", "segurança", "horários"]
+  },
+  {
+    "pergunta": "Como a matemática ajuda na análise de consumo de energia doméstica?",
+    "resposta": "Matemática permite calcular gasto de energia, identificar desperdícios e planejar economia. Sabia que medidores inteligentes usam algoritmos para enviar relatórios precisos de consumo em tempo real?",
+    "palavras_chave": ["energia", "consumo", "algoritmos", "medidores", "economia"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada em pesquisas de opinião pública?",
+    "resposta": "Pesquisas usam estatística e amostragem para inferir opiniões de grandes populações. Sabia que calcular corretamente a margem de erro é essencial para que os resultados reflitam a realidade?",
+    "palavras_chave": ["pesquisa", "opinião", "estatística", "amostragem", "margem de erro"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na agricultura de precisão?",
+    "resposta": "Na agricultura de precisão, sensores e drones coletam dados que são analisados com matemática para otimizar irrigação, adubação e plantio. Sabia que isso pode aumentar a produtividade em até 20% e reduzir desperdícios?",
+    "palavras_chave": ["agricultura", "precisão", "sensores", "drones", "produtividade"]
+  },
+  {
+    "pergunta": "Como a matemática ajuda na previsão de estoques de supermercados?",
+    "resposta": "Supermercados usam modelos matemáticos para prever demanda e evitar falta ou excesso de produtos. Sabia que eles usam histórico de vendas, sazonalidade e feriados para ajustar os pedidos automaticamente?",
+    "palavras_chave": ["supermercado", "estoque", "demanda", "modelos", "sazonalidade"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada na engenharia de tráfego ferroviário?",
+    "resposta": "Cálculos de tempo, distância e velocidade ajudam a coordenar trens e evitar colisões. Sabia que algoritmos determinam o melhor intervalo entre composições para aumentar a capacidade das linhas?",
+    "palavras_chave": ["ferrovia", "tráfego", "algoritmos", "distância", "velocidade"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na análise de investimentos em ações?",
+    "resposta": "Investidores usam matemática para calcular riscos, prever tendências e otimizar carteiras. Sabia que fórmulas como o valor presente líquido ajudam a comparar oportunidades de investimento?",
+    "palavras_chave": ["investimentos", "ações", "risco", "tendências", "valor presente"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia na logística de transporte de cargas?",
+    "resposta": "Matemática ajuda a definir rotas, horários e cargas ideais, reduzindo custos e tempo de transporte. Sabia que empresas usam algoritmos que processam milhares de possibilidades para escolher a rota mais eficiente?",
+    "palavras_chave": ["logística", "transporte", "cargas", "rotas", "algoritmos"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada em pesquisas de opinião eleitoral?",
+    "resposta": "Pesquisadores usam estatística e amostragem para prever resultados de eleições e entender tendências de voto. Sabia que a definição do tamanho da amostra depende de fórmulas matemáticas precisas?",
+    "palavras_chave": ["eleições", "estatística", "amostragem", "pesquisa", "tendências"]
+  },
+  {
+    "pergunta": "Como a matemática contribui para a segurança de senhas online?",
+    "resposta": "A matemática, especialmente a teoria dos números e a criptografia, garante que senhas sejam protegidas contra invasores. Sabia que senhas fortes dependem de cálculos matemáticos que tornam a quebra praticamente impossível?",
+    "palavras_chave": ["segurança", "senhas", "criptografia", "matemática", "teoria"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na otimização de processos industriais?",
+    "resposta": "Equações e algoritmos ajudam a reduzir desperdícios, aumentar a produtividade e melhorar a qualidade. Sabia que algumas fábricas usam simulações matemáticas para testar processos antes da produção real?",
+    "palavras_chave": ["processos", "industrial", "algoritmos", "simulação", "produtividade"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia no desenvolvimento de softwares?",
+    "resposta": "Programadores usam lógica, álgebra e estatística para criar softwares eficientes e seguros. Sabia que até a inteligência artificial nos aplicativos depende de matrizes e funções matemáticas?",
+    "palavras_chave": ["software", "programação", "álgebra", "estatística", "inteligência artificial"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada em previsões de desastres naturais?",
+    "resposta": "Modelos matemáticos analisam padrões de terremotos, tsunamis e furacões para prever ocorrências e minimizar danos. Sabia que sensores coletam dados em tempo real, permitindo cálculos rápidos de risco?",
+    "palavras_chave": ["desastres", "naturais", "modelos", "sensores", "previsão"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na indústria farmacêutica?",
+    "resposta": "Matemática é usada para calcular doses, analisar resultados de testes e otimizar processos de produção. Sabia que sem equações precisas, medicamentos poderiam ter eficácia ou segurança comprometida?",
+    "palavras_chave": ["farmacêutica", "doses", "testes", "produção", "eficácia"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia na produção cinematográfica?",
+    "resposta": "Cálculos de tempo, luz, ângulos de câmera e edição dependem de matemática para criar cenas precisas. Sabia que softwares de animação usam álgebra e geometria para movimentar personagens em 3D?",
+    "palavras_chave": ["cinema", "animação", "geometria", "álgebra", "produção"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada no planejamento de rotas de transporte público?",
+    "resposta": "Modelos matemáticos ajudam a definir horários, frequência de ônibus e rotas mais eficientes. Sabia que algumas cidades usam algoritmos para ajustar o transporte em tempo real com base no fluxo de passageiros?",
+    "palavras_chave": ["transporte público", "rotas", "algoritmos", "frequência", "planejamento"]
+  },
+  {
+    "pergunta": "Como a matemática contribui para a previsão de epidemias?",
+    "resposta": "Modelos matemáticos analisam taxas de contágio, recuperação e mortalidade para prever a propagação de doenças. Sabia que simulações ajudaram governos a planejar quarentenas durante surtos recentes?",
+    "palavras_chave": ["epidemias", "contágio", "modelos", "simulação", "saúde"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na indústria de energia?",
+    "resposta": "Equações e modelos ajudam a calcular consumo, produção e distribuição de energia elétrica. Sabia que empresas usam matemática para balancear oferta e demanda em tempo real?",
+    "palavras_chave": ["energia", "produção", "consumo", "distribuição", "modelos"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia na engenharia de sistemas de telecomunicação?",
+    "resposta": "Matemática garante transmissão de sinais, compressão de dados e segurança das redes. Sabia que algoritmos matemáticos são usados para melhorar a velocidade e reduzir erros em mensagens?",
+    "palavras_chave": ["telecomunicação", "algoritmos", "sinais", "compressão", "rede"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada na análise de big data?",
+    "resposta": "Matemática, estatística e álgebra linear transformam grandes volumes de dados em informações úteis para empresas e pesquisas. Sabia que plataformas de streaming analisam padrões de comportamento com cálculos complexos para recomendar conteúdo?",
+    "palavras_chave": ["big data", "estatística", "álgebra", "dados", "análise"]
+  },
+  {
+    "pergunta": "Como a matemática contribui para o desenvolvimento de inteligência artificial?",
+    "resposta": "Redes neurais e aprendizado de máquina dependem de equações, funções e matrizes para aprender padrões. Sabia que até reconhecimento de voz e imagens é baseado em matemática avançada?",
+    "palavras_chave": ["inteligência artificial", "redes neurais", "matriz", "função", "aprendizado"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada na indústria de aviação?",
+    "resposta": "Cálculos de aerodinâmica, combustível e trajetórias dependem de álgebra e física. Sabia que cada plano de voo é cuidadosamente calculado para maximizar segurança e economia de combustível?",
+    "palavras_chave": ["aviação", "aerodinâmica", "combustível", "trajetória", "segurança"]
+  },
+  {
+    "pergunta": "Como a matemática é usada em sistemas de recomendação online?",
+    "resposta": "Plataformas usam algoritmos e estatística para sugerir produtos, filmes ou músicas com base em comportamento do usuário. Sabia que esses cálculos podem processar milhões de dados em segundos para personalizar recomendações?",
+    "palavras_chave": ["recomendação", "algoritmos", "estatística", "usuário", "personalização"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia na engenharia de transportes urbanos?",
+    "resposta": "Matemática ajuda a planejar rotas, semáforos e horários para reduzir congestionamentos. Sabia que sistemas inteligentes de trânsito dependem de cálculos em tempo real para otimizar o fluxo de veículos?",
+    "palavras_chave": ["trânsito", "engenharia", "rotas", "semáforos", "otimização"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na indústria têxtil?",
+    "resposta": "Matemática calcula proporções de tecidos, padrões e cortes para produção eficiente. Sabia que softwares de modelagem tridimensional usam geometria para simular roupas antes da fabricação?",
+    "palavras_chave": ["têxtil", "geometria", "proporção", "corte", "produção"]
+  },
+  {
+    "pergunta": "Como a matemática contribui para o planejamento de projetos urbanos?",
+    "resposta": "Urbanistas usam cálculos de densidade, fluxos populacionais e distribuição de recursos para projetar cidades eficientes. Sabia que modelos matemáticos ajudam a evitar congestionamentos e otimizar transporte e serviços?",
+    "palavras_chave": ["urbanismo", "projeto", "densidade", "fluxo", "recursos"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia na indústria de jogos eletrônicos?",
+    "resposta": "Matemática cria gráficos 3D, física realista e inteligência artificial nos jogos. Sabia que cada movimento de personagem e colisão no ambiente virtual é calculado com equações matemáticas?",
+    "palavras_chave": ["jogos", "gráficos", "física", "inteligência artificial", "equações"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada no planejamento de rotas de entrega?",
+    "resposta": "Empresas usam algoritmos matemáticos para determinar o caminho mais rápido e econômico para entregas, considerando trânsito, distâncias e horários. Sabia que empresas de delivery usam modelos que calculam milhares de rotas em segundos para otimizar suas entregas?",
+    "palavras_chave": ["entrega", "rotas", "algoritmos", "trânsito", "otimização"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia na análise de comportamento do consumidor?",
+    "resposta": "Matemática e estatística permitem entender padrões de compra, preferências e tendências. Sabia que grandes varejistas usam essas análises para definir promoções personalizadas e aumentar vendas?",
+    "palavras_chave": ["consumidor", "estatística", "padrões", "tendências", "vendas"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na engenharia civil para prevenção de desastres?",
+    "resposta": "Engenheiros calculam forças, cargas e resistência de materiais para evitar desabamentos e acidentes. Sabia que modelos matemáticos preveem falhas em barragens e pontes antes que aconteçam?",
+    "palavras_chave": ["engenharia civil", "forças", "resistência", "modelos", "desastres"]
+  },
+  {
+    "pergunta": "Como a matemática contribui para o desenvolvimento de sistemas de transporte inteligentes?",
+    "resposta": "Equações e algoritmos analisam fluxo de veículos e otimizam semáforos, horários e rotas. Sabia que algumas cidades usam inteligência artificial baseada em matemática para reduzir congestionamentos em até 30%?",
+    "palavras_chave": ["transporte", "inteligência artificial", "algoritmos", "fluxo", "congestionamento"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada na indústria de alimentos para padronização de produtos?",
+    "resposta": "Cálculos de proporção, peso e volume garantem uniformidade e qualidade em larga escala. Sabia que fábricas usam sensores e algoritmos para ajustar automaticamente receitas durante a produção?",
+    "palavras_chave": ["alimentação", "proporção", "peso", "volume", "algoritmos"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na meteorologia para prever fenômenos extremos?",
+    "resposta": "Modelos matemáticos processam dados de temperatura, pressão e vento para prever tempestades, furacões e tornados. Sabia que a previsão de ciclones tropicais depende de simulações matemáticas complexas?",
+    "palavras_chave": ["meteorologia", "modelos", "tempestades", "simulação", "dados"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia na indústria de petróleo e gás?",
+    "resposta": "Equações e cálculos ajudam a estimar reservas, otimizar perfurações e planejar transporte de combustíveis. Sabia que softwares matemáticos simulam reservatórios subterrâneos antes da extração?",
+    "palavras_chave": ["petróleo", "gás", "reservatórios", "perfuração", "simulação"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada em estudos de tráfego aéreo?",
+    "resposta": "Cálculos de altitude, velocidade e distância garantem segurança e eficiência no controle do espaço aéreo. Sabia que algoritmos matemáticos ajudam a coordenar milhares de voos simultaneamente?",
+    "palavras_chave": ["tráfego aéreo", "velocidade", "distância", "altitude", "algoritmos"]
+  },
+  {
+    "pergunta": "Como a matemática contribui para a análise de grandes volumes de dados científicos?",
+    "resposta": "Estatística, álgebra e cálculo transformam dados complexos em informações úteis para pesquisas. Sabia que telescópios modernos geram terabytes de dados que só podem ser analisados com modelos matemáticos?",
+    "palavras_chave": ["ciência", "dados", "estatística", "álgebra", "análise"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na indústria automotiva para segurança veicular?",
+    "resposta": "Cálculos de colisão, deformação e resistência de materiais ajudam a projetar carros mais seguros. Sabia que testes de impacto simulados em computador dependem de equações matemáticas precisas?",
+    "palavras_chave": ["automotiva", "segurança", "colisão", "materiais", "simulação"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada na previsão de crises econômicas?",
+    "resposta": "Modelos matemáticos analisam indicadores como inflação, desemprego e crescimento para prever recessões. Sabia que economistas usam séries temporais e estatística para antecipar tendências do mercado?",
+    "palavras_chave": ["economia", "crises", "modelos", "estatística", "mercado"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia no desenvolvimento de cidades inteligentes?",
+    "resposta": "Algoritmos matemáticos otimizam transporte, energia e recursos urbanos. Sabia que sensores e análises de dados permitem que cidades ajustem o consumo de energia e o fluxo de trânsito em tempo real?",
+    "palavras_chave": ["cidades inteligentes", "algoritmos", "energia", "trânsito", "sensores"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na engenharia de materiais?",
+    "resposta": "Cálculos de resistência, elasticidade e deformação ajudam a criar materiais mais duráveis e seguros. Sabia que simulações matemáticas permitem testar materiais antes mesmo de produzi-los fisicamente?",
+    "palavras_chave": ["materiais", "engenharia", "resistência", "elasticidade", "simulação"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada na indústria de telecomunicações?",
+    "resposta": "Algoritmos e equações matemáticas garantem transmissão eficiente de sinais e dados. Sabia que a compressão de vídeo e áudio depende de cálculos matemáticos complexos para reduzir tamanho sem perder qualidade?",
+    "palavras_chave": ["telecomunicações", "algoritmos", "sinais", "compressão", "dados"]
+  },
+  {
+    "pergunta": "Como a matemática contribui para sistemas de navegação GPS?",
+    "resposta": "Equações determinam a posição exata de satélites e usuários na Terra. Sabia que o GPS depende de cálculos de distância e tempo com precisão de nanossegundos para funcionar corretamente?",
+    "palavras_chave": ["GPS", "satélites", "posição", "distância", "tempo"]
+  },
+  {
+    "pergunta": "Como a matemática é usada no monitoramento ambiental?",
+    "resposta": "Modelos matemáticos analisam poluição, desmatamento e mudanças climáticas. Sabia que sensores remotos e cálculos estatísticos ajudam a prever impactos ambientais antes que ocorram?",
+    "palavras_chave": ["meio ambiente", "monitoramento", "poluição", "modelos", "estatística"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia na indústria de transporte ferroviário?",
+    "resposta": "Cálculos de velocidade, intervalos e capacidade de carga otimizam horários e segurança. Sabia que sistemas automatizados usam algoritmos para evitar colisões e melhorar eficiência?",
+    "palavras_chave": ["ferroviário", "transporte", "algoritmos", "velocidade", "capacidade"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada em pesquisas de mercado?",
+    "resposta": "Estatística e análise de dados ajudam empresas a entender consumidores, tendências e preferências. Sabia que técnicas de regressão e clusterização são comuns para segmentar clientes?",
+    "palavras_chave": ["mercado", "pesquisa", "estatística", "dados", "consumidor"]
+  },
+  {
+    "pergunta": "Como a matemática contribui para a robótica industrial?",
+    "resposta": "Equações e algoritmos determinam movimento, precisão e coordenação de braços robóticos. Sabia que linhas de produção modernas dependem de cálculos matemáticos para manter eficiência e segurança?",
+    "palavras_chave": ["robótica", "indústria", "algoritmos", "movimento", "precisão"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na previsão de tráfego urbano?",
+    "resposta": "Modelos matemáticos analisam volume de veículos, semáforos e horários para reduzir congestionamentos. Sabia que algumas cidades usam inteligência artificial que processa dados de sensores em tempo real?",
+    "palavras_chave": ["tráfego", "urbano", "modelos", "inteligência artificial", "congestionamento"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia na criação de algoritmos de recomendação?",
+    "resposta": "Estatística, álgebra e cálculo ajudam plataformas a sugerir produtos, filmes ou músicas. Sabia que algoritmos de recomendação analisam comportamento de milhões de usuários simultaneamente?",
+    "palavras_chave": ["algoritmos", "recomendação", "estatística", "usuários", "análise"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada em estudos de energia renovável?",
+    "resposta": "Cálculos matemáticos ajudam a avaliar eficiência de painéis solares, turbinas eólicas e sistemas hidráulicos. Sabia que simulações preveem produção energética e ajudam a planejar integração com a rede elétrica?",
+    "palavras_chave": ["energia", "renovável", "eficiência", "simulação", "produção"]
+  },
+  {
+    "pergunta": "Como a matemática contribui para a indústria aeroespacial?",
+    "resposta": "Equações de física e matemática avançada determinam trajetórias, consumo de combustível e resistência de materiais. Sabia que cada lançamento de foguete envolve milhares de cálculos matemáticos complexos?",
+    "palavras_chave": ["aeroespacial", "trajetória", "combustível", "materiais", "lançamento"]
+  },
+  {
+    "pergunta": "Como a matemática é usada na análise de risco financeiro?",
+    "resposta": "Modelos matemáticos calculam probabilidade de perda, retorno esperado e volatilidade. Sabia que grandes bancos usam simulações de Monte Carlo para prever cenários financeiros?",
+    "palavras_chave": ["risco", "financeiro", "modelos", "probabilidade", "simulação"]
+  },
+  {
+    "pergunta": "Como a matemática auxilia na engenharia de sistemas de abastecimento de água?",
+    "resposta": "Equações e cálculos determinam pressão, fluxo e distribuição eficiente. Sabia que softwares matemáticos simulam redes de água para garantir abastecimento em grandes cidades?",
+    "palavras_chave": ["água", "abastecimento", "engenharia", "fluxo", "simulação"]
+  },
+  {
+    "pergunta": "Como a matemática é aplicada no desenvolvimento de inteligência artificial médica?",
+    "resposta": "Algoritmos matemáticos analisam imagens, sinais vitais e dados de pacientes para diagnósticos precisos. Sabia que softwares de IA conseguem detectar doenças em exames de imagem antes mesmo de um médico perceber?",
+    "palavras_chave": ["inteligência artificial", "medicina", "algoritmos", "diagnóstico", "dados"]
+  },
+  {
+    "pergunta": "Como a matemática contribui para a automação industrial?",
+    "resposta": "Equações e algoritmos controlam máquinas, sensores e processos para maior eficiência e segurança. Sabia que fábricas automatizadas ajustam operações em tempo real usando cálculos matemáticos?",
+    "palavras_chave": ["automação", "indústria", "algoritmos", "sensores", "eficiência"]
+  }
+]

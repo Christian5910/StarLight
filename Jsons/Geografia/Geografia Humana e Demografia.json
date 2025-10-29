@@ -1,0 +1,838 @@
+[
+  {
+    "pergunta": "O que diferencia a Geografia Humana da Geografia Física?",
+    "resposta": "A Geografia Humana estuda as relações entre as pessoas e o espaço, analisando como a sociedade transforma o meio natural em um espaço habitado e organizado. Já a Geografia Física foca nos elementos naturais, como relevo, clima e vegetação. A interação entre as duas áreas é constante — afinal, o ser humano modifica a natureza e também é influenciado por ela. Sabia que o termo 'paisagem cultural' surgiu justamente dessa integração entre o natural e o humano?",
+    "palavras_chave": ["geografia humana", "geografia física", "espaço", "paisagem", "natureza"]
+  },
+  {
+    "pergunta": "O que é densidade demográfica e por que ela é importante?",
+    "resposta": "Densidade demográfica é a relação entre o número de habitantes e a área de um território. Ela indica como a população está distribuída, mostrando se um lugar é mais povoado ou vazio. Por exemplo, o Japão tem alta densidade, enquanto a Austrália tem baixa. Esse indicador ajuda a planejar políticas públicas e infraestrutura. Sabia que Mônaco é o país mais densamente povoado do mundo, com mais de 25 mil pessoas por quilômetro quadrado?",
+    "palavras_chave": ["densidade demográfica", "população", "território", "distribuição", "indicadores"]
+  },
+  {
+    "pergunta": "Como as migrações influenciam a composição populacional de um país?",
+    "resposta": "As migrações alteram a estrutura populacional ao movimentar pessoas de um lugar para outro, mudando números, culturas e economias. Elas podem ser internas, como o êxodo rural, ou internacionais, como o deslocamento de refugiados. Em muitos países europeus, a chegada de imigrantes compensa o envelhecimento populacional. Sabia que o Brasil já recebeu milhões de imigrantes europeus e asiáticos entre os séculos XIX e XX, o que marcou sua diversidade cultural?",
+    "palavras_chave": ["migração", "população", "imigração", "emigração", "diversidade"]
+  },
+  {
+    "pergunta": "O que é crescimento vegetativo da população?",
+    "resposta": "Crescimento vegetativo é a diferença entre a taxa de natalidade e a taxa de mortalidade. Ele mostra se uma população está aumentando ou diminuindo naturalmente, sem considerar migrações. Países com alta natalidade e baixa mortalidade, como muitos africanos, têm crescimento acelerado. Já em nações desenvolvidas, como o Japão, esse índice é negativo. Sabia que o Brasil teve um crescimento vegetativo de 3% nos anos 1960, mas hoje está abaixo de 1%?",
+    "palavras_chave": ["crescimento vegetativo", "natalidade", "mortalidade", "demografia", "população"]
+  },
+  {
+    "pergunta": "O que representa uma pirâmide etária?",
+    "resposta": "A pirâmide etária é um gráfico que mostra a distribuição da população por idade e sexo. Ela ajuda a entender se um país tem população jovem, adulta ou idosa. Uma base larga indica alta natalidade; um topo largo mostra envelhecimento. É essencial para planejar políticas de saúde, educação e aposentadoria. Sabia que o formato da pirâmide do Brasil está mudando rapidamente, tornando-se mais estreito na base e mais largo no topo?",
+    "palavras_chave": ["pirâmide etária", "idade", "sexo", "população", "indicadores"]
+  },
+  {
+    "pergunta": "Como a urbanização transformou o espaço geográfico?",
+    "resposta": "A urbanização mudou radicalmente o modo de viver e ocupar o espaço. Cidades cresceram com a industrialização, atraindo pessoas do campo em busca de emprego e serviços. Isso gerou desenvolvimento, mas também problemas como trânsito, poluição e desigualdade. Hoje, mais da metade da população mundial vive em áreas urbanas. Sabia que em 1950 apenas 30% da população mundial morava em cidades?",
+    "palavras_chave": ["urbanização", "industrialização", "cidade", "campo", "desigualdade"]
+  },
+  {
+    "pergunta": "O que é êxodo rural e quais suas consequências?",
+    "resposta": "Êxodo rural é o movimento de pessoas do campo para as cidades. Ele se intensificou com a mecanização agrícola e a busca por melhores condições de vida. Embora contribua para o crescimento urbano, também causa problemas como desemprego e formação de favelas. Sabia que, entre 1950 e 1980, o Brasil viveu um dos maiores processos de êxodo rural do mundo?",
+    "palavras_chave": ["êxodo rural", "migração", "campo", "cidade", "industrialização"]
+  },
+  {
+    "pergunta": "Como se calcula a taxa de natalidade?",
+    "resposta": "A taxa de natalidade é obtida dividindo o número de nascimentos em um ano pela população total e multiplicando por mil. Ela mostra quantas pessoas nascem em média a cada mil habitantes. Altas taxas indicam populações jovens; baixas taxas, envelhecimento. Sabia que a taxa de natalidade do Brasil caiu de 45 para menos de 14 por mil habitantes em 60 anos?",
+    "palavras_chave": ["taxa de natalidade", "demografia", "população", "crescimento", "indicadores"]
+  },
+  {
+    "pergunta": "O que significa taxa de mortalidade infantil?",
+    "resposta": "É o número de crianças que morrem antes de completar um ano de idade a cada mil nascimentos. Esse indicador reflete a qualidade de vida, saneamento e saúde pública. Quando diminui, mostra avanços sociais importantes. Sabia que o Brasil reduziu sua mortalidade infantil em mais de 80% desde os anos 1980?",
+    "palavras_chave": ["mortalidade infantil", "saúde", "qualidade de vida", "demografia", "indicadores"]
+  },
+  {
+    "pergunta": "O que é transição demográfica?",
+    "resposta": "Transição demográfica é o processo de mudança nas taxas de natalidade e mortalidade ao longo do tempo. Começa com ambas altas e termina com ambas baixas, refletindo o desenvolvimento social e econômico. Países desenvolvidos já concluíram essa transição; outros ainda estão em fase intermediária. Sabia que o conceito foi formulado para explicar o crescimento populacional europeu no século XIX?",
+    "palavras_chave": ["transição demográfica", "natalidade", "mortalidade", "crescimento", "população"]
+  },
+  {
+    "pergunta": "Como as migrações internas moldam o espaço brasileiro?",
+    "resposta": "No Brasil, as migrações internas deslocaram milhões entre regiões, mudando a economia e o povoamento. O Nordeste historicamente teve grandes fluxos de saída, enquanto o Sudeste e o Centro-Oeste receberam migrantes. Isso influenciou o crescimento de cidades como São Paulo e Brasília. Sabia que a construção de Brasília foi um dos maiores polos de atração migratória do país?",
+    "palavras_chave": ["migração interna", "brasil", "população", "economia", "desenvolvimento"]
+  },
+  {
+    "pergunta": "Por que o envelhecimento populacional é um desafio?",
+    "resposta": "Com o aumento da expectativa de vida e a queda da natalidade, muitos países enfrentam o envelhecimento populacional. Isso pressiona sistemas de saúde e previdência, além de reduzir a força de trabalho. Ao mesmo tempo, abre espaço para políticas de cuidado e inclusão dos idosos. Sabia que o Japão é o país mais envelhecido do mundo, com quase 30% da população acima de 65 anos?",
+    "palavras_chave": ["envelhecimento", "população", "idosos", "previdência", "sociedade"]
+  },
+  {
+    "pergunta": "O que é migração pendular?",
+    "resposta": "Migração pendular é o deslocamento diário de pessoas entre o local de moradia e o de trabalho ou estudo. É comum em grandes áreas metropolitanas, onde a população mora na periferia e trabalha no centro. Esse movimento gera congestionamentos e desafios no transporte público. Sabia que, na região metropolitana de São Paulo, milhões de pessoas realizam migração pendular todos os dias?",
+    "palavras_chave": ["migração pendular", "transporte", "cidade", "trabalho", "mobilidade"]
+  },
+  {
+    "pergunta": "O que caracteriza a globalização do espaço geográfico?",
+    "resposta": "A globalização conecta economias, culturas e informações em escala planetária. Ela acelera trocas e aproxima sociedades, mas também aumenta desigualdades. Na Geografia Humana, analisa-se como fluxos econômicos e tecnológicos reconfiguram territórios. Sabia que o termo 'aldeia global' foi popularizado pelo teórico Marshall McLuhan nos anos 1960?",
+    "palavras_chave": ["globalização", "território", "economia", "cultura", "comunicação"]
+  },
+  {
+    "pergunta": "Como a urbanização está ligada à industrialização?",
+    "resposta": "A industrialização atraiu pessoas do campo para as cidades, gerando a urbanização moderna. Fábricas exigem mão de obra e infraestrutura, criando áreas urbanas cada vez maiores. Essa relação é um marco da sociedade capitalista. Sabia que a Revolução Industrial na Inglaterra foi o principal ponto de partida para a urbanização mundial?",
+    "palavras_chave": ["urbanização", "industrialização", "cidade", "trabalho", "capitalismo"]
+  },
+  {
+    "pergunta": "O que são metrópoles e megacidades?",
+    "resposta": "Metrópoles são grandes centros urbanos que exercem influência regional; megacidades ultrapassam 10 milhões de habitantes e têm papel global. São polos econômicos, culturais e políticos. Exemplos incluem São Paulo, Tóquio e Nova York. Sabia que Tóquio é considerada a maior megacidade do mundo, com mais de 37 milhões de habitantes?",
+    "palavras_chave": ["metrópole", "megacidade", "urbano", "população", "economia"]
+  },
+  {
+    "pergunta": "Como a desigualdade social se manifesta nas cidades?",
+    "resposta": "A desigualdade urbana aparece na distribuição desigual de moradia, transporte e serviços. Bairros ricos e favelas coexistem lado a lado, refletindo diferenças históricas e econômicas. Essa segregação espacial é um dos principais temas da Geografia Urbana. Sabia que o conceito de 'cidade partida' surgiu para descrever essa realidade no Rio de Janeiro?",
+    "palavras_chave": ["desigualdade", "cidade", "segregação", "urbanização", "moradia"]
+  },
+  {
+    "pergunta": "O que é IDH e o que ele mede?",
+    "resposta": "O Índice de Desenvolvimento Humano (IDH) combina dados de renda, educação e expectativa de vida para medir o bem-estar de um país. Criado pela ONU, ele mostra que desenvolvimento vai além da economia. Sabia que a Noruega costuma liderar o ranking mundial, enquanto o Brasil fica em posição intermediária?",
+    "palavras_chave": ["idh", "desenvolvimento", "educação", "renda", "expectativa de vida"]
+  },
+  {
+    "pergunta": "Como o trabalho influencia a organização do espaço geográfico?",
+    "resposta": "O trabalho define onde e como as pessoas vivem, moldando cidades e regiões. Indústrias, comércios e serviços concentram-se em áreas estratégicas, atraindo população e infraestrutura. A Geografia do Trabalho estuda essas relações. Sabia que a automação e o trabalho remoto estão mudando completamente a geografia do emprego?",
+    "palavras_chave": ["trabalho", "espaço geográfico", "indústria", "serviços", "emprego"]
+  },
+  {
+    "pergunta": "Por que as cidades médias têm ganhado importância?",
+    "resposta": "As cidades médias cresceram como alternativas às metrópoles, oferecendo qualidade de vida e custos menores. Elas atraem empresas e serviços regionais, tornando-se polos de desenvolvimento. Sabia que no Brasil, cidades como Ribeirão Preto e Londrina são exemplos de centros médios com grande influência regional?",
+    "palavras_chave": ["cidade média", "desenvolvimento", "urbanização", "região", "economia"]
+  },
+  {
+    "pergunta": "O que é rede urbana?",
+    "resposta": "Rede urbana é o conjunto de cidades interligadas por fluxos econômicos, sociais e de transporte. Ela mostra como os centros urbanos se organizam hierarquicamente. No Brasil, a rede urbana é marcada pela concentração no Sudeste. Sabia que a cidade de São Paulo é considerada o principal nó dessa rede?",
+    "palavras_chave": ["rede urbana", "cidade", "transporte", "hierarquia", "economia"]
+  },
+  {
+    "pergunta": "O que significa mobilidade urbana?",
+    "resposta": "Mobilidade urbana refere-se à capacidade das pessoas se deslocarem dentro das cidades com eficiência e segurança. Envolve transporte público, vias, ciclovias e acessibilidade. Quando mal planejada, causa congestionamentos e poluição. Sabia que Copenhague é uma das cidades com melhor mobilidade do mundo, com mais bicicletas que carros?",
+    "palavras_chave": ["mobilidade urbana", "transporte", "cidade", "planejamento", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como a globalização afeta as migrações humanas?",
+    "resposta": "A globalização facilita deslocamentos, mas também acentua desigualdades que motivam migrações. Pessoas buscam melhores oportunidades ou fogem de conflitos. As redes de comunicação e transporte ampliam esse movimento. Sabia que cerca de 280 milhões de pessoas vivem hoje fora de seus países de origem?",
+    "palavras_chave": ["globalização", "migração", "economia", "desigualdade", "transporte"]
+  },
+  {
+    "pergunta": "O que são favelas e por que elas surgem?",
+    "resposta": "Favelas são áreas urbanas ocupadas irregularmente, geralmente por populações de baixa renda. Elas surgem da falta de moradia acessível e da exclusão social. Apesar das dificuldades, abrigam intensa vida cultural e comunitária. Sabia que a primeira favela do Rio de Janeiro surgiu no final do século XIX, após a Guerra de Canudos?",
+    "palavras_chave": ["favela", "moradia", "urbanização", "desigualdade", "exclusão"]
+  },
+  {
+    "pergunta": "Como o processo de globalização impacta a cultura das sociedades?",
+    "resposta": "A globalização intensifica o contato entre diferentes culturas, promovendo trocas, mas também a padronização de costumes e valores. Isso pode enriquecer a diversidade, mas também gerar perda de identidades locais. Filmes, músicas e marcas globais moldam hábitos no mundo todo. Sabia que o termo 'glocalização' surgiu para descrever a adaptação de produtos globais às culturas locais?",
+    "palavras_chave": ["globalização", "cultura", "identidade", "diversidade", "glocalização"]
+  },
+  {
+    "pergunta": "O que é migração forçada?",
+    "resposta": "Migração forçada ocorre quando pessoas são obrigadas a deixar suas casas por guerras, perseguições, desastres ou crises econômicas. Ao contrário da migração voluntária, ela é uma questão humanitária. Milhões de refugiados e deslocados internos vivem essa realidade. Sabia que a Síria é um dos países com maior número de refugiados desde 2011?",
+    "palavras_chave": ["migração", "refugiados", "deslocamento", "crise", "humanitário"]
+  },
+  {
+    "pergunta": "Como o trabalho informal afeta a economia urbana?",
+    "resposta": "O trabalho informal movimenta a economia, mas sem proteção trabalhista ou arrecadação de impostos. É comum em países em desenvolvimento e surge como alternativa ao desemprego. Vendedores ambulantes e motoristas de aplicativos são exemplos típicos. Sabia que, no Brasil, cerca de 40% da força de trabalho atua na informalidade?",
+    "palavras_chave": ["trabalho informal", "economia", "emprego", "urbanização", "desigualdade"]
+  },
+  {
+    "pergunta": "O que caracteriza uma região metropolitana?",
+    "resposta": "Uma região metropolitana é um conjunto de municípios interligados por relações econômicas e sociais, com uma cidade principal que exerce influência sobre as demais. Ela concentra empregos, infraestrutura e população. Sabia que a Região Metropolitana de São Paulo é a maior do Brasil, com mais de 20 milhões de habitantes?",
+    "palavras_chave": ["região metropolitana", "cidade", "urbanização", "população", "infraestrutura"]
+  },
+  {
+    "pergunta": "Como o crescimento urbano desordenado afeta o meio ambiente?",
+    "resposta": "Quando as cidades crescem sem planejamento, o resultado são enchentes, poluição e destruição de áreas verdes. A impermeabilização do solo e o descarte incorreto de resíduos agravam o problema. O planejamento urbano sustentável busca equilibrar crescimento e natureza. Sabia que algumas cidades brasileiras estão recuperando rios urbanos, como o Rio Barigui em Curitiba?",
+    "palavras_chave": ["urbanização", "meio ambiente", "planejamento", "sustentabilidade", "poluição"]
+  },
+  {
+    "pergunta": "O que são fluxos migratórios e quais seus tipos?",
+    "resposta": "Fluxos migratórios são os deslocamentos de pessoas entre regiões ou países. Podem ser internos (dentro do mesmo país) ou externos (entre países). Também se classificam como temporários ou permanentes. Esses fluxos refletem condições econômicas, políticas e ambientais. Sabia que há também o chamado 'brain drain', a fuga de cérebros, quando profissionais qualificados emigram?",
+    "palavras_chave": ["migração", "fluxos migratórios", "imigração", "emigração", "deslocamento"]
+  },
+  {
+    "pergunta": "Como a renda influencia a distribuição populacional?",
+    "resposta": "Regiões mais ricas tendem a atrair população devido às oportunidades de emprego, educação e serviços. Já áreas pobres sofrem com evasão populacional. Essa dinâmica cria desigualdades regionais. Sabia que o Sudeste brasileiro concentra cerca de 42% da população do país por causa do desenvolvimento industrial e econômico?",
+    "palavras_chave": ["renda", "distribuição populacional", "economia", "desigualdade", "migração"]
+  },
+  {
+    "pergunta": "O que é segregação socioespacial?",
+    "resposta": "Segregação socioespacial é a separação das populações nas cidades segundo renda, classe ou acesso a serviços. Ela se reflete na formação de bairros ricos e periferias carentes. Esse fenômeno reforça desigualdades e limita oportunidades. Sabia que o termo foi amplamente estudado por geógrafos como Milton Santos no contexto brasileiro?",
+    "palavras_chave": ["segregação", "cidade", "espaço urbano", "desigualdade", "milton santos"]
+  },
+  {
+    "pergunta": "Como o transporte público influencia a qualidade de vida nas cidades?",
+    "resposta": "Um sistema de transporte público eficiente reduz congestionamentos, poluição e desigualdades. Ele permite acesso ao trabalho e aos serviços, conectando diferentes áreas urbanas. Quando falha, prejudica milhões de pessoas. Sabia que Bogotá revolucionou sua mobilidade com o sistema BRT, que inspirou várias cidades do mundo?",
+    "palavras_chave": ["transporte público", "mobilidade", "cidade", "qualidade de vida", "planejamento"]
+  },
+  {
+    "pergunta": "O que é um censo demográfico e para que serve?",
+    "resposta": "O censo demográfico coleta informações detalhadas sobre a população: idade, sexo, renda, escolaridade, moradia e muito mais. É essencial para políticas públicas e planejamento urbano. No Brasil, o IBGE realiza o censo a cada dez anos. Sabia que o primeiro censo moderno do país foi feito em 1872, ainda no Império?",
+    "palavras_chave": ["censo", "demografia", "população", "ibge", "planejamento"]
+  },
+  {
+    "pergunta": "Como as guerras influenciam a demografia de um país?",
+    "resposta": "Guerras provocam mortes, destruição e deslocamentos populacionais, alterando o número e a composição de habitantes. Elas também afetam o crescimento econômico e as estruturas familiares. Sabia que a Segunda Guerra Mundial reduziu drasticamente a população jovem masculina na Europa, mudando a demografia por décadas?",
+    "palavras_chave": ["guerra", "demografia", "população", "refugiados", "história"]
+  },
+  {
+    "pergunta": "O que significa taxa de fecundidade?",
+    "resposta": "A taxa de fecundidade indica o número médio de filhos por mulher em idade fértil. Ela é essencial para entender o ritmo de crescimento populacional. Quando cai abaixo de 2,1, a população tende a diminuir. Sabia que o Brasil atingiu esse nível em 2006, marcando o fim do crescimento populacional acelerado?",
+    "palavras_chave": ["fecundidade", "população", "crescimento", "demografia", "natalidade"]
+  },
+  {
+    "pergunta": "Por que o campo continua importante mesmo com a urbanização?",
+    "resposta": "Mesmo com a urbanização, o campo continua sendo base da produção de alimentos e matérias-primas. Além disso, o meio rural abriga tradições culturais e modos de vida únicos. Sabia que o turismo rural vem crescendo no Brasil, valorizando o espaço agrário como alternativa de lazer e renda?",
+    "palavras_chave": ["campo", "urbanização", "rural", "agricultura", "turismo"]
+  },
+  {
+    "pergunta": "Como o acesso à tecnologia interfere na organização das cidades?",
+    "resposta": "A tecnologia transforma as cidades, tornando-as mais conectadas e eficientes. Conceitos como cidades inteligentes usam dados para melhorar transporte, segurança e sustentabilidade. Sabia que Curitiba e São Paulo têm projetos de cidades inteligentes em andamento, focados em mobilidade e energia limpa?",
+    "palavras_chave": ["tecnologia", "cidades inteligentes", "urbanização", "mobilidade", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é planejamento urbano e por que ele é essencial?",
+    "resposta": "Planejamento urbano é o conjunto de ações que organizam o uso do solo, transporte e infraestrutura de uma cidade. Ele busca garantir qualidade de vida e sustentabilidade. Sem planejamento, surgem problemas como enchentes e ocupações irregulares. Sabia que o Plano Diretor é o principal instrumento desse processo no Brasil?",
+    "palavras_chave": ["planejamento urbano", "cidade", "sustentabilidade", "infraestrutura", "plano diretor"]
+  },
+  {
+    "pergunta": "Como a urbanização afeta o consumo de energia?",
+    "resposta": "Cidades concentram grande parte do consumo de energia mundial, principalmente em transporte, indústria e moradia. Esse padrão pressiona os recursos naturais e exige fontes renováveis. Sabia que cerca de 70% das emissões de CO₂ vêm das áreas urbanas?",
+    "palavras_chave": ["urbanização", "energia", "consumo", "sustentabilidade", "meio ambiente"]
+  },
+  {
+    "pergunta": "O que é uma megalópole?",
+    "resposta": "Megalópole é a junção de várias metrópoles próximas que se interligam por fluxos econômicos e urbanos, formando uma gigantesca área contínua. O exemplo clássico é a região entre Boston e Washington, nos EUA. Sabia que o eixo Rio–São Paulo–Campinas é considerado uma megalópole em formação no Brasil?",
+    "palavras_chave": ["megalópole", "metrópole", "urbanização", "rede urbana", "economia"]
+  },
+  {
+    "pergunta": "Como as políticas públicas podem reduzir desigualdades urbanas?",
+    "resposta": "Políticas públicas de habitação, transporte e saneamento ajudam a diminuir desigualdades entre regiões da cidade. Investimentos em periferias e regularização fundiária são fundamentais. Sabia que o programa Minha Casa Minha Vida foi criado em 2009 com esse objetivo?",
+    "palavras_chave": ["políticas públicas", "habitação", "desigualdade", "urbanização", "saneamento"]
+  },
+  {
+    "pergunta": "O que é mobilidade pendular inversa?",
+    "resposta": "A mobilidade pendular inversa ocorre quando pessoas saem das cidades centrais para trabalhar em áreas periféricas ou suburbanas. Esse fenômeno cresce com a descentralização industrial e de serviços. Sabia que isso já é comum na Grande São Paulo, onde muitas empresas se mudaram para cidades vizinhas?",
+    "palavras_chave": ["mobilidade pendular", "trabalho", "subúrbio", "cidade", "transporte"]
+  },
+  {
+    "pergunta": "Como a desigualdade de gênero aparece na Geografia Humana?",
+    "resposta": "A desigualdade de gênero se reflete no acesso desigual a trabalho, moradia e mobilidade. As mulheres ainda enfrentam mais obstáculos no mercado e em políticas urbanas. A Geografia Feminista estuda essas dinâmicas. Sabia que ela surgiu nos anos 1970 como resposta à ausência das mulheres nas análises espaciais?",
+    "palavras_chave": ["gênero", "desigualdade", "trabalho", "geografia feminista", "sociedade"]
+  },
+  {
+    "pergunta": "O que são movimentos migratórios sazonais?",
+    "resposta": "São migrações temporárias que ocorrem em determinadas épocas do ano, geralmente ligadas à agricultura, turismo ou trabalho temporário. Trabalhadores rurais que seguem colheitas são um exemplo. Sabia que esse tipo de migração é muito comum no Nordeste brasileiro durante o corte da cana-de-açúcar?",
+    "palavras_chave": ["migração", "sazonal", "trabalho", "agricultura", "população"]
+  },
+  {
+    "pergunta": "Como a pandemia de COVID-19 afetou a mobilidade e a urbanização?",
+    "resposta": "A pandemia reduziu deslocamentos, popularizou o trabalho remoto e mudou padrões de moradia. Muitas pessoas deixaram grandes cidades em busca de qualidade de vida. Sabia que alguns geógrafos chamam esse fenômeno de 'desmetropolização temporária'?",
+    "palavras_chave": ["pandemia", "mobilidade", "urbanização", "trabalho remoto", "população"]
+  },
+  {
+    "pergunta": "O que é concentração urbana?",
+    "resposta": "É a tendência de crescimento populacional e econômico em poucas cidades grandes, enquanto outras regiões permanecem estagnadas. Isso cria desafios como trânsito e poluição. Sabia que 85% da população brasileira vive hoje em áreas urbanas?",
+    "palavras_chave": ["concentração urbana", "população", "cidade", "desigualdade", "urbanização"]
+  },
+  {
+    "pergunta": "Como a geografia do consumo se relaciona com a globalização?",
+    "resposta": "A globalização cria padrões de consumo semelhantes em diferentes partes do mundo, guiados por grandes empresas e mídias globais. A geografia do consumo analisa como esses padrões moldam os espaços urbanos e econômicos. Sabia que os shoppings centers são símbolos desse fenômeno?",
+    "palavras_chave": ["consumo", "globalização", "economia", "cidade", "mercado"]
+  },
+  {
+    "pergunta": "O que são refugiados climáticos?",
+    "resposta": "Refugiados climáticos são pessoas que precisam deixar suas casas por causa de desastres naturais ou mudanças ambientais, como desertificação e elevação do nível do mar. Sabia que ilhas do Pacífico já estão perdendo território por causa do aumento dos oceanos?",
+    "palavras_chave": ["refugiados", "clima", "migração", "meio ambiente", "mudanças climáticas"]
+  },
+  {
+    "pergunta": "O que é urbanização sustentável?",
+    "resposta": "Urbanização sustentável busca equilibrar crescimento urbano com preservação ambiental e inclusão social. Envolve transporte limpo, áreas verdes e moradia acessível. Sabia que a ONU criou o conceito de 'Cidades Sustentáveis' dentro dos Objetivos de Desenvolvimento Sustentável (ODS)?",
+    "palavras_chave": ["urbanização", "sustentabilidade", "meio ambiente", "planejamento", "ods"]
+  },
+  {
+    "pergunta": "O que diferencia população absoluta de população relativa?",
+    "resposta": "População absoluta é o número total de habitantes de um lugar, enquanto população relativa, ou densidade demográfica, relaciona o número de pessoas com a área ocupada. Assim, um país pode ter muitos habitantes, mas ser pouco povoado, como o Canadá. Sabia que Bangladesh é um dos países mais densamente povoados do mundo?",
+    "palavras_chave": ["população", "densidade demográfica", "território", "demografia", "habitação"]
+  },
+  {
+    "pergunta": "Como a industrialização transformou o espaço urbano?",
+    "resposta": "A industrialização concentrou fábricas, empregos e serviços nas cidades, impulsionando o êxodo rural e o crescimento urbano. Esse processo redefiniu o espaço urbano, criando bairros operários e centros industriais. Sabia que a Revolução Industrial no século XIX foi o ponto de partida da urbanização moderna?",
+    "palavras_chave": ["industrialização", "urbanização", "êxodo rural", "trabalho", "história"]
+  },
+  {
+    "pergunta": "O que são cidades globais?",
+    "resposta": "Cidades globais são metrópoles com grande influência econômica, política e cultural em escala mundial, como Nova York, Londres e Tóquio. Elas concentram sedes de empresas e redes de comunicação. Sabia que São Paulo é considerada uma cidade global emergente pela sua importância econômica na América Latina?",
+    "palavras_chave": ["cidade global", "economia", "globalização", "metrópole", "comunicação"]
+  },
+  {
+    "pergunta": "Como a tecnologia influencia a demografia?",
+    "resposta": "Avanços tecnológicos melhoram a saúde, aumentam a expectativa de vida e reduzem a mortalidade infantil. Isso muda o perfil etário das populações e acelera o envelhecimento em alguns países. Sabia que o desenvolvimento das vacinas foi um dos maiores fatores para o crescimento populacional no século XX?",
+    "palavras_chave": ["tecnologia", "demografia", "saúde", "população", "expectativa de vida"]
+  },
+  {
+    "pergunta": "O que são pirâmides etárias e para que servem?",
+    "resposta": "As pirâmides etárias representam graficamente a distribuição da população por idade e sexo. Elas ajudam a entender o crescimento populacional e o envelhecimento das sociedades. Sabia que o formato de uma pirâmide pode indicar se um país é jovem, adulto ou idoso?",
+    "palavras_chave": ["pirâmide etária", "população", "idade", "sexo", "demografia"]
+  },
+  {
+    "pergunta": "Como o envelhecimento populacional afeta a economia?",
+    "resposta": "Com mais idosos e menos jovens, há menor força de trabalho e maior gasto com aposentadorias e saúde. Isso pressiona as políticas públicas e pode reduzir o crescimento econômico. Sabia que o Japão é o país mais envelhecido do mundo, com quase 30% da população acima dos 65 anos?",
+    "palavras_chave": ["envelhecimento", "economia", "população", "trabalho", "políticas públicas"]
+  },
+  {
+    "pergunta": "O que é transição demográfica?",
+    "resposta": "A transição demográfica é o processo de mudança das taxas de natalidade e mortalidade ao longo do tempo. Países passam de altas taxas em ambos os indicadores para níveis baixos, acompanhando o desenvolvimento econômico. Sabia que o Brasil está na fase final dessa transição, com baixo crescimento populacional?",
+    "palavras_chave": ["transição demográfica", "natalidade", "mortalidade", "crescimento", "população"]
+  },
+  {
+    "pergunta": "Como o turismo influencia a geografia humana?",
+    "resposta": "O turismo transforma espaços, gera empregos e impulsiona economias locais, mas também pode causar impactos ambientais e culturais. Ele conecta regiões e cria fluxos sazonais de pessoas. Sabia que o turismo é responsável por cerca de 10% do PIB mundial?",
+    "palavras_chave": ["turismo", "economia", "geografia humana", "cultura", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é rede urbana?",
+    "resposta": "Rede urbana é o conjunto de cidades interligadas por fluxos econômicos, sociais e de transporte. Ela define hierarquias entre centros urbanos, desde pequenas vilas até metrópoles. Sabia que o conceito foi aprofundado por Milton Santos, que o associava à lógica do capitalismo global?",
+    "palavras_chave": ["rede urbana", "cidades", "fluxos", "economia", "milton santos"]
+  },
+  {
+    "pergunta": "Como as desigualdades regionais se refletem na demografia?",
+    "resposta": "As desigualdades regionais influenciam migrações, natalidade e mortalidade. Regiões mais pobres têm maior fecundidade e mortalidade infantil. Sabia que no Brasil o Nordeste ainda apresenta taxas de natalidade mais altas que o Sul e o Sudeste?",
+    "palavras_chave": ["desigualdade", "região", "demografia", "natalidade", "migração"]
+  },
+  {
+    "pergunta": "O que são áreas de repulsão e atração populacional?",
+    "resposta": "Áreas de repulsão são locais que perdem população por falta de oportunidades; áreas de atração recebem migrantes por melhores condições de vida. Essa dinâmica molda o território e as cidades. Sabia que o Sudeste brasileiro é historicamente uma área de atração populacional?",
+    "palavras_chave": ["migração", "população", "território", "repulsão", "atração"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas podem influenciar a demografia?",
+    "resposta": "Eventos climáticos extremos, como secas e enchentes, afetam a agricultura e forçam migrações. Isso altera a distribuição populacional e cria novos desafios urbanos. Sabia que a ONU estima que até 2050 milhões de pessoas podem se deslocar por razões climáticas?",
+    "palavras_chave": ["mudanças climáticas", "demografia", "migração", "população", "meio ambiente"]
+  },
+  {
+    "pergunta": "O que é êxodo rural e por que ele ocorre?",
+    "resposta": "Êxodo rural é a migração do campo para as cidades, motivada pela mecanização agrícola e pela busca de melhores oportunidades. Ele intensificou a urbanização nos séculos XX e XXI. Sabia que no Brasil esse processo se acelerou após a década de 1950, com a industrialização?",
+    "palavras_chave": ["êxodo rural", "migração", "urbanização", "campo", "trabalho"]
+  },
+  {
+    "pergunta": "Como o transporte influencia a localização das cidades?",
+    "resposta": "As cidades se desenvolvem próximas a vias de transporte como rios, portos e estradas, que facilitam o comércio e a comunicação. Sabia que muitas metrópoles antigas surgiram às margens de rios, como o Nilo, o Tâmisa e o Sena?",
+    "palavras_chave": ["transporte", "cidade", "comércio", "localização", "infraestrutura"]
+  },
+  {
+    "pergunta": "O que é densidade demográfica e por que ela é importante?",
+    "resposta": "A densidade demográfica mede a relação entre o número de habitantes e a área ocupada. Ela ajuda a entender a pressão sobre os recursos e serviços. Sabia que o Brasil tem baixa densidade populacional média, mas grandes concentrações nas áreas litorâneas?",
+    "palavras_chave": ["densidade demográfica", "população", "território", "demografia", "recursos"]
+  },
+  {
+    "pergunta": "Como a educação afeta a dinâmica populacional?",
+    "resposta": "O acesso à educação, especialmente feminina, reduz a fecundidade e aumenta a renda média. Isso impacta diretamente o crescimento populacional e o desenvolvimento. Sabia que a taxa de natalidade cai mais rápido em países com maior escolaridade feminina?",
+    "palavras_chave": ["educação", "população", "fecundidade", "desenvolvimento", "demografia"]
+  },
+  {
+    "pergunta": "O que caracteriza um país superpovoado?",
+    "resposta": "Um país superpovoado tem população maior do que os recursos disponíveis para sustentar adequadamente seus habitantes. O problema não é apenas o número, mas a má distribuição de riqueza. Sabia que Bangladesh é um exemplo clássico citado em estudos demográficos?",
+    "palavras_chave": ["superpopulação", "recursos", "população", "demografia", "desigualdade"]
+  },
+  {
+    "pergunta": "Como a urbanização impacta a saúde pública?",
+    "resposta": "A urbanização melhora o acesso a hospitais e saneamento, mas também pode gerar poluição e doenças respiratórias. O equilíbrio depende de planejamento urbano e políticas sociais. Sabia que o crescimento das favelas nos anos 1980 agravou epidemias urbanas no Brasil?",
+    "palavras_chave": ["urbanização", "saúde", "planejamento", "saneamento", "poluição"]
+  },
+  {
+    "pergunta": "O que é periferização urbana?",
+    "resposta": "Periferização urbana é o crescimento das áreas afastadas dos centros, geralmente ocupadas por populações de baixa renda. Ela surge da falta de moradia acessível nas regiões centrais. Sabia que esse processo é visível em praticamente todas as grandes cidades brasileiras?",
+    "palavras_chave": ["periferia", "urbanização", "habitação", "cidade", "desigualdade"]
+  },
+  {
+    "pergunta": "Como as migrações internas moldaram o Brasil contemporâneo?",
+    "resposta": "As migrações internas redistribuíram a população, levando trabalhadores do Nordeste ao Sudeste e depois ao Centro-Oeste. Elas acompanharam o desenvolvimento econômico e a expansão agrícola. Sabia que a construção de Brasília foi um dos maiores polos migratórios do país?",
+    "palavras_chave": ["migração interna", "população", "economia", "brasil", "trabalho"]
+  },
+  {
+    "pergunta": "O que é taxa de mortalidade infantil?",
+    "resposta": "É o número de crianças que morrem antes de completar um ano de vida para cada mil nascimentos. Esse índice reflete o nível de desenvolvimento e as condições de saúde. Sabia que o Brasil reduziu sua taxa de mortalidade infantil em mais de 70% desde os anos 1990?",
+    "palavras_chave": ["mortalidade infantil", "saúde", "população", "desenvolvimento", "demografia"]
+  },
+  {
+    "pergunta": "Como a cultura influencia a organização do espaço geográfico?",
+    "resposta": "A cultura determina formas de ocupação, arquitetura, religião e até alimentação em diferentes regiões. Ela molda paisagens culturais únicas. Sabia que o conceito de paisagem cultural é reconhecido pela UNESCO como patrimônio mundial?",
+    "palavras_chave": ["cultura", "espaço geográfico", "paisagem", "sociedade", "patrimônio"]
+  },
+  {
+    "pergunta": "O que significa taxa de crescimento natural?",
+    "resposta": "É a diferença entre a taxa de natalidade e a de mortalidade. Quando a natalidade é maior, há crescimento populacional. Sabia que em alguns países da Europa essa taxa já é negativa?",
+    "palavras_chave": ["crescimento natural", "natalidade", "mortalidade", "população", "demografia"]
+  },
+  {
+    "pergunta": "Como o desemprego influencia as migrações?",
+    "resposta": "O desemprego é um dos principais fatores de migração. Pessoas deixam regiões com poucas oportunidades em busca de trabalho e melhores condições de vida. Sabia que crises econômicas geram ondas migratórias até entre países desenvolvidos?",
+    "palavras_chave": ["desemprego", "migração", "economia", "trabalho", "população"]
+  },
+  {
+    "pergunta": "O que são áreas urbanas e rurais?",
+    "resposta": "Áreas urbanas concentram construções, serviços e alta densidade populacional, enquanto as rurais são voltadas à agricultura e têm menor ocupação humana. Sabia que a definição oficial de urbano varia conforme a legislação de cada país?",
+    "palavras_chave": ["urbano", "rural", "população", "agricultura", "cidade"]
+  },
+  {
+    "pergunta": "Como os censos ajudam no planejamento das cidades?",
+    "resposta": "Os censos fornecem dados sobre população, moradia e renda, fundamentais para políticas públicas e distribuição de recursos. Sem essas informações, o planejamento urbano se torna ineficiente. Sabia que o IBGE visita mais de 5 mil municípios a cada censo?",
+    "palavras_chave": ["censo", "planejamento", "população", "ibge", "políticas públicas"]
+  },
+  {
+    "pergunta": "O que é mobilidade social e como ela se relaciona com o espaço geográfico?",
+    "resposta": "Mobilidade social é a capacidade das pessoas mudarem de classe socioeconômica. O espaço urbano reflete essa mobilidade: quem ascende tende a mudar de bairro ou cidade. Sabia que a distribuição desigual da infraestrutura urbana reforça barreiras à mobilidade social?",
+    "palavras_chave": ["mobilidade social", "espaço urbano", "classe social", "desigualdade", "economia"]
+  },
+  {
+    "pergunta": "O que é urbanismo?",
+    "resposta": "Urbanismo é o estudo e planejamento das cidades, buscando organizar o espaço urbano, infraestrutura e serviços para melhorar a qualidade de vida. Ele envolve desde ruas e edifícios até transporte e áreas verdes. Sabia que o urbanismo moderno começou a se consolidar com a Revolução Industrial, quando cidades cresceram rapidamente?",
+    "palavras_chave": ["urbanismo", "cidade", "planejamento", "infraestrutura", "qualidade de vida"]
+  },
+  {
+    "pergunta": "Como a migração internacional afeta os países de destino?",
+    "resposta": "A migração internacional aumenta a diversidade cultural, força de trabalho e pode impulsionar a economia. Ao mesmo tempo, pode gerar desafios em habitação, saúde e integração social. Sabia que os Estados Unidos são o país que mais recebe imigrantes no mundo?",
+    "palavras_chave": ["migração internacional", "população", "economia", "integração", "diversidade"]
+  },
+  {
+    "pergunta": "O que é segregação urbana?",
+    "resposta": "Segregação urbana é a separação espacial de diferentes grupos sociais dentro das cidades, geralmente por renda ou etnia. Ela cria bairros ricos e periferias carentes. Sabia que o conceito de 'cidade partida' descreve essa realidade no Rio de Janeiro?",
+    "palavras_chave": ["segregação", "urbana", "cidade", "desigualdade", "periferia"]
+  },
+  {
+    "pergunta": "Como a globalização influencia o mercado de trabalho?",
+    "resposta": "A globalização cria novas oportunidades, mas também aumenta a competição por empregos e pode gerar desemprego em setores menos competitivos. Sabia que a terceirização e o trabalho remoto são fenômenos impulsionados pela globalização?",
+    "palavras_chave": ["globalização", "trabalho", "economia", "desemprego", "mercado"]
+  },
+  {
+    "pergunta": "O que é urbanização acelerada?",
+    "resposta": "Urbanização acelerada ocorre quando as cidades crescem rapidamente, muitas vezes sem planejamento adequado. Isso gera problemas como favelização, poluição e congestionamentos. Sabia que na América Latina, muitas cidades passaram por urbanização acelerada durante os anos 1950 a 1980?",
+    "palavras_chave": ["urbanização", "cidade", "crescimento", "planejamento", "desigualdade"]
+  },
+  {
+    "pergunta": "Como o desemprego influencia a demografia?",
+    "resposta": "O desemprego reduz a renda e influencia decisões de ter filhos, podendo diminuir o crescimento populacional. Também provoca migrações internas e internacionais em busca de trabalho. Sabia que crises econômicas em países europeus nos anos 2000 geraram migrações significativas para outras regiões?",
+    "palavras_chave": ["desemprego", "demografia", "migração", "população", "economia"]
+  },
+  {
+    "pergunta": "O que é densidade populacional?",
+    "resposta": "Densidade populacional é a relação entre o número de habitantes e a área ocupada. Indica concentração ou dispersão da população. Sabia que o Mônaco é o país mais densamente povoado do mundo, com mais de 25 mil pessoas por km²?",
+    "palavras_chave": ["densidade", "população", "território", "distribuição", "demografia"]
+  },
+  {
+    "pergunta": "Como as migrações sazonais impactam a economia?",
+    "resposta": "Migrações sazonais movimentam a economia ao atender demandas temporárias de trabalho, especialmente na agricultura e turismo. Sabia que trabalhadores sazonais do Nordeste brasileiro se deslocam para a colheita de cana-de-açúcar em São Paulo?",
+    "palavras_chave": ["migração", "sazonal", "economia", "trabalho", "população"]
+  },
+  {
+    "pergunta": "O que são cidades dormitorio?",
+    "resposta": "Cidades-dormitório concentram residências e recebem pessoas que trabalham em outra cidade, geralmente metrópoles. Elas surgem por causa do alto custo de vida nos centros urbanos. Sabia que várias cidades da Grande São Paulo funcionam como cidades-dormitório?",
+    "palavras_chave": ["cidade-dormitório", "urbanização", "trabalho", "população", "transporte"]
+  },
+  {
+    "pergunta": "Como o êxodo rural afetou a urbanização brasileira?",
+    "resposta": "O êxodo rural levou milhões a cidades em busca de trabalho e serviços, impulsionando o crescimento urbano e a formação de periferias. Sabia que nas décadas de 1950 a 1980, o Brasil teve um dos maiores êxodos rurais do mundo?",
+    "palavras_chave": ["êxodo rural", "urbanização", "população", "cidade", "trabalho"]
+  },
+  {
+    "pergunta": "O que são regiões de atração populacional?",
+    "resposta": "São áreas que recebem migrantes por melhores condições econômicas, sociais ou ambientais. Elas contrastam com regiões de repulsão. Sabia que o Sudeste brasileiro é historicamente uma região de atração populacional devido à industrialização?",
+    "palavras_chave": ["atração", "migração", "população", "economia", "território"]
+  },
+  {
+    "pergunta": "Como o transporte influencia a economia urbana?",
+    "resposta": "O transporte eficiente conecta trabalhadores a empregos e facilita o comércio, estimulando a economia. Problemas de mobilidade podem reduzir produtividade. Sabia que cidades com sistemas de transporte público eficientes, como Curitiba, apresentam melhor desenvolvimento urbano?",
+    "palavras_chave": ["transporte", "economia", "cidade", "urbanização", "mobilidade"]
+  },
+  {
+    "pergunta": "O que é população economicamente ativa (PEA)?",
+    "resposta": "A PEA é composta por pessoas em idade de trabalhar, que estão empregadas ou procurando emprego. É um indicador importante para políticas econômicas e sociais. Sabia que no Brasil, cerca de 60% da população faz parte da PEA?",
+    "palavras_chave": ["população economicamente ativa", "trabalho", "emprego", "economia", "demografia"]
+  },
+  {
+    "pergunta": "Como a urbanização influencia a saúde pública?",
+    "resposta": "Urbanização traz acesso a hospitais e saneamento, mas também aumenta riscos de poluição, doenças respiratórias e estresse. Planejamento urbano adequado é essencial. Sabia que a concentração de poluição em São Paulo impacta a saúde de milhões de habitantes?",
+    "palavras_chave": ["urbanização", "saúde", "cidade", "poluição", "planejamento"]
+  },
+  {
+    "pergunta": "O que são cidades inteligentes?",
+    "resposta": "Cidades inteligentes utilizam tecnologia e dados para melhorar serviços, mobilidade, segurança e sustentabilidade. Sabia que Curitiba e Barcelona têm projetos avançados nesse conceito, focando em transporte e energia eficiente?",
+    "palavras_chave": ["cidades inteligentes", "tecnologia", "urbanização", "sustentabilidade", "serviços"]
+  },
+  {
+    "pergunta": "Como a migração internacional altera a composição cultural?",
+    "resposta": "Migrantes trazem línguas, religiões, hábitos e culinária, aumentando a diversidade cultural nos países de destino. Sabia que os Estados Unidos têm uma das maiores misturas culturais do mundo devido a sucessivas ondas de imigração?",
+    "palavras_chave": ["migração", "cultura", "diversidade", "sociedade", "população"]
+  },
+  {
+    "pergunta": "O que é periferização urbana?",
+    "resposta": "Periferização é o crescimento das áreas afastadas do centro, geralmente ocupadas por população de baixa renda. Surge da falta de moradia acessível e da especulação imobiliária. Sabia que em São Paulo, cerca de 70% da população vive na periferia?",
+    "palavras_chave": ["periferia", "urbanização", "habitação", "desigualdade", "cidade"]
+  },
+  {
+    "pergunta": "Como as desigualdades regionais se refletem na educação?",
+    "resposta": "Regiões mais pobres têm menos acesso a escolas de qualidade, afetando alfabetização e oportunidades futuras. Isso também influencia migrações em busca de melhores serviços. Sabia que o Nordeste brasileiro ainda apresenta indicadores de educação inferiores ao Sul e Sudeste?",
+    "palavras_chave": ["desigualdade", "educação", "região", "população", "oportunidades"]
+  },
+  {
+    "pergunta": "O que é migração pendular?",
+    "resposta": "Migração pendular é o deslocamento diário entre residência e trabalho ou estudo. É comum em metrópoles e afeta transporte e qualidade de vida. Sabia que milhões de pessoas fazem migração pendular todos os dias na Região Metropolitana de São Paulo?",
+    "palavras_chave": ["migração pendular", "trabalho", "transporte", "cidade", "mobilidade"]
+  },
+  {
+    "pergunta": "Como a urbanização impacta o consumo de recursos naturais?",
+    "resposta": "Cidades concentram consumo de água, energia e alimentos, pressionando recursos naturais e gerando poluição. Planejamento urbano sustentável busca reduzir impactos. Sabia que áreas urbanas consomem cerca de 70% da energia mundial?",
+    "palavras_chave": ["urbanização", "recursos naturais", "sustentabilidade", "cidade", "consumo"]
+  },
+  {
+    "pergunta": "O que é migração de retorno?",
+    "resposta": "Migração de retorno ocorre quando pessoas que migraram retornam à sua região de origem, seja por fatores econômicos, familiares ou culturais. Sabia que muitos nordestinos migrantes retornam à região durante a aposentadoria ou crises econômicas?",
+    "palavras_chave": ["migração", "retorno", "população", "economia", "cultura"]
+  },
+  {
+    "pergunta": "Como a economia informal influencia as cidades?",
+    "resposta": "A economia informal gera renda e sustento para milhões, mas não contribui com impostos e direitos trabalhistas. É comum em países em desenvolvimento. Sabia que vendedores ambulantes e aplicativos de entrega são exemplos típicos dessa economia urbana?",
+    "palavras_chave": ["economia informal", "cidade", "trabalho", "população", "urbanização"]
+  },
+  {
+    "pergunta": "O que é planejamento territorial?",
+    "resposta": "Planejamento territorial organiza o uso do espaço urbano e rural, visando sustentabilidade, acessibilidade e desenvolvimento econômico. Sabia que o Plano Diretor é o principal instrumento de planejamento territorial nas cidades brasileiras?",
+    "palavras_chave": ["planejamento territorial", "espaço", "urbanização", "sustentabilidade", "desenvolvimento"]
+  },
+  {
+    "pergunta": "Como a educação influencia a migração?",
+    "resposta": "A busca por melhores escolas e universidades motiva migrações internas e internacionais. Isso altera a distribuição populacional e fortalece cidades educacionais. Sabia que cidades como Campinas e São Carlos atraem estudantes de várias regiões do Brasil?",
+    "palavras_chave": ["educação", "migração", "população", "cidade", "oportunidades"]
+  },
+  {
+    "pergunta": "O que é crescimento populacional?",
+    "resposta": "Crescimento populacional é a variação da população em um período, influenciado por natalidade, mortalidade e migrações. Ele impacta economia, recursos e planejamento urbano. Sabia que o crescimento global desacelerou nas últimas décadas, mas continua positivo?",
+    "palavras_chave": ["crescimento populacional", "natalidade", "mortalidade", "migração", "população"]
+  },
+  {
+    "pergunta": "Como a urbanização afeta a segregação socioespacial?",
+    "resposta": "A urbanização concentrada em áreas centrais aumenta a segregação, enquanto a periferização cria bolsões de desigualdade. Planejamento urbano inclusivo pode reduzir essas diferenças. Sabia que políticas de habitação social já diminuíram a segregação em algumas cidades brasileiras?",
+    "palavras_chave": ["urbanização", "segregação", "cidade", "desigualdade", "planejamento"]
+  },
+  {
+    "pergunta": "O que são áreas de expansão urbana?",
+    "resposta": "São regiões onde a cidade cresce em direção à periferia, geralmente ocupadas por novos bairros residenciais ou comerciais. Sabia que a expansão urbana é mais rápida em cidades em desenvolvimento, como as brasileiras do Sudeste?",
+    "palavras_chave": ["expansão urbana", "cidade", "periferia", "urbanização", "desenvolvimento"]
+  },
+  {
+    "pergunta": "Como as migrações internacionais afetam a demografia?",
+    "resposta": "Elas alteram a composição etária, cultural e econômica das populações, trazendo diversidade, mas também desafios sociais. Sabia que a Alemanha recebeu milhões de migrantes durante a crise de refugiados sírios em 2015?",
+    "palavras_chave": ["migração internacional", "demografia", "população", "cultura", "sociedade"]
+  },
+  {
+    "pergunta": "O que é mobilidade urbana?",
+    "resposta": "Mobilidade urbana é a capacidade de deslocamento eficiente de pessoas e mercadorias nas cidades, influenciada por transporte público e infraestrutura. Sabia que investir em ciclovias aumenta a mobilidade sustentável e reduz congestionamentos?",
+    "palavras_chave": ["mobilidade urbana", "transporte", "cidade", "infraestrutura", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como a urbanização influencia a cultura urbana?",
+    "resposta": "Urbanização concentra pessoas e cria espaços culturais, como teatros, cinemas e centros de convivência, promovendo diversidade e inovação cultural. Sabia que a cultura de rua, como grafites e música, cresce proporcionalmente à urbanização?",
+    "palavras_chave": ["urbanização", "cultura", "cidade", "população", "diversidade"]
+  },
+  {
+    "pergunta": "O que é suburbanização?",
+    "resposta": "Suburbanização é o crescimento das áreas ao redor das cidades, formando subúrbios residenciais e comerciais. Ela é impulsionada pelo alto custo do centro urbano e busca por mais qualidade de vida. Sabia que em São Paulo, a suburbanização acelerou nos anos 1970 com a expansão de bairros como Guarulhos e Osasco?",
+    "palavras_chave": ["suburbanização", "cidade", "periferia", "urbanização", "desenvolvimento"]
+  },
+  {
+    "pergunta": "Como a imigração influencia a economia local?",
+    "resposta": "Imigrantes trazem mão de obra, habilidades e consumo, impulsionando setores econômicos e diversificando o mercado. Sabia que em cidades como Toronto e Nova York, imigrantes representam uma parcela significativa do empreendedorismo local?",
+    "palavras_chave": ["imigração", "economia", "trabalho", "população", "cidade"]
+  },
+  {
+    "pergunta": "O que é gentrificação?",
+    "resposta": "Gentrificação é o processo de valorização urbana de bairros antes degradados, atraindo moradores de maior renda e deslocando a população original. Sabia que o bairro da Vila Madalena, em São Paulo, passou por gentrificação nas últimas décadas?",
+    "palavras_chave": ["gentrificação", "cidade", "urbanização", "desigualdade", "moradia"]
+  },
+  {
+    "pergunta": "Como a urbanização influencia a poluição?",
+    "resposta": "Cidades concentram veículos, indústrias e construções, gerando poluição do ar, água e solo. Planejamento e transporte sustentável ajudam a reduzir impactos. Sabia que em São Paulo, medidas de rodízio de veículos foram implementadas para reduzir poluição do ar?",
+    "palavras_chave": ["urbanização", "poluição", "cidade", "meio ambiente", "transporte"]
+  },
+  {
+    "pergunta": "O que são cidades satélites?",
+    "resposta": "Cidades satélites são municípios próximos a grandes metrópoles, dependentes economicamente do centro urbano. Elas surgem para abrigar população e atividades de suporte. Sabia que Brasília possui várias cidades satélites, como Taguatinga e Ceilândia?",
+    "palavras_chave": ["cidade satélite", "metrópole", "urbanização", "população", "economia"]
+  },
+  {
+    "pergunta": "Como o transporte público influencia a mobilidade urbana?",
+    "resposta": "Transporte público eficiente permite deslocamentos rápidos, reduz congestionamentos e melhora qualidade de vida. Sabia que Curitiba é referência mundial pelo sistema de ônibus rápido, que inspirou várias cidades?",
+    "palavras_chave": ["transporte público", "mobilidade", "cidade", "urbanização", "qualidade de vida"]
+  },
+  {
+    "pergunta": "O que é migração forçada e quais suas causas?",
+    "resposta": "Migração forçada ocorre devido a guerras, perseguições, desastres naturais ou crises econômicas, obrigando pessoas a deixar suas casas. Sabia que a crise na Síria gerou milhões de refugiados desde 2011?",
+    "palavras_chave": ["migração forçada", "refugiados", "população", "deslocamento", "crise"]
+  },
+  {
+    "pergunta": "Como a urbanização afeta a desigualdade social?",
+    "resposta": "A urbanização concentrada cria centros ricos e periferias carentes, reforçando desigualdades. Planejamento urbano inclusivo pode reduzir disparidades. Sabia que políticas de habitação social ajudaram a melhorar a distribuição urbana em algumas cidades brasileiras?",
+    "palavras_chave": ["urbanização", "desigualdade", "cidade", "periferia", "planejamento"]
+  },
+  {
+    "pergunta": "O que é migração rural-urbana?",
+    "resposta": "Migração rural-urbana é o deslocamento de pessoas do campo para cidades, geralmente em busca de trabalho e melhores condições de vida. Sabia que esse processo intensificou a urbanização no Brasil a partir dos anos 1950?",
+    "palavras_chave": ["migração", "rural-urbana", "cidade", "trabalho", "população"]
+  },
+  {
+    "pergunta": "Como a tecnologia transforma as cidades?",
+    "resposta": "Tecnologia melhora mobilidade, serviços públicos e planejamento urbano, criando cidades mais inteligentes e conectadas. Sabia que sensores de tráfego e aplicativos de transporte são exemplos de tecnologia urbana aplicada?",
+    "palavras_chave": ["tecnologia", "cidade", "mobilidade", "urbanização", "planejamento"]
+  },
+  {
+    "pergunta": "O que são áreas de repulsão populacional?",
+    "resposta": "Áreas de repulsão têm baixa atratividade, levando pessoas a migrar por falta de empregos, infraestrutura ou segurança. Sabia que regiões áridas e com pouco desenvolvimento econômico frequentemente funcionam como áreas de repulsão?",
+    "palavras_chave": ["repulsão", "população", "migração", "território", "desenvolvimento"]
+  },
+  {
+    "pergunta": "Como a urbanização influencia a segregação socioespacial?",
+    "resposta": "Urbanização concentra população e serviços, enquanto periferização cria bolsões de desigualdade. Políticas de habitação social ajudam a reduzir a segregação. Sabia que em São Paulo, ações de regularização fundiária diminuíram parte da segregação urbana?",
+    "palavras_chave": ["urbanização", "segregação", "periferia", "cidade", "desigualdade"]
+  },
+  {
+    "pergunta": "O que é densidade demográfica e como é calculada?",
+    "resposta": "Densidade demográfica relaciona o número de habitantes com a área de um território. É calculada dividindo-se a população pelo território. Sabia que a densidade populacional média do Brasil é baixa, mas há regiões extremamente concentradas, como o Sudeste?",
+    "palavras_chave": ["densidade", "população", "território", "demografia", "distribuição"]
+  },
+  {
+    "pergunta": "Como a educação influencia o crescimento populacional?",
+    "resposta": "Maior acesso à educação, especialmente feminina, reduz a fecundidade e impacta o crescimento populacional. Sabia que países com alta escolaridade feminina geralmente apresentam taxas de natalidade mais baixas?",
+    "palavras_chave": ["educação", "fecundidade", "população", "crescimento", "demografia"]
+  },
+  {
+    "pergunta": "O que é migração pendular?",
+    "resposta": "Migração pendular é o deslocamento diário entre residência e trabalho ou estudo, comum em metrópoles. Afeta transporte e mobilidade urbana. Sabia que milhões de pessoas fazem migração pendular diariamente na Região Metropolitana de São Paulo?",
+    "palavras_chave": ["migração pendular", "transporte", "mobilidade", "cidade", "trabalho"]
+  },
+  {
+    "pergunta": "Como a urbanização afeta o consumo de energia?",
+    "resposta": "Cidades concentram consumo de energia em transporte, indústria e residências, pressionando recursos naturais e aumentando emissões. Sabia que áreas urbanas consomem cerca de 70% da energia global?",
+    "palavras_chave": ["urbanização", "energia", "cidade", "consumo", "recursos"]
+  },
+  {
+    "pergunta": "O que é crescimento populacional natural?",
+    "resposta": "Crescimento natural é a diferença entre natalidade e mortalidade. Quando a natalidade supera a mortalidade, a população cresce. Sabia que o Brasil apresenta crescimento populacional desacelerado devido à redução da natalidade nas últimas décadas?",
+    "palavras_chave": ["crescimento populacional", "natalidade", "mortalidade", "população", "demografia"]
+  },
+  {
+    "pergunta": "Como a globalização afeta a cultura urbana?",
+    "resposta": "Globalização difunde estilos, produtos e hábitos culturais, moldando cidades e alterando práticas locais. Sabia que o fast food e a moda global são exemplos de influência cultural nas cidades?",
+    "palavras_chave": ["globalização", "cultura", "cidade", "urbanização", "sociedade"]
+  },
+  {
+    "pergunta": "O que é mobilidade social urbana?",
+    "resposta": "Mobilidade social urbana é a capacidade de ascender ou descender economicamente dentro de uma cidade, influenciada por educação, emprego e acesso a serviços. Sabia que bairros com melhor infraestrutura tendem a oferecer mais oportunidades de mobilidade social?",
+    "palavras_chave": ["mobilidade social", "cidade", "urbanização", "desigualdade", "oportunidades"]
+  },
+  {
+    "pergunta": "Como as políticas públicas influenciam a urbanização?",
+    "resposta": "Políticas de habitação, transporte e saneamento orientam o crescimento urbano e reduzem desigualdades. Sem elas, surgem ocupações irregulares e problemas ambientais. Sabia que o Plano Diretor é o principal instrumento para guiar a urbanização no Brasil?",
+    "palavras_chave": ["políticas públicas", "urbanização", "cidade", "planejamento", "desenvolvimento"]
+  },
+  {
+    "pergunta": "O que são regiões metropolitanas?",
+    "resposta": "Regiões metropolitanas são conjuntos de municípios interligados por economia, transporte e serviços, com uma cidade central dominante. Sabia que a Região Metropolitana de São Paulo é a maior do Brasil, com mais de 20 milhões de habitantes?",
+    "palavras_chave": ["região metropolitana", "cidade", "urbanização", "população", "economia"]
+  },
+  {
+    "pergunta": "Como o turismo influencia a geografia humana?",
+    "resposta": "Turismo movimenta a economia local, cria empregos e transforma espaços urbanos e rurais, mas pode causar impactos ambientais. Sabia que cidades históricas como Ouro Preto recebem turistas do mundo todo, moldando sua economia e espaço urbano?",
+    "palavras_chave": ["turismo", "economia", "população", "cultura", "geografia humana"]
+  },
+  {
+    "pergunta": "O que é periferização urbana?",
+    "resposta": "Periferização urbana é a expansão da cidade para áreas afastadas do centro, geralmente ocupadas por população de baixa renda. Sabia que grande parte da população de São Paulo vive em periferias?",
+    "palavras_chave": ["periferia", "urbanização", "habitação", "cidade", "desigualdade"]
+  },
+  {
+    "pergunta": "Como a urbanização influencia o planejamento ambiental?",
+    "resposta": "Urbanização exige planejamento ambiental para reduzir poluição, preservar áreas verdes e gerenciar recursos. Sabia que algumas cidades brasileiras criaram áreas de proteção ambiental para conter impactos urbanos?",
+    "palavras_chave": ["urbanização", "planejamento", "meio ambiente", "cidade", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é densidade populacional relativa?",
+    "resposta": "Densidade populacional relativa relaciona o número de habitantes com a área habitável ou disponível de um território, refletindo pressão sobre recursos. Sabia que regiões áridas ou montanhosas têm densidade relativa baixa mesmo com população considerável?",
+    "palavras_chave": ["densidade relativa", "população", "território", "recursos", "demografia"]
+  },
+  {
+    "pergunta": "Como a urbanização afeta o transporte coletivo?",
+    "resposta": "Urbanização concentra demanda por transporte coletivo, exigindo planejamento e investimento. Sem isso, surgem congestionamentos e sobrecarga do sistema. Sabia que cidades como Curitiba e Bogotá são referência em transporte coletivo eficiente?",
+    "palavras_chave": ["urbanização", "transporte coletivo", "cidade", "mobilidade", "planejamento"]
+  },
+  {
+    "pergunta": "O que é migração internacional econômica?",
+    "resposta": "Migração internacional econômica ocorre quando pessoas se deslocam para outro país em busca de melhores empregos e renda. Sabia que muitos brasileiros migraram para os EUA e Portugal nos últimos anos por motivos econômicos?",
+    "palavras_chave": ["migração", "internacional", "economia", "população", "trabalho"]
+  },
+  {
+    "pergunta": "Como a educação influencia a mobilidade social?",
+    "resposta": "Educação amplia oportunidades de emprego, renda e ascensão social, permitindo mudanças no status econômico. Sabia que regiões com melhores escolas e universidades oferecem maior mobilidade social aos jovens?",
+    "palavras_chave": ["educação", "mobilidade social", "oportunidades", "população", "cidade"]
+  },
+  {
+    "pergunta": "O que são cidades médias e qual seu papel?",
+    "resposta": "Cidades médias têm população entre 100 mil e 1 milhão de habitantes, funcionando como centros regionais de comércio, educação e serviços. Sabia que cidades médias são cruciais para reduzir pressão sobre grandes metrópoles?",
+    "palavras_chave": ["cidades médias", "urbanização", "população", "serviços", "economia"]
+  },
+  {
+    "pergunta": "Como a urbanização influencia a qualidade de vida?",
+    "resposta": "Urbanização organizada melhora acesso a serviços, emprego e lazer, mas mal planejada pode gerar desigualdade e poluição. Sabia que cidades que investem em transporte, saneamento e áreas verdes apresentam melhor qualidade de vida?",
+    "palavras_chave": ["urbanização", "qualidade de vida", "cidade", "planejamento", "população"]
+  },
+  {
+    "pergunta": "O que é suburbanização?",
+    "resposta": "Suburbanização é o crescimento das áreas ao redor das cidades, formando subúrbios residenciais e comerciais. Ela é impulsionada pelo alto custo do centro urbano e busca por mais qualidade de vida. Sabia que em São Paulo, a suburbanização acelerou nos anos 1970 com a expansão de bairros como Guarulhos e Osasco?",
+    "palavras_chave": ["suburbanização", "cidade", "periferia", "urbanização", "desenvolvimento"]
+  },
+  {
+    "pergunta": "Como a imigração influencia a economia local?",
+    "resposta": "Imigrantes trazem mão de obra, habilidades e consumo, impulsionando setores econômicos e diversificando o mercado. Sabia que em cidades como Toronto e Nova York, imigrantes representam uma parcela significativa do empreendedorismo local?",
+    "palavras_chave": ["imigração", "economia", "trabalho", "população", "cidade"]
+  },
+  {
+    "pergunta": "O que é gentrificação?",
+    "resposta": "Gentrificação é o processo de valorização urbana de bairros antes degradados, atraindo moradores de maior renda e deslocando a população original. Sabia que o bairro da Vila Madalena, em São Paulo, passou por gentrificação nas últimas décadas?",
+    "palavras_chave": ["gentrificação", "cidade", "urbanização", "desigualdade", "moradia"]
+  },
+  {
+    "pergunta": "Como a urbanização influencia a poluição?",
+    "resposta": "Cidades concentram veículos, indústrias e construções, gerando poluição do ar, água e solo. Planejamento e transporte sustentável ajudam a reduzir impactos. Sabia que em São Paulo, medidas de rodízio de veículos foram implementadas para reduzir poluição do ar?",
+    "palavras_chave": ["urbanização", "poluição", "cidade", "meio ambiente", "transporte"]
+  },
+  {
+    "pergunta": "O que são cidades satélites?",
+    "resposta": "Cidades satélites são municípios próximos a grandes metrópoles, dependentes economicamente do centro urbano. Elas surgem para abrigar população e atividades de suporte. Sabia que Brasília possui várias cidades satélites, como Taguatinga e Ceilândia?",
+    "palavras_chave": ["cidade satélite", "metrópole", "urbanização", "população", "economia"]
+  },
+  {
+    "pergunta": "Como o transporte público influencia a mobilidade urbana?",
+    "resposta": "Transporte público eficiente permite deslocamentos rápidos, reduz congestionamentos e melhora qualidade de vida. Sabia que Curitiba é referência mundial pelo sistema de ônibus rápido, que inspirou várias cidades?",
+    "palavras_chave": ["transporte público", "mobilidade", "cidade", "urbanização", "qualidade de vida"]
+  },
+  {
+    "pergunta": "O que é migração forçada e quais suas causas?",
+    "resposta": "Migração forçada ocorre devido a guerras, perseguições, desastres naturais ou crises econômicas, obrigando pessoas a deixar suas casas. Sabia que a crise na Síria gerou milhões de refugiados desde 2011?",
+    "palavras_chave": ["migração forçada", "refugiados", "população", "deslocamento", "crise"]
+  },
+  {
+    "pergunta": "Como a urbanização afeta a desigualdade social?",
+    "resposta": "A urbanização concentrada cria centros ricos e periferias carentes, reforçando desigualdades. Planejamento urbano inclusivo pode reduzir disparidades. Sabia que políticas de habitação social ajudaram a melhorar a distribuição urbana em algumas cidades brasileiras?",
+    "palavras_chave": ["urbanização", "desigualdade", "cidade", "periferia", "planejamento"]
+  },
+  {
+    "pergunta": "O que é migração rural-urbana?",
+    "resposta": "Migração rural-urbana é o deslocamento de pessoas do campo para cidades, geralmente em busca de trabalho e melhores condições de vida. Sabia que esse processo intensificou a urbanização no Brasil a partir dos anos 1950?",
+    "palavras_chave": ["migração", "rural-urbana", "cidade", "trabalho", "população"]
+  },
+  {
+    "pergunta": "Como a tecnologia transforma as cidades?",
+    "resposta": "Tecnologia melhora mobilidade, serviços públicos e planejamento urbano, criando cidades mais inteligentes e conectadas. Sabia que sensores de tráfego e aplicativos de transporte são exemplos de tecnologia urbana aplicada?",
+    "palavras_chave": ["tecnologia", "cidade", "mobilidade", "urbanização", "planejamento"]
+  },
+  {
+    "pergunta": "O que são áreas de repulsão populacional?",
+    "resposta": "Áreas de repulsão têm baixa atratividade, levando pessoas a migrar por falta de empregos, infraestrutura ou segurança. Sabia que regiões áridas e com pouco desenvolvimento econômico frequentemente funcionam como áreas de repulsão?",
+    "palavras_chave": ["repulsão", "população", "migração", "território", "desenvolvimento"]
+  },
+  {
+    "pergunta": "Como a urbanização influencia a segregação socioespacial?",
+    "resposta": "Urbanização concentra população e serviços, enquanto periferização cria bolsões de desigualdade. Políticas de habitação social ajudam a reduzir a segregação. Sabia que em São Paulo, ações de regularização fundiária diminuíram parte da segregação urbana?",
+    "palavras_chave": ["urbanização", "segregação", "periferia", "cidade", "desigualdade"]
+  },
+  {
+    "pergunta": "O que é densidade demográfica e como é calculada?",
+    "resposta": "Densidade demográfica relaciona o número de habitantes com a área de um território. É calculada dividindo-se a população pelo território. Sabia que a densidade populacional média do Brasil é baixa, mas há regiões extremamente concentradas, como o Sudeste?",
+    "palavras_chave": ["densidade", "população", "território", "demografia", "distribuição"]
+  },
+  {
+    "pergunta": "Como a educação influencia o crescimento populacional?",
+    "resposta": "Maior acesso à educação, especialmente feminina, reduz a fecundidade e impacta o crescimento populacional. Sabia que países com alta escolaridade feminina geralmente apresentam taxas de natalidade mais baixas?",
+    "palavras_chave": ["educação", "fecundidade", "população", "crescimento", "demografia"]
+  },
+  {
+    "pergunta": "O que é migração pendular?",
+    "resposta": "Migração pendular é o deslocamento diário entre residência e trabalho ou estudo, comum em metrópoles. Afeta transporte e mobilidade urbana. Sabia que milhões de pessoas fazem migração pendular diariamente na Região Metropolitana de São Paulo?",
+    "palavras_chave": ["migração pendular", "transporte", "mobilidade", "cidade", "trabalho"]
+  },
+  {
+    "pergunta": "Como a urbanização afeta o consumo de energia?",
+    "resposta": "Cidades concentram consumo de energia em transporte, indústria e residências, pressionando recursos naturais e aumentando emissões. Sabia que áreas urbanas consomem cerca de 70% da energia global?",
+    "palavras_chave": ["urbanização", "energia", "cidade", "consumo", "recursos"]
+  },
+  {
+    "pergunta": "O que é crescimento populacional natural?",
+    "resposta": "Crescimento natural é a diferença entre natalidade e mortalidade. Quando a natalidade supera a mortalidade, a população cresce. Sabia que o Brasil apresenta crescimento populacional desacelerado devido à redução da natalidade nas últimas décadas?",
+    "palavras_chave": ["crescimento populacional", "natalidade", "mortalidade", "população", "demografia"]
+  },
+  {
+    "pergunta": "Como a globalização afeta a cultura urbana?",
+    "resposta": "Globalização difunde estilos, produtos e hábitos culturais, moldando cidades e alterando práticas locais. Sabia que o fast food e a moda global são exemplos de influência cultural nas cidades?",
+    "palavras_chave": ["globalização", "cultura", "cidade", "urbanização", "sociedade"]
+  },
+  {
+    "pergunta": "O que é mobilidade social urbana?",
+    "resposta": "Mobilidade social urbana é a capacidade de ascender ou descender economicamente dentro de uma cidade, influenciada por educação, emprego e acesso a serviços. Sabia que bairros com melhor infraestrutura tendem a oferecer mais oportunidades de mobilidade social?",
+    "palavras_chave": ["mobilidade social", "cidade", "urbanização", "desigualdade", "oportunidades"]
+  },
+  {
+    "pergunta": "Como as políticas públicas influenciam a urbanização?",
+    "resposta": "Políticas de habitação, transporte e saneamento orientam o crescimento urbano e reduzem desigualdades. Sem elas, surgem ocupações irregulares e problemas ambientais. Sabia que o Plano Diretor é o principal instrumento para guiar a urbanização no Brasil?",
+    "palavras_chave": ["políticas públicas", "urbanização", "cidade", "planejamento", "desenvolvimento"]
+  },
+  {
+    "pergunta": "O que são regiões metropolitanas?",
+    "resposta": "Regiões metropolitanas são conjuntos de municípios interligados por economia, transporte e serviços, com uma cidade central dominante. Sabia que a Região Metropolitana de São Paulo é a maior do Brasil, com mais de 20 milhões de habitantes?",
+    "palavras_chave": ["região metropolitana", "cidade", "urbanização", "população", "economia"]
+  },
+  {
+    "pergunta": "Como o turismo influencia a geografia humana?",
+    "resposta": "Turismo movimenta a economia local, cria empregos e transforma espaços urbanos e rurais, mas pode causar impactos ambientais. Sabia que cidades históricas como Ouro Preto recebem turistas do mundo todo, moldando sua economia e espaço urbano?",
+    "palavras_chave": ["turismo", "economia", "população", "cultura", "geografia humana"]
+  },
+  {
+    "pergunta": "O que é periferização urbana?",
+    "resposta": "Periferização urbana é a expansão da cidade para áreas afastadas do centro, geralmente ocupadas por população de baixa renda. Sabia que grande parte da população de São Paulo vive em periferias?",
+    "palavras_chave": ["periferia", "urbanização", "habitação", "cidade", "desigualdade"]
+  },
+  {
+    "pergunta": "Como a urbanização influencia o planejamento ambiental?",
+    "resposta": "Urbanização exige planejamento ambiental para reduzir poluição, preservar áreas verdes e gerenciar recursos. Sabia que algumas cidades brasileiras criaram áreas de proteção ambiental para conter impactos urbanos?",
+    "palavras_chave": ["urbanização", "planejamento", "meio ambiente", "cidade", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é densidade populacional relativa?",
+    "resposta": "Densidade populacional relativa relaciona o número de habitantes com a área habitável ou disponível de um território, refletindo pressão sobre recursos. Sabia que regiões áridas ou montanhosas têm densidade relativa baixa mesmo com população considerável?",
+    "palavras_chave": ["densidade relativa", "população", "território", "recursos", "demografia"]
+  },
+  {
+    "pergunta": "Como a urbanização afeta o transporte coletivo?",
+    "resposta": "Urbanização concentra demanda por transporte coletivo, exigindo planejamento e investimento. Sem isso, surgem congestionamentos e sobrecarga do sistema. Sabia que cidades como Curitiba e Bogotá são referência em transporte coletivo eficiente?",
+    "palavras_chave": ["urbanização", "transporte coletivo", "cidade", "mobilidade", "planejamento"]
+  },
+  {
+    "pergunta": "O que é migração internacional econômica?",
+    "resposta": "Migração internacional econômica ocorre quando pessoas se deslocam para outro país em busca de melhores empregos e renda. Sabia que muitos brasileiros migraram para os EUA e Portugal nos últimos anos por motivos econômicos?",
+    "palavras_chave": ["migração", "internacional", "economia", "população", "trabalho"]
+  },
+  {
+    "pergunta": "Como a educação influencia a mobilidade social?",
+    "resposta": "Educação amplia oportunidades de emprego, renda e ascensão social, permitindo mudanças no status econômico. Sabia que regiões com melhores escolas e universidades oferecem maior mobilidade social aos jovens?",
+    "palavras_chave": ["educação", "mobilidade social", "oportunidades", "população", "cidade"]
+  },
+  {
+    "pergunta": "O que são cidades médias e qual seu papel?",
+    "resposta": "Cidades médias têm população entre 100 mil e 1 milhão de habitantes, funcionando como centros regionais de comércio, educação e serviços. Sabia que cidades médias são cruciais para reduzir pressão sobre grandes metrópoles?",
+    "palavras_chave": ["cidades médias", "urbanização", "população", "serviços", "economia"]
+  },
+  {
+    "pergunta": "Como a urbanização influencia a qualidade de vida?",
+    "resposta": "Urbanização organizada melhora acesso a serviços, emprego e lazer, mas mal planejada pode gerar desigualdade e poluição. Sabia que cidades que investem em transporte, saneamento e áreas verdes apresentam melhor qualidade de vida?",
+    "palavras_chave": ["urbanização", "qualidade de vida", "cidade", "planejamento", "população"]
+  }
+]
+

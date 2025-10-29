@@ -1,0 +1,592 @@
+[
+  {
+    "pergunta": "O que são números naturais?",
+    "resposta": "Os números naturais são aqueles usados para contar e enumerar objetos: 0, 1, 2, 3 e assim por diante. Eles são a base da aritmética e aparecem desde as primeiras civilizações, quando era preciso registrar colheitas ou animais. Um exemplo simples é contar quantos alunos há em uma sala. Sabia que o zero só foi incorporado ao sistema numérico séculos depois, pelos indianos, e revolucionou os cálculos matemáticos?",
+    "palavras_chave": ["números naturais", "contagem", "aritmética", "zero", "história"]
+  },
+  {
+    "pergunta": "Qual é a diferença entre número e algarismo?",
+    "resposta": "Um número representa uma quantidade ou valor, enquanto o algarismo é apenas um símbolo usado para escrever esse número. Por exemplo, o número 245 é formado pelos algarismos 2, 4 e 5. É como as letras e as palavras: letras formam palavras, e algarismos formam números. Sabia que usamos apenas dez algarismos, de 0 a 9, para representar infinitos números?",
+    "palavras_chave": ["número", "algarismo", "quantidade", "sistema decimal", "representação"]
+  },
+  {
+    "pergunta": "O que são números inteiros?",
+    "resposta": "Os números inteiros incluem todos os naturais, seus opostos negativos e o zero. Ou seja, ..., -3, -2, -1, 0, 1, 2, 3... Eles são usados para representar ganhos e perdas, como em temperaturas abaixo de zero ou dívidas em dinheiro. Sabia que os romanos não tinham números negativos, e isso limitava muito os cálculos econômicos e científicos da época?",
+    "palavras_chave": ["números inteiros", "negativos", "zero", "temperatura", "romanos"]
+  },
+  {
+    "pergunta": "Por que o zero é considerado um número especial?",
+    "resposta": "O zero é especial porque representa a ausência de quantidade e é essencial em praticamente todos os sistemas numéricos. Ele permite a existência do valor posicional e é a base da matemática moderna. Sem o zero, não poderíamos distinguir 10 de 1, por exemplo. Sabia que o conceito de zero surgiu na Índia e foi trazido à Europa pelos árabes?",
+    "palavras_chave": ["zero", "quantidade", "posicional", "índia", "matemática"]
+  },
+  {
+    "pergunta": "O que são números racionais?",
+    "resposta": "Números racionais são todos aqueles que podem ser escritos como fração, onde o numerador e o denominador são inteiros e o denominador é diferente de zero. Eles representam partes de um todo, como 1/2 ou 0,75. São muito usados em medidas, receitas e dinheiro. Sabia que a palavra ‘racional’ vem de ‘razão’, justamente porque expressa uma razão entre dois números?",
+    "palavras_chave": ["números racionais", "fração", "razão", "medidas", "divisão"]
+  },
+  {
+    "pergunta": "O que são números irracionais?",
+    "resposta": "Os números irracionais não podem ser escritos como fração exata de dois inteiros. Suas casas decimais são infinitas e não se repetem, como o π (pi) e a raiz quadrada de 2. Eles surgem em situações geométricas, como o cálculo da diagonal de um quadrado. Sabia que o matemático Pitágoras ficou intrigado ao descobrir que a diagonal de um quadrado de lado 1 não podia ser expressa como uma fração simples?",
+    "palavras_chave": ["números irracionais", "pi", "raiz quadrada", "pitágoras", "decimal"]
+  },
+  {
+    "pergunta": "O que são números reais?",
+    "resposta": "Os números reais reúnem os racionais e os irracionais, formando um conjunto contínuo que representa todos os pontos de uma reta numérica. Isso significa que entre dois números reais sempre há outro. Eles são fundamentais na física e na engenharia para representar medidas contínuas. Sabia que o nome ‘real’ vem da ideia de representar qualquer quantidade ‘real’, do mundo concreto?",
+    "palavras_chave": ["números reais", "reta numérica", "racionais", "irracionais", "continuidade"]
+  },
+  {
+    "pergunta": "O que são números primos?",
+    "resposta": "Números primos são aqueles que só podem ser divididos por 1 e por eles mesmos, como 2, 3, 5, 7, 11... Eles são considerados os ‘átomos’ dos números, pois todos os outros podem ser formados a partir deles, através da multiplicação. Sabia que o número 2 é o único primo par e que existem pesquisas que ainda hoje buscam novos números primos gigantes?",
+    "palavras_chave": ["números primos", "divisão", "fatoração", "2", "pesquisa"]
+  },
+  {
+    "pergunta": "O que são números compostos?",
+    "resposta": "Os números compostos são aqueles que têm mais de dois divisores, ou seja, podem ser divididos por outros números além de 1 e deles mesmos. Por exemplo, 6 é composto porque é divisível por 2 e 3. Eles são o oposto dos números primos. Sabia que o número 4 é o primeiro número composto da sequência natural?",
+    "palavras_chave": ["números compostos", "divisores", "fatoração", "números primos", "divisão"]
+  },
+  {
+    "pergunta": "Para que serve a decomposição em fatores primos?",
+    "resposta": "A decomposição em fatores primos serve para expressar um número composto como o produto de números primos. Isso é útil em cálculos de mínimo múltiplo comum (MMC) e máximo divisor comum (MDC). Por exemplo, 60 = 2² × 3 × 5. Sabia que esse método é usado até em criptografia moderna, como na proteção de dados bancários?",
+    "palavras_chave": ["fatores primos", "decomposição", "mmc", "mdc", "criptografia"]
+  },
+  {
+    "pergunta": "O que é um número par?",
+    "resposta": "Um número par é aquele divisível por 2, ou seja, quando dividido por 2 resulta em um número inteiro. Exemplos: 4, 10, 28. Essa característica é útil para identificar simetrias e padrões. Sabia que todos os números pares podem ser escritos como 2 vezes outro número inteiro?",
+    "palavras_chave": ["número par", "divisibilidade", "dois", "simetria", "matemática"]
+  },
+  {
+    "pergunta": "E o que é um número ímpar?",
+    "resposta": "Números ímpares são aqueles que não podem ser divididos por 2 sem deixar resto. São 1, 3, 5, 7, 9... Eles costumam aparecer em padrões alternados e são essenciais em divisões e agrupamentos. Sabia que a soma de dois números ímpares sempre resulta em um número par?",
+    "palavras_chave": ["número ímpar", "divisão", "resto", "padrão", "soma"]
+  },
+  {
+    "pergunta": "O que é valor absoluto de um número?",
+    "resposta": "O valor absoluto representa a distância de um número até o zero na reta numérica, sem considerar o sinal. Assim, o valor absoluto de -5 é 5. Esse conceito é importante para medir distâncias e diferenças. Sabia que o símbolo usado para valor absoluto são duas barras verticais, como em |−7| = 7?",
+    "palavras_chave": ["valor absoluto", "distância", "reta numérica", "sinal", "módulo"]
+  },
+  {
+    "pergunta": "O que significa múltiplo de um número?",
+    "resposta": "Um múltiplo é o resultado da multiplicação de um número por qualquer número inteiro. Por exemplo, os múltiplos de 3 são 3, 6, 9, 12... Eles ajudam a entender padrões e resolver problemas de divisibilidade. Sabia que todo número é múltiplo de si mesmo e também de zero?",
+    "palavras_chave": ["múltiplos", "multiplicação", "divisibilidade", "padrões", "números"]
+  },
+  {
+    "pergunta": "O que é um divisor de um número?",
+    "resposta": "Um divisor é um número que divide outro exatamente, sem deixar resto. Por exemplo, 4 é divisor de 12, porque 12 ÷ 4 = 3. Os divisores ajudam a identificar padrões e resolver problemas de fatoração. Sabia que todo número é divisor de zero, já que 0 dividido por qualquer número é 0?",
+    "palavras_chave": ["divisor", "divisão", "resto", "fatoração", "zero"]
+  },
+  {
+    "pergunta": "O que são frações equivalentes?",
+    "resposta": "Frações equivalentes representam a mesma parte de um todo, mesmo que pareçam diferentes. Por exemplo, 1/2 é igual a 2/4 ou 4/8. Isso ocorre porque multiplicamos ou dividimos numerador e denominador pelo mesmo número. Sabia que essa ideia é usada para simplificar expressões e tornar cálculos mais rápidos?",
+    "palavras_chave": ["frações equivalentes", "numerador", "denominador", "simplificação", "proporção"]
+  },
+  {
+    "pergunta": "O que é uma fração irredutível?",
+    "resposta": "Uma fração é irredutível quando não pode mais ser simplificada, ou seja, quando numerador e denominador não têm divisores comuns além de 1. Por exemplo, 3/5 é irredutível. Esse conceito ajuda a manter cálculos claros e precisos. Sabia que transformar frações em forma irredutível é uma prática usada até em programação de computadores?",
+    "palavras_chave": ["fração irredutível", "simplificação", "divisores", "matemática", "programação"]
+  },
+  {
+    "pergunta": "O que é uma dízima periódica?",
+    "resposta": "Dízima periódica é um número decimal em que uma sequência de dígitos se repete infinitamente, como 0,333... ou 1,272727... Ela representa um número racional. Sabia que podemos transformar qualquer dízima periódica em fração usando pequenas equações de álgebra?",
+    "palavras_chave": ["dízima periódica", "decimal", "racional", "fração", "repetição"]
+  },
+  {
+    "pergunta": "O que são números opostos?",
+    "resposta": "Números opostos são aqueles que têm o mesmo valor absoluto, mas sinais contrários. Por exemplo, +7 e -7. Eles aparecem em situações de ganhos e perdas, lucros e dívidas. Sabia que na reta numérica, números opostos estão sempre à mesma distância do zero, só que em lados opostos?",
+    "palavras_chave": ["números opostos", "sinais", "reta numérica", "valor absoluto", "simetria"]
+  },
+  {
+    "pergunta": "O que é uma potência?",
+    "resposta": "Potência é uma forma de representar multiplicações repetidas de um mesmo número. Por exemplo, 3³ significa 3 × 3 × 3 = 27. O número pequeno é o expoente, que indica quantas vezes o número base se repete. Sabia que o conceito de potência simplifica muito cálculos científicos e de engenharia?",
+    "palavras_chave": ["potência", "expoente", "base", "multiplicação", "cálculo"]
+  },
+  {
+    "pergunta": "O que é uma raiz quadrada?",
+    "resposta": "A raiz quadrada é o número que, multiplicado por si mesmo, resulta em outro número. Por exemplo, a raiz quadrada de 9 é 3. Esse conceito aparece em áreas como geometria e física. Sabia que o símbolo √ foi criado no século XVI e vem da letra 'r', de ‘radix’, que significa ‘raiz’ em latim?",
+    "palavras_chave": ["raiz quadrada", "multiplicação", "geometria", "símbolo", "história"]
+  },
+  {
+    "pergunta": "O que são números decimais?",
+    "resposta": "Números decimais representam valores entre os números inteiros, usando a vírgula como separador. Por exemplo, 2,5 representa duas unidades e meia. Eles são muito usados em medidas e dinheiro. Sabia que o sistema decimal vem da contagem com os dez dedos das mãos?",
+    "palavras_chave": ["números decimais", "vírgula", "medidas", "sistema decimal", "contagem"]
+  },
+  {
+    "pergunta": "O que são números pares consecutivos?",
+    "resposta": "Números pares consecutivos são aqueles que seguem uma sequência, aumentando sempre de dois em dois, como 2, 4, 6, 8. Esse tipo de sequência é muito usado em problemas de lógica e álgebra. Sabia que a soma de dois pares consecutivos sempre resulta em outro número par?",
+    "palavras_chave": ["pares consecutivos", "sequência", "álgebra", "soma", "padrão"]
+  },
+  {
+    "pergunta": "O que significa dizer que um número é divisível por outro?",
+    "resposta": "Dizer que um número é divisível por outro significa que a divisão entre eles resulta em um número exato, sem resto. Por exemplo, 20 é divisível por 5, pois 20 ÷ 5 = 4. Essa ideia é muito usada em critérios de divisibilidade. Sabia que alguns números têm divisores únicos que os tornam especiais, como os primos?",
+    "palavras_chave": ["divisibilidade", "divisão", "resto", "números primos", "exatidão"]
+  },
+  {
+    "pergunta": "O que é um número composto por fatores iguais?",
+    "resposta": "É um número que pode ser formado pela multiplicação de um mesmo fator por ele mesmo, como 9 = 3 × 3. Nesse caso, dizemos que ele é um quadrado perfeito. Sabia que há também cubos perfeitos, como 27 = 3 × 3 × 3?",
+    "palavras_chave": ["quadrado perfeito", "fatores", "multiplicação", "cubos perfeitos", "números"]
+  },
+  {
+    "pergunta": "O que é uma sequência numérica?",
+    "resposta": "Sequência numérica é uma lista de números organizados em uma ordem lógica, seguindo uma regra. Por exemplo, 2, 4, 6, 8 segue a regra de adicionar 2 a cada termo. Elas aparecem muito em progressões e padrões matemáticos. Sabia que até na natureza existem sequências, como a famosa sequência de Fibonacci?",
+    "palavras_chave": ["sequência numérica", "padrões", "progressão", "fibonacci", "ordem"]
+  },
+  {
+    "pergunta": "O que são números ordinais?",
+    "resposta": "Os números ordinais indicam posição ou ordem em uma sequência, como 1º, 2º, 3º, e assim por diante. Eles são usados para mostrar classificações, como 'primeiro lugar' ou 'décimo andar'. Diferem dos cardinais, que indicam quantidade. Sabia que na escrita antiga os ordinais eram muito usados em nomes de reis e papas, como Luís XIV, o décimo quarto rei da França?",
+    "palavras_chave": ["números ordinais", "posição", "sequência", "ordem", "classificação"]
+  },
+  {
+    "pergunta": "O que são números cardinais?",
+    "resposta": "Os números cardinais indicam quantidade, como 1, 2, 3, 4... São os números usados para contar objetos, pessoas ou qualquer elemento. Eles formam a base de praticamente toda a matemática cotidiana. Sabia que o termo 'cardinal' vem do latim ‘cardo’, que significa ‘principal’, porque eles são os números mais fundamentais?",
+    "palavras_chave": ["números cardinais", "quantidade", "contagem", "fundamento", "matemática"]
+  },
+  {
+    "pergunta": "O que são números complexos?",
+    "resposta": "Os números complexos surgem quando incluímos a unidade imaginária, representada por 'i', que é a raiz quadrada de -1. Eles são usados em eletricidade, engenharia e física. Por exemplo, 3 + 2i é um número complexo. Sabia que, mesmo parecendo 'imaginários', eles são essenciais para descrever fenômenos reais como ondas e circuitos?",
+    "palavras_chave": ["números complexos", "imaginário", "raiz quadrada", "engenharia", "ondas"]
+  },
+  {
+    "pergunta": "O que são números pares e ímpares consecutivos?",
+    "resposta": "Quando dois números aparecem em sequência, e ambos são pares ou ambos são ímpares, chamamos de pares ou ímpares consecutivos. Por exemplo, 6 e 8 são pares consecutivos; 5 e 7 são ímpares consecutivos. Sabia que em muitos problemas de lógica matemática usamos esses pares para montar equações simples?",
+    "palavras_chave": ["pares consecutivos", "ímpares consecutivos", "sequência", "lógica", "equações"]
+  },
+  {
+    "pergunta": "O que são números triangulares?",
+    "resposta": "Números triangulares são aqueles que podem formar triângulos perfeitos quando representados por pontos. Exemplos: 1, 3, 6, 10, 15... Eles surgem somando sequências consecutivas: 1 + 2 + 3 + 4 = 10. Sabia que essa ideia vem dos gregos antigos, que visualizavam os números como figuras geométricas?",
+    "palavras_chave": ["números triangulares", "sequência", "geometria", "gregos", "somatória"]
+  },
+  {
+    "pergunta": "O que são números quadrados perfeitos?",
+    "resposta": "Um número é quadrado perfeito quando resulta da multiplicação de um número inteiro por ele mesmo, como 9 = 3 × 3 ou 16 = 4 × 4. Eles aparecem muito em cálculos de áreas e raízes quadradas. Sabia que a sequência dos quadrados perfeitos é infinita e segue um padrão previsível?",
+    "palavras_chave": ["quadrado perfeito", "multiplicação", "área", "raiz quadrada", "sequência"]
+  },
+  {
+    "pergunta": "O que são números cúbicos ou cubos perfeitos?",
+    "resposta": "Os números cúbicos são obtidos ao multiplicar um número inteiro por ele mesmo três vezes, como 8 = 2³ e 27 = 3³. Eles são usados para calcular volumes. Sabia que o famoso ‘problema da duplicação do cubo’ intrigou matemáticos gregos por séculos, porque exigia construir o dobro de um volume apenas com régua e compasso?",
+    "palavras_chave": ["cubos perfeitos", "volume", "potência", "gregos", "geometria"]
+  },
+  {
+    "pergunta": "O que é base decimal?",
+    "resposta": "A base decimal é o sistema de numeração que usamos no dia a dia, baseado em dez símbolos: 0 a 9. Cada posição representa uma potência de 10. Por exemplo, em 345, o 3 vale 300 porque está na casa das centenas. Sabia que esse sistema surgiu na Índia, provavelmente por causa dos dez dedos das mãos?",
+    "palavras_chave": ["base decimal", "sistema de numeração", "posição", "índia", "potência"]
+  },
+  {
+    "pergunta": "O que é base binária?",
+    "resposta": "A base binária é o sistema numérico usado pelos computadores, que utiliza apenas dois dígitos: 0 e 1. Cada posição representa uma potência de 2. Por exemplo, o número binário 101 equivale ao número 5 no sistema decimal. Sabia que o conceito vem do matemático Leibniz, no século XVII, muito antes da invenção do computador?",
+    "palavras_chave": ["base binária", "computador", "sistema de numeração", "leibniz", "potência"]
+  },
+  {
+    "pergunta": "O que significa base numérica?",
+    "resposta": "A base numérica indica quantos símbolos diferentes são usados para formar números em um sistema. No decimal, são 10; no binário, 2; no hexadecimal, 16. Cada base tem suas regras próprias de contagem. Sabia que o sistema hexadecimal é usado em programação porque representa facilmente números binários longos?",
+    "palavras_chave": ["base numérica", "decimal", "binário", "hexadecimal", "programação"]
+  },
+  {
+    "pergunta": "O que é uma progressão aritmética?",
+    "resposta": "Progressão aritmética é uma sequência em que cada termo é obtido somando sempre o mesmo número ao anterior. Por exemplo, 2, 5, 8, 11... Sabia que esse tipo de sequência aparece em juros simples, escadas musicais e até na arte islâmica?",
+    "palavras_chave": ["progressão aritmética", "sequência", "razão", "juros simples", "matemática"]
+  },
+  {
+    "pergunta": "O que é uma progressão geométrica?",
+    "resposta": "Progressão geométrica é uma sequência em que cada termo é obtido multiplicando o anterior por um número fixo. Por exemplo, 2, 4, 8, 16... Esse padrão aparece em crescimento populacional e juros compostos. Sabia que essa ideia explica por que pequenas porcentagens de crescimento podem gerar grandes resultados ao longo do tempo?",
+    "palavras_chave": ["progressão geométrica", "multiplicação", "crescimento", "juros compostos", "sequência"]
+  },
+  {
+    "pergunta": "O que é a notação científica?",
+    "resposta": "A notação científica é uma forma de escrever números muito grandes ou muito pequenos de maneira compacta, usando potências de 10. Por exemplo, 3.000.000 pode ser escrito como 3 × 10⁶. Sabia que essa notação é essencial na astronomia e na física para representar distâncias e tamanhos extremos?",
+    "palavras_chave": ["notação científica", "potência", "expoente", "astronomia", "física"]
+  },
+  {
+    "pergunta": "O que são números decimais exatos?",
+    "resposta": "São números que têm um número finito de casas após a vírgula, como 2,5 ou 3,75. Eles geralmente vêm de divisões que resultam em frações com denominadores como 2, 4, 5, 8, 10. Sabia que todo número decimal exato pode ser transformado em uma fração simples?",
+    "palavras_chave": ["números decimais", "fração", "divisão", "vírgula", "exatos"]
+  },
+  {
+    "pergunta": "O que é uma dízima não periódica?",
+    "resposta": "Dízimas não periódicas são números decimais infinitos cujas casas decimais não formam repetição regular. Um exemplo é o número π (3,14159265...). Esses números são irracionais. Sabia que o π aparece até na natureza, em formas circulares como planetas e bolhas de sabão?",
+    "palavras_chave": ["dízima não periódica", "irracionais", "pi", "decimal", "natureza"]
+  },
+  {
+    "pergunta": "O que é arredondamento de números?",
+    "resposta": "Arredondar um número significa aproximá-lo para facilitar cálculos, mantendo o valor mais próximo possível. Por exemplo, 3,78 pode ser arredondado para 3,8. É muito usado em preços, medidas e estatísticas. Sabia que existem regras específicas para arredondar dependendo do contexto, como nas normas do IBGE?",
+    "palavras_chave": ["arredondamento", "aproximação", "cálculo", "estatística", "medidas"]
+  },
+  {
+    "pergunta": "O que é um número negativo?",
+    "resposta": "Um número negativo representa uma quantidade menor que zero, como -5 ou -12. Eles aparecem em contextos de perdas, temperaturas e dívidas. Sabia que os chineses já usavam números negativos há mais de dois mil anos, enquanto os europeus demoraram séculos para aceitá-los?",
+    "palavras_chave": ["números negativos", "zero", "história", "perdas", "temperatura"]
+  },
+  {
+    "pergunta": "O que é um número positivo?",
+    "resposta": "Números positivos são maiores que zero e representam ganhos, quantidades ou medidas diretas. Por exemplo, +7 indica algo acima de zero. Sabia que, por convenção, o sinal de mais (+) é muitas vezes omitido porque o valor positivo é considerado o padrão?",
+    "palavras_chave": ["números positivos", "sinal", "zero", "medidas", "ganhos"]
+  },
+  {
+    "pergunta": "O que é uma igualdade numérica?",
+    "resposta": "Uma igualdade mostra que duas expressões têm o mesmo valor, como 2 + 3 = 5. O símbolo ‘=’ foi criado no século XVI por Robert Recorde, que disse que nada poderia ser mais igual do que duas linhas paralelas. Sabia que esse símbolo é usado em milhões de equações por segundo em computadores?",
+    "palavras_chave": ["igualdade", "equação", "símbolo", "recorde", "expressões"]
+  },
+  {
+    "pergunta": "O que é uma desigualdade numérica?",
+    "resposta": "Desigualdade indica que uma quantidade é maior ou menor que outra, usando símbolos como <, >, ≤, ≥. Por exemplo, 7 > 5. Essas relações são usadas em comparações e problemas de limites. Sabia que, visualmente, o símbolo aponta sempre para o menor número?",
+    "palavras_chave": ["desigualdade", "símbolos", "comparação", "limites", "números"]
+  },
+  {
+    "pergunta": "O que é a reta numérica?",
+    "resposta": "A reta numérica é uma representação visual dos números em uma linha contínua, com o zero no centro, positivos à direita e negativos à esquerda. Ela ajuda a entender operações e relações entre valores. Sabia que a reta numérica é uma das formas mais antigas de visualizar números, usada desde o ensino pitagórico?",
+    "palavras_chave": ["reta numérica", "visualização", "positivos", "negativos", "pitágoras"]
+  },
+  {
+    "pergunta": "O que é um intervalo numérico?",
+    "resposta": "Um intervalo representa todos os números entre dois valores na reta numérica. Por exemplo, entre 2 e 5 estão 3 e 4, mas também 3,5 e infinitos outros. Sabia que intervalos são a base para estudar funções contínuas e estatísticas?",
+    "palavras_chave": ["intervalo numérico", "reta numérica", "funções", "contínuo", "estatística"]
+  },
+  {
+    "pergunta": "O que é simetria numérica?",
+    "resposta": "Simetria numérica ocorre quando os números estão organizados de forma espelhada, como −3 e +3. Essa ideia é usada em gráficos, geometrias e até música. Sabia que o conceito de simetria aparece em quase todas as áreas da ciência, inclusive na estrutura dos átomos?",
+    "palavras_chave": ["simetria", "números", "espelhamento", "gráficos", "ciência"]
+  },
+  {
+    "pergunta": "O que é a ideia de infinito nos números?",
+    "resposta": "O infinito representa algo que não tem fim, como a quantidade de números naturais. Ele não é um número comum, mas um conceito matemático. Sabia que o símbolo ∞ foi criado no século XVII e lembra uma fita que nunca termina?",
+    "palavras_chave": ["infinito", "conceito", "símbolo", "matemática", "quantidade"]
+  },
+  {
+    "pergunta": "O que significa dizer que os números são densos?",
+    "resposta": "Dizer que os números reais são densos significa que entre dois deles sempre existe outro. Por exemplo, entre 2 e 3 há 2,5; e entre 2 e 2,5 há 2,25. Essa propriedade mostra que a reta numérica é contínua. Sabia que essa característica é essencial para o cálculo diferencial e integral?",
+    "palavras_chave": ["densidade", "números reais", "reta numérica", "continuidade", "cálculo"]
+  },
+  {
+    "pergunta": "O que são pares de números opostos?",
+    "resposta": "São dois números com o mesmo valor absoluto, mas sinais diferentes, como +8 e −8. Eles aparecem em situações de equilíbrio e contraste, como lucros e perdas. Sabia que os matemáticos chamam isso de simetria em relação ao zero?",
+    "palavras_chave": ["números opostos", "valor absoluto", "sinal", "simetria", "zero"]
+  },
+  {
+    "pergunta": "O que é um número redondo?",
+    "resposta": "Um número redondo é aquele que termina em zero e costuma ser usado para facilitar cálculos e comunicação, como 100, 1.000 ou 10.000. Sabia que em economia e estatística os números redondos são usados em projeções justamente por serem mais intuitivos?",
+    "palavras_chave": ["número redondo", "zero", "aproximação", "estatística", "projeção"]
+  },
+  {
+    "pergunta": "O que é um número composto por fatores diferentes?",
+    "resposta": "É um número formado pela multiplicação de dois ou mais números primos distintos. Por exemplo, 30 = 2 × 3 × 5. Essa característica é usada em fatorações e no cálculo de MDC e MMC. Sabia que a combinação de fatores primos é única para cada número, um princípio conhecido como Teorema Fundamental da Aritmética?",
+    "palavras_chave": ["fatores primos", "teorema fundamental", "fatoração", "mmc", "mdc"]
+  },
+  {
+    "pergunta": "O que significa dizer que um número é divisível por 3?",
+    "resposta": "Um número é divisível por 3 quando a soma de seus algarismos também é múltiplo de 3. Por exemplo, 246 é divisível por 3 porque 2 + 4 + 6 = 12, e 12 é múltiplo de 3. Sabia que essa regra vem da relação entre potências de 10 e a aritmética modular?",
+    "palavras_chave": ["divisibilidade", "múltiplos", "aritmética modular", "soma", "regra"]
+  },
+  {
+    "pergunta": "O que é o máximo divisor comum (MDC)?",
+    "resposta": "O MDC é o maior número que divide dois ou mais números sem deixar resto. Por exemplo, o MDC de 12 e 18 é 6. Ele é usado para simplificar frações e resolver problemas de proporcionalidade. Sabia que existe um algoritmo antigo, criado por Euclides, que calcula o MDC de forma eficiente há mais de 2 mil anos?",
+    "palavras_chave": ["mdc", "divisores", "frações", "euclides", "proporcionalidade"]
+  },
+  {
+    "pergunta": "O que é o mínimo múltiplo comum (MMC)?",
+    "resposta": "O MMC é o menor número que é múltiplo comum de dois ou mais números. Por exemplo, o MMC de 6 e 8 é 24. Ele é útil em operações com frações e ciclos repetitivos. Sabia que o MMC é usado até para sincronizar sinais eletrônicos e ritmos musicais?",
+    "palavras_chave": ["mmc", "múltiplos", "frações", "ciclos", "sincronização"]
+  },
+  {
+    "pergunta": "O que são critérios de divisibilidade?",
+    "resposta": "São regras práticas que indicam se um número é divisível por outro sem fazer a divisão completa. Por exemplo, um número é divisível por 2 se terminar em número par. Sabia que essas regras existem para quase todos os divisores até 10 e facilitam muito cálculos mentais?",
+    "palavras_chave": ["divisibilidade", "regras", "divisão", "aritmética", "cálculo mental"]
+  },
+  {
+    "pergunta": "O que são números perfeitos?",
+    "resposta": "Números perfeitos são aqueles que são iguais à soma de seus divisores próprios. Por exemplo, 6 = 1 + 2 + 3. São raros e misteriosos. Sabia que até hoje matemáticos procuram novos números perfeitos e que todos os conhecidos terminam em 6 ou 8?",
+    "palavras_chave": ["números perfeitos", "divisores", "aritmética", "curiosidade", "matemáticos"]
+  },
+  {
+    "pergunta": "O que são números abundantes e deficientes?",
+    "resposta": "Um número é abundante quando a soma de seus divisores é maior que ele mesmo, e deficiente quando é menor. Por exemplo, 12 é abundante (1 + 2 + 3 + 4 + 6 = 16) e 8 é deficiente (1 + 2 + 4 = 7). Sabia que esses conceitos vêm da antiguidade, ligados à ideia de harmonia numérica?",
+    "palavras_chave": ["abundantes", "deficientes", "divisores", "harmonia", "aritmética"]
+  },
+  {
+    "pergunta": "O que é o conceito de reciprocidade numérica?",
+    "resposta": "A reciprocidade indica que o número recíproco de um valor é 1 dividido por ele. Por exemplo, o recíproco de 4 é 1/4. Esse conceito é essencial nas frações e nas inversões de operações. Sabia que multiplicar um número por seu recíproco sempre resulta em 1?",
+    "palavras_chave": ["recíproco", "fração", "divisão", "inverso", "multiplicação"]
+  },
+  {
+    "pergunta": "O que é uma potência de base 10?",
+    "resposta": "É quando o número 10 é elevado a um expoente. Por exemplo, 10³ = 1000. Cada aumento no expoente acrescenta um zero. Essa ideia forma a base do sistema decimal e da notação científica. Sabia que a palavra ‘expoente’ vem do latim e significa ‘mostrar para fora’, porque indica quantas vezes algo aparece?",
+    "palavras_chave": ["potência", "base 10", "expoente", "sistema decimal", "notação científica"]
+  },
+  {
+    "pergunta": "O que é uma potência de base 2?",
+    "resposta": "Potências de base 2 aparecem em informática, pois os computadores trabalham com 0 e 1. Por exemplo, 2⁵ = 32. Cada aumento dobra o valor anterior. Sabia que a memória dos computadores é medida em potências de 2, como 1.024 bytes (2¹⁰)?",
+    "palavras_chave": ["potência", "base 2", "informática", "memória", "computador"]
+  },
+  {
+    "pergunta": "O que é um número primo entre dois números?",
+    "resposta": "Um número primo entre dois outros é aquele que está na sequência natural e não é divisível por nenhum outro além de 1 e dele mesmo. Por exemplo, entre 10 e 15, temos o 11 e o 13. Sabia que existem lacunas cada vez maiores entre números primos à medida que eles crescem?",
+    "palavras_chave": ["números primos", "sequência", "divisibilidade", "lacunas", "aritmética"]
+  },
+  {
+    "pergunta": "O que é um número composto por um único fator primo?",
+    "resposta": "É o caso dos quadrados perfeitos de números primos, como 9 (3²) ou 25 (5²). Embora compostos, têm apenas um fator primo repetido. Sabia que esses números aparecem em padrões geométricos e criptográficos?",
+    "palavras_chave": ["número composto", "quadrado perfeito", "fatores", "primos", "criptografia"]
+  },
+  {
+    "pergunta": "O que é uma potência com expoente zero?",
+    "resposta": "Qualquer número diferente de zero elevado a zero é igual a 1. Isso ocorre por coerência com as propriedades das potências. Por exemplo, 5⁰ = 1. Sabia que esse conceito gera dúvidas até entre estudantes avançados, mas é essencial na álgebra e nas funções exponenciais?",
+    "palavras_chave": ["potência", "expoente zero", "álgebra", "função exponencial", "matemática"]
+  },
+  {
+    "pergunta": "O que é uma potência com expoente negativo?",
+    "resposta": "Quando o expoente é negativo, significa que tomamos o inverso da potência positiva. Por exemplo, 2⁻³ = 1/(2³) = 1/8. Esse conceito aparece em medidas muito pequenas, como em unidades científicas. Sabia que isso permite representar facilmente valores microscópicos?",
+    "palavras_chave": ["potência", "expoente negativo", "inverso", "fração", "ciência"]
+  },
+  {
+    "pergunta": "O que é uma raiz cúbica?",
+    "resposta": "A raiz cúbica é o número que, multiplicado por si mesmo três vezes, gera o valor original. Por exemplo, a raiz cúbica de 27 é 3. Ela é usada em cálculos de volume. Sabia que a raiz cúbica também aparece em fórmulas de crescimento e densidade?",
+    "palavras_chave": ["raiz cúbica", "volume", "potência", "crescimento", "densidade"]
+  },
+  {
+    "pergunta": "O que é uma raiz exata?",
+    "resposta": "Uma raiz é exata quando o resultado é um número inteiro. Por exemplo, √49 = 7. Quando o resultado é decimal ou irracional, dizemos que não é exata. Sabia que o símbolo da raiz vem de manuscritos antigos, onde era desenhado como uma letra ‘r’ alongada?",
+    "palavras_chave": ["raiz exata", "inteiro", "irracional", "símbolo", "história"]
+  },
+  {
+    "pergunta": "O que é uma raiz não exata?",
+    "resposta": "É quando o resultado da raiz não é um número inteiro, como √2 ≈ 1,414. Esses números são irracionais e aparecem em medidas reais. Sabia que o número √2 é chamado de ‘número de Pitágoras’ porque surgiu ao estudar o triângulo retângulo?",
+    "palavras_chave": ["raiz não exata", "irracional", "pitágoras", "triângulo", "medidas"]
+  },
+  {
+    "pergunta": "O que é a propriedade comutativa dos números?",
+    "resposta": "A propriedade comutativa afirma que a ordem dos fatores não altera o resultado da soma ou da multiplicação. Por exemplo, 3 + 5 = 5 + 3 e 2 × 4 = 4 × 2. Sabia que essa propriedade não vale para subtração nem divisão?",
+    "palavras_chave": ["propriedade comutativa", "soma", "multiplicação", "ordem", "aritmética"]
+  },
+  {
+    "pergunta": "O que é a propriedade associativa?",
+    "resposta": "A propriedade associativa diz que podemos agrupar os números de maneiras diferentes sem alterar o resultado. Por exemplo, (2 + 3) + 4 = 2 + (3 + 4). Isso facilita cálculos mentais e simplificações. Sabia que essa ideia é a base de muitas linguagens de programação?",
+    "palavras_chave": ["propriedade associativa", "agrupamento", "soma", "multiplicação", "programação"]
+  },
+  {
+    "pergunta": "O que é a propriedade distributiva?",
+    "resposta": "A propriedade distributiva conecta multiplicação e adição: a × (b + c) = a×b + a×c. Ela permite simplificar expressões e resolver equações. Sabia que essa regra é usada em praticamente todas as áreas da matemática, da álgebra à estatística?",
+    "palavras_chave": ["propriedade distributiva", "multiplicação", "adição", "expressões", "equações"]
+  },
+  {
+    "pergunta": "O que é um número simétrico?",
+    "resposta": "Um número simétrico, também chamado de palíndromo numérico, é aquele que pode ser lido igual da esquerda para a direita e vice-versa, como 121 ou 4554. Sabia que alguns desses números aparecem curiosamente em relógios digitais e placas de carros?",
+    "palavras_chave": ["número simétrico", "palíndromo", "leitura", "curiosidade", "simetria"]
+  },
+  {
+    "pergunta": "O que são números consecutivos?",
+    "resposta": "Números consecutivos são aqueles que vêm um logo após o outro na sequência natural: 4, 5, 6, 7... Eles são usados em padrões, séries e equações simples. Sabia que a soma de dois números consecutivos é sempre ímpar?",
+    "palavras_chave": ["números consecutivos", "sequência", "padrão", "soma", "números"]
+  },
+  {
+    "pergunta": "O que são números figurados?",
+    "resposta": "São números que podem ser representados por figuras geométricas, como triângulos, quadrados e pentágonos. Por exemplo, 10 é triangular, e 9 é quadrado. Sabia que os gregos antigos viam os números como formas antes de tratá-los como abstrações?",
+    "palavras_chave": ["números figurados", "geometria", "gregos", "triangular", "quadrado"]
+  },
+  {
+    "pergunta": "O que é um número racional finito?",
+    "resposta": "É um número que pode ser escrito como uma fração e cujo decimal termina, como 0,5 ou 1,25. Isso ocorre quando o denominador tem apenas fatores 2 e/ou 5. Sabia que essa relação com os fatores primos explica por que algumas frações têm dízima e outras não?",
+    "palavras_chave": ["racional", "fração", "decimal", "fatores primos", "dízima"]
+  },
+  {
+    "pergunta": "O que é um número racional infinito periódico?",
+    "resposta": "É um número cuja parte decimal se repete para sempre, como 0,333... ou 0,142857142857... Sabia que o número 1 dividido por 7 gera uma das dízimas mais conhecidas e fascinantes da matemática?",
+    "palavras_chave": ["racional", "dízima periódica", "decimal", "repetição", "matemática"]
+  },
+  {
+    "pergunta": "O que é um número não racional?",
+    "resposta": "Um número não racional, ou irracional, não pode ser escrito como fração exata. Exemplos: π e √2. Eles têm infinitas casas decimais não repetitivas. Sabia que o número π aparece até na fórmula do círculo e do som das cordas musicais?",
+    "palavras_chave": ["irracional", "fração", "pi", "decimal", "círculo"]
+  },
+  {
+    "pergunta": "O que é uma aproximação numérica?",
+    "resposta": "É quando substituímos um número exato por outro próximo, mais simples de usar. Por exemplo, usar 3,14 em vez de π. Sabia que aproximações são essenciais em medições, engenharia e até em cálculos espaciais?",
+    "palavras_chave": ["aproximação", "números", "medição", "engenharia", "pi"]
+  },
+  {
+    "pergunta": "O que são números compatíveis?",
+    "resposta": "Números compatíveis são valores fáceis de operar mentalmente, usados para estimar resultados. Por exemplo, em vez de calcular 198 × 6, usamos 200 × 6 = 1.200. Sabia que essa técnica melhora o raciocínio numérico e a rapidez nos cálculos?",
+    "palavras_chave": ["números compatíveis", "estimativa", "cálculo mental", "raciocínio", "aproximação"]
+  },
+  {
+    "pergunta": "O que é arredondar um número?",
+    "resposta": "Arredondar é aproximar um número para facilitar cálculos ou leitura. Por exemplo, 4,68 pode ser arredondado para 4,7. A decisão depende da posição do algarismo seguinte. Sabia que o arredondamento é essencial em estatísticas, finanças e medições científicas?",
+    "palavras_chave": ["arredondamento", "aproximação", "decimal", "estatística", "medição"]
+  },
+  {
+    "pergunta": "O que são números pares e ímpares?",
+    "resposta": "Números pares são divisíveis por 2, como 4 e 10. Ímpares não são, como 3 e 7. Essa divisão é uma das mais básicas da aritmética e aparece em padrões, jogos e códigos. Sabia que a soma de dois ímpares consecutivos sempre resulta em um número par?",
+    "palavras_chave": ["pares", "ímpares", "divisibilidade", "aritmética", "padrões"]
+  },
+  {
+    "pergunta": "O que significa valor absoluto de um número?",
+    "resposta": "O valor absoluto representa a distância de um número até o zero na reta numérica, sem considerar o sinal. Assim, |-3| = 3. Sabia que esse conceito é usado até em estatísticas e física para medir diferenças sem direção?",
+    "palavras_chave": ["valor absoluto", "distância", "reta numérica", "sinal", "módulo"]
+  },
+  {
+    "pergunta": "O que é uma sequência numérica?",
+    "resposta": "É uma lista ordenada de números que seguem uma regra, como 2, 4, 6, 8... (diferença de 2). As sequências ajudam a entender padrões e progressões. Sabia que elas aparecem até em música e arquitetura?",
+    "palavras_chave": ["sequência", "padrão", "progressão", "ordem", "aritmética"]
+  },
+  {
+    "pergunta": "O que é uma progressão aritmética?",
+    "resposta": "É uma sequência em que cada termo é obtido somando uma constante ao anterior. Por exemplo, 3, 6, 9, 12... A diferença entre os termos é chamada de razão. Sabia que esse conceito aparece em juros simples e na construção de escadas?",
+    "palavras_chave": ["progressão aritmética", "sequência", "razão", "números", "padrão"]
+  },
+  {
+    "pergunta": "O que é uma progressão geométrica?",
+    "resposta": "É uma sequência em que cada termo é obtido multiplicando o anterior por uma constante. Por exemplo, 2, 4, 8, 16... Essa multiplicação constante é a razão. Sabia que esse conceito é usado para modelar crescimento populacional e juros compostos?",
+    "palavras_chave": ["progressão geométrica", "razão", "multiplicação", "crescimento", "juros"]
+  },
+  {
+    "pergunta": "O que é um número decrescente?",
+    "resposta": "É um número cujos algarismos diminuem da esquerda para a direita, como 531 ou 974. É um conceito curioso, mais visual do que matemático. Sabia que muitos códigos e senhas exploram esse tipo de padrão?",
+    "palavras_chave": ["número decrescente", "algarismos", "padrão", "código", "sequência"]
+  },
+  {
+    "pergunta": "O que é um número crescente?",
+    "resposta": "É o oposto do decrescente: seus algarismos aumentam da esquerda para a direita, como 1234. Esses números são raros naturalmente, mas comuns em senhas e códigos. Sabia que 123456789 é o exemplo mais clássico de número crescente?",
+    "palavras_chave": ["número crescente", "algarismos", "sequência", "padrão", "código"]
+  },
+  {
+    "pergunta": "O que é decomposição de um número?",
+    "resposta": "Decompor é separar um número em partes menores, mostrando o valor de cada algarismo. Por exemplo, 345 = 300 + 40 + 5. Isso ajuda a entender o valor posicional. Sabia que essa ideia é a base do sistema decimal usado no mundo todo?",
+    "palavras_chave": ["decomposição", "valor posicional", "decimal", "algarismos", "sistema"]
+  },
+  {
+    "pergunta": "O que é valor posicional?",
+    "resposta": "É o valor que um algarismo tem dependendo de sua posição no número. Em 352, o 3 vale 300, o 5 vale 50 e o 2 vale 2. Sabia que essa lógica veio do sistema de numeração hindu-arábico, criado há mais de mil anos?",
+    "palavras_chave": ["valor posicional", "algarismo", "decimal", "sistema", "numeração"]
+  },
+  {
+    "pergunta": "O que é a ordem dos números?",
+    "resposta": "A ordem indica a posição que um número ocupa dentro de um sistema, como unidade, dezena, centena, milhar e assim por diante. Sabia que esse conceito permite ler e escrever números gigantes, como os usados na astronomia?",
+    "palavras_chave": ["ordem", "unidade", "dezena", "centena", "numeração"]
+  },
+  {
+    "pergunta": "O que é um número ordinal?",
+    "resposta": "Os números ordinais indicam posição ou ordem: primeiro, segundo, terceiro... Diferem dos cardinais, que indicam quantidade. Sabia que usamos ordinais até em eventos, como 'XXI Jogos Olímpicos'?",
+    "palavras_chave": ["número ordinal", "ordem", "posição", "contagem", "cardinal"]
+  },
+  {
+    "pergunta": "O que é um número cardinal?",
+    "resposta": "Os números cardinais expressam quantidade: um, dois, três... Eles respondem 'quantos?'. Sabia que essa noção é uma das primeiras compreendidas pelas crianças no aprendizado da matemática?",
+    "palavras_chave": ["número cardinal", "quantidade", "contagem", "matemática", "aprendizado"]
+  },
+  {
+    "pergunta": "O que é um número fracionário?",
+    "resposta": "É um número que representa partes de um todo, como 1/2 ou 3/4. As frações aparecem em receitas, medições e estatísticas. Sabia que os egípcios antigos já usavam frações, mas só com numeradores iguais a 1?",
+    "palavras_chave": ["fração", "fracionário", "partes", "medição", "egípcios"]
+  },
+  {
+    "pergunta": "O que é uma fração equivalente?",
+    "resposta": "São frações diferentes que representam o mesmo valor. Por exemplo, 1/2 é igual a 2/4. Isso acontece quando multiplicamos ou dividimos numerador e denominador pelo mesmo número. Sabia que esse princípio é usado para simplificar frações e comparar medidas?",
+    "palavras_chave": ["fração", "equivalente", "simplificação", "comparação", "números"]
+  },
+  {
+    "pergunta": "O que é simplificar uma fração?",
+    "resposta": "Simplificar é reduzir a fração a uma forma equivalente com números menores. Por exemplo, 6/8 pode ser simplificado para 3/4. Sabia que esse processo facilita cálculos e está ligado ao conceito de MDC?",
+    "palavras_chave": ["fração", "simplificação", "mdc", "equivalência", "aritmética"]
+  },
+  {
+    "pergunta": "O que é uma fração irredutível?",
+    "resposta": "É uma fração que não pode mais ser simplificada, pois numerador e denominador são primos entre si. Por exemplo, 3/5. Sabia que essas frações aparecem em muitas fórmulas matemáticas e científicas por serem as mais simples?",
+    "palavras_chave": ["fração", "irredutível", "primos", "simplificação", "números"]
+  },
+  {
+    "pergunta": "O que é um número negativo na reta numérica?",
+    "resposta": "É um número localizado à esquerda do zero, usado para representar perdas, temperaturas abaixo de zero ou dívidas. Sabia que a ideia de números negativos foi rejeitada por séculos na Europa por parecer ‘sem sentido’?",
+    "palavras_chave": ["número negativo", "reta numérica", "zero", "temperatura", "história"]
+  },
+  {
+    "pergunta": "O que é o zero na matemática?",
+    "resposta": "O zero representa a ausência de quantidade, mas é também um marco na reta numérica. Ele revoluciona o sistema de numeração e possibilita operações complexas. Sabia que o zero foi criado na Índia e demorou séculos para ser aceito na Europa?",
+    "palavras_chave": ["zero", "números", "quantidade", "história", "sistema decimal"]
+  },
+  {
+    "pergunta": "O que são números simétricos em relação ao zero?",
+    "resposta": "São pares de números opostos, como +5 e -5. Eles têm o mesmo valor absoluto, mas sinais contrários. Sabia que essa ideia é essencial na física, por exemplo, em forças e cargas elétricas opostas?",
+    "palavras_chave": ["simétrico", "oposto", "valor absoluto", "zero", "física"]
+  },
+  {
+    "pergunta": "O que é um número neutro?",
+    "resposta": "Um número neutro não altera o resultado de uma operação. O 0 é neutro na adição e o 1 é neutro na multiplicação. Sabia que esses conceitos ajudam a definir estruturas algébricas chamadas de grupos?",
+    "palavras_chave": ["número neutro", "adição", "multiplicação", "álgebra", "operações"]
+  },
+  {
+    "pergunta": "O que é a base de um sistema numérico?",
+    "resposta": "A base indica quantos símbolos diferentes o sistema usa. O sistema decimal tem base 10, o binário tem base 2. Sabia que os maias usavam base 20 e os babilônios base 60, o que influencia até hoje a contagem do tempo?",
+    "palavras_chave": ["base numérica", "sistema decimal", "binário", "maias", "babilônios"]
+  },
+  {
+    "pergunta": "O que é um número binário?",
+    "resposta": "É um número formado apenas por 0 e 1, usado pelos computadores para representar informações. Por exemplo, o número 5 no sistema binário é 101. Sabia que cada bit vem do termo 'binary digit'?",
+    "palavras_chave": ["binário", "computador", "bit", "informação", "sistema"]
+  },
+  {
+    "pergunta": "O que é um número decimal?",
+    "resposta": "É um número que utiliza a base 10, com dez algarismos possíveis (0 a 9). Esse sistema é o mais usado no mundo. Sabia que o nome ‘decimal’ vem do latim ‘decem’, que significa dez?",
+    "palavras_chave": ["decimal", "base 10", "sistema", "números", "algarismos"]
+  },
+  {
+    "pergunta": "O que é uma dízima periódica?",
+    "resposta": "É um número decimal em que uma sequência de dígitos se repete indefinidamente, como 0,333... ou 0,142857142857... Sabia que alguns desses padrões são usados em testes de divisibilidade e criptografia?",
+    "palavras_chave": ["dízima periódica", "decimal", "repetição", "fração", "padrão"]
+  },
+  {
+    "pergunta": "O que é a notação científica?",
+    "resposta": "É uma forma de escrever números muito grandes ou muito pequenos usando potências de 10. Por exemplo, 3.000.000 = 3 × 10⁶. Sabia que essa notação é essencial em ciências como astronomia e biologia?",
+    "palavras_chave": ["notação científica", "potência", "base 10", "número grande", "ciência"]
+  },
+  {
+    "pergunta": "O que é um número irracional famoso?",
+    "resposta": "Um dos mais conhecidos é o número π, que representa a razão entre o comprimento e o diâmetro de uma circunferência. Ele é infinito e não periódico. Sabia que já foi calculado com trilhões de casas decimais?",
+    "palavras_chave": ["pi", "irracional", "circunferência", "decimal", "matemática"]
+  },
+  {
+    "pergunta": "O que é o número de ouro?",
+    "resposta": "Também chamado de razão áurea, é um número irracional aproximado de 1,618, associado à beleza e à harmonia. Aparece em plantas, obras de arte e construções. Sabia que Leonardo da Vinci o usou em suas pinturas?",
+    "palavras_chave": ["razão áurea", "proporção", "beleza", "arte", "harmonia"]
+  },
+  {
+    "pergunta": "O que são números triangulares?",
+    "resposta": "São números que formam triângulos quando representados com pontos: 1, 3, 6, 10, 15... Sabia que esses números foram estudados por Pitágoras e aparecem em padrões naturais, como sementes em flores?",
+    "palavras_chave": ["números triangulares", "figura", "pitágoras", "padrão", "natureza"]
+  },
+  {
+    "pergunta": "O que são números quadrados?",
+    "resposta": "São números obtidos multiplicando um número por ele mesmo: 1, 4, 9, 16... Sabia que o termo 'quadrado' vem da ideia de área geométrica, pois 3² representa um quadrado de lado 3?",
+    "palavras_chave": ["números quadrados", "área", "potência", "geometria", "quadrado"]
+  },
+  {
+    "pergunta": "O que é a sequência de Fibonacci?",
+    "resposta": "É uma sequência em que cada termo é a soma dos dois anteriores: 0, 1, 1, 2, 3, 5, 8... Sabia que ela aparece em conchas, flores e até na espiral das galáxias?",
+    "palavras_chave": ["fibonacci", "sequência", "natureza", "padrão", "matemática"]
+  },
+  {
+    "pergunta": "O que é um número irracional como √2?",
+    "resposta": "√2 é um número irracional que representa a diagonal de um quadrado de lado 1. Ele não pode ser escrito como fração. Sabia que sua descoberta causou espanto entre os pitagóricos antigos?",
+    "palavras_chave": ["raiz quadrada", "irracional", "pitagóricos", "diagonal", "geometria"]
+  },
+  {
+    "pergunta": "O que é infinito na matemática?",
+    "resposta": "Infinito é um conceito que representa algo sem fim, maior que qualquer número imaginável. Ele não é um número, mas uma ideia. Sabia que existem diferentes tipos de infinito estudados na matemática moderna?",
+    "palavras_chave": ["infinito", "conceito", "matemática", "tamanho", "ideia"]
+  },
+  {
+    "pergunta": "O que são números reais?",
+    "resposta": "São todos os números que podem representar pontos na reta numérica: racionais e irracionais. Sabia que o conjunto dos reais é a base da maior parte da matemática escolar e científica?",
+    "palavras_chave": ["números reais", "racionais", "irracionais", "reta numérica", "conjunto"]
+  },
+  {
+    "pergunta": "O que são números imaginários?",
+    "resposta": "São números usados para resolver equações sem solução nos reais, como a raiz quadrada de -1. Sabia que o termo 'imaginário' foi usado de forma pejorativa no início, mas hoje é essencial na engenharia e na física?",
+    "palavras_chave": ["números imaginários", "raiz negativa", "engenharia", "física", "complexos"]
+  },
+  {
+    "pergunta": "O que são números complexos?",
+    "resposta": "São números que combinam uma parte real e uma imaginária, como 3 + 2i. Eles permitem resolver equações e modelar fenômenos elétricos. Sabia que esses números também são usados para criar gráficos e fractais?",
+    "palavras_chave": ["números complexos", "parte real", "parte imaginária", "equação", "fractais"]
+  },
+  {
+    "pergunta": "O que é o conjunto dos números naturais?",
+    "resposta": "É o conjunto formado pelos números usados para contar: 0, 1, 2, 3... Sabia que os babilônios já usavam sistemas de contagem há mais de 4 mil anos?",
+    "palavras_chave": ["números naturais", "contagem", "babilônios", "sistema", "história"]
+  }
+]

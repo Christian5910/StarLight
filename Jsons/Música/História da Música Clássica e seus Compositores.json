@@ -1,0 +1,692 @@
+[
+  {
+    "pergunta": "Como surgiu a música clássica na Europa?",
+    "resposta": "A música clássica começou a se formar na Europa entre os séculos XI e XIII, a partir da música sacra usada nas igrejas. Aos poucos, os compositores começaram a desenvolver técnicas mais complexas, como o contraponto e a harmonia, criando o que conhecemos como música erudita. Sabia que o termo 'clássico' só passou a ser usado muito depois, no século XIX, para diferenciar esse estilo das músicas populares da época?",
+    "palavras_chave": ["música clássica", "origem", "europa", "igreja", "harmonia"]
+  },
+  {
+    "pergunta": "Quem foi o primeiro grande compositor da história da música ocidental?",
+    "resposta": "Um dos primeiros grandes nomes da música ocidental é Hildegard von Bingen, uma abadessa alemã do século XII que compunha melodias místicas e inovadoras. Suas obras combinavam fé, poesia e ciência, o que era raro para a época. Sabia que ela também é considerada uma das primeiras mulheres compositoras reconhecidas na história?",
+    "palavras_chave": ["hildegard von bingen", "idade média", "música sacra", "compositora", "história"]
+  },
+  {
+    "pergunta": "O que caracteriza a música do período Barroco?",
+    "resposta": "O período Barroco, que vai de 1600 a 1750, é marcado por emoções intensas e pela riqueza de detalhes musicais. Os compositores usavam contrastes de volume e textura para criar dramaticidade, como em uma pintura da época. Sabia que o termo 'barroco' vem de uma palavra portuguesa que significa 'pérola irregular', simbolizando essa complexidade artística?",
+    "palavras_chave": ["barroco", "contraste", "emoção", "composição", "história da música"]
+  },
+  {
+    "pergunta": "Quem foi Johann Sebastian Bach e por que ele é tão importante?",
+    "resposta": "Bach é considerado um dos maiores gênios da música barroca. Suas composições, como o 'Cravo Bem Temperado' e as 'Paixões', combinam matemática e emoção em um equilíbrio impressionante. Ele não foi muito reconhecido em vida, mas influenciou gerações de músicos depois. Sabia que Beethoven chamava Bach de 'pai da harmonia'?",
+    "palavras_chave": ["bach", "barroco", "harmonia", "composição", "influência"]
+  },
+  {
+    "pergunta": "Qual foi a principal inovação musical trazida pelo período Clássico?",
+    "resposta": "O período Clássico (1750–1820) trouxe equilíbrio, clareza e forma à música. A sinfonia e o quarteto de cordas se consolidaram, e a orquestra ganhou destaque. Sabia que esse período é chamado de 'era de ouro' porque estabeleceu as bases da música ocidental moderna?",
+    "palavras_chave": ["período clássico", "sinfonia", "quarteto", "orquestra", "equilíbrio"]
+  },
+  {
+    "pergunta": "Por que Mozart é considerado um gênio da música?",
+    "resposta": "Wolfgang Amadeus Mozart compôs mais de 600 obras antes dos 36 anos, unindo emoção e perfeição técnica. Suas óperas e sinfonias continuam sendo referência de beleza e complexidade. Sabia que ele escrevia melodias inteiras de cabeça, sem precisar revisá-las?",
+    "palavras_chave": ["mozart", "gênio", "ópera", "sinfonia", "composição"]
+  },
+  {
+    "pergunta": "Qual a diferença entre música barroca e clássica?",
+    "resposta": "A música barroca é mais ornamentada e emocional, enquanto a clássica busca equilíbrio e clareza. No barroco, os compositores expressavam dramaticidade; já no clássico, a ideia era transmitir ordem e beleza racional. Sabia que Bach representa o auge do barroco e Haydn, o início do clássico?",
+    "palavras_chave": ["barroco", "clássico", "contraste", "estilo", "história da música"]
+  },
+  {
+    "pergunta": "Quem foi Joseph Haydn e qual foi sua contribuição para a música?",
+    "resposta": "Haydn é conhecido como o 'pai da sinfonia' e do quarteto de cordas. Trabalhou para a nobreza austríaca e ajudou a definir a estrutura musical que seria usada por Mozart e Beethoven. Sabia que ele foi o primeiro a escrever sinfonias com quatro movimentos, modelo seguido até hoje?",
+    "palavras_chave": ["haydn", "sinfonia", "quarteto", "austria", "clássico"]
+  },
+  {
+    "pergunta": "Como Beethoven mudou a história da música?",
+    "resposta": "Beethoven transformou a música ao unir emoção profunda e inovação estrutural. Ele levou o estilo clássico ao romantismo, ampliando as formas e explorando sentimentos humanos intensos. Sabia que ele compôs parte de suas obras mais famosas completamente surdo?",
+    "palavras_chave": ["beethoven", "romantismo", "emoção", "inovação", "surdez"]
+  },
+  {
+    "pergunta": "O que caracteriza o período Romântico na música?",
+    "resposta": "O romantismo (século XIX) valorizou a emoção, a individualidade e o virtuosismo técnico. Compositores como Chopin e Liszt exploraram sentimentos profundos e melodias expressivas. Sabia que o piano se tornou o instrumento símbolo dessa época?",
+    "palavras_chave": ["romantismo", "emoção", "piano", "virtude", "século xix"]
+  },
+  {
+    "pergunta": "Quem foi Frédéric Chopin e por que suas obras são tão especiais?",
+    "resposta": "Chopin foi um pianista polonês que revolucionou a forma de tocar e compor para piano. Suas peças, como os Noturnos e Prelúdios, transmitem sensibilidade e melancolia. Sabia que ele raramente se apresentava em público, preferindo tocar para pequenos grupos?",
+    "palavras_chave": ["chopin", "piano", "polônia", "romantismo", "sensibilidade"]
+  },
+  {
+    "pergunta": "Por que Franz Liszt é lembrado como um dos maiores pianistas da história?",
+    "resposta": "Liszt era um verdadeiro 'rockstar' do século XIX — virtuoso, carismático e inovador. Ele criou o conceito de recital solo e compôs peças extremamente difíceis, como as 'Rapsódias Húngaras'. Sabia que o termo 'lisztomania' surgiu por causa do delírio dos fãs em seus concertos?",
+    "palavras_chave": ["liszt", "piano", "virtuosismo", "romantismo", "recital"]
+  },
+  {
+    "pergunta": "Quem foi Clara Schumann e qual foi seu papel na música clássica?",
+    "resposta": "Clara Schumann foi uma das grandes pianistas e compositoras do século XIX. Além de sua própria obra, foi fundamental na divulgação das composições de seu marido, Robert Schumann, e de Brahms. Sabia que ela começou a se apresentar profissionalmente aos nove anos?",
+    "palavras_chave": ["clara schumann", "pianista", "compositora", "século xix", "romantismo"]
+  },
+  {
+    "pergunta": "O que significa 'sinfonia' na música clássica?",
+    "resposta": "Sinfonia é uma composição orquestral, geralmente dividida em quatro movimentos, que explora contrastes e temas variados. Tornou-se o gênero mais importante da era clássica. Sabia que Haydn escreveu mais de 100 sinfonias durante sua vida?",
+    "palavras_chave": ["sinfonia", "orquestra", "movimentos", "clássico", "estrutura"]
+  },
+  {
+    "pergunta": "Quem foi Antonio Vivaldi e por que 'As Quatro Estações' é tão famosa?",
+    "resposta": "Vivaldi foi um compositor italiano do período Barroco conhecido por sua energia e criatividade. 'As Quatro Estações' é um conjunto de concertos que representa musicalmente cada época do ano. Sabia que ele era também padre e professor em um orfanato de meninas?",
+    "palavras_chave": ["vivaldi", "barroco", "as quatro estações", "itália", "concerto"]
+  },
+  {
+    "pergunta": "Como a música clássica se espalhou pelo mundo?",
+    "resposta": "Com o avanço das cortes europeias e o surgimento dos conservatórios, a música clássica se expandiu para outros continentes. No século XIX, já havia orquestras na América e na Ásia. Sabia que o Japão foi um dos primeiros países fora da Europa a criar uma orquestra sinfônica permanente?",
+    "palavras_chave": ["música clássica", "orquestra", "expansão", "século xix", "globalização"]
+  },
+  {
+    "pergunta": "O que é uma ópera e como ela surgiu?",
+    "resposta": "A ópera nasceu na Itália, no fim do século XVI, como uma tentativa de unir teatro, poesia e música. Rapidamente se espalhou por toda a Europa e se tornou um dos gêneros mais sofisticados. Sabia que as primeiras óperas eram inspiradas em mitos da Grécia antiga?",
+    "palavras_chave": ["ópera", "itália", "teatro", "música", "mitologia"]
+  },
+  {
+    "pergunta": "Quem foi Richard Wagner e por que sua música é considerada revolucionária?",
+    "resposta": "Wagner foi um compositor alemão que reinventou a ópera com obras monumentais, como 'O Anel do Nibelungo'. Ele usava temas musicais recorrentes chamados 'leitmotivs' para representar personagens e ideias. Sabia que suas inovações influenciaram até o cinema moderno?",
+    "palavras_chave": ["wagner", "ópera", "alemão", "leitmotiv", "inovação"]
+  },
+  {
+    "pergunta": "Por que Tchaikovsky é tão popular até hoje?",
+    "resposta": "O compositor russo Tchaikovsky é amado por unir emoção e melodia com um toque dramático. Suas obras, como 'O Lago dos Cisnes' e 'Quebra-Nozes', se tornaram ícones culturais. Sabia que ele escreveu o hino oficial da inauguração do Carnegie Hall, em Nova York?",
+    "palavras_chave": ["tchaikovsky", "rússia", "balé", "emoção", "música clássica"]
+  },
+  {
+    "pergunta": "Quem foi Ludwig van Beethoven e o que o torna um símbolo da superação?",
+    "resposta": "Beethoven é lembrado não só por sua genialidade musical, mas por sua força diante da surdez. Mesmo sem ouvir, compôs obras que expressam esperança e liberdade, como a 'Nona Sinfonia'. Sabia que essa sinfonia foi adotada como hino da União Europeia?",
+    "palavras_chave": ["beethoven", "nona sinfonia", "superação", "surdez", "liberdade"]
+  },
+  {
+    "pergunta": "O que são concertos e como eles diferem das sinfonias?",
+    "resposta": "O concerto é uma obra que destaca um instrumento solista acompanhado pela orquestra, enquanto a sinfonia é puramente orquestral. Esse formato permite mostrar o virtuosismo do músico. Sabia que Mozart e Beethoven foram os primeiros a popularizar o concerto para piano?",
+    "palavras_chave": ["concerto", "solista", "sinfonia", "orquestra", "piano"]
+  },
+  {
+    "pergunta": "Qual a importância de Johannes Brahms na história da música?",
+    "resposta": "Brahms manteve o espírito clássico dentro do romantismo, equilibrando emoção e estrutura. Suas sinfonias e sonatas são admiradas pela profundidade. Sabia que ele era visto como o sucessor de Beethoven por críticos da época?",
+    "palavras_chave": ["brahms", "romantismo", "sinfonia", "beethoven", "estrutura"]
+  },
+  {
+    "pergunta": "Quem foi Igor Stravinsky e por que sua música causou tanta polêmica?",
+    "resposta": "Stravinsky revolucionou o século XX com 'A Sagração da Primavera', que chocou o público com ritmos e harmonias inovadores. Sabia que, na estreia em 1913, o público reagiu com vaias e até brigas no teatro?",
+    "palavras_chave": ["stravinsky", "século xx", "a sagração da primavera", "inovação", "polêmica"]
+  },
+  {
+    "pergunta": "O que foi o Classicismo Vienense?",
+    "resposta": "O Classicismo Vienense foi um movimento musical que floresceu em Viena no século XVIII, com compositores como Haydn, Mozart e Beethoven. Eles definiram o estilo clássico europeu. Sabia que Viena era o centro musical mais importante do mundo na época?",
+    "palavras_chave": ["classicismo vienense", "viena", "mozart", "haydn", "beethoven"]
+  },
+  {
+    "pergunta": "Quem foi Franz Schubert e o que é um 'lied'?",
+    "resposta": "Schubert foi um compositor austríaco que se destacou pelas canções chamadas 'lieder', que unem poesia e música de forma íntima. Sabia que ele escreveu mais de 600 canções antes dos 32 anos?",
+    "palavras_chave": ["schubert", "lied", "canção", "poesia", "romantismo"]
+  },
+  {
+    "pergunta": "Como a música clássica influenciou o cinema?",
+    "resposta": "A música clássica inspirou trilhas sonoras com estrutura e emoção semelhantes às sinfonias. Compositores como John Williams seguem essa tradição. Sabia que muitas trilhas de filmes, como 'Star Wars', usam técnicas herdadas de Wagner e Tchaikovsky?",
+    "palavras_chave": ["música clássica", "cinema", "trilha sonora", "wagner", "influência"]
+  },
+  {
+    "pergunta": "Quem foi George Frideric Handel e qual sua maior contribuição para a música?",
+    "resposta": "Handel foi um compositor alemão naturalizado inglês, conhecido por suas grandiosas obras corais e óperas. Sua peça mais famosa é o oratório 'O Messias', com o célebre 'Aleluia'. Sabia que ele chegou a competir musicalmente com Bach, mas os dois nunca se encontraram pessoalmente?",
+    "palavras_chave": ["handel", "messias", "barroco", "inglaterra", "oratório"]
+  },
+  {
+    "pergunta": "Por que a música de Bach é estudada até hoje?",
+    "resposta": "A obra de Bach é considerada a base da música ocidental pela sua complexidade harmônica e perfeição técnica. Ela ensina desde contraponto até improvisação. Sabia que muitos músicos de jazz estudam Bach para aprimorar sua harmonia e improviso?",
+    "palavras_chave": ["bach", "harmonia", "contraponto", "educação musical", "jazz"]
+  },
+  {
+    "pergunta": "Quem foi Antonio Salieri e qual sua relação com Mozart?",
+    "resposta": "Salieri foi um compositor respeitado em Viena e mestre de grandes músicos, como Beethoven e Schubert. A rivalidade com Mozart foi muito exagerada pela ficção, especialmente pelo filme 'Amadeus'. Sabia que, na verdade, há registros de que Salieri admirava Mozart?",
+    "palavras_chave": ["salieri", "mozart", "viena", "rivalidade", "século xviii"]
+  },
+  {
+    "pergunta": "O que diferencia o romantismo musical do período clássico?",
+    "resposta": "Enquanto o período clássico prezava pela forma e equilíbrio, o romantismo priorizou a emoção e a liberdade criativa. Os compositores começaram a expressar sentimentos pessoais e temas nacionais. Sabia que foi nessa época que as orquestras cresceram muito de tamanho?",
+    "palavras_chave": ["romantismo", "clássico", "emoção", "liberdade", "orquestra"]
+  },
+  {
+    "pergunta": "Quem foi Robert Schumann e qual foi sua contribuição ao romantismo?",
+    "resposta": "Schumann foi um dos grandes nomes do romantismo alemão. Criou peças que exploram a psicologia e a poesia, como o ciclo 'Carnaval'. Sabia que ele também foi um importante crítico musical e ajudou a descobrir jovens talentos como Chopin e Brahms?",
+    "palavras_chave": ["robert schumann", "romantismo", "piano", "crítica musical", "poesia"]
+  },
+  {
+    "pergunta": "Por que o piano se tornou o instrumento símbolo do século XIX?",
+    "resposta": "O piano representava tanto a técnica quanto a emoção, sendo usado em concertos e salões particulares. Ele permitia expressar desde a delicadeza até a força dramática. Sabia que a popularização do piano coincidiu com o crescimento da burguesia europeia?",
+    "palavras_chave": ["piano", "século xix", "romantismo", "burguesia", "expressão"]
+  },
+  {
+    "pergunta": "Quem foi Giuseppe Verdi e qual sua importância na ópera italiana?",
+    "resposta": "Verdi foi o grande mestre da ópera italiana do século XIX. Suas obras, como 'Aida' e 'La Traviata', combinam drama, política e emoção popular. Sabia que as músicas de Verdi foram usadas como símbolo de unificação nacional na Itália?",
+    "palavras_chave": ["verdi", "ópera", "itália", "nacionalismo", "século xix"]
+  },
+  {
+    "pergunta": "O que é um 'concerto para violino' e por que ele é tão valorizado?",
+    "resposta": "Um concerto para violino é uma obra em que o instrumento solista dialoga com a orquestra, demonstrando técnica e emoção. Grandes compositores como Mendelssohn, Brahms e Tchaikovsky escreveram concertos célebres. Sabia que muitos violinistas dedicam anos a estudar apenas um concerto clássico?",
+    "palavras_chave": ["concerto", "violino", "orquestra", "virtuosismo", "clássico"]
+  },
+  {
+    "pergunta": "Quem foi Felix Mendelssohn e qual foi seu legado?",
+    "resposta": "Mendelssohn foi um compositor e maestro alemão que ajudou a reviver a obra de Bach no século XIX. Ele também escreveu peças cheias de lirismo, como a 'Marcha Nupcial'. Sabia que ele compôs sua primeira sinfonia aos 15 anos?",
+    "palavras_chave": ["mendelssohn", "bach", "romantismo", "sinfonia", "marchas"]
+  },
+  {
+    "pergunta": "O que é um quarteto de cordas?",
+    "resposta": "O quarteto de cordas é uma formação com dois violinos, uma viola e um violoncelo. É um dos formatos mais importantes da música de câmara, valorizado pela harmonia entre os instrumentos. Sabia que Haydn foi quem popularizou esse tipo de composição?",
+    "palavras_chave": ["quarteto de cordas", "haydn", "música de câmara", "violino", "harmonia"]
+  },
+  {
+    "pergunta": "Quem foi Gustav Mahler e o que o diferencia dos outros compositores românticos?",
+    "resposta": "Mahler é conhecido por suas sinfonias gigantescas e emocionais, que misturam orquestra, coro e filosofia. Ele levou a sinfonia ao limite de complexidade e intensidade. Sabia que Mahler dizia que cada sinfonia sua deveria conter 'todo o mundo' dentro dela?",
+    "palavras_chave": ["mahler", "sinfonia", "romantismo tardio", "orquestra", "emoção"]
+  },
+  {
+    "pergunta": "Por que o balé se tornou um gênero importante na música clássica?",
+    "resposta": "O balé une música, dança e narrativa visual. Compositores como Tchaikovsky e Prokofiev transformaram o gênero em verdadeira arte sinfônica. Sabia que o balé 'O Lago dos Cisnes' foi um fracasso na estreia, mas hoje é um dos mais famosos do mundo?",
+    "palavras_chave": ["balé", "tchaikovsky", "dança", "prokofiev", "arte"]
+  },
+  {
+    "pergunta": "Quem foi Sergei Rachmaninoff e por que suas obras são tão emocionais?",
+    "resposta": "Rachmaninoff foi um compositor e pianista russo conhecido por melodias intensas e harmonias ricas. Suas obras expressam saudade e melancolia, típicas da alma russa. Sabia que ele tinha mãos enormes, capazes de alcançar acordes que poucos pianistas conseguiam tocar?",
+    "palavras_chave": ["rachmaninoff", "piano", "rússia", "melancolia", "romantismo tardio"]
+  },
+  {
+    "pergunta": "O que foi o Neoclassicismo na música?",
+    "resposta": "O Neoclassicismo surgiu no início do século XX como uma reação à complexidade romântica. Compositores como Stravinsky e Prokofiev voltaram a formas mais equilibradas e claras. Sabia que o movimento buscava inspiração em Mozart e Haydn, mas com linguagem moderna?",
+    "palavras_chave": ["neoclassicismo", "stravinsky", "prokofiev", "século xx", "mozart"]
+  },
+  {
+    "pergunta": "Quem foi Claude Debussy e por que ele é considerado impressionista?",
+    "resposta": "Debussy buscou representar atmosferas e sensações sonoras, como um pintor com cores musicais. Sua obra 'Clair de Lune' é um exemplo disso. Sabia que ele rejeitava o termo 'impressionista', preferindo dizer que fazia música de 'liberdade sonora'?",
+    "palavras_chave": ["debussy", "impressionismo", "clair de lune", "frança", "liberdade sonora"]
+  },
+  {
+    "pergunta": "Por que o nome de Franz Liszt é tão importante para o virtuosismo pianístico?",
+    "resposta": "Liszt levou o piano ao limite técnico e emocional. Ele transformava seus concertos em espetáculos teatrais, encantando multidões. Sabia que muitos consideram Liszt o primeiro 'ídolo musical' da história?",
+    "palavras_chave": ["liszt", "piano", "virtuosismo", "romantismo", "idolatria"]
+  },
+  {
+    "pergunta": "Quem foi Camille Saint-Saëns e qual sua obra mais famosa?",
+    "resposta": "Saint-Saëns foi um compositor francês do século XIX conhecido por sua versatilidade. Sua obra mais famosa é 'O Carnaval dos Animais', uma suíte divertida que mistura humor e técnica. Sabia que ele proibiu a execução pública da peça durante sua vida, achando-a leve demais?",
+    "palavras_chave": ["saint-saëns", "frança", "carnaval dos animais", "humor", "século xix"]
+  },
+  {
+    "pergunta": "Qual a relação entre música clássica e filosofia?",
+    "resposta": "Desde a Grécia antiga, a música foi vista como uma forma de expressar ordem e harmonia universal. Filósofos como Schopenhauer e Nietzsche também refletiram sobre seu poder emocional. Sabia que Nietzsche chegou a compor peças musicais inspiradas em Wagner?",
+    "palavras_chave": ["filosofia", "grécia antiga", "nietzsche", "wagner", "harmonia"]
+  },
+  {
+    "pergunta": "Quem foi Igor Stravinsky e como ele influenciou o século XX?",
+    "resposta": "Stravinsky quebrou padrões com obras como 'A Sagração da Primavera', que desafiavam ritmo e harmonia tradicionais. Sua influência moldou o modernismo musical. Sabia que ele mudou de estilo várias vezes, do balé russo ao neoclassicismo e ao serialismo?",
+    "palavras_chave": ["stravinsky", "modernismo", "século xx", "a sagração da primavera", "neoclassicismo"]
+  },
+  {
+    "pergunta": "O que significa 'virtuose' na música clássica?",
+    "resposta": "Virtuose é o músico que domina completamente seu instrumento, combinando técnica e expressão. O termo ganhou destaque no romantismo, com artistas como Paganini e Liszt. Sabia que Paganini era tão habilidoso no violino que muitos o chamavam de 'demoníaco'?",
+    "palavras_chave": ["virtuose", "paganini", "liszt", "técnica", "romantismo"]
+  },
+  {
+    "pergunta": "Quem foi Nicolò Paganini e por que ele é uma lenda do violino?",
+    "resposta": "Paganini foi um violinista italiano que revolucionou o instrumento com técnicas inovadoras e impressionantes. Suas apresentações deixavam o público em choque. Sabia que havia boatos de que ele teria feito um 'pacto com o diabo' por tocar tão bem?",
+    "palavras_chave": ["paganini", "violino", "itália", "virtuosismo", "lenda"]
+  },
+  {
+    "pergunta": "O que é um maestro e qual seu papel em uma orquestra?",
+    "resposta": "O maestro é o responsável por coordenar a execução da orquestra, garantindo que todos os músicos toquem em harmonia. Ele interpreta a partitura e guia o grupo com gestos e expressões. Sabia que o uso da batuta só se tornou comum a partir do século XIX?",
+    "palavras_chave": ["maestro", "orquestra", "batuta", "coordenação", "interpretação"]
+  },
+  {
+    "pergunta": "Quem foi Pyotr Ilyich Tchaikovsky e qual é o segredo de seu sucesso?",
+    "resposta": "Tchaikovsky combinou melodia envolvente e drama emocional como poucos. Suas obras, como 'Quebra-Nozes' e 'O Lago dos Cisnes', encantam até hoje. Sabia que ele se inspirava tanto em histórias de contos de fadas quanto em dilemas pessoais?",
+    "palavras_chave": ["tchaikovsky", "rússia", "balé", "emoção", "contos de fadas"]
+  },
+  {
+    "pergunta": "O que é um prelúdio na música clássica?",
+    "resposta": "O prelúdio é uma peça curta que serve como introdução a outra obra ou como peça independente. Bach e Chopin escreveram coleções famosas de prelúdios. Sabia que, com Chopin, o prelúdio passou a ser uma forma completa, e não apenas introdutória?",
+    "palavras_chave": ["prelúdio", "bach", "chopin", "piano", "forma musical"]
+  },
+  {
+    "pergunta": "Quem foi Richard Strauss e o que é um poema sinfônico?",
+    "resposta": "Strauss foi um compositor alemão conhecido por suas óperas e poemas sinfônicos, obras orquestrais que contam histórias sem palavras. Um exemplo é 'Assim Falou Zaratustra'. Sabia que essa peça ficou famosa no cinema por causa do filme '2001: Uma Odisseia no Espaço'?",
+    "palavras_chave": ["strauss", "poema sinfônico", "alemão", "orquestra", "cinema"]
+  },
+  {
+    "pergunta": "Qual a importância das mulheres compositoras na história da música clássica?",
+    "resposta": "Apesar de muitas terem sido esquecidas, compositoras como Fanny Mendelssohn, Clara Schumann e Amy Beach tiveram papéis fundamentais. Sabia que algumas delas publicavam suas obras sob nomes masculinos para serem aceitas?",
+    "palavras_chave": ["mulheres", "compositoras", "história da música", "clara schumann", "fanny mendelssohn"]
+  },
+  {
+    "pergunta": "Como a música clássica dialoga com a espiritualidade?",
+    "resposta": "Desde os cantos gregorianos até as missas de Bach e Mozart, a música clássica expressa fé e transcendência. Sabia que muitos compositores viam suas obras como uma forma de oração sonora?",
+    "palavras_chave": ["espiritualidade", "fé", "bach", "mozart", "canto gregoriano"]
+  },
+  {
+    "pergunta": "Por que Chopin é tão associado ao piano romântico?",
+    "resposta": "Chopin é considerado o poeta do piano porque suas obras exploram ao máximo a expressividade e a delicadeza do instrumento. Ele compôs quase exclusivamente para piano, criando peças que misturam virtuosismo técnico com emoção profunda. Suas valsas, noturnos e prelúdios refletem o espírito romântico — subjetivo, lírico e introspectivo. Sabia que Chopin raramente se apresentava em grandes salas de concerto? Preferia ambientes menores, mais íntimos, onde a sutileza de sua música pudesse ser melhor apreciada.",
+    "palavras_chave": ["chopin", "piano", "romantismo", "noturnos", "expressividade"]
+  },
+  {
+    "pergunta": "Qual foi a importância de Clara Schumann na música do século XIX?",
+    "resposta": "Clara Schumann foi uma das primeiras mulheres a alcançar reconhecimento como pianista e compositora em um meio dominado por homens. Além de ser uma intérprete brilhante, ela promoveu a obra de seu marido, Robert Schumann, e de Johannes Brahms, tornando-se uma figura essencial na difusão da música romântica. Sabia que Clara também editou e revisou muitas das obras de Robert após sua morte, garantindo a preservação de seu legado?",
+    "palavras_chave": ["clara schumann", "romantismo", "piano", "brahms", "legado"]
+  },
+  {
+    "pergunta": "Como a música de Tchaikovsky se diferencia dos compositores europeus ocidentais?",
+    "resposta": "Tchaikovsky uniu a tradição europeia com o espírito russo. Enquanto utilizava formas clássicas como sinfonias e concertos, seu estilo trazia uma carga emocional intensa e melodias inspiradas no folclore russo. Suas obras, como o balé 'O Lago dos Cisnes', são profundamente teatrais e cheias de contrastes. Sabia que Tchaikovsky foi um dos primeiros compositores russos a conquistar fama internacional, sendo adorado também nos Estados Unidos e na França?",
+    "palavras_chave": ["tchaikovsky", "rússia", "romantismo", "balé", "folclore"]
+  },
+  {
+    "pergunta": "O que torna as sinfonias de Brahms tão respeitadas?",
+    "resposta": "As sinfonias de Brahms são conhecidas pelo equilíbrio entre emoção e estrutura. Ele conseguiu unir a profundidade emocional do romantismo com o rigor formal herdado de Beethoven. Cada uma de suas quatro sinfonias é cuidadosamente construída, com temas que se desenvolvem de forma orgânica. Sabia que Brahms demorou quase 20 anos para concluir sua Primeira Sinfonia, temendo não estar à altura de Beethoven?",
+    "palavras_chave": ["brahms", "sinfonias", "beethoven", "romantismo", "estrutura"]
+  },
+  {
+    "pergunta": "Por que a Nona Sinfonia de Beethoven é considerada revolucionária?",
+    "resposta": "A Nona Sinfonia foi a primeira a incluir vozes em uma obra sinfônica, unindo coro e orquestra em um mesmo movimento final. O famoso 'Ode à Alegria' celebra a fraternidade humana e marcou uma virada na história da música. Sabia que Beethoven já estava completamente surdo quando compôs essa obra monumental?",
+    "palavras_chave": ["beethoven", "nona sinfonia", "ode à alegria", "orquestra", "inovação"]
+  },
+  {
+    "pergunta": "Qual a diferença entre o estilo barroco de Bach e o estilo clássico de Mozart?",
+    "resposta": "Bach representa o auge da complexidade contrapontística do barroco, enquanto Mozart reflete a clareza e o equilíbrio do classicismo. Bach compunha com foco na harmonia e no entrelaçamento de vozes, já Mozart priorizava a melodia e a forma elegante. Sabia que, apesar das diferenças, Mozart estudava obras de Bach e o admirava profundamente?",
+    "palavras_chave": ["bach", "mozart", "barroco", "classicismo", "contraponto"]
+  },
+  {
+    "pergunta": "Como surgiu a ópera italiana e qual foi seu impacto na Europa?",
+    "resposta": "A ópera italiana surgiu no início do século XVII com compositores como Monteverdi, que buscavam unir música e drama em uma nova forma de arte. Rapidamente, o gênero se espalhou por toda a Europa, influenciando compositores como Handel e Mozart. Sabia que as primeiras óperas eram apresentadas apenas para a nobreza e, depois, se popularizaram nos teatros públicos de Veneza?",
+    "palavras_chave": ["ópera", "itália", "monteverdi", "teatro", "século xvii"]
+  },
+  {
+    "pergunta": "O que caracteriza o estilo de Franz Liszt?",
+    "resposta": "Liszt foi o grande virtuose do piano do século XIX. Sua técnica revolucionária e suas apresentações cheias de energia fizeram dele uma espécie de ‘popstar’ da época. Além disso, ele criou os poemas sinfônicos — obras orquestrais que narram ideias ou histórias. Sabia que Liszt chegou a ser o primeiro músico a fazer recitais solo, algo inédito até então?",
+    "palavras_chave": ["liszt", "piano", "virtuosismo", "poema sinfônico", "romantismo"]
+  },
+  {
+    "pergunta": "Como Wagner transformou a ópera com seus dramas musicais?",
+    "resposta": "Wagner revolucionou a ópera ao integrar todos os elementos — música, poesia e cenografia — em uma obra total, chamada de 'Gesamtkunstwerk'. Suas óperas, como 'O Anel dos Nibelungos', trazem temas mitológicos e complexas harmonias. Sabia que Wagner projetou o próprio teatro de Bayreuth, feito especialmente para suas óperas?",
+    "palavras_chave": ["wagner", "ópera", "drama musical", "mitologia", "bayreuth"]
+  },
+  {
+    "pergunta": "Qual foi a principal contribuição de Vivaldi para a música barroca?",
+    "resposta": "Vivaldi popularizou o concerto solo, especialmente para violino. Suas obras, como 'As Quatro Estações', trazem energia, contraste e descrição de cenas da natureza. Sabia que Vivaldi também era padre e ensinava música para órfãs em Veneza, que se tornaram excelentes musicistas?",
+    "palavras_chave": ["vivaldi", "barroco", "concerto", "violino", "veneza"]
+  },
+  {
+    "pergunta": "Por que Haydn é chamado de 'pai da sinfonia'?",
+    "resposta": "Haydn desenvolveu a forma sinfônica moderna, estruturando-a em quatro movimentos e equilibrando temas contrastantes. Sua contribuição foi tão marcante que influenciou diretamente Mozart e Beethoven. Sabia que Haydn compôs mais de 100 sinfonias ao longo da vida?",
+    "palavras_chave": ["haydn", "sinfonia", "classicismo", "estrutura", "influência"]
+  },
+  {
+    "pergunta": "Como Debussy quebrou as regras da música tradicional?",
+    "resposta": "Debussy abandonou as estruturas rígidas e explorou novas harmonias, criando o impressionismo musical. Suas obras evocam imagens e sensações, como em 'Clair de Lune'. Sabia que ele se inspirava em pinturas impressionistas e em poesia simbolista para compor?",
+    "palavras_chave": ["debussy", "impressionismo", "harmonia", "clair de lune", "sensação"]
+  },
+  {
+    "pergunta": "Qual o papel de Händel na popularização do oratório?",
+    "resposta": "Händel adaptou o estilo da ópera para criar o oratório, uma forma musical com coro e orquestra, mas sem encenação. Sua obra mais famosa, 'O Messias', é executada até hoje em todo o mundo. Sabia que Händel se tornou cidadão britânico e foi muito influente em Londres?",
+    "palavras_chave": ["händel", "oratório", "messias", "barroco", "londres"]
+  },
+  {
+    "pergunta": "O que caracteriza o estilo de Ravel em comparação com Debussy?",
+    "resposta": "Embora ambos sejam associados ao impressionismo, Ravel era mais racional e técnico que Debussy. Suas obras, como 'Bolero', mostram uma precisão rítmica e orquestração brilhante. Sabia que Ravel também era relojoeiro antes de se dedicar integralmente à música?",
+    "palavras_chave": ["ravel", "bolero", "impressionismo", "orquestração", "ritmo"]
+  },
+  {
+    "pergunta": "Como a música de Mahler reflete a transição do romantismo para o moderno?",
+    "resposta": "Mahler expandiu a sinfonia a dimensões grandiosas, incluindo coros e temas filosóficos. Suas obras exploram o conflito entre a beleza e o desespero humano, antecipando a sensibilidade moderna. Sabia que Mahler também foi um maestro influente, dirigindo a Ópera de Viena?",
+    "palavras_chave": ["mahler", "sinfonia", "romantismo", "modernismo", "viena"]
+  },
+  {
+    "pergunta": "Por que Mozart é considerado um gênio precoce da música?",
+    "resposta": "Mozart começou a compor aos cinco anos e aos oito já escrevia sinfonias completas. Sua genialidade estava na capacidade de criar melodias perfeitas e equilibradas, com naturalidade impressionante. Ele dominava vários gêneros — óperas, concertos, sinfonias — com igual maestria. Sabia que, quando criança, Mozart se apresentava para reis e rainhas em toda a Europa, acompanhado do pai?",
+    "palavras_chave": ["mozart", "genialidade", "infância", "sinfonia", "clássico"]
+  },
+  {
+    "pergunta": "Qual foi o impacto de Beethoven na transição do Classicismo para o Romantismo?",
+    "resposta": "Beethoven transformou a música clássica ao dar ênfase à expressão emocional e à individualidade. Suas obras marcam o fim do equilíbrio clássico e o início da intensidade romântica. Ele foi o primeiro compositor a ser visto como um artista independente, não apenas um servidor da nobreza. Sabia que Beethoven vendeu partituras diretamente ao público, algo inovador para a época?",
+    "palavras_chave": ["beethoven", "transição", "romantismo", "emoção", "independência"]
+  },
+  {
+    "pergunta": "Como a música de Schubert expressa a essência do romantismo?",
+    "resposta": "Schubert foi mestre em traduzir emoção em melodia. Suas canções, conhecidas como 'Lieder', retratam o amor, a natureza e o sofrimento com sensibilidade única. Ele viveu uma vida breve, mas deixou mais de 600 canções. Sabia que Schubert nunca chegou a ouvir muitas de suas obras mais famosas em apresentações públicas?",
+    "palavras_chave": ["schubert", "lieder", "romantismo", "melodia", "emoção"]
+  },
+  {
+    "pergunta": "Por que Bach é considerado o 'pai da harmonia moderna'?",
+    "resposta": "Bach sistematizou o uso da harmonia tonal, que seria a base da música ocidental por séculos. Suas fugas e prelúdios são exemplos perfeitos de equilíbrio entre técnica e expressão. Sabia que, embora tenha sido esquecido por um tempo após sua morte, foi redescoberto no século XIX por Mendelssohn?",
+    "palavras_chave": ["bach", "harmonia", "barroco", "fuga", "mendelssohn"]
+  },
+  {
+    "pergunta": "O que diferencia o estilo de Mendelssohn dentro do romantismo?",
+    "resposta": "Mendelssohn conciliou o espírito romântico com a clareza clássica. Suas obras são emocionais, mas sem exagero, com uma elegância herdada de Mozart. Ele também revitalizou o interesse por Bach e foi um grande maestro. Sabia que Mendelssohn compôs a famosa 'Marcha Nupcial', usada até hoje em casamentos?",
+    "palavras_chave": ["mendelssohn", "romantismo", "mozart", "marchas", "clássico"]
+  },
+  {
+    "pergunta": "Como a obra de Verdi redefiniu a ópera italiana?",
+    "resposta": "Verdi trouxe realismo e intensidade dramática à ópera italiana. Suas obras, como 'Aida' e 'La Traviata', exploram paixões humanas e conflitos sociais. Ele se tornou um símbolo nacional durante a unificação da Itália. Sabia que o nome 'VERDI' chegou a ser usado como código político pelos italianos na época?",
+    "palavras_chave": ["verdi", "ópera", "itália", "drama", "aida"]
+  },
+  {
+    "pergunta": "Qual é a importância de Puccini para a ópera moderna?",
+    "resposta": "Puccini aproximou a ópera da realidade emocional contemporânea. Suas obras, como 'La Bohème' e 'Madama Butterfly', trazem personagens humanos e melodias intensamente líricas. Ele uniu emoção cinematográfica e refinamento musical. Sabia que Puccini morreu antes de terminar sua última ópera, 'Turandot'?",
+    "palavras_chave": ["puccini", "ópera", "la bohème", "romantismo", "turandot"]
+  },
+  {
+    "pergunta": "Por que 'As Quatro Estações' de Vivaldi é tão famosa até hoje?",
+    "resposta": "Essa obra é um exemplo pioneiro de música programática, em que cada concerto representa uma estação do ano. As melodias descrevem sons da natureza, como pássaros e tempestades. Sabia que Vivaldi escreveu sonetos para acompanhar cada movimento das estações?",
+    "palavras_chave": ["vivaldi", "as quatro estações", "violino", "barroco", "natureza"]
+  },
+  {
+    "pergunta": "O que torna o estilo de Chopin único no piano romântico?",
+    "resposta": "Chopin tratava o piano como uma extensão da alma. Ele não buscava virtuosismo vazio, mas expressão emocional refinada. Seus noturnos e mazurcas misturam elegância com saudade, inspirados em danças polonesas. Sabia que Chopin raramente tocava em grandes concertos, preferindo salões menores?",
+    "palavras_chave": ["chopin", "piano", "romantismo", "mazurca", "expressão"]
+  },
+  {
+    "pergunta": "Como Stravinsky revolucionou a música do século XX?",
+    "resposta": "Stravinsky rompeu com o romantismo e criou novas linguagens musicais, como o neoclassicismo e o modernismo rítmico. Sua obra 'A Sagração da Primavera' causou escândalo por sua intensidade e dissonância. Sabia que, na estreia em 1913, o público chegou a vaiar e sair do teatro?",
+    "palavras_chave": ["stravinsky", "modernismo", "a sagração da primavera", "ritmo", "século xx"]
+  },
+  {
+    "pergunta": "Qual foi o papel de Paganini na história do violino?",
+    "resposta": "Paganini elevou o violino a um novo nível técnico e expressivo. Sua habilidade era tão extraordinária que muitos acreditavam que ele tinha um pacto com o diabo. Ele inspirou gerações de virtuoses e até compositores como Liszt. Sabia que Paganini chegou a tocar com apenas uma corda, após romper as outras de propósito?",
+    "palavras_chave": ["paganini", "violino", "virtuosismo", "liszt", "romantismo"]
+  },
+  {
+    "pergunta": "Como a música de Rachmaninoff expressa o fim do romantismo?",
+    "resposta": "Rachmaninoff combinou lirismo intenso com harmonias ricas e melancólicas. Suas obras para piano são emocionais e tecnicamente desafiadoras. Ele é visto como o último grande romântico russo. Sabia que Rachmaninoff também era regente e um dos melhores pianistas de sua época?",
+    "palavras_chave": ["rachmaninoff", "romantismo", "piano", "rússia", "emoção"]
+  },
+  {
+    "pergunta": "Qual foi o impacto de Schumann na música romântica?",
+    "resposta": "Schumann destacou o papel da imaginação e da subjetividade. Suas obras para piano e suas canções exploram estados de alma, paixões e devaneios. Ele também foi um importante crítico musical. Sabia que Schumann escreveu sob pseudônimos diferentes para representar lados opostos de sua personalidade?",
+    "palavras_chave": ["schumann", "romantismo", "piano", "crítica", "emoção"]
+  },
+  {
+    "pergunta": "O que caracteriza a música de Camille Saint-Saëns?",
+    "resposta": "Saint-Saëns era um mestre da elegância e da clareza formal. Sua música mistura o virtuosismo francês com humor e beleza melódica. A 'Dança Macabra' e 'O Carnaval dos Animais' são exemplos de sua criatividade. Sabia que ele começou a tocar piano aos dois anos e deu seu primeiro concerto aos cinco?",
+    "palavras_chave": ["saint-saëns", "frança", "dança macabra", "carnaval dos animais", "virtuosismo"]
+  },
+  {
+    "pergunta": "Por que Bartók é tão importante para a música moderna?",
+    "resposta": "Bartók foi pioneiro ao incorporar o folclore europeu oriental em composições eruditas. Ele viajou por vilarejos gravando canções populares, transformando-as em obras sofisticadas. Sabia que seu trabalho é considerado um dos primeiros estudos etnomusicológicos da história?",
+    "palavras_chave": ["bartók", "folclore", "modernismo", "etnomusicologia", "europa oriental"]
+  },
+  {
+    "pergunta": "Como Mahler expandiu o conceito de sinfonia?",
+    "resposta": "Mahler acreditava que uma sinfonia deveria conter 'o mundo inteiro'. Suas obras unem orquestras imensas, coros e temas existenciais. Elas refletem a angústia e a beleza do ser humano. Sabia que suas sinfonias chegaram a ter mais de 200 músicos no palco?",
+    "palavras_chave": ["mahler", "sinfonia", "romantismo", "orquestra", "existencialismo"]
+  },
+  {
+    "pergunta": "O que distingue a música de Bizet das demais óperas francesas?",
+    "resposta": "Bizet trouxe realismo e paixão mediterrânea à ópera francesa. Sua obra 'Carmen' é uma das mais populares do mundo, com melodias marcantes e drama intenso. Sabia que 'Carmen' foi um fracasso em sua estreia e só ganhou reconhecimento após a morte do compositor?",
+    "palavras_chave": ["bizet", "ópera", "carmen", "frança", "realismo"]
+  },
+  {
+    "pergunta": "Como Rimsky-Korsakov contribuiu para a música russa?",
+    "resposta": "Rimsky-Korsakov destacou-se pela maestria na orquestração e pelo uso de temas folclóricos. Obras como 'Scheherazade' encantam pela riqueza de cores sonoras. Sabia que ele também foi professor de grandes compositores como Stravinsky e Prokofiev?",
+    "palavras_chave": ["rimsky-korsakov", "rússia", "orquestração", "folclore", "scheherazade"]
+  },
+  {
+    "pergunta": "Qual o papel de Fauré na transição para o impressionismo?",
+    "resposta": "Fauré suavizou o romantismo com harmonias sutis e melodias introspectivas, antecipando o estilo impressionista. Sua 'Requiem' é um exemplo de serenidade e beleza espiritual. Sabia que ele foi professor de Debussy e Ravel no Conservatório de Paris?",
+    "palavras_chave": ["fauré", "impressionismo", "requiem", "paris", "harmonia"]
+  },
+  {
+    "pergunta": "Como Prokofiev uniu tradição e modernidade?",
+    "resposta": "Prokofiev equilibrava melodias acessíveis com ousadia harmônica. Suas obras transitam entre o clássico e o moderno, como o balé 'Romeu e Julieta'. Sabia que ele compôs também a música do filme 'Alexander Nevsky', dirigido por Eisenstein?",
+    "palavras_chave": ["prokofiev", "modernismo", "balé", "romeu e julieta", "cinema"]
+  },
+  {
+    "pergunta": "Por que Dvořák é lembrado como o maior compositor tcheco?",
+    "resposta": "Dvořák combinou a tradição clássica com o folclore tcheco, criando obras vibrantes e cheias de identidade nacional. Sua 'Sinfonia do Novo Mundo' foi composta nos Estados Unidos e homenageia tanto a América quanto sua terra natal. Sabia que ele se inspirou em canções afro-americanas para escrever essa obra?",
+    "palavras_chave": ["dvořák", "tchéquia", "sinfonia do novo mundo", "folclore", "américa"]
+  },
+  {
+    "pergunta": "Como Shostakovich expressou resistência através da música?",
+    "resposta": "Shostakovich viveu sob o regime soviético e usava a música para expressar críticas sutis ao governo. Suas sinfonias misturam ironia, dor e esperança. Sabia que ele chegou a compor peças sob censura, escondendo significados políticos nas melodias?",
+    "palavras_chave": ["shostakovich", "rússia", "sinfonia", "resistência", "soviético"]
+  },
+  {
+    "pergunta": "O que torna Bach tão relevante até hoje?",
+    "resposta": "A música de Bach é atemporal porque combina técnica impecável e espiritualidade profunda. Suas composições influenciam desde músicos clássicos até o jazz contemporâneo. Sabia que até os Beatles estudaram suas harmonias como fonte de inspiração?",
+    "palavras_chave": ["bach", "harmonia", "barroco", "influência", "beatles"]
+  },
+  {
+    "pergunta": "Por que Beethoven é considerado o maior gênio da música ocidental?",
+    "resposta": "Beethoven revolucionou a música ao unir emoção e estrutura como ninguém antes. Suas obras mostram a transição entre o Classicismo e o Romantismo, com intensidade e liberdade criativa inéditas. Ele compôs mesmo depois de ficar completamente surdo, transformando o sofrimento em arte. Sabia que a Nona Sinfonia, com o 'Ode à Alegria', é hoje o hino da União Europeia?",
+    "palavras_chave": ["beethoven", "gênio", "romantismo", "surdez", "nona sinfonia"]
+  },
+  {
+    "pergunta": "Como Mozart conseguiu criar tantas obras geniais em tão pouco tempo?",
+    "resposta": "Mozart compôs mais de 600 obras em apenas 35 anos de vida. Sua genialidade vinha da facilidade em combinar emoção, equilíbrio e perfeição formal. Ele escrevia com rapidez impressionante, quase sem precisar revisar. Sabia que ele compôs sua primeira sinfonia aos oito anos e sua primeira ópera aos doze?",
+    "palavras_chave": ["mozart", "genialidade", "ópera", "sinfonia", "classicismo"]
+  },
+  {
+    "pergunta": "O que faz Bach ser tão admirado até hoje por músicos de todos os estilos?",
+    "resposta": "Bach é o mestre do contraponto e da harmonia. Sua música combina rigor matemático e profunda espiritualidade. Ele influenciou desde compositores clássicos até artistas do jazz e do rock. Sabia que Paul McCartney estudava fugas de Bach para aprender composição?",
+    "palavras_chave": ["bach", "harmonia", "contraponto", "influência", "espiritualidade"]
+  },
+  {
+    "pergunta": "Por que Chopin é chamado de 'poeta do piano'?",
+    "resposta": "Chopin expressava emoções sutis e profundas apenas com o piano. Suas obras têm um lirismo quase vocal, como se o instrumento falasse. Ele criou gêneros como o noturno e o estudo com uma delicadeza única. Sabia que Chopin era tão reservado que quase nunca se apresentava em grandes palcos?",
+    "palavras_chave": ["chopin", "piano", "romantismo", "noturno", "lirismo"]
+  },
+  {
+    "pergunta": "O que torna 'O Lago dos Cisnes', de Tchaikovsky, uma obra tão icônica?",
+    "resposta": "‘O Lago dos Cisnes’ é um dos balés mais famosos do mundo. Tchaikovsky combinou emoção, drama e melodias inesquecíveis em uma história de amor e tragédia. Sabia que, na estreia em 1877, o balé foi um fracasso e só se tornou popular após sua morte?",
+    "palavras_chave": ["tchaikovsky", "balé", "o lago dos cisnes", "romantismo", "rússia"]
+  },
+  {
+    "pergunta": "Por que as sinfonias de Beethoven são tão importantes?",
+    "resposta": "As sinfonias de Beethoven romperam com os padrões da época. Ele transformou a forma sinfônica em um espaço de expressão pessoal e filosófica. Da Primeira à Nona, cada obra marca uma evolução artística e emocional. Sabia que sua Quinta Sinfonia começa com uma sequência de notas que virou símbolo do destino?",
+    "palavras_chave": ["beethoven", "sinfonia", "quinto movimento", "classicismo", "inovação"]
+  },
+  {
+    "pergunta": "Como a música de Vivaldi influenciou gerações de compositores?",
+    "resposta": "Vivaldi consolidou a forma do concerto e trouxe um senso de energia e contraste ao barroco. Suas obras inspiraram Bach e até influenciaram o desenvolvimento da música clássica moderna. Sabia que ele escreveu mais de 500 concertos, sendo 'As Quatro Estações' o mais famoso?",
+    "palavras_chave": ["vivaldi", "concerto", "barroco", "as quatro estações", "violino"]
+  },
+  {
+    "pergunta": "O que diferencia Mozart de Beethoven em termos de estilo?",
+    "resposta": "Mozart representa a perfeição formal e o equilíbrio clássico, enquanto Beethoven rompeu fronteiras e buscou emoção intensa. Mozart encantava pela leveza; Beethoven impressionava pela força. Sabia que Beethoven estudou profundamente as obras de Mozart antes de criar seu próprio estilo?",
+    "palavras_chave": ["mozart", "beethoven", "classicismo", "romantismo", "estilo"]
+  },
+  {
+    "pergunta": "Por que Wagner é considerado um dos compositores mais influentes da história?",
+    "resposta": "Wagner reinventou a ópera ao criar o 'drama musical', unindo poesia, teatro e orquestra em uma única obra de arte. Sua música tem força filosófica e emocional. Sabia que ele próprio construiu o Teatro de Bayreuth, projetado especialmente para suas óperas?",
+    "palavras_chave": ["wagner", "ópera", "drama musical", "teatro", "alemanha"]
+  },
+  {
+    "pergunta": "Como Verdi ajudou a popularizar a ópera italiana?",
+    "resposta": "Verdi tornou a ópera acessível e emocionalmente direta. Suas obras falam de amor, poder e liberdade, com melodias memoráveis. Ele se tornou um símbolo da identidade italiana durante a unificação do país. Sabia que o nome 'VERDI' chegou a ser usado como código político pelos patriotas?",
+    "palavras_chave": ["verdi", "ópera", "itália", "unificação", "drama"]
+  },
+  {
+    "pergunta": "O que faz de Brahms um herdeiro de Beethoven?",
+    "resposta": "Brahms manteve o rigor estrutural de Beethoven, mas com a sensibilidade romântica do século XIX. Suas sinfonias e concertos unem lógica e emoção. Sabia que ele demorou quase 20 anos para terminar sua Primeira Sinfonia por medo de não estar à altura de Beethoven?",
+    "palavras_chave": ["brahms", "beethoven", "romantismo", "sinfonia", "tradição"]
+  },
+  {
+    "pergunta": "Por que as fugas de Bach são consideradas obras-primas?",
+    "resposta": "As fugas de Bach são exercícios de inteligência musical e emoção contida. Ele constrói várias vozes que se entrelaçam perfeitamente, criando uma estrutura quase matemática. Sabia que Albert Einstein dizia que escutar Bach era como 'falar diretamente com Deus'?",
+    "palavras_chave": ["bach", "fuga", "contraponto", "barroco", "estrutura"]
+  },
+  {
+    "pergunta": "Como Debussy mudou o rumo da música no século XX?",
+    "resposta": "Debussy quebrou as regras da harmonia tradicional e criou uma música que parecia pintar sons, como os impressionistas faziam com cores. Ele abriu caminho para o modernismo musical. Sabia que sua peça 'Clair de Lune' é uma das mais tocadas no mundo até hoje?",
+    "palavras_chave": ["debussy", "impressionismo", "harmonia", "clair de lune", "modernismo"]
+  },
+  {
+    "pergunta": "O que faz 'O Messias', de Händel, ser tão tocado até hoje?",
+    "resposta": "‘O Messias’ é uma das obras corais mais conhecidas do mundo, famosa pelo ‘Aleluia’. Händel misturou grandiosidade e espiritualidade de um jeito universal. Sabia que o rei Jorge II ficou tão emocionado na estreia que se levantou durante o ‘Aleluia’, criando uma tradição até hoje?",
+    "palavras_chave": ["händel", "o messias", "barroco", "coro", "aleluia"]
+  },
+  {
+    "pergunta": "Por que Liszt foi chamado de 'rockstar do século XIX'?",
+    "resposta": "Liszt encantava multidões com sua habilidade no piano e presença de palco. Ele foi o primeiro a fazer recitais solo, algo inédito na época. Sabia que fãs chegavam a brigar por uma mecha do cabelo dele, como se fosse uma celebridade moderna?",
+    "palavras_chave": ["liszt", "piano", "virtuosismo", "romantismo", "recital"]
+  },
+  {
+    "pergunta": "Como Mahler transformou a sinfonia em uma forma existencial?",
+    "resposta": "Mahler acreditava que a sinfonia devia conter ‘o mundo inteiro’. Suas obras refletem o drama humano, a fé e a dúvida. Ele expandiu a orquestra e criou climas emocionais grandiosos. Sabia que suas sinfonias podem durar mais de 90 minutos?",
+    "palavras_chave": ["mahler", "sinfonia", "romantismo", "orquestra", "existencialismo"]
+  },
+  {
+    "pergunta": "Por que Stravinsky causou tanto escândalo com ‘A Sagração da Primavera’?",
+    "resposta": "Quando estreou em 1913, a obra chocou o público com ritmos violentos e dissonâncias. Stravinsky quebrou tudo o que se esperava da música clássica. Sabia que o público vaiou tanto que a apresentação virou uma confusão generalizada?",
+    "palavras_chave": ["stravinsky", "a sagração da primavera", "modernismo", "ritmo", "inovação"]
+  },
+  {
+    "pergunta": "O que torna ‘Carmen’, de Bizet, uma ópera tão popular?",
+    "resposta": "‘Carmen’ combina drama, paixão e melodias irresistíveis. Bizet criou uma heroína livre e trágica que foge dos padrões da época. Sabia que a ópera foi mal recebida na estreia, considerada 'escandalosa' por causa do comportamento da protagonista?",
+    "palavras_chave": ["bizet", "carmen", "ópera", "frança", "realismo"]
+  },
+  {
+    "pergunta": "Por que Haydn é chamado de ‘pai da sinfonia’?",
+    "resposta": "Haydn estruturou a forma sinfônica e desenvolveu o quarteto de cordas. Sua clareza e equilíbrio inspiraram Mozart e Beethoven. Sabia que ele compôs mais de 100 sinfonias e 80 quartetos?",
+    "palavras_chave": ["haydn", "sinfonia", "quarteto", "classicismo", "estrutura"]
+  },
+  {
+    "pergunta": "Como Puccini tornou a ópera mais humana?",
+    "resposta": "Puccini retratou personagens comuns e emoções reais. Em 'La Bohème' e 'Madama Butterfly', há dor, amor e vulnerabilidade. Sabia que Puccini escrevia pensando em como a música poderia emocionar o público, quase como um roteiro de cinema?",
+    "palavras_chave": ["puccini", "ópera", "la bohème", "realismo", "emoção"]
+  },
+  {
+    "pergunta": "O que faz 'Bolero', de Ravel, ser tão hipnotizante?",
+    "resposta": "‘Bolero’ repete o mesmo tema por mais de 15 minutos, crescendo gradualmente até um clímax poderoso. É uma aula de orquestração e ritmo. Sabia que Ravel escreveu a peça como um 'experimento musical' e ficou surpreso com seu sucesso?",
+    "palavras_chave": ["ravel", "bolero", "orquestração", "ritmo", "impressionismo"]
+  },
+  {
+    "pergunta": "Por que Paganini é considerado o maior violinista da história?",
+    "resposta": "Paganini dominava técnicas que pareciam impossíveis, como tocar apenas com uma corda. Sua habilidade inspirou mitos e lendas. Sabia que ele era tão virtuoso que muitos acreditavam que tinha feito um pacto com o diabo?",
+    "palavras_chave": ["paganini", "violino", "virtuosismo", "romantismo", "lenda"]
+  },
+  {
+    "pergunta": "Como Rachmaninoff conseguiu unir técnica e emoção em suas obras?",
+    "resposta": "Rachmaninoff tinha mãos enormes e uma sensibilidade única. Suas composições para piano são tecnicamente exigentes, mas também profundamente emocionais. Sabia que ele fugiu da Rússia após a Revolução e continuou compondo nos Estados Unidos?",
+    "palavras_chave": ["rachmaninoff", "piano", "romantismo", "rússia", "emoção"]
+  },
+  {
+    "pergunta": "Por que Schubert é considerado o mestre da canção romântica?",
+    "resposta": "Schubert elevou a canção a uma forma de arte, unindo poesia e música com perfeição. Seus 'Lieder' falam de amor, solidão e natureza. Sabia que ele escreveu mais de 600 canções em apenas 31 anos de vida?",
+    "palavras_chave": ["schubert", "lieder", "canção", "romantismo", "emoção"]
+  },
+  {
+    "pergunta": "Como Beethoven superou a surdez para compor obras-primas?",
+    "resposta": "Beethoven começou a perder a audição aos 26 anos, mas não desistiu da música. Ele passou a sentir a música internamente, compondo algumas das maiores obras da história, como a Nona Sinfonia. Sabia que ele escrevia anotações chamadas de 'cartas de conversa' para se comunicar com amigos e colegas durante sua surdez?",
+    "palavras_chave": ["beethoven", "surdez", "nona sinfonia", "gênio", "composição"]
+  },
+  {
+    "pergunta": "Qual a importância da ópera 'Don Giovanni', de Mozart?",
+    "resposta": "‘Don Giovanni’ combina drama, comédia e crítica social, mostrando o domínio de Mozart sobre a ópera. A música traduz emoções complexas de cada personagem. Sabia que o libreto foi escrito por Lorenzo Da Ponte, colaborador frequente de Mozart?",
+    "palavras_chave": ["mozart", "don giovanni", "ópera", "drama", "da ponte"]
+  },
+  {
+    "pergunta": "Por que Bach é considerado o mestre do contraponto?",
+    "resposta": "Bach combinava várias linhas melódicas independentes de forma harmônica perfeita, criando uma teia sonora complexa e equilibrada. Suas fugas e corais são modelos de ensino musical até hoje. Sabia que Johann Sebastian Bach teve 20 filhos, e quatro deles também se tornaram compositores famosos?",
+    "palavras_chave": ["bach", "contraponto", "fuga", "coral", "barroco"]
+  },
+  {
+    "pergunta": "O que faz Chopin ser tão influente na música para piano?",
+    "resposta": "Chopin revolucionou a música para piano com peças que exploram técnica e emoção, como os Noturnos e Estudos. Ele transformou danças tradicionais polonesas em obras líricas universais. Sabia que Chopin costumava compor apenas para ambientes íntimos, evitando grandes concertos?",
+    "palavras_chave": ["chopin", "piano", "noturno", "mazurca", "romantismo"]
+  },
+  {
+    "pergunta": "Como Tchaikovsky combinou música e emoção nos balés?",
+    "resposta": "Tchaikovsky tornou os balés narrativos, com orquestração intensa e temas emocionais, como em ‘O Lago dos Cisnes’ e ‘O Quebra-Nozes’. Ele conseguia traduzir drama e poesia em som. Sabia que o famoso tema do ‘Quebra-Nozes’ é tocado mundialmente todo Natal?",
+    "palavras_chave": ["tchaikovsky", "balé", "o lago dos cisnes", "queixa-nozes", "romantismo"]
+  },
+  {
+    "pergunta": "Por que a Quinta Sinfonia de Beethoven é tão famosa?",
+    "resposta": "A Quinta Sinfonia é reconhecida pelo tema inicial de quatro notas, que simboliza o destino. É uma obra que combina tensão dramática e resolução triunfante. Sabia que este motivo foi usado por soldados durante a Segunda Guerra Mundial como símbolo de vitória?",
+    "palavras_chave": ["beethoven", "quinta sinfonia", "destino", "tema", "classicismo"]
+  },
+  {
+    "pergunta": "O que torna 'As Quatro Estações' de Vivaldi tão inovadora?",
+    "resposta": "Cada concerto representa uma estação do ano, descrevendo sons da natureza como tempestades ou pássaros. Vivaldi criou um exemplo clássico de música programática. Sabia que ele escreveu sonetos explicando cada movimento da obra?",
+    "palavras_chave": ["vivaldi", "as quatro estações", "concerto", "barroco", "programática"]
+  },
+  {
+    "pergunta": "Como Wagner transformou a ópera com o 'Anel dos Nibelungos'?",
+    "resposta": "Wagner integrou música, drama, poesia e cenografia em uma obra total. O ciclo de quatro óperas explora mitologia e questões filosóficas profundas. Sabia que ele levou mais de 25 anos para completar o ‘Anel’?",
+    "palavras_chave": ["wagner", "anél dos nibelungos", "ópera", "mitologia", "drama musical"]
+  },
+  {
+    "pergunta": "Por que Verdi é considerado símbolo da identidade italiana?",
+    "resposta": "Verdi expressava patriotismo e emoção em suas óperas, como 'Nabucco'. Sua música era ouvida como um chamado à liberdade durante a unificação da Itália. Sabia que a famosa ‘Chorus of the Hebrew Slaves’ se tornou um símbolo de resistência?",
+    "palavras_chave": ["verdi", "ópera", "italia", "nabucco", "patriotismo"]
+  },
+  {
+    "pergunta": "Como Brahms equilibrou emoção e rigor clássico?",
+    "resposta": "Brahms mantinha a estrutura clássica herdada de Beethoven, mas incorporava a expressividade romântica. Suas sinfonias e concertos são exemplos desse equilíbrio. Sabia que ele era extremamente autocrítico e demorava anos para concluir algumas obras?",
+    "palavras_chave": ["brahms", "beethoven", "sinfonia", "romantismo", "estrutura"]
+  },
+  {
+    "pergunta": "O que faz as fugas de Bach serem tão admiradas?",
+    "resposta": "As fugas são complexas, com várias vozes independentes se entrelaçando, criando harmonia e movimento contínuo. São consideradas obras-primas do contraponto. Sabia que Johann Sebastian Bach ensinava seus alunos usando suas próprias fugas como exemplo?",
+    "palavras_chave": ["bach", "fuga", "contraponto", "barroco", "ensino"]
+  },
+  {
+    "pergunta": "Como Debussy influenciou o impressionismo musical?",
+    "resposta": "Debussy utilizou escalas, harmonia e ritmo para criar cores sonoras que evocam imagens e sensações. Ele inspirou compositores modernos a explorar timbres e atmosferas. Sabia que obras como ‘Clair de Lune’ e ‘Prélude à l'après-midi d'un faune’ são marcos desse estilo?",
+    "palavras_chave": ["debussy", "impressionismo", "harmonia", "clair de lune", "timbre"]
+  },
+  {
+    "pergunta": "Por que ‘O Messias’, de Händel, é tão famoso?",
+    "resposta": "É um oratório monumental, com coros poderosos e melodias inesquecíveis. A peça é interpretada em todo o mundo no Natal e Páscoa. Sabia que o ‘Hallelujah’ é cantado independentemente do idioma, tornando-se universal?",
+    "palavras_chave": ["händel", "o messias", "oratório", "coro", "barroco"]
+  },
+  {
+    "pergunta": "O que fez Liszt revolucionar a performance pianística?",
+    "resposta": "Liszt elevou o recital solo a um evento público e mostrou que o piano podia ser instrumento de virtuosismo extremo. Ele era famoso por tocar de memória e improvisar. Sabia que suas apresentações chegavam a atrair multidões, como shows de rock atuais?",
+    "palavras_chave": ["liszt", "piano", "virtuosismo", "recital", "romantismo"]
+  },
+  {
+    "pergunta": "Como Mahler expandiu o conceito de sinfonia?",
+    "resposta": "Mahler ampliou a sinfonia para incluir orquestras enormes, coros e temas filosóficos, tornando-a quase uma narrativa musical do mundo. Sabia que algumas de suas sinfonias duram mais de 90 minutos e exigem mais de 200 músicos?",
+    "palavras_chave": ["mahler", "sinfonia", "orquestra", "romantismo", "filosofia"]
+  },
+  {
+    "pergunta": "Por que ‘A Sagração da Primavera’, de Stravinsky, chocou o público?",
+    "resposta": "A obra trouxe ritmos agressivos e dissonâncias que quebraram as expectativas do público em 1913. A estreia foi marcada por vaias e tumulto. Sabia que hoje é considerada uma das composições mais influentes do século XX?",
+    "palavras_chave": ["stravinsky", "a sagração da primavera", "modernismo", "ritmo", "escândalo"]
+  },
+  {
+    "pergunta": "O que torna ‘Carmen’, de Bizet, uma ópera revolucionária?",
+    "resposta": "Bizet retratou uma protagonista livre e trágica, quebrando padrões da época. A música é dramática e melódica, com grande apelo popular. Sabia que a estreia em 1875 foi considerada escandalosa e aclamada apenas depois da morte do compositor?",
+    "palavras_chave": ["bizet", "carmen", "ópera", "drama", "realismo"]
+  },
+  {
+    "pergunta": "Como Haydn influenciou Mozart e Beethoven?",
+    "resposta": "Haydn desenvolveu a forma sinfônica e o quarteto de cordas, dando estrutura que Mozart e Beethoven aprimoraram. Ele é considerado o pai da sinfonia. Sabia que Beethoven dedicou sua Primeira Sinfonia a Haydn?",
+    "palavras_chave": ["haydn", "sinfonia", "quarteto", "classicismo", "influência"]
+  },
+  {
+    "pergunta": "Por que Puccini é lembrado como mestre do realismo operístico?",
+    "resposta": "Puccini retratava emoções e dramas humanos de forma direta, como em ‘La Bohème’. Suas melodias envolventes e personagens realistas conquistaram o público. Sabia que ele escreveu suas partituras pensando na teatralidade e impacto emocional?",
+    "palavras_chave": ["puccini", "ópera", "la bohème", "realismo", "melodia"]
+  },
+  {
+    "pergunta": "Como Ravel cria tensão e interesse em ‘Bolero’?",
+    "resposta": "Ravel repete o mesmo tema várias vezes, aumentando a intensidade gradualmente. A orquestração cria cores diferentes a cada repetição. Sabia que o compositor descreveu ‘Bolero’ como um experimento em ritmo e orquestração?",
+    "palavras_chave": ["ravel", "bolero", "ritmo", "orquestração", "impressionismo"]
+  },
+  {
+    "pergunta": "Por que Paganini se tornou lendário no violino?",
+    "resposta": "Paganini dominava técnicas extremas e surpreendentes, como tocar apenas com uma corda. Seu virtuosismo era quase místico. Sabia que boatos diziam que ele teria feito um pacto com o diabo para obter tanta habilidade?",
+    "palavras_chave": ["paganini", "violino", "virtuosismo", "romantismo", "lenda"]
+  },
+  {
+    "pergunta": "Como Rachmaninoff combina virtuosismo e lirismo no piano?",
+    "resposta": "Rachmaninoff escrevia peças para piano que exigem técnica avançada e transmitem emoções profundas. Ele conseguia equilibrar força e sensibilidade. Sabia que, após a Revolução Russa, ele se mudou para os EUA e manteve sua carreira internacional?",
+    "palavras_chave": ["rachmaninoff", "piano", "virtuosismo", "lirismo", "romantismo"]
+  },
+  {
+    "pergunta": "Por que Schubert é considerado mestre do Lied?",
+    "resposta": "Schubert elevou a canção romântica a uma forma de arte, combinando poesia e música com profundidade emocional. Sabia que ele compôs mais de 600 Lieder antes dos 32 anos, retratando amor, morte e natureza?",
+    "palavras_chave": ["schubert", "lied", "canção", "romantismo", "emoção"]
+  }
+]

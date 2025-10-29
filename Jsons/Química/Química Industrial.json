@@ -1,0 +1,497 @@
+[
+  {
+    "pergunta": "O que é a Química Industrial e qual seu papel na sociedade moderna?",
+    "resposta": "A Química Industrial é o ramo da química que aplica princípios científicos em processos de larga escala para transformar matérias-primas em produtos úteis, como medicamentos, combustíveis, plásticos e fertilizantes. Ela é essencial para a economia e para o bem-estar humano, pois praticamente tudo o que usamos no dia a dia envolve alguma etapa química. Sabia que a Química Industrial foi um dos motores da Revolução Industrial, permitindo a produção em massa de sabões e ácidos?",
+    "palavras_chave": ["produção", "processos", "matérias-primas", "revolução industrial", "produtos químicos"]
+  },
+  {
+    "pergunta": "Como a catálise influencia os processos da Química Industrial?",
+    "resposta": "A catálise é fundamental na Química Industrial porque acelera reações químicas sem ser consumida, tornando os processos mais eficientes e econômicos. Por exemplo, na produção de amônia pelo processo Haber-Bosch, um catalisador de ferro é indispensável. Isso reduz custos e consumo de energia. Sabia que mais de 80% dos processos industriais usam algum tipo de catalisador?",
+    "palavras_chave": ["catálise", "eficiência", "processos químicos", "amônia", "indústria"]
+  },
+  {
+    "pergunta": "O que é o processo Haber-Bosch e por que ele revolucionou a agricultura?",
+    "resposta": "O processo Haber-Bosch combina nitrogênio do ar e hidrogênio sob alta pressão e temperatura, com um catalisador de ferro, para produzir amônia. Essa amônia é base para a fabricação de fertilizantes nitrogenados, que multiplicaram a produtividade agrícola mundial. Sem esse processo, seria impossível sustentar a atual população global. Sabia que ele rendeu um Prêmio Nobel de Química a Fritz Haber em 1918?",
+    "palavras_chave": ["amônia", "fertilizantes", "nitrogênio", "produção", "processo industrial"]
+  },
+  {
+    "pergunta": "Por que a petroquímica é considerada o coração da Química Industrial?",
+    "resposta": "A petroquímica transforma o petróleo e o gás natural em compostos químicos que dão origem a plásticos, combustíveis, solventes e outros produtos essenciais. Ela conecta o setor energético ao químico, sendo uma das bases da economia moderna. Sabia que o eteno, derivado do petróleo, é o composto orgânico mais produzido no mundo?",
+    "palavras_chave": ["petroquímica", "petróleo", "eteno", "plásticos", "energia"]
+  },
+  {
+    "pergunta": "O que é um polímero e como ele é produzido na indústria?",
+    "resposta": "Polímeros são macromoléculas formadas pela repetição de unidades menores chamadas monômeros. Na indústria, eles são obtidos por reações de polimerização, controlando temperatura, pressão e catalisadores. Assim nascem materiais como o polietileno e o PVC. Sabia que o nylon foi o primeiro polímero sintético criado em laboratório, em 1935?",
+    "palavras_chave": ["polímeros", "monômeros", "polimerização", "materiais", "indústria química"]
+  },
+  {
+    "pergunta": "Como a Química Industrial contribui para a produção de medicamentos?",
+    "resposta": "A Química Industrial permite a síntese em larga escala de princípios ativos usados em medicamentos, garantindo pureza e estabilidade. Ela também desenvolve métodos sustentáveis e econômicos para produção farmacêutica. Por exemplo, muitos antibióticos e analgésicos são fabricados por rotas químicas otimizadas em reatores industriais. Sabia que a aspirina foi um dos primeiros medicamentos produzidos industrialmente, em 1899?",
+    "palavras_chave": ["fármacos", "síntese", "produção", "reatores", "aspirina"]
+  },
+  {
+    "pergunta": "O que são reatores químicos e por que eles são tão importantes na indústria?",
+    "resposta": "Reatores químicos são equipamentos onde ocorrem reações controladas para transformar reagentes em produtos. Eles permitem ajustar temperatura, pressão e agitação, garantindo segurança e eficiência. São o coração de qualquer planta química. Sabia que existem reatores contínuos e em batelada, dependendo da necessidade do processo?",
+    "palavras_chave": ["reatores", "processos", "controle", "produção", "eficiência"]
+  },
+  {
+    "pergunta": "Por que o controle de temperatura é essencial nas reações industriais?",
+    "resposta": "A temperatura afeta diretamente a velocidade das reações e o rendimento dos produtos. Em processos industriais, o controle térmico evita explosões, desperdícios e formação de subprodutos indesejados. Por exemplo, a produção de ácido sulfúrico requer um equilíbrio delicado de calor. Sabia que algumas reações industriais liberam tanto calor que precisam de sistemas de refrigeração potentes?",
+    "palavras_chave": ["temperatura", "reações", "controle", "segurança", "eficiência"]
+  },
+  {
+    "pergunta": "O que é a indústria química de base?",
+    "resposta": "A indústria química de base é responsável por produzir substâncias fundamentais, como ácidos, bases, sais, solventes e gases industriais, que servem de matéria-prima para outros setores. Ela sustenta toda a cadeia produtiva química. Sabia que o ácido sulfúrico é considerado o indicador do desenvolvimento industrial de um país?",
+    "palavras_chave": ["indústria química", "ácidos", "bases", "matérias-primas", "produção"]
+  },
+  {
+    "pergunta": "Como a Química Industrial atua na produção de alimentos?",
+    "resposta": "Ela participa desde os fertilizantes e defensivos agrícolas até os aditivos alimentares, conservantes e embalagens. A química garante segurança, durabilidade e sabor padronizado. Por exemplo, antioxidantes evitam que óleos e carnes fiquem rançosos. Sabia que o ácido ascórbico, a famosa vitamina C, também é usado como conservante natural?",
+    "palavras_chave": ["alimentos", "aditivos", "fertilizantes", "embalagens", "vitamina c"]
+  },
+  {
+    "pergunta": "O que é um processo contínuo em Química Industrial?",
+    "resposta": "Um processo contínuo é aquele em que a entrada de reagentes e a saída de produtos ocorrem simultaneamente, sem interrupção. Isso aumenta a produtividade e reduz custos. É o tipo de processo usado em refinarias e na produção de amônia, por exemplo. Sabia que algumas plantas industriais operam 24 horas por dia durante anos sem parar?",
+    "palavras_chave": ["processos contínuos", "produção", "eficiência", "indústria", "reatores"]
+  },
+  {
+    "pergunta": "Qual é o impacto ambiental da Química Industrial e como ele pode ser reduzido?",
+    "resposta": "O impacto ambiental pode vir de emissões, resíduos tóxicos ou consumo excessivo de energia. No entanto, novas tecnologias, como a química verde e a reciclagem de solventes, buscam minimizar esses efeitos. Sabia que já existem fábricas que reaproveitam o CO₂ emitido para produzir plásticos biodegradáveis?",
+    "palavras_chave": ["sustentabilidade", "resíduos", "química verde", "emissões", "reciclagem"]
+  },
+  {
+    "pergunta": "O que é química verde e como ela transforma a indústria?",
+    "resposta": "A química verde propõe processos menos poluentes e mais eficientes, reduzindo o uso de substâncias tóxicas e o desperdício. Ela incentiva o uso de matérias-primas renováveis e energias limpas. Sabia que algumas empresas já produzem bioplásticos a partir de milho e cana-de-açúcar?",
+    "palavras_chave": ["química verde", "sustentabilidade", "bioplásticos", "renováveis", "eficiência"]
+  },
+  {
+    "pergunta": "Como ocorre a produção de ácido sulfúrico na indústria?",
+    "resposta": "O ácido sulfúrico é obtido pela oxidação do dióxido de enxofre a trióxido de enxofre e posterior reação com água. Esse processo, chamado de contato, é altamente controlado e usa catalisadores de vanádio. Sabia que é uma das substâncias mais produzidas no mundo, essencial para fertilizantes e detergentes?",
+    "palavras_chave": ["ácido sulfúrico", "processo de contato", "enxofre", "fertilizantes", "produção"]
+  },
+  {
+    "pergunta": "Por que o plástico é tão importante na Química Industrial?",
+    "resposta": "Os plásticos revolucionaram o consumo e a fabricação por serem leves, moldáveis e resistentes. Na Química Industrial, eles representam uma das maiores cadeias produtivas. Hoje, há esforços para desenvolver plásticos biodegradáveis e recicláveis. Sabia que o polietileno foi descoberto por acidente em 1933?",
+    "palavras_chave": ["plásticos", "polietileno", "reciclagem", "biodegradáveis", "indústria"]
+  },
+  {
+    "pergunta": "Como a indústria química aproveita subprodutos para reduzir desperdícios?",
+    "resposta": "Os subprodutos, antes vistos como resíduos, podem ser reaproveitados em outros processos. Por exemplo, o dióxido de carbono pode ser usado para fabricar bebidas ou materiais. Essa integração reduz custos e impactos ambientais. Sabia que essa prática é chamada de simbiose industrial?",
+    "palavras_chave": ["subprodutos", "reaproveitamento", "simbiose industrial", "sustentabilidade", "eficiência"]
+  },
+  {
+    "pergunta": "O que diferencia a Química Industrial da Química de Laboratório?",
+    "resposta": "A principal diferença está na escala e no controle dos processos. No laboratório, as reações são pequenas e exploratórias; na indústria, precisam ser seguras, econômicas e reprodutíveis. Cada detalhe — temperatura, pressão, mistura — é automatizado. Sabia que um erro de escala pode causar explosões em reatores industriais?",
+    "palavras_chave": ["escala", "processos", "laboratório", "controle", "segurança"]
+  },
+  {
+    "pergunta": "Como a automação mudou a Química Industrial moderna?",
+    "resposta": "Com sensores, robôs e inteligência artificial, a automação garante mais precisão e segurança nos processos. Ela permite monitorar em tempo real reações químicas complexas. Sabia que já existem plantas químicas que funcionam quase sem operadores humanos?",
+    "palavras_chave": ["automação", "tecnologia", "processos", "segurança", "indústria 4.0"]
+  },
+  {
+    "pergunta": "O que são bioprocessos e qual o papel deles na indústria química?",
+    "resposta": "Bioprocessos usam organismos vivos, como bactérias e leveduras, para produzir compostos químicos. São muito usados na fabricação de antibióticos, enzimas e biocombustíveis. Sabia que a produção de etanol a partir da cana-de-açúcar é um exemplo clássico de bioprocesso industrial?",
+    "palavras_chave": ["bioprocessos", "micro-organismos", "etanol", "biotecnologia", "indústria"]
+  },
+  {
+    "pergunta": "Por que o controle de qualidade é crucial na Química Industrial?",
+    "resposta": "O controle de qualidade garante que os produtos atendam aos padrões técnicos e de segurança. Ele envolve testes físico-químicos, análise de pureza e monitoramento de processos. Sabia que uma falha nessa etapa pode comprometer toda uma produção e causar danos ambientais?",
+    "palavras_chave": ["qualidade", "controle", "padrões", "segurança", "análise"]
+  },
+  {
+    "pergunta": "O que é destilação e onde ela é aplicada na indústria?",
+    "resposta": "A destilação separa misturas com base na diferença de pontos de ebulição. É usada em refinarias para separar frações do petróleo, como gasolina, querosene e diesel. Sabia que o processo pode ter várias colunas funcionando em série para obter produtos cada vez mais puros?",
+    "palavras_chave": ["destilação", "refino", "petróleo", "separação", "combustíveis"]
+  },
+  {
+    "pergunta": "Como os fertilizantes químicos são produzidos em larga escala?",
+    "resposta": "Os fertilizantes combinam compostos como amônia, ácido fosfórico e potássio em proporções específicas para nutrir o solo. A indústria química transforma minérios e gases em produtos granulados prontos para uso agrícola. Sabia que o Brasil é um dos maiores importadores de fertilizantes do mundo?",
+    "palavras_chave": ["fertilizantes", "amônia", "fósforo", "potássio", "agricultura"]
+  },
+  {
+    "pergunta": "O que é corrosão e como a indústria química lida com ela?",
+    "resposta": "A corrosão é a degradação de metais por reações químicas com o ambiente, como oxidação. Para evitar perdas, a indústria usa revestimentos, ligas especiais e inibidores químicos. Sabia que o custo global da corrosão ultrapassa trilhões de dólares por ano?",
+    "palavras_chave": ["corrosão", "metais", "oxidação", "proteção", "ligas"]
+  },
+  {
+    "pergunta": "Como os solventes são usados na Química Industrial?",
+    "resposta": "Solventes dissolvem substâncias e facilitam reações, purificações e extrações. São muito usados na produção farmacêutica, de tintas e cosméticos. Hoje há um esforço para substituí-los por versões menos tóxicas e biodegradáveis. Sabia que a água é o solvente mais versátil e seguro conhecido?",
+    "palavras_chave": ["solventes", "reações", "purificação", "sustentabilidade", "água"]
+  },
+  {
+    "pergunta": "O que é balanço de massa em um processo químico?",
+    "resposta": "O balanço de massa garante que toda a matéria que entra em um sistema seja contabilizada na saída, seja como produto ou resíduo. É um princípio básico da engenharia química para otimizar processos e evitar perdas. Sabia que esse conceito vem diretamente da Lei da Conservação da Matéria de Lavoisier?",
+    "palavras_chave": ["balanço de massa", "processos", "lavoisier", "eficiência", "engenharia química"]
+  },
+  {
+    "pergunta": "Como a indústria química transforma o sal comum em produtos úteis?",
+    "resposta": "O sal de cozinha, ou cloreto de sódio, é a matéria-prima de diversos produtos industriais. Por eletrólise, ele gera soda cáustica, cloro e hidrogênio — todos essenciais para a fabricação de sabões, plásticos e medicamentos. Sabia que esse processo é tão importante que praticamente toda indústria química depende de algum derivado do sal?",
+    "palavras_chave": ["sal", "cloro", "soda cáustica", "eletrólise", "matéria-prima"]
+  },
+  {
+    "pergunta": "O que é a indústria cloro-álcali e por que ela é estratégica?",
+    "resposta": "A indústria cloro-álcali é responsável pela produção de cloro e soda cáustica, obtidos pela eletrólise do sal. Esses produtos são base para PVC, detergentes, papel e medicamentos. É um dos setores mais energéticos e fundamentais da Química Industrial. Sabia que o nome vem das palavras 'cloro' e 'álcali' (base)?",
+    "palavras_chave": ["cloro", "álcali", "eletrólise", "soda cáustica", "pvc"]
+  },
+  {
+    "pergunta": "Como o petróleo é transformado em gasolina nas refinarias?",
+    "resposta": "Nas refinarias, o petróleo passa por destilação fracionada, separando seus componentes conforme o ponto de ebulição. Depois, processos como o craqueamento e a reforma catalítica transformam frações pesadas em gasolina e diesel. Sabia que cada litro de gasolina resulta de dezenas de reações químicas coordenadas?",
+    "palavras_chave": ["petróleo", "refino", "craqueamento", "gasolina", "reforma catalítica"]
+  },
+  {
+    "pergunta": "O que é craqueamento e qual sua importância na indústria do petróleo?",
+    "resposta": "O craqueamento quebra moléculas grandes de hidrocarbonetos em menores e mais valiosas, como a gasolina. Pode ser térmico ou catalítico, e permite aproveitar melhor o petróleo bruto. Sabia que esse processo foi um dos responsáveis pelo crescimento da indústria automobilística?",
+    "palavras_chave": ["craqueamento", "hidrocarbonetos", "gasolina", "petróleo", "refinaria"]
+  },
+  {
+    "pergunta": "Por que o etanol é considerado um combustível sustentável?",
+    "resposta": "O etanol é obtido da fermentação de açúcares de plantas como a cana-de-açúcar e libera menos CO₂ na queima. Além disso, é renovável e pode ser produzido localmente. Sabia que o Brasil é um dos maiores produtores mundiais de etanol combustível desde os anos 1970?",
+    "palavras_chave": ["etanol", "fermentação", "biocombustível", "sustentabilidade", "cana-de-açúcar"]
+  },
+  {
+    "pergunta": "O que é a polimerização por adição?",
+    "resposta": "A polimerização por adição ocorre quando monômeros se unem sem liberar subprodutos. É o caso da formação do polietileno a partir do eteno. Esse tipo de reação é rápido e muito usado na fabricação de plásticos. Sabia que a variação na pressão e temperatura muda completamente as propriedades do polímero?",
+    "palavras_chave": ["polimerização", "adição", "eteno", "plásticos", "monômeros"]
+  },
+  {
+    "pergunta": "Como os detergentes são produzidos industrialmente?",
+    "resposta": "Os detergentes são obtidos pela reação de sulfonação de hidrocarbonetos, seguida de neutralização com bases. Depois, adicionam-se fragrâncias e agentes espumantes. Sabia que os detergentes sintéticos substituíram o sabão tradicional durante a Segunda Guerra Mundial, por falta de gordura animal?",
+    "palavras_chave": ["detergentes", "sulfonação", "sabão", "produção", "indústria química"]
+  },
+  {
+    "pergunta": "Qual é a diferença entre sabão e detergente?",
+    "resposta": "O sabão é feito de gorduras e bases, como a soda cáustica, enquanto o detergente é sintetizado a partir do petróleo. Ambos limpam pela mesma razão: possuem uma parte que se liga à água e outra à gordura. Sabia que o sabão é biodegradável, mas muitos detergentes modernos também já são?",
+    "palavras_chave": ["sabão", "detergente", "limpeza", "biodegradável", "tensoativos"]
+  },
+  {
+    "pergunta": "Como os gases industriais são produzidos e usados?",
+    "resposta": "Os gases industriais, como oxigênio, nitrogênio e argônio, são obtidos pela destilação fracionada do ar líquido. Eles são usados em soldagem, medicina e conservação de alimentos. Sabia que o ar é composto por quase 78% de nitrogênio, mas sua separação requer temperaturas abaixo de -180 °C?",
+    "palavras_chave": ["gases industriais", "oxigênio", "nitrogênio", "destilação", "aplicações"]
+  },
+  {
+    "pergunta": "Por que o ácido nítrico é tão importante para a indústria?",
+    "resposta": "O ácido nítrico é essencial na produção de fertilizantes, explosivos e corantes. É obtido pela oxidação da amônia no chamado processo Ostwald. Sabia que o processo libera tanto calor que parte dele é reaproveitada para gerar energia?",
+    "palavras_chave": ["ácido nítrico", "amônia", "processo ostwald", "fertilizantes", "explosivos"]
+  },
+  {
+    "pergunta": "Como a reciclagem química ajuda a reduzir o lixo plástico?",
+    "resposta": "A reciclagem química quebra o plástico em suas moléculas originais, permitindo criar novos produtos sem perda de qualidade. Diferente da reciclagem mecânica, ela transforma quimicamente o material. Sabia que já existem plantas que convertem garrafas PET em novas fibras têxteis de alta resistência?",
+    "palavras_chave": ["reciclagem química", "plásticos", "sustentabilidade", "pet", "reaproveitamento"]
+  },
+  {
+    "pergunta": "O que são catalisadores heterogêneos e homogêneos?",
+    "resposta": "Catalisadores heterogêneos estão em fase diferente dos reagentes, como sólidos em reações gasosas, enquanto os homogêneos estão na mesma fase. Ambos aceleram reações, mas os heterogêneos são mais fáceis de separar e reutilizar. Sabia que o catalisador de platina usado nos carros é um exemplo heterogêneo?",
+    "palavras_chave": ["catálise", "heterogêneo", "homogêneo", "reações", "eficiência"]
+  },
+  {
+    "pergunta": "Como a Química Industrial fabrica cosméticos?",
+    "resposta": "A fabricação de cosméticos envolve emulsões, fragrâncias, pigmentos e conservantes, todos formulados com base em princípios químicos. A indústria garante segurança e estabilidade dos produtos por meio de testes rigorosos. Sabia que o uso de nanocápsulas em cremes aumenta a absorção de nutrientes pela pele?",
+    "palavras_chave": ["cosméticos", "emulsões", "nanotecnologia", "formulação", "indústria química"]
+  },
+  {
+    "pergunta": "O que é a indústria de tintas e vernizes e como ela funciona?",
+    "resposta": "Essa indústria combina pigmentos, solventes, resinas e aditivos para criar tintas com propriedades específicas, como secagem rápida e resistência. Sabia que as tintas automotivas possuem até sete camadas químicas diferentes para proteger e dar brilho ao carro?",
+    "palavras_chave": ["tintas", "vernizes", "pigmentos", "solventes", "resinas"]
+  },
+  {
+    "pergunta": "Como os fertilizantes fosfatados são obtidos?",
+    "resposta": "Eles vêm do tratamento de rochas fosfáticas com ácido sulfúrico, formando superfosfato. O fósforo é essencial para o crescimento das plantas. Sabia que as maiores reservas de fosfato do mundo estão no Marrocos?",
+    "palavras_chave": ["fertilizantes", "fósforo", "superfosfato", "ácido sulfúrico", "agricultura"]
+  },
+  {
+    "pergunta": "O que é o processo Solvay e para que ele serve?",
+    "resposta": "O processo Solvay produz carbonato de sódio a partir de sal, amônia e dióxido de carbono. O produto é usado em vidros, sabões e papel. Sabia que esse processo, criado em 1861, é usado até hoje quase da mesma forma?",
+    "palavras_chave": ["processo solvay", "carbonato de sódio", "sal", "amônia", "indústria"]
+  },
+  {
+    "pergunta": "Por que o vidro é considerado um material químico especial?",
+    "resposta": "O vidro é um sólido amorfo feito de sílica fundida com sódio e cálcio. Apesar de parecer sólido, ele tem estrutura irregular como um líquido super-resfriado. Sabia que o vidro não tem ponto de fusão definido, apenas amolece gradualmente?",
+    "palavras_chave": ["vidro", "sílica", "fusão", "materiais", "estrutura amorfa"]
+  },
+  {
+    "pergunta": "Como a indústria química fabrica papel?",
+    "resposta": "O papel é feito a partir da celulose extraída da madeira. O processo envolve branqueamento químico e prensagem. Sabia que a indústria busca hoje substitutos ecológicos para o cloro usado no branqueamento tradicional?",
+    "palavras_chave": ["papel", "celulose", "branqueamento", "madeira", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que são bioplásticos e quais suas vantagens?",
+    "resposta": "Bioplásticos são polímeros feitos de matérias-primas renováveis, como amido de milho ou cana. Eles podem ser biodegradáveis e reduzir o uso de petróleo. Sabia que o bioplástico PLA é usado até em impressoras 3D?",
+    "palavras_chave": ["bioplásticos", "renováveis", "pla", "sustentabilidade", "polímeros"]
+  },
+  {
+    "pergunta": "Como o hidrogênio é produzido industrialmente?",
+    "resposta": "O hidrogênio é gerado por reforma do gás natural ou eletrólise da água. É usado na produção de amônia e como combustível limpo. Sabia que o hidrogênio é o elemento mais abundante do universo, mas raramente encontrado puro na Terra?",
+    "palavras_chave": ["hidrogênio", "eletrólise", "gás natural", "combustível", "amônia"]
+  },
+  {
+    "pergunta": "O que é o processo Bayer e qual sua aplicação?",
+    "resposta": "O processo Bayer extrai alumina da bauxita, dissolvendo o minério em soda cáustica. A alumina obtida é depois transformada em alumínio metálico. Sabia que o alumínio é 100% reciclável e uma das matérias mais reaproveitadas do mundo?",
+    "palavras_chave": ["processo bayer", "bauxita", "alumina", "alumínio", "reciclagem"]
+  },
+  {
+    "pergunta": "Como o aço é obtido na siderurgia química?",
+    "resposta": "O aço é produzido pela redução do minério de ferro em altos-fornos, usando coque e calcário. Depois, ajustes químicos determinam sua resistência e maleabilidade. Sabia que existem mais de 3.500 tipos diferentes de aço no mundo?",
+    "palavras_chave": ["aço", "siderurgia", "ferro", "coque", "ligas"]
+  },
+  {
+    "pergunta": "O que é a indústria de cimento e como o produto é feito?",
+    "resposta": "O cimento é obtido pela queima de calcário e argila em fornos rotativos, gerando o clínquer, que depois é moído com gesso. Sabia que o processo libera CO₂, e novas tecnologias buscam capturar esse gás para reduzir o impacto ambiental?",
+    "palavras_chave": ["cimento", "calcário", "clínquer", "fornos", "co2"]
+  },
+  {
+    "pergunta": "Como funciona o processo de neutralização na indústria química?",
+    "resposta": "A neutralização ocorre quando um ácido reage com uma base, formando sal e água. É usada em tratamento de efluentes e controle de pH industrial. Sabia que esse mesmo princípio está presente no antiácido que tomamos para azia?",
+    "palavras_chave": ["neutralização", "ácido", "base", "ph", "efluentes"]
+  },
+  {
+    "pergunta": "O que é um efluente industrial e como ele é tratado?",
+    "resposta": "Efluentes industriais são águas residuais contaminadas por compostos químicos. O tratamento envolve etapas físicas, químicas e biológicas para remover impurezas. Sabia que muitas indústrias já reutilizam a própria água tratada no processo produtivo?",
+    "palavras_chave": ["efluentes", "tratamento", "água", "resíduos", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é o processo de craqueamento a vapor e onde ele é usado?",
+    "resposta": "O craqueamento a vapor quebra hidrocarbonetos leves, como o etano e o nafta, usando altas temperaturas e vapor. Ele é essencial na produção de eteno e propeno, base dos plásticos modernos. Sabia que esse processo é o ponto de partida para mais da metade dos produtos petroquímicos do mundo?",
+    "palavras_chave": ["craqueamento a vapor", "eteno", "propeno", "plásticos", "petroquímica"]
+  },
+  {
+    "pergunta": "Como a química industrial contribui para a fabricação de baterias?",
+    "resposta": "A Química Industrial produz compostos como óxidos de lítio, níquel e cobalto, usados em baterias recarregáveis. A pureza dos reagentes é fundamental para o desempenho. Sabia que o lítio é tão reativo que precisa ser armazenado em óleo para não reagir com o ar?",
+    "palavras_chave": ["baterias", "lítio", "reagentes", "níquel", "cobalto"]
+  },
+  {
+    "pergunta": "O que são gases de efeito estufa e como a indústria química pode reduzi-los?",
+    "resposta": "Gases de efeito estufa, como CO₂, metano e óxidos de nitrogênio, retêm calor na atmosfera. A Química Industrial busca reduzi-los com processos mais limpos e captura de carbono. Sabia que algumas indústrias já transformam CO₂ em metanol, um combustível renovável?",
+    "palavras_chave": ["co2", "efeito estufa", "sustentabilidade", "captura de carbono", "metanol"]
+  },
+  {
+    "pergunta": "O que é a química de polímeros biodegradáveis?",
+    "resposta": "Essa área desenvolve materiais que se degradam naturalmente no ambiente, como o PLA e o PHB. Eles substituem plásticos derivados do petróleo e reduzem o impacto ambiental. Sabia que bactérias podem ser usadas para produzir esses polímeros de forma natural?",
+    "palavras_chave": ["biopolímeros", "pla", "phb", "biodegradável", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como a Química Industrial participa da produção de medicamentos genéricos?",
+    "resposta": "A indústria química sintetiza os princípios ativos genéricos com o mesmo composto do medicamento original, mas com custo menor. A pureza e o controle das reações são rigorosos. Sabia que, para um genérico ser aprovado, ele precisa ter exatamente a mesma biodisponibilidade do original?",
+    "palavras_chave": ["medicamentos", "genéricos", "síntese", "pureza", "biodisponibilidade"]
+  },
+  {
+    "pergunta": "O que é a engenharia de processos na Química Industrial?",
+    "resposta": "A engenharia de processos planeja e otimiza todas as etapas de uma produção química — desde o reator até o tratamento de resíduos. Ela busca eficiência, segurança e economia. Sabia que softwares de simulação conseguem prever o comportamento químico de uma planta inteira antes da construção?",
+    "palavras_chave": ["engenharia de processos", "otimização", "eficiência", "reatores", "simulação"]
+  },
+  {
+    "pergunta": "Como ocorre a produção de amônia em larga escala?",
+    "resposta": "A amônia é produzida pelo processo Haber-Bosch, que combina hidrogênio e nitrogênio sob alta pressão, com catalisador de ferro. É base para fertilizantes e explosivos. Sabia que cerca de 2% de toda a energia mundial é usada nesse único processo?",
+    "palavras_chave": ["amônia", "processo haber-bosch", "hidrogênio", "nitrogênio", "energia"]
+  },
+  {
+    "pergunta": "Por que o controle de pH é importante em processos industriais?",
+    "resposta": "O pH influencia a velocidade das reações, a estabilidade dos produtos e a eficiência de separações químicas. O controle é feito com sensores e reagentes neutralizantes. Sabia que até pequenas variações de pH podem inutilizar uma produção inteira de cosméticos?",
+    "palavras_chave": ["ph", "controle", "reações", "estabilidade", "neutralização"]
+  },
+  {
+    "pergunta": "O que é corrosão galvânica e como evitá-la na indústria?",
+    "resposta": "A corrosão galvânica ocorre quando dois metais diferentes entram em contato em presença de um eletrólito, formando uma célula eletroquímica. A indústria evita isso com ligas equilibradas e revestimentos protetores. Sabia que navios e dutos usam ânodos de sacrifício para se proteger da corrosão?",
+    "palavras_chave": ["corrosão", "galvânica", "metais", "proteção", "revestimentos"]
+  },
+  {
+    "pergunta": "Como os plásticos são reciclados mecanicamente?",
+    "resposta": "Na reciclagem mecânica, os plásticos são triturados, lavados e fundidos novamente. Embora simples, esse processo pode alterar a qualidade do material. Sabia que o símbolo triangular com número no fundo das embalagens indica o tipo de plástico para facilitar a reciclagem?",
+    "palavras_chave": ["reciclagem", "plásticos", "sustentabilidade", "reuso", "materiais"]
+  },
+  {
+    "pergunta": "O que é a química analítica industrial?",
+    "resposta": "É o ramo que realiza análises químicas para garantir qualidade e segurança dos produtos. Ela usa técnicas como cromatografia, espectrometria e titulação. Sabia que até o sabor de uma bebida é controlado por análises químicas de precisão?",
+    "palavras_chave": ["análise química", "cromatografia", "espectrometria", "qualidade", "indústria"]
+  },
+  {
+    "pergunta": "Como a indústria química produz o sabão em pó?",
+    "resposta": "O sabão em pó é feito pela saponificação de gorduras com soda cáustica, seguida da secagem e mistura com agentes branqueadores. Sabia que o carbonato de sódio é usado para aumentar o poder de limpeza do sabão?",
+    "palavras_chave": ["sabão em pó", "saponificação", "soda cáustica", "carbonato de sódio", "limpeza"]
+  },
+  {
+    "pergunta": "Por que o controle de pressão é crucial em reatores industriais?",
+    "resposta": "A pressão afeta o equilíbrio químico e a velocidade das reações. Controlá-la evita acidentes e melhora o rendimento. Sabia que algumas reações, como a produção de metanol, ocorrem a mais de 200 atmosferas?",
+    "palavras_chave": ["pressão", "reatores", "equilíbrio químico", "segurança", "produção"]
+  },
+  {
+    "pergunta": "O que é um catalisador envenenado e como isso ocorre?",
+    "resposta": "Um catalisador é considerado envenenado quando perde eficiência devido à contaminação por impurezas, como enxofre ou metais pesados. Isso pode paralisar um processo industrial inteiro. Sabia que o envenenamento catalítico foi uma das maiores causas de falhas em refinarias nos anos 1980?",
+    "palavras_chave": ["catálise", "envenenamento", "impurezas", "eficiência", "refinarias"]
+  },
+  {
+    "pergunta": "Como os fertilizantes nitrogenados são produzidos?",
+    "resposta": "Eles são feitos a partir da amônia, que reage com ácidos para formar nitratos, ureia ou sulfatos. São essenciais para o crescimento vegetal. Sabia que o excesso de fertilizante pode causar eutrofização em rios e lagos?",
+    "palavras_chave": ["fertilizantes", "nitrogênio", "amônia", "ureia", "nitratos"]
+  },
+  {
+    "pergunta": "O que é um processo endotérmico na Química Industrial?",
+    "resposta": "É um processo que absorve calor do ambiente para acontecer, como a produção de cal a partir do calcário. Requer grande aporte de energia. Sabia que fornos industriais podem chegar a mais de 1500 °C para sustentar essas reações?",
+    "palavras_chave": ["endotérmico", "calor", "energia", "calcário", "reações químicas"]
+  },
+  {
+    "pergunta": "O que é a engenharia de segurança química?",
+    "resposta": "Ela estuda métodos para prevenir acidentes, controlar vazamentos e reduzir riscos em plantas químicas. Envolve sensores, alarmes e planos de emergência. Sabia que após o desastre de Bhopal, em 1984, as normas de segurança química mundial mudaram completamente?",
+    "palavras_chave": ["segurança química", "acidentes", "bhopal", "prevenção", "riscos"]
+  },
+  {
+    "pergunta": "Como a água é usada e tratada na Química Industrial?",
+    "resposta": "A água é usada como solvente, refrigerante e meio de reação. Antes e depois do uso, passa por processos de purificação, filtragem e neutralização. Sabia que a água ultrapura usada na indústria eletrônica é mil vezes mais limpa que a potável?",
+    "palavras_chave": ["água", "purificação", "tratamento", "refrigeração", "solvente"]
+  },
+  {
+    "pergunta": "O que são pigmentos e como são feitos?",
+    "resposta": "Pigmentos são substâncias que conferem cor a tintas, plásticos e cosméticos. São obtidos de minerais ou compostos orgânicos sintetizados. Sabia que o pigmento azul ultramarino era feito originalmente de uma pedra preciosa chamada lápis-lazúli?",
+    "palavras_chave": ["pigmentos", "corantes", "síntese", "tintas", "minerais"]
+  },
+  {
+    "pergunta": "Como funciona a destilação a vácuo em processos industriais?",
+    "resposta": "A destilação a vácuo reduz a pressão, permitindo que os líquidos fervam a temperaturas menores, evitando decomposição. É muito usada no refino de petróleo. Sabia que esse método permite recuperar frações pesadas que seriam destruídas em temperaturas normais?",
+    "palavras_chave": ["destilação a vácuo", "refino", "petróleo", "temperatura", "pressão"]
+  },
+  {
+    "pergunta": "O que é a fermentação industrial e quais produtos ela gera?",
+    "resposta": "A fermentação industrial usa micro-organismos para converter açúcares em produtos úteis como etanol, ácido cítrico e antibióticos. Sabia que a produção de cerveja e de penicilina seguem princípios de fermentação parecidos?",
+    "palavras_chave": ["fermentação", "micro-organismos", "etanol", "ácido cítrico", "penicilina"]
+  },
+  {
+    "pergunta": "Como a Química Industrial contribui para o setor têxtil?",
+    "resposta": "Ela fornece corantes, fibras sintéticas e agentes de tratamento para tecidos. Nylon, poliéster e elastano são produtos químicos que revolucionaram a moda. Sabia que a seda sintética foi criada tentando imitar a teia de aranha?",
+    "palavras_chave": ["têxtil", "corantes", "fibras sintéticas", "nylon", "poliéster"]
+  },
+  {
+    "pergunta": "O que é um polímero termofixo e onde ele é usado?",
+    "resposta": "Polímeros termofixos endurecem de forma irreversível quando aquecidos, como a baquelite e as resinas epóxi. São usados em peças elétricas e adesivos. Sabia que a baquelite foi o primeiro plástico sintético da história, criado em 1907?",
+    "palavras_chave": ["polímeros", "termofixos", "baquelite", "resina epóxi", "materiais"]
+  },
+  {
+    "pergunta": "Como ocorre o processo de flotação em indústrias químicas?",
+    "resposta": "A flotação separa partículas por diferença de densidade, usando bolhas de ar que aderem aos sólidos. É comum no beneficiamento de minérios e no tratamento de efluentes. Sabia que o tamanho das bolhas é controlado quimicamente para melhorar a eficiência?",
+    "palavras_chave": ["flotação", "separação", "minérios", "efluentes", "densidade"]
+  },
+  {
+    "pergunta": "O que é uma planta piloto na Química Industrial?",
+    "resposta": "Uma planta piloto é uma instalação intermediária entre o laboratório e a produção em larga escala. Ela permite testar reações, equipamentos e fluxos antes de investir em uma fábrica completa. Sabia que muitas inovações químicas falham ou são aprimoradas justamente nessa etapa de testes?",
+    "palavras_chave": ["planta piloto", "escala industrial", "testes", "processos", "inovação"]
+  },
+  {
+    "pergunta": "Como a indústria química fabrica detergentes líquidos?",
+    "resposta": "Os detergentes líquidos são feitos pela reação de ácidos graxos com bases, formando surfactantes, que depois recebem fragrâncias, corantes e estabilizantes. Sabia que o segredo da espuma não é a limpeza, mas a presença de aditivos que a mantêm estável por mais tempo?",
+    "palavras_chave": ["detergentes", "surfactantes", "ácidos graxos", "limpeza", "tensoativos"]
+  },
+  {
+    "pergunta": "O que são biocombustíveis e como são produzidos?",
+    "resposta": "Biocombustíveis são combustíveis obtidos de matéria orgânica renovável, como cana-de-açúcar, milho ou óleos vegetais. O etanol e o biodiesel são exemplos. Sabia que o Brasil é líder mundial na produção de etanol a partir da cana?",
+    "palavras_chave": ["biocombustíveis", "etanol", "biodiesel", "cana-de-açúcar", "renovável"]
+  },
+  {
+    "pergunta": "Como funciona o processo de eletrólise na indústria?",
+    "resposta": "A eletrólise usa corrente elétrica para decompor substâncias. É essencial na produção de cloro, soda cáustica e alumínio. Sabia que a eletrólise da água é uma das formas mais limpas de obter hidrogênio verde?",
+    "palavras_chave": ["eletrólise", "cloro", "soda cáustica", "hidrogênio", "energia elétrica"]
+  },
+  {
+    "pergunta": "O que é a química verde e qual seu impacto na indústria?",
+    "resposta": "A química verde busca processos mais sustentáveis, reduzindo resíduos e usando matérias-primas renováveis. Ela substitui solventes tóxicos e diminui o consumo de energia. Sabia que há tintas hoje feitas com base em óleo de soja, sem solventes petroquímicos?",
+    "palavras_chave": ["química verde", "sustentabilidade", "resíduos", "solventes", "renováveis"]
+  },
+  {
+    "pergunta": "Por que a destilação fracionada é importante no refino do petróleo?",
+    "resposta": "A destilação fracionada separa os componentes do petróleo com base nos diferentes pontos de ebulição. É assim que se obtém gasolina, querosene e diesel. Sabia que uma torre de destilação pode ultrapassar 60 metros de altura?",
+    "palavras_chave": ["destilação fracionada", "petróleo", "gasolina", "querosene", "refino"]
+  },
+  {
+    "pergunta": "Como a química contribui para o tratamento de efluentes industriais?",
+    "resposta": "A química industrial remove poluentes usando coagulantes, floculantes e processos de oxidação. Esses métodos tornam a água segura para descarte ou reuso. Sabia que o ozônio é um poderoso agente oxidante usado nesse tipo de tratamento?",
+    "palavras_chave": ["efluentes", "tratamento", "oxidação", "água", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é catalisador heterogêneo e onde ele é aplicado?",
+    "resposta": "Um catalisador heterogêneo atua em uma fase diferente dos reagentes, geralmente como sólido em uma reação gasosa. É usado em automóveis e refinarias. Sabia que o catalisador do escapamento transforma gases tóxicos em substâncias menos nocivas?",
+    "palavras_chave": ["catalisador", "heterogêneo", "reação", "automóveis", "refinaria"]
+  },
+  {
+    "pergunta": "Como são produzidos os vidros industriais?",
+    "resposta": "O vidro é obtido pela fusão de sílica com carbonatos e outros aditivos, em fornos acima de 1500 °C. O resfriamento controlado define sua resistência e transparência. Sabia que o vidro é 100% reciclável e pode ser reaproveitado infinitamente?",
+    "palavras_chave": ["vidro", "sílica", "fusão", "reciclagem", "materiais"]
+  },
+  {
+    "pergunta": "O que são solventes orgânicos e para que servem?",
+    "resposta": "Solventes orgânicos dissolvem substâncias e são essenciais em tintas, cosméticos e medicamentos. Exemplos incluem etanol, acetona e tolueno. Sabia que o excesso de solventes voláteis é uma das principais fontes de poluição do ar urbano?",
+    "palavras_chave": ["solventes", "orgânicos", "etanol", "acetona", "tolueno"]
+  },
+  {
+    "pergunta": "Como a Química Industrial produz o ácido sulfúrico?",
+    "resposta": "O ácido sulfúrico é fabricado pela oxidação do dióxido de enxofre a trióxido de enxofre e posterior reação com água. É o produto químico mais produzido no mundo. Sabia que seu consumo é usado como indicador de desenvolvimento industrial de um país?",
+    "palavras_chave": ["ácido sulfúrico", "enxofre", "oxidação", "produção", "indústria"]
+  },
+  {
+    "pergunta": "O que é um polímero termoplástico?",
+    "resposta": "Polímeros termoplásticos amolecem quando aquecidos e endurecem ao esfriar, permitindo reciclagem e moldagem. Exemplos são o PVC e o polietileno. Sabia que o PET das garrafas é um tipo de termoplástico com altíssima resistência?",
+    "palavras_chave": ["polímeros", "termoplásticos", "pvc", "pet", "reciclagem"]
+  },
+  {
+    "pergunta": "Como a nanotecnologia é aplicada na indústria química?",
+    "resposta": "A nanotecnologia manipula materiais em escala atômica para criar produtos mais resistentes e eficientes, como catalisadores e revestimentos inteligentes. Sabia que há tecidos com nanopartículas que repelem manchas e odores?",
+    "palavras_chave": ["nanotecnologia", "materiais", "catalisadores", "revestimentos", "inovação"]
+  },
+  {
+    "pergunta": "O que é a química dos explosivos industriais?",
+    "resposta": "Explosivos industriais são compostos que liberam energia rapidamente, usados em mineração e construção. Nitroglicerina e TNT são clássicos exemplos. Sabia que a dinamite de Alfred Nobel contém sílica para estabilizar a nitroglicerina?",
+    "palavras_chave": ["explosivos", "tnt", "nitroglicerina", "mineração", "energia"]
+  },
+  {
+    "pergunta": "Por que os polímeros condutores são importantes?",
+    "resposta": "Esses polímeros conduzem eletricidade e são usados em telas, sensores e baterias flexíveis. Misturam propriedades plásticas e eletrônicas. Sabia que os criadores desses materiais ganharam o Prêmio Nobel de Química em 2000?",
+    "palavras_chave": ["polímeros condutores", "eletricidade", "baterias", "telas", "nobel"]
+  },
+  {
+    "pergunta": "Como se obtém o gás hidrogênio industrialmente?",
+    "resposta": "O hidrogênio é produzido pela reforma do gás natural ou pela eletrólise da água. É essencial em refinarias e na fabricação de amônia. Sabia que o chamado hidrogênio verde é obtido usando energia solar ou eólica?",
+    "palavras_chave": ["hidrogênio", "eletrólise", "reforma", "energia", "amônia"]
+  },
+  {
+    "pergunta": "O que são aditivos alimentares e qual o papel da química neles?",
+    "resposta": "Aditivos alimentares são substâncias que preservam, realçam sabor ou cor dos alimentos. A química industrial garante sua pureza e segurança. Sabia que o antioxidante ácido ascórbico é, na verdade, a vitamina C?",
+    "palavras_chave": ["aditivos", "alimentos", "ácido ascórbico", "preservação", "vitamina c"]
+  },
+  {
+    "pergunta": "Como funciona o processo de galvanoplastia?",
+    "resposta": "A galvanoplastia usa corrente elétrica para recobrir um metal com outro, como níquel ou cromo, melhorando a aparência e resistência à corrosão. Sabia que os talheres cromados passam por esse mesmo processo?",
+    "palavras_chave": ["galvanoplastia", "revestimento", "níquel", "cromo", "corrosão"]
+  },
+  {
+    "pergunta": "O que é polimerização e quais são seus tipos?",
+    "resposta": "A polimerização é a reação que forma polímeros a partir de monômeros. Pode ocorrer por adição ou condensação. Sabia que o polietileno, usado em sacolas, é formado pela simples adição de eteno?",
+    "palavras_chave": ["polimerização", "monômeros", "adição", "condensação", "polietileno"]
+  },
+  {
+    "pergunta": "Como a química industrial atua na fabricação de cosméticos?",
+    "resposta": "Ela produz bases, emulsificantes, fragrâncias e corantes para cremes, xampus e maquiagens. Cada ingrediente passa por rigoroso controle químico. Sabia que o pH dos cosméticos é ajustado para se aproximar do da pele humana?",
+    "palavras_chave": ["cosméticos", "emulsificantes", "ph", "fragrâncias", "controle"]
+  },
+  {
+    "pergunta": "O que é uma reação exotérmica e onde ela ocorre na indústria?",
+    "resposta": "Reações exotérmicas liberam calor, como a combustão e a produção de cimento. Na indústria, é preciso controlar a temperatura para evitar acidentes. Sabia que o calor liberado em certas reações é reaproveitado para gerar energia elétrica?",
+    "palavras_chave": ["exotérmica", "calor", "energia", "combustão", "cimento"]
+  },
+  {
+    "pergunta": "Como a química industrial está envolvida na fabricação de papel?",
+    "resposta": "A química atua no branqueamento, na colagem e no tratamento das fibras de celulose. Enzimas e reagentes controlam cor e textura. Sabia que o papel reciclado usa 60% menos energia do que o papel novo?",
+    "palavras_chave": ["papel", "celulose", "branqueamento", "reciclagem", "enzimas"]
+  },
+  {
+    "pergunta": "O que é uma reação de neutralização e onde ela é usada industrialmente?",
+    "resposta": "A neutralização ocorre quando um ácido reage com uma base, formando sal e água. É aplicada no tratamento de efluentes e na fabricação de sais. Sabia que esse processo é usado para ajustar o pH de alimentos e cosméticos também?",
+    "palavras_chave": ["neutralização", "ácido", "base", "sal", "ph"]
+  },
+  {
+    "pergunta": "Como são produzidos os fertilizantes fosfatados?",
+    "resposta": "Eles são obtidos a partir do tratamento de rochas fosfáticas com ácidos, formando compostos como superfosfato e MAP. Sabia que o fósforo é essencial para o DNA das plantas?",
+    "palavras_chave": ["fertilizantes", "fosfato", "superfosfato", "ácidos", "plantas"]
+  },
+  {
+    "pergunta": "O que é controle de qualidade na Química Industrial?",
+    "resposta": "É o conjunto de testes e medições que garante que o produto final atenda às especificações. Envolve análises físico-químicas e microbiológicas. Sabia que até o brilho de uma tinta é medido quimicamente para garantir padrão?",
+    "palavras_chave": ["controle de qualidade", "testes", "análises", "padrão", "produto final"]
+  }
+]

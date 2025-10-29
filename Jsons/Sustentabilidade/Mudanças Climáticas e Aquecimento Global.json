@@ -1,0 +1,507 @@
+[
+  {
+    "pergunta": "O que causa o aquecimento global?",
+    "resposta": "O aquecimento global acontece pelo aumento de gases de efeito estufa, como o dióxido de carbono e o metano, na atmosfera. Eles formam uma espécie de cobertor que retém o calor do sol. A queima de combustíveis fósseis, como petróleo e carvão, e o desmatamento são os grandes vilões, porque liberam esses gases em quantidades enormes. Por exemplo, quando dirigimos carros a gasolina ou desmatamos florestas para agricultura, contribuímos para o problema. A questão é que não é só o calor: isso desequilibra ecossistemas, aumenta tempestades e derrete geleiras. Sabia que a Revolução Industrial, lá no século XVIII, foi o pontapé inicial para o aumento massivo desses gases por causa das máquinas a vapor?",
+    "palavras_chave": ["aquecimento global", "gases de efeito estufa", "combustíveis fósseis", "desmatamento", "revolução industrial"]
+  },
+  {
+    "pergunta": "Como o efeito estufa funciona?",
+    "resposta": "O efeito estufa é um processo natural onde gases como CO2 e vapor d’água na atmosfera capturam parte do calor do sol, mantendo a Terra aquecida o suficiente para a vida. Sem ele, nosso planeta seria gelado, com temperaturas médias de -18°C! Mas, quando liberamos gases extras, como os de fábricas ou carros, esse cobertor fica mais grosso, prendendo calor demais. Pense numa estufa de plantas: ela deixa a luz entrar, mas não o calor sair. O problema é o excesso, que desregula o clima. Sabia que o metano, liberado por gado e aterros, é até 25 vezes mais potente que o CO2 em reter calor?",
+    "palavras_chave": ["efeito estufa", "gases atmosféricos", "co2", "metano", "clima"]
+  },
+  {
+    "pergunta": "Por que o desmatamento piora as mudanças climáticas?",
+    "resposta": "As florestas são como os pulmões do planeta: elas absorvem CO2 da atmosfera durante a fotossíntese, ajudando a regular o clima. Quando cortamos árvores, como na Amazônia, esse CO2 não é mais capturado e ainda é liberado quando a madeira apodrece ou é queimada. Além disso, solos expostos liberam carbono armazenado. É um ciclo vicioso: menos árvores, mais gases estufa, mais aquecimento. Por exemplo, o desmatamento na Amazônia já alterou chuvas regionais, afetando até a agricultura. Sabia que uma única árvore pode absorver até 22 kg de CO2 por ano?",
+    "palavras_chave": ["desmatamento", "co2", "florestas", "amazônia", "fotossíntese"]
+  },
+  {
+    "pergunta": "O que são ilhas de calor urbanas?",
+    "resposta": "Ilhas de calor urbanas são áreas nas cidades onde a temperatura é bem mais alta que nas regiões rurais próximas. Isso acontece porque concreto e asfalto absorvem e liberam calor, enquanto a falta de árvores reduz a sombra e a evaporação. Pense em São Paulo: os prédios e ruas esquentam muito durante o dia, e à noite não esfriam tanto. Isso aumenta o uso de ar-condicionado, que consome energia e emite mais gases estufa. Soluções como telhados verdes ajudam a mitigar. Sabia que algumas cidades, como Tóquio, já usam tintas refletivas em ruas para reduzir o calor?",
+    "palavras_chave": ["ilhas de calor", "urbanização", "concreto", "telhados verdes", "energia"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam os oceanos?",
+    "resposta": "Os oceanos estão sofrendo muito com as mudanças climáticas. O aumento da temperatura global aquece a água, causando expansão térmica, o que eleva o nível do mar. Além disso, o CO2 dissolvido torna a água mais ácida, prejudicando corais e moluscos, que dependem de carbonato para formar suas estruturas. Por exemplo, a Grande Barreira de Corais na Austrália já perdeu metade de seus corais desde os anos 1990. Isso também afeta cadeias alimentares marinhas, impactando pescadores. Sabia que os oceanos absorvem cerca de 30% do CO2 que emitimos?",
+    "palavras_chave": ["oceanos", "acidificação", "nível do mar", "corais", "co2"]
+  },
+  {
+    "pergunta": "O que é pegada de carbono?",
+    "resposta": "A pegada de carbono mede a quantidade de gases de efeito estufa que uma pessoa, empresa ou evento emite, direta ou indiretamente. Por exemplo, ao usar eletricidade de uma usina a carvão ou viajar de avião, você contribui para emissões de CO2. É uma forma de entender nosso impacto no clima. Uma pessoa média no Brasil emite cerca de 2,2 toneladas de CO2 por ano, bem menos que em países como os EUA. Reduzir a pegada envolve escolhas como comer menos carne ou usar transporte público. Sabia que uma única viagem de avião transatlântica pode gerar mais CO2 que um carro em um ano?",
+    "palavras_chave": ["pegada de carbono", "emissões", "co2", "transporte", "consumo"]
+  },
+  {
+    "pergunta": "Por que os polos estão derretendo mais rápido?",
+    "resposta": "Os polos, especialmente o Ártico, estão aquecendo mais rápido que o resto do planeta por um fenômeno chamado amplificação polar. O gelo reflete o calor do sol, mas, quando derrete, expõe a água ou o solo, que absorvem mais calor, acelerando o aquecimento. É como tirar um casaco branco e ficar com uma roupa preta no sol! Isso eleva o nível do mar e altera correntes oceânicas, como a do Golfo. Sabia que o Ártico pode ficar sem gelo no verão antes de 2050, segundo projeções?",
+    "palavras_chave": ["polos", "amplificação polar", "derretimento", "nível do mar", "ártico"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas impactam a agricultura?",
+    "resposta": "As mudanças climáticas bagunçam a agricultura de várias formas. Chuvas irregulares, secas prolongadas e ondas de calor afetam o crescimento de culturas como milho e soja. No Brasil, por exemplo, a seca no Centro-Oeste já reduziu safras em anos recentes. Temperaturas mais altas também favorecem pragas, exigindo mais pesticidas. Por outro lado, algumas regiões podem se beneficiar com estações de plantio mais longas. A solução? Agricultura regenerativa e culturas resistentes. Sabia que o café, tão importante no Brasil, pode perder até 50% de sua área cultivável até 2050 por causa do calor?",
+    "palavras_chave": ["agricultura", "secas", "chuvas", "pragas", "café"]
+  },
+  {
+    "pergunta": "O que é o Acordo de Paris?",
+    "resposta": "O Acordo de Paris, assinado em 2015, é um tratado global para combater as mudanças climáticas. Ele busca limitar o aquecimento global a 1,5°C acima dos níveis pré-industriais. Cada país define metas, chamadas NDCs, para cortar emissões. O Brasil, por exemplo, prometeu reduzir emissões em 37% até 2025. O desafio é que muitos países não cumprem suas metas, e o financiamento para nações mais pobres é limitado. Ainda assim, é um marco de cooperação global. Sabia que o acordo foi negociado por 196 países em apenas duas semanas?",
+    "palavras_chave": ["acordo de paris", "emissões", "ndcs", "aquecimento global", "cooperação"]
+  },
+  {
+    "pergunta": "Por que eventos climáticos extremos estão mais frequentes?",
+    "resposta": "Eventos como furacões, secas e enchentes estão mais intensos porque o aquecimento global desequilibra o sistema climático. Mais calor na atmosfera significa mais energia para tempestades e mais vapor d’água, o que intensifica chuvas. No Rio Grande do Sul, por exemplo, enchentes devastadoras em 2023 foram ligadas ao clima mais quente. A análise crítica aqui é que, sem cortes drásticos nas emissões, esses eventos vão piorar. Sabia que furacões estão ficando mais lentos, causando destruição por mais tempo?",
+    "palavras_chave": ["eventos extremos", "furacões", "enchentes", "aquecimento", "clima"]
+  },
+  {
+    "pergunta": "Como a energia renovável ajuda no combate às mudanças climáticas?",
+    "resposta": "Energias renováveis, como solar e eólica, reduzem a dependência de combustíveis fósseis, que liberam muito CO2. No Brasil, hidrelétricas já dominam, mas a energia solar está crescendo rápido, com painéis em casas e fazendas. Substituir carvão por vento ou sol corta emissões diretamente. O desafio é o custo inicial e a infraestrutura, mas os benefícios a longo prazo são enormes. Sabia que a energia eólica offshore, em alto-mar, pode gerar eletricidade suficiente para cidades inteiras?",
+    "palavras_chave": ["energia renovável", "solar", "eólica", "emissões", "hidrelétricas"]
+  },
+  {
+    "pergunta": "O que é neutralidade de carbono?",
+    "resposta": "Neutralidade de carbono é quando uma pessoa, empresa ou país equilibra as emissões de carbono com ações que removem ou evitam a mesma quantidade de CO2. Pense em plantar árvores ou investir em tecnologias de captura de carbono. A Amazon, por exemplo, prometeu ser neutra até 2040, usando energia renovável e reflorestamento. O problema é que nem sempre é fácil medir ou garantir esse equilíbrio. Sabia que algumas empresas compram ‘créditos de carbono’ para compensar emissões, mas isso pode ser só maquiagem verde?",
+    "palavras_chave": ["neutralidade de carbono", "emissões", "reflorestamento", "créditos de carbono", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam a biodiversidade?",
+    "resposta": "O aquecimento global ameaça a biodiversidade ao alterar habitats. Temperaturas mais altas e mudanças nas chuvas forçam espécies a migrar ou se adaptar, mas muitas não conseguem. Na Amazônia, por exemplo, espécies de anfíbios estão desaparecendo porque os rios estão secando. Isso desequilibra ecossistemas inteiros, já que cada espécie tem um papel. Proteger áreas verdes e corredores ecológicos é crucial. Sabia que 1 milhão de espécies estão em risco de extinção por causa das mudanças climáticas, segundo a ONU?",
+    "palavras_chave": ["biodiversidade", "habitats", "amazônia", "extinção", "ecossistemas"]
+  },
+  {
+    "pergunta": "O que é captura de carbono?",
+    "resposta": "Captura de carbono é uma tecnologia que retira CO2 da atmosfera ou de fontes como usinas e o armazena, geralmente no subsolo. É como um aspirador gigante para gases estufa! Empresas como a Climeworks na Islândia já usam isso, mas o custo ainda é alto, e a escala é limitada. Críticos dizem que é uma solução parcial, já que não substitui a redução de emissões. Sabia que algumas florestas, como a Amazônia, capturam carbono naturalmente, mas só se forem preservadas?",
+    "palavras_chave": ["captura de carbono", "co2", "tecnologia", "florestas", "emissões"]
+  },
+  {
+    "pergunta": "Por que o metano é tão preocupante para o clima?",
+    "resposta": "O metano é um gás de efeito estufa muito mais potente que o CO2, embora fique menos tempo na atmosfera. Ele vem de aterros, agricultura (especialmente gado) e vazamentos de gás natural. Por exemplo, uma vaca pode liberar até 200 kg de metano por ano ao digerir comida! Reduzir o consumo de carne e melhorar a gestão de resíduos são passos importantes. Sabia que o metano é responsável por cerca de 30% do aquecimento global desde a era pré-industrial?",
+    "palavras_chave": ["metano", "gases estufa", "agricultura", "aterros", "aquecimento"]
+  },
+  {
+    "pergunta": "Como o aumento do nível do mar afeta cidades costeiras?",
+    "resposta": "O aumento do nível do mar, causado pelo derretimento de geleiras e expansão térmica dos oceanos, ameaça cidades costeiras como Rio de Janeiro e Recife. Ele provoca inundações mais frequentes, erosão de praias e até a perda de territórios. Em Bangladesh, por exemplo, milhões já foram deslocados por inundações. Barreiras marítimas e planejamento urbano são soluções, mas custam caro. Sabia que algumas ilhas, como as Maldivas, podem sumir completamente até 2100?",
+    "palavras_chave": ["nível do mar", "cidades costeiras", "inundações", "erosão", "maldivas"]
+  },
+  {
+    "pergunta": "O que é justiça climática?",
+    "resposta": "Justiça climática é a ideia de que as mudanças climáticas afetam desigualmente diferentes grupos, e as soluções devem ser justas. Países pobres, como os da África Subsaariana, sofrem mais com secas e inundações, mas emitem pouco CO2. Já nações ricas, grandes emissoras, têm mais recursos para se adaptar. Projetos como financiar adaptações em países vulneráveis buscam equilíbrio. Sabia que comunidades indígenas muitas vezes lideram esforços de conservação, mas raramente são ouvidas em conferências climáticas?",
+    "palavras_chave": ["justiça climática", "desigualdade", "adaptação", "indígenas", "emissões"]
+  },
+  {
+    "pergunta": "Como a aviação contribui para o aquecimento global?",
+    "resposta": "A aviação é responsável por cerca de 2% das emissões globais de CO2, mas seu impacto é maior por causa dos gases e vapor d’água liberados em grandes altitudes. Jatos deixam trilhas de condensação que podem formar nuvens que retêm calor. Por exemplo, um voo de São Paulo a Nova York emite cerca de 1 tonelada de CO2 por passageiro. Combustíveis sustentáveis e rotas mais eficientes são soluções em teste. Sabia que a aviação pode dobrar suas emissões até 2050 se nada mudar?",
+    "palavras_chave": ["aviação", "emissões", "co2", "combustíveis sustentáveis", "trilhas de condensação"]
+  },
+  {
+    "pergunta": "O que são créditos de carbono?",
+    "resposta": "Créditos de carbono são como uma moeda para compensar emissões. Uma empresa que emite CO2 pode comprar créditos, que financiam projetos como reflorestamento ou energia renovável. Por exemplo, preservar uma floresta na Amazônia pode gerar créditos vendidos a empresas na Europa. O problema é que nem todos os projetos são confiáveis, e alguns só mascaram emissões. Sabia que o mercado global de créditos de carbono movimentou mais de 800 bilhões de dólares em 2022?",
+    "palavras_chave": ["créditos de carbono", "emissões", "reflorestamento", "mercado", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam a saúde humana?",
+    "resposta": "O aquecimento global impacta a saúde de várias formas. Ondas de calor causam desidratação e doenças cardíacas, enquanto a poluição do ar piora problemas respiratórios. No Brasil, a dengue tem se espalhado mais por causa de temperaturas mais altas, que favorecem o mosquito. Além disso, secas afetam a segurança alimentar. Soluções incluem mais áreas verdes e sistemas de alerta. Sabia que a OMS estima que as mudanças climáticas podem causar 250 mil mortes por ano até 2030?",
+    "palavras_chave": ["saúde", "ondas de calor", "dengue", "poluição", "segurança alimentar"]
+  },
+  {
+    "pergunta": "O que é adaptação climática?",
+    "resposta": "Adaptação climática é ajustar a forma como vivemos para lidar com os impactos das mudanças climáticas. Isso inclui construir barreiras contra inundações, como em Rotterdam, ou desenvolver culturas agrícolas resistentes à seca, como no Semiárido brasileiro. A ideia é minimizar danos, já que alguns efeitos, como o aumento do nível do mar, são inevitáveis. O desafio é o custo, especialmente para países pobres. Sabia que o Brasil já testa variedades de feijão mais resistentes à seca no Nordeste?",
+    "palavras_chave": ["adaptação climática", "inundações", "agricultura", "secas", "resiliência"]
+  },
+  {
+    "pergunta": "Por que o permafrost é uma ameaça climática?",
+    "resposta": "O permafrost é o solo congelado em regiões como a Sibéria, que armazena enormes quantidades de metano e carbono. Com o aquecimento global, ele está derretendo, liberando esses gases e acelerando o aquecimento. É como abrir uma caixa de Pandora climática! Além disso, o derretimento desestabiliza construções e ecossistemas. Sabia que o permafrost contém o dobro de carbono da atmosfera atual, e sua liberação pode ser catastrófica?",
+    "palavras_chave": ["permafrost", "metano", "carbono", "aquecimento", "sibéria"]
+  },
+  {
+    "pergunta": "Como o consumo de carne impacta as mudanças climáticas?",
+    "resposta": "A produção de carne, especialmente de boi, gera muitas emissões de metano, além de desmatamento para pastagens. No Brasil, a pecuária é uma das maiores causas de desmate na Amazônia. Cada quilo de carne pode emitir até 60 kg de CO2, muito mais que vegetais. Reduzir o consumo ou optar por proteínas alternativas, como as vegetais, ajuda bastante. Sabia que, se o mundo adotasse uma dieta com menos carne, as emissões globais poderiam cair até 17%?",
+    "palavras_chave": ["carne", "metano", "desmatamento", "pecuária", "dieta"]
+  },
+  {
+    "pergunta": "O que é economia circular e como ela ajuda o clima?",
+    "resposta": "Economia circular é um modelo que promove reuso, reciclagem e redução de resíduos, diferente da economia linear de ‘usar e jogar fora’. Isso corta emissões, porque menos recursos novos são extraídos e menos lixo vai para aterros, que liberam metano. Por exemplo, empresas como a Patagonia reutilizam materiais em roupas. A crítica é que a transição exige mudanças profundas na indústria. Sabia que a economia circular pode reduzir as emissões globais em até 40% até 2050?",
+    "palavras_chave": ["economia circular", "reciclagem", "resíduos", "emissões", "reuso"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam comunidades indígenas?",
+    "resposta": "Comunidades indígenas, como as da Amazônia, dependem da natureza para sobreviver, então mudanças no clima, como secas ou chuvas intensas, afetam diretamente sua agricultura, pesca e cultura. No Xingu, por exemplo, rios estão secando, dificultando o transporte. Apesar disso, indígenas muitas vezes lideram a conservação, protegendo florestas. O problema é que raramente têm voz nas políticas climáticas. Sabia que terras indígenas no Brasil armazenam 13 bilhões de toneladas de carbono?",
+    "palavras_chave": ["indígenas", "amazônia", "conservação", "clima", "xingu"]
+  },
+  {
+    "pergunta": "O que é o IPCC e qual seu papel nas mudanças climáticas?",
+    "resposta": "O IPCC, ou Painel Intergovernamental sobre Mudanças Climáticas, é um grupo criado pela ONU para avaliar a ciência por trás do aquecimento global. Ele reúne cientistas do mundo todo para revisar estudos e produzir relatórios que orientam governos. Por exemplo, o relatório de 2021 alertou que o aquecimento pode ultrapassar 1,5°C em breve se nada mudar. Esses relatórios são cruciais, mas críticos dizem que falta pressão para ações concretas. Sabia que o IPCC já ganhou o Prêmio Nobel da Paz em 2007, junto com Al Gore?",
+    "palavras_chave": ["ipcc", "mudanças climáticas", "relatórios", "onu", "ciência"]
+  },
+  {
+    "pergunta": "Como o aquecimento global influencia os padrões de chuva?",
+    "resposta": "O aquecimento global bagunça os padrões de chuva porque o calor extra na atmosfera aumenta a evaporação e a capacidade de reter vapor d’água. Isso causa chuvas mais intensas em algumas regiões e secas em outras. No Brasil, o Nordeste enfrenta secas mais longas, enquanto o Sul vê enchentes mais fortes. Isso afeta desde a agricultura até o abastecimento de água. Sabia que o ciclo da água global está 7% mais intenso por causa do aquecimento?",
+    "palavras_chave": ["padrões de chuva", "evaporação", "secas", "enchentes", "ciclo da água"]
+  },
+  {
+    "pergunta": "O que é mitigação climática?",
+    "resposta": "Mitigação climática é o conjunto de ações para reduzir ou prevenir a emissão de gases de efeito estufa. Isso inclui usar energia renovável, melhorar eficiência energética ou reflorestar. Por exemplo, a Alemanha investe pesado em energia eólica para cortar emissões. O desafio é que a mitigação exige cooperação global e mudanças estruturais. Sabia que reflorestar uma área do tamanho da Austrália poderia capturar 25% das emissões globais anuais?",
+    "palavras_chave": ["mitigação", "emissões", "energia renovável", "reflorestamento", "cooperação"]
+  },
+  {
+    "pergunta": "Por que o derretimento das geleiras é um problema global?",
+    "resposta": "As geleiras, como as da Antártida e da Groenlândia, ao derreterem, elevam o nível do mar, ameaçando ilhas e cidades costeiras. Além disso, liberam água doce que altera correntes oceânicas, como a Corrente do Golfo, que regula o clima na Europa. No Himalaia, o derretimento afeta rios que abastecem milhões na Ásia. O problema é que esse processo é difícil de reverter. Sabia que a Groenlândia perde cerca de 270 bilhões de toneladas de gelo por ano?",
+    "palavras_chave": ["geleiras", "nível do mar", "correntes oceânicas", "derretimento", "himalaia"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam a segurança alimentar?",
+    "resposta": "Mudanças climáticas atrapalham a segurança alimentar ao reduzir safras por causa de secas, chuvas extremas ou calor excessivo. No Brasil, a soja e o milho já sofrem com verões mais quentes. Isso eleva preços de alimentos e pode causar fome em regiões pobres, como na África Subsaariana. Soluções como agricultura de precisão ajudam, mas exigem investimento. Sabia que a produção global de trigo pode cair 6% para cada grau de aquecimento?",
+    "palavras_chave": ["segurança alimentar", "safras", "secas", "agricultura", "alimentos"]
+  },
+  {
+    "pergunta": "O que é geoengenharia climática?",
+    "resposta": "Geoengenharia climática são intervenções em grande escala para combater o aquecimento, como espalhar partículas na atmosfera para refletir luz solar ou capturar CO2 em massa. Um exemplo é a fertilização dos oceanos para estimular algas que absorvem carbono. Parece ficção científica, mas é polêmico: pode ter efeitos colaterais imprevisíveis e não resolve a causa do problema. Sabia que testes de geoengenharia já causaram debates éticos sobre manipular o planeta?",
+    "palavras_chave": ["geoengenharia", "co2", "reflexão solar", "oceanos", "ética"]
+  },
+  {
+    "pergunta": "Como o aquecimento global impacta a migração humana?",
+    "resposta": "O aquecimento global força migrações por causa de eventos como secas, inundações e aumento do nível do mar. Em Bangladesh, milhões já deixaram suas casas por inundações costeiras. Esses ‘refugiados climáticos’ enfrentam desafios como falta de recursos e conflitos em novas regiões. A ONU estima que até 2050, 200 milhões de pessoas podem ser deslocadas. Sabia que algumas ilhas do Pacífico já estão evacuando populações inteiras?",
+    "palavras_chave": ["migração", "refugiados climáticos", "inundações", "secas", "deslocamento"]
+  },
+  {
+    "pergunta": "O que são sumidouros de carbono?",
+    "resposta": "Sumidouros de carbono são sistemas naturais ou artificiais que absorvem mais CO2 do que emitem, como florestas, oceanos e solos. A Amazônia, por exemplo, é um dos maiores sumidouros, mas o desmatamento reduz sua capacidade. Proteger esses ecossistemas é essencial para mitigar o aquecimento. O problema é que sumidouros estão saturando. Sabia que os oceanos absorvem tanto CO2 que estão ficando mais ácidos, prejudicando a vida marinha?",
+    "palavras_chave": ["sumidouros de carbono", "florestas", "oceanos", "co2", "desmatamento"]
+  },
+  {
+    "pergunta": "Por que o transporte público é importante para o clima?",
+    "resposta": "O transporte público reduz emissões porque substitui muitos carros individuais, que queimam combustíveis fósseis. Em cidades como Bogotá, sistemas de ônibus rápidos cortaram emissões significativamente. Além disso, metrôs e trens elétricos são ainda mais eficientes. O desafio é expandir esses sistemas em cidades menores. Sabia que um ônibus pode tirar até 40 carros das ruas, reduzindo até 70% das emissões por passageiro?",
+    "palavras_chave": ["transporte público", "emissões", "carros", "ônibus", "eficiência"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam os recifes de coral?",
+    "resposta": "Os recifes de coral, como a Grande Barreira na Austrália, sofrem com o aquecimento dos oceanos e a acidificação. Temperaturas altas causam branqueamento, quando corais expulsam algas que os alimentam, levando à morte. Isso destrói habitats marinhos e afeta comunidades que dependem da pesca. Soluções como áreas protegidas ajudam, mas o problema é global. Sabia que corais abrigam 25% das espécies marinhas, apesar de ocuparem só 0,1% dos oceanos?",
+    "palavras_chave": ["recifes de coral", "branqueamento", "acidificação", "biodiversidade", "oceanos"]
+  },
+  {
+    "pergunta": "O que é resiliência climática?",
+    "resposta": "Resiliência climática é a capacidade de comunidades, cidades ou ecossistemas de resistir e se recuperar de impactos climáticos, como tempestades ou secas. Por exemplo, Nova Orleans reforçou diques após o furacão Katrina. No Brasil, o Nordeste investe em cisternas para armazenar água. O desafio é financiar essas adaptações em áreas pobres. Sabia que cidades resilientes podem economizar bilhões ao evitar danos climáticos?",
+    "palavras_chave": ["resiliência climática", "adaptação", "tempestades", "cisternas", "cidades"]
+  },
+  {
+    "pergunta": "Como o aquecimento global influencia os furacões?",
+    "resposta": "O aquecimento global torna furacões mais intensos porque oceanos mais quentes fornecem mais energia, e a atmosfera retém mais vapor d’água, aumentando chuvas. O furacão Maria, em Porto Rico, foi um exemplo devastador, com ventos mais fortes e inundações recordes. A frequência pode não aumentar, mas a força sim. Sabia que furacões mais intensos podem custar trilhões de dólares em danos até 2100?",
+    "palavras_chave": ["furacões", "aquecimento", "oceanos", "chuvas", "danos"]
+  },
+  {
+    "pergunta": "O que é o Protocolo de Kyoto?",
+    "resposta": "O Protocolo de Kyoto, assinado em 1997, foi um dos primeiros acordos globais para reduzir emissões de gases estufa. Países desenvolvidos, como Japão e Alemanha, assumiram metas obrigatórias de corte, mas os EUA nunca aderiram. Embora tenha sido um marco, sua efetividade foi limitada por falta de participação global. Sabia que o protocolo inspirou o Acordo de Paris, que é mais amplo e inclusivo?",
+    "palavras_chave": ["protocolo de kyoto", "emissões", "acordo", "países desenvolvidos", "paris"]
+  },
+  {
+    "pergunta": "Como o lixo contribui para as mudanças climáticas?",
+    "resposta": "O lixo, especialmente em aterros, libera metano, um gás de efeito estufa potente, quando materiais orgânicos, como restos de comida, se decompõem. No Brasil, muitos aterros não capturam esse gás. Além disso, produzir e transportar produtos descartáveis gera emissões. Reciclagem e compostagem são soluções eficazes. Sabia que o lixo global pode gerar até 10% das emissões de gases estufa se não for gerenciado?",
+    "palavras_chave": ["lixo", "metano", "aterros", "reciclagem", "emissões"]
+  },
+  {
+    "pergunta": "O que é o conceito de tipping points climáticos?",
+    "resposta": "Tipping points são pontos de virada no sistema climático onde pequenas mudanças desencadeiam efeitos irreversíveis. Por exemplo, o derretimento do permafrost pode liberar tanto metano que o aquecimento se torna incontrolável. Outro caso é a Amazônia: se perder muito, pode virar savana. Esses pontos são perigosos porque aceleram o caos climático. Sabia que cientistas estimam que estamos perto de alguns desses pontos, como o colapso da corrente do Golfo?",
+    "palavras_chave": ["tipping points", "permafrost", "amazônia", "metano", "clima"]
+  },
+  {
+    "pergunta": "Como a urbanização afeta o aquecimento global?",
+    "resposta": "A urbanização aumenta o aquecimento global porque cidades consomem muita energia para transporte, construção e eletricidade, emitindo CO2. Além disso, o concreto cria ilhas de calor. Cidades como São Paulo poderiam reduzir emissões com transporte público e edifícios verdes. O problema é o crescimento desordenado em muitos lugares. Sabia que as cidades são responsáveis por cerca de 70% das emissões globais de CO2?",
+    "palavras_chave": ["urbanização", "emissões", "ilhas de calor", "transporte", "cidades"]
+  },
+  {
+    "pergunta": "O que é energia limpa e por que ela importa?",
+    "resposta": "Energia limpa vem de fontes que não emitem gases estufa, como solar, eólica ou geotérmica. No Brasil, hidrelétricas são a base, mas a solar está crescendo, com fazendas no Nordeste. Ela reduz a dependência de carvão e petróleo, cortando emissões. O desafio é a infraestrutura e o custo inicial. Sabia que a energia solar no Brasil cresceu 70% entre 2020 e 2023?",
+    "palavras_chave": ["energia limpa", "solar", "eólica", "emissões", "hidrelétricas"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam a água potável?",
+    "resposta": "O aquecimento global reduz a disponibilidade de água potável por causa de secas, evaporação mais rápida e poluição de fontes. No Brasil, a crise hídrica de 2021 em São Paulo foi um exemplo, com reservatórios como o Cantareira quase secando. Além disso, chuvas intensas contaminam rios. Soluções como reuso de água são promissoras. Sabia que 2 bilhões de pessoas já enfrentam escassez de água por causa do clima?",
+    "palavras_chave": ["água potável", "secas", "crise hídrica", "reuso", "poluição"]
+  },
+  {
+    "pergunta": "O que é o impacto do fast fashion no clima?",
+    "resposta": "O fast fashion, como marcas que produzem roupas baratas e descartáveis, gera emissões por causa da produção intensiva, transporte e desperdício. Um par de jeans pode emitir até 33 kg de CO2! No Brasil, o descarte de roupas enche aterros, liberando metano. Comprar de segunda mão ou apoiar marcas sustentáveis ajuda. Sabia que a indústria da moda é responsável por 10% das emissões globais de carbono?",
+    "palavras_chave": ["fast fashion", "emissões", "desperdício", "metano", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como o aquecimento global afeta os ecossistemas árticos?",
+    "resposta": "No Ártico, o aquecimento é duas vezes mais rápido, derretendo gelo e alterando ecossistemas. Ursos polares, por exemplo, perdem habitat para caçar, enquanto espécies invasoras aparecem. A pesca também é afetada, impactando comunidades locais. Proteger o Ártico exige cortes globais de emissões. Sabia que o Ártico perdeu 13% de seu gelo marinho por década desde os anos 1970?",
+    "palavras_chave": ["ártico", "derretimento", "ursos polares", "ecossistemas", "gelo"]
+  },
+  {
+    "pergunta": "O que é o Pacto Verde Europeu?",
+    "resposta": "O Pacto Verde Europeu é um plano da União Europeia para tornar o continente neutro em carbono até 2050. Inclui investir em energias renováveis, reduzir emissões de indústrias e promover agricultura sustentável. É ambicioso, mas críticos dizem que falta apoio aos países mais pobres da UE. Sabia que o pacto prevê 1 trilhão de euros em investimentos para a transição verde?",
+    "palavras_chave": ["pacto verde", "neutralidade de carbono", "energias renováveis", "ue", "investimentos"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam a pesca?",
+    "resposta": "O aquecimento dos oceanos muda a distribuição de peixes, com espécies migrando para águas mais frias. No Brasil, pescadores do Nordeste já notam menos peixes devido ao calor e à acidificação. Isso ameaça a segurança alimentar e a economia costeira. Áreas marinhas protegidas podem ajudar a preservar estoques. Sabia que a pesca global pode cair até 35% até 2050 por causa do clima?",
+    "palavras_chave": ["pesca", "oceanos", "acidificação", "segurança alimentar", "migração"]
+  },
+  {
+    "pergunta": "O que é agricultura regenerativa?",
+    "resposta": "Agricultura regenerativa é um método que restaura solos, sequestra carbono e aumenta a biodiversidade, usando técnicas como rotação de culturas e plantio direto. No Brasil, fazendas no Cerrado já adotam isso para melhorar a produtividade e reduzir emissões. É uma alternativa à agricultura intensiva, mas exige treinamento. Sabia que solos saudáveis podem capturar até 1 bilhão de toneladas de CO2 por ano?",
+    "palavras_chave": ["agricultura regenerativa", "carbono", "solos", "biodiversidade", "cerrado"]
+  },
+  {
+    "pergunta": "Como o aquecimento global influencia os incêndios florestais?",
+    "resposta": "O aquecimento global intensifica incêndios florestais por causa de secas e temperaturas mais altas, que deixam a vegetação mais seca e inflamável. Na Austrália, os incêndios de 2019-2020 queimaram 17 milhões de hectares. No Brasil, a Amazônia também sofre. Prevenir exige manejo florestal e menos desmatamento. Sabia que os incêndios liberam CO2 que acelera ainda mais o aquecimento?",
+    "palavras_chave": ["incêndios florestais", "secas", "amazônia", "co2", "desmatamento"]
+  },
+  {
+    "pergunta": "O que é a COP e por que ela é importante?",
+    "resposta": "A COP, ou Conferência das Partes, é uma reunião anual da ONU onde países discutem ações contra as mudanças climáticas. A COP21, em 2015, resultou no Acordo de Paris. É um espaço para negociar metas e financiamentos, mas críticos apontam que muitas promessas não são cumpridas. Sabia que a COP26, em Glasgow, foi criticada por não avançar o suficiente em cortes de emissões?",
+    "palavras_chave": ["cop", "acordo de paris", "clima", "negociações", "onu"]
+  },
+  {
+    "pergunta": "O que é o conceito de feedback climático?",
+    "resposta": "Feedback climático é quando uma mudança no clima amplifica ou reduz seus próprios efeitos. Por exemplo, o derretimento do gelo ártico reduz a reflexão da luz solar, aquecendo mais o planeta, um feedback positivo. Já o aumento de nuvens pode refletir luz e resfriar, um feedback negativo. O problema é que feedbacks positivos, como o permafrost derretendo, aceleram o aquecimento. Sabia que o derretimento do gelo pode desencadear uma reação em cadeia que torna o Ártico irreconhecível em décadas?",
+    "palavras_chave": ["feedback climático", "gelo ártico", "permafrost", "aquecimento", "nuvens"]
+  },
+  {
+    "pergunta": "Como o aquecimento global afeta os ventos globais?",
+    "resposta": "O aquecimento global altera os ventos globais porque o calor muda as diferenças de temperatura entre os polos e o equador, que impulsionam correntes como os jatos atmosféricos. Isso pode enfraquecer ventos como os alísios, afetando o clima regional. No Brasil, isso já mudou padrões de chuva no Nordeste. O desafio é prever essas mudanças com precisão. Sabia que ventos mais fracos podem prolongar ondas de calor, como as de 2023 na Europa?",
+    "palavras_chave": ["ventos globais", "alísios", "jatos atmosféricos", "chuvas", "clima"]
+  },
+  {
+    "pergunta": "O que é a pegada hídrica e sua relação com o clima?",
+    "resposta": "A pegada hídrica mede a água usada para produzir bens e serviços, como alimentos ou roupas. Produzir carne, por exemplo, consome milhares de litros por quilo, contribuindo para o estresse hídrico em regiões secas. Isso se conecta ao clima, porque secas agravadas pelo aquecimento limitam a água disponível. Reduzir o consumo de carne ajuda. Sabia que um hambúrguer pode exigir até 2.400 litros de água para ser produzido?",
+    "palavras_chave": ["pegada hídrica", "água", "carne", "secas", "consumo"]
+  },
+  {
+    "pergunta": "Por que a Amazônia é chamada de 'tipping point' global?",
+    "resposta": "A Amazônia é um tipping point porque, se desmatada além de um limite, pode deixar de ser floresta e virar savana, liberando toneladas de carbono e alterando o clima global. Ela regula chuvas que afetam até a América do Sul inteira. No Brasil, o desmatamento já chegou a 20% em algumas áreas. Proteger a floresta é urgente. Sabia que a Amazônia gera ‘rios voadores’ que levam umidade até o Sudeste brasileiro?",
+    "palavras_chave": ["amazônia", "tipping point", "desmatamento", "carbono", "rios voadores"]
+  },
+  {
+    "pergunta": "Como a mineração impacta as mudanças climáticas?",
+    "resposta": "A mineração, como a de carvão ou ouro, emite gases estufa por causa da energia usada e do desmatamento. No Brasil, garimpos ilegais na Amazônia destroem florestas que absorvem CO2. Além disso, resíduos poluem rios, afetando ecossistemas. Mineração sustentável é possível, mas rara. Sabia que a produção de uma única aliança de ouro pode gerar 20 toneladas de resíduos tóxicos?",
+    "palavras_chave": ["mineração", "emissões", "desmatamento", "amazônia", "resíduos"]
+  },
+  {
+    "pergunta": "O que é o conceito de economia de baixo carbono?",
+    "resposta": "Economia de baixo carbono é um modelo que reduz emissões por meio de tecnologias limpas, como energia solar, e práticas como mobilidade elétrica. Cidades como Copenhague investem em ciclovias e energia eólica para isso. No Brasil, o etanol de cana é um exemplo. O desafio é a transição custosa para indústrias. Sabia que a Dinamarca planeja ser 100% livre de combustíveis fósseis até 2050?",
+    "palavras_chave": ["economia de baixo carbono", "energia limpa", "etanol", "mobilidade", "transição"]
+  },
+  {
+    "pergunta": "Como o aquecimento global afeta os glaciares alpinos?",
+    "resposta": "Os glaciares alpinos, como os dos Alpes europeus, estão derretendo rapidamente devido ao aquecimento, reduzindo reservas de água doce para rios que abastecem cidades. Na Suíça, por exemplo, os glaciares perderam 10% de seu volume entre 2020 e 2023. Isso também aumenta riscos de deslizamentos. Proteger os glaciares exige cortes globais de emissões. Sabia que alguns vilarejos alpinos usam cobertores térmicos para tentar salvar o gelo?",
+    "palavras_chave": ["glaciares alpinos", "derretimento", "água doce", "alpes", "emissões"]
+  },
+  {
+    "pergunta": "O que é o financiamento climático?",
+    "resposta": "Financiamento climático é o dinheiro destinado a ajudar países, especialmente os mais pobres, a combater e se adaptar às mudanças climáticas. Por exemplo, nações ricas prometeram 100 bilhões de dólares anuais até 2020, mas a entrega tem sido lenta. No Brasil, esses fundos poderiam ajudar a reflorestar a Amazônia. O problema é a burocracia e a falta de transparência. Sabia que apenas 20% desses fundos vão para adaptação, como proteger cidades de inundações?",
+    "palavras_chave": ["financiamento climático", "adaptação", "reflorestamento", "países pobres", "transparência"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam os desertos?",
+    "resposta": "O aquecimento global intensifica a desertificação, tornando desertos mais secos e expandindo-os. No Sahel, na África, solos estão virando areia, dificultando a agricultura e forçando migrações. No Brasil, o Semiárido nordestino enfrenta algo semelhante. Técnicas como agrofloresta podem ajudar a recuperar solos. Sabia que a desertificação já afeta 40% das terras do planeta?",
+    "palavras_chave": ["desertificação", "sahel", "semiárido", "agricultura", "solos"]
+  },
+  {
+    "pergunta": "O que é o Painel Brasileiro de Mudanças Climáticas?",
+    "resposta": "O Painel Brasileiro de Mudanças Climáticas (PBMC) é um grupo de cientistas que analisa impactos climáticos no Brasil, como secas no Nordeste e enchentes no Sul. Seus relatórios orientam políticas públicas, como proteger a Amazônia. É inspirado no IPCC, mas foca no contexto brasileiro. Sabia que o PBMC alertou que o Brasil pode perder 11% do PIB até 2050 se não agir contra o aquecimento?",
+    "palavras_chave": ["pbmc", "mudanças climáticas", "amazônia", "políticas públicas", "pib"]
+  },
+  {
+    "pergunta": "Como o aquecimento global afeta a produção de energia hidrelétrica?",
+    "resposta": "O aquecimento global reduz a produção hidrelétrica por causa de secas e chuvas irregulares, que diminuem o fluxo dos rios. No Brasil, usinas como Belo Monte enfrentam quedas na geração em anos secos. Isso força o uso de termelétricas, que emitem CO2. Diversificar com solar e eólica é uma solução. Sabia que a crise hídrica de 2021 no Brasil aumentou as emissões por causa das termelétricas?",
+    "palavras_chave": ["hidrelétricas", "secas", "emissões", "belo monte", "energia"]
+  },
+  {
+    "pergunta": "O que é a pegada ecológica?",
+    "resposta": "A pegada ecológica mede o impacto ambiental de uma pessoa ou sociedade, incluindo o uso de recursos como água, energia e terra. Um brasileiro médio tem uma pegada maior que o ideal para o planeta suportar. Reduzir consumo e adotar energias limpas ajuda a diminuí-la. Sabia que, se todos vivessem como americanos, precisaríamos de cinco planetas Terra?",
+    "palavras_chave": ["pegada ecológica", "recursos", "consumo", "energia limpa", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como o aquecimento global impacta os manguezais?",
+    "resposta": "Manguezais, como os do litoral brasileiro, sofrem com o aumento do nível do mar e tempestades mais fortes, que erodem suas raízes. Eles são vitais para proteger costas e abrigar biodiversidade, mas estão encolhendo. No Brasil, manguezais do Amapá já mostram sinais de estresse. Restaurá-los é essencial. Sabia que manguezais podem armazenar até cinco vezes mais carbono que florestas terrestres?",
+    "palavras_chave": ["manguezais", "nível do mar", "biodiversidade", "carbono", "restauração"]
+  },
+  {
+    "pergunta": "O que é o conceito de ‘net zero’?",
+    "resposta": "‘Net zero’ é quando as emissões de gases estufa são equilibradas por ações que removem carbono, como reflorestamento ou captura tecnológica. Países como o Reino Unido miram o ‘net zero’ até 2050. No Brasil, o etanol ajuda, mas o desmatamento atrapalha. O desafio é evitar greenwashing. Sabia que algumas empresas anunciam ‘net zero’ sem ações concretas, só para melhorar a imagem?",
+    "palavras_chave": ["net zero", "emissões", "reflorestamento", "etanol", "greenwashing"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam o turismo?",
+    "resposta": "O aquecimento global impacta o turismo ao alterar destinos populares. Praias no Brasil, como em Florianópolis, enfrentam erosão pelo aumento do nível do mar, enquanto estações de esqui nos Alpes perdem neve. Além disso, voos emitem CO2, agravando o problema. Turismo sustentável é uma saída. Sabia que o turismo global responde por 8% das emissões de carbono?",
+    "palavras_chave": ["turismo", "nível do mar", "erosão", "emissões", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é a Convenção de Estocolmo e sua relação com o clima?",
+    "resposta": "A Convenção de Estocolmo, de 2001, é um tratado para eliminar poluentes orgânicos persistentes, como pesticidas tóxicos. Esses compostos, usados na agricultura, podem liberar gases que afetam o clima. No Brasil, a redução de agrotóxicos ajuda tanto o clima quanto a saúde. O problema é a fiscalização fraca. Sabia que alguns desses poluentes podem ficar no ambiente por décadas?",
+    "palavras_chave": ["convenção de estocolmo", "poluentes", "agrotóxicos", "clima", "fiscalização"]
+  },
+  {
+    "pergunta": "Como o aquecimento global afeta os povos do Ártico?",
+    "resposta": "Povos indígenas do Ártico, como os Inuit, enfrentam o derretimento do gelo, que destrói rotas de caça e vilarejos costeiros. No Alasca, aldeias estão sendo realocadas por causa da erosão. Sua cultura, ligada ao gelo, está em risco. Apoiar esses povos exige financiamento e respeito às suas tradições. Sabia que algumas comunidades Inuit já perderam 50% de suas áreas de caça?",
+    "palavras_chave": ["ártico", "inuit", "derretimento", "erosão", "cultura"]
+  },
+  {
+    "pergunta": "O que é agricultura de precisão e como ela ajuda o clima?",
+    "resposta": "Agricultura de precisão usa tecnologia, como drones e sensores, para otimizar o uso de água, fertilizantes e pesticidas, reduzindo emissões. No Brasil, fazendas de soja no Mato Grosso já adotam isso, cortando desperdícios. É eficiente, mas o custo limita o acesso de pequenos agricultores. Sabia que essa prática pode reduzir o uso de fertilizantes em até 20%?",
+    "palavras_chave": ["agricultura de precisão", "emissões", "tecnologia", "soja", "fertilizantes"]
+  },
+  {
+    "pergunta": "Como o aquecimento global impacta a vinicultura?",
+    "resposta": "O aquecimento global altera a vinicultura porque temperaturas mais altas e chuvas irregulares afetam o cultivo de uvas. No Brasil, vinhedos no Rio Grande do Sul enfrentam safras menos previsíveis. Regiões tradicionais, como Bordeaux, também sofrem. Adaptar com uvas mais resistentes é uma solução. Sabia que algumas vinícolas estão migrando para áreas mais frias, como o sul da Inglaterra?",
+    "palavras_chave": ["vinicultura", "temperaturas", "uvas", "adaptação", "safras"]
+  },
+  {
+    "pergunta": "O que é o mercado de carbono?",
+    "resposta": "O mercado de carbono é um sistema onde empresas ou países compram e vendem créditos para compensar emissões. Por exemplo, uma empresa que planta árvores pode vender créditos a outra que polui. No Brasil, projetos na Amazônia geram esses créditos. O problema é garantir que sejam reais, não só promessas. Sabia que o mercado global de carbono pode chegar a 2 trilhões de dólares até 2030?",
+    "palavras_chave": ["mercado de carbono", "créditos", "emissões", "amazônia", "compensação"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam a qualidade do ar?",
+    "resposta": "O aquecimento global piora a qualidade do ar porque o calor intensifica a formação de ozônio em áreas urbanas e aumenta a poeira em regiões secas. Em São Paulo, dias mais quentes elevam a poluição. Incêndios florestais, como na Amazônia, também liberam fumaça tóxica. Soluções incluem mais áreas verdes e energia limpa. Sabia que a poluição do ar mata 7 milhões de pessoas por ano, segundo a OMS?",
+    "palavras_chave": ["qualidade do ar", "ozônio", "incêndios", "poluição", "saúde"]
+  },
+  {
+    "pergunta": "O que é o conceito de ‘climate tech’?",
+    "resposta": "Climate tech são tecnologias focadas em combater mudanças climáticas, como captura de carbono, baterias para energia renovável e carne cultivada em laboratório. Startups no Brasil estão desenvolvendo biogás a partir de resíduos. Essas inovações são promissoras, mas precisam de investimento massivo. Sabia que o setor de climate tech atraiu mais de 100 bilhões de dólares em 2023 globalmente?",
+    "palavras_chave": ["climate tech", "tecnologia", "carbono", "biogás", "investimento"]
+  },
+  {
+    "pergunta": "Como o aquecimento global afeta os esportes de inverno?",
+    "resposta": "O aquecimento global reduz a neve em estações de esqui, como nos Alpes e nos Andes, encurtando temporadas e afetando eventos como as Olimpíadas de Inverno. Pistas artificiais ajudam, mas consomem energia, emitindo mais CO2. No Brasil, esportes de inverno são raros, mas o impacto global afeta o turismo. Sabia que os Jogos de Inverno de 2022 em Pequim usaram 100% de neve artificial?",
+    "palavras_chave": ["esportes de inverno", "neve", "olimpíadas", "energia", "turismo"]
+  },
+  {
+    "pergunta": "O que é a Convenção da Biodiversidade e sua relação com o clima?",
+    "resposta": "A Convenção da Biodiversidade, de 1992, busca proteger ecossistemas e espécies, o que ajuda o clima, já que florestas e oceanos absorvem CO2. No Brasil, proteger o Cerrado mantém sumidouros de carbono. O desafio é equilibrar conservação com desenvolvimento econômico. Sabia que a perda de biodiversidade pode dobrar os custos de mitigação climática?",
+    "palavras_chave": ["biodiversidade", "sumidouros", "cerrado", "conservação", "clima"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam a produção de café?",
+    "resposta": "O aquecimento global prejudica o café porque temperaturas mais altas e chuvas irregulares afetam o florescimento e a maturação. No Brasil, maior produtor mundial, Minas Gerais já vê safras menores. Cultivar variedades resistentes e adotar sombra nas plantações são soluções. Sabia que o café arábica, o mais consumido, pode perder 80% de sua área cultivável até 2050?",
+    "palavras_chave": ["café", "temperaturas", "chuvas", "arábica", "agricultura"]
+  },
+  {
+    "pergunta": "O que é o conceito de ‘climate finance’?",
+    "resposta": "Climate finance é o financiamento para ações contra mudanças climáticas, como construir usinas solares ou proteger florestas. Países ricos prometeram bilhões para ajudar nações mais pobres, como as da África, a se adaptarem. No Brasil, esses fundos poderiam expandir o reflorestamento no Cerrado. O problema é que o dinheiro muitas vezes não chega a quem mais precisa. Sabia que apenas 10% do climate finance global vai para comunidades locais e indígenas?",
+    "palavras_chave": ["climate finance", "financiamento", "reflorestamento", "adaptação", "desigualdade"]
+  },
+  {
+    "pergunta": "Como o aquecimento global afeta a produção de energia eólica?",
+    "resposta": "O aquecimento global pode alterar padrões de vento, afetando a geração de energia eólica. Em algumas regiões, ventos mais fracos reduzem a eficiência de turbinas, enquanto em outras, ventos mais fortes exigem equipamentos robustos. No Brasil, o Nordeste é um polo eólico, mas precisa de adaptações. Investir em tecnologia ajuda a manter a eficiência. Sabia que a energia eólica global pode suprir 18 vezes a demanda de eletricidade atual?",
+    "palavras_chave": ["energia eólica", "ventos", "nordeste", "turbinas", "adaptação"]
+  },
+  {
+    "pergunta": "O que é o conceito de ‘climate anxiety’?",
+    "resposta": "Climate anxiety é o estresse ou medo causado pela preocupação com as mudanças climáticas e seus impactos. Jovens, como os ativistas do Fridays for Future, sentem isso ao verem secas ou enchentes. No Brasil, comunidades costeiras também relatam ansiedade com a erosão. Ação coletiva, como plantar árvores, pode aliviar esse sentimento. Sabia que 60% dos jovens globais dizem sentir climate anxiety, segundo pesquisas?",
+    "palavras_chave": ["climate anxiety", "estresse", "jovens", "erosão", "ação coletiva"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam os rios?",
+    "resposta": "O aquecimento global altera os rios, reduzindo o fluxo por causa de secas ou aumentando inundações com chuvas intensas. No Brasil, o rio São Francisco sofre com menos água, afetando agricultura e pesca. Isso também impacta hidrelétricas e abastecimento. Restaurar matas ciliares é uma solução. Sabia que o São Francisco perdeu 15% de seu volume nas últimas décadas?",
+    "palavras_chave": ["rios", "secas", "inundações", "são francisco", "matas ciliares"]
+  },
+  {
+    "pergunta": "O que é o conceito de ‘greenwashing’?",
+    "resposta": "Greenwashing é quando empresas ou governos se promovem como sustentáveis sem ações reais, só para melhorar a imagem. Por exemplo, uma empresa pode anunciar ‘produtos verdes’ enquanto polui rios. No Brasil, isso acontece em setores como o agronegócio. Consumidores atentos e regulamentações mais rígidas ajudam a combater isso. Sabia que 40% das propagandas verdes podem ser enganosas, segundo a ONU?",
+    "palavras_chave": ["greenwashing", "sustentabilidade", "propaganda", "agronegócio", "regulamentação"]
+  },
+  {
+    "pergunta": "Como o aquecimento global afeta a fauna marinha?",
+    "resposta": "O aquecimento dos oceanos e a acidificação prejudicam a fauna marinha, alterando habitats e cadeias alimentares. No Brasil, tartarugas marinhas sofrem com praias mais quentes, que afetam a reprodução. Peixes migram para águas mais frias, impactando a pesca. Áreas protegidas ajudam a preservar espécies. Sabia que o aquecimento já mudou o sexo de filhotes de tartarugas, com mais fêmeas nascendo?",
+    "palavras_chave": ["fauna marinha", "acidificação", "tartarugas", "pesca", "habitats"]
+  },
+  {
+    "pergunta": "O que é a economia baseada em hidrogênio verde?",
+    "resposta": "O hidrogênio verde é produzido com energia renovável e pode substituir combustíveis fósseis em indústrias e transportes. No Brasil, portos como o de Pecém, no Ceará, estão investindo nisso. É uma alternativa de baixo carbono, mas a produção ainda é cara. Sabia que o hidrogênio verde pode reduzir até 20% das emissões industriais globais até 2050?",
+    "palavras_chave": ["hidrogênio verde", "energia renovável", "emissões", "indústria", "pecém"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam a saúde mental?",
+    "resposta": "O aquecimento global impacta a saúde mental ao causar ansiedade, depressão ou trauma após desastres como enchentes. No Brasil, comunidades no Pantanal enfrentam estresse com incêndios frequentes. Além disso, a incerteza sobre o futuro amplifica a ‘climate anxiety’. Apoio psicológico e ações climáticas ajudam. Sabia que desastres climáticos aumentam casos de transtorno de estresse pós-traumático em 20%?",
+    "palavras_chave": ["saúde mental", "climate anxiety", "desastres", "pantanal", "estresse"]
+  },
+  {
+    "pergunta": "O que é o conceito de ‘climate-smart agriculture’?",
+    "resposta": "Climate-smart agriculture combina práticas que aumentam a produtividade, reduzem emissões e adaptam fazendas ao clima. No Brasil, o plantio direto no Cerrado conserva solos e carbono. É uma resposta às secas e chuvas extremas, mas exige treinamento para agricultores. Sabia que essa prática pode aumentar a produção de alimentos em 20% em regiões vulneráveis?",
+    "palavras_chave": ["climate-smart agriculture", "emissões", "cerrado", "solos", "produtividade"]
+  },
+  {
+    "pergunta": "Como o aquecimento global afeta os pântanos?",
+    "resposta": "Pântanos, como o Pantanal brasileiro, sofrem com secas mais longas e incêndios causados pelo aquecimento. Isso destrói habitats de animais como onças e jacarés. A inundação irregular também prejudica o equilíbrio do ecossistema. Proteger pântanos exige menos desmatamento e mais fiscalização. Sabia que o Pantanal armazena carbono equivalente a 4 anos de emissões do Brasil?",
+    "palavras_chave": ["pântanos", "pantanal", "secas", "incêndios", "carbono"]
+  },
+  {
+    "pergunta": "O que é o conceito de ‘blue carbon’?",
+    "resposta": "Blue carbon é o carbono armazenado por ecossistemas marinhos, como manguezais, pântanos salgados e ervas marinhas. No Brasil, manguezais do Maranhão são grandes sumidouros de carbono. Proteger esses ecossistemas ajuda o clima e a biodiversidade. O desafio é a urbanização costeira. Sabia que o blue carbon pode ser até 10 vezes mais eficiente que florestas terrestres em armazenar carbono?",
+    "palavras_chave": ["blue carbon", "manguezais", "carbono", "biodiversidade", "costas"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam a produção de cacau?",
+    "resposta": "O aquecimento global prejudica o cacau por causa de temperaturas mais altas e chuvas irregulares, que afetam a polinização e o crescimento. Na Bahia, principal produtora do Brasil, safras já estão menores. Cultivar sob sombra e usar irrigação eficiente são soluções. Sabia que o chocolate pode ficar mais caro porque 70% do cacau mundial vem de áreas ameaçadas pelo clima?",
+    "palavras_chave": ["cacau", "temperaturas", "chuvas", "bahia", "agricultura"]
+  },
+  {
+    "pergunta": "O que é a Convenção de Ramsar e sua relação com o clima?",
+    "resposta": "A Convenção de Ramsar, de 1971, protege áreas úmidas, como pântanos e manguezais, que armazenam carbono e regulam o clima. No Brasil, o Pantanal é um sítio Ramsar. Preservar essas áreas reduz emissões e protege biodiversidade, mas a pressão por agricultura é um obstáculo. Sabia que áreas úmidas globais armazenam 30% do carbono terrestre?",
+    "palavras_chave": ["convenção de ramsar", "áreas úmidas", "pantanal", "carbono", "biodiversidade"]
+  },
+  {
+    "pergunta": "Como o aquecimento global impacta as zonas úmidas costeiras?",
+    "resposta": "Zonas úmidas costeiras, como estuários, sofrem com o aumento do nível do mar e tempestades mais fortes, que causam erosão e salinização. No Brasil, isso afeta áreas como a Baía de Todos os Santos. Essas zonas são vitais para peixes e proteção costeira. Restaurá-las é essencial. Sabia que zonas úmidas costeiras podem reduzir em 50% os danos de tempestades?",
+    "palavras_chave": ["zonas úmidas", "nível do mar", "erosão", "salinização", "restauração"]
+  },
+  {
+    "pergunta": "O que é o conceito de ‘carbon pricing’?",
+    "resposta": "Carbon pricing é cobrar por emissões de carbono, seja via impostos ou mercados de créditos, para incentivar a redução. A Suécia, por exemplo, usa um imposto sobre carbono com sucesso. No Brasil, isso poderia financiar energias limpas, mas enfrenta resistência de indústrias. Sabia que mais de 60 países já adotam algum tipo de carbon pricing?",
+    "palavras_chave": ["carbon pricing", "emissões", "impostos", "créditos", "energia limpa"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam a avifauna?",
+    "resposta": "O aquecimento global altera rotas de migração e habitats de pássaros, como o tuiuiú no Pantanal. Temperaturas mais altas e perda de florestas dificultam a reprodução e alimentação. No Brasil, espécies da Caatinga estão em declínio. Criar corredores ecológicos ajuda. Sabia que 14% das espécies de aves globais estão ameaçadas por mudanças climáticas?",
+    "palavras_chave": ["avifauna", "migração", "pantanal", "habitats", "biodiversidade"]
+  },
+  {
+    "pergunta": "O que é o conceito de ‘climate litigation’?",
+    "resposta": "Climate litigation é o uso de ações judiciais para responsabilizar governos ou empresas por falhas no combate às mudanças climáticas. No Brasil, processos contra desmatamento na Amazônia têm crescido. É uma ferramenta poderosa, mas depende de sistemas judiciais fortes. Sabia que um caso na Holanda em 2019 obrigou o governo a cortar emissões em 25%?",
+    "palavras_chave": ["climate litigation", "judicial", "desmatamento", "emissões", "responsabilidade"]
+  },
+  {
+    "pergunta": "Como o aquecimento global afeta a produção de arroz?",
+    "resposta": "O aquecimento global prejudica o arroz com temperaturas altas e inundações, que afetam o crescimento e a colheita. No Brasil, o Rio Grande do Sul, maior produtor, enfrenta safras instáveis. Variedades resistentes e irrigação eficiente são soluções. Sabia que a produção de arroz pode cair 10% por grau de aquecimento em regiões tropicais?",
+    "palavras_chave": ["arroz", "temperaturas", "inundações", "rio grande do sul", "agricultura"]
+  },
+  {
+    "pergunta": "O que é o conceito de ‘resilient cities’?",
+    "resposta": "Resilient cities são cidades projetadas para enfrentar impactos climáticos, como inundações ou ondas de calor, com infraestrutura adaptada. Recife, no Brasil, investe em barreiras contra o mar. Planejamento urbano verde e transporte público são chaves. Sabia que 70% das cidades globais já enfrentam impactos climáticos diretos?",
+    "palavras_chave": ["resilient cities", "inundações", "planejamento urbano", "recife", "adaptação"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam os recifes artificiais?",
+    "resposta": "Recifes artificiais, criados para restaurar ecossistemas marinhos, sofrem com o aquecimento e a acidificação dos oceanos, que dificultam a fixação de corais. No Brasil, projetos em Pernambuco enfrentam esses desafios. Escolher materiais resistentes ajuda, mas o problema é global. Sabia que recifes artificiais podem aumentar a biodiversidade marinha em até 20%?",
+    "palavras_chave": ["recifes artificiais", "acidificação", "corais", "pernambuco", "biodiversidade"]
+  },
+  {
+    "pergunta": "O que é o conceito de ‘climate adaptation finance’?",
+    "resposta": "Climate adaptation finance é o dinheiro direcionado para ajudar comunidades a se adaptarem aos impactos climáticos, como construir diques ou sistemas de irrigação. No Brasil, isso poderia ajudar o Nordeste contra secas. O desafio é que esses fundos são limitados e mal distribuídos. Sabia que apenas 25% do financiamento climático global vai para adaptação?",
+    "palavras_chave": ["climate adaptation finance", "adaptação", "secas", "nordeste", "financiamento"]
+  },
+  {
+    "pergunta": "Como o aquecimento global afeta os anfíbios?",
+    "resposta": "Anfíbios, como sapos e rãs, são sensíveis ao aquecimento porque dependem de ambientes úmidos. Na Amazônia, secas e calor reduzem seus habitats, enquanto fungos prosperam, matando espécies. Proteger florestas é essencial. Sabia que 40% das espécies de anfíbios estão ameaçadas de extinção, em parte pelo clima?",
+    "palavras_chave": ["anfíbios", "amazônia", "secas", "habitats", "extinção"]
+  },
+  {
+    "pergunta": "O que é o conceito de ‘climate neutrality’?",
+    "resposta": "Climate neutrality é alcançar um equilíbrio onde as emissões de gases estufa são totalmente compensadas por remoções, como reflorestamento. A Noruega, por exemplo, investe em carros elétricos e florestas. No Brasil, o etanol ajuda, mas o desmatamento atrapalha. Sabia que a União Europeia quer ser o primeiro bloco climate-neutral até 2050?",
+    "palavras_chave": ["climate neutrality", "emissões", "reflorestamento", "etanol", "união europeia"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam a apicultura?",
+    "resposta": "O aquecimento global prejudica as abelhas ao alterar o florescimento de plantas, reduzindo o néctar disponível. No Brasil, apicultores no Sul notam menos mel por causa de chuvas irregulares. Isso ameaça a polinização e a produção de alimentos. Proteger habitats é crucial. Sabia que abelhas polinizam 70% das culturas agrícolas globais?",
+    "palavras_chave": ["apicultura", "abelhas", "polinização", "chuvas", "habitats"]
+  },
+  {
+    "pergunta": "O que é o conceito de ‘climate justice’?",
+    "resposta": "Climate justice reconhece que as mudanças climáticas afetam mais os grupos vulneráveis, como comunidades pobres e indígenas, que menos contribuem para o problema. No Brasil, povos da Amazônia sofrem com desmatamento, mas emitem pouco CO2. Soluções incluem dar voz a esses grupos em políticas climáticas. Sabia que mulheres em regiões pobres são 14 vezes mais afetadas por desastres climáticos?",
+    "palavras_chave": ["climate justice", "vulnerabilidade", "amazônia", "desmatamento", "políticas"]
+  },
+  {
+    "pergunta": "Como o aquecimento global afeta os corais brasileiros?",
+    "resposta": "Os corais brasileiros, como os de Abrolhos, sofrem com o aquecimento dos oceanos, que causa branqueamento, e com a acidificação, que impede o crescimento. Isso afeta a pesca e o turismo. Proteger áreas marinhas e reduzir emissões são passos importantes. Sabia que Abrolhos é um dos maiores bancos de corais do Atlântico Sul?",
+    "palavras_chave": ["corais", "branqueamento", "acidificação", "abrolhos", "pesca"]
+  }
+]

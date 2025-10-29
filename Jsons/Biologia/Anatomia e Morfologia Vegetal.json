@@ -1,0 +1,507 @@
+[
+  {
+    "pergunta": "Qual a diferença básica entre raiz e caule?",
+    "resposta": "Essa é uma pergunta fundamental! A principal diferença está na presença de nós e gemas. O caule possui nós, de onde saem folhas e gemas, que são brotos com potencial de crescimento. A raiz, por sua vez, não tem nós, nem gemas, nem folhas. Outra diferença crucial é que a raiz geralmente cresce em direção à gravidade, enquanto o caule cresce contra ela, em busca de luz. Sabia que existem exceções, como as raízes aéreas de algumas orquídeas, que fazem fotossíntese, uma função típica do caule?",
+    "palavras_chave": ["raiz", "caule", "nós", "gemas", "geotropismo"]
+  },
+  {
+    "pergunta": "O que são os meristemas e por que são tão importantes para a planta?",
+    "resposta": "Os meristemas são os tecidos de crescimento das plantas, equivalentes às nossas células-tronco. Eles são formados por células que se dividem ativamente, permitindo que a planta cresça em comprimento e em espessura. O meristema apical, localizado nas pontas de caules e raízes, é responsável pelo crescimento longitudinal. Já o meristema lateral, como o câmbio vascular, permite que a planta engrosse. Sem os meristemas, uma planta não poderia se desenvolver nem se reparar após uma injúria.",
+    "palavras_chave": ["meristema", "crescimento", "células", "câmbio", "apical"]
+  },
+  {
+    "pergunta": "Para que servem os tricomas presentes nas folhas?",
+    "resposta": "Os tricomas são aqueles pelinhos que a gente vê em muitas folhas, e eles têm funções incrivelmente diversificadas! Eles podem proteger a planta contra a perda excessiva de água, criar uma barreira física contra insetos herbívoros, refletir o excesso de luz solar e até mesmo secretar substâncias pegajosas ou tóxicas para afastar predadores. Em algumas plantas, como a tomate, os tricomas são uma defesa importantíssima. Sabia que no algodão, a fibra têxtil que usamos é formada por tricomas epidérmicos extremamente alongados da semente?",
+    "palavras_chave": ["tricomas", "folha", "proteção", "epiderme", "defesa"]
+  },
+  {
+    "pergunta": "O que é a lenticela que vemos em alguns caules?",
+    "resposta": "Se você já observou um galho de árvore, deve ter notado uns pontinhos ou risquinhos salientes. Essas são as lenticelas! Elas são poros formados no ritidoma, a casca do caule, e sua função é permitir as trocas gasosas entre os tecidos internos da planta e a atmosfera. Enquanto as folhas têm os estômatos para essa função, o caule lenhoso tem as lenticelas. Elas são essenciais para a respiração celular dos tecidos internos, garantindo que o oxigênio entre e o gás carbônico saia.",
+    "palavras_chave": ["lenticela", "caule", "troca gasosa", "ritidoma", "respiração"]
+  },
+  {
+    "pergunta": "Como as plantas carnívoras modificaram suas folhas para capturar insetos?",
+    "resposta": "As plantas carnívoras são um exemplo espetacular de adaptação morfológica! Elas evoluíram em solos pobres em nutrientes, então passaram a obtê-los de outra forma. A folha, que normalmente faz fotossíntese, foi transformada em armadilha. Na Dionéia, a folha se tornou uma armadilha de aço com gatilhos sensíveis. Já a Nepenthes desenvolveu uma folha em forma de jarro, cheio de líquido digestivo. A Drosera possui folhas com tentáculos pegajosos. São modificações profundas de uma mesma estrutura para atender a uma nova necessidade ecológica.",
+    "palavras_chave": ["planta carnívora", "folha", "adaptação", "armadilha", "nutrição"]
+  },
+  {
+    "pergunta": "O que é xilema e qual sua função?",
+    "resposta": "O xilema, também conhecido como lenho, é o tecido de condução da seiva bruta – basicamente, água e sais minerais que vão da raiz até as folhas. Ele é formado por células mortas e ocas, que se organizam formando tubos contínuos, perfeitos para o transporte. A força que puxa a água para cima é principalmente a transpiração nas folhas. Além de conduzir, o xilema também dá suporte mecânico à planta. A madeira das árvores, por exemplo, é composta principalmente por xilema secundário.",
+    "palavras_chave": ["xilema", "seiva bruta", "condução", "água", "lenho"]
+  },
+  {
+    "pergunta": "E o floema, o que transporta?",
+    "resposta": "O floema é o outro tecido condutor, mas com uma função complementar ao xilema. Enquanto o xilema leva água e sais para cima, o floema transporta a seiva elaborada, que é rica em açúcares orgânicos produzidos pela fotossíntese nas folhas. Essa seiva é distribuída para todas as partes da planta que não fazem fotossíntese, como raízes, frutos e brotos em crescimento. Diferente do xilema, as células do floema são vivas. É um sistema de distribuição de alimento para a planta toda.",
+    "palavras_chave": ["floema", "seiva elaborada", "açúcares", "fotossíntese", "condução"]
+  },
+  {
+    "pergunta": "Por que as folhas de algumas plantas mudam de cor no outono?",
+    "resposta": "Esse espetáculo de cores é um processo de reciclagem! No outono, com a redução de luz e temperatura, a planta percebe que é caro manter as folhas. Ela então começa a quebrar a clorofila, o pigmento verde responsável pela fotossíntese, e a reciclar seus valiosos nutrientes, como o nitrogênio. À medida que o verde some, outros pigmentos que já estavam lá, mas eram mascarados, se revelam: os carotenoides (amarelo e laranja) e as antocianinas (vermelho e roxo). No final, a planta sela o ponto de ligação do pecíolo e a folha cai.",
+    "palavras_chave": ["folha", "outono", "clorofila", "pigmentos", "senescência"]
+  },
+  {
+    "pergunta": "O que são os anéis de crescimento de uma árvore e o que eles indicam?",
+    "resposta": "Cortar um tronco e ver aqueles anéis concêntricos é como ler o diário da árvore! Cada anel corresponde a um ano de vida. Eles se formam porque o câmbio vascular, tecido que produz novos vasos, tem uma atividade sazonal. Na primavera/verão, com mais recursos, forma vasos largos e de parede fina (madeira inicial, mais clara). No outono/inverno, forma vasos menores e de parede espessa (madeira tardia, mais escura). O contraste entre essas duas camadas forma o anel. Anéis largos indicam anos bons; anéis estreitos, anos de seca ou estresse. A dendrocronologia é a ciência que estuda isso.",
+    "palavras_chave": ["anéis de crescimento", "câmbio vascular", "dendrocronologia", "tronco", "sazonalidade"]
+  },
+  {
+    "pergunta": "Como as raízes absorvem água do solo?",
+    "resposta": "A absorção é um processo sofisticado que ocorre principalmente na região dos pêlos absorventes, minúsculas extensões das células da epiderme da raiz que aumentam drasticamente a superfície de contato. A água entra inicialmente por osmose, porque a concentração de solutos dentro da raiz é geralmente maior que no solo. Depois de entrar nos pêlos absorventes, a água segue um gradiente de potencial hídrico, passando de célula em célula pelo córtex da raiz até chegar ao xilema, que a levará para o resto da planta. É um fluxo contínuo e essencial.",
+    "palavras_chave": ["raiz", "absorção", "pêlos absorventes", "osmose", "xilema"]
+  },
+  {
+    "pergunta": "O que é e para que serve o parênquima clorofiliano?",
+    "resposta": "O parênquima clorofiliano, ou mesófilo, é o tecido das folhas onde a mágica da fotossíntese acontece. São células cheias de cloroplastos, as organelas que contêm a clorofila. Na maioria das plantas, ele é dividido em parênquima paliçádico, com células alongadas e justapostas, e parênquima lacunoso, com células arredondadas e espaços cheios de ar. Esses espaços são cruciais para as trocas gasosas: o CO2 entra, dissolve-se na água das paredes celulares e é usado na fotossíntese. É a fábrica de alimento da planta.",
+    "palavras_chave": ["parênquima", "clorofila", "fotossíntese", "mesófilo", "cloroplasto"]
+  },
+  {
+    "pergunta": "Por que as plantas do deserto, como os cactos, têm caules tão grossos e folhas transformadas em espinhos?",
+    "resposta": "Tudo é uma estratégia brilhante para economizar água! Os caules grossos e suculentos funcionam como reservatórios, armazenando grandes quantidades de água para os longos períodos de seca. Já a transformação das folhas em espinhos é genial: reduz drasticamente a superfície de transpiração, evitando a perda de água. E os espinhos ainda oferecem uma defesa contra animais sedentos. A fotossíntese, que normalmente seria feita pelas folhas, é transferida para o caule verde. É uma otimização total da morfologia para um ambiente extremo.",
+    "palavras_chave": ["cacto", "adaptação", "deserto", "espinhos", "suculenta"]
+  },
+  {
+    "pergunta": "O que são estômatos e como funcionam?",
+    "resposta": "Os estômatos são minúsculas aberturas ou poros localizados principalmente na epiderme das folhas. Eles são formados por duas células-guarda, que controlam a abertura e o fechamento do poro. Quando as células-guarda estão túrgidas, cheias de água, o estômato se abre, permitindo a entrada de CO2 para a fotossíntese e a saída de oxigênio e vapor d'água. Se a planta estiver com déficit hídrico, as células-guarda murcham e fecham o poro, conservando água. É um balanço constante: abrir para comer (fotossíntese) ou fechar para não morrer de sede.",
+    "palavras_chave": ["estômato", "folha", "troca gasosa", "células-guarda", "transpiração"]
+  },
+  {
+    "pergunta": "Qual a função da coifa na ponta da raiz?",
+    "resposta": "A coifa é uma estrutura em forma de dedal que protege a ponta delicadíssima da raiz, o meristema apical, enquanto ela se força através do solo. Imagine a raiz crescendo e esfregando contra partículas de terra, areia e pedras. A coifa, com suas células externas que produzem um muco lubrificante, absorve esse atrito e protege as células meristemáticas, que são vitais para o crescimento. Conforme a raiz avança, as células externas da coifa são esfoliadas e constantemente repostas por dentro. É um capacete de proteção em constante renovação.",
+    "palavras_chave": ["coifa", "raiz", "meristema", "proteção", "crescimento"]
+  },
+  {
+    "pergunta": "O que são brácteas e em que plantas as vemos de forma mais evidente?",
+    "resposta": "Brácteas são folhas modificadas, muitas vezes coloridas e vistosas, que têm a função de atrair polinizadores. Elas são confundidas com pétalas, mas têm origem foliar. O exemplo mais clássico é a Primavera ou Buganvília – aquelas 'flores' coloridas rosa, roxo ou laranja são, na verdade, brácteas. As flores verdadeiras são aquelas pequeninas e brancas no centro. Outro exemplo famoso é o do Antúrio e da Poinsétia, a 'Flor-do-Natal'. Suas brácteas vermelhas são muito mais chamativas que as flores reais, cumprindo perfeitamente o papel de atração visual.",
+    "palavras_chave": ["brácteas", "folha modificada", "polinização", "atração", "buganvília"]
+  },
+  {
+    "pergunta": "Como podemos distinguir uma folha simples de uma folha composta?",
+    "resposta": "A chave está no pecíolo e no limbo. Uma folha simples possui um único pecíolo (o cabinho) que se liga ao caule, e um único limbo, que pode ser inteiro ou recortado, mas não se divide em folíolos independentes. Já uma folha composta tem o limbo dividido em várias unidades menores, os folíolos, cada um com seu próprio peciólulo. Um truque: procure uma gema na base. Na folha composta, você só encontrará uma gema na base do pecíolo principal. Nos folíolos, não há gemas. Pense no mamão (folha simples) e no roseira (folha composta).",
+    "palavras_chave": ["folha simples", "folha composta", "folíolos", "pecíolo", "limbo"]
+  },
+  {
+    "pergunta": "O que é a nervura de uma folha e que funções ela tem?",
+    "resposta": "As nervuras são o sistema de 'veias' da folha. Elas são, na verdade, feixes vasculares – extensões do xilema e do floema que se ramificam a partir do caule. Suas funções são duplas: primeiro, conduzir a seiva bruta (pelo xilema) para as células do mesófilo e trazer de volta os açúcares produzidos (pelo floema). Segundo, e tão importante quanto, é a função de sustentação. As nervuras formam uma estrutura rígida que mantém o limbo foliar aberto e exposto à luz, como uma armação. O padrão das nervuras (reticulado, paralelo) é uma característica usada na identificação de plantas.",
+    "palavras_chave": ["nervura", "folha", "feixe vascular", "sustentação", "condução"]
+  },
+  {
+    "pergunta": "O que são plantas epífitas? Elas são parasitas?",
+    "resposta": "Essa é uma confusão comum! As plantas epífitas, como muitas orquídeas e bromélias, usam outras plantas apenas como suporte físico, como uma prateleira. Elas não retiram nutrientes do hospedeiro. Suas raízes estão no ar, e elas absorvem água da chuva e nutrientes da matéria orgânica que se acumula em suas bases. Já as plantas parasitas, como a erva-de-passarinho, possuem estruturas especializadas chamadas haustórios, que penetram no caule do hospedeiro e roubam sua seiva. Portanto, epífita é uma relação de comensalismo (só usa o apoio), não de parasitismo.",
+    "palavras_chave": ["epífita", "parasita", "orquídea", "bromélia", "suporte"]
+  },
+  {
+    "pergunta": "O que são e para que servem os aerênquimas?",
+    "resposta": "Os aerênquimas são tecidos esponjosos cheios de grandes espaços de ar. Eles são uma adaptação fantástica para plantas que vivem em ambientes alagados, como os manguezais e os aguapés. Esses espaços de ar funcionam como 'snorkels', permitindo que o oxigênio proveniente da fotossíntese nas partes aéreas seja transportado e difundido para as raízes, que estão enterradas em um solo sem oxigênio. Sem o aerênquima, as raízes morreriam por asfixia. É um sistema de ventilação interna que garante a sobrevivência em condições de hipoxia.",
+    "palavras_chave": ["aerênquima", "parênquima", "oxigênio", "raiz", "alagado"]
+  },
+  {
+    "pergunta": "Como as gavinhas de um maracujazeiro conseguem se enrolar em um suporte?",
+    "resposta": "As gavinhas são caules ou folhas modificadas com um tigmotropismo incrivelmente sensível. O tigmotropismo é o crescimento em resposta a um estímulo tátil. Quando a ponta da gavinha toca em um suporte, como um arame ou galho, as células do lado oposto ao toque crescem mais rápido que as do lado que tocou. Esse crescimento diferencial faz com que a gavinha se curve e se enrole firmemente ao redor do suporte. É um movimento relativamente lento, mas muito eficaz para dar suporte e permitir que a planta trepadeira alcance o dossel em busca de luz.",
+    "palavras_chave": ["gavinha", "tigmotropismo", "caule modificado", "trepadeira", "suporte"]
+  },
+  {
+    "pergunta": "O que é um tubérculo? A batata-inglesa é uma raiz ou um caule?",
+    "resposta": "Essa é uma pegadinha clássica! A batata-inglesa é um tubérculo, e tubérculos são caules subterrâneos modificados, não raízes! Como identificar? Os 'olhos' da batata são, na verdade, as gemas. Delas podem brotar novos ramos. Além disso, a organização dos feixes vasculares no tubérculo é típica de caule. A função do tubérculo é armazenar amido, um carboidrato de reserva, para que a planta possa rebrotar na estação seguinte. Então, quando você come uma batata, está comendo um caule cheio de energia. Já a batata-doce, sim, é uma raiz tuberosa.",
+    "palavras_chave": ["tubérculo", "batata", "caule", "reserva", "gema"]
+  },
+  {
+    "pergunta": "O que diferencia uma gimnosperma de uma angiosperma na estrutura reprodutiva?",
+    "resposta": "A diferença crucial está no local de desenvolvimento da semente. O nome já entrega: 'Gimnosperma' vem do grego 'gimnos' (nu) e 'sperma' (semente). Isso significa que suas sementes não estão protegidas por um fruto; elas se desenvolvem 'nuas' na superfície de escamas, geralmente organizadas em cones, como os pinhões no pinheiro. Já as 'Angiospermas' têm a semente 'angio' (encerrada) dentro de um ovário que se desenvolverá em um fruto. A flor das angiospermas é uma estrutura complexa para atrair polinizadores e formar frutos, uma inovação evolutiva de enorme sucesso.",
+    "palavras_chave": ["gimnosperma", "angiosperma", "semente", "fruto", "cone"]
+  },
+  {
+    "pergunta": "Qual a função da cutícula nas folhas?",
+    "resposta": "A cutícula é uma camada cerosa, impermeável, que recobre a epiderme das folhas e caules jovens. Pense nela como o verniz ou a cera de um carro, mas com uma função vital: evitar a perda descontrolada de água por transpiração. Em ambientes secos, plantas possuem cutículas mais espessas. Além disso, a cutícula é a primeira barreira de defesa contra a entrada de patógenos, como fungos e bactérias, e pode também refletir o excesso de luz ultravioleta. É um revestimento multifuncional essencial para a vida terrestre das plantas.",
+    "palavras_chave": ["cutícula", "folha", "cera", "impermeável", "transpiração"]
+  },
+  {
+    "pergunta": "O que são plantas dioicas e monoicas?",
+    "resposta": "Esses termos descrevem a distribuição dos sexos na planta. Plantas monoicas possuem flores masculinas e flores femininas no mesmo indivíduo. É o caso do milho: a espiga é a inflorescência feminina e o pendão, a masculina. Já as plantas dioicas têm os sexos separados em indivíduos distintos. Existem plantas 'machos', que só produzem flores com pólen, e plantas 'fêmeas', que só produzem flores que formarão frutos e sementes. Um exemplo clássico é o mamoeiro. Sabia que o kiwi também é dioico? Por isso, para ter frutos, é necessário plantar um macho e várias fêmeas juntas.",
+    "palavras_chave": ["monoica", "dioica", "flor masculina", "flor feminina", "sexo"]
+  },
+  {
+    "pergunta": "O que é um fruto partenocárpico?",
+    "resposta": "É um fruto que se desenvolve sem que tenha ocorrido a fecundação do óvulo. Como não há fecundação, esses frutos geralmente não possuem sementes, ou possuem sementes pequenas e estéreis. É um processo induzido naturalmente ou pelo homem. A banana que comemos é um exemplo perfeito – são frutos partenocárpicos triploides, por isso não têm sementes. Outros exemplos são algumas variedades de uva, laranja, abacaxi e pepino. Do ponto de vista da planta, pode parecer um desperdício de energia, mas para nós, consumidores, é uma grande conveniência!",
+    "palavras_chave": ["fruto", "partenocárpico", "semente", "fecundação", "banana"]
+  },
+  {
+    "pergunta": "O que são os hidatódios e qual sua função?",
+    "resposta": "Os hidatódios são estruturas especiais localizadas geralmente nas bordas ou nas pontas das folhas, responsáveis por um processo cham de gutação. Em condições onde o solo está muito úmido e a transpiração é baixa, como no início da manhã, a pressão da raiz força a saída de água líquida pelos hidatódios. É comum ver gotinhas saindo das folhas de plantas como o copo-de-leite ou de mudas de morango. Diferente da transpiração, que libera vapor, a gutação expele água líquida com pequenas quantidades de sais minerais dissolvidos.",
+    "palavras_chave": ["hidatódio", "gutação", "folha", "pressão radicular", "água"]
+  },
+  {
+    "pergunta": "Como as plantas aquáticas flutuantes, como o aguapé, conseguem flutuar?",
+    "resposta": "O segredo está no aerênquima, um tecido de preenchimento com enormes espaços de ar. Esse tecido esponjoso torna o pecílio foliar e as folhas extremamente leves, conferindo flutuabilidade. Além disso, a cutícula dessas plantas é muitas vezes hidrofóbica, impedindo que a água molhe a superfície e puxe a planta para baixo. O aguapé é uma mestra na adaptação aquática: suas raízes absorvem nutrientes diretamente da água, e a planta se reproduz assexuadamente com incrível velocidade, formando grandes tapetes verdes.",
+    "palavras_chave": ["plantas aquáticas", "aguapé", "aerênquima", "flutuação", "adaptação"]
+  },
+  {
+    "pergunta": "O que é o súber e de onde ele vem?",
+    "resposta": "O súber é o que popularmente chamamos de cortiça. Ele é um tecido de revestimento secundário, produzido para fora pelo felogênio, um meristema lateral também conhecido como câmbio da casca. O súber é formado por células mortas na maturidade, com suas paredes impregnadas por suberina, uma substância gordurosa e impermeável. Sua função principal é isolar e proteger o caule e as raízes mais velhas contra a perda de água, oscilações de temperatura e ataques de microorganismos. Sabia que a cortiça da rolha de vinho é retirada da casca do Sobreiro, uma árvore nativa da região do Mediterrâneo?",
+    "palavras_chave": ["súber", "cortiça", "felogênio", "proteção", "suberina"]
+  },
+  {
+    "pergunta": "Por que as folhas de algumas plantas fecham quando tocamos, como a sensitiva?",
+    "resposta": "A Mimosa pudica, ou sensitiva, tem uma resposta de defesa espetacular chamada sismonastia, um movimento nástico em reação ao toque. O toque desencadeia um potencial de ação, um sinal elétrico que se espalha rapidamente. Isso causa uma rápida perda de água (e consequente perda de turgor) em células especializadas na base dos folíolos e do pecíolo, fazendo com que eles se dobrem para baixo. O movimento assusta insetos herbívoros e, em dias muito quentes, também reduz a superfície exposta ao sol, minimizando a perda de água.",
+    "palavras_chave": ["sensitiva", "sismonastia", "movimento", "defesa", "turgor"]
+  },
+  {
+    "pergunta": "O que são plantas hemiparasitas?",
+    "resposta": "São plantas que realizam fotossíntese, mas roubam água e nutrientes minerais de seu hospedeiro. Elas são 'parasitas pela metade'. Um exemplo clássico é o visco, uma planta aérea que conecta-se aos galhos de árvores através de estruturas de absorção chamadas haustórios. Como o visco tem clorofila e faz sua própria fotossíntese, ele não depende totalmente do hospedeiro para o carbono, apenas para a água e os sais. Isso o diferencia das holoparasitas, como a cuscuta, que não faz fotossíntese e retira todos os seus nutrientes da planta hospedeira.",
+    "palavras_chave": ["hemiparasita", "haustório", "visco", "fotossíntese", "parasitismo"]
+  },
+  {
+    "pergunta": "Qual a diferença entre um bulbo, como o da cebola, e um tubérculo, como o da batata?",
+    "resposta": "Ambos são órgãos de reserva, mas sua origem é diferente! O bulbo é um caule subterrâneo extremamente reduzido, chamado de prato, de onde saem folhas modificadas, carnudas e sobrepostas (os catáfilos) que armazenam nutrientes. A cebola que comemos é composta por essas folhas. Já o tubérculo, como a batata-inglesa, é um caule subterrâneo que inchou para armazenar amido, e seus 'olhos' são as gemas. Resumindo: bulbo = caule + folhas de reserva. Tubérculo = caule de reserva.",
+    "palavras_chave": ["bulbo", "tubérculo", "cebola", "batata", "reserva"]
+  },
+  {
+    "pergunta": "O que é o látex que sai de algumas plantas quando cortadas?",
+    "resposta": "O látex é uma seiva especializada, uma emulsão complexa (geralmente branca, mas pode ser colorida) que circula em vasos laticíferos. Ele contém uma mistura de substâncias como alcaloides, terpenos, enzimas e hidrocarbonetos. Sua função principal é a defesa. Quando a planta é ferida, o látex escorre e coagula rapidamente, selando o ferimento e impedindo a entrada de patógenos. Além disso, seu sabor amargo e composição tóxica afasta herbívoros. Sabia que a borracha natural, usada para fazer pneus, é obtida do látex da seringueira (Hevea brasiliensis), e que a morfina é extraída do látex da papoula?",
+    "palavras_chave": ["látex", "laticíferos", "defesa", "seiva", "borracha"]
+  },
+  {
+    "pergunta": "Como as raízes aéreas das orquídeas absorvem água e nutrientes?",
+    "resposta": "As raízes aéreas das orquídeas epífitas são revestidas por um tecido esponjoso e morto chamado velame. Quando chove ou há orvalho, o velame atua como uma esponja, absorvendo e retendo a água. Depois, a água é transferida para o córtex interno da raiz e, então, para o xilema. Os nutrientes são obtidos a partir da matéria orgânica em decomposição que se acumula ao redor das raízes, muitas vezes com a ajuda de fungos micorrízicos. Essas raízes também realizam fotossíntese, por isso têm uma coloração esverdeada.",
+    "palavras_chave": ["orquídea", "raiz aérea", "velame", "epífita", "absorção"]
+  },
+  {
+    "pergunta": "O que são os nectários extraflorais?",
+    "resposta": "São glândulas que produzem néctar, mas que ficam fora da flor, geralmente no pecíolo das folhas ou no caule. Diferente do néctar floral, que atrai polinizadores, o néctar extrafloral tem uma função de defesa indireta. Ele atrai formigas e outros insetos predadores ou parasitoides. Esses insetos, ao se alimentarem do néctar, acabam defendendo a planta contra herbívoros menores, criando uma relação mutualística. É comum em plantas como o feijoeiro, o ingá e a samambaia. A planta 'paga' com açúcar por um serviço de segurança.",
+    "palavras_chave": ["nectário", "extrafloral", "formiga", "defesa", "mutualismo"]
+  },
+  {
+    "pergunta": "Por que as folhas de algumas plantas são variegadas (com manchas brancas ou amarelas)?",
+    "resposta": "A variegação é geralmente causada por uma mutação que afeta algumas células, impedindo a produção de cloroplastos ou clorofila nessas regiões. Assim, surgem manchas brancas, amarelas ou creme. Do ponto de vista ornamental, é muito valorizada. Porém, para a planta, pode ser uma desvantagem, já que as áreas sem clorofila não realizam fotossíntese. Por isso, muitas plantas variegadas são mais frágeis e crescem mais devagar que suas versões totalmente verdes. Elas precisam ser propagadas assexuadamente (por estaca, por exemplo) para manter o padrão.",
+    "palavras_chave": ["variegada", "folha", "clorofila", "mutação", "cloroplasto"]
+  },
+  {
+    "pergunta": "O que é um rizoma e como ele funciona?",
+    "resposta": "O rizoma é um caule modificado que cresce horizontalmente, geralmente subterrâneo ou rente ao solo. Diferente de uma raiz, ele possui nós, internós, gemas e folhas reduzidas (escamas). A partir das gemas, ele pode produzir novos brotos aéreos, permitindo que a planta se espalhe e forme colônias. É um órgão de reserva e de propagação vegetativa. Exemplos clássicos são o gengibre (que nós comemos), a bananeira, a samambaia e o capim. Quando você planta um pedaço de gengibre com uma gema, está plantando um rizoma que dará origem a uma nova planta.",
+    "palavras_chave": ["rizoma", "caule", "subterrâneo", "propagação", "gengibre"]
+  },
+  {
+    "pergunta": "Como as plantas suportam o peso de seus próprios galhos e folhas?",
+    "resposta": "O suporte mecânico vem principalmente de dois tecidos: o colênquima e o esclerênquima. O colênquima é um tecido de sustentação de células vivas, com paredes espessadas de forma irregular. Ele é comum em órgãos em crescimento, como caules jovens e nervuras de folhas. Já o esclerênquima é formado por células mortas na maturidade, com paredes extremamente espessas e lignificadas. São as fibras que dão rigidez e o esclerídeos, que formam cascas de nozes e caroços. Nas árvores, o xilema secundário (a madeira) é o principal responsável pelo suporte.",
+    "palavras_chave": ["colênquima", "esclerênquima", "sustentação", "lignina", "madeira"]
+  },
+  {
+    "pergunta": "O que é a abscisão foliar e como ela acontece?",
+    "resposta": "A abscisão é o processo controlado de queda da folha. Ele é fundamental para plantas decíduas, que perdem as folhas em estações desfavoráveis. O processo inicia com a senescência, onde a planta recicla nutrientes valiosos da folha. Em seguida, forma-se na base do pecíolo uma zona de abscisão, com uma camada de separação (cujas células se dissolvem) e uma camada de proteção (que forma a cicatriz foliar). Hormônios como o etileno estimulam a abscisão, enquanto a auxina a inibe. É um suicídio celular programado para o bem da planta como um todo.",
+    "palavras_chave": ["abscisão", "queda", "folha", "senescência", "pecíolo"]
+  },
+  {
+    "pergunta": "Por que as plantas do gênero Ficus, como a gameleira, formam raízes tão impressionantes?",
+    "resposta": "Essas raízes aéreas e vigorosas são uma adaptação para uma vida que começa como epífita. Muitos Ficus germinam no alto de outras árvores. Para captar mais nutrientes e garantir estabilidade, eles emitem raízes aéreas que crescem em direção ao solo. Quando atingem o solo, essas raízes engrossam muito, tornando-se verdadeiros pilares de sustentação. Esse crescimento pode levar ao estrangulamento da árvore hospedeira original. A famosa 'Figueira-de-Bengala' na verdade é formada por um único indivíduo cujas raízes-pilares criam a ilusão de um pequeno bosque.",
+    "palavras_chave": ["ficus", "raiz aérea", "estrangular", "epífita", "sustentação"]
+  },
+  {
+    "pergunta": "O que são os estolões e como as plantas os usam para se espalhar?",
+    "resposta": "Estolões são caules rastejantes, finos e longos, que crescem horizontalmente acima do solo. Eles são uma estratégia de propagação vegetativa. Em certos intervalos (nós), o estolão emite raízes e um novo broto aéreo, que se tornará uma planta independente. É uma forma rápida de a planta colonizar o território ao seu redor. O exemplo mais conhecido é o morangueiro: aqueles 'cabinhos' que saem da planta-mãe e geram mudinhas são estolões. A grama-bermuda também se espalha agressivamente por meio de estolões.",
+    "palavras_chave": ["estolão", "caule", "propagação", "rastejante", "morangueiro"]
+  },
+  {
+    "pergunta": "Como as folhas de pinheiros (acículas) são adaptadas para economizar água?",
+    "resposta": "As acículas dos pinheiros são folhas finíssimas e com formato de agulha, o que já reduz muito a superfície de transpiração. Além disso, elas possuem uma cutícula espessa, estômatos rebaixados (que criam uma câmara de ar redutora da perda de água) e, muitas vezes, estão recobertas por uma resina. O mesófilo é compacto. Todas essas adaptações minimizam a perda de água por transpiração, permitindo que as gimnospermas, como os pinheiros, consigam sobreviver em invernos rigorosos, quando a água do solo está congelada e indisponível.",
+    "palavras_chave": ["acícula", "pinheiro", "adaptação", "transpiração", "gimnosperma"]
+  },
+  {
+    "pergunta": "O que é o câmbio vascular e qual seu papel no crescimento das plantas?",
+    "resposta": "O câmbio vascular é um meristema lateral, uma fina camada de células que se divide ativamente, localizada entre o xilema e o floema. Ele é o responsável pelo crescimento em espessura (crescimento secundário) de caules e raízes. Para o lado de dentro, o câmbio produz novo xilema secundário (a madeira). Para o lado de fora, produz novo floema secundário. É esse acúmulo anual de xilema secundário que forma os anéis de crescimento nas árvores. Sem o câmbio vascular, as plantas seriam forever jovens e fininhas, como as monocotiledôneas que não o possuem.",
+    "palavras_chave": ["câmbio vascular", "crescimento secundário", "xilema", "floema", "meristema"]
+  },
+  {
+    "pergunta": "Por que as flores da vitória-régia são tão grandes e fortes?",
+    "resposta": "A vitória-régia é uma planta aquática da Amazônia, e suas flores gigantes são uma adaptação para a polinização por besouros. Elas precisam ser grandes e robustas para suportar o peso desses polinizadores. Além do tamanho, a flor tem uma estratégia térmica fascinante: ela gera calor (termogênese) e emite um forte odor para atrair os besouros. A flor abre à noite, é branca e perfumada, aquecendo-se. No dia seguinte, fecha-se, aprisionando os besouros para garantir a polinização, e reabre à noite, agora com uma cor rosada, sinalizando que o serviço já foi feito.",
+    "palavras_chave": ["vitória-régia", "flor", "polinização", "besouro", "termogênese"]
+  },
+  {
+    "pergunta": "O que são os pneumatóforos dos manguezais?",
+    "resposta": "Os pneumatóforos são raízes respiratórias, uma adaptação vital para as árvores do mangue, que vivem em solo alagado e pobre em oxigênio. Essas raízes crescem para cima, saindo da lama, como se fossem canudinhos. Elas possuem lenticelas e um aerênquima bem desenvolvido, permitindo a captação de oxigênio diretamente do ar. Esse oxigênio é então transportado para as raízes subterrâneas. É um sistema de respiração emergencial. O mangue-vermelho (Rhizophora mangle) tem raízes-escora, enquanto o mangue-negro (Avicennia) é conhecido por seus pneumatóforos que parecem espetinhos saindo da lama.",
+    "palavras_chave": ["pneumatóforo", "mangue", "raiz", "respiração", "adaptação"]
+  },
+  {
+    "pergunta": "Como as sementes de dente-de-leão se espalham pelo vento?",
+    "resposta": "A estrutura que parece um paraquedas no dente-de-leão não é a semente em si, mas sim uma modificação do cálice da flor, chamada de papus. O papus é formado por inúmeros pêlos que aumentam drasticamente a superfície e oferecem grande resistência ao ar. Isso faz com que a semente, que é minúscula e presa à base do papus, seja carregada por correntes de ar a distâncias impressionantes. É uma dispersão anemocórica extremamente eficiente. A planta investe numa estrutura que permite que sua prole colonize novos territórios sem a ajuda de animais.",
+    "palavras_chave": ["dente-de-leão", "papus", "dispersão", "vento", "semente"]
+  },
+  {
+    "pergunta": "O que é um cladódio? Dê um exemplo.",
+    "resposta": "Um cladódio é um caule modificado que assume a forma e a função de uma folha. Ele é achatado e fotossintetizante, enquanto as folhas verdadeiras podem estar reduzidas a espinhos ou escamas. O exemplo mais famoso é o do cacto Opuntia, o popular 'palma' ou 'figo-da-índia'. Aqueles 'discos' achatados e suculentos são cladódios. Eles armazenam água e realizam fotossíntese. As folhas verdadeiras são os pequenos espinhos que surgem nas aréolas quando o cladódio é jovem, mas logo caem. Outro exemplo é a Salsa-de-Jardim (Asparagus densiflorus), cuja parte verde e 'folhosa' que vemos são, na verdade, cladódios.",
+    "palavras_chave": ["cladódio", "caule", "modificado", "opuntia", "fotossíntese"]
+  },
+  {
+    "pergunta": "Por que as folhas novas de muitas plantas são avermelhadas ou arroxeadas?",
+    "resposta": "Essa coloração é devido à presença de pigmentos chamados antocianinas. Elas atuam como um 'protetor solar' natural para os tecidos jovens e delicados. Enquanto o aparato fotossintético (cloroplastos e clorofila) ainda não está totalmente formado e funcional, as antocianinas protegem as folhas dos danos causados pelo excesso de luz ultravioleta. À medida que a folha amadurece e produz mais clorofila, o verde acaba predominando e mascarando a cor das antocianinas. É uma estratégia de proteção temporária muito eficaz.",
+    "palavras_chave": ["folha nova", "antocianina", "pigmento", "proteção", "luz ultravioleta"]
+  },
+  {
+    "pergunta": "O que são plantas esciafílas e heliófilas?",
+    "resposta": "Esses termos descrevem a adaptação das plantas à intensidade de luz. Plantas esciafílas, ou de sombra, são adaptadas a ambientes com baixa luminosidade. Elas geralmente têm folhas grandes, finas e mais escuras, com uma alta concentração de clorofila para capturar o máximo de luz possível. Já as plantas heliófilas, ou de sol, são adaptadas a ambientes com alta luminosidade. Suas folhas costumam ser menores, mais espessas, com cutícula mais espessa e, às vezes, com tricomas para refletir o excesso de luz. Uma planta heliófila não se desenvolve bem na sombra, e vice-versa.",
+    "palavras_chave": ["esciafíla", "heliófila", "luz", "adaptação", "folha"]
+  },
+  {
+    "pergunta": "Como as plantas insetívoras digerem os insetos que capturam?",
+    "resposta": "Elas produzem suas próprias enzimas digestivas! A Dionéia, por exemplo, secreta uma mistura de enzimas como proteases e fosfatases para quebrar as proteínas e outros compostos do inseto. Outras, como as Nepenthes, complementam sua produção enzimática com a ajuda de bactérias simbiontes que vivem no líquido digestivo. A Drosera, com seus tentáculos pegajosos, envolve a presa e a digere externamente. Os nutrientes liberados, especialmente nitrogênio e fósforo, são então absorvidos pela superfície da folha, suprindo a carência nutricional do solo onde vivem.",
+    "palavras_chave": ["planta insetívora", "digestão", "enzima", "nutrientes", "dionéia"]
+  },
+  {
+    "pergunta": "O que é um fruto agregado? Dê um exemplo.",
+    "resposta": "Um fruto agregado se desenvolve a partir de uma única flor que possui muitos pistilos (carpelos) livres e independentes. Cada um desses pistilos se desenvolve em uma pequena unidade frutífera, e todas ficam agregadas no mesmo receptáculo. O exemplo clássico é a framboesa ou a amora. O que chamamos de 'fruta' é, na verdade, um aglomerado de minúsculas drupas. Outro exemplo é a magnólia. É diferente de um fruto múltiplo, como o abacaxi, que se forma a partir de muitas flores fundidas em uma única inflorescência.",
+    "palavras_chave": ["fruto agregado", "framboesa", "pistilo", "carpelo", "flor"]
+  },
+  {
+    "pergunta": "O que são os coléteres e onde são encontrados?",
+    "resposta": "Coléteres são estruturas glandulares secretoras que produzem uma substância pegajosa, geralmente mucilaginosa ou resinosa. Eles são comuns em gemas vegetativas e florais de muitas plantas, como as do gênero Tabernaemontana e na família Rubiaceae. Sua função principal é proteger o meristema apical delicado da gema contra a dessecação e contra o ataque de insetos ou microorganismos. Eles secretam um revestimento protetor que cobre as folhas jovens e as partes da flor em desenvolvimento, funcionando como uma 'bandaida' natural e hidratante.",
+    "palavras_chave": ["coléteres", "glândula", "secreção", "gema", "proteção"]
+  },
+  {
+    "pergunta": "Por que as folhas de algumas plantas se orientam para cima ou para baixo?",
+    "resposta": "Esse movimento de orientação é chamado de nastia, e um tipo específico é a photonastia, em resposta à luz. Algumas plantas, como o algodão, possuem um pulvino – uma articulação inchada na base da folha ou do folíolo. Mudanças no turgor das células do pulvino fazem com que a folha se mova. Folhas que se erguem podem estar maximizando a captura de luz, enquanto folhas que se fecham podem estar reduzindo a exposição para conservar água ou se proteger do frio noturno. É um movimento reversível e rápido, diferente do crescimento.",
+    "palavras_chave": ["nastia", "pulvino", "folha", "movimento", "luz"]
+  },
+  {
+    "pergunta": "O que é um fruto deiscente e indeiscente?",
+    "resposta": "A deiscência é a capacidade de um fruto se abrir naturalmente para liberar as sementes. Frutos deiscentes, como a vagem do feijão, a cápsula da papoula ou o folículo da magnólia, abrem-se por fendas, poros ou tampas quando maduros. Já os frutos indeiscentes não se abrem. As sementes são liberadas apenas com a decomposição do fruto ou quando são ingeridas por um animal. Exemplos são o fruto do girassol (aquênio), o da cenoura (cremocarpo) e a noz. A deiscência é uma estratégia crucial para o timing e a eficiência da dispersão de sementes.",
+    "palavras_chave": ["deiscente", "indeiscente", "fruto", "semente", "dispersão"]
+  },
+  {
+    "pergunta": "Como as plantas parasitas, como a cuscuta, encontram seu hospedeiro?",
+    "resposta": "A cuscuta, também conhecida como fios-de-ovinho, é uma planta holoparasita que não tem clorofila. Ela localiza seu hospedeiro por um mecanismo incrível chamado de 'olfato vegetal'. Pesquisas mostraram que a cuscuta é capaz de detectar compostos voláteis liberados pela planta hospedeira e crescer em sua direção. É uma forma de quimiotropismo. Uma vez que entra em contato com o hospedeiro, ela desenvolve haustórios que penetram nos tecidos vasculares e começam a sugar água, nutrientes e carbono. É uma verdadeira caçadora guiada pelo cheiro.",
+    "palavras_chave": ["cuscuta", "parasita", "haustório", "quimiotropismo", "holoparasita"]
+  },
+  {
+    "pergunta": "O que é o ritidoma e por que ele se descasca em algumas árvores?",
+    "resposta": "O ritidoma é o que chamamos popularmente de casca de árvore. Ele é um tecido complexo formado por todas as camadas externas ao câmbio vascular, incluindo o floema secundário e os tecidos de cortiça (súber). Como o câmbio produz novo floema para dentro e novo xilema para fora, as camadas mais externas do ritidoma são progressivamente esmagadas e isoladas. Em árvores como a jaqueira ou o eucalipto, essas camadas mortas se descascam porque novas camadas de súber são formadas em profundidades diferentes, empurrando as antigas para fora. É um processo de renovação e proteção.",
+    "palavras_chave": ["ritidoma", "casca", "súber", "câmbio", "proteção"]
+  },
+  {
+    "pergunta": "O que são domácias e qual sua função?",
+    "resposta": "Domácias são pequenas cavidades ou bolsões, geralmente encontrados na axila das nervuras na face inferior das folhas de algumas plantas, como em muitas espécies de louro (Lauraceae) e café (Coffea). Por muito tempo sua função foi desconhecida, mas hoje se sabe que elas servem como abrigo para ácaros predadores ou outros pequenos artrópodes benéficos. Esses 'hóspedes' defendem a planta contra ácaros fitófagos e outros insetos-praga. É mais um exemplo fascinante de mutualismo, onde a planta oferece moradia em troca de proteção.",
+    "palavras_chave": ["domácia", "folha", "ácaro", "mutualismo", "proteção"]
+  },
+  {
+    "pergunta": "Como as plantas conseguem regenerar uma parte quebrada ou cortada?",
+    "resposta": "A capacidade de regeneração das plantas é impressionante e se deve à totipotência de muitas de suas células e à presença dos meristemas. Quando um galho quebra, as células próximas ao ferimento podem se desdiferenciar e formar um calo, um tecido indiferenciado. A partir desse calo, sob estímulos hormonais (especialmente auxina e citocinina), podem se formar novos meristemas e, consequentemente, novas raízes ou brotos. É por isso que conseguimos fazer estacas: um pedaço de caule pode regenerar raízes e se tornar uma nova planta. Uma árvore pode fechar um ferimento no tronco formando um calo ao redor da área danificada.",
+    "palavras_chave": ["regeneração", "calo", "totipotência", "meristema", "estaca"]
+  },
+  {
+    "pergunta": "O que é um cormo e como ele difere de um bulbo?",
+    "resposta": "Tanto o cormo quanto o bulbo são órgãos de reserva subterrâneos, mas sua estrutura interna é diferente. Um cormo, como o do açafrão ou da palma-de-santa-rita (Gladiolus), é um caule subterrâneo engrossado e sólido. Ele é envolvido por folhas secas (catáfilos), mas por dentro é maciço, cheio de parênquima de reserva. Já um bulbo, como o da cebola, é comprimido verticalmente e suas reservas estão armazenadas em folhas carnudas (escamas) que se sobrepõem. Resumindo: cormo = caule sólido. Bulbo = folhas de reserva em camadas.",
+    "palavras_chave": ["cormo", "bulbo", "caule", "reserva", "subterrâneo"]
+  },
+  {
+    "pergunta": "Por que as folhas de algumas plantas são aromáticas?",
+    "resposta": "O aroma das folhas é causado por compostos voláteis, os óleos essenciais, produzidos e armazenados em estruturas secretoras especializadas. Essas podem ser glândulas epidérmicas, canais secretores ou cavidades esquizógenas (formadas pela separação de células). A função principal é a defesa. Esses compostos são repelentes para muitos herbívoros e inibem o crescimento de bactérias e fungos. Em alguns casos, também podem atrair polinizadores. O aroma do alecrim, do manjericão e do eucalipto são exemplos clássicos. Para nós, humanos, esses aromas são agradáveis, mas para muitos insetos, são um sinal de 'não coma'.",
+    "palavras_chave": ["aromática", "óleo essencial", "glândula", "defesa", "composto volátil"]
+  },
+  {
+    "pergunta": "O que são as raízes-escora e em que plantas elas aparecem?",
+    "resposta": "Raízes-escora são raízes aéreas que surgem do caule, acima do solo, e crescem em direção à terra, entrando obliquamente. Elas funcionam como escoras de sustentação, dando um suporte extra à planta. São comuns em plantas de grande porte que têm um sistema radicular superficial, ou que vivem em solos instáveis. O exemplo mais icônico é o do milho, que desenvolve raízes-escora na base do caule para se sustentar contra o vento. Outro exemplo impressionante é a Figueira-de-Bengala (Ficus benghalensis), cujas raízes-escora se tornam enormes pilares.",
+    "palavras_chave": ["raiz-escora", "sustentação", "aérea", "milho", "ficus"]
+  },
+  {
+    "pergunta": "O que é o floema incluído e por que ele é importante?",
+    "resposta": "Também conhecido como floem intraxilemático, o floema incluído é um fascículo de floema que fica completamente rodeado por xilema secundário. Isso é comum em algumas dicotiledôneas, como muitas leguminosas. Durante o crescimento secundário, o câmbio vascular pode produzir, temporariamente, floema para o lado interno, em vez de xilema, criando essas ilhas. Sua importância ecológica é que, mesmo se o anel externo de floema for danificado (por um animal roendo, por exemplo), a planta ainda terá um caminho interno para transportar açúcares, aumentando sua resiliência.",
+    "palavras_chave": ["floema incluído", "câmbio", "xilema", "condução", "secundário"]
+  },
+  {
+    "pergunta": "Como as plantas aquáticas submersas, como a Elodea, realizam trocas gasosas?",
+    "resposta": "Plantas totalmente submersas têm adaptações morfológicas fantásticas. Elas geralmente não possuem cutícula espessa, o que permite a difusão direta de gases da água para as células. Muitas não têm estômatos funcionais, ou os têm em reduzido número. Suas folhas são finíssimas e muito divididas, maximizando a superfície de contato com a água. O aerênquima é abundantíssimo, formando um sistema de espaços de ar contínuos que armazena os gases produzidos pela fotossíntese e respiração e auxilia na flutuação. A absorção de CO2 e a liberação de O2 acontecem diretamente através da epiderme.",
+    "palavras_chave": ["planta submersa", "troca gasosa", "aerênquima", "elodea", "epiderme"]
+  },
+  {
+    "pergunta": "O que é um fruto esquizocárpico?",
+    "resposta": "É um tipo especial de fruto seco e deiscente que, ao amadurecer, se divide em unidades uni ou plurisseminadas chamadas mericarpos. Esses mericarpos são o que muitas vezes chamamos erroneamente de 'sementes'. O exemplo clássico é o fruto da malva ou do gerânio. Na malva, o fruto se parece com um queijo redondo que se divide em várias 'fatias' (os mericarpos). Outro exemplo é o fruto da cenoura e da salsa (da família Apiaceae), que é um esquizocarpo que se divide em dois mericarpos unidos por um filamento. É uma estratégia de dispersão que libera unidades menores.",
+    "palavras_chave": ["esquizocárpico", "mericarpo", "fruto seco", "deiscente", "dispersão"]
+  },
+  {
+    "pergunta": "Por que as folhas de algumas plantas são cobertas por uma 'poeira' branca?",
+    "resposta": "Essa 'poeira' ou cera epicuticular, chamada de pruína, é uma secreção de ceras que cristalizam na superfície da folha, formando uma camada azulada, esbranquiçada ou prateada. Sua função é múltipla: ela reflete o excesso de radiação solar, reduzindo o aquecimento e o estresse hídrico; torna a superfície da folha hidrofóbica, fazendo a água escorrer e levando consigo esporos de fungos e sujeira; e em alguns casos, dificulta a adesão de insetos pragas. É comum em plantas de ambientes áridos ou com alta exposição solar, como em certos cactos e eucaliptos.",
+    "palavras_chave": ["pruína", "cera", "cutícula", "proteção", "reflexão"]
+  },
+  {
+    "pergunta": "O que são os rafídeos e qual sua função?",
+    "resposta": "Rafídeos são cristais microscópicos de oxalato de cálcio em forma de agulha, encontrados no interior de células especializadas chamadas idioblastos. Eles são comuns em plantas como o inhame (Dioscorea) e a comigo-ninguém-pode (Dieffenbachia). Sua função é principalmente de defesa mecânica. Quando um animal mastiga a folha, os rafídeos são liberados e podem perfurar os tecidos da boca e da garganta, causando dor, irritação e edema. Na Dieffenbachia, isso pode causar temporariamente a impossibilidade de fala, daí seu nome popular. É uma defesa passiva, mas muito eficaz.",
+    "palavras_chave": ["rafídeos", "cristal", "oxalato de cálcio", "defesa", "idioblasto"]
+  },
+  {
+    "pergunta": "Como as plantas distinguem o topo da base? Por que uma estaca enraíja apenas na base?",
+    "resposta": "As plantas possuem uma polaridade intrínseca, governada principalmente pelo transporte da auxina, um hormônio vegetal. A auxina é transportada de forma polar, sempre do ápice em direção à base. Em uma estaca cortada, a auxina se acumula na extremidade inferior (a base original), onde estimula a formação de raízes. Na extremidade superior (o ápice original), a menor concentração de auxina permite que as gemas laterais quebrem a dormência e formem brotos. Se você plantar uma estaca de cabeça para baixo, ela terá enorme dificuldade em se desenvolver, porque a polaridade estará invertida.",
+    "palavras_chave": ["polaridade", "auxina", "estaca", "enraizamento", "hormônio"]
+  },
+  {
+    "pergunta": "O que é um fruto pseudocárpico?",
+    "resposta": "Um fruto pseudocárpico, ou falso fruto, é uma estrutura que parece um fruto, mas não se origina apenas do ovário da flor. A parte suculenta e comestível é formada por outras partes florais, como o receptáculo, o cálice ou o pedúnculo. O exemplo mais clássico é o morango: as sementinhas são os frutos verdadeiros (aquênios), enquanto a parte vermelha e suculenta é o receptáculo floral que inchou. Outro exemplo é o figo, que é uma inflorescência oca e carnosa (sicônio), e a maçã, cujo 'miolo' é o fruto verdadeiro e a polpa é o receptáculo fundido ao tubo floral.",
+    "palavras_chave": ["pseudocárpico", "falso fruto", "morango", "receptáculo", "inflorescência"]
+  },
+  {
+    "pergunta": "O que são os osmóforos em uma flor?",
+    "resposta": "Osmóforos são tecidos secretores especializados localizados em partes específicas da flor, responsáveis por produzir e liberar os compostos voláteis que formam o perfume. Eles não são uma estrutura única, mas sim grupos de células epidérmicas que podem estar em pétalas, sépalas ou outras partes. A localização dos osmóforos muitas vezes 'guia' o polinizador para o local exato do néctar. Em orquídeas que mimetizam fêmeas de insetos, os osmóforos produzem feromônios que enganam os machos. O perfume é, portanto, uma sinalização química precisa e custosa para a planta.",
+    "palavras_chave": ["osmóforos", "flor", "perfume", "voláteis", "polinização"]
+  },
+  {
+    "pergunta": "Como as plantas trepadeiras com raízes adventícias, como a hera, sobem em muros?",
+    "resposta": "Plantas como a hera (Hedera helix) produzem raízes adventícias ao longo do caule. Essas raízes são curtas, ramificadas e aderentes. Elas secretam uma substância pegajosa e, mecanicamente, penetram nas minúsculas irregularidades da superfície. Essas raízes não têm a função de absorver água e nutrientes do substrato (a não ser que alcancem o solo), mas sim de fixação. Elas funcionam como ganchos naturais, permitindo que a planta escale verticalmente em busca de luz, sem a necessidade de investir em um caule grosso para suporte próprio. É uma estratégia econômica de crescimento.",
+    "palavras_chave": ["hera", "raiz adventícia", "trepadeira", "aderente", "fixação"]
+  },
+  {
+    "pergunta": "O que é o súber alado e em que planta é encontrado?",
+    "resposta": "O súber alado é uma formação onde a cortiça (súber) se desenvolve em expansões laminares, formando 'asas' ou 'placas' ao longo dos ramos. O exemplo mais notável é a árvore Euonymus alatus, conhecida como 'Burning Bush'. Seus ramos apresentam duas a quatro 'asas' de cortiça, que são na verdade expansões do súber. A função exata ainda é debatida, mas acredita-se que possa ser para proteção contra herbívoros, para isolamento térmico ou até mesmo para auxiliar na dispersão pelo vento, fazendo o galho girar como uma hélice quando cai. É uma característica morfológica única e ornamental.",
+    "palavras_chave": ["súber alado", "euonymus", "cortiça", "asa", "ramo"]
+  },
+  {
+    "pergunta": "Por que as folhas de algumas plantas são peltadas?",
+    "resposta": "Uma folha é chamada de peltada quando o pecíolo se prende não na borda do limbo, mas no centro da face inferior, como se fosse um guarda-chuva. Essa morfologia é uma adaptação que permite que a folha se oriente melhor em relação ao sol, minimizando o sombreamento de folhas inferiores. Também é eficaz para a drenagem de água, que escorre uniformemente para todas as direções. Exemplos clássicos são a vitória-régia, o nastúrcio (Tropaeolum majus) e a planta-dinheiro (Pilea peperomioides). É uma solução arquitetônica elegante para a captação de luz e manejo da água da chuva.",
+    "palavras_chave": ["peltada", "folha", "pecíolo", "limbo", "adaptação"]
+  },
+  {
+    "pergunta": "O que são os estegmata nas folhas de palmeiras?",
+    "resposta": "Estegmata são minúsculas manchas ou protuberâncias escuras, frequentemente esclerificadas, que se alinham em fileiras ao longo das nervuras das folhas (folíolos) de muitas palmeiras. Eles são remanescentes das células que acompanhavam os feixes vasculares de folhas mais jovens e que se tornaram esclerificadas com a maturidade. Embora sua função exata não seja totalmente clara, acredita-se que possam conferir uma rigidez extra à folha, que é geralmente muito grande e precisa suportar ventos fortes. São uma característica anatômica útil para a identificação de algumas espécies de palmeiras.",
+    "palavras_chave": ["estegmata", "palmeira", "folha", "esclerificação", "nervura"]
+  },
+  {
+    "pergunta": "Como as plantas formam galhas?",
+    "resposta": "Galhas, ou cecídios, são crescimentos anormais e highly organizados de tecido vegetal, induzidos por outro organismo, como um inseto, ácaro, nematoide, fungo ou bactéria. O organismo induzente coloca seus ovos ou secreta substâncias químicas (como fitormônios) que 'reprogramam' o desenvolvimento da planta. As células vegetais se multiplicam e se diferenciam de forma atípica, formando uma estrutura complexa que serve de abrigo e alimento para o invasor. Cada espécie indutora causa uma galha com forma, cor e textura específicas. É um parasitismo que manipula a morfologia e fisiologia da planta.",
+    "palavras_chave": ["galha", "cecídio", "indução", "parasitismo", "crescimento anormal"]
+  },
+  {
+    "pergunta": "O que é um fruto carnoso e um fruto seco?",
+    "resposta": "A classificação básica dos frutos se baseia na textura do pericarpo (a parede do fruto) na maturidade. Frutos carnosos têm o pericarpo suculento, o que atrai animais para a dispersão das sementes. Exemplos são a baga (tomate, uva), a drupa (pêssego, azeitona) e o hesperídio (laranja). Já os frutos secos têm o pericarpo seco, duro ou fibroso. Eles podem ser deiscentes (que se abrem, como a vagem) ou indeiscentes (que não se abrem, como o cariopse do milho). Essa distinção está diretamente ligada à estratégia de dispersão da planta.",
+    "palavras_chave": ["fruto carnoso", "fruto seco", "pericarpo", "dispersão", "classificação"]
+  },
+  {
+    "pergunta": "O que é a zona pilífera da raiz?",
+    "resposta": "A zona pilífera é a região da raiz, logo acima da zona de crescimento, que é recoberta pelos pêlos absorventes ou radiculares. Esses pêlos são extensões tubulares das próprias células da epiderme da raiz e aumentam enormemente a superfície de absorção. É nessa região que a maior parte da água e dos sais minerais é captada do solo. A zona pilífera é uma estrutura transitória; à medida que a raiz cresce, os pêlos mais velhos morrem e novos são formados na região mais jovem. É uma parte vital e efêmera do sistema radicular.",
+    "palavras_chave": ["zona pilífera", "pêlos absorventes", "raiz", "absorção", "epiderme"]
+  },
+  {
+    "pergunta": "Por que as flores de algumas orquídeas se parecem com insetos?",
+    "resposta": "Esse é um dos casos mais fascinantes de mimetismo floral, especificamente um mimetismo agressivo. Orquídeas do gênero Ophrys, por exemplo, têm flores que imitam na forma, cor e textura a fêmea de certas abelhas ou vespas solitárias. Para completar a ilusão, elas produzem feromônios sexuais idênticos aos das fêmeas. O macho, atraído pelo cheiro e pela aparência, tenta copular com a flor (pseudocópula). Durante esse ato, os polínios da orquídea grudam em seu corpo e são transportados para a próxima flor que ele tentar 'copular', efetuando a polinização. É um engano elaboradíssimo.",
+    "palavras_chave": ["orquídea", "mimetismo", "pseudocópula", "polinização", "ophrys"]
+  },
+  {
+    "pergunta": "O que é um fruto partenocárpico e como ele se forma sem sementes?",
+    "resposta": "O fruto partenocárpico é aquele que se desenvolve sem que tenha ocorrido a fecundação dos óvulos. Esse desenvolvimento é estimulado por uma produção natural ou induzida de hormônios, especialmente as auxinas e giberelinas, que 'enganam' o ovário, fazendo-o crescer e se diferenciar como se fosse um fruto normal. Como não houve fecundação, os óvulos não se desenvolvem em sementes. A banana, as uvas Thompson Seedless, algumas laranjas-de-umbigo e pepinos são exemplos clássicos. É uma característica vantajosa para o consumo humano, mas do ponto de vista da planta, significa um investimento energético que não resulta em descendentes, a menos que a propagação seja assexuada.",
+    "palavras_chave": ["fruto partenocárpico", "semente", "fecundação", "hormônio", "banana"]
+  },
+  {
+    "pergunta": "O que são os acúleos de um roseiral? Eles são espinhos?",
+    "resposta": "Essa é uma distinção anatômica importante! Os espinhos são estruturas de origem caulinar, ou seja, são caules modificados (como nos limoeiros e laranjeiras). Já os acúleos, que são as estruturas pontiagudas das roseiras, têm origem epidérmica. Eles se formam a partir de células da epiderme do caule e, por isso, podem ser quebrados com relativa facilidade, sem danificar o tecido interno. Sua função, assim como a dos espinhos, é a defesa contra herbívoros. Então, tecnicamente, a roseira não tem espinhos, e sim acúleos. Sabia que o famoso livro 'O Pequeno Príncipe' fala sobre a proteção das rosas com seus 'espinhos', que na verdade são acúleos?",
+    "palavras_chave": ["acúleos", "espinhos", "roseira", "defesa", "epiderme"]
+  },
+  {
+    "pergunta": "Como as plantas de mangue lidam com o excesso de sal?",
+    "resposta": "Os manguezais são ambientes de água salobra ou salgada, e as plantas desenvolveram três estratégias principais para lidar com o sal. A ultrafiltração: as raízes possuem mecanismos fisiológicos que filtram ativamente o sal na hora da absorção, impedindo que até 99% do sal entre na planta. A secreção: plantas como o mangue-vermelho possuem glândulas de sal nas folhas, que excretam o excesso ativamente. E a acumulação: algumas espécies, como o mangue-branco, armazenam o sal em folhas velhas que depois serão sacrificadas e cairão. São adaptações morfológicas e fisiológicas fantásticas para um ambiente extremo.",
+    "palavras_chave": ["mangue", "sal", "ultrafiltração", "glândula de sal", "adaptação"]
+  },
+  {
+    "pergunta": "O que é um fruto múltiplo ou infrutescência?",
+    "resposta": "Um fruto múltiplo, ou infrutescência, se desenvolve a partir de uma inflorescência, ou seja, de um conjunto de flores muito próximas. Durante o desenvolvimento, os ovários de cada flor individual, junto com outras partes florais e o eixo da inflorescência, fundem-se formando uma única estrutura frutífera. O exemplo mais clássico é o abacaxi: o que comemos é formado pela fusão de dezenas de flores, e os 'olhos' são as marcas das flores individuais. Outro exemplo é o figo, que é uma inflorescência carnosa e oca (sicônio), e a amora, que é um agregado de pequenas drupas, mas originado de uma única flor.",
+    "palavras_chave": ["fruto múltiplo", "infrutescência", "abacaxi", "inflorescência", "fusão"]
+  },
+  {
+    "pergunta": "O que são os pulvinos e como eles controlam o movimento das folhas?",
+    "resposta": "Pulvinos são articulações ou 'almofadas' localizadas na base da folha ou dos folíolos, formadas por um parênquima especializado. Eles funcionam como juntas que controlam o movimento nástico da folha. O movimento ocorre por mudanças no turgor das células: quando as células do lado inferior do pulvino ganham água e ficam túrgidas, a folha se ergue. Quando elas perdem água, a folha abaixa. Esse mecanismo é rápido e reversível, sendo uma resposta a estímulos como a luz (fotonastia) ou o toque (sismonastia, como na sensitiva). É um sistema hidráulico de precisão que não envolve crescimento.",
+    "palavras_chave": ["pulvino", "movimento", "turgor", "nastia", "folha"]
+  },
+  {
+    "pergunta": "O que é a micorriza e como ela modifica a morfologia da raiz?",
+    "resposta": "Micorriza é uma associação mutualística entre as raízes de uma planta e certos fungos do solo. O fungo forma uma rede de filamentos (hifas) que se entrelaçam com as células da raiz ou ao seu redor. Essa associação modifica significativamente a morfologia da raiz. Nas micorrizas ectotróficas, as hifas formam um manto denso ao redor da raiz e penetram entre as células do córtex (sem entrar nelas), criando uma estrutura híbrida planta-fungo. A principal vantagem para a planta é o enorme aumento da superfície de absorção, permitindo uma captação muito mais eficiente de água e fósforo. O fungo, em troca, recebe açúcares da planta.",
+    "palavras_chave": ["micorriza", "raiz", "fungo", "mutualismo", "absorção"]
+  },
+  {
+    "pergunta": "Por que as folhas de algumas plantas são verticalizadas?",
+    "resposta": "Folhas que se posicionam verticalmente, muitas vezes com o limbo perpendicular ao solo, são uma adaptação para ambientes de alta insolação. Essa orientação, conhecida como paraheliotropismo, reduz a superfície diretamente exposta ao sol do meio-dia, minimizando o aquecimento excessivo e a perda de água por transpiração. É comum em plantas de regiões áridas ou de cerrado, como no eucalipto. Em algumas plantas, as folhas podem se mover ao longo do dia para acompanhar o sol (heliotropismo), mas a orientação vertical é uma posição fixa que oferece proteção contra o estresse térmico e hídrico.",
+    "palavras_chave": ["folha vertical", "paraheliotropismo", "insolação", "transpiração", "adaptação"]
+  },
+  {
+    "pergunta": "O que é um haustório e em que contextos ele aparece?",
+    "resposta": "Um haustório é um órgão de absorção especializado, semelhante a uma raiz, que plantas parasitas usam para penetrar nos tecidos do hospedeiro e roubar seus recursos. Ele não é uma raiz verdadeira, mas uma modificação do caule ou da raiz da planta parasita. O haustório conecta-se ao xilema e/ou floema do hospedeiro, formando uma ponte para a transferência de água, nutrientes minerais e compostos orgânicos. Ele aparece em plantas parasitas como a cuscuta (que é um caule modificado) e a erva-de-passarinho. É a ferramenta fundamental do parasitismo vegetal, uma verdadeira 'agulha' de sucção.",
+    "palavras_chave": ["haustório", "parasita", "cuscuta", "absorção", "hospedeiro"]
+  },
+  {
+    "pergunta": "Como as plantas carnívoras evitam digerir seus próprios tecidos?",
+    "resposta": "Essa é uma pergunta fantástica! As plantas carnívoras desenvolveram mecanismos para ativar a secreção de enzimas digestivas apenas quando necessário. Na Dionéia, a armadilha só se fecha e inicia a digestão se os pelos sensoriais forem estimulados mais de uma vez em um curto intervalo, o que indica que uma presa viva está se movendo lá dentro. Além disso, a superfície interna da armadilha é resistente às próprias enzimas. Acredita-se que haja uma compartimentalização que impede o contato das enzimas com os tecidos vivos da planta até o momento da secreção. É um sistema de ativação sob demanda que evita um custo energético desnecessário e o autodano.",
+    "palavras_chave": ["planta carnívora", "digestão", "enzima", "dionéia", "ativação"]
+  },
+  {
+    "pergunta": "O que é a vernização e qual sua importância morfológica?",
+    "resposta": "A vernização, ou estratificação, é a quebra da dormência de gemas ou sementes através da exposição a um período prolongado de frio. Do ponto de vista morfológico, esse estímulo é crucial para o desenvolvimento reprodutivo de muitas plantas de clima temperado. Sem o frio do inverno, a gema apical pode não sofrer a transição do estado vegetativo para o reprodutivo. A vernização 'sinaliza' para a planta que o inverno passou e que é seguro florescer na primavera. É por isso que bulbos de tulipas e narcisos precisam ser expostos ao frio antes de florescerem. É um mecanismo de sincronia com as estações.",
+    "palavras_chave": ["vernização", "dormência", "gema", "floração", "frio"]
+  },
+  {
+    "pergunta": "O que são os propágulos e como funcionam no mangue?",
+    "resposta": "Propágulos são unidades de dispersão e estabelecimento que já são uma planta jovem em miniatura. No mangue-vermelho (Rhizophora mangle), o propágulo é a semente que já germinou enquanto ainda estava presa à planta-mãe – um fenômeno chamado viviparia. Ele desenvolve um hipocótilo alongado e pontiagudo que pode chegar a 30 cm. Quando se solta, esse propágulo cai como um dardo e pode se fixar diretamente na lama, ou ser carregado pelas marés até encontrar um local adequado. Como já é uma plantinha desenvolvida, suas chances de sobrevivência no ambiente hostil do mangue são muito maiores do que as de uma semente comum.",
+    "palavras_chave": ["propágulo", "mangue", "viviparia", "dispersão", "rhizophora"]
+  },
+  {
+    "pergunta": "O que é um caule cladódio e qual sua vantagem?",
+    "resposta": "Já falamos do cladódio, mas vale aprofundar! Um cladódio é um caule modificado, achatado e fotossintetizante que assume a função da folha. A grande vantagem dessa adaptação, observada em cactos como o Opuntia e a Rhipsalis, é a redução da perda de água. Caules, em geral, têm menos estômatos que folhas e uma cutícula mais espessa. Além disso, o caule pode armazenar água de forma mais eficiente. As folhas verdadeiras são frequentemente reduzidas a espinhos, que além de defender, criam uma microsombra que reduz ainda mais a temperatura e a transpiração do cladódio. É uma solução integrada para a economia de água.",
+    "palavras_chave": ["cladódio", "caule", "fotossíntese", "opuntia", "conservação de água"]
+  },
+  {
+    "pergunta": "Como as plantas reconhecem e respondem à gravidade (gravitropismo)?",
+    "resposta": "O gravitropismo é a resposta de crescimento em relação à gravidade. A raiz é positivamente gravitrópica (cresce para baixo) e o caule é negativamente (cresce para cima). O mecanismo envolve estatólitos – grânulos de amido densos dentro de células especializadas chamadas estatócitos, localizadas na coifa da raiz e no endoderme do caule. Quando a posição da planta muda, os estatólitos sedimentam por gravidade para a nova parede celular 'inferior'. Essa sedimentação desencadeia uma redistribuição assimétrica do hormônio auxina, fazendo com que um lado do órgão cresça mais que o outro, curvando-o para se reorientar. É um sistema de nivelamento a bússola interna.",
+    "palavras_chave": ["gravitropismo", "estatólitos", "auxina", "coifa", "crescimento"]
+  },
+  {
+    "pergunta": "O que são plantas anuais, bienais e perenes em termos de ciclo de vida?",
+    "resposta": "Essa classificação se refere à longevidade e à estratégia reprodutiva. Plantas anuais completam seu ciclo de vida (germinação, crescimento, floração, frutificação e morte) em um único ano ou estação. Exemplo: feijão e milho. Plantas bienais precisam de dois anos: no primeiro, acumulam reservas em raízes ou caules (como a cenoura); no segundo, usam essas reservas para florescer e morrer. Plantas perenes vivem por muitos anos e podem florescer múltiplas vezes ao longo da vida, como árvores frutíferas e arbustos. A morfologia de cada uma é adaptada à sua estratégia: anuais investem tudo rápido, bienais em armazenamento, e perenes em estruturas duráveis.",
+    "palavras_chave": ["anual", "bienal", "perene", "ciclo de vida", "estratégia"]
+  },
+  {
+    "pergunta": "O que é o esclerênquima e quais suas duas formas principais?",
+    "resposta": "O esclerênquima é o principal tecido de sustentação mecânica das plantas adultas. Suas células são mortas na maturidade e possuem paredes secundárias espessíssimas, impregnadas com lignina, que as tornam extremamente rígidas. Existem duas formas principais: as fibras, que são células longas, afiadas e geralmente agrupadas em feixes (encontradas no floema e no xilema, e no cânhamo, usado para cordas); e os esclerídeos, que são células de formato variado (arredondadas, alongadas, estreladas), responsáveis pela dureza de estruturas como o caroço do pêssego, a casca da noz e a polpa da pera. São as 'células de pedra' da planta.",
+    "palavras_chave": ["esclerênquima", "fibras", "esclerídeos", "sustentação", "lignina"]
+  },
+  {
+    "pergunta": "Como as folhas de plantas de sombra diferem das de sol?",
+    "resposta": "As diferenças são profundas e refletem uma especialização para captar luz de forma eficiente. Folhas de sombra (esciafílias) são geralmente maiores, mais finas e possuem uma cor verde mais escura, indicando alta concentração de clorofila. Seu mesófilo é pouco diferenciado, com parênquima paliçádico reduzido, para facilitar a difusão da luz. Já folhas de sol (heliófilas) são menores, mais espessas, com cutícula mais espessa e, às vezes, com tricomas. Seu mesófilo é bem diferenciado, com várias camadas de parênquima paliçádico para maximizar a fotossíntese sob luz intensa. Colocar uma planta de sombra no sol queima suas folhas, e uma de sol na sombra fica estiolada e fraca.",
+    "palavras_chave": ["folha de sombra", "folha de sol", "esciafíla", "heliófila", "mesófilo"]
+  },
+  {
+    "pergunta": "O que é a abscisão floral e por que acontece?",
+    "resposta": "A abscisão floral é a queda de flores não polinizadas ou não fecundadas. É um processo semelhante à abscisão foliar, controlado hormonalmente. Se uma flor não é polinizada, ou se a fecundação não é bem-sucedida, a produção de etileno aumenta na base do pedicelo (o cabinho da flor), ativando enzimas que dissolvem a camada de abscisão. Do ponto de vista da planta, é um mecanismo de economia energética: é mais vantajoso sacrificar uma flor que não vai gerar frutos e realocar esses recursos para o crescimento vegetativo ou para outras flores que possam ser bem-sucedidas. É comum em muitas frutíferas, como a mangueira, que solta uma 'chuva' de flores.",
+    "palavras_chave": ["abscisão floral", "flor", "etileno", "fecundação", "economia energética"]
+  },
+  {
+    "pergunta": "O que são os tricomas glandulares e o que eles secretam?",
+    "resposta": "Diferente dos tricomas de proteção, os tricomas glandulares são especializados na secreção de substâncias. Eles podem ter formato de cogumelo, de haste ou ser sésseis. O que secretam é incrivelmente variado: óleos essenciais (no manjericalo e menta), mucilagem (na pega-moscas), resinas (na Cannabis), enzimas digestivas (em plantas carnívoras) ou até água (nos hidatódios). A secreção pode ser armazenada em uma cavidade subcuticular ou liberada continuamente. Essas substâncias têm funções ecológicas cruciais, como defesa contra herbívoros, atração de polinizadores ou, no caso das carnívoras, digestão de presas.",
+    "palavras_chave": ["tricomas glandulares", "secreção", "óleo essencial", "defesa", "glândula"]
+  },
+  {
+    "pergunta": "Como as sementes de orquídeas, que são tão pequenas, conseguem germinar?",
+    "resposta": "As sementes de orquídeas são como pó, minúsculas e sem reservas nutritivas (são chamadas de sementes não-endospérmicas). Para germinar, elas dependem obrigatoriamente de uma relação simbiótica com um fungo micorrízico específico. Quando a semente cai em um local adequado, o fungo a coloniza e forma uma associação chamada protocormo. O fungo digere matéria orgânica do ambiente e transfere nutrientes (como carbono e nitrogênio) para a jovem orquídea. Só depois que a planta desenvolve suas primeiras folhas e faz fotossíntese é que ela pode se tornar independente. É uma das germinações mais especializadas do reino vegetal.",
+    "palavras_chave": ["semente de orquídea", "germinação", "fungo", "micorriza", "protocormo"]
+  },
+  {
+    "pergunta": "O que é um fruto do tipo legume ou vagem?",
+    "resposta": "O legume, ou vagem, é um fruto seco e deiscente típico da família Fabaceae, que inclui feijão, ervilha, lentilha e soja. Ele se desenvolve de um único carpelo e, na maturidade, se abre por duas fendas – uma de cada lado da nervura média e outra na nervura do carpelo – liberando as sementes. Essa abertura é muitas vezes explosiva, ajudando na dispersão. É uma estrutura tão característica que deu o nome antigo à família: Leguminosae. A vagem protege as sementes durante o desenvolvimento e as libera de forma eficiente quando estão prontas.",
+    "palavras_chave": ["legume", "vagem", "fabaceae", "fruto seco", "deiscente"]
+  },
+  {
+    "pergunta": "Como as plantas conseguem florescer no dia exato todos os anos?",
+    "resposta": "A floração é sincronizada principalmente pelo fotoperíodo – o comprimento relativo do dia e da noite. As plantas possuem um 'relógio circadiano' interno e um pigmento chamado fitocromo que percebe a qualidade da luz (proporção de vermelho/vermelho-extremo). Plantas de dia longo florescem quando os dias estão longos (primavera/verão), e plantas de dia curto florescem quando os dias estão encurtando (outono). Outros fatores, como a temperatura (vernização) e estresses hídricos, também atuam como sinais. Essa precisão garante que a floração, a polinização e o desenvolvimento dos frutos ocorram na estação mais favorável, maximizando o sucesso reprodutivo.",
+    "palavras_chave": ["floração", "fotoperíodo", "fitocromo", "relógio circadiano", "sincronia"]
+  },
+  {
+    "pergunta": "O que é o hidrotropismo e como as raízes 'sentem' a água?",
+    "resposta": "Hidrotropismo é o crescimento direcionado da raiz em resposta a um gradiente de umidade. Enquanto o gravitropismo puxa a raiz para baixo, o hidrotropismo pode superá-lo, fazendo a raiz se curvar em direção a uma fonte de água. Acredita-se que a raiz perceba a umidade através de suas células da coifa. Quando um lado da raiz detecta maior disponibilidade de água, ocorre uma redistribuição de hormônios (como auxina e ABA - ácido abscísico) que inibe o crescimento desse lado, curvando a raiz para a fonte de água. É um mecanismo de busca ativa que garante a sobrevivência em solos heterogêneos.",
+    "palavras_chave": ["hidrotropismo", "raiz", "água", "coifa", "auxina"]
+  },
+  {
+    "pergunta": "O que são plantas CAM e qual sua adaptação morfológica?",
+    "resposta": "Plantas CAM (Metabolismo Ácido das Crassuláceas) são adaptadas a ambientes extremamente secos. Sua principal adaptação morfológica é ter tecidos suculentos para armazenar água, como em cactos, babosa e orquídeas epífitas. Mas a adaptação é principalmente fisiológica: elas abrem os estômatos à noite, quando a temperatura é mais baixa e a umidade mais alta, para capturar CO2 e armazená-lo na forma de ácido orgânico. Durante o dia, com os estômatos fechados, eles usam esse CO2 armazenado para fazer fotossíntese. Essa estratégia permite uma economia de água brutal, mas é energeticamente menos eficiente que a fotossíntese normal.",
+    "palavras_chave": ["plantas cam", "suculenta", "estômatos", "fotossíntese", "conservação de água"]
+  },
+  {
+    "pergunta": "O que é um fruto do tipo drupa?",
+    "resposta": "A drupa é um fruto carnoso com uma característica marcante: ele possui um único caroço duro e lenhoso que envolve a semente. O pericarpo (parede do fruto) é dividido em três camadas: o exocarpo (a 'pele' fina), o mesocarpo (a polpa suculenta) e o endocarpo duro e lignificado (o caroço). Exemplos clássicos são o pêssego, a ameixa, a azeitona e a cereja. Na azeitona, a parte comestível é o mesocarpo, e o caroço é o endocarpo. O caroço protege a semente contra a digestão por animais e contra danos mecânicos, sendo uma estratégia de dispersão geralmente associada a mamíferos de médio e grande porte.",
+    "palavras_chave": ["drupa", "caroço", "endocarpo", "pêssego", "dispersão"]
+  },
+  {
+    "pergunta": "Como as plantas se defendem mecanicamente sem espinhos?",
+    "resposta": "Além dos espinhos e acúleos, as plantas têm um arsenal de defesas mecânicas. Fibras de esclerênquima com paredes extremamente duras podem tornar as folhas coriáceas e de difícil mastigação. Os ráfides de oxalato de cálcio, como os da comigo-ninguém-pode, funcionam como agulhas de vidro microscópicas que irritam a boca dos herbívoros. Grãos de sílica (fitólitos) incrustados nas células de gramíneas como o arroz e o bambu desgastam os dentes dos animais. E algumas plantas, como a urtiga, possuem tricomas urticantes que injetam uma substância irritante na pele de quem a toca. São defesas passivas, mas altamente dissuasoras.",
+    "palavras_chave": ["defesa mecânica", "fibras", "ráfides", "fitólitos", "urtiga"]
+  }
+]

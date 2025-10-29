@@ -1,0 +1,787 @@
+[
+  {
+    "pergunta": "O que foi a Idade Média?",
+    "resposta": "Período histórico entre 476 e 1453, marcado pelo feudalismo, poder da Igreja Católica e estrutura social hierárquica. Sabia que o termo 'Idade das Trevas' surgiu no Renascimento para criticar a suposta estagnação cultural desse período?",
+    "palavras_chave": ["Idade Média", "feudalismo", "Igreja Católica", "hierarquia social", "Europa"]
+  },
+  {
+    "pergunta": "Como era o feudalismo?",
+    "resposta": "Sistema baseado na posse de terra, onde senhores feudais ofereciam proteção aos camponeses em troca de trabalho e tributos. Sabia que os servos não podiam deixar a terra sem permissão do senhor?",
+    "palavras_chave": ["feudalismo", "senhores feudais", "servos", "terra", "Europa medieval"]
+  },
+  {
+    "pergunta": "Qual era o papel da Igreja Católica na Idade Média?",
+    "resposta": "Controlava a religião, a educação e influenciava a política. Mosteiros preservavam textos clássicos e ensinavam leitura e escrita. Sabia que o Papa tinha mais poder que muitos reis?",
+    "palavras_chave": ["Igreja Católica", "Idade Média", "poder político", "educação", "mosteiros"]
+  },
+  {
+    "pergunta": "Quem foram os vikings?",
+    "resposta": "Guerreiros, comerciantes e exploradores da Escandinávia entre os séculos VIII e XI. Sabia que chegaram à América do Norte cerca de 500 anos antes de Colombo?",
+    "palavras_chave": ["vikings", "Escandinávia", "séculos VIII-XI", "exploração", "comércio"]
+  },
+  {
+    "pergunta": "O que foram as Cruzadas?",
+    "resposta": "Expedições militares cristãs entre os séculos XI e XIII para retomar Jerusalém dos muçulmanos. Sabia que elas também abriram rotas comerciais entre Europa e Oriente Médio?",
+    "palavras_chave": ["Cruzadas", "Jerusalém", "séculos XI-XIII", "religião", "comércio"]
+  },
+  {
+    "pergunta": "Quem foram os cavaleiros templários?",
+    "resposta": "Ordem militar cristã que participou das Cruzadas, famosa por disciplina e riqueza. Sabia que foram dissolvidos no século XIV sob acusações de heresia e traição?",
+    "palavras_chave": ["templários", "Cruzadas", "ordem militar", "heresia", "século XIV"]
+  },
+  {
+    "pergunta": "O que foi a Peste Negra?",
+    "resposta": "Pandemia no século XIV que matou milhões na Europa e Ásia, alterando economia e sociedade. Sabia que reduziu a população europeia em cerca de 30 a 50%?",
+    "palavras_chave": ["Peste Negra", "século XIV", "pandemia", "Europa", "sociedade"]
+  },
+  {
+    "pergunta": "Quem foi Carlos Magno?",
+    "resposta": "Rei dos francos coroado imperador em 800, uniu grande parte da Europa Ocidental e incentivou educação. Sabia que seu império é considerado o precursor do Sacro Império Romano-Germânico?",
+    "palavras_chave": ["Carlos Magno", "francos", "Império Carolíngio", "educação", "século VIII"]
+  },
+  {
+    "pergunta": "O que eram as guildas?",
+    "resposta": "Associações de artesãos e comerciantes que regulavam ofícios, controlando preços e qualidade. Sabia que elas surgiram nas cidades medievais e fortaleciam o comércio local?",
+    "palavras_chave": ["guildas", "artesãos", "comércio", "cidades medievais", "regulação"]
+  },
+  {
+    "pergunta": "Quem foi Joana d’Arc?",
+    "resposta": "Camponesa francesa que liderou tropas na Guerra dos Cem Anos, foi capturada e queimada aos 19 anos. Sabia que ela foi canonizada como santa em 1920?",
+    "palavras_chave": ["Joana d’Arc", "Guerra dos Cem Anos", "França", "heroína", "santa"]
+  },
+  {
+    "pergunta": "O que foi a Guerra dos Cem Anos?",
+    "resposta": "Conflito entre França e Inglaterra de 1337 a 1453 por disputas territoriais. Sabia que Joana d’Arc foi decisiva em várias batalhas para a França?",
+    "palavras_chave": ["Guerra dos Cem Anos", "França", "Inglaterra", "séculos XIV-XV", "território"]
+  },
+  {
+    "pergunta": "Quem foram os mouros?",
+    "resposta": "Muçulmanos que ocuparam a Península Ibérica, influenciando arquitetura e cultura. Sabia que construíram a Alhambra, símbolo da arte islâmica na Espanha?",
+    "palavras_chave": ["mouros", "Península Ibérica", "cultura islâmica", "Alhambra", "Idade Média"]
+  },
+  {
+    "pergunta": "O que foi a Reconquista?",
+    "resposta": "Processo cristão de retomada da Península Ibérica dos mouros, concluído em 1492. Sabia que coincidiu com a expulsão dos judeus da Espanha?",
+    "palavras_chave": ["Reconquista", "Península Ibérica", "mouros", "1492", "cristianismo"]
+  },
+  {
+    "pergunta": "Quem foi Maomé?",
+    "resposta": "Profeta fundador do islamismo no século VII, unindo tribos árabes. Sabia que sua fuga para Medina, a Hégira, marca o início do calendário islâmico?",
+    "palavras_chave": ["Maomé", "Islamismo", "século VII", "Hégira", "calendário islâmico"]
+  },
+  {
+    "pergunta": "O que foi a Inquisição?",
+    "resposta": "Tribunal da Igreja Católica que perseguia heresias, ativo principalmente na Idade Média e Moderna. Sabia que a Inquisição Espanhola durou até o século XIX?",
+    "palavras_chave": ["Inquisição", "Igreja Católica", "heresias", "séculos XV-XIX", "Idade Média"]
+  },
+  {
+    "pergunta": "Quem foi Averróis?",
+    "resposta": "Filósofo árabe que preservou e comentou obras de Aristóteles, influenciando a filosofia europeia. Sabia que algumas de suas obras foram proibidas temporariamente na Europa cristã?",
+    "palavras_chave": ["Averróis", "filosofia árabe", "Aristóteles", "Europa", "Idade Média"]
+  },
+  {
+    "pergunta": "Como a economia funcionava na Idade Média?",
+    "resposta": "Baseada na agricultura e na produção local, com comércio limitado a feiras e rotas entre cidades. Sabia que moedas eram raras e o escambo ainda era comum em algumas regiões?",
+    "palavras_chave": ["economia", "Idade Média", "agricultura", "comércio", "feiras"]
+  },
+  {
+    "pergunta": "Qual era a vida nas cidades medievais?",
+    "resposta": "As cidades eram pequenas, muradas, com comércio local e guildas. Sabia que a população vivia em condições apertadas e frequentemente enfrentava epidemias?",
+    "palavras_chave": ["cidades medievais", "Idade Média", "comércio", "população", "epidemias"]
+  },
+  {
+    "pergunta": "O que eram os castelos medievais?",
+    "resposta": "Fortificações construídas para defesa e residência de senhores feudais. Sabia que muitos castelos possuíam fossos, torres e muralhas duplas para proteção?",
+    "palavras_chave": ["castelos", "Idade Média", "fortificações", "senhores feudais", "defesa"]
+  },
+  {
+    "pergunta": "Como era a sociedade medieval?",
+    "resposta": "Estruturada de forma hierárquica: reis, nobres, clero e camponeses. Sabia que a mobilidade social era muito limitada, e a posição de nascimento quase determinava toda a vida?",
+    "palavras_chave": ["sociedade medieval", "hierarquia", "rei", "nobreza", "camponeses"]
+  },
+  {
+    "pergunta": "Qual era o papel do clero na sociedade medieval?",
+    "resposta": "O clero orientava espiritualmente a população e detinha poder político e econômico. Sabia que muitos mosteiros eram também centros de produção agrícola e educação?",
+    "palavras_chave": ["clero", "sociedade medieval", "poder", "mosteiros", "educação"]
+  },
+  {
+    "pergunta": "O que eram os servos?",
+    "resposta": "Camponeses vinculados à terra e aos senhores feudais, trabalhando em troca de proteção. Sabia que não podiam se casar ou deixar a terra sem permissão do senhor?",
+    "palavras_chave": ["servos", "camponeses", "feudalismo", "proteção", "Idade Média"]
+  },
+  {
+    "pergunta": "Qual era o papel das mulheres na Idade Média?",
+    "resposta": "Variava entre camponesas, freiras e nobres, geralmente restrito a tarefas domésticas ou religiosas. Sabia que algumas rainhas e abadessas exerciam grande influência política e cultural?",
+    "palavras_chave": ["mulheres", "Idade Média", "nobreza", "freiras", "papel social"]
+  },
+  {
+    "pergunta": "O que eram os mosteiros?",
+    "resposta": "Espaços religiosos onde monges e freiras viviam, oravam e copiavam manuscritos. Sabia que eles preservaram grande parte da literatura clássica da Antiguidade?",
+    "palavras_chave": ["mosteiros", "monges", "Idade Média", "religião", "manuscritos"]
+  },
+  {
+    "pergunta": "Como funcionava a educação na Idade Média?",
+    "resposta": "A educação estava ligada à Igreja, com escolas em mosteiros e catedrais. Sabia que o ensino era voltado para leitura, escrita, latim e teologia?",
+    "palavras_chave": ["educação", "Igreja", "Idade Média", "escolas", "teologia"]
+  },
+  {
+    "pergunta": "O que eram os castelos?",
+    "resposta": "Fortificações usadas para defesa militar e residência de nobres. Sabia que sua arquitetura incluía torres, muralhas, fossos e portões reforçados?",
+    "palavras_chave": ["castelos", "defesa", "nobres", "arquitetura", "Idade Média"]
+  },
+  {
+    "pergunta": "O que eram as cidades medievais?",
+    "resposta": "Pequenas e muradas, com comércio local e guildas de artesãos. Sabia que essas cidades eram centros de feiras e mercados importantes para a economia regional?",
+    "palavras_chave": ["cidades medievais", "comércio", "guildas", "Idade Média", "feiras"]
+  },
+  {
+    "pergunta": "O que eram as guildas?",
+    "resposta": "Associações de artesãos e comerciantes que regulavam profissões e mantinham padrões de qualidade. Sabia que algumas guildas tinham rituais e símbolos próprios?",
+    "palavras_chave": ["guildas", "artesãos", "comércio", "profissões", "Idade Média"]
+  },
+  {
+    "pergunta": "Como funcionava o comércio na Idade Média?",
+    "resposta": "Era local e limitado, com feiras, rotas comerciais entre cidades e troca de produtos. Sabia que moedas eram escassas e o escambo ainda era comum?",
+    "palavras_chave": ["comércio", "Idade Média", "feiras", "escambo", "cidades"]
+  },
+  {
+    "pergunta": "Qual era a importância da Igreja Católica na vida cotidiana?",
+    "resposta": "Ela orientava moral, regras sociais e festividades, sendo central na vida de todos. Sabia que festas religiosas também funcionavam como encontros sociais e comerciais?",
+    "palavras_chave": ["Igreja Católica", "vida cotidiana", "festividades", "Idade Média", "moral"]
+  },
+  {
+    "pergunta": "O que eram as catedrais góticas?",
+    "resposta": "Grandes igrejas construídas entre os séculos XII e XV, com vitrais e torres altas. Sabia que elas eram símbolo de poder religioso e engenharia avançada da época?",
+    "palavras_chave": ["catedrais", "gótico", "Idade Média", "igrejas", "vitral"]
+  },
+  {
+    "pergunta": "Como era a vida dos camponeses?",
+    "resposta": "Viviam em pequenas aldeias, trabalhavam na agricultura e pagavam tributos aos senhores. Sabia que sua alimentação era básica, baseada em cereais, legumes e, ocasionalmente, carne?",
+    "palavras_chave": ["camponeses", "vida cotidiana", "Idade Média", "agricultura", "tributos"]
+  },
+  {
+    "pergunta": "O que era o sistema de vassalagem?",
+    "resposta": "Relação de fidelidade entre senhores e vassalos, onde o vassalo jurava lealdade e recebia terras ou proteção. Sabia que era formalizada em cerimônias chamadas de homenagem?",
+    "palavras_chave": ["vassalagem", "feudalismo", "Idade Média", "lealdade", "homenagem"]
+  },
+  {
+    "pergunta": "O que eram as cruzadas?",
+    "resposta": "Expedições militares para retomar Jerusalém dos muçulmanos, influenciando comércio e cultura. Sabia que muitas cidades europeias prosperaram economicamente com essas rotas?",
+    "palavras_chave": ["Cruzadas", "Jerusalém", "Idade Média", "comércio", "militar"]
+  },
+  {
+    "pergunta": "O que era o comércio marítimo na Idade Média?",
+    "resposta": "Comércio realizado por portos mediterrâneos e cidades costeiras, conectando Europa, África e Oriente Médio. Sabia que cidades como Veneza e Gênova se tornaram ricas e influentes?",
+    "palavras_chave": ["comércio marítimo", "Idade Média", "Veneza", "Gênova", "Mediterrâneo"]
+  },
+  {
+    "pergunta": "O que eram as feiras medievais?",
+    "resposta": "Eventos periódicos para venda de produtos, troca de mercadorias e encontros culturais. Sabia que muitas feiras tinham autorização real e atraíam comerciantes de várias regiões?",
+    "palavras_chave": ["feiras", "comércio", "Idade Média", "cultura", "mercadorias"]
+  },
+  {
+    "pergunta": "O que eram as ordens religiosas?",
+    "resposta": "Comunidades de monges ou freiras que seguiam regras de vida espiritual, como os beneditinos e franciscanos. Sabia que eles influenciavam educação, agricultura e caridade?",
+    "palavras_chave": ["ordens religiosas", "Idade Média", "monges", "freiras", "educação"]
+  },
+  {
+    "pergunta": "Como eram as festas medievais?",
+    "resposta": "Misturavam religião, cultura e lazer, celebrando santos, colheitas e vitórias militares. Sabia que eram momentos importantes de socialização entre camponeses e nobres?",
+    "palavras_chave": ["festas medievais", "Idade Média", "religião", "cultura", "socialização"]
+  },
+  {
+    "pergunta": "Qual era o papel da religião na cultura medieval?",
+    "resposta": "Orientava arte, literatura, educação e costumes, sendo o eixo da vida social. Sabia que as catedrais e manuscritos iluminados refletem esse papel?",
+    "palavras_chave": ["religião", "cultura", "Idade Média", "arte", "educação"]
+  },
+  {
+    "pergunta": "O que eram os conflitos feudais?",
+    "resposta": "Disputas entre senhores e vassalos por terras e poder, comuns na Europa medieval. Sabia que essas guerras locais muitas vezes destruíam vilas e aldeias próximas?",
+    "palavras_chave": ["conflitos feudais", "Idade Média", "senhores", "vassalos", "terras"]
+  },
+  {
+    "pergunta": "O que foi a Guerra dos Cem Anos?",
+    "resposta": "Conflito entre França e Inglaterra de 1337 a 1453 por disputas territoriais e sucessão ao trono francês. Sabia que a guerra marcou o uso de novas armas e estratégias militares?",
+    "palavras_chave": ["Guerra dos Cem Anos", "França", "Inglaterra", "Idade Média", "militar"]
+  },
+  {
+    "pergunta": "Quem foram os vikings nas invasões europeias?",
+    "resposta": "Guerreiros e comerciantes da Escandinávia que atacaram e colonizaram partes da Europa entre os séculos VIII e XI. Sabia que eles também fundaram cidades e rotas comerciais importantes?",
+    "palavras_chave": ["vikings", "invasões", "Europa", "séculos VIII-XI", "comércio"]
+  },
+  {
+    "pergunta": "O que foi a Reconquista?",
+    "resposta": "Processo cristão de retomada da Península Ibérica dos mouros, concluído em 1492. Sabia que coincidiu com a expansão marítima europeia?",
+    "palavras_chave": ["Reconquista", "Península Ibérica", "mouros", "1492", "cristianismo"]
+  },
+  {
+    "pergunta": "Quem foram os mouros?",
+    "resposta": "Muçulmanos que dominaram partes da Península Ibérica e influenciaram arquitetura, agricultura e cultura. Sabia que a Alhambra, na Espanha, é um dos maiores legados dessa presença?",
+    "palavras_chave": ["mouros", "Península Ibérica", "cultura islâmica", "arquitetura", "Idade Média"]
+  },
+  {
+    "pergunta": "O que eram as cidades-estados italianas?",
+    "resposta": "Cidades como Veneza, Florença e Gênova que tinham autonomia política e econômica. Sabia que foram centros comerciais e culturais do comércio mediterrâneo?",
+    "palavras_chave": ["cidades-estados", "Itália", "Idade Média", "comércio", "autonomia"]
+  },
+  {
+    "pergunta": "Quem foi Carlos Magno?",
+    "resposta": "Rei dos francos e imperador do Sacro Império Romano-Germânico, unindo grande parte da Europa Ocidental. Sabia que incentivou escolas e preservou conhecimentos antigos?",
+    "palavras_chave": ["Carlos Magno", "Império Carolíngio", "Idade Média", "educação", "Europa"]
+  },
+  {
+    "pergunta": "O que foi o Sacro Império Romano-Germânico?",
+    "resposta": "Conjunto de territórios na Europa Central governados por imperadores, começando com Carlos Magno. Sabia que buscava unir poder secular e religioso?",
+    "palavras_chave": ["Sacro Império Romano-Germânico", "Idade Média", "Carlos Magno", "religião", "política"]
+  },
+  {
+    "pergunta": "O que eram os feudos?",
+    "resposta": "Terras concedidas por senhores a vassalos em troca de lealdade e serviço militar. Sabia que os feudos funcionavam como pequenas unidades econômicas e políticas?",
+    "palavras_chave": ["feudos", "vassalos", "senhores", "Idade Média", "economia"]
+  },
+  {
+    "pergunta": "O que eram as ordens militares?",
+    "resposta": "Organizações de cavaleiros que protegiam territórios e peregrinos, como os templários e hospitalários. Sabia que combinavam vida religiosa e funções militares?",
+    "palavras_chave": ["ordens militares", "templários", "hospitalários", "Idade Média", "religião"]
+  },
+  {
+    "pergunta": "Como funcionava a guerra medieval?",
+    "resposta": "Baseada em castelos, cavalaria e armas como espadas e arcos. Sabia que estratégias incluíam cercos prolongados e alianças políticas?",
+    "palavras_chave": ["guerra medieval", "Idade Média", "castelos", "cavalaria", "estratégia"]
+  },
+  {
+    "pergunta": "O que foram as revoltas camponesas?",
+    "resposta": "Levantes de servos contra senhores feudais devido a impostos, fome e abusos. Sabia que algumas, como a Revolta dos Camponeses na Inglaterra, influenciaram mudanças sociais?",
+    "palavras_chave": ["revoltas camponesas", "servos", "Idade Média", "feudalismo", "protesto"]
+  },
+  {
+    "pergunta": "O que foi a Peste Negra?",
+    "resposta": "Epidemia que matou milhões na Europa no século XIV, mudando economia e sociedade. Sabia que a escassez de trabalhadores aumentou o poder dos camponeses?",
+    "palavras_chave": ["Peste Negra", "Idade Média", "século XIV", "pandemia", "Europa"]
+  },
+  {
+    "pergunta": "Como a política feudal afetava a justiça?",
+    "resposta": "A justiça era local, controlada por senhores, e baseada em costumes e lealdade. Sabia que nem sempre havia leis escritas, e decisões eram influenciadas por poder e prestígio?",
+    "palavras_chave": ["política feudal", "justiça", "senhores", "Idade Média", "costumes"]
+  },
+  {
+    "pergunta": "O que eram os castelos medievais?",
+    "resposta": "Fortificações de defesa e residência dos nobres, protegendo territórios e pessoas. Sabia que muitos tinham fossos, torres de vigia e muralhas duplas?",
+    "palavras_chave": ["castelos", "defesa", "nobres", "Idade Média", "fortificação"]
+  },
+  {
+    "pergunta": "Quem eram os senhores feudais?",
+    "resposta": "Proprietários de terras que controlavam camponeses e exerciam poder local. Sabia que podiam ter soldados próprios e cobrar tributos para manter a riqueza?",
+    "palavras_chave": ["senhores feudais", "Idade Média", "terras", "camponeses", "poder"]
+  },
+  {
+    "pergunta": "O que eram os vassalos?",
+    "resposta": "Indivíduos que recebiam feudos e prometiam lealdade e serviço militar aos senhores. Sabia que cerimônias chamadas homenagens formalizavam essa relação?",
+    "palavras_chave": ["vassalos", "feudos", "senhores", "Idade Média", "lealdade"]
+  },
+  {
+    "pergunta": "O que era o juramento de fidelidade?",
+    "resposta": "Compromisso formal de vassalos aos senhores, base do sistema feudal. Sabia que incluía cerimônias e até símbolos, como o toque das mãos?",
+    "palavras_chave": ["juramento de fidelidade", "vassalos", "senhores", "feudalismo", "Idade Média"]
+  },
+  {
+    "pergunta": "Como os conflitos influenciaram a política medieval?",
+    "resposta": "Guerras e disputas territoriais moldaram alianças, fortalezas e mudanças de poder. Sabia que algumas cidades e regiões só se desenvolveram após décadas de conflito?",
+    "palavras_chave": ["conflitos", "política medieval", "Idade Média", "território", "alianças"]
+  },
+  {
+    "pergunta": "O que eram os conflitos feudais?",
+    "resposta": "Disputas entre senhores e vassalos por terras e poder, comuns na Europa medieval. Sabia que essas guerras locais muitas vezes destruíam vilas e aldeias próximas?",
+    "palavras_chave": ["conflitos feudais", "Idade Média", "senhores", "vassalos", "terras"]
+  },
+  {
+    "pergunta": "O que foi a Guerra dos Cem Anos?",
+    "resposta": "Conflito entre França e Inglaterra de 1337 a 1453 por disputas territoriais e sucessão ao trono francês. Sabia que a guerra marcou o uso de novas armas e estratégias militares?",
+    "palavras_chave": ["Guerra dos Cem Anos", "França", "Inglaterra", "Idade Média", "militar"]
+  },
+  {
+    "pergunta": "Quem foram os vikings nas invasões europeias?",
+    "resposta": "Guerreiros e comerciantes da Escandinávia que atacaram e colonizaram partes da Europa entre os séculos VIII e XI. Sabia que eles também fundaram cidades e rotas comerciais importantes?",
+    "palavras_chave": ["vikings", "invasões", "Europa", "séculos VIII-XI", "comércio"]
+  },
+  {
+    "pergunta": "O que foi a Reconquista?",
+    "resposta": "Processo cristão de retomada da Península Ibérica dos mouros, concluído em 1492. Sabia que coincidiu com a expansão marítima europeia?",
+    "palavras_chave": ["Reconquista", "Península Ibérica", "mouros", "1492", "cristianismo"]
+  },
+  {
+    "pergunta": "Quem foram os mouros?",
+    "resposta": "Muçulmanos que dominaram partes da Península Ibérica e influenciaram arquitetura, agricultura e cultura. Sabia que a Alhambra, na Espanha, é um dos maiores legados dessa presença?",
+    "palavras_chave": ["mouros", "Península Ibérica", "cultura islâmica", "arquitetura", "Idade Média"]
+  },
+  {
+    "pergunta": "O que eram as cidades-estados italianas?",
+    "resposta": "Cidades como Veneza, Florença e Gênova que tinham autonomia política e econômica. Sabia que foram centros comerciais e culturais do comércio mediterrâneo?",
+    "palavras_chave": ["cidades-estados", "Itália", "Idade Média", "comércio", "autonomia"]
+  },
+  {
+    "pergunta": "Quem foi Carlos Magno?",
+    "resposta": "Rei dos francos e imperador do Sacro Império Romano-Germânico, unindo grande parte da Europa Ocidental. Sabia que incentivou escolas e preservou conhecimentos antigos?",
+    "palavras_chave": ["Carlos Magno", "Império Carolíngio", "Idade Média", "educação", "Europa"]
+  },
+  {
+    "pergunta": "O que foi o Sacro Império Romano-Germânico?",
+    "resposta": "Conjunto de territórios na Europa Central governados por imperadores, começando com Carlos Magno. Sabia que buscava unir poder secular e religioso?",
+    "palavras_chave": ["Sacro Império Romano-Germânico", "Idade Média", "Carlos Magno", "religião", "política"]
+  },
+  {
+    "pergunta": "O que eram os feudos?",
+    "resposta": "Terras concedidas por senhores a vassalos em troca de lealdade e serviço militar. Sabia que os feudos funcionavam como pequenas unidades econômicas e políticas?",
+    "palavras_chave": ["feudos", "vassalos", "senhores", "Idade Média", "economia"]
+  },
+  {
+    "pergunta": "O que eram as ordens militares?",
+    "resposta": "Organizações de cavaleiros que protegiam territórios e peregrinos, como os templários e hospitalários. Sabia que combinavam vida religiosa e funções militares?",
+    "palavras_chave": ["ordens militares", "templários", "hospitalários", "Idade Média", "religião"]
+  },
+  {
+    "pergunta": "Como funcionava a guerra medieval?",
+    "resposta": "Baseada em castelos, cavalaria e armas como espadas e arcos. Sabia que estratégias incluíam cercos prolongados e alianças políticas?",
+    "palavras_chave": ["guerra medieval", "Idade Média", "castelos", "cavalaria", "estratégia"]
+  },
+  {
+    "pergunta": "O que foram as revoltas camponesas?",
+    "resposta": "Levantes de servos contra senhores feudais devido a impostos, fome e abusos. Sabia que algumas, como a Revolta dos Camponeses na Inglaterra, influenciaram mudanças sociais?",
+    "palavras_chave": ["revoltas camponesas", "servos", "Idade Média", "feudalismo", "protesto"]
+  },
+  {
+    "pergunta": "O que foi a Peste Negra?",
+    "resposta": "Epidemia que matou milhões na Europa no século XIV, mudando economia e sociedade. Sabia que a escassez de trabalhadores aumentou o poder dos camponeses?",
+    "palavras_chave": ["Peste Negra", "Idade Média", "século XIV", "pandemia", "Europa"]
+  },
+  {
+    "pergunta": "Como a política feudal afetava a justiça?",
+    "resposta": "A justiça era local, controlada por senhores, e baseada em costumes e lealdade. Sabia que nem sempre havia leis escritas, e decisões eram influenciadas por poder e prestígio?",
+    "palavras_chave": ["política feudal", "justiça", "senhores", "Idade Média", "costumes"]
+  },
+  {
+    "pergunta": "O que eram os castelos medievais?",
+    "resposta": "Fortificações de defesa e residência dos nobres, protegendo territórios e pessoas. Sabia que muitos tinham fossos, torres de vigia e muralhas duplas?",
+    "palavras_chave": ["castelos", "defesa", "nobres", "Idade Média", "fortificação"]
+  },
+  {
+    "pergunta": "Quem eram os senhores feudais?",
+    "resposta": "Proprietários de terras que controlavam camponeses e exerciam poder local. Sabia que podiam ter soldados próprios e cobrar tributos para manter a riqueza?",
+    "palavras_chave": ["senhores feudais", "Idade Média", "terras", "camponeses", "poder"]
+  },
+  {
+    "pergunta": "O que eram os vassalos?",
+    "resposta": "Indivíduos que recebiam feudos e prometiam lealdade e serviço militar aos senhores. Sabia que cerimônias chamadas homenagens formalizavam essa relação?",
+    "palavras_chave": ["vassalos", "feudos", "senhores", "Idade Média", "lealdade"]
+  },
+  {
+    "pergunta": "O que era o juramento de fidelidade?",
+    "resposta": "Compromisso formal de vassalos aos senhores, base do sistema feudal. Sabia que incluía cerimônias e até símbolos, como o toque das mãos?",
+    "palavras_chave": ["juramento de fidelidade", "vassalos", "senhores", "feudalismo", "Idade Média"]
+  },
+  {
+    "pergunta": "Como os conflitos influenciaram a política medieval?",
+    "resposta": "Guerras e disputas territoriais moldaram alianças, fortalezas e mudanças de poder. Sabia que algumas cidades e regiões só se desenvolveram após décadas de conflito?",
+    "palavras_chave": ["conflitos", "política medieval", "Idade Média", "território", "alianças"]
+  },
+  {
+    "pergunta": "Como era a arte na Idade Média?",
+    "resposta": "A arte era fortemente ligada à religião, com vitrais, afrescos e esculturas em catedrais. Sabia que muitos artistas eram anônimos e faziam trabalhos para igrejas e monastérios?",
+    "palavras_chave": ["arte medieval", "religião", "catedrais", "vitrais", "Idade Média"]
+  },
+  {
+    "pergunta": "O que eram os manuscritos iluminados?",
+    "resposta": "Livros feitos à mão, decorados com ouro e cores vivas, geralmente com temas religiosos. Sabia que os monges dedicavam meses para completar uma única obra?",
+    "palavras_chave": ["manuscritos iluminados", "Idade Média", "monges", "religião", "livros"]
+  },
+  {
+    "pergunta": "O que era a música medieval?",
+    "resposta": "Principalmente sacra, cantada em latim nas igrejas e mosteiros. Sabia que o canto gregoriano é um exemplo clássico dessa tradição musical?",
+    "palavras_chave": ["música medieval", "canto gregoriano", "Idade Média", "religião", "mosteiros"]
+  },
+  {
+    "pergunta": "Como funcionava a educação medieval?",
+    "resposta": "Ligada à Igreja, em escolas de mosteiros e catedrais, focada em latim e teologia. Sabia que universidades surgiram apenas no final da Idade Média, como Bolonha e Paris?",
+    "palavras_chave": ["educação", "Idade Média", "Igreja", "universidades", "teologia"]
+  },
+  {
+    "pergunta": "O que eram as universidades medievais?",
+    "resposta": "Centros de ensino superior surgidos no século XII, inicialmente ligadas à Igreja. Sabia que o termo 'universitas' significava associação de mestres e estudantes?",
+    "palavras_chave": ["universidades", "Idade Média", "educação", "Igreja", "mestres"]
+  },
+  {
+    "pergunta": "Quem foram os trovadores?",
+    "resposta": "Poetas e músicos que cantavam sobre amor e eventos sociais na Europa medieval. Sabia que a música trovadoresca influenciou a literatura e a cultura cortesã?",
+    "palavras_chave": ["trovadores", "música", "poesia", "Idade Média", "cultura"]
+  },
+  {
+    "pergunta": "O que era a arquitetura gótica?",
+    "resposta": "Estilo medieval com igrejas altas, vitrais coloridos e arcos pontiagudos. Sabia que a catedral de Notre-Dame de Paris é um exemplo famoso?",
+    "palavras_chave": ["arquitetura gótica", "Idade Média", "igrejas", "vitrais", "Notre-Dame"]
+  },
+  {
+    "pergunta": "Como eram as bibliotecas medievais?",
+    "resposta": "Localizadas em mosteiros e catedrais, preservavam manuscritos religiosos e científicos. Sabia que muitas obras da Antiguidade sobreviveram graças a essas bibliotecas?",
+    "palavras_chave": ["bibliotecas", "Idade Média", "manuscritos", "mosteiros", "preservação"]
+  },
+  {
+    "pergunta": "Quem foi Santo Tomás de Aquino?",
+    "resposta": "Filósofo e teólogo que conciliou fé e razão na Escolástica. Sabia que sua obra 'Suma Teológica' influenciou filosofia e teologia por séculos?",
+    "palavras_chave": ["Santo Tomás de Aquino", "Escolástica", "filosofia", "teologia", "Idade Média"]
+  },
+  {
+    "pergunta": "O que era a Escolástica?",
+    "resposta": "Corrente filosófica medieval que buscava conciliar fé e razão. Sabia que teve influência de Aristóteles e de filósofos árabes como Averróis?",
+    "palavras_chave": ["Escolástica", "Idade Média", "filosofia", "fé e razão", "Aristóteles"]
+  },
+  {
+    "pergunta": "Como surgiram os contos e épicos medievais?",
+    "resposta": "Narrativas transmitidas oralmente e depois escritas, muitas vezes com temas de cavalaria e aventuras. Sabia que 'Beowulf' é um dos exemplos mais antigos da literatura medieval?",
+    "palavras_chave": ["literatura medieval", "épicos", "cavalaria", "Idade Média", "Beowulf"]
+  },
+  {
+    "pergunta": "O que eram as iluminuras?",
+    "resposta": "Desenhos decorativos em manuscritos, feitos por monges ou artistas medievais. Sabia que eram usadas para ilustrar e embelezar textos religiosos?",
+    "palavras_chave": ["iluminuras", "manuscritos", "Idade Média", "arte", "religião"]
+  },
+  {
+    "pergunta": "Quem eram os monges copistas?",
+    "resposta": "Monges responsáveis por copiar livros à mão, preservando conhecimentos antigos. Sabia que algumas cópias eram adornadas com ouro e cores vivas?",
+    "palavras_chave": ["monges copistas", "Idade Média", "manuscritos", "preservação", "arte"]
+  },
+  {
+    "pergunta": "O que eram as relíquias medievais?",
+    "resposta": "Objetos sagrados de santos ou de Cristo, venerados em igrejas. Sabia que peregrinações eram feitas para visitar essas relíquias, movimentando cidades inteiras?",
+    "palavras_chave": ["relíquias", "Idade Média", "santos", "peregrinação", "igrejas"]
+  },
+  {
+    "pergunta": "Como funcionava a medicina medieval?",
+    "resposta": "Baseada em tradições, ervas e teoria dos humores, com influência de Galeno e Hipócrates. Sabia que a peste e outras epidemias mostraram suas limitações?",
+    "palavras_chave": ["medicina", "Idade Média", "humores", "ervas", "epidemias"]
+  },
+  {
+    "pergunta": "O que era a astrologia na Idade Média?",
+    "resposta": "Prática ligada à ciência e à religião, usada para prever acontecimentos e doenças. Sabia que muitos médicos usavam mapas astrais para diagnósticos?",
+    "palavras_chave": ["astrologia", "Idade Média", "medicina", "religião", "previsão"]
+  },
+  {
+    "pergunta": "O que eram as tapestries medievais?",
+    "resposta": "Grandes tecidos decorativos usados em castelos, representando histórias ou batalhas. Sabia que serviam também para isolar paredes frias?",
+    "palavras_chave": ["tapestries", "Idade Média", "castelos", "decoração", "arte"]
+  },
+  {
+    "pergunta": "O que eram as feiras culturais?",
+    "resposta": "Eventos onde arte, música, literatura e comércio se encontravam. Sabia que muitas dessas feiras tornaram-se tradições anuais em cidades europeias?",
+    "palavras_chave": ["feiras culturais", "Idade Média", "arte", "comércio", "tradição"]
+  },
+  {
+    "pergunta": "O que era o teatro medieval?",
+    "resposta": "Espetáculos ligados à religião, apresentados em praças e igrejas. Sabia que as peças ensinavam histórias bíblicas para pessoas que não sabiam ler?",
+    "palavras_chave": ["teatro medieval", "Idade Média", "religião", "educação", "arte"]
+  },
+  {
+    "pergunta": "Como a ciência evoluiu na Idade Média?",
+    "resposta": "Baseada em observação, filosofia e textos antigos, muitas vezes ligada à Igreja. Sabia que traduções de obras árabes ajudaram a preservar e expandir conhecimento?",
+    "palavras_chave": ["ciência medieval", "Idade Média", "observação", "Igreja", "traduções"]
+  },
+  {
+    "pergunta": "Como funcionava a economia na Idade Média?",
+    "resposta": "A economia era principalmente agrária, baseada na produção local e na troca entre aldeias e feudos. Sabia que moedas eram escassas e, muitas vezes, o escambo ainda era a principal forma de comércio entre camponeses e senhores?",
+    "palavras_chave": ["economia medieval", "agricultura", "escambo", "feudos", "Idade Média"]
+  },
+  {
+    "pergunta": "Como era a agricultura medieval?",
+    "resposta": "A agricultura utilizava técnicas simples, como arado de madeira e rotação de culturas. Sabia que a produtividade era baixa e dependia muito das condições climáticas, afetando toda a economia?",
+    "palavras_chave": ["agricultura", "Idade Média", "produtividade", "técnicas", "clima"]
+  },
+  {
+    "pergunta": "O que eram os feudos e qual sua importância econômica?",
+    "resposta": "Feudos eram terras controladas por senhores, onde camponeses cultivavam alimentos e pagavam tributos. Sabia que eles funcionavam como pequenas unidades econômicas autossuficientes, garantindo a sobrevivência da população local?",
+    "palavras_chave": ["feudos", "Idade Média", "economia", "camponeses", "tributos"]
+  },
+  {
+    "pergunta": "Como era a vida dos camponeses?",
+    "resposta": "Viviam em aldeias, trabalhavam na agricultura e cumpriam obrigações com o senhor feudal. Sabia que sua alimentação era simples, baseada em pão, legumes e, às vezes, carne, e que a mortalidade infantil era muito alta?",
+    "palavras_chave": ["camponeses", "Idade Média", "agricultura", "vida cotidiana", "alimentação"]
+  },
+  {
+    "pergunta": "Como eram as aldeias medievais?",
+    "resposta": "Aldeias eram pequenas comunidades próximas a feudos, com casas de madeira ou barro, e campos ao redor. Sabia que muitas aldeias eram cercadas por paliçadas para proteção contra invasores e animais selvagens?",
+    "palavras_chave": ["aldeias", "Idade Média", "camponeses", "feudos", "proteção"]
+  },
+  {
+    "pergunta": "Qual era o papel dos mercados e feiras na economia medieval?",
+    "resposta": "Eram locais de troca de produtos, informações e cultura entre aldeias e cidades. Sabia que algumas feiras duravam semanas e atraíam comerciantes de várias regiões da Europa?",
+    "palavras_chave": ["mercados", "feiras", "Idade Média", "comércio", "aldeias"]
+  },
+  {
+    "pergunta": "O que eram os impostos e tributos medievais?",
+    "resposta": "Pagos pelos camponeses aos senhores feudais, podiam ser em produtos, dinheiro ou trabalho. Sabia que o excesso de tributos muitas vezes gerava revoltas e insatisfação nas aldeias?",
+    "palavras_chave": ["impostos", "tributos", "camponeses", "Idade Média", "feudos"]
+  },
+  {
+    "pergunta": "Como era a alimentação na Idade Média?",
+    "resposta": "Baseada em cereais, legumes, frutas e, ocasionalmente, carne ou peixe. Sabia que a dieta variava muito entre camponeses e nobres, sendo mais rica e diversificada para os últimos?",
+    "palavras_chave": ["alimentação", "Idade Média", "camponeses", "nobres", "cereais"]
+  },
+  {
+    "pergunta": "Como funcionava a produção artesanal?",
+    "resposta": "Artesãos produziam utensílios, roupas e ferramentas, muitas vezes organizados em guildas que regulavam qualidade e preços. Sabia que algumas guildas tinham rituais, símbolos e hierarquias próprias?",
+    "palavras_chave": ["artesanato", "Idade Média", "guildas", "produção", "comércio"]
+  },
+  {
+    "pergunta": "Qual era a importância dos rios e estradas na economia?",
+    "resposta": "Serviam para transporte de mercadorias e comunicação entre cidades e feudos. Sabia que rios como o Reno e o Sena foram fundamentais para o crescimento do comércio na Europa medieval?",
+    "palavras_chave": ["rios", "estradas", "Idade Média", "comércio", "transporte"]
+  },
+  {
+    "pergunta": "Como a agricultura influenciava a política?",
+    "resposta": "A produção de alimentos determinava riqueza e poder dos senhores feudais. Sabia que safras ruins podiam gerar crises, fome e até revoltas camponesas?",
+    "palavras_chave": ["agricultura", "política", "Idade Média", "feudos", "crise"]
+  },
+  {
+    "pergunta": "Como funcionava o comércio urbano?",
+    "resposta": "Realizado em cidades e vilas, com feiras, guildas e mercados permanentes. Sabia que comerciantes urbanos acumulavam riqueza e podiam desafiar o poder dos senhores feudais?",
+    "palavras_chave": ["comércio urbano", "Idade Média", "cidades", "guildas", "mercados"]
+  },
+  {
+    "pergunta": "Como a tecnologia influenciava a produção agrícola?",
+    "resposta": "Ferramentas como arados de ferro e moinhos de água aumentaram a produtividade. Sabia que essas inovações permitiram alimentar mais pessoas e expandir cidades?",
+    "palavras_chave": ["tecnologia", "Idade Média", "agricultura", "produtividade", "inovação"]
+  },
+  {
+    "pergunta": "O que eram os moinhos medievais?",
+    "resposta": "Estruturas usadas para moer grãos, movidas por vento ou água. Sabia que o uso de moinhos liberava tempo dos camponeses e aumentava a produção de farinha?",
+    "palavras_chave": ["moinhos", "Idade Média", "agricultura", "produção", "grãos"]
+  },
+  {
+    "pergunta": "Como eram as estradas e caminhos medievais?",
+    "resposta": "Em grande parte de terra batida, precárias e perigosas, ligando vilas e feudos. Sabia que a dificuldade de transporte limitava o comércio e a comunicação?",
+    "palavras_chave": ["estradas", "Idade Média", "caminhos", "transporte", "comércio"]
+  },
+  {
+    "pergunta": "O que eram os mercados sazonais?",
+    "resposta": "Feiras que aconteciam em datas específicas para venda de produtos e troca cultural. Sabia que algumas dessas feiras duravam semanas e atraíam comerciantes de diferentes regiões?",
+    "palavras_chave": ["mercados sazonais", "Idade Média", "feiras", "comércio", "cultura"]
+  },
+  {
+    "pergunta": "Como era a vida familiar dos camponeses?",
+    "resposta": "Famílias viviam juntas em casas simples, compartilhando trabalho na agricultura e tarefas domésticas. Sabia que crianças ajudavam desde cedo e a expectativa de vida era muito baixa?",
+    "palavras_chave": ["família", "camponeses", "Idade Média", "vida cotidiana", "trabalho"]
+  },
+  {
+    "pergunta": "Qual era a relação entre senhores e camponeses?",
+    "resposta": "Baseada em proteção e obrigações mútuas: camponeses trabalhavam e pagavam tributos, senhores ofereciam segurança e justiça. Sabia que abusos de senhores podiam gerar revoltas locais?",
+    "palavras_chave": ["senhores", "camponeses", "feudos", "Idade Média", "relações"]
+  },
+  {
+    "pergunta": "O que eram as terras comunais?",
+    "resposta": "Áreas usadas coletivamente pelos aldeões para pasto e colheita. Sabia que essas terras ajudavam a complementar a alimentação das famílias camponesas?",
+    "palavras_chave": ["terras comunais", "Idade Média", "aldeias", "camponeses", "agricultura"]
+  },
+  {
+    "pergunta": "Como o clima afetava a economia medieval?",
+    "resposta": "Secas, enchentes e frio intenso podiam reduzir colheitas e gerar fome. Sabia que períodos de frio prolongado no século XIV contribuíram para a Peste Negra e crises econômicas?",
+    "palavras_chave": ["clima", "economia", "Idade Média", "agricultura", "crises"]
+  },
+  {
+    "pergunta": "Qual era a importância da Igreja Católica na Idade Média?",
+    "resposta": "A Igreja Católica controlava religião, educação, moral e grande parte da política. Sabia que ela também arrecadava impostos, como o dízimo, garantindo seu poder econômico?",
+    "palavras_chave": ["Igreja Católica", "Idade Média", "religião", "educação", "poder"]
+  },
+  {
+    "pergunta": "O que eram os mosteiros?",
+    "resposta": "Comunidades de monges dedicados à oração, estudo e trabalho. Sabia que os mosteiros preservaram manuscritos antigos e conhecimentos da Antiguidade?",
+    "palavras_chave": ["mosteiros", "Idade Média", "monges", "estudo", "religião"]
+  },
+  {
+    "pergunta": "O que era a vida monástica?",
+    "resposta": "Vida de dedicação à religião, oração, estudo e trabalho manual dentro dos mosteiros. Sabia que regras como a Regra de São Bento organizavam a rotina diária?",
+    "palavras_chave": ["vida monástica", "mosteiros", "Idade Média", "oração", "trabalho"]
+  },
+  {
+    "pergunta": "O que eram as ordens religiosas?",
+    "resposta": "Grupos de monges ou freiras com regras específicas, como beneditinos, franciscanos e cistercienses. Sabia que muitas ordens influenciaram educação, caridade e agricultura?",
+    "palavras_chave": ["ordens religiosas", "Idade Média", "beneditinos", "franciscanos", "cistercienses"]
+  },
+  {
+    "pergunta": "O que era a vida espiritual dos camponeses?",
+    "resposta": "Participavam de missas, festas religiosas e peregrinações, buscando proteção divina. Sabia que muitos acreditavam que rezar ou cumprir penitências podia afastar doenças ou desastres?",
+    "palavras_chave": ["vida espiritual", "camponeses", "Idade Média", "religião", "peregrinação"]
+  },
+  {
+    "pergunta": "O que eram as relíquias?",
+    "resposta": "Objetos sagrados ligados a santos ou Cristo, venerados em igrejas. Sabia que peregrinos viajavam longas distâncias para visitá-las, movimentando cidades inteiras?",
+    "palavras_chave": ["relíquias", "Idade Média", "santos", "peregrinação", "igrejas"]
+  },
+  {
+    "pergunta": "O que eram as festas religiosas?",
+    "resposta": "Celebrações de santos, colheitas e datas cristãs, misturando fé, lazer e cultura. Sabia que eram momentos de socialização e comércio, além de devoção?",
+    "palavras_chave": ["festas religiosas", "Idade Média", "celebração", "cultura", "socialização"]
+  },
+  {
+    "pergunta": "O que era a Inquisição?",
+    "resposta": "Tribunal criado pela Igreja para julgar heresias e preservar a fé. Sabia que métodos de tortura eram usados para obter confissões, mas o objetivo declarado era a conversão?",
+    "palavras_chave": ["Inquisição", "Idade Média", "heresia", "Igreja", "tribunal"]
+  },
+  {
+    "pergunta": "Quem eram os hereges?",
+    "resposta": "Pessoas que questionavam ou contrariavam a doutrina oficial da Igreja. Sabia que grupos como cátaros e valdenses foram perseguidos durante séculos?",
+    "palavras_chave": ["hereges", "Idade Média", "Igreja", "cátaros", "valdenses"]
+  },
+  {
+    "pergunta": "O que eram as Cruzadas?",
+    "resposta": "Expedições militares para retomar Jerusalém dos muçulmanos, mas também para expandir influência política e econômica. Sabia que elas fomentaram comércio e trocas culturais entre Oriente e Europa?",
+    "palavras_chave": ["Cruzadas", "Idade Média", "Jerusalém", "religião", "comércio"]
+  },
+  {
+    "pergunta": "Quem eram os templários?",
+    "resposta": "Ordem militar religiosa criada para proteger peregrinos e territórios sagrados. Sabia que acumularam grande riqueza e foram dissolvidos sob acusações de heresia no século XIV?",
+    "palavras_chave": ["templários", "Idade Média", "ordem militar", "religião", "peregrinos"]
+  },
+  {
+    "pergunta": "Qual era o papel do papa na Idade Média?",
+    "resposta": "Líder espiritual do cristianismo, com grande influência política e social. Sabia que alguns papas intervinham em guerras e coronavam imperadores?",
+    "palavras_chave": ["papa", "Idade Média", "Igreja", "política", "religião"]
+  },
+  {
+    "pergunta": "O que eram as peregrinações?",
+    "resposta": "Viagens a locais sagrados em busca de proteção, cura ou devoção. Sabia que cidades como Santiago de Compostela se tornaram importantes centros de peregrinação?",
+    "palavras_chave": ["peregrinação", "Idade Média", "religião", "Santiago de Compostela", "devotos"]
+  },
+  {
+    "pergunta": "O que era o misticismo medieval?",
+    "resposta": "Busca por experiência direta com Deus, presente em santos e filósofos. Sabia que figuras como Hildegarda de Bingen escreveram sobre visões e experiências espirituais?",
+    "palavras_chave": ["misticismo", "Idade Média", "santos", "espiritualidade", "religião"]
+  },
+  {
+    "pergunta": "Como a religião influenciava a arte?",
+    "resposta": "Temas religiosos dominavam pintura, escultura e arquitetura. Sabia que as catedrais góticas e os vitrais eram criados para ensinar a fé a quem não sabia ler?",
+    "palavras_chave": ["religião", "arte", "Idade Média", "catedrais", "vitral"]
+  },
+  {
+    "pergunta": "O que eram os sermões medievais?",
+    "resposta": "Discursos religiosos feitos por padres ou monges para instruir e moralizar a população. Sabia que muitas vezes eram usados para reforçar a autoridade da Igreja?",
+    "palavras_chave": ["sermões", "Idade Média", "Igreja", "educação", "moral"]
+  },
+  {
+    "pergunta": "O que eram as indulgências?",
+    "resposta": "Documentos que garantiam perdão de pecados, vendidos ou concedidos pela Igreja. Sabia que a venda de indulgências foi um dos estopins para a Reforma Protestante?",
+    "palavras_chave": ["indulgências", "Idade Média", "Igreja", "pecados", "Reforma"]
+  },
+  {
+    "pergunta": "O que era a moralidade medieval?",
+    "resposta": "Baseada em ensinamentos da Igreja, determinando certo e errado na vida cotidiana. Sabia que festas, comércio e até vestimenta eram regulados por normas morais?",
+    "palavras_chave": ["moralidade", "Idade Média", "Igreja", "costumes", "religião"]
+  },
+  {
+    "pergunta": "Como a fé influenciava a política?",
+    "resposta": "Reis e senhores buscavam legitimar seu poder por meio da Igreja, e o papa podia intervir em disputas. Sabia que o direito de coroar imperadores era uma das maiores fontes de poder papal?",
+    "palavras_chave": ["fé", "política", "Idade Média", "Igreja", "poder"]
+  },
+  {
+    "pergunta": "O que eram os santos na Idade Média?",
+    "resposta": "Pessoas reconhecidas por sua vida exemplar e milagres, veneradas pela Igreja. Sabia que muitos santos se tornaram símbolos culturais, influenciando festas, nomes e arte?",
+    "palavras_chave": ["santos", "Idade Média", "religião", "veneração", "cultura"]
+  },
+  {
+    "pergunta": "Como a ciência era vista na Idade Média?",
+    "resposta": "Muitas descobertas eram ligadas à filosofia e à religião, buscando entender o mundo como criação divina. Sabia que textos de Aristóteles e Galeno foram estudados e comentados nos mosteiros e universidades?",
+    "palavras_chave": ["ciência", "Idade Média", "filosofia", "religião", "universidades"]
+  },
+  {
+    "pergunta": "Quem foi Averróis?",
+    "resposta": "Filósofo árabe que estudou Aristóteles e influenciou a filosofia medieval europeia. Sabia que suas obras foram traduzidas para o latim e estudadas em universidades cristãs?",
+    "palavras_chave": ["Averróis", "filosofia", "Idade Média", "Aristóteles", "universidades"]
+  },
+  {
+    "pergunta": "Quem foi Tomás de Aquino?",
+    "resposta": "Filósofo e teólogo que conciliou fé e razão na Escolástica. Sabia que sua obra 'Suma Teológica' se tornou referência na filosofia e teologia cristã?",
+    "palavras_chave": ["Tomás de Aquino", "Escolástica", "Idade Média", "filosofia", "teologia"]
+  },
+  {
+    "pergunta": "O que era a Escolástica?",
+    "resposta": "Corrente filosófica que buscava unir fé e razão para entender o mundo e Deus. Sabia que influenciou toda a educação medieval, especialmente nas universidades?",
+    "palavras_chave": ["Escolástica", "Idade Média", "filosofia", "fé e razão", "universidades"]
+  },
+  {
+    "pergunta": "Quem foi Roger Bacon?",
+    "resposta": "Filósofo e cientista medieval que valorizou a observação e o método experimental. Sabia que ele estudou óptica, matemática e alquimia, antecipando ideias modernas?",
+    "palavras_chave": ["Roger Bacon", "Idade Média", "ciência", "observação", "experimento"]
+  },
+  {
+    "pergunta": "Como a astronomia se desenvolveu?",
+    "resposta": "Baseada em observações e tradições antigas, com influência árabe e grega. Sabia que tabelas astronômicas ajudavam agricultores e navegadores?",
+    "palavras_chave": ["astronomia", "Idade Média", "observação", "Árabes", "agricultura"]
+  },
+  {
+    "pergunta": "O que eram os tratados científicos medievais?",
+    "resposta": "Livros escritos por monges, filósofos e médicos sobre medicina, matemática e filosofia natural. Sabia que muitos copiavam e comentavam obras antigas para preservar conhecimento?",
+    "palavras_chave": ["tratados", "Idade Média", "ciência", "medicina", "filosofia"]
+  },
+  {
+    "pergunta": "Qual era a importância da tradução de textos árabes?",
+    "resposta": "Permitiram que a Europa acessasse conhecimentos em matemática, medicina e astronomia. Sabia que cidades como Toledo e Palermo se tornaram centros de tradução no século XII?",
+    "palavras_chave": ["tradução", "Idade Média", "Árabes", "ciência", "Europa"]
+  },
+  {
+    "pergunta": "Quem foi Galeno e qual sua influência?",
+    "resposta": "Médico grego cujas obras sobre anatomia e medicina eram estudadas na Idade Média. Sabia que suas ideias sobre os quatro humores dominaram a medicina por séculos?",
+    "palavras_chave": ["Galeno", "medicina", "Idade Média", "humores", "anatomia"]
+  },
+  {
+    "pergunta": "Quem foi Hipócrates e sua influência?",
+    "resposta": "Médico grego considerado o 'pai da medicina', estudado na Idade Média. Sabia que o Juramento de Hipócrates ainda é referência ética para médicos?",
+    "palavras_chave": ["Hipócrates", "medicina", "Idade Média", "ética", "saúde"]
+  },
+  {
+    "pergunta": "O que eram as escolas catedralícias?",
+    "resposta": "Centros de ensino ligados a catedrais que formavam clérigos e estudiosos. Sabia que foram precursoras das universidades medievais?",
+    "palavras_chave": ["escolas catedralícias", "Idade Média", "educação", "Igreja", "universidades"]
+  },
+  {
+    "pergunta": "Como a alquimia influenciou a ciência medieval?",
+    "resposta": "Buscava transformar metais e descobrir a pedra filosofal, misturando química e filosofia. Sabia que, apesar do misticismo, contribuiu para o desenvolvimento da química moderna?",
+    "palavras_chave": ["alquimia", "Idade Média", "ciência", "química", "filosofia"]
+  },
+  {
+    "pergunta": "Quem foi Alberto Magno?",
+    "resposta": "Filósofo e cientista que estudou botânica, zoologia e filosofia natural. Sabia que foi professor de Tomás de Aquino e influenciou a Escolástica?",
+    "palavras_chave": ["Alberto Magno", "Idade Média", "ciência", "filosofia", "botânica"]
+  },
+  {
+    "pergunta": "Como a matemática era estudada?",
+    "resposta": "Baseada em textos antigos, álgebra árabe e aritmética prática para comércio. Sabia que números arábicos substituíram o sistema romano por serem mais eficientes?",
+    "palavras_chave": ["matemática", "Idade Média", "álgebra", "comércio", "números arábicos"]
+  },
+  {
+    "pergunta": "O que era a óptica medieval?",
+    "resposta": "Estudo da luz e visão, explorado por filósofos como Roger Bacon. Sabia que experimentos com lentes ajudaram a desenvolver instrumentos como óculos e telescópios?",
+    "palavras_chave": ["ótica", "Idade Média", "luz", "Roger Bacon", "instrumentos"]
+  },
+  {
+    "pergunta": "Como a filosofia influenciava a vida cotidiana?",
+    "resposta": "Orientava ética, moral e decisões políticas, conectando religião e razão. Sabia que debates sobre justiça e dever eram comuns em tribunais e conselhos medievais?",
+    "palavras_chave": ["filosofia", "Idade Média", "ética", "moral", "vida cotidiana"]
+  },
+  {
+    "pergunta": "O que eram as enciclopédias medievais?",
+    "resposta": "Compilações de conhecimentos sobre artes, ciências e religião. Sabia que organizavam informação para educação de clérigos e nobres?",
+    "palavras_chave": ["enciclopédias", "Idade Média", "ciência", "educação", "religião"]
+  },
+  {
+    "pergunta": "O que eram as observações astronômicas?",
+    "resposta": "Estudos do movimento de planetas e estrelas, importantes para agricultura e navegação. Sabia que o calendário juliano e tabelas astronômicas ajudavam na vida diária?",
+    "palavras_chave": ["astronomia", "Idade Média", "observação", "calendário", "navegação"]
+  },
+  {
+    "pergunta": "Como a herança medieval influenciou a ciência moderna?",
+    "resposta": "Preservação de textos antigos, métodos de observação e universidades medievais prepararam o caminho para o Renascimento. Sabia que muitas descobertas científicas só foram possíveis graças a traduções e comentários medievais?",
+    "palavras_chave": ["herança", "Idade Média", "ciência", "Renascimento", "universidades"]
+  },
+  {
+    "pergunta": "Como a filosofia árabe influenciou a Europa?",
+    "resposta": "Traduções de filósofos como Averróis e Avicena introduziram lógica, medicina e astronomia na educação europeia. Sabia que sem essas traduções, a Escolástica não teria se desenvolvido tão plenamente?",
+    "palavras_chave": ["filosofia árabe", "Idade Média", "traduções", "Escolástica", "Europa"]
+  }
+]

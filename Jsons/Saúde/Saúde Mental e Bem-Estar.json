@@ -1,0 +1,603 @@
+[
+  {
+    "pergunta": "O que é, de fato, saúde mental?",
+    "resposta": "Saúde mental vai muito além da simples ausência de doenças. É o estado de bem-estar no qual uma pessoa consegue lidar com o estresse normal da vida, trabalhar de forma produtiva e contribuir para sua comunidade. Envolve nosso equilíbrio emocional, psicológico e social. Sabia que a Organização Mundial da Saúde define saúde como um estado de completo bem-estar físico, mental e social, e não meramente a ausência de doença? Isso mostra que a saúde mental é um pilar fundamental da nossa saúde geral.",
+    "palavras_chave": ["bem-estar", "equilíbrio", "emocional", "psicológico", "oms"]
+  },
+  {
+    "pergunta": "Qual a diferença entre tristeza e depressão?",
+    "resposta": "A tristeza é uma emoção humana normal, geralmente desencadeada por um evento específico, como uma perda ou frustração. Ela é passageira e não impede totalmente a pessoa de sentir alegria ou seguir com sua rotina. Já a depressão é um transtorno de saúde mental. É uma condição persistente, que dura pelo menos duas semanas, e causa uma profunda sensação de vazio, perda de interesse em atividades prazerosas, alterações no sono e apetite, e pode vir acompanhada de sentimentos de inutilidade. A depressão precisa de um diagnóstico e tratamento adequados, que podem incluir terapia e, em muitos casos, medicação.",
+    "palavras_chave": ["tristeza", "depressão", "transtorno", "emoção", "diagnóstico"]
+  },
+  {
+    "pergunta": "Como a ansiedade funciona no nosso cérebro?",
+    "resposta": "A ansiedade é, em sua essência, um mecanismo de proteção. Quando percebemos uma ameaça, uma região do cérebro chamada amígdala é ativada, desencadeando a resposta de 'luta ou fuga'. Isso libera hormônios como a adrenalina e o cortisol, que preparam o corpo para agir. O problema surge quando esse sistema de alarme dispara de forma desproporcional ou em situações que não representam perigo real, como em uma reunião social ou ao pensar no futuro. É como um alarme de incêndio extremamente sensível que toca com o calor do sol. Sabia que um pouco de ansiedade antes de uma prova ou apresentação é normal e até melhora o desempenho? O transtorno acontece quando ela se torna constante e paralisante.",
+    "palavras_chave": ["ansiedade", "amígdala", "cortisol", "luta ou fuga", "transtorno"]
+  },
+  {
+    "pergunta": "O que é a Síndrome de Burnout?",
+    "resposta": "A Síndrome de Burnout é um estado de esgotamento físico, mental e emocional crônico, causado pelo excesso de trabalho e estresse prolongado no ambiente profissional. Ela foi reconhecida pela Organização Mundial da Saúde como um fenômeno ocupacional. Os principais sintomas são exaustão extrema, cinismo e sentimentos de ineficiência e falta de realização no trabalho. Diferente do estresse comum, o Burnout está especificamente ligado ao contexto laboral e faz a pessoa se sentir 'queimada', esgotada. Sabia que profissionais da saúde, educação e de setores com alta demanda emocional estão entre os mais vulneráveis a desenvolver Burnout?",
+    "palavras_chave": ["burnout", "esgotamento", "trabalho", "estresse", "profissional"]
+  },
+  {
+    "pergunta": "Terapia é só para pessoas com problemas graves?",
+    "resposta": "Absolutamente não. Essa é uma visão ultrapassada. A terapia é uma ferramenta de autoconhecimento e desenvolvimento pessoal para qualquer pessoa. Pense nela como uma academia para a mente: você não precisa estar doente para se beneficiar, pode ir para ficar mais forte, resiliente e entender melhor suas emoções. Ela ajuda a desenvolver habilidades para lidar com conflitos, melhorar relacionamentos, gerenciar o estresse do dia a dia e compreender padrões de pensamento e comportamento. Muitas pessoas buscam terapia simplesmente para ter um espaço seguro de reflexão e crescimento.",
+    "palavras_chave": ["terapia", "autoconhecimento", "psicólogo", "desenvolvimento", "emoções"]
+  },
+  {
+    "pergunta": "O que é mindfulness e como praticar?",
+    "resposta": "Mindfulness, ou Atenção Plena, é a prática de trazer a nossa atenção para o momento presente, intencionalmente e sem julgamento. É sobre observar seus pensamentos, sensações corporais e o ambiente ao redor sem se deixar levar por eles. Uma forma simples de praticar é focar na respiração: sente-se confortavelmente, preste atenção no ar entrando e saindo dos seus pulmões. Quando a mente divagar, como é natural, gentilmente traga-a de volta ao foco na respiração, sem se criticar. Sabia que estudos mostram que a prática regular de mindfulness pode reduzir significativamente os níveis de cortisol, o hormônio do estresse, e aumentar a massa cinzenta em áreas do cérebro ligadas à memória e à regulação emocional?",
+    "palavras_chave": ["mindfulness", "atenção plena", "meditação", "presente", "respiração"]
+  },
+  {
+    "pergunta": "Por que às vezes nos sentimos sozinhos mesmo cercados de pessoas?",
+    "resposta": "Esse sentimento é conhecido como 'solidão emocional'. Ele não está relacionado à quantidade de interações sociais, mas à qualidade e profundidade dessas conexões. Você pode estar em uma festa cheia de gente, mas se não há ninguém com quem você se sinta verdadeiramente compreendido, aceito ou possa compartilhar seus sentimentos reais, a solidão aparece. Isso sinaliza uma necessidade humana fundamental não atendida: a de pertencimento e de vínculos significativos. Na era das redes sociais, onde as conexões são muitas vezes superficiais, essa sensação tem se tornado cada vez mais comum.",
+    "palavras_chave": ["solidão", "emoção", "conexão", "pertencimento", "relacionamentos"]
+  },
+  {
+    "pergunta": "Qual a relação entre exercício físico e saúde mental?",
+    "resposta": "A relação é extremamente poderosa e direta. Quando nos exercitamos, o corpo libera endorfinas, neurotransmissores conhecidos como 'hormônios do bem-estar', que atuam como analgésicos naturais e elevadores de humor. Além disso, a atividade física regular reduz os níveis de adrenalina e cortisol, hormônios do estresse. Mas os benefícios vão além da química: estabelecer uma rotina de exercícios proporciona uma sensação de conquista, melhora a autoestima, oferece uma pausa mental dos problemas e pode ser uma forma de socialização. Sabia que caminhadas regulares em ambientes naturais, como parques, têm um efeito particularmente positivo na redução de sintomas de ansiedade e depressão?",
+    "palavras_chave": ["exercício", "endorfinas", "estresse", "humor", "autoestima"]
+  },
+  {
+    "pergunta": "O que é resiliência emocional?",
+    "resposta": "Resiliência emocional é a capacidade de se adaptar e se recuperar diante de adversidades, traumas, tragédias ou fontes significativas de estresse. Não é sobre evitar a dor ou não sentir emoções negativas, mas sobre a habilidade de passar por essas experiências, aprender com elas e seguir em frente. Pense em um bambu que se dobra com o vento forte, mas não quebra. Pessoas resilientes conseguem gerenciar suas emoções, manter uma visão mais realista e otimista, e buscar apoio quando necessário. É uma habilidade que pode ser desenvolvida ao longo da vida, através de práticas como o mindfulness e a terapia.",
+    "palavras_chave": ["resiliência", "adaptação", "estresse", "superação", "habilidade"]
+  },
+  {
+    "pergunta": "Como estabelecer limites saudáveis nos relacionamentos?",
+    "resposta": "Estabelecer limites é uma forma de autocuidado e de comunicar aos outros como desejamos ser tratados. Envolve identificar seus limites (o que você aceita ou não), comunicá-los de forma clara, calma e assertiva, e manter-se firme, mesmo que a outra pessoa reaja mal. Por exemplo, dizer 'Não posso atender ligações de trabalho depois das 18h' é um limite. Não é um ataque, é uma informação. Muitas pessoas confundem ser 'bonzinho' com ser passivo, e acabam se sobrecarregando. Sabia que a dificuldade em estabelecer limites está frequentemente ligada ao medo de desagradar ou de ser rejeitado?",
+    "palavras_chave": ["limites", "relacionamentos", "assertividade", "autocuidado", "comunicação"]
+  },
+  {
+    "pergunta": "O que é o transtorno de ansiedade social?",
+    "resposta": "É um transtorno de ansiedade caracterizado por um medo intenso e persistente de situações sociais ou de desempenho. A pessoa teme ser julgada, envergonhada ou humilhada pelos outros. Não é simplesmente timidez; é um medo paralisante que pode impedir a pessoa de falar em público, comer na frente dos outros, ir a festas ou até mesmo usar um banheiro público. Fisicamente, pode desencadear sudorese, tremores, taquicardia e até ataques de pânico. A boa notícia é que é um transtorno altamente tratável, geralmente com uma combinação de terapia cognitivo-comportamental e, em alguns casos, medicação.",
+    "palavras_chave": ["ansiedade social", "fobia", "timidez", "julgamento", "transtorno"]
+  },
+  {
+    "pergunta": "Por que choramos e isso faz bem?",
+    "resposta": "Chorar é uma resposta emocional complexa e profundamente humana. Do ponto de vista biológico, existem três tipos de lágrimas: as basais, que lubrificam os olhos; as reflexivas, para limpar irritantes; e as emocionais. As lágrimas emocionais contêm hormônios do estresse e outras toxinas, então chorar é literalmente uma forma de o corpo se livrar fisicamente do estresse acumulado. Psicologicamente, chorar é um sinal de socorro não verbal, que pode mobilizar apoio social, e também funciona como uma catarse, uma liberação emocional que ajuda a processar sentimentos intensos. Sabia que, após chorar, muitas pessoas relatam uma sensação de alívio e calma, devido à liberação de ocitocina e endorfinas?",
+    "palavras_chave": ["choro", "emoção", "estresse", "catarse", "alívio"]
+  },
+  {
+    "pergunta": "O que é o Transtorno Afetivo Bipolar?",
+    "resposta": "É um transtorno mental que causa alterações de humor extremas, que incluem episódios de euforia (mania ou hipomania) e depressão. Durante uma fase maníaca, a pessoa pode se sentir extremamente energizada, eufórica, com a autoestima inflada, gastar dinheiro compulsivamente e ter uma diminuição da necessidade de sono. Já na fase depressiva, ela experimenta os sintomas clássicos da depressão profunda. É crucial entender que o bipolar não é apenas 'mudança de humor' comum; são oscilações severas que causam prejuízos significativos na vida da pessoa. O tratamento é feito com estabilizadores de humor e psicoterapia.",
+    "palavras_chave": ["bipolar", "mania", "depressão", "humor", "estabilizador"]
+  },
+  {
+    "pergunta": "Como a gratidão impacta o nosso cérebro?",
+    "resposta": "Praticar a gratidão não é só um clichê; tem um efeito neuroquímico real. Quando nos sentimos genuinamente gratos, nosso cérebro libera dopamina e serotonina, neurotransmissores cruciais para a sensação de prazer e bem-estar. Essa prática fortalece neural pathways associados à felicidade, tornando mais fácil acessar emoções positivas com o tempo. Estudos de neuroimagem mostram que a gratidão ativa áreas do cérebro ligadas à recompensa, como o córtex pré-frontal. Praticar um diário de gratidão, por exemplo, é como malhar um 'músculo' cerebral para focar no positivo. Sabia que pessoas que praticam gratidão regularmente relatam dormir melhor e ter um sistema imunológico mais forte?",
+    "palavras_chave": ["gratidão", "dopamina", "cérebro", "bem-estar", "neurociência"]
+  },
+  {
+    "pergunta": "O que é o Transtorno do Déficit de Atenção com Hiperatividade (TDAH) em adultos?",
+    "resposta": "O TDAH não é um transtorno apenas da infância; persiste na vida adulta de cerca de 60% das pessoas diagnosticadas na infância. Nos adultos, os sintomas de hiperatividade podem se internalizar, manifestando-se como uma inquietação mental constante, em vez de física. Os principais desafios são a desorganização crônica, a dificuldade em gerenciar tempo, a procrastinação extrema, a impulsividade em decisões e relacionamentos, e a instabilidade emocional. Muitos adultos só recebem o diagnóstico tardiamente, após anos se sentindo 'preguiçosos' ou 'incapazes', o que pode levar a problemas de autoestima e ansiedade.",
+    "palavras_chave": ["tdah", "adulto", "atenção", "hiperatividade", "procrastinação"]
+  },
+  {
+    "pergunta": "Qual a importância do sono para a saúde mental?",
+    "resposta": "O sono é um pilar fundamental, não um luxo. Durante o sono, especialmente na fase REM, nosso cérebro realiza uma 'limpeza' de toxinas, consolida memórias e processa emoções. Dormir mal uma noite já pode nos deixar mais irritáveis e menos tolerantes no dia seguinte. A privação crônica de sono é um fator de risco significativo para o desenvolvimento de transtornos como ansiedade e depressão. Sem um descanso adequado, a amígdala (nosso centro de alerta) fica hiperativa, e o córtex pré-frontal (responsável pelo julgamento e controle de impulsos) fica menos eficiente. Sabia que durante o sono profundo, o cérebro literalmente 'lava'-se com líquido cefalorraquidiano, removendo proteínas tóxicas associadas à neurodegeneração?",
+    "palavras_chave": ["sono", "cérebro", "memória", "emoção", "repouso"]
+  },
+  {
+    "pergunta": "O que é fobia específica?",
+    "resposta": "É um tipo de transtorno de ansiedade caracterizado por um medo irracional, excessivo e persistente desencadeado por um objeto ou situação específica. A pessoa reconhece que o medo é desproporcional, mas não consegue controlá-lo. Exemplos comuns incluem medo de altura (acrofobia), de lugares fechados (claustrofobia), de aranhas (aracnofobia) ou de voar (aerofobia). O contato, ou mesmo a antecipação do contato, com o estímulo fóbico provoca uma reação de ansiedade imediata, que pode chegar a um ataque de pânico. A terapia de exposição é um dos tratamentos mais eficazes, onde a pessoa é gradualmente e de forma segura exposta ao objeto do seu medo.",
+    "palavras_chave": ["fobia", "medo", "ansiedade", "pânico", "tratamento"]
+  },
+  {
+    "pergunta": "Como a arte (música, pintura) pode ajudar na saúde mental?",
+    "resposta": "A arte funciona como uma ferramenta poderosa de expressão e processamento emocional. Quando é difícil colocar sentimentos complexos em palavras, a arte oferece um canal alternativo. Pintar, tocar um instrumento ou dançar pode ser uma forma de mindfulness, onde a mente se concentra totalmente no ato criativo, dando uma pausa dos pensamentos ruminativos. Além disso, a arteterapia é usada clinicamente para ajudar pessoas a acessarem emoções subconscientes e traumas. Do ponto de vista social, fazer parte de um coral ou grupo de teatro, por exemplo, combate a solidão. Sabia que simplesmente ouvir música que você gosta libera dopamina no cérebro, o mesmo neurotransmissor liberado por comida e sexo?",
+    "palavras_chave": ["arte", "expressão", "emoção", "musicoterapia", "criatividade"]
+  },
+  {
+    "pergunta": "O que é o luto e quanto tempo dura?",
+    "resposta": "O luto é uma resposta emocional natural e universal à perda de alguém ou algo significativo. Não é uma doença, mas um processo. A famosa teoria dos '5 estágios do luto' (negação, raiva, barganha, depressão e aceitação) de Elisabeth Kübler-Ross é um modelo, mas não uma receita; cada pessoa vive o luto de forma única e não linear. Não há um tempo 'correto' para durar. O que se considera hoje é que o luto 'complicado' é aquele que, após um longo período (como um ano ou mais), ainda impede a pessoa de refazer sua vida e encontrar novos significados. O importante é permitir-se sentir a dor sem julgamentos e buscar apoio.",
+    "palavras_chave": ["luto", "perda", "processo", "dor", "aceitação"]
+  },
+  {
+    "pergunta": "O que é autoestima e como construí-la?",
+    "resposta": "Autoestima é a avaliação subjetiva que uma pessoa faz de si mesma como sendo intrinsecamente positiva ou negativa. É construída a partir de nossas experiências e das mensagens que internalizamos ao longo da vida. Para construí-la, é importante: 1) Desafiar o crítico interno, questionando pensamentos autodepreciativos. 2) Praticar a autocompaixão, tratando-se com a mesma gentileza que trataria um amigo. 3) Estabelecer metas realistas e celebrar pequenas conquistas. 4) Cuidar do corpo, pois a autoestima não é só mental. 5) Envolver-se em atividades que façam você se sentir competente e valioso. Sabia que a autoestima não é sobre se achar 'perfeito', mas sobre se aceitar e se respeitar mesmo com imperfeições?",
+    "palavras_chave": ["autoestima", "autoconceito", "autocompaixão", "valor", "autoconfiança"]
+  },
+  {
+    "pergunta": "Qual a diferença entre psicólogo e psiquiatra?",
+    "resposta": "Essa é uma dúvida muito comum! O psicólogo é um profissional formado em Psicologia. Ele atua principalmente com a psicoterapia, ou seja, a 'terapia da conversa', ajudando o paciente a entender seus pensamentos, emoções e comportamentos através de diversas abordagens, como a Cognitivo-Comportamental ou a Psicanálise. O psicólogo não pode receitar medicamentos. Já o psiquiatra é um médico formado em Medicina com especialização em Psiquiatria. Ele está habilitado a diagnosticar transtornos mentais e a prescrever medicamentos, como antidepressivos e estabilizadores de humor. Muitas vezes, o tratamento mais eficaz é a combinação dos dois: a psicoterapia com o psicólogo e o acompanhamento medicamentoso com o psiquiatra.",
+    "palavras_chave": ["psicólogo", "psiquiatra", "psicoterapia", "medicamento", "tratamento"]
+  },
+  {
+    "pergunta": "O que é o Transtorno Obsessivo-Compulsivo (TOC)?",
+    "resposta": "O TOC é um transtorno de ansiedade caracterizado por dois componentes: as obsessões e as compulsões. Obsessões são pensamentos, imagens ou impulsos intrusivos, indesejados e recorrentes que causam muita ansiedade (ex: medo de contaminação, dúvidas constantes). Compulsões são comportamentos repetitivos ou atos mentais que a pessoa se sente compelida a executar para reduzir a ansiedade causada pela obsessão (ex: lavar as mãos excessivamente, verificar fechaduras, contar números). A pessoa sabe que seus rituais são irracionais, mas se sente incapaz de controlá-los. O TOC é tratado com terapia, como a Exposição e Prevenção de Resposta, e medicamentos.",
+    "palavras_chave": ["toc", "obsessão", "compulsão", "ansiedade", "ritual"]
+  },
+  {
+    "pergunta": "Como identificar um ataque de pânico?",
+    "resposta": "Um ataque de pânico é uma onda súbita e intensa de medo ou desconforto que atinge o pico em minutos. Os sintomas físicos são tão fortes que muitas pessoas acham que estão tendo um ataque cardíaco ou morrendo. Os sintomas incluem: palpitações, sudorese, tremores, falta de ar ou sensação de sufocamento, dor no peito, náusea, tontura, medo de perder o controle ou 'enlouquecer', e até desrealização (sensação de que o mundo não é real). É uma experiência aterrorizante, mas, embora pareça eterno, geralmente passa em 10 a 20 minutos. Ataques de pânico isolados são relativamente comuns, mas quando se tornam recorrentes e a pessoa desenvolve medo de ter outro, pode configurar um Transtorno de Pânico.",
+    "palavras_chave": ["pânico", "ataque", "medo", "sintomas", "ansiedade"]
+  },
+  {
+    "pergunta": "O que é inteligência emocional?",
+    "resposta": "Inteligência emocional é a capacidade de perceber, entender, usar e gerenciar as nossas próprias emoções e as dos outros de maneira positiva. Ela é composta por cinco pilares principais: 1) Autoconhecimento emocional: reconhecer as próprias emoções. 2) Autocontrole: gerenciar emoções impulsivas. 3) Automotivação: usar as emoções para alcançar objetivos. 4) Empatia: reconhecer as emoções nos outros. 5) Habilidades sociais: construir relacionamentos saudáveis. Pessoas com alta inteligência emocional tendem a ter melhores relacionamentos, maior sucesso profissional e maior bem-estar geral. Diferente do QI, que é considerado mais fixo, a inteligência emocional pode ser desenvolvida e aprimorada ao longo da vida.",
+    "palavras_chave": ["inteligência emocional", "empatia", "autocontrole", "autoconhecimento", "habilidades sociais"]
+  },
+  {
+    "pergunta": "Por que é tão difícil pedir ajuda quando estamos mal?",
+    "resposta": "Existem várias barreiras psicológicas e sociais. O estigma em torno da saúde mental ainda é forte, fazendo com que muitas pessoas vejam a luta emocional como uma fraqueza ou falha de caráter. Internamente, há o medo de ser um fardo para os outros, a vergonha de expor vulnerabilidades e a crença de que 'deveríamos' ser capazes de resolver nossos problemas sozinhos. Além disso, a própria depressão e a ansiedade distorcem o pensamento, criando a convicção de que ninguém pode ou quer ajudar. Romper esse silêncio é um passo crucial, e geralmente a primeira reação ao se abrir é um grande alívio e a descoberta de que não estamos tão sozinhos quanto pensávamos.",
+    "palavras_chave": ["ajuda", "estigma", "vulnerabilidade", "apoio", "isolamento"]
+  },
+  {
+    "pergunta": "O que é o Transtorno de Estresse Pós-Traumático (TEPT)?",
+    "resposta": "O TEPT é um transtorno de ansiedade que pode se desenvolver após a exposição a um evento traumático extremo, como uma guerra, um assalto, um acidente grave ou violência sexual. Os sintomas são agrupados em quatro categorias: 1) Revivência: pesadelos e flashbacks vívidos do trauma. 2) Esquiva: evitar pessoas, lugares ou pensamentos que lembrem o evento. 3) Alterações negativas no humor e cognição: sentimentos persistentes de medo, culpa ou incapacidade de recordar partes do trauma. 4) Hiperexcitação: estado constante de alerta, irritabilidade e resposta de susto exagerada. O TEPT altera a forma como o cérebro processa a memória e o medo, e seu tratamento requer terapia especializada.",
+    "palavras_chave": ["tept", "trauma", "estresse", "flashback", "ansiedade"]
+  },
+  {
+    "pergunta": "Como a alimentação influencia o humor?",
+    "resposta": "O intestino é frequentemente chamado de 'segundo cérebro', e há uma comunicação bidirecional constante entre eles, conhecida como eixo intestino-cérebro. Cerca de 90% da serotonina, um neurotransmissor crucial para o bem-estar, é produzida no intestino. Uma dieta rica em alimentos ultraprocessados, açúcar e gordura ruim promove inflamação, que está ligada a um maior risco de depressão. Por outro lado, uma dieta mediterrânea, rica em frutas, vegetais, grãos integrais, peixes e gorduras boas, tem efeito anti-inflamatório e fornece nutrientes essenciais para a produção de neurotransmissores. Sabia que probióticos (bactérias benéficas do intestino) estão sendo estudados por seu potencial em melhorar sintomas de ansiedade e depressão?",
+    "palavras_chave": ["alimentação", "intestino", "serotonina", "humor", "inflamação"]
+  },
+  {
+    "pergunta": "O que é o 'mindset' de crescimento?",
+    "resposta": "É um conceito desenvolvido pela psicóloga Carol Dweck que descreve a crença de que nossas habilidades básicas podem ser desenvolvidas através de dedicação e trabalho duro. É o oposto do 'mindset' fixo, que acredita que o talento e a inteligência são traços inatos e imutáveis. Pessoas com um mindset de crescimento veem os desafios como oportunidades de aprender, o fracasso como feedback e o esforço como o caminho para a maestria. Isso tem um impacto profundo na motivação e na resiliência. Cultivar um mindset de crescimento é uma ferramenta poderosa para a saúde mental, pois nos ajuda a lidar melhor com as críticas e a não desistir diante das dificuldades.",
+    "palavras_chave": ["mindset", "crescimento", "aprendizado", "resiliência", "mentalidade"]
+  },
+  {
+    "pergunta": "O que é a síndrome do impostor?",
+    "resposta": "É um fenômeno psicológico no qual uma pessoa é incapaz de internalizar suas conquistas e tem um medo persistente de ser exposta como uma 'fraude'. Apesar de evidências externas de sua competência, a pessoa acredita que não é inteligente, criativa ou capaz o suficiente, e atribui seu sucesso à sorte, a um timing perfeito ou por ter enganado os outros. É comum em ambientes acadêmicos e profissionais de alta performance. A síndrome do impostor gera muita ansiedade e pode levar a um ciclo de overworking na tentativa de 'compensar' a suposta falta de capacidade. Reconhecer esses pensamentos e compartilhá-los com outras pessoas é o primeiro passo para combatê-los.",
+    "palavras_chave": ["impostor", "fraude", "competência", "ansiedade", "autoconceito"]
+  },
+  {
+    "pergunta": "Como o uso excessivo de redes sociais afeta a saúde mental?",
+    "resposta": "O uso excessivo pode impactar negativamente de várias formas. A comparação social é uma das principais: vemos as vidas editadas e perfeitas dos outros e comparamos com nossos bastidores, o que gera sentimentos de inadequação e inveja. A busca por 'likes' e validação externa pode tornar a autoestima frágil e condicional. O FOMO (Medo de Perder Algo) gera ansiedade. Além disso, a luz azul das telas atrapalha a produção de melatonina, prejudicando o sono. O algoritmo cria bolhas que podem polarizar opiniões e amplificar a negatividade. O segredo não é a abstinência total, mas o uso consciente: definir limites de tempo, seguir perfis que inspirem e lembrar que o que se vê online não é a realidade completa.",
+    "palavras_chave": ["redes sociais", "comparação", "fomo", "autoestima", "ansiedade"]
+  },
+  {
+    "pergunta": "O que é autocompaixão e como praticar?",
+    "resposta": "Autocompaixão é tratar a si mesmo com a mesma bondade, cuidado e compreensão que você ofereceria a um bom amigo que está passando por um momento difícil. Envolve três elementos, segundo a pesquisadora Kristin Neff: 1) Autobondade: ser gentil consigo mesmo em vez de crítico. 2) Humanidade compartilhada: entender que sofrer e ser imperfeito é parte da experiência humana universal, e não uma falha pessoal. 3) Mindfulness: observar a dor emocional sem superidentificar-se com ela. Praticar autocompaixão não é ser indulgentes ou preguiçoso; é reconhecer que você merece cuidado especialmente quando as coisas dão errado. Tente se perguntar: 'O que eu diria para meu melhor amigo se ele estivesse na minha situação?' e depois direcione essas palavras a si mesmo.",
+    "palavras_chave": ["autocompaixão", "bondade", "mindfulness", "autocrítica", "aceitação"]
+  },
+  {
+    "pergunta": "O que é a psicologia positiva e no que ela se concentra?",
+    "resposta": "A Psicologia Positiva é um ramo da psicologia que surgiu no final dos anos 90, liderado por Martin Seligman, e que foca em estudar os aspectos que tornam a vida valiosa, em vez de se concentrar apenas na patologia e no sofrimento. Ela investiga forças de caráter, emoções positivas, resiliência, flow e bem-estar. A ideia não é ignorar os problemas, mas promover o florescimento humano, ajudando as pessoas a construir vidas com mais significado, engagement e emoções positivas. Sabia que estudos da psicologia positiva mostram que praticar atos de gentileza aleatórios pode aumentar significativamente nosso próprio nível de felicidade?",
+    "palavras_chave": ["psicologia positiva", "bem-estar", "forças", "florescimento", "felicidade"]
+  },
+  {
+    "pergunta": "Como o 'flow' ou 'estado de fluxo' beneficia a mente?",
+    "resposta": "O 'flow' é um estado mental de completa imersão e foco em uma atividade, a ponto de perder a noção do tempo e de si mesmo. Foi conceituado pelo psicólogo Mihaly Csikszentmihalyi. Você entra em flow quando o desafio da tarefa está perfeitamente equilibrado com sua habilidade para realizá-la. Os benefícios são enormes: aumenta a criatividade, a produtividade e a sensação de realização pessoal. É uma experiência profundamente gratificante e um antídoto contra a ansiedade e o tédio. Atividades como tocar um instrumento, praticar um esporte, pintar ou até programar podem induzir esse estado.",
+    "palavras_chave": ["flow", "fluxo", "concentração", "produtividade", "realização"]
+  },
+  {
+    "pergunta": "O que é o transtorno de personalidade borderline?",
+    "resposta": "O Transtorno de Personalidade Borderline (TPB) é caracterizado por um padrão de instabilidade nas relações interpessoais, na autoimagem e nas emoções. Pessoas com TPB frequentemente experimentam um medo intenso de abandono, têm relacionamentos intensos e instáveis, oscilações de humor rápidas, impulsividade (em gastos, sexo, abuso de substâncias) e podem ter comportamentos autodestrutivos ou suicidas. A sensação de vazio crônico e os ataques de raiva intensa são também comuns. A Terapia Comportamental Dialética, desenvolvida por Marsha Linehan, é um dos tratamentos mais eficazes, focando no ensino de habilidades de regulação emocional e tolerância ao sofrimento.",
+    "palavras_chave": ["borderline", "instabilidade", "emoção", "impulsividade", "terapia dialética"]
+  },
+  {
+    "pergunta": "Por que rir é um bom remédio?",
+    "resposta": "O riso é uma resposta fisiológica poderosa. Quando rimos, nosso corpo libera endorfinas, os neurotransmissores do bem-estar, que atuam como analgésicos naturais. O riso também reduz os níveis de cortisol e adrenalina, hormônios do estresse. Além dos benefícios químicos, o riso é uma atividade social que fortalece os laços, oferece uma distração dos problemas e ajuda a ver as situações sob uma nova perspectiva, menos ameaçadora. Sabia que existem até terapias com o riso, como a yoga do riso, que usam exercícios de riso simulados para alcançar os mesmos benefícios fisiológicos do riso espontâneo?",
+    "palavras_chave": ["riso", "endorfinas", "estresse", "social", "terapia"]
+  },
+  {
+    "pergunta": "O que é a Terapia Cognitivo-Comportamental (TCC)?",
+    "resposta": "A TCC é uma forma de psicoterapia focada no presente, breve e estruturada. Ela parte do princípio de que não são os eventos que nos perturbam, mas a interpretação que fazemos deles. Ou seja, nossos pensamentos (cognições) influenciam diretamente nossos sentimentos e comportamentos. A terapia identifica pensamentos automáticos negativos e distorções cognitivas (como 'catastrofização' ou 'pensamento tudo ou nada') e ensina a desafiar e reformular essas crenças disfuncionais. É altamente eficaz para transtornos de ansiedade, depressão, TOC e TEPT, pois fornece ferramentas práticas para que a pessoa se torne sua própria terapeuta.",
+    "palavras_chave": ["tcc", "pensamentos", "terapia", "comportamento", "crenças"]
+  },
+  {
+    "pergunta": "Como o contato com a natureza ajuda a reduzir o estresse?",
+    "resposta": "A ciência comprova que passar tempo na natureza, um conceito conhecido no Japão como 'banho de floresta' (Shinrin-yoku), tem efeitos profundos. Ele reduz a atividade do córtex pré-frontal (área associada à ruminação mental), diminui a pressão arterial, os níveis de cortisol e a frequência cardíaca. Os fitoncidas, óleos essenciais liberados pelas árvores, também parecem impulsionar nosso sistema imunológico. Psicologicamente, o ambiente natural restaura nossa atenção voluntária, nos dando uma pausa da fadiga mental da vida urbana. Uma simples caminhada em um parque pode ser um poderoso reset para a mente.",
+    "palavras_chave": ["natureza", "estresse", "banho de floresta", "cortisol", "mente"]
+  },
+  {
+    "pergunta": "O que é a esquizofrenia?",
+    "resposta": "A esquizofrenia é um transtorno mental complexo e grave que afeta a maneira como a pessoa pensa, sente e se comporta. Ela é caracterizada principalmente por sintomas chamados de 'positivos' e 'negativos'. Os positivos incluem alucinações (ouvir vozes é a mais comum) e delírios (crenças falsas e fixas). Os sintomas negativos referem-se a uma diminuição ou ausência de características normais, como falta de motivação, embotamento afetivo (expressão emocional reduzida) e isolamento social. A esquizofrenia geralmente surge no final da adolescência ou início da vida adulta. O tratamento é contínuo e envolve antipsicóticos e psicoterapia.",
+    "palavras_chave": ["esquizofrenia", "alucinação", "delírio", "transtorno", "antipsicótico"]
+  },
+  {
+    "pergunta": "O que é a ruminação mental e como parar?",
+    "resposta": "Ruminação é o ato de ficar 'remoendo' pensamentos negativos, passando os mesmos problemas na mente repetidamente, sem chegar a uma solução. É como um disco riscado da mente. Diferente da reflexão produtiva, a ruminação é passiva e foca apenas no 'porque isso aconteceu comigo' e nas consequências negativas, aumentando a ansiedade e o risco de depressão. Para quebrar o ciclo, tente: 1) Distrair-se com uma atividade que exija concentração. 2) Fazer uma pergunta solucionadora: 'O que posso fazer agora sobre isso?'. 3) Praticar mindfulness para observar os pensamentos sem se prender a eles. 4) Estipular um 'horário de preocupação' para adiar a ruminação.",
+    "palavras_chave": ["ruminação", "pensamentos", "ansiedade", "preocupação", "mindfulness"]
+  },
+  {
+    "pergunta": "Qual a relação entre perfeccionismo e ansiedade?",
+    "resposta": "O perfeccionismo é um dos maiores combustíveis para a ansiedade. Ele estabelece padrões inatingíveis, criando um medo constante de falhar ou de não ser bom o suficiente. A pessoa perfeccionista vive em um estado de alerta, pois qualquer erro é percebido como uma catástrofe pessoal. Isso leva à procrastinação (medo de começar por não conseguir fazer perfeitamente), à autocrítica severa e à exaustão. O perfeccionismo não é sobre buscar excelência, que é saudável, mas sobre evitar a vergonha e a desaprovação a qualquer custo. Trata-se de aprender a substituir 'preciso ser perfeito' por 'fazer o meu melhor é suficiente'.",
+    "palavras_chave": ["perfeccionismo", "ansiedade", "procrastinação", "autocrítica", "padrões"]
+  },
+  {
+    "pergunta": "O que é o transtorno dismórfico corporal?",
+    "resposta": "O TDC é um transtorno de saúde mental no qual a pessoa fica obsessivamente preocupada com um ou mais defeitos percebidos em sua aparência, defeitos que são mínimos ou não são observados por outros. Essa preocupação causa sofrimento significativo e prejuízo na vida social, profissional ou em outras áreas. A pessoa pode passar horas se olhando no espelho, buscar múltiplas cirurgias plásticas ou camuflar o 'defeito' com maquiagem e roupas. Diferente de uma simples vaidade, o TDC é uma condição debilitante que está mais relacionada ao TOC do que a um transtorno alimentar. O tratamento envolve terapia e, por vezes, medicamentos.",
+    "palavras_chave": ["dismórfico", "corpo", "imagem", "obsessão", "aparência"]
+  },
+  {
+    "pergunta": "Como os hobbies contribuem para o bem-estar?",
+    "resposta": "Hobbies são muito mais que passatempos; são uma forma crucial de autocuidado. Eles oferecem uma pausa mental das obrigações, reduzindo o estresse. Ao nos dedicarmos a uma atividade prazerosa, entramos em estado de flow, que é profundamente gratificante. Hobbies também proporcionam uma sensação de domínio e competência, o que aumenta a autoestima. Eles podem ser uma fonte de conexão social, se praticados em grupo, e de expressão criativa. Seja cozinhar, jardinagem, tocar um instrumento ou montar quebra-cabeças, reservar um tempo para um hobby é investir ativamente na sua saúde mental.",
+    "palavras_chave": ["hobbies", "flow", "autocuidado", "prazer", "competência"]
+  },
+  {
+    "pergunta": "O que é a dependência emocional?",
+    "resposta": "Dependência emocional é uma condição na qual uma pessoa coloca suas necessidades emocionais e de autoestima quase que exclusivamente em um relacionamento. Ela sente um vazio interno e acredita que só o outro pode preenchê-lo. Caracteriza-se por medo excessivo de abandono, submissão, dificuldade em tomar decisões sozinho, ciúmes patológicos e tolerância a situações abusivas para não perder o parceiro. A pessoa dependente abdica de sua identidade para se fundir com o outro. A raiz geralmente está em uma baixa autoestima e em experiências de abandono na infância. A psicoterapia é fundamental para reconstruir a autonomia e o autorrespeito.",
+    "palavras_chave": ["dependência", "emocional", "relacionamento", "abandono", "autoestima"]
+  },
+  {
+    "pergunta": "O que é a síndrome de Estocolmo?",
+    "resposta": "A Síndrome de Estocolmo é uma reação psicológica na qual uma vítima de sequestro, assalto ou abuso desenvolve um vínculo de aliança, simpatia ou até afeição por seu captor ou agressor. É um mecanismo de sobrevivência inconsciente, onde a vítima, em uma situação de total dependência e medo, busca a aprovação do agressor para aumentar suas chances de sobreviver. Ela passa a ver as autoridades que tentam resgatá-la como o verdadeiro inimigo. O nome vem de um assalto a banco em Estocolmo em 1973, onde as vítimas mantidas reféns defenderam seus sequestradores após o resgate. É importante notar que não é um diagnóstico oficial, mas um fenômeno psicológico reconhecido.",
+    "palavras_chave": ["estocolmo", "vítima", "agressor", "vínculo", "sobrevivência"]
+  },
+  {
+    "pergunta": "Como a privação de sono afeta a tomada de decisão?",
+    "resposta": "A privação de sono tem um impacto devastador no nosso julgamento e tomada de decisão. O córtex pré-frontal, responsável pelo pensamento complexo, controle de impulsos e raciocínio lógico, é particularmente afetado pela falta de descanso. Com sono insuficiente, nos tornamos mais impulsivos, propensos a riscos e menos capazes de avaliar consequências de longo prazo. Nossa capacidade de resolver problemas e ser criativos também diminui. Estudos mostram que uma noite mal dormida pode fazer com que você tome decisões financeiras mais arriscadas e tenha mais dificuldade em interpretar corretamente as emoções alheias.",
+    "palavras_chave": ["sono", "decisão", "córtex pré-frontal", "impulsividade", "julgamento"]
+  },
+  {
+    "pergunta": "O que é o transtorno de acumulação?",
+    "resposta": "O Transtorno de Acumulação é uma condição mental caracterizada pela dificuldade persistente de se desfazer de posses, independentemente de seu valor real. A pessoa experimenta uma angústia profunda na ideia de descartar os itens. Isso resulta no acúmulo de uma grande quantidade de objetos, que congestionam e desorganizam os espaços de vida, a ponto de comprometer seu uso seguro. Diferente do colecionador, que organiza e tem prazer com seus itens, o acumulador vive com vergonha, isolamento e sofre com os riscos à saúde e segurança (como risco de incêndio e quedas). O tratamento é complexo e envolve terapia, muitas vezes vinculada ao TOC.",
+    "palavras_chave": ["acumulação", "possessões", "desorganização", "toc", "angústia"]
+  },
+  {
+    "pergunta": "O que é a neuroplasticidade e por que ela é esperançosa?",
+    "resposta": "Neuroplasticidade é a capacidade incrível do cérebro de se reorganizar, formando novas conexões neurais ao longo da vida. Durante décadas, acreditou-se que o cérebro adulto era estático. Hoje sabemos que ele é dinâmico. Isso significa que podemos 'reprogramar' nosso cérebro através de novos aprendizados, experiências, terapia e até mesmo mudança de pensamentos. É a base científica para a recuperação após um AVC, para a superação de traumas e para a aquisição de novos hábitos. Sabia que a psicoterapia, em especial a TCC, funciona em parte porque promove a neuroplasticidade, fortalecendo circuitos neurais associados a pensamentos e comportamentos mais saudáveis?",
+    "palavras_chave": ["neuroplasticidade", "cérebro", "aprendizado", "mudança", "recuperação"]
+  },
+  {
+    "pergunta": "Como identificar se alguém está com pensamentos suicidas?",
+    "resposta": "É crucial estar atento a sinais diretos e indiretos. Sinais diretos incluem falar sobre querer morrer, se matar ou ser um fardo para os outros. Sinais indiretos são: isolamento repentino, despedir-se de pessoas como se não fosse vê-las again, doar pertences importantes, buscar meios para se machucar, aumento no uso de álcool ou drogas, extrema agitação ou ansiedade, e uma melhora súbita e inexplicável do humor (que pode indicar que a pessoa tomou a decisão e se sente aliviada). A melhor forma de ajudar é perguntar diretamente, com calma e sem julgamento: 'Você está pensando em se machucar?'. Ouvir com empatia e conectar a pessoa a ajuda profissional (como o CVV - 188) é fundamental.",
+    "palavras_chave": ["suicídio", "prevenção", "sinais", "ajuda", "cvv"]
+  },
+  {
+    "pergunta": "O que é o transtorno desintegrativo da infância?",
+    "resposta": "Também conhecido como Síndrome de Heller, é um transtorno raro e devastador no qual uma criança tem um desenvolvimento normal até pelo menos os dois anos de idade, adquirindo linguagem, habilidades sociais e motoras. Então, entre os 3 e 10 anos, ela sofre uma regressão severa e perde drasticamente essas habilidades já adquiridas. A criança pode parar de falar, deixar de responder socialmente e perder o controle da bexiga e do intestino. A causa não é totalmente conhecida, mas suspeita-se de anormalidades neurobiológicas. O transtorno é parte do espectro do autismo, mas sua característica distintiva é a perda marcante de habilidades após um período de desenvolvimento normal.",
+    "palavras_chave": ["desintegrativo", "infância", "regressão", "autismo", "habilidades"]
+  },
+  {
+    "pergunta": "Qual a importância do ócio criativo para a mente?",
+    "resposta": "O ócio, longe de ser perda de tempo, é um estado essencial para a criatividade e a saúde mental. Quando deixamos a mente 'vagar' sem um foco específico, ativamos a Rede de Modo Padrão (DMN) do cérebro. É nesse estado que fazemos conexões inusitadas, temos insights e processamos memórias e emoções. A constante ocupação e o excesso de estímulos (como checar o celular a todo momento) roubam esse tempo de incubação mental. Grandes ideias muitas vezes surgem no banho, durante uma caminhada ou logo ao acordar. Reservar momentos de 'não fazer nada' é, na verdade, um investimento em solução de problemas e bem-estar.",
+    "palavras_chave": ["ócio", "criatividade", "mente", "insight", "descanso"]
+  },
+  {
+    "pergunta": "O que é a catarse na psicologia?",
+    "resposta": "O conceito de catarse, que vem do grego e significa 'purificação', foi inicialmente proposto por Aristóteles em relação ao teatro, onde a tragédia provocaria uma purificação das emoções do público. Na psicologia, Sigmund Freud e Josef Breuer adotaram o termo para descrever o processo de liberação de emoções reprimidas, trazendo-as à consciência e, assim, aliviando o sofrimento psíquico. É aquela sensação de alívio intenso após chorar profundamente, desabafar ou reviver uma memória traumática em um ambiente terapêutico seguro. A catarse é vista como um momento de cura emocional, onde a energia presa é finalmente liberada.",
+    "palavras_chave": ["catarse", "emoção", "liberação", "freud", "alívio"]
+  },
+  {
+    "pergunta": "Como lidar com a crítica de forma saudável?",
+    "resposta": "Lidar com críticas é uma habilidade emocional crucial. O primeiro passo é gerenciar a reação defensiva inicial e ouvir o que está sendo dito. Em seguida, faça uma triagem: a crítica é construtiva ou destrutiva? Críticas construtivas vêm de uma fonte que se importa e trazem exemplos específicos. Separe o que é feedback útil do que é apenas tom agressivo. Você pode aprender algo mesmo em uma crítica maldosa, mas descarte o veneno. Agradeça pelo feedback (isso desarma o crítico e mostra maturidade) e reflita sobre o que pode ser verdadeiro. Lembre-se: uma crítica não define seu valor total como pessoa.",
+    "palavras_chave": ["crítica", "feedback", "defesa", "aprendizado", "maturidade"]
+  },
+  {
+    "pergunta": "O que é o efeito placebo e como ele funciona na mente?",
+    "resposta": "O efeito placebo é um fenômeno no qual um tratamento inerte (como uma pílula de açúcar) produz uma melhora real nos sintomas de um paciente, simplesmente porque ele acredita que o tratamento é eficaz. Isso demonstra o poder da mente sobre o corpo. A expectativa de melhora desencadeia a liberação de neurotransmissores como endorfinas (analgésicos naturais) e dopamina, que realmente aliviam a dor e melhoram o humor. O placebo é tão poderoso que até mesmo cirurgias falsas já mostraram eficácia em alguns estudos. Isso não significa que a doença não seja real, mas que a crença e o contexto do tratamento são componentes ativos da cura.",
+    "palavras_chave": ["placebo", "mente", "expectativa", "crença", "cura"]
+  },
+  {
+    "pergunta": "O que é o transtorno de estresse agudo?",
+    "resposta": "O Transtorno de Estresse Agudo (TEA) é uma reação de ansiedade intensa e debilitante que ocorre imediatamente após a exposição a um evento traumático. Seus sintomas são muito similares aos do TEPT, incluindo revivência do trauma, evitação, humor negativo e hiperexcitação. A diferença crucial está no tempo: o TEA é diagnosticado quando os sintomas duram de três dias a um mês após o trauma. Se os sintomas persistirem por mais de um mês, o diagnóstico pode ser alterado para TEPT. A intervenção precoce, como o debriefing psicológico, pode ser importante para prevenir o desenvolvimento do TEPT.",
+    "palavras_chave": ["estresse agudo", "trauma", "ansiedade", "tept", "intervenção"]
+  },
+  {
+    "pergunta": "Como a vitamina D influencia o humor?",
+    "resposta": "A vitamina D, na verdade, funciona mais como um hormônio no nosso corpo, e seus receptores estão presentes em várias áreas do cérebro envolvidas na regulação do humor, como o córtex pré-frontal e o hipocampo. Baixos níveis de vitamina D estão consistentemente associados a um maior risco de depressão, especialmente o Transtorno Afetivo Sazonal, que ocorre nos meses de inverno com menos luz solar. Acredita-se que a vitamina D esteja envolvida na produção de serotonina, o neurotransmissor do bem-estar. A suplementação, sob orientação médica, tem se mostrado eficaz em melhorar os sintomas depressivos em pessoas com deficiência dessa vitamina.",
+    "palavras_chave": ["vitamina d", "humor", "depressão", "serotonina", "luz solar"]
+  },
+  {
+    "pergunta": "O que é a dissociação?",
+    "resposta": "Dissociação é uma experiência onde uma pessoa se sente desconectada de si mesma, de seus pensamentos, sentimentos ou do ambiente ao redor. É como se a mente se 'desligasse' do corpo para se proteger de uma experiência aversiva esmagadora. Pode variar de experiências leves e comuns, como 'dirigir no piloto automático' e chegar em casa sem lembrar do percurso, até formas mais severas, como a desrealização (o mundo parece irreal) e a despersonalização (sentir-se fora do próprio corpo). É um mecanismo de defesa comum em resposta a traumas. Em níveis patológicos, é a base para os Transtornos Dissociativos, como a Amnésia Dissociativa e o Transtorno de Identidade Dissociativo.",
+    "palavras_chave": ["dissociação", "despersonalização", "trauma", "mente", "defesa"]
+  },
+  {
+    "pergunta": "O que é a síndrome de Korsakoff?",
+    "resposta": "A Síndrome de Korsakoff é um distúrbio neurológico crônico, geralmente resultante do alcoolismo crônico e da deficiência de tiamina (Vitamina B1). Ela é caracterizada principalmente por graves prejuízos na memória. A pessoa apresenta amnésia anterógrada (incapacidade de formar novas memórias) e frequentemente confabula – ou seja, inventa memórias para preencher as lacunas, sem a intenção de mentir. Ela pode contar uma história detalhada de algo que nunca aconteceu, acreditando plenamente que é verdade. O tratamento envolve a reposição de tiamina e a abstinência do álcool, mas os danos na memória são muitas vezes permanentes.",
+    "palavras_chave": ["korsakoff", "memória", "álcool", "tiamina", "confabulação"]
+  },
+  {
+    "pergunta": "Como desenvolver a empatia?",
+    "resposta": "A empatia, a capacidade de se colocar no lugar do outro e compreender seus sentimentos, pode ser cultivada. Algumas práticas ajudam: 1) Escuta Ativa: ouvir para entender, não para responder. Preste atenção na linguagem corporal e nas emoções por trás das palavras. 2) Curiosidade Genuína: faça perguntas abertas sobre a vida e as experiências dos outros. 3) Ler ficção: estudos mostram que ler romances nos ajuda a entender perspectivas diferentes. 4) Praticar a imaginação: tente se imaginar vivendo a realidade de outra pessoa. 5) Autocompaixão: ser gentil consigo mesmo facilita a gentileza com os outros. Lembre-se: empatia não é sobre concordar, mas sobre compreender.",
+    "palavras_chave": ["empatia", "escuta", "compreensão", "perspectiva", "conexão"]
+  },
+  {
+    "pergunta": "O que é o transtorno opositivo-desafiador (TOD)?",
+    "resposta": "O TOD é um transtorno geralmente diagnosticado na infância, caracterizado por um padrão persistente de humor irritável, comportamentos argumentativos/desafiadores e vingativos. Crianças com TOD não são apenas 'teimosas'; elas têm reações desproporcionais, discutiem constantemente com figuras de autoridade, desafiam ativamente regras e incomodam os outros deliberadamente. A raiva e o ressentimento são emoções centrais. Diferente do Transtorno de Conduta, não há violação de grandes normas sociais ou direitos alheios (como agressão ou destruição de propriedade). A intervenção precoce com terapia familiar e comportamental é crucial para evitar a evolução para problemas mais sérios na adolescência.",
+    "palavras_chave": ["opositivo", "desafiador", "infância", "irritabilidade", "comportamento"]
+  },
+  {
+    "pergunta": "O que é a lei da mentalidade e como ela afeta nossa perspectiva?",
+    "resposta": "A 'Lei da Mentalidade' não é uma lei científica, mas um conceito da psicologia que enfatiza que a forma como encaramos as situações (nossa mentalidade) determina em grande parte nossa experiência e nossos resultados. Se você encara um desafio com uma mentalidade de crescimento, vendo-o como uma oportunidade de aprender, sua resposta será de engajamento. Se você o encara com uma mentalidade fixa, vendo-o como uma ameaça ao seu ego, sua resposta será de medo e evitação. Nossa mentalidade atua como um filtro que colore nossa realidade. Mudar conscientemente a narrativa interna de 'isso é um problema' para 'isso é um desafio' pode alterar completamente nossa resposta emocional e fisiológica ao estresse.",
+    "palavras_chave": ["mentalidade", "perspectiva", "crescimento", "desafio", "narrativa"]
+  },
+  {
+    "pergunta": "O que é a síndrome de Estolper?",
+    "resposta": "É importante fazer uma correção: o termo correto é provavelmente **Síndrome de Stendhal**. Também conhecida como 'Síndrome de Florença' ou 'hipertensão cultural', é uma condição psicossomática rara na qual uma pessoa experimenta sintomas físicos intensos – como tontura, desmaio, taquicardia e confusão mental – quando exposta a uma overdose de obras de arte de grande beleza ou significado, concentradas em um mesmo local. Foi descrita pela primeira vez em Florença, Itália, diante das obras de mestres como Michelangelo e Botticelli. É um exemplo extremo de como a experiência estética pode ter um impacto físico direto e avassalador no corpo humano.",
+    "palavras_chave": ["stendhal", "arte", "psicossomática", "beleza", "florença"]
+  },
+  {
+    "pergunta": "O que é a síndrome do cuidador?",
+    "resposta": "A síndrome do cuidador é um estado de esgotamento físico, mental e emocional que afeta pessoas que cuidam de um ente querido doente, idoso ou com deficiência de forma crônica. O cuidador dedica tanto tempo e energia ao outro que negligencia suas próprias necessidades. Os sintomas incluem fadiga extrema, irritabilidade, ansiedade, insônia, sentimentos de solidão e raiva, e até problemas de saúde física. É um fenômeno comum em famílias que cuidam de pessoas com Alzheimer, por exemplo. O autocuidado, a divisão de tarefas e o apoio psicológico são essenciais para prevenir essa síndrome.",
+    "palavras_chave": ["cuidador", "esgotamento", "autocuidado", "família", "sobrecarga"]
+  },
+  {
+    "pergunta": "Como a música pode ser usada como ferramenta terapêutica?",
+    "resposta": "A musicoterapia é uma prática clínica baseada em evidências que usa intervenções musicais para ajudar pessoas a alcançarem objetivos não-musicais, como melhorar o humor, a comunicação e as habilidades motoras. Em um contexto de saúde mental, ela pode ajudar a expressar emoções que são difíceis de colocar em palavras, reduzir a ansiedade, gerenciar o estresse e processar traumas. Não é necessário ter conhecimento musical para se beneficiar. Sabia que tocar tambores em grupo, por exemplo, pode sincronizar as ondas cerebrais dos participantes, promovendo uma sensação de conexão e comunidade, muito poderosa para combater a solidão?",
+    "palavras_chave": ["musicoterapia", "expressão", "emoção", "comunicação", "ansiedade"]
+  },
+  {
+    "pergunta": "O que é o transtorno de personalidade narcisista?",
+    "resposta": "O Transtorno de Personalidade Narcisista (TPN) é caracterizado por um padrão grandioso de necessidade por admiração e falta de empatia. Contrariamente ao que se pensa, o narcisismo muitas vezes esconde uma autoestima frágil e vulnerável. A pessoa com TPN pode ter um senso exagerado de autoimportância, fantasias de sucesso ilimitado, acreditar ser 'especial', explorar os outros para atingir seus objetivos e ter dificuldade em reconhecer as necessidades e sentimentos alheios. Os relacionamentos com narcisistas costumam ser desgastantes, marcados por manipulação e desvalorização.",
+    "palavras_chave": ["narcisista", "personalidade", "empatia", "autoestima", "grandiosidade"]
+  },
+  {
+    "pergunta": "Por que é importante falar sobre suicídio?",
+    "resposta": "Falar abertamente sobre suicídio é uma das ferramentas mais poderosas de prevenção. Isso quebra o tabu e o estigma que cercam o tema, permitindo que pessoas em sofrimento se sintam acolhidas para pedir ajuda. Ao contrário do mito perigoso, perguntar para alguém se ele está pensando em suicídio não 'planta a ideia' na cabeça da pessoa; pelo contrário, pode trazer um alívio imenso por finalmente poder compartilhar aquela angústia. A conversa aberta permite conectar a pessoa a redes de apoio, como o Centro de Valorização da Vida (CVV - 188), e salvar vidas.",
+    "palavras_chave": ["suicídio", "prevenção", "conversa", "estigma", "ajuda"]
+  },
+  {
+    "pergunta": "O que é a regulação emocional?",
+    "resposta": "Regulação emocional é a habilidade de influenciar quais emoções temos, quando as temos e como as vivenciamos e expressamos. Não se trata de suprimir as emoções, mas de gerenciá-las de forma saudável. É a diferença entre sentir uma raiva intensa e gritar com alguém, versus reconhecer a raiva, respirar fundo e expressar seu incômodo de forma assertiva. Estratégias de regulação incluem o mindfulness (observar a emoção sem se deixar dominar por ela), a reavaliação cognitiva (mudar a forma de pensar sobre a situação) e a modulação da resposta (escolher como agir diante da emoção).",
+    "palavras_chave": ["regulação", "emoção", "gerenciamento", "mindfulness", "assertividade"]
+  },
+  {
+    "pergunta": "O que é a síndrome de Asperger?",
+    "resposta": "A Síndrome de Asperger era, até recentemente, um diagnóstico separado dentro do Transtorno do Espectro Autista (TEA). Hoje, ela está incorporada ao TEA de alto funcionamento. Pessoas com Asperger geralmente têm inteligência média ou acima da média e não apresentam atrasos significativos na linguagem. Suas principais dificuldades estão na interação social (dificuldade para entender nuances, ironia e linguagem corporal), na comunicação e podem ter interesses restritos e intensos por assuntos específicos. Também é comum a sensibilidade sensorial (a sons, luzes ou texturas). O foco do tratamento é no desenvolvimento de habilidades sociais e adaptativas.",
+    "palavras_chave": ["asperger", "autismo", "social", "interação", "sensorial"]
+  },
+  {
+    "pergunta": "Como o perdão beneficia a saúde mental?",
+    "resposta": "Perdoar não significa aprovar o que aconteceu ou se reconciliar necessariamente com quem nos magoou. Perdoar é, antes de tudo, um ato de liberdade interior para quem perdoa. Guardar rancor é como tomar veneno e esperar que a outra pessoa morra. A raiva e o ressentimento crônicos mantêm o corpo em um estado de estresse, elevando a pressão arterial e prejudicando o sistema imunológico. O perdão, por outro lado, está associado à redução da ansiedade, da depressão e a maiores níveis de bem-estar. É um processo, muitas vezes difícil, que envolve reconhecer a dor e decidir seguir em frente sem a carga do ódio.",
+    "palavras_chave": ["perdão", "rancor", "libertação", "estresse", "bem-estar"]
+  },
+  {
+    "pergunta": "O que é o transtorno de personalidade antissocial?",
+    "resposta": "O Transtorno de Personalidade Antissocial (TPAS) é um padrão de comportamento caracterizado por um desrespeito generalizado e violação dos direitos dos outros. A pessoa com TPAS, frequentemente chamada de sociopata, não consegue se conformar com as normas sociais, é impulsiva, agressiva, irresponsável e não demonstra remorso ou empatia pelos outros. Ela pode mentir, manipular e enganar para obter proveito ou prazer pessoal. É importante diferenciar de um comportamento criminoso ocasional; o TPAS é um padrão persistente e invasivo que começa na infância ou adolescência (geralmente como Transtorno de Conduta) e continua na vida adulta.",
+    "palavras_chave": ["antissocial", "sociopata", "empatia", "manipulação", "conduta"]
+  },
+  {
+    "pergunta": "Qual a diferença entre emoção e sentimento?",
+    "resposta": "Embora usados como sinônimos, emoção e sentimento são processos distintos. A emoção é a reação neurofisiológica inicial, automática e inconsciente a um estímulo. É rápida e visa à nossa sobrevivência (ex: o medo ao ver um cachorro feroz, ativando a resposta de luta ou fuga). O sentimento é a experiência subjetiva e consciente dessa emoção. É a etiqueta que damos à emoção depois que a percebemos (ex: 'Estou me sentindo com medo'). O sentimento é a tomada de consciência da emoção. Em resumo: a emoção é a resposta do corpo, o sentimento é a interpretação da mente.",
+    "palavras_chave": ["emoção", "sentimento", "neurofisiologia", "consciência", "reação"]
+  },
+  {
+    "pergunta": "O que é a teoria do apego de John Bowlby?",
+    "resposta": "A Teoria do Apego, desenvolvida pelo psiquiatra John Bowlby, postula que os bebês nascem com um sistema comportamental inato que os leva a buscar proximidade com suas figuras de cuidado (geralmente a mãe) em situações de estresse ou perigo. A qualidade desse vínculo inicial, seguro ou inseguro, forma um 'modelo interno de funcionamento' que influencia todos os nossos relacionamentos futuros. Crianças com apego seguro se tornam adultos mais confiantes e com relacionamentos saudáveis. Já os estilos inseguros (ansioso, evitativo ou desorganizado) podem levar a dificuldades de confiança, intimidade e regulação emocional na vida adulta.",
+    "palavras_chave": ["apego", "bowlby", "vínculo", "infância", "relacionamentos"]
+  },
+  {
+    "pergunta": "O que é a síndrome de Burnout parental?",
+    "resposta": "É um estado de exaustão física, mental e emocional extrema relacionado especificamente ao papel de pai ou mãe. Vai além do cansaço normal da parentalidade. Caracteriza-se por três dimensões: 1) Esgotamento avassalador, a ponto de não ter mais energia para cuidar dos filhos. 2) Distanciamento emocional dos filhos, realizando os cuidados de forma automática e sem afeto. 3) Sentimento de ineficácia, de que não se é um bom pai/mãe. É comum em contextos de alta pressão, falta de rede de apoio e idealizações irreais sobre a maternidade/paternidade. Reconhecer a síndrome e buscar apoio é crucial para a recuperação.",
+    "palavras_chave": ["burnout", "parental", "esgotamento", "maternidade", "paternidade"]
+  },
+  {
+    "pergunta": "Como a terapia de casal pode ajudar?",
+    "resposta": "A terapia de casal não é só para relacionamentos à beira do fim. É um espaço seguro e mediado por um profissional para que o casal aprenda a se comunicar de forma mais eficaz, resolva conflitos de maneira saudável e fortaleça sua conexão. O terapeuta atua como um facilitador, ajudando a identificar padrões disfuncionais (como críticas, defensividade e desdém) e a substituí-los por interações mais positivas. Pode ajudar em questões como divisão de tarefas, intimidade, traição ou simplesmente no distanciamento que a rotina causa. O objetivo é equipar o casal com as ferramentas para que eles mesmos possam navegar seus desafios.",
+    "palavras_chave": ["terapia", "casal", "comunicação", "conflito", "relacionamento"]
+  },
+  {
+    "pergunta": "O que é o transtorno de excitação sexual feminina?",
+    "resposta": "É uma condição caracterizada pela incapacidade persistente ou recorrente de atingir ou manter a excitação sexual até a conclusão da atividade sexual. A mulher pode sentir desejo, mas o corpo não responde com a lubrificação e o inchaço genital esperados, ou a resposta é facilmente perdida. Isso causa sofrimento e prejuízo no relacionamento. As causas podem ser psicológicas (estresse, trauma, problemas no relacionamento), físicas (alterações hormonais, medicamentos) ou uma combinação de ambas. É importante diferenciar da baixa libido (falta de desejo). O tratamento envolve terapia, possivelmente medicamentos e uma abordagem sensível à complexidade da sexualidade feminina.",
+    "palavras_chave": ["sexual", "feminino", "excitação", "desejo", "terapia"]
+  },
+  {
+    "pergunta": "O que é a psiconeuroimunologia?",
+    "resposta": "A Psiconeuroimunologia é um campo interdisciplinar que estuda a interação fascinante entre os processos psicológicos, o sistema nervoso e o sistema imunológico. Ela investiga como o que pensamos e sentimos (psico) influencia o cérebro e os hormônios (neuro), que por sua vez impactam nossa capacidade de combater doenças (imunologia). Por exemplo, o estresse crônico, através da liberação de cortisol, pode suprimir a eficácia do sistema imunológico, tornando-nos mais suscetíveis a infecções. Esse campo prova cientificamente que a dicotomia entre 'mente' e 'corpo' é falsa; somos um sistema integrado.",
+    "palavras_chave": ["psiconeuroimunologia", "mente", "corpo", "imunidade", "estresse"]
+  },
+  {
+    "pergunta": "Como identificar um relacionamento abusivo?",
+    "resposta": "Um relacionamento abusivo nem sempre começa com violência física. Muitas vezes, começa com sinais sutis de controle e desrespeito. Fique alerta a: 1) Ciúmes excessivo e controle sobre suas amizades e roupas. 2) Críticas constantes e humilhações, em público ou privado. 3) Isolamento, afastando você de amigos e familiares. 4) Manipulação emocional, fazendo você se sentir culpado por tudo. 5) Invasão de privacidade, checando seu celular e e-mails sem permissão. 6) Culpar você pelo próprio comportamento abusivo. A violência física é apenas o estágio final de um ciclo que já era abusivo. Apoio de rede e orientação profissional são fundamentais para sair dessa situação.",
+    "palavras_chave": ["abusivo", "relacionamento", "controle", "manipulação", "violência"]
+  },
+  {
+    "pergunta": "O que é o transtorno de personalidade histriônica?",
+    "resposta": "O Transtorno de Personalidade Histriônica é caracterizado por um padrão de emocionalidade excessiva e busca de atenção. A pessoa se sente desconfortável quando não é o centro das atenções, usa sua aparência física para chamar a atenção, tem emoções que mudam rapidamente e são superficiais, e seu estilo de speech é impressionista, sem detalhes. Ela pode se comportar de maneira inadequadamente sedutora ou provocativa e é facilmente influenciável pelos outros. Por trás da fachada de extroversão, há frequentemente uma grande necessidade de aprovação e um medo de ser ignorado. O tratamento com psicoterapia pode ajudar a construir uma autoestima mais sólida.",
+    "palavras_chave": ["histriônica", "personalidade", "atenção", "emocionalidade", "sedução"]
+  },
+  {
+    "pergunta": "O que é a técnica de grounding para crises de ansiedade?",
+    "resposta": "O grounding, ou 'enraizamento', é uma técnica de primeiros socorros psicológicos usada para trazer a pessoa de volta ao momento presente durante uma crise de ansiedade, dissociação ou ataque de pânico. A ideia é usar os cinco sentidos para se conectar com o ambiente real, distraindo a mente dos pensamentos catastróficos. A técnica 5-4-3-2-1 é muito eficaz: identifique 5 coisas que você pode VER, 4 coisas que você pode TOCAR, 3 coisas que você pode OUVIR, 2 coisas que você pode CHEIRAR e 1 coisa que você pode SABOREAR. Isso força o cérebro a focar em informações sensoriais concretas, interrompendo o ciclo de pânico.",
+    "palavras_chave": ["grounding", "ansiedade", "pânico", "presente", "sentidos"]
+  },
+  {
+    "pergunta": "O que é o transtorno de personalidade esquiva?",
+    "resposta": "O Transtorno de Personalidade Esquiva é caracterizado por um padrão de inibição social, sentimentos de inadequação e hipersensibilidade a avaliações negativas. A pessoa deseja ter relacionamentos íntimos, mas evita contato social por medo de rejeição, crítica ou desaprovação. Ela se vê como socialmente inepta, inferior e pouco atraente. Diferente da ansiedade social, o medo aqui está mais ligado à intimidade e à exposição de suas supostas falhas. É uma condição dolorosa, pois a solidão é imposta pelo próprio medo, criando um ciclo de isolamento e desejo de conexão.",
+    "palavras_chave": ["esquiva", "personalidade", "isolamento", "rejeição", "inadequação"]
+  },
+  {
+    "pergunta": "Como a escrita terapêutica pode ajudar?",
+    "resposta": "Escrever sobre experiências emocionais profundas, um método conhecido como 'escrita expressiva', tem benefícios comprovados para a saúde mental. O ato de colocar os pensamentos e sentimentos no papel ajuda a organizar a confusão mental, a processar eventos traumáticos e a dar sentido ao caos emocional. A escrita ativa o hemisfério esquerdo do cérebro (lógico), que ajuda a regular a intensidade das emoções localizadas no hemisfério direito. Não precisa ser bem escrito; é um processo privado de desabafo e reflexão. Manter um diário de gratidão, por exemplo, é uma forma de escrita terapêutica que treina o cérebro para focar no positivo.",
+    "palavras_chave": ["escrita", "terapêutica", "expressão", "emoção", "diário"]
+  },
+  {
+    "pergunta": "O que é o efeito nocebo?",
+    "resposta": "O efeito nocebo é o irmão malvado do placebo. É um fenômeno no qual a expectativa negativa de um tratamento ou situação desencadeia resultados negativos ou piora dos sintomas. Se um paciente acredita firmemente que um remédio terá efeitos colaterais terríveis, é mais provável que ele realmente os experimente, mesmo que o remédio seja uma pílula de açúcar. O medo e a ansiedade ativam vias neuroquímicas que podem realmente causar dor, náusea e outras sensações físicas. O nocebo mostra o poder destrutivo que nossas crenças e expectativas negativas podem ter sobre nossa saúde física e mental.",
+    "palavras_chave": ["nocebo", "expectativa", "negativo", "efeito", "crença"]
+  },
+  {
+    "pergunta": "O que é a síndrome de Munchausen por procuração?",
+    "resposta": "É um transtorno mental grave e uma forma de abuso infantil na qual um cuidador (geralmente a mãe) inventa ou provoca intencionalmente sintomas de doença em uma criança sob seus cuidados. O cuidador busca repetidamente atenção médica, submetendo a criança a exames e procedimentos invasivos e desnecessários. A motivação não é material, mas psicológica: receber a atenção e a simpatia do corpo médico, desempenhando o papel de 'pai/mãe dedicado e sofredor'. É uma condição rara e perigosíssima, que pode colocar a vida da criança em risco e requer intervenção das autoridades.",
+    "palavras_chave": ["munchausen", "procuração", "abuso", "criança", "doença"]
+  },
+  {
+    "pergunta": "Como a terapia ocupacional atua na saúde mental?",
+    "resposta": "A terapia ocupacional na saúde mental não se trata de 'encontrar um emprego'. Ocupação, aqui, refere-se a todas as atividades que 'ocupam' nosso tempo e dão significado à nossa vida (trabalho, lazer, autocuidado). O terapeuta ocupacional ajuda pessoas com transtornos mentais a (re)construir rotinas, desenvolver habilidades de vida prática (como gerenciar finanças e cozinhar), engajar-se em atividades produtivas e de lazer, e recuperar o senso de identidade e propósito que a doença pode ter tirado. É uma abordagem prática e centrada na pessoa, focada em capacitar para uma vida independente e satisfatória.",
+    "palavras_chave": ["ocupacional", "terapia", "atividades", "rotina", "habilidades"]
+  },
+  {
+    "pergunta": "O que é o transtorno de personalidade paranóide?",
+    "resposta": "O Transtorno de Personalidade Paranóide é caracterizado por um padrão de desconfiança e suspeita generalizadas em relação aos outros, cujas intenções são interpretadas como maldosas. A pessoa está sempre 'na defensiva', examina os outros em busca de provas de traição ou hostilidade, reluta em confiar nos demais por medo que as informações sejam usadas contra ela, e guarda rancores por longo tempo. Ela pode ver significados ocultos e ameaçadores em comentários ou eventos benignos. Esse padrão causa um grande isolamento, pois a pessoa se protege de um mundo que ela percebe como constantemente perigoso.",
+    "palavras_chave": ["paranóide", "personalidade", "desconfiança", "suspeita", "isolamento"]
+  },
+  {
+    "pergunta": "O que é a síndrome de Hikikomori?",
+    "resposta": "Hikikomori é um termo japonês que descreve um fenômeno social e psicológico no qual jovens e adultos se retiram completamente da vida social, isolando-se em seus quartos por um período que pode durar anos. Eles evitam qualquer contato face a face, dependendo da internet para obter informações e entretenimento. As causas são complexas, envolvendo pressão social extrema, fobia social, depressão e, em alguns casos, dinâmicas familiares disfuncionais. Embora tenha sido identificado primeiro no Japão, casos semelhantes têm sido relatados em todo o mundo. É um estado de isolamento voluntário, mas profundamente angustiante.",
+    "palavras_chave": ["hikikomori", "isolamento", "japão", "social", "confinamento"]
+  },
+  {
+    "pergunta": "Como a terapia de grupo funciona?",
+    "resposta": "A terapia de grupo reúne um pequeno número de pessoas com problemas semelhantes, facilitadas por um ou mais terapeutas. Seu poder está na experiência de 'universalidade': os participantes percebem que não estão sozinhos em seu sofrimento. O grupo funciona como um microcosmo da sociedade, onde os padrões de relacionamento de cada um se repetem e podem ser trabalhados em tempo real. Os membros aprendem uns com os outros, oferecem feedback e apoio, e praticam novas habilidades sociais em um ambiente seguro. É um formato extremamente eficaz e potente, pois combina a orientação profissional com a cura que vem da conexão com os pares.",
+    "palavras_chave": ["grupo", "terapia", "universalidade", "apoio", "social"]
+  },
+  {
+    "pergunta": "O que é o transtorno de personalidade dependente?",
+    "resposta": "O Transtorno de Personalidade Dependente é caracterizado por uma necessidade excessiva e generalizada de ser cuidado, que leva a um comportamento submisso e aderente e ao medo da separação. A pessoa tem enorme dificuldade em tomar decisões cotidianas sem uma abundante quantidade de conselhos e reafirmação dos outros. Precisa que outros assumam responsabilidade pelas principais áreas de sua vida, tem dificuldade em expressar discordância (por medo de perder apoio) e se sente desamparada e desconfortável quando sozinha. Esse padrão surge do medo profundo de não ser capaz de funcionar sozinho no mundo.",
+    "palavras_chave": ["dependente", "personalidade", "submissão", "decisão", "separação"]
+  },
+  {
+    "pergunta": "O que é a psicologia hospitalar?",
+    "resposta": "A Psicologia Hospitalar é a atuação do psicólogo dentro do contexto de um hospital. Seu foco é o cuidado integral do paciente, considerando o impacto psicológico da doença e da hospitalização. O psicólogo hospitalar ajuda o paciente e sua família a lidarem com o diagnóstico, os procedimentos médicos muitas vezes invasivos, a dor, o medo e a possibilidade da morte. Também trabalha com a equipe multiprofissional, auxiliando no manejo do estresse e na comunicação com os pacientes. É uma área que humaniza o ambiente hospitalar, tratando a pessoa, e não apenas a doença.",
+    "palavras_chave": ["psicologia", "hospitalar", "paciente", "doença", "humanização"]
+  },
+  {
+    "pergunta": "O que é a síndrome de Estocolmo doméstica?",
+    "resposta": "Este não é um termo técnico, mas uma analogia usada para descrever a dinâmica psicológica em relacionamentos abusivos de longa duração, semelhante à Síndrome de Estocolmo clássica. A vítima, em um estado de medo, dependência e isolamento, pode desenvolver um vínculo de lealdade, afeto ou proteção em relação ao seu agressor. Ela pode justificar o comportamento violento, acreditar que pode 'mudá-lo' ou até mesmo defendê-lo perante outras pessoas. É um mecanismo de sobrevivência psicológica em uma situação onde a fuga parece impossível ou mais perigosa do que permanecer.",
+    "palavras_chave": ["estocolmo", "doméstico", "abusivo", "vínculo", "sobrevivência"]
+  },
+  {
+    "pergunta": "O que é a teoria polivagal de Stephen Porges?",
+    "resposta": "A Teoria Polivagal, desenvolvida por Stephen Porges, revolucionou nossa compreensão do sistema nervoso autônomo. Ela propõe que temos três sistemas de resposta neural, não apenas dois (luta/fuga e repouso). 1) O sistema ventral vagal (mais recente): responsável pela conexão social e calma. 2) O sistema simpático: responsável pela mobilização (luta/fuga). 3) O sistema dorsal vagal (mais antigo): responsável pelo colapso, imobilização e desmaio (congelamento) quando a ameaça é esmagadora. A teoria explica por que a conexão social segura é o antídoto mais poderoso para o trauma e o estresse, pois ativa o sistema ventral vagal, que por sua vez 'acalma' os sistemas de defesa mais primitivos.",
+    "palavras_chave": ["polivagal", "nervoso", "estresse", "trauma", "conexão"]
+  },
+[
+  {
+    "pergunta": "O que é a síndrome de burnout em estudantes?",
+    "resposta": "A síndrome de burnout não atinge apenas profissionais; estudantes também são muito vulneráveis. Caracteriza-se por uma exaustão emocional e física profunda devido às demandas constantes da vida acadêmica (provas, prazos, trabalhos). O estudante sente uma diminuição drástica no desempenho, despersonalização (que se manifesta como cinismo em relação aos estudos, professores e colegas) e uma sensação de ineficácia e falta de realização. É um estado de esgotamento que vai muito além do 'estresse para prova' normal. A pressão por notas, a alta carga horária e a autocrítica excessiva são grandes fatores de risco. Priorizar o autocuidado e buscar apoio psicológico na instituição de ensino é fundamental.",
+    "palavras_chave": ["burnout", "estudante", "esgotamento", "acadêmico", "cobrança"]
+  },
+  {
+    "pergunta": "Como a terapia com animais (zooterapia) ajuda?",
+    "resposta": "A zooterapia, ou Terapia Assistida por Animais (TAA), usa o vínculo humano-animal como parte integrante do processo terapêutico. O contato com animais, como cães, gatos e cavalos, pode reduzir os níveis de cortisol (hormônio do estresse) e aumentar a ocitocina (hormônio do vínculo e do bem-estar). Isso ajuda a diminuir a ansiedade, a pressão arterial e a sensação de solidão. Para pessoas com TEPT ou autismo, por exemplo, um animal pode oferecer uma presença calmante e não julgadora, facilitando a comunicação e a regulação emocional. A interação promove também a responsabilidade e a motivação. Sabia que até observar peixes em um aquário pode ter um efeito calmante mensurável?",
+    "palavras_chave": ["zooterapia", "animais", "vínculo", "ansiedade", "ocitocina"]
+  },
+  {
+    "pergunta": "O que é o transtorno de personalidade esquizóide?",
+    "resposta": "O Transtorno de Personalidade Esquizóide é caracterizado por um padrão vitalício de distanciamento das relações sociais e uma faixa restrita de expressão emocional. A pessoa com esse transtorno não deseja nem desfruta de relacionamentos íntimos, quase sempre escolhe atividades solitárias, tem pouco ou nenhum interesse em experiências sexuais, e é indiferente a elogios ou críticas. Diferente do esquivo, que teme a rejeição, o esquizóide é genuinamente desinteressado pela conexão social. Também é diferente da esquizofrenia, pois não há alucinações ou delírios. É um padrão de solidão voluntária e contentamento com o isolamento.",
+    "palavras_chave": ["esquizóide", "personalidade", "isolamento", "emocional", "solidão"]
+  },
+  {
+    "pergunta": "Por que é tão difícil mudar um hábito?",
+    "resposta": "Mudar um hábito é difícil porque ele é um comportamento automatizado que nosso cérebro cria para economizar energia. O 'loop do hábito', descrito por Charles Duhigg, tem três partes: a deixa (gatilho), a rotina (o comportamento em si) e a recompensa. Nosso cérebro aprende a associar a deixa à recompensa, executando a rotina no 'piloto automático'. Para mudar, não se trata apenas de força de vontade, mas de reengenharia desse loop: identifique a deixa, mude a rotina, mas mantenha a recompensa. Por exemplo, se o hábito é comer doce ao estressar (deixa: estresse, rotina: comer, recompensa: alívio), tente substituir a rotina por uma caminhada, mantendo a mesma recompensa de alívio.",
+    "palavras_chave": ["hábito", "mudança", "loop", "cérebro", "automatismo"]
+  },
+  {
+    "pergunta": "O que é a síndrome do pânico noturno?",
+    "resposta": "Ataques de pânico noturnos são crises que ocorrem durante o sono, fazendo com que a pessoa acorde abruptamente em um estado de terror intenso, com os mesmos sintomas de um ataque diurno (taquicardia, sudorese, sensação de morte iminente). Eles são particularmente aterrorizantes porque a pessoa é pega de surpresa, em um estado de vulnerabilidade. Acredita-se que pequenas flutuações na respiração ou nos batimentos cardíacos durante o sono possam ser interpretadas erroneamente pelo cérebro como uma ameaça, disparando o alarme de pânico. Isso pode levar a um medo de dormir, criando um ciclo vicioso de privação de sono e ansiedade.",
+    "palavras_chave": ["pânico", "noturno", "sono", "terror", "ansiedade"]
+  },
+  {
+    "pergunta": "O que é a regra 3-3-3 para crises de ansiedade?",
+    "resposta": "A regra 3-3-3 é uma técnica de grounding simples e rápida para usar no início de uma crise de ansiedade para trazer a mente de volta ao presente. Funciona assim: 1) Olhe ao redor e nomeie 3 coisas que você pode VER. 2) Preste atenção e identifique 3 sons que você pode OUVIR. 3) Mova 3 partes do seu CORPO (seus dedos dos pés, seus ombros, seu pescoço). Essa sequência força seu cérebro a se desconectar dos pensamentos catastróficos e a se reconectar com o ambiente sensorial imediato, interrompendo a espiral de pânico. É uma ferramenta portátil e discreta que você pode usar em qualquer lugar.",
+    "palavras_chave": ["regra 3-3-3", "ansiedade", "grounding", "presente", "crise"]
+  },
+  {
+    "pergunta": "O que é o transtorno de desregulação disruptiva do humor?",
+    "resposta": "É um diagnóstico relativamente novo, introduzido para crianças e adolescentes (até 18 anos) que apresentam irritabilidade persistente e crônica, com explosões de raiva frequentes e graves (verbais ou comportamentais) que são desproporcionais à situação. Essas explosões ocorrem, em média, três ou mais vezes por semana. O humor entre as explosões é irritável ou raivoso na maior parte do dia, quase todos os dias. O objetivo desse diagnóstico foi reduzir o diagnóstico excessivo de Transtorno Bipolar em crianças, oferecendo uma categoria mais precisa para essa apresentação de irritabilidade crônica e severa.",
+    "palavras_chave": ["desregulação", "humor", "irritabilidade", "criança", "explosão"]
+  },
+  {
+    "pergunta": "Como a prática de ioga beneficia a saúde mental?",
+    "resposta": "A ioga é uma prática mente-corpo que combina posturas físicas (ásanas), respiração controlada (pranayama) e meditação. Seus benefícios para a saúde mental são profundos. Fisicamente, ela reduz os níveis de cortisol e ativa o sistema nervoso parassimpático (o 'sistema de descanso e digestão'). Mentalmente, a necessidade de focar na respiração e no alinhamento do corpo é uma forma de mindfulness, que acalma a ruminação mental. A prática regular tem se mostrado eficaz na redução de sintomas de ansiedade, depressão e TEPT, melhorando a regulação emocional e a sensação de autoeficácia. Sabia que a ioga pode aumentar os níveis de GABA, um neurotransmissor cuja deficiência está ligada à ansiedade e à depressão?",
+    "palavras_chave": ["ioga", "mente-corpo", "respiração", "mindfulness", "gaba"]
+  },
+  {
+    "pergunta": "O que é a síndrome de Ganser?",
+    "resposta": "A Síndrome de Ganser é um transtorno dissociativo raro e pouco compreendido, também conhecido como 'síndrome das respostas aproximadas'. A pessoa dá respostas 'quase corretas' para perguntas simples, como dizer que 2+2=5, ou demonstra um comportamento bizarro e infantil. Ela pode parecer confusa e desorientada. Historicamente, foi associada a prisioneiros tentando simular loucura, mas hoje é entendida como uma reação dissociativa genuína a um estresse psicológico esmagador. É como se a mente se 'desligasse' parcialmente para evitar uma realidade intolerável. O tratamento envolve a criação de um ambiente seguro e a psicoterapia para lidar com o estresse subjacente.",
+    "palavras_chave": ["ganser", "dissociativo", "respostas", "estresse", "bizarro"]
+  },
+  {
+    "pergunta": "Qual a importância do lazer para a saúde mental?",
+    "resposta": "O lazer não é um luxo, é uma necessidade psicológica fundamental. É o tempo em que nos libertamos das obrigações e nos engajamos em atividades por puro prazer. Ele fornece uma pausa essencial do estresse crônico, permitindo que o cérebro e o corpo se recuperem. O lazer promove a criatividade, fortalece a identidade pessoal (quem somos além do nosso trabalho) e oferece oportunidades para conexão social e realização pessoal. Uma vida sem lazer é uma vida propensa ao burnout e à depressão. Priorizar momentos de brincadeira, hobbies e diversão é um ato de autocuidado tão importante quanto comer bem ou dormir o suficiente.",
+    "palavras_chave": ["lazer", "prazer", "autocuidado", "criatividade", "recuperação"]
+  },
+  {
+    "pergunta": "O que é o transtorno de personalidade múltipla?",
+    "resposta": "O nome correto é Transtorno de Identidade Dissociativo (TID). É um transtorno complexo e raro que se desenvolve como uma resposta de sobrevivência a traumas graves e repetitivos na primeira infância. A personalidade da criança não se consolida em uma única identidade, mas se fragmenta em duas ou mais identidades ou 'estados de personalidade' distintos. Essas identidades têm seus próprios padrões de percepção, relacionamento e pensamento sobre o ambiente e si mesmas. A amnésia dissociativa (esquecer eventos cotidianos, informações pessoais importantes ou o próprio trauma) é uma característica central. O TID é a expressão máxima da capacidade da mente de se dissociar da dor para permitir que a pessoa continue funcionando.",
+    "palavras_chave": ["identidade", "dissociativo", "trauma", "personalidade", "amnésia"]
+  },
+  {
+    "pergunta": "Como a falta de tempo na natureza nos afeta?",
+    "resposta": "A vida moderna, predominantemente em ambientes urbanos e internos, nos privou de algo essencial: o contato com a natureza. O pesquisador Edward O. Wilson cunhou o termo 'Biofilia' para descrever a conexão inata que os humanos têm com outras formas de vida. Quando negamos essa conexão, podemos desenvolver o que Richard Louv chamou de 'Transtorno de Déficit de Natureza'. Os sintomas incluem maior estresse, dificuldade de concentração, sentimentos de apatia e até maiores taxas de miopia em crianças. A natureza não é apenas um cenário agradável; é um ambiente que nossa biologia espera e do qual depende para um funcionamento psicológico ótimo.",
+    "palavras_chave": ["natureza", "biofilia", "déficit", "estresse", "concentração"]
+  },
+  {
+    "pergunta": "O que é a síndrome de Cotard?",
+    "resposta": "Também conhecida como 'Síndrome do Cadáver Ambulante', é um raro transtorno neuropsiquiátrico no qual a pessoa tem um delírio fixo de que está morta, não existe, está apodrecendo ou perdeu seu sangue ou órgãos internos. É uma condição extremamente grave, frequentemente associada a depressão psicótica severa, esquizofrenia ou dano cerebral. A pessoa pode negar a própria existência a ponto de parar de comer e beber, acreditando que não precisa mais de sustento. O tratamento é complexo e envolve medicamentos antipsicóticos e terapia eletroconvulsiva (ECT) em alguns casos resistentes.",
+    "palavras_chave": ["cotard", "delírio", "morte", "depressão", "psicótico"]
+  },
+  {
+    "pergunta": "O que é a psicodinâmica do trabalho?",
+    "resposta": "A Psicodinâmica do Trabalho é um campo de estudo e intervenção, originado na França com Christophe Dejours, que analisa as relações entre trabalho e saúde mental. Ela investiga como a organização do trabalho, as relações de poder, a divisão de tarefas e o reconhecimento (ou a falta dele) impactam a subjetividade do trabalhador, podendo levar ao sofrimento ou, ao contrário, à realização. Diferente da abordagem que culpa apenas o indivíduo, a Psicodinâmica olha para a estrutura do trabalho como fonte de patologias como o burnout. A intervenção busca transformar a organização do trabalho para promover a saúde, e não apenas 'consertar' o trabalhador.",
+    "palavras_chave": ["psicodinâmica", "trabalho", "sofrimento", "organização", "reconhecimento"]
+  },
+  {
+    "pergunta": "O que é o transtorno de apego reativo?",
+    "resposta": "É um transtorno grave da infância que ocorre quando uma criança não estabelece vínculos saudáveis com suas figuras de cuidado primário, devido a uma negligência social extrema (falta de conforto, carinho e interação) antes dos 5 anos de idade. A criança é emocionalmente retraída e inibida, não buscando ou respondendo ao conforto quando angustiada. Ela tem uma perturbação social e emocional marcada, com respostas emocionais mínimas, episódios de irritabilidade inexplicáveis e tristeza. É um reflexo direto da privação de cuidados afetivos consistentes e amorosos, essenciais para o desenvolvimento cerebral saudável.",
+    "palavras_chave": ["apego", "reativo", "criança", "negligência", "vínculo"]
+  },
+  {
+    "pergunta": "Como a espiritualidade pode impactar a saúde mental?",
+    "resposta": "A espiritualidade, entendida como a busca por significado, propósito e conexão com algo maior que si mesmo, pode ser um recurso poderoso para a saúde mental. Ela oferece um sistema de crenças que pode fornecer esperança, conforto em momentos de crise e uma sensação de pertencimento a uma comunidade. Práticas como a meditação e a oração podem induzir estados de relaxamento profundo. No entanto, a relação é complexa: uma espiritualidade rígida e punitiva pode gerar culpa e ansiedade. O benefício está menos na religião específica e mais na qualidade da experiência espiritual – se ela é uma fonte de amor, aceitação e significado, contribui positivamente para o bem-estar.",
+    "palavras_chave": ["espiritualidade", "propósito", "significado", "comunidade", "esperança"]
+  },
+  {
+    "pergunta": "O que é a síndrome de Alice no País das Maravilhas?",
+    "resposta": "É um transtorno neurológico raro que afeta a percepção visual. A pessoa experimenta distorções na imagem do próprio corpo (sentindo-se maior ou menor do que é - metamorfopsia) ou dos objetos ao redor (micropsia ou macropsia). O tempo também pode parecer distorcido. É como se o mundo real se assemelhasse às experiências de Alice no livro de Lewis Carroll. A síndrome está frequentemente associada a enxaquecas, epilepsia ou infecções virais como o vírus Epstein-Barr. Embora assustadora, os episódios são geralmente breves. O tratamento visa controlar a condição subjacente, como a enxaqueca.",
+    "palavras_chave": ["alice", "percepção", "neurológico", "distorção", "enxaqueca"]
+  },
+  {
+    "pergunta": "O que é a resiliência post-traumática?",
+    "resposta": "É um conceito que vai além de simplesmente 'superar' um trauma. Refere-se à capacidade de não apenas se recuperar, mas de experimentar um crescimento pessoal significativo como resultado da luta com um evento altamente desafiador. Esse 'Crescimento Pós-Traumático' pode se manifestar de várias formas: uma maior apreciação pela vida, relacionamentos mais profundos e autênticos, a descoberta de uma força pessoal que não se conhecia, novas possibilidades de vida e uma riqueza espiritual existencial. A resiliência pós-traumática não nega a dor, mas mostra que é possível encontrar significado e até florescer no solo fertilizado pelo sofrimento.",
+    "palavras_chave": ["resiliência", "trauma", "crescimento", "significado", "superação"]
+  },
+  {
+    "pergunta": "O que é o transtorno de tique vocal ou motor?",
+    "resposta": "Os tiques são movimentos (motores) ou vocalizações (vocais) súbitos, rápidos, recorrentes e não rítmicos. Eles podem ser simples (como piscar os olhos, fungar o nariz, pigarrear) ou complexos (como pular, ecolalia - repetir palavras dos outros, ou coprolalia - proferir palavras obscenas). O Transtorno de Tourette é a forma mais conhecida, envolvendo múltiplos tiques motores e pelo menos um tique vocal. Os tiques geralmente pioram com o estresse e a ansiedade e podem ser suprimidos voluntariamente por um curto período. A causa é neurobiológica, envolvendo circuitos nos gânglios da base do cérebro. O tratamento pode incluir terapia comportamental e medicamentos.",
+    "palavras_chave": ["tique", "tourette", "vocal", "motor", "neurobiológico"]
+  },
+  {
+    "pergunta": "Como a 'fadiga da decisão' nos afeta?",
+    "resposta": "A fadiga da decisão é um fenômeno psicológico que descreve a piora na qualidade das decisões após uma longa sessão de tomada de decisões. Nossa capacidade de fazer escolhas ponderadas e exercer o autocontrole é um recurso mental finito, como um músculo que cansa. Depois de um dia cheio de microdecisões (o que vestir, o que comer no almoço, como responder um e-mail), nossa força de vontade se esgota. É por isso que é mais provável que comamos junk food à noite ou que explodamos com alguém por uma bobagem. Estratégias para preservar essa energia incluem simplificar rotinas (como vestir uma 'uniforme' pessoal) e tomar as decisões mais importantes no início do dia.",
+    "palavras_chave": ["decisão", "fadiga", "autocontrole", "vontade", "qualidade"]
+  },
+  {
+    "pergunta": "O que é a síndrome de Diógenes?",
+    "resposta": "A Síndrome de Diógenes é um padrão de comportamento caracterizado por extremo auto-negligência, acumulação compulsiva de lixo ou objetos inúteis, e reclusão social. A pessoa vive em condições de sujeira e desordem insalubres, muitas vezes sem perceber o perigo ou a anormalidade da situação. Ao contrário do nome, que remete ao filósofo que desprezava bens materiais, aqui a pessoa acumula de forma patológica. A síndrome é mais comum em idosos e pode estar associada a demência, depressão severa ou transtornos de personalidade. É uma condição que requer intervenção de assistência social e saúde mental, focada na segurança e no bem-estar do indivíduo.",
+    "palavras_chave": ["diógenes", "acumulação", "negligência", "idoso", "reclusão"]
+  },
+  {
+    "pergunta": "O que é a terapia de aceitação e compromisso (ACT)?",
+    "resposta": "A ACT (lê-se 'act', como 'agir') é uma forma de terapia comportamental de 'terceira geração'. Seu foco não é eliminar pensamentos e sentimentos difíceis, mas aprender a aceitá-los como parte da vida, enquanto nos comprometemos a agir de acordo com nossos valores mais profundos. A ACT ensina habilidades de mindfulness para observar os pensamentos sem se prender a eles, e a 'desfusão cognitiva' (ver os pensamentos como apenas pensamentos, e não como verdades absolutas). A pergunta central é: 'O que você pode fazer agora que é importante para você, mesmo na presença desse obstáculo?'. É uma terapia muito eficaz para lidar com a dor crônica, a ansiedade e a depressão.",
+    "palavras_chave": ["act", "aceitação", "valores", "mindfulness", "compromisso"]
+  },
+  {
+    "pergunta": "O que é o transtorno de desmame antidepressivo?",
+    "resposta": "Mais conhecido como 'Síndrome de Descontinuação de Antidepressivos', é um conjunto de sintomas que podem ocorrer quando uma pessoa para abruptamente ou reduz drasticamente a dose de um antidepressivo que estava tomando por um tempo. Os sintomas incluem tontura, náusea, fadiga, ansiedade, irritabilidade, 'choques cerebrais' (sensações de curto-circuito elétrico na cabeça) e distúrbios do sono. É importante diferenciar de uma recaída da depressão. A síndrome ocorre porque o cérebro se adaptou à presença do medicamento e leva tempo para se reajustar. Por isso, a descontinuação deve SEMPRE ser feita de forma gradual e sob supervisão médica rigorosa.",
+    "palavras_chave": ["desmame", "antidepressivo", "descontinuação", "síndrome", "medicação"]
+  },
+  {
+    "pergunta": "Como a arquitetura influencia o bem-estar mental?",
+    "resposta": "A arquitetura não é apenas sobre estética; é sobre a criação de ambientes que podem nos curar ou nos adoecer. Princípios da 'neuroarquitetura' e do 'design biofílico' mostram que espaços com luz natural abundante, ventilação, vistas para a natureza, cores suaves e layouts que promovem privacidade e conexão social têm um impacto positivo mensurável na redução do estresse, na melhora da concentração e na promoção da calma. Hospitais com janelas para jardins, por exemplo, têm registrado uma recuperação mais rápida dos pacientes. Nosso ambiente construído é um parceiro silencioso, mas poderoso, na nossa saúde mental diária.",
+    "palavras_chave": ["arquitetura", "neuroarquitetura", "design", "ambiente", "bem-estar"]
+  },
+  {
+    "pergunta": "O que é a síndrome de Capgras?",
+    "resposta": "É um raro transtorno delirante no qual a pessoa acredita que um ente querido (cônjuge, pai, filho) foi substituído por um impostor idêntico. É um delírio específico de 'misidentificação'. Acredita-se que resulte de uma desconexão entre o sistema de reconhecimento visual facial (que funciona) e a resposta emocional associada a esse rosto (que está ausente). Ao ver a pessoa, o cérebro registra que é ela, mas a falta da 'sensação' familiar leva a uma conclusão bizarra: 'Isso parece minha esposa, mas não SENTE como minha esposa, então deve ser uma impostora'. É mais comum em condições como esquizofrenia, demência e após lesões cerebrais.",
+    "palavras_chave": ["capgras", "delírio", "impostor", "reconhecimento", "emocional"]
+  },
+  {
+    "pergunta": "O que é a psicologia da emergência e desastres?",
+    "resposta": "É um campo da psicologia que atua no atendimento às vítimas, sobreviventes e equipes de resgate envolvidas em situações de crise, desastres naturais, acidentes em massa e atos de terrorismo. O foco é o cuidado psicológico imediato (primeiros socorros psicológicos) e a longo prazo, visando prevenir o desenvolvimento do TEPT e outros transtornos. Os psicólogos ajudam as pessoas a processarem o trauma agudo, a lidarem com o luto coletivo e a reconstruírem um senso de segurança e comunidade. É um trabalho que exige resiliência e técnicas específicas para atuar em ambientes de alto estresse e caos.",
+    "palavras_chave": ["emergência", "desastre", "trauma", "primeiros socorros", "crise"]
+  },
+  {
+    "pergunta": "O que é o transtorno de ansiedade de separação em adultos?",
+    "resposta": "Embora seja mais comum em crianças, o Transtorno de Ansiedade de Separação pode persistir ou surgir na vida adulta. Caracteriza-se por uma ansiedade excessiva e inadequada concernente à separação de figuras de apego (como o cônjuge ou os filhos). O adulto pode sofrer intensamente quando antecipa ou vivencia a separação, ter pesadelos sobre o tema, preocupar-se excessivamente com que algo de mal aconteça aos entes queridos, e relutar em sair de casa ou dormir longe deles. Esse medo causa um sofrimento significativo e prejuízo na vida social e profissional. A terapia é fundamental para entender as raízes desse medo e desenvolver maior autonomia emocional.",
+    "palavras_chave": ["separação", "ansiedade", "adulto", "apego", "medo"]
+  },
+  {
+    "pergunta": "Como a prática do 'não fazer' pode ser terapêutica?",
+    "resposta": "Na nossa cultura de produtividade tóxica, a prática deliberada do 'não fazer' – o ócio, o descanso sem culpa – é um ato radical de saúde mental. O sistema nervoso precisa de momentos de inatividade para se restaurar, consolidar memórias e processar emoções. Quando estamos sempre 'ligados', o corpo permanece em um estado crônico de estresse de baixo grau. Reservar momentos para literalmente não fazer nada, sem telas ou estímulos, permite que a mente divague, o que é crucial para a criatividade e a solução de problemas. É uma desintoxicação necessária da pressão constante por desempenho. Descansar não é perda de tempo; é parte essencial do ciclo de produtividade e bem-estar.",
+    "palavras_chave": ["ócio", "descanso", "produtividade", "criatividade", "desintoxicação"]
+  },
+  {
+    "pergunta": "O que é a síndrome de Savant?",
+    "resposta": "A Síndrome de Savant é uma condição rara e extraordinária na qual uma pessoa com sérias deficiências mentais (frequentemente dentro do espectro do autismo) demonstra uma habilidade ou talento profoundo em uma área específica, contrastando drasticamente com suas limitações gerais. Essas 'ilhas de genialidade' podem ser na memória (calendário, dados), cálculo matemático, talento artístico (música, pintura) ou habilidades mecânicas e espaciais. O savant mais famoso foi Kim Peek, que inspirou o filme 'Rain Man'. Acredita-se que a síndrome resulte de uma compensação do hemisfério direito do cérebro por danos no hemisfério esquerdo, liberando habilidades normalmente suprimidas.",
+    "palavras_chave": ["savant", "genialidade", "autismo", "habilidade", "memória"]
+  },
+  {
+    "pergunta": "O que é a ressignificação cognitiva?",
+    "resposta": "Também conhecida como 'reestruturação cognitiva', é uma técnica central da Terapia Cognitivo-Comportamental. É o processo de identificar, desafiar e alterar pensamentos automáticos negativos e distorcidos. Em vez de aceitar um pensamento como 'Meu chefe não gostou da minha apresentação, eu sou um fracasso', a ressignificação ensina a buscar uma interpretação mais equilibrada e realista: 'Meu chefe fez uma crítica a um ponto específico. Isso não me define como um profissional. Posso usar esse feedback para melhorar'. Não se trata de 'pensamento positivo', mas de 'pensamento preciso'. É uma ferramenta poderosa para reduzir a ansiedade e a depressão, mudando a forma como interpretamos os eventos da nossa vida.",
+    "palavras_chave": ["ressignificação", "cognitiva", "pensamentos", "tcc", "reatividade"]
+  }
+]

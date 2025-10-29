@@ -1,0 +1,502 @@
+[
+    {
+        "pergunta": "O que é paradoxo?",
+        "resposta": "Paradoxo junta ideias opostas que parecem verdadeiras, como 'Menos é mais'. Sabia que aparece em filosofia, como 'Só sei que nada sei'?",
+        "palavras_chave": ["paradoxo", "ideias opostas", "menos é mais", "filosofia", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é pleonasmo?",
+        "resposta": "Pleonasmo repete a ideia para reforçar, como 'Subir pra cima'. Sabia que é comum na fala, como 'Entrar pra dentro'?",
+        "palavras_chave": ["pleonasmo", "repetição", "subir pra cima", "entrar pra dentro", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é anáfora?",
+        "resposta": "Anáfora repete palavras no começo de frases, como 'Quero paz, quero amor'. Sabia que é usada em discursos, como os de Martin Luther King?",
+        "palavras_chave": ["anáfora", "repetição", "quero paz", "discursos", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é catacrese?",
+        "resposta": "Catacrese usa palavras por falta de termo exato, como 'Pé da mesa'. Sabia que 'asa da xícara' é um exemplo clássico?",
+        "palavras_chave": ["catacrese", "pé da mesa", "asa da xícara", "termo exato", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é elipse?",
+        "resposta": "Elipse omite palavras óbvias, como 'Cheguei agora'. Sabia que é comum em conversas rápidas ou poesias?",
+        "palavras_chave": ["elipse", "omite palavras", "cheguei agora", "conversas", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é zeugma?",
+        "resposta": "Zeugma omite palavras já mencionadas, como 'Eu gosto de café; ela, de chá'. Sabia que é comum em livros para economizar palavras?",
+        "palavras_chave": ["zeugma", "omite palavras", "café e chá", "livros", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é hipálage?",
+        "resposta": "Hipálage atribui característica a outro elemento, como 'Céu cansado' para pessoa cansada. Sabia que é rara, mas brilha em poesias modernas?",
+        "palavras_chave": ["hipálage", "céu cansado", "poesias modernas", "característica", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é sinestesia?",
+        "resposta": "Sinestesia mistura sensações, como 'Grito vermelho'. Sabia que Cruz e Sousa usava muito isso em poemas?",
+        "palavras_chave": ["sinestesia", "grito vermelho", "Cruz e Sousa", "sensações", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é gradação?",
+        "resposta": "Gradação alinha ideias em ordem crescente, como 'Sussurrou, falou, gritou'. Sabia que propagandas usam isso para impactar?",
+        "palavras_chave": ["gradação", "ordem crescente", "sussurrou gritou", "propagandas", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é apóstrofe?",
+        "resposta": "Apóstrofe chama alguém ou algo, como 'Ó sol, ilumina-me!'. Sabia que é comum em hinos e poesias épicas?",
+        "palavras_chave": ["apóstrofe", "ó sol", "hinos", "poesias épicas", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é anacoluto?",
+        "resposta": "Anacoluto quebra a frase, como 'Eu, o coração dispara'. Sabia que imita a fala cotidiana?",
+        "palavras_chave": ["anacoluto", "coração dispara", "fala cotidiana", "quebra frase", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é polissíndeto?",
+        "resposta": "Polissíndeto repete conjunções, como 'E corro, e pulo, e canto'. Sabia que dá ritmo em poemas?",
+        "palavras_chave": ["polissíndeto", "repetir conjunções", "corro pulo canto", "ritmo", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é assíndeto?",
+        "resposta": "Assíndeto omite conjunções, como 'Corro, pulo, canto'. Sabia que acelera listas em textos dinâmicos?",
+        "palavras_chave": ["assíndeto", "omite conjunções", "corro pulo canto", "textos dinâmicos", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é enumeração?",
+        "resposta": "Enumeração lista coisas, como 'Sol, mar, areia, vento'. Sabia que propagandas usam isso para destacar produtos?",
+        "palavras_chave": ["enumeração", "lista coisas", "sol mar areia", "propagandas", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é alegoria?",
+        "resposta": "Alegoria usa símbolos para mostrar ideias, como 'A morte é um cavaleiro'. Sabia que é comum em fábulas, como 'A Cigarra e a Formiga'?",
+        "palavras_chave": ["alegoria", "símbolos", "morte cavaleiro", "fábulas", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é eufonia?",
+        "resposta": "Eufonia deixa o som agradável, como 'A brisa beija o rosto'. Sabia que evita sons estranhos, como 'boca aberta'?",
+        "palavras_chave": ["eufonia", "som agradável", "brisa beija", "boca aberta", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é paralelismo?",
+        "resposta": "Paralelismo repete a mesma estrutura, como 'Amo o mar, amo o céu'. Sabia que é comum em provérbios e poesias bíblicas?",
+        "palavras_chave": ["paralelismo", "mesma estrutura", "amo o mar", "provérbios", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é hipérbato?",
+        "resposta": "Hipérbato inverte a ordem natural, como 'Pela rua crianças brincam'. Sabia que Camões usava muito isso em poesias?",
+        "palavras_chave": ["hipérbato", "inverte ordem", "crianças brincam", "Camões", "poesias", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é prosopopeia?",
+        "resposta": "Prosopopeia dá vida a coisas inanimadas, como 'O rio chora'. Sabia que lendas indígenas usam isso com rios que falam?",
+        "palavras_chave": ["prosopopeia", "rio chora", "lendas indígenas", "dá vida", "semântica", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é silepse?",
+        "resposta": "Silepse concorda com a ideia, não com a forma, como 'A cidade está nervosa' para as pessoas. Sabia que é comum em notícias sobre eventos coletivos?",
+        "palavras_chave": ["silepse", "concorda ideia", "cidade nervosa", "notícias eventos", "figura linguagem"]
+    },
+    {
+        "pergunta": "O que é metáfora?",
+        "resposta": "Metáfora compara de forma implícita, como 'Ele é um leão' para uma pessoa corajosa. Sabia que Aristóteles já a considerava a mais nobre das figuras de linguagem na Grécia Antiga?",
+        "palavras_chave": ["metáfora", "comparação implícita", "figura poética", "Aristóteles", "língua portuguesa"]
+    },
+    {
+        "pergunta": "O que é comparação?",
+        "resposta": "Comparação liga dois elementos com conectivos, como 'Ele é corajoso como um leão'. Sabia que é uma das figuras mais usadas em músicas populares brasileiras?",
+        "palavras_chave": ["comparação", "como leão", "conectivos", "música popular", "linguagem literária"]
+    },
+    {
+        "pergunta": "O que é metonímia?",
+        "resposta": "Metonímia substitui a palavra por outra próxima, como 'Ler Machado de Assis' em vez de 'ler as obras de Machado'. Sabia que jornais usam metonímia diariamente nas manchetes?",
+        "palavras_chave": ["metonímia", "substituição", "Machado de Assis", "jornais", "figura retórica"]
+    },
+    {
+        "pergunta": "O que é ironia?",
+        "resposta": "Ironia diz o contrário do que se pensa, como 'Que pontualidade!' para alguém atrasado. Sabia que Machado de Assis foi mestre em ironias sutis?",
+        "palavras_chave": ["ironia", "contrário sentido", "pontualidade", "Machado de Assis", "sutileza literária"]
+    },
+    {
+        "pergunta": "O que é eufemismo?",
+        "resposta": "Eufemismo suaviza expressões, como 'Ele partiu' em vez de 'Ele morreu'. Sabia que é muito usado em discursos religiosos e políticos?",
+        "palavras_chave": ["eufemismo", "suavizar", "partiu", "discursos políticos", "linguagem suave"]
+    },
+    {
+        "pergunta": "O que é hipérbole?",
+        "resposta": "Hipérbole exagera ideias, como 'Estou morrendo de fome'. Sabia que os cordéis nordestinos abusam dessa técnica para entreter?",
+        "palavras_chave": ["hipérbole", "exagero", "cordel nordestino", "morrendo de fome", "figura expressiva"]
+    },
+    {
+        "pergunta": "O que é onomatopeia?",
+        "resposta": "Onomatopeia imita sons, como 'tic-tac' ou 'miau'. Sabia que histórias em quadrinhos se popularizaram mundialmente com essas expressões sonoras?",
+        "palavras_chave": ["onomatopeia", "sons", "tic-tac", "quadrinhos", "linguagem visual"]
+    },
+    {
+        "pergunta": "O que é aliteração?",
+        "resposta": "Aliteração repete sons consonantais, como 'O rato roeu a roupa'. Sabia que poetas simbolistas adoravam esse recurso para criar musicalidade?",
+        "palavras_chave": ["aliteração", "sons consonantais", "rato roeu", "poetas simbolistas", "musicalidade"]
+    },
+    {
+        "pergunta": "O que é assonância?",
+        "resposta": "Assonância repete vogais, como 'A arara rara'. Sabia que cantigas medievais já usavam essa técnica para encantar ouvintes?",
+        "palavras_chave": ["assonância", "vogais repetidas", "arara rara", "cantigas medievais", "efeito sonoro"]
+    },
+    {
+        "pergunta": "O que é paradoxo aparente?",
+        "resposta": "Paradoxo aparente parece contraditório, mas guarda sentido, como 'É preciso morrer para viver'. Sabia que a Bíblia traz diversos exemplos desse tipo?",
+        "palavras_chave": ["paradoxo aparente", "contradição", "Bíblia", "sentido oculto", "linguagem figurada"]
+    },
+    {
+        "pergunta": "O que é prosopografia?",
+        "resposta": "Prosopografia descreve a aparência física de alguém, como 'Tinha olhos azuis e cabelos dourados'. Sabia que romances realistas detalham personagens assim?",
+        "palavras_chave": ["prosopografia", "descrição física", "romance realista", "aparência", "figura descritiva"]
+    },
+    {
+        "pergunta": "O que é etopeia?",
+        "resposta": "Etopeia descreve características morais ou psicológicas, como 'Era um homem bondoso e humilde'. Sabia que é essencial em biografias literárias?",
+        "palavras_chave": ["etopeia", "descrição moral", "caráter psicológico", "biografias", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é antonomásia?",
+        "resposta": "Antonomásia substitui o nome por uma qualidade, como 'O Rei do Futebol' para Pelé. Sabia que na Idade Média reis eram conhecidos por títulos e não nomes?",
+        "palavras_chave": ["antonomásia", "rei do futebol", "Pelé", "substituição nome", "qualidade"]
+    },
+    {
+        "pergunta": "O que é disfemismo?",
+        "resposta": "Disfemismo troca por palavras mais duras, como 'chutar o balde' para desistir. Sabia que muitas gírias populares nascem desse recurso?",
+        "palavras_chave": ["disfemismo", "linguagem dura", "chutar balde", "gírias populares", "expressão coloquial"]
+    },
+    {
+        "pergunta": "O que é antonomásia literária?",
+        "resposta": "Antonomásia literária usa títulos para escritores, como 'O Bruxo do Cosme Velho' para Machado de Assis. Sabia que até hoje ele é lembrado assim em aulas de literatura?",
+        "palavras_chave": ["antonomásia literária", "Machado de Assis", "Bruxo Cosme Velho", "títulos", "literatura brasileira"]
+    },
+    {
+        "pergunta": "O que é tautologia?",
+        "resposta": "Tautologia repete a mesma ideia, como 'É o que é'. Sabia que filósofos a utilizam para provocar reflexões lógicas?",
+        "palavras_chave": ["tautologia", "repetição", "é o que é", "filosofia", "reflexão lógica"]
+    },
+    {
+        "pergunta": "O que é silepse de gênero?",
+        "resposta": "Silepse de gênero faz concordar pelo sentido, como 'Excelência está preocupado'. Sabia que aparece muito em discursos jurídicos?",
+        "palavras_chave": ["silepse gênero", "concordância sentido", "Excelência preocupado", "jurídico", "figura gramatical"]
+    },
+    {
+        "pergunta": "O que é silepse de número?",
+        "resposta": "Silepse de número concorda com a ideia coletiva, como 'O povo aplaudiu e foram embora'. Sabia que é comum em crônicas jornalísticas?",
+        "palavras_chave": ["silepse número", "concordância coletiva", "povo foram", "crônica jornalística", "linguagem popular"]
+    },
+    {
+        "pergunta": "O que é silepse de pessoa?",
+        "resposta": "Silepse de pessoa troca a forma gramatical pelo sentido, como 'Os brasileiros somos fortes'. Sabia que esse uso remonta a discursos políticos do século XIX?",
+        "palavras_chave": ["silepse pessoa", "somos fortes", "discursos políticos", "século XIX", "gramática histórica"]
+    },
+    {
+        "pergunta": "O que é anfibologia?",
+        "resposta": "Anfibologia é ambiguidade de sentido, como 'Viu o homem com binóculos'. Sabia que humoristas exploram muito essa confusão?",
+        "palavras_chave": ["anfibologia", "ambiguidade", "homem binóculos", "humor", "duplo sentido"]
+    },
+    {
+        "pergunta": "O que é perífrase?",
+        "resposta": "Perífrase usa várias palavras para dizer algo simples, como 'Astro-rei' para o sol. Sabia que Camões chamava o mar de 'manto azul infinito'?",
+        "palavras_chave": ["perífrase", "astro-rei", "sol", "Camões", "manto azul"]
+    },
+    {
+        "pergunta": "O que é paradoxo lógico?",
+        "resposta": "Paradoxo lógico desafia a razão, como 'Este enunciado é falso'. Sabia que matemáticos estudam esses paradoxos há séculos?",
+        "palavras_chave": ["paradoxo lógico", "contradição lógica", "enunciado falso", "matemática", "figura retórica"]
+    },
+    {
+        "pergunta": "O que é hipocorístico?",
+        "resposta": "Hipocorístico cria nomes carinhosos, como 'Zezinho' para José. Sabia que essa prática é comum em literatura infantil?",
+        "palavras_chave": ["hipocorístico", "apelido carinhoso", "Zezinho", "literatura infantil", "linguagem afetiva"]
+    },
+    {
+        "pergunta": "O que é paradoxo literário?",
+        "resposta": "Paradoxo literário enriquece textos ao unir contradições, como 'Doce veneno'. Sabia que poetas barrocos eram especialistas nisso?",
+        "palavras_chave": ["paradoxo literário", "doce veneno", "poetas barrocos", "contradição poética", "literatura"]
+    },
+    {
+        "pergunta": "O que é lítotes?",
+        "resposta": "Lítotes afirma algo negando o contrário, como 'Não é bobo' para inteligente. Sabia que o inglês usa muito essa forma, como em 'not bad'?",
+        "palavras_chave": ["lítotes", "negação contrária", "não é bobo", "not bad", "linguagem indireta"]
+    },
+    {
+        "pergunta": "O que é silepse semântica?",
+        "resposta": "Silepse semântica segue o sentido lógico, como 'A multidão gritava e batiam palmas'. Sabia que o modernismo brasileiro incorporou muito esse recurso?",
+        "palavras_chave": ["silepse semântica", "multidão gritava", "modernismo", "sentido lógico", "linguagem brasileira"]
+    },
+    {
+        "pergunta": "O que é quiasmo?",
+        "resposta": "Quiasmo inverte estruturas, como 'O autor escreve o livro e o livro escreve o autor'. Sabia que esse recurso era querido pelos retóricos da Roma Antiga?",
+        "palavras_chave": ["quiasmo", "inversão estruturas", "Roma Antiga", "autor livro", "retórica clássica"]
+    },
+    {
+        "pergunta": "O que é perissologia?",
+        "resposta": "Perissologia usa palavras desnecessárias, como 'Subir acima'. Sabia que embora considerada vício de linguagem, pode ter valor estilístico em poesias?",
+        "palavras_chave": ["perissologia", "redundância", "subir acima", "vício linguagem", "estilo literário"]
+    },
+    {
+        "pergunta": "O que é trocadilho?",
+        "resposta": "Trocadilho joga com sons e sentidos, como 'Casa cai, mas não cai em casa'. Sabia que Shakespeare ficou famoso também pelos trocadilhos?",
+        "palavras_chave": ["trocadilho", "jogo palavras", "sons sentidos", "Shakespeare", "humor literário"]
+    },
+    {
+        "pergunta": "O que é antonomásia histórica?",
+        "resposta": "Antonomásia histórica chama figuras por títulos, como 'O Libertador' para Simón Bolívar. Sabia que jornais do século XIX usavam isso em manchetes?",
+        "palavras_chave": ["antonomásia histórica", "Libertador", "Simón Bolívar", "século XIX", "jornais antigos"]
+    },
+    {
+        "pergunta": "O que é antonomásia religiosa?",
+        "resposta": "Antonomásia religiosa substitui nomes por títulos sagrados, como 'O Salvador' para Jesus Cristo. Sabia que sermões barrocos no Brasil usavam muito esse recurso?",
+        "palavras_chave": ["antonomásia religiosa", "O Salvador", "Jesus Cristo", "sermões barrocos", "figura de linguagem"]
+    },
+    {
+        "pergunta": "O que é oxímoro?",
+        "resposta": "Oxímoro junta palavras opostas, como 'silêncio ensurdecedor'. Sabia que poetas simbolistas adoravam esse contraste?",
+        "palavras_chave": ["oxímoro", "silêncio ensurdecedor", "palavras opostas", "simbolismo", "contraste poético"]
+    },
+    {
+        "pergunta": "O que é paronomásia?",
+        "resposta": "Paronomásia aproxima palavras parecidas no som, como 'conserto' e 'concerto'. Sabia que propagandas exploram isso para fixar marcas?",
+        "palavras_chave": ["paronomásia", "jogo sonoro", "conserto concerto", "propaganda", "linguagem criativa"]
+    },
+    {
+        "pergunta": "O que é prosopopeia animal?",
+        "resposta": "Prosopopeia animal dá voz aos bichos, como na fábula 'A raposa e as uvas'. Sabia que Esopo no século VI antes de Cristo já fazia isso?",
+        "palavras_chave": ["prosopopeia animal", "fábula raposa", "Esopo", "voz animais", "literatura clássica"]
+    },
+    {
+        "pergunta": "O que é antonomásia esportiva?",
+        "resposta": "Antonomásia esportiva usa títulos para atletas, como 'Fenômeno' para Ronaldo. Sabia que narradores de futebol brasileiros popularizaram esse recurso?",
+        "palavras_chave": ["antonomásia esportiva", "Fenômeno Ronaldo", "títulos atletas", "narradores", "linguagem esportiva"]
+    },
+    {
+        "pergunta": "O que é cacofonia?",
+        "resposta": "Cacofonia cria sons desagradáveis, como em 'De tanto comer, comi'. Sabia que muitas piadas populares surgem de cacofonias involuntárias?",
+        "palavras_chave": ["cacofonia", "sons desagradáveis", "comi", "piadas populares", "linguagem oral"]
+    },
+    {
+        "pergunta": "O que é silepse de tratamento?",
+        "resposta": "Silepse de tratamento ocorre quando se muda o registro, como 'Vossa Excelência está nervoso'. Sabia que a tradição jurídica portuguesa influenciou esse uso?",
+        "palavras_chave": ["silepse tratamento", "Vossa Excelência", "registro jurídico", "Portugal", "linguagem formal"]
+    },
+    {
+        "pergunta": "O que é prosopopeia histórica?",
+        "resposta": "Prosopopeia histórica faz objetos ou épocas falarem, como 'A História julgará'. Sabia que discursos políticos frequentemente recorrem a esse efeito?",
+        "palavras_chave": ["prosopopeia histórica", "História julgará", "discursos políticos", "personificação tempo", "retórica"]
+    },
+    {
+        "pergunta": "O que é antonomásia cultural?",
+        "resposta": "Antonomásia cultural usa títulos para artistas, como 'O Rei do Baião' para Luiz Gonzaga. Sabia que isso ajuda a fixar identidades culturais brasileiras?",
+        "palavras_chave": ["antonomásia cultural", "Rei do Baião", "Luiz Gonzaga", "identidade cultural", "título artístico"]
+    },
+    {
+        "pergunta": "O que é perífrase geográfica?",
+        "resposta": "Perífrase geográfica substitui o nome por expressão, como 'Terra da Garoa' para São Paulo. Sabia que escritores modernistas usavam muito essas descrições?",
+        "palavras_chave": ["perífrase geográfica", "Terra da Garoa", "São Paulo", "modernismo", "descrição regional"]
+    },
+    {
+        "pergunta": "O que é silepse figurada?",
+        "resposta": "Silepse figurada concorda com o sentido simbólico, como 'O Brasil chorou'. Sabia que jornais usam esse recurso em tragédias nacionais?",
+        "palavras_chave": ["silepse figurada", "Brasil chorou", "jornais", "tragédias", "concordância simbólica"]
+    },
+    {
+        "pergunta": "O que é antonomásia política?",
+        "resposta": "Antonomásia política substitui nomes por títulos, como 'Pai dos Pobres' para Getúlio Vargas. Sabia que cartazes de campanha do século XX abusavam disso?",
+        "palavras_chave": ["antonomásia política", "Pai dos Pobres", "Getúlio Vargas", "cartazes campanha", "século XX"]
+    },
+    {
+        "pergunta": "O que é epíteto?",
+        "resposta": "Epíteto reforça uma característica, como 'neve branca'. Sabia que Homero usava epítetos fixos, como 'Aurora de rosados dedos'?",
+        "palavras_chave": ["epíteto", "neve branca", "Homero", "aurora rosados dedos", "poesia épica"]
+    },
+    {
+        "pergunta": "O que é antítese?",
+        "resposta": "Antítese aproxima palavras contrárias, como 'amor e ódio'. Sabia que os sermões de Padre Antônio Vieira eram cheios desse contraste?",
+        "palavras_chave": ["antítese", "amor ódio", "Padre Vieira", "contraste", "sermões barrocos"]
+    },
+    {
+        "pergunta": "O que é antonomásia literária moderna?",
+        "resposta": "Antonomásia literária moderna usa títulos para escritores, como 'Poetinha' para Vinicius de Moraes. Sabia que esse apelido nasceu da Bossa Nova?",
+        "palavras_chave": ["antonomásia literária moderna", "Poetinha", "Vinicius de Moraes", "Bossa Nova", "apelido literário"]
+    },
+    {
+        "pergunta": "O que é epizeuxe?",
+        "resposta": "Epizeuxe repete uma palavra em sequência, como 'Nunca, nunca, nunca!'. Sabia que Shakespeare usava esse recurso para dramatizar falas?",
+        "palavras_chave": ["epizeuxe", "repetição direta", "nunca nunca", "Shakespeare", "dramatização"]
+    },
+    {
+        "pergunta": "O que é epanadiplose?",
+        "resposta": "Epanadiplose começa e termina uma frase com a mesma palavra, como 'Rei é rei'. Sabia que provérbios populares trazem muito esse estilo?",
+        "palavras_chave": ["epanadiplose", "começo fim", "rei é rei", "provérbios", "figura retórica"]
+    },
+    {
+        "pergunta": "O que é epanástrofe?",
+        "resposta": "Epanástrofe repete a última palavra de uma frase no início da seguinte, como 'O medo leva à raiva. A raiva leva ao ódio'. Sabia que filmes como Star Wars usaram isso?",
+        "palavras_chave": ["epanástrofe", "repetição encadeada", "medo raiva ódio", "Star Wars", "figura retórica"]
+    },
+    {
+        "pergunta": "O que é poliptoto?",
+        "resposta": "Poliptoto repete uma palavra em formas diferentes, como 'Vivo a vida que me vive'. Sabia que poemas barrocos gostavam muito desse recurso?",
+        "palavras_chave": ["poliptoto", "formas diferentes", "vivo vida vive", "poemas barrocos", "repetição"]
+    },
+    {
+        "pergunta": "O que é homeoteleuto?",
+        "resposta": "Homeoteleuto repete finais semelhantes, como 'correndo, sorrindo, subindo'. Sabia que trovadores medievais usavam para dar ritmo às cantigas?",
+        "palavras_chave": ["homeoteleuto", "sons finais", "correndo sorrindo", "trovadores", "cantigas medievais"]
+    },
+    {
+        "pergunta": "O que é antonomásia artística?",
+        "resposta": "Antonomásia artística dá títulos a artistas, como 'Rainha do Pop' para Madonna. Sabia que esse tipo de figura ajuda a fixar marcas na cultura pop?",
+        "palavras_chave": ["antonomásia artística", "Rainha do Pop", "Madonna", "cultura pop", "título artístico"]
+    },
+    {
+        "pergunta": "O que é polípote literário?",
+        "resposta": "Polípote literário usa variações da mesma raiz, como 'amar, amado, amor'. Sabia que Camões explorava muito isso nos sonetos?",
+        "palavras_chave": ["polípote literário", "amar amado amor", "Camões", "sonetos", "figura poética"]
+    },
+    {
+        "pergunta": "O que é paradiástole?",
+        "resposta": "Paradiástole transforma defeito em virtude, como 'teimoso' em 'persistente'. Sabia que políticos usam esse recurso em discursos persuasivos?",
+        "palavras_chave": ["paradiástole", "defeito virtude", "teimoso persistente", "discursos políticos", "retórica"]
+    },
+    {
+        "pergunta": "O que é antonomásia mitológica?",
+        "resposta": "Antonomásia mitológica usa deuses para características, como 'Apolo' para beleza. Sabia que renascentistas adoravam esse tipo de referência?",
+        "palavras_chave": ["antonomásia mitológica", "Apolo beleza", "renascentismo", "mitologia", "figura literária"]
+    },
+    {
+        "pergunta": "O que é epíteto épico?",
+        "resposta": "Epíteto épico atribui qualidades fixas, como 'Aquiles, o de pés ligeiros'. Sabia que esse recurso ajudava na memorização oral da Ilíada?",
+        "palavras_chave": ["epíteto épico", "Aquiles pés ligeiros", "Ilíada", "memorização oral", "poesia grega"]
+    },
+    {
+        "pergunta": "O que é anadiplose?",
+        "resposta": "Anadiplose repete no início a última palavra anterior, como 'Medo gera ódio. Ódio gera violência'. Sabia que é muito usado em slogans publicitários?",
+        "palavras_chave": ["anadiplose", "repetição encadeada", "medo ódio violência", "slogans", "retórica"]
+    },
+    {
+        "pergunta": "O que é epanortose?",
+        "resposta": "Epanortose corrige o que se disse, como 'Foi um erro... não, foi um desastre'. Sabia que oradores usam isso para reforçar impacto?",
+        "palavras_chave": ["epanortose", "correção discurso", "erro desastre", "oradores", "retórica persuasiva"]
+    },
+    {
+        "pergunta": "O que é antonomásia científica?",
+        "resposta": "Antonomásia científica nomeia personalidades, como 'Pai da Psicanálise' para Freud. Sabia que livros didáticos usam muito esse recurso para simplificar memórias?",
+        "palavras_chave": ["antonomásia científica", "Pai da Psicanálise", "Freud", "livros didáticos", "memória escolar"]
+    },
+    {
+        "pergunta": "O que é prosopografia caricatural?",
+        "resposta": "Prosopografia caricatural exagera traços físicos, como 'Nariz de Pinóquio'. Sabia que charges políticas dependem desse recurso?",
+        "palavras_chave": ["prosopografia caricatural", "nariz Pinóquio", "charges políticas", "exagero físico", "descrição satírica"]
+    },
+    {
+        "pergunta": "O que é antonomásia musical?",
+        "resposta": "Antonomásia musical dá títulos a músicos, como 'O Rei do Rock' para Elvis Presley. Sabia que revistas de música popularizam esses apelidos?",
+        "palavras_chave": ["antonomásia musical", "Rei do Rock", "Elvis Presley", "revistas música", "título cultural"]
+    },
+    {
+        "pergunta": "O que é hipérbato?",
+        "resposta": "Hipérbato inverte a ordem natural da frase, como 'De tudo, ficaram três coisas'. Sabia que Guimarães Rosa usava muito essa quebra na sintaxe?",
+        "palavras_chave": ["hipérbato", "ordem inversa", "Guimarães Rosa", "quebra sintaxe", "frase literária"]
+    },
+    {
+        "pergunta": "O que é anástrofe?",
+        "resposta": "Anástrofe troca a ordem de dois elementos, como 'Das flores belas'. Sabia que poetas românticos usavam para dar musicalidade?",
+        "palavras_chave": ["anástrofe", "troca ordem", "flores belas", "romantismo", "musicalidade poética"]
+    },
+    {
+        "pergunta": "O que é pleonasmo literário?",
+        "resposta": "Pleonasmo literário reforça a ideia, como 'Vi com meus próprios olhos'. Sabia que Camões usava pleonasmos para intensificar emoção?",
+        "palavras_chave": ["pleonasmo literário", "vi próprios olhos", "Camões", "ênfase emoção", "figura expressão"]
+    },
+    {
+        "pergunta": "O que é tautologia?",
+        "resposta": "Tautologia repete a mesma ideia de forma redundante, como 'Subir para cima'. Sabia que esse recurso pode ser irônico em discursos?",
+        "palavras_chave": ["tautologia", "subir para cima", "repetição redundante", "ironia", "linguagem oral"]
+    },
+    {
+        "pergunta": "O que é eufemismo religioso?",
+        "resposta": "Eufemismo religioso suaviza termos, como 'foi para o andar de cima' em vez de 'morreu'. Sabia que a Igreja Católica medieval popularizou eufemismos?",
+        "palavras_chave": ["eufemismo religioso", "andar de cima", "morreu", "Igreja Católica", "linguagem suavizada"]
+    },
+    {
+        "pergunta": "O que é disfemismo?",
+        "resposta": "Disfemismo faz o oposto do eufemismo, usando termos rudes, como 'bateu as botas'. Sabia que a cultura popular brasileira é cheia desses exemplos?",
+        "palavras_chave": ["disfemismo", "bateu as botas", "linguagem rude", "cultura popular", "expressão coloquial"]
+    },
+    {
+        "pergunta": "O que é litote?",
+        "resposta": "Litote afirma algo negando o contrário, como 'Não é pouco inteligente'. Sabia que esse recurso é comum em textos filosóficos?",
+        "palavras_chave": ["litote", "negação contrária", "não pouco inteligente", "filosofia", "figura retórica"]
+    },
+    {
+        "pergunta": "O que é hipálage?",
+        "resposta": "Hipálage troca o atributo, como 'noite insone' em vez de 'homem insone'. Sabia que os poetas simbolistas usaram muito esse recurso sutil?",
+        "palavras_chave": ["hipálage", "atributo trocado", "noite insone", "simbolismo", "figura sutil"]
+    },
+    {
+        "pergunta": "O que é anacoluto?",
+        "resposta": "Anacoluto interrompe a frase sem concluir, como 'Eu, aquela viagem... foi inesquecível'. Sabia que na fala cotidiana usamos anacolutos o tempo todo?",
+        "palavras_chave": ["anacoluto", "frase interrompida", "fala cotidiana", "linguagem oral", "inacabado"]
+    },
+    {
+        "pergunta": "O que é silepse de pessoa?",
+        "resposta": "Silepse de pessoa muda o sujeito, como 'Os brasileiros somos fortes'. Sabia que políticos usam isso para incluir a plateia?",
+        "palavras_chave": ["silepse pessoa", "brasileiros somos", "políticos", "inclusão discurso", "concordância pessoa"]
+    },
+    {
+        "pergunta": "O que é silepse de número?",
+        "resposta": "Silepse de número concorda com o sentido, como 'O casal brigaram'. Sabia que esse recurso aparece muito na fala popular brasileira?",
+        "palavras_chave": ["silepse número", "casal brigaram", "fala popular", "concordância sentido", "linguagem oral"]
+    },
+    {
+        "pergunta": "O que é prosopopeia abstrata?",
+        "resposta": "Prosopopeia abstrata dá voz a ideias, como 'A esperança sorriu'. Sabia que Fernando Pessoa personificava sentimentos em seus poemas?",
+        "palavras_chave": ["prosopopeia abstrata", "esperança sorriu", "Fernando Pessoa", "personificação sentimentos", "poesia moderna"]
+    },
+    {
+        "pergunta": "O que é antonomásia histórica?",
+        "resposta": "Antonomásia histórica substitui nomes por títulos, como 'O Libertador' para Simón Bolívar. Sabia que a independência latino-americana está cheia desses epítetos?",
+        "palavras_chave": ["antonomásia histórica", "Libertador Bolívar", "independência América", "epítetos", "história política"]
+    },
+    {
+        "pergunta": "O que é hipérbole amorosa?",
+        "resposta": "Hipérbole amorosa exagera sentimentos, como 'Morrerei se não te vir'. Sabia que trovadores medievais adoravam esse exagero romântico?",
+        "palavras_chave": ["hipérbole amorosa", "morrerei se não te vir", "trovadores medievais", "exagero romântico", "poesia lírica"]
+    },
+    {
+        "pergunta": "O que é ironia dramática?",
+        "resposta": "Ironia dramática acontece quando o público sabe algo que o personagem não sabe. Sabia que tragédias gregas, como as de Sófocles, exploravam esse recurso?",
+        "palavras_chave": ["ironia dramática", "público sabe", "Sófocles", "tragédia grega", "teatro clássico"]
+    },
+    {
+        "pergunta": "O que é paradoxo lógico?",
+        "resposta": "Paradoxo lógico desafia a razão, como 'Essa frase é falsa'. Sabia que filósofos gregos criaram paradoxos para questionar a lógica?",
+        "palavras_chave": ["paradoxo lógico", "essa frase é falsa", "filósofos gregos", "lógica", "contradição aparente"]
+    },
+    {
+        "pergunta": "O que é catacrese corporal?",
+        "resposta": "Catacrese corporal usa metáfora por falta de termo, como 'pé da mesa'. Sabia que muitas expressões do corpo foram naturalizadas dessa forma?",
+        "palavras_chave": ["catacrese corporal", "pé da mesa", "metáfora naturalizada", "expressão corporal", "linguagem cotidiana"]
+    },
+    {
+        "pergunta": "O que é apóstrofe?",
+        "resposta": "Apóstrofe é a invocação direta de alguém ou algo, como 'Ó mar, por que não respondes?'. Sabia que Castro Alves usava apóstrofes para dar força retórica?",
+        "palavras_chave": ["apóstrofe", "invocação direta", "Castro Alves", "Ó mar", "força retórica"]
+    },
+    {
+        "pergunta": "O que é assonância?",
+        "resposta": "Assonância repete sons vocálicos, como 'A aranha arranha a jarra'. Sabia que trava-línguas infantis são construídos com assonância?",
+        "palavras_chave": ["assonância", "sons vocálicos", "aranha arranha jarra", "trava-línguas", "sonoridade"]
+    },
+    {
+        "pergunta": "O que é aliteração poética?",
+        "resposta": "Aliteração poética repete consoantes, como 'O rato roeu a roupa'. Sabia que poetas modernistas exploravam aliterações para criar ritmo?",
+        "palavras_chave": ["aliteração poética", "sons consoantes", "rato roeu roupa", "poetas modernistas", "ritmo sonoro"]
+    }
+]

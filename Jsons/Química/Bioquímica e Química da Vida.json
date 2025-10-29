@@ -1,0 +1,527 @@
+[
+  {
+    "pergunta": "O que são biomoléculas e por que elas são tão importantes para os seres vivos?",
+    "resposta": "Biomoléculas são compostos químicos produzidos pelos organismos vivos, como proteínas, lipídios, carboidratos e ácidos nucleicos. Elas são responsáveis pelas funções vitais — desde fornecer energia até formar estruturas celulares. Por exemplo, a glicose é uma biomolécula essencial para gerar energia nas células. Sabia que a palavra 'bioquímica' surgiu no século XIX justamente para descrever o estudo dessas moléculas dentro dos organismos?",
+    "palavras_chave": ["biomoléculas", "proteínas", "lipídios", "carboidratos", "ácidos nucleicos"]
+  },
+  {
+    "pergunta": "Por que a água é considerada essencial para a vida?",
+    "resposta": "A água é o solvente universal, participando de inúmeras reações químicas dentro das células. Ela ajuda a regular a temperatura, transportar substâncias e manter a estrutura das biomoléculas. Sem água, as reações bioquímicas não aconteceriam de forma eficiente. Sabia que o corpo humano é formado por cerca de 70% de água?",
+    "palavras_chave": ["água", "solvente", "reações químicas", "vida", "células"]
+  },
+  {
+    "pergunta": "Como os carboidratos fornecem energia para o corpo?",
+    "resposta": "Os carboidratos são quebrados em glicose, que é usada nas mitocôndrias para gerar ATP, a principal moeda energética das células. É esse processo que mantém o corpo ativo e o cérebro funcionando. Sabia que o cérebro humano consome cerca de 20% da glicose disponível no corpo?",
+    "palavras_chave": ["carboidratos", "glicose", "energia", "atp", "metabolismo"]
+  },
+  {
+    "pergunta": "Qual é a diferença entre gordura saturada e insaturada?",
+    "resposta": "A principal diferença está na estrutura química das cadeias de carbono. As gorduras saturadas não têm ligações duplas e tendem a ser sólidas, como a manteiga. Já as insaturadas possuem ligações duplas e são líquidas, como o azeite. Sabia que o tipo de gordura que consumimos pode afetar o colesterol e a saúde do coração?",
+    "palavras_chave": ["gorduras", "ligações duplas", "colesterol", "saturadas", "insaturadas"]
+  },
+  {
+    "pergunta": "Por que as proteínas são chamadas de ‘tijolos da vida’?",
+    "resposta": "As proteínas formam estruturas fundamentais do corpo, como músculos, enzimas e hormônios. Elas são compostas por aminoácidos e têm funções estruturais, catalíticas e regulatórias. Sabia que uma única célula humana pode conter mais de 10 mil tipos diferentes de proteínas?",
+    "palavras_chave": ["proteínas", "aminoácidos", "enzimas", "estruturas", "função biológica"]
+  },
+  {
+    "pergunta": "Como as enzimas aceleram as reações químicas do corpo?",
+    "resposta": "As enzimas reduzem a energia de ativação das reações, tornando-as mais rápidas e eficientes. Elas se ligam aos substratos e formam produtos sem serem consumidas no processo. Sabia que a enzima catalase pode decompor milhões de moléculas de peróxido de hidrogênio por segundo?",
+    "palavras_chave": ["enzimas", "catálise", "reações químicas", "substrato", "energia de ativação"]
+  },
+  {
+    "pergunta": "O que é DNA e qual é o seu papel na vida?",
+    "resposta": "O DNA, ou ácido desoxirribonucleico, é a molécula que guarda as instruções genéticas de todos os seres vivos. Ele define características, controla o funcionamento celular e transmite informações hereditárias. Sabia que se esticássemos todo o DNA de uma célula humana, ele teria quase dois metros de comprimento?",
+    "palavras_chave": ["dna", "genética", "hereditariedade", "célula", "informação"]
+  },
+  {
+    "pergunta": "Como o RNA se diferencia do DNA?",
+    "resposta": "O RNA é uma molécula de fita simples que atua na síntese de proteínas, enquanto o DNA é uma fita dupla que armazena informações genéticas. O RNA contém a base uracila no lugar da timina. Sabia que alguns vírus, como o da gripe, usam RNA em vez de DNA como material genético?",
+    "palavras_chave": ["rna", "dna", "síntese proteica", "base nitrogenada", "vírus"]
+  },
+  {
+    "pergunta": "Por que as vitaminas são essenciais mesmo em pequenas quantidades?",
+    "resposta": "As vitaminas atuam como coenzimas em várias reações metabólicas. Mesmo em pequenas quantidades, são indispensáveis para o funcionamento celular. Sabia que a falta de vitamina C causa escorbuto, uma doença comum entre marinheiros antigos?",
+    "palavras_chave": ["vitaminas", "coenzimas", "metabolismo", "nutrição", "deficiência"]
+  },
+  {
+    "pergunta": "Como os sais minerais atuam no organismo?",
+    "resposta": "Os sais minerais ajudam na formação de ossos, na contração muscular e na transmissão de impulsos nervosos. Elementos como cálcio, ferro e potássio são fundamentais. Sabia que o ferro do nosso sangue é o mesmo tipo de átomo encontrado em metais industriais?",
+    "palavras_chave": ["sais minerais", "cálcio", "ferro", "potássio", "organismo"]
+  },
+  {
+    "pergunta": "Por que o ferro é essencial no sangue?",
+    "resposta": "O ferro faz parte da hemoglobina, proteína responsável por transportar oxigênio no sangue. Sem ferro suficiente, ocorre anemia. Sabia que cada molécula de hemoglobina pode carregar até quatro moléculas de oxigênio?",
+    "palavras_chave": ["ferro", "hemoglobina", "oxigênio", "sangue", "anemia"]
+  },
+  {
+    "pergunta": "Como a glicose é transformada em energia nas células?",
+    "resposta": "Por meio da respiração celular, a glicose é quebrada em dióxido de carbono e água, liberando energia em forma de ATP. Esse processo ocorre nas mitocôndrias. Sabia que as mitocôndrias são conhecidas como 'usinas de energia' das células?",
+    "palavras_chave": ["glicose", "respiração celular", "mitocôndrias", "atp", "energia"]
+  },
+  {
+    "pergunta": "O que são aminoácidos essenciais?",
+    "resposta": "São aqueles que o corpo humano não consegue produzir e, por isso, precisam ser obtidos na alimentação. Exemplos são a lisina e a metionina. Sabia que existem nove aminoácidos essenciais para o ser humano adulto?",
+    "palavras_chave": ["aminoácidos", "essenciais", "proteínas", "alimentação", "metabolismo"]
+  },
+  {
+    "pergunta": "Como ocorre a digestão das proteínas?",
+    "resposta": "As proteínas são quebradas por enzimas como a pepsina e a tripsina em aminoácidos menores, que são absorvidos no intestino. Sabia que o suco gástrico tem pH extremamente ácido justamente para ativar essas enzimas?",
+    "palavras_chave": ["digestão", "proteínas", "pepsina", "aminoácidos", "ph"]
+  },
+  {
+    "pergunta": "Por que os lipídios são importantes para as células?",
+    "resposta": "Os lipídios compõem as membranas celulares, armazenam energia e atuam como isolantes térmicos. Sabia que o cérebro humano é formado por quase 60% de lipídios, sendo um dos órgãos mais gordurosos do corpo?",
+    "palavras_chave": ["lipídios", "membrana celular", "energia", "isolante térmico", "células"]
+  },
+  {
+    "pergunta": "Como as enzimas reconhecem seus substratos específicos?",
+    "resposta": "As enzimas possuem um sítio ativo com formato complementar ao do substrato, como uma chave e uma fechadura. Essa especificidade garante a precisão das reações metabólicas. Sabia que pequenas mutações genéticas podem alterar o formato da enzima e comprometer sua função?",
+    "palavras_chave": ["enzimas", "substrato", "sítio ativo", "metabolismo", "mutação"]
+  },
+  {
+    "pergunta": "O que é o metabolismo e por que ele é essencial?",
+    "resposta": "O metabolismo é o conjunto de reações químicas que ocorrem no corpo para manter a vida, dividindo-se em anabolismo e catabolismo. Sabia que até o ato de pensar consome energia metabólica, principalmente na forma de glicose?",
+    "palavras_chave": ["metabolismo", "anabolismo", "catabolismo", "energia", "reações químicas"]
+  },
+  {
+    "pergunta": "Como a fotossíntese está ligada à química da vida?",
+    "resposta": "A fotossíntese transforma energia solar em energia química armazenada na glicose, usando dióxido de carbono e água. Sabia que esse processo libera oxigênio, essencial para a respiração de quase todos os seres vivos?",
+    "palavras_chave": ["fotossíntese", "energia solar", "glicose", "oxigênio", "plantas"]
+  },
+  {
+    "pergunta": "Por que o colesterol é importante, mesmo sendo visto como vilão?",
+    "resposta": "O colesterol é essencial na produção de hormônios e na formação das membranas celulares. O problema é o excesso, que pode causar doenças cardiovasculares. Sabia que cerca de 70% do colesterol do corpo é produzido pelo próprio organismo?",
+    "palavras_chave": ["colesterol", "hormônios", "membranas", "saúde", "lipídios"]
+  },
+  {
+    "pergunta": "Como as vitaminas lipossolúveis diferem das hidrossolúveis?",
+    "resposta": "As lipossolúveis, como A, D, E e K, são dissolvidas em gordura e armazenadas no corpo. Já as hidrossolúveis, como C e as do complexo B, são solúveis em água e eliminadas mais facilmente. Sabia que o excesso de vitaminas lipossolúveis pode causar intoxicação?",
+    "palavras_chave": ["vitaminas", "lipossolúveis", "hidrossolúveis", "solubilidade", "nutrição"]
+  },
+  {
+    "pergunta": "Como a insulina atua no metabolismo da glicose?",
+    "resposta": "A insulina permite que a glicose entre nas células, reduzindo o açúcar no sangue. Sem ela, ocorre acúmulo de glicose, como no diabetes. Sabia que a insulina foi o primeiro hormônio a ser produzido por engenharia genética?",
+    "palavras_chave": ["insulina", "glicose", "diabetes", "metabolismo", "hormônio"]
+  },
+  {
+    "pergunta": "Por que o ATP é chamado de 'moeda de energia' das células?",
+    "resposta": "O ATP armazena energia nas ligações entre seus fosfatos, que são liberadas quando o composto é quebrado. Ele é usado em praticamente todas as reações biológicas que exigem energia. Sabia que uma célula humana pode consumir e regenerar seu peso em ATP várias vezes por dia?",
+    "palavras_chave": ["atp", "energia", "fosfato", "células", "metabolismo"]
+  },
+  {
+    "pergunta": "Como os antioxidantes agem no organismo?",
+    "resposta": "Os antioxidantes neutralizam radicais livres, evitando danos às células e ao DNA. Eles estão presentes em frutas, verduras e chás. Sabia que a vitamina E é um dos antioxidantes naturais mais potentes conhecidos?",
+    "palavras_chave": ["antioxidantes", "radicais livres", "vitamina e", "células", "dna"]
+  },
+  {
+    "pergunta": "Por que o pH do sangue precisa ser controlado?",
+    "resposta": "O pH do sangue deve se manter entre 7,35 e 7,45 para garantir o funcionamento adequado das enzimas e do metabolismo. Pequenas variações podem ser fatais. Sabia que o corpo usa sistemas tampões para manter esse equilíbrio?",
+    "palavras_chave": ["ph", "sangue", "equilíbrio", "enzimas", "homeostase"]
+  },
+  {
+    "pergunta": "Como o corpo armazena energia em longo prazo?",
+    "resposta": "O corpo converte o excesso de glicose em gordura, armazenando-a no tecido adiposo. Esse processo é essencial para garantir energia em períodos de jejum. Sabia que 1 grama de gordura fornece mais que o dobro de energia de 1 grama de carboidrato?",
+    "palavras_chave": ["energia", "gordura", "tecido adiposo", "metabolismo", "reserva energética"]
+  },
+  {
+    "pergunta": "O que são hormônios e qual é sua função química no corpo?",
+    "resposta": "Os hormônios são mensageiros químicos produzidos por glândulas que regulam funções do organismo, como crescimento, metabolismo e reprodução. Eles atuam em pequenas quantidades, mas têm grande efeito. Sabia que a adrenalina, por exemplo, é um hormônio que prepara o corpo para situações de estresse ou perigo?",
+    "palavras_chave": ["hormônios", "mensageiros", "metabolismo", "glândulas", "adrenalina"]
+  },
+  {
+    "pergunta": "Como o corpo transforma o alimento em energia química utilizável?",
+    "resposta": "Durante a digestão, os alimentos são quebrados em moléculas menores — glicose, aminoácidos e ácidos graxos — que são metabolizadas para gerar ATP. Esse processo é controlado por enzimas em diferentes etapas. Sabia que o ATP gerado é usado até para contrair um simples músculo?",
+    "palavras_chave": ["digestão", "energia", "atp", "enzimas", "metabolismo"]
+  },
+  {
+    "pergunta": "Qual é a diferença entre anabolismo e catabolismo?",
+    "resposta": "O anabolismo constrói moléculas complexas a partir de substâncias simples, consumindo energia. Já o catabolismo faz o oposto, quebrando compostos para liberar energia. Sabia que o crescimento muscular é um exemplo clássico de processo anabólico?",
+    "palavras_chave": ["anabolismo", "catabolismo", "energia", "metabolismo", "músculos"]
+  },
+  {
+    "pergunta": "Por que a fotossíntese é considerada o processo bioquímico mais importante da Terra?",
+    "resposta": "Ela converte energia solar em energia química, produzindo glicose e liberando oxigênio. Esse oxigênio é essencial para a respiração de quase todos os seres vivos. Sabia que sem a fotossíntese o ar seria tóxico em poucas gerações?",
+    "palavras_chave": ["fotossíntese", "energia solar", "glicose", "oxigênio", "plantas"]
+  },
+  {
+    "pergunta": "Como o corpo humano armazena glicose quando há excesso?",
+    "resposta": "A glicose excedente é convertida em glicogênio e armazenada no fígado e nos músculos. Quando falta energia, o corpo quebra esse glicogênio. Sabia que o glicogênio é uma forma de ‘bateria química’ de curto prazo?",
+    "palavras_chave": ["glicose", "glicogênio", "fígado", "energia", "metabolismo"]
+  },
+  {
+    "pergunta": "O que são coenzimas e qual sua função nas reações bioquímicas?",
+    "resposta": "Coenzimas são moléculas orgânicas que ajudam as enzimas a funcionar corretamente. Elas participam do transporte de elétrons e de grupos químicos. Sabia que muitas vitaminas atuam como coenzimas, como a niacina no metabolismo energético?",
+    "palavras_chave": ["coenzimas", "enzimas", "vitaminas", "reações químicas", "metabolismo"]
+  },
+  {
+    "pergunta": "Por que os lipídios são usados como reserva energética?",
+    "resposta": "Eles possuem alta densidade energética devido às longas cadeias de carbono. Quando metabolizados, liberam mais energia do que carboidratos ou proteínas. Sabia que os ursos utilizam a gordura armazenada para sobreviver durante a hibernação?",
+    "palavras_chave": ["lipídios", "energia", "carbono", "hibernação", "metabolismo"]
+  },
+  {
+    "pergunta": "Como as proteínas funcionam como enzimas catalisadoras?",
+    "resposta": "Muitas proteínas dobram-se em formas específicas que permitem acelerar reações químicas sem serem consumidas. Essa função é essencial para o metabolismo. Sabia que quase todas as reações no corpo humano dependem de uma enzima?",
+    "palavras_chave": ["proteínas", "enzimas", "catálise", "reações químicas", "metabolismo"]
+  },
+  {
+    "pergunta": "Por que os ácidos nucleicos são considerados o ‘manual de instruções’ da vida?",
+    "resposta": "Porque armazenam e transmitem as informações genéticas que determinam as características dos seres vivos. O DNA contém os códigos, e o RNA executa as instruções. Sabia que todo o código genético humano cabe em um volume de dados menor que um DVD?",
+    "palavras_chave": ["dna", "rna", "genética", "informação", "vida"]
+  },
+  {
+    "pergunta": "Como a respiração celular se relaciona com a fotossíntese?",
+    "resposta": "A fotossíntese produz glicose e oxigênio, usados na respiração celular para gerar energia. É um ciclo químico que mantém o equilíbrio da vida. Sabia que as plantas também respiram, mas à noite consomem oxigênio?",
+    "palavras_chave": ["respiração celular", "fotossíntese", "energia", "glicose", "oxigênio"]
+  },
+  {
+    "pergunta": "Por que o sangue tem cor vermelha?",
+    "resposta": "A cor vem da hemoglobina, uma proteína que contém ferro. Quando o ferro se liga ao oxigênio, forma um complexo avermelhado. Sabia que o sangue de alguns animais é azul porque usa cobre em vez de ferro?",
+    "palavras_chave": ["sangue", "hemoglobina", "ferro", "oxigênio", "cor"]
+  },
+  {
+    "pergunta": "Como o corpo utiliza as proteínas ingeridas na alimentação?",
+    "resposta": "Durante a digestão, as proteínas são quebradas em aminoácidos, que depois são usados para construir novas proteínas corporais, como enzimas e músculos. Sabia que o colágeno é a proteína mais abundante do corpo humano?",
+    "palavras_chave": ["proteínas", "aminoácidos", "digestão", "colágeno", "enzimas"]
+  },
+  {
+    "pergunta": "Qual é o papel da clorofila nas plantas?",
+    "resposta": "A clorofila é o pigmento que captura energia solar para realizar a fotossíntese. É ela que dá a cor verde às plantas. Sabia que a estrutura da clorofila é muito parecida com a da hemoglobina, só que com magnésio no lugar do ferro?",
+    "palavras_chave": ["clorofila", "plantas", "fotossíntese", "energia solar", "magnésio"]
+  },
+  {
+    "pergunta": "O que acontece quimicamente quando cozinhamos um alimento?",
+    "resposta": "O calor provoca reações químicas como a desnaturação das proteínas e a caramelização dos açúcares. Isso muda textura, sabor e cor. Sabia que o aroma do pão assando vem de uma reação chamada de Maillard?",
+    "palavras_chave": ["cozinhar", "reações químicas", "proteínas", "carboidratos", "maillard"]
+  },
+  {
+    "pergunta": "Como o álcool afeta o metabolismo no fígado?",
+    "resposta": "O fígado metaboliza o álcool em acetaldeído, uma substância tóxica que depois é convertida em ácido acético. Em excesso, causa danos hepáticos. Sabia que o corpo leva cerca de uma hora para metabolizar uma dose padrão de álcool?",
+    "palavras_chave": ["álcool", "fígado", "metabolismo", "acetaldeído", "ácido acético"]
+  },
+  {
+    "pergunta": "Por que os antioxidantes são importantes para a saúde?",
+    "resposta": "Eles neutralizam radicais livres, que podem causar envelhecimento celular e doenças. Frutas e verduras coloridas são fontes ricas. Sabia que o cacau e o chá-verde estão entre os alimentos mais antioxidantes conhecidos?",
+    "palavras_chave": ["antioxidantes", "radicais livres", "saúde", "frutas", "chá-verde"]
+  },
+  {
+    "pergunta": "O que é um radical livre e por que ele é perigoso?",
+    "resposta": "Radicais livres são moléculas instáveis com elétrons desemparelhados. Eles reagem com estruturas celulares, causando danos e envelhecimento. Sabia que a exposição excessiva ao sol aumenta a produção desses radicais na pele?",
+    "palavras_chave": ["radicais livres", "moléculas", "elétrons", "envelhecimento", "pele"]
+  },
+  {
+    "pergunta": "Como a temperatura influencia as reações enzimáticas?",
+    "resposta": "As enzimas funcionam melhor em faixas específicas de temperatura. Se estiver muito alta, elas se desnaturam; se estiver muito baixa, reagem mais devagar. Sabia que a febre pode acelerar temporariamente o metabolismo por causa disso?",
+    "palavras_chave": ["enzimas", "temperatura", "metabolismo", "desnaturação", "reações químicas"]
+  },
+  {
+    "pergunta": "Por que o oxigênio é essencial para o metabolismo energético?",
+    "resposta": "O oxigênio atua como receptor final de elétrons na cadeia respiratória, permitindo a produção eficiente de ATP. Sem ele, as células produzem menos energia, como ocorre na fermentação. Sabia que atletas de elite treinam em alta altitude para melhorar o uso de oxigênio?",
+    "palavras_chave": ["oxigênio", "metabolismo", "atp", "cadeia respiratória", "energia"]
+  },
+  {
+    "pergunta": "Como a fermentação produz energia sem oxigênio?",
+    "resposta": "Na fermentação, a glicose é parcialmente degradada, gerando ATP e subprodutos como etanol ou ácido lático. Sabia que é esse processo que faz o pão crescer e o iogurte ter sabor azedo?",
+    "palavras_chave": ["fermentação", "glicose", "atp", "etanol", "ácido lático"]
+  },
+  {
+    "pergunta": "Por que o suor ajuda a manter a temperatura corporal?",
+    "resposta": "Quando o suor evapora, absorve calor do corpo, resfriando a pele. Isso é um exemplo de regulação térmica baseada em propriedades químicas da água. Sabia que a evaporação de 1 litro de suor consome cerca de 600 calorias de energia térmica?",
+    "palavras_chave": ["suor", "temperatura", "água", "evaporação", "energia"]
+  },
+  {
+    "pergunta": "Como a cafeína age no sistema nervoso?",
+    "resposta": "A cafeína bloqueia os receptores de adenosina, uma substância que causa sono, aumentando a atividade neural e a liberação de dopamina. Sabia que ela também acelera o metabolismo, favorecendo a queima de gordura?",
+    "palavras_chave": ["cafeína", "adenosina", "dopamina", "metabolismo", "sistema nervoso"]
+  },
+  {
+    "pergunta": "O que é pH e por que ele é importante em processos biológicos?",
+    "resposta": "O pH mede a concentração de íons de hidrogênio em uma solução. No corpo, ele afeta o funcionamento das enzimas e a estabilidade das proteínas. Sabia que o estômago humano tem pH próximo de 2, extremamente ácido?",
+    "palavras_chave": ["ph", "íons", "hidrogênio", "enzimas", "proteínas"]
+  },
+  {
+    "pergunta": "Como os hormônios regulam o apetite?",
+    "resposta": "Hormônios como a leptina e a grelina sinalizam ao cérebro quando o corpo precisa comer ou parar. Esse equilíbrio é controlado quimicamente pelo sistema endócrino. Sabia que a falta de sono altera esses hormônios e aumenta a fome?",
+    "palavras_chave": ["hormônios", "apetite", "leptina", "grelina", "endócrino"]
+  },
+  {
+    "pergunta": "Por que o corpo precisa de cálcio além dos ossos?",
+    "resposta": "O cálcio participa da contração muscular, da coagulação do sangue e da transmissão nervosa. Sabia que, se faltar cálcio no sangue, o corpo retira o mineral dos ossos para manter essas funções?",
+    "palavras_chave": ["cálcio", "ossos", "sangue", "músculos", "nervos"]
+  },
+  {
+    "pergunta": "O que acontece quimicamente quando sentimos dor muscular após exercícios?",
+    "resposta": "Durante o esforço intenso, há produção de ácido lático, que altera o pH local e causa a sensação de ardência. Depois, microlesões nas fibras musculares geram dor tardia. Sabia que o corpo recicla o ácido lático em glicose no fígado?",
+    "palavras_chave": ["dor muscular", "ácido lático", "ph", "fibras musculares", "exercício"]
+  },
+  {
+    "pergunta": "O que é a glicólise e qual é seu papel no metabolismo energético?",
+    "resposta": "A glicólise é a primeira etapa da respiração celular, onde uma molécula de glicose é quebrada em duas de piruvato, gerando ATP e NADH. Esse processo ocorre no citoplasma e não requer oxigênio. Sabia que a glicólise é tão antiga que provavelmente surgiu antes mesmo da fotossíntese na evolução?",
+    "palavras_chave": ["glicólise", "glicose", "atp", "piruvato", "metabolismo"]
+  },
+  {
+    "pergunta": "Como as mitocôndrias produzem energia nas células?",
+    "resposta": "As mitocôndrias realizam a respiração celular aeróbica, convertendo glicose e oxigênio em ATP, dióxido de carbono e água. Elas são chamadas de 'usinas de energia' por esse motivo. Sabia que as mitocôndrias têm DNA próprio, herdado quase sempre da mãe?",
+    "palavras_chave": ["mitocôndrias", "atp", "respiração celular", "energia", "dna"]
+  },
+  {
+    "pergunta": "Por que o oxigênio é tão eficiente na produção de energia?",
+    "resposta": "Porque ele atua como o último aceptor de elétrons na cadeia respiratória, permitindo a produção de grandes quantidades de ATP. Sabia que o oxigênio libera cerca de 18 vezes mais energia do que processos anaeróbicos como a fermentação?",
+    "palavras_chave": ["oxigênio", "atp", "cadeia respiratória", "energia", "fermentação"]
+  },
+  {
+    "pergunta": "O que é o ciclo de Krebs e onde ele acontece?",
+    "resposta": "O ciclo de Krebs é uma sequência de reações químicas que ocorre nas mitocôndrias, responsável por oxidar o piruvato e liberar CO₂, NADH e FADH₂. Esses produtos alimentam a cadeia respiratória. Sabia que esse ciclo foi descoberto em 1937 pelo bioquímico Hans Krebs?",
+    "palavras_chave": ["ciclo de krebs", "mitocôndrias", "nadh", "fad", "co2"]
+  },
+  {
+    "pergunta": "Como as plantas convertem energia solar em energia química?",
+    "resposta": "Por meio da fotossíntese, usando a clorofila para capturar luz e transformar CO₂ e água em glicose e oxigênio. Sabia que apenas 1% da luz solar que atinge uma planta é realmente convertida em energia química?",
+    "palavras_chave": ["fotossíntese", "energia solar", "clorofila", "glicose", "oxigênio"]
+  },
+  {
+    "pergunta": "Por que as proteínas têm estruturas tão complexas?",
+    "resposta": "Porque a sequência de aminoácidos se dobra em várias formas tridimensionais, determinando sua função. Pequenas alterações nessa estrutura podem causar doenças. Sabia que o mal de Alzheimer está relacionado ao acúmulo de proteínas mal dobradas?",
+    "palavras_chave": ["proteínas", "aminoácidos", "estrutura", "função", "doenças"]
+  },
+  {
+    "pergunta": "Como os hormônios esteroides atuam nas células?",
+    "resposta": "Eles atravessam facilmente a membrana celular e se ligam a receptores dentro da célula, alterando a expressão de genes. Sabia que hormônios como o estrogênio e a testosterona pertencem a esse grupo?",
+    "palavras_chave": ["hormônios", "esteroides", "receptores", "genes", "membrana celular"]
+  },
+  {
+    "pergunta": "Qual é a importância dos fosfolipídios nas membranas celulares?",
+    "resposta": "Os fosfolipídios formam uma bicamada semipermeável que separa o interior e o exterior da célula. Essa estrutura é fluida e permite a entrada e saída seletiva de substâncias. Sabia que essa organização é chamada de ‘modelo do mosaico fluido’?",
+    "palavras_chave": ["fosfolipídios", "membrana celular", "mosaico fluido", "permeabilidade", "células"]
+  },
+  {
+    "pergunta": "Como os ácidos graxos são usados como fonte de energia?",
+    "resposta": "Eles são quebrados nas mitocôndrias por um processo chamado beta-oxidação, que gera acetil-CoA para o ciclo de Krebs. Sabia que essa via metabólica é a principal forma de produção de energia durante o jejum prolongado?",
+    "palavras_chave": ["ácidos graxos", "beta-oxidação", "acetil-coa", "energia", "metabolismo"]
+  },
+  {
+    "pergunta": "O que é a fotofosforilação na fotossíntese?",
+    "resposta": "É o processo de formação de ATP usando energia luminosa. Ocorre nos tilacoides das plantas e das algas, onde os elétrons são excitados pela luz solar. Sabia que há dois tipos: a cíclica e a acíclica, dependendo do caminho dos elétrons?",
+    "palavras_chave": ["fotofosforilação", "fotossíntese", "atp", "tilacoides", "luz solar"]
+  },
+  {
+    "pergunta": "Como a química explica a sensação de fome?",
+    "resposta": "A fome é controlada por hormônios como grelina e leptina, que sinalizam ao cérebro o nível de energia no corpo. É uma resposta bioquímica ao desequilíbrio energético. Sabia que o cheiro de comida pode aumentar a liberação de grelina?",
+    "palavras_chave": ["fome", "hormônios", "grelina", "leptina", "energia"]
+  },
+  {
+    "pergunta": "O que é a homeostase e qual o papel da bioquímica nesse equilíbrio?",
+    "resposta": "Homeostase é a manutenção das condições internas estáveis, como temperatura e pH. A bioquímica explica como reações e hormônios trabalham para manter esse equilíbrio. Sabia que o suor é uma forma química de manter a homeostase térmica?",
+    "palavras_chave": ["homeostase", "equilíbrio", "bioquímica", "temperatura", "ph"]
+  },
+  {
+    "pergunta": "Como a luz solar ajuda o corpo a produzir vitamina D?",
+    "resposta": "Os raios UVB convertem uma forma de colesterol presente na pele em vitamina D3, essencial para a absorção de cálcio. Sabia que a falta de exposição solar pode causar raquitismo em crianças?",
+    "palavras_chave": ["vitamina d", "luz solar", "colesterol", "cálcio", "raquitismo"]
+  },
+  {
+    "pergunta": "Por que o RNA mensageiro é tão importante nas células?",
+    "resposta": "O RNA mensageiro (mRNA) carrega as instruções do DNA para os ribossomos, onde as proteínas são produzidas. Sabia que vacinas de RNA, como as contra a COVID-19, usam esse mesmo princípio biológico?",
+    "palavras_chave": ["rna", "mensageiro", "proteínas", "ribossomos", "vacinas"]
+  },
+  {
+    "pergunta": "O que é o código genético e como ele é interpretado pelas células?",
+    "resposta": "O código genético é o conjunto de regras que traduz as sequências de bases do DNA em aminoácidos. Cada trio de bases forma um códon que indica um aminoácido específico. Sabia que ele é praticamente universal entre todos os seres vivos?",
+    "palavras_chave": ["código genético", "dna", "aminoácidos", "códon", "tradução"]
+  },
+  {
+    "pergunta": "Como os antibióticos agem nas bactérias sem afetar nossas células?",
+    "resposta": "Eles atacam estruturas exclusivas das bactérias, como a parede celular ou certos ribossomos. Nossas células, por serem diferentes, não são afetadas da mesma forma. Sabia que Alexander Fleming descobriu a penicilina por acaso em 1928?",
+    "palavras_chave": ["antibióticos", "bactérias", "parede celular", "ribossomos", "penicilina"]
+  },
+  {
+    "pergunta": "Por que a fermentação é importante na indústria alimentícia?",
+    "resposta": "Porque ela transforma açúcares em produtos como álcool, vinagre e iogurte, graças à ação de microrganismos. Sabia que o processo é um dos mais antigos métodos de conservação de alimentos do mundo?",
+    "palavras_chave": ["fermentação", "açúcares", "álcool", "microrganismos", "indústria"]
+  },
+  {
+    "pergunta": "Como o corpo detecta e repara danos no DNA?",
+    "resposta": "As células possuem enzimas que reconhecem erros e substituem bases incorretas no DNA. Se o dano for grave, a célula pode entrar em apoptose. Sabia que a radiação ultravioleta é uma das principais causas de mutações genéticas?",
+    "palavras_chave": ["dna", "enzimas", "mutação", "apoptose", "radiação"]
+  },
+  {
+    "pergunta": "O que são lipoproteínas e por que elas são importantes?",
+    "resposta": "As lipoproteínas transportam lipídios pelo sangue, permitindo o movimento de gorduras insolúveis. HDL e LDL são exemplos bem conhecidos. Sabia que o HDL é chamado de ‘colesterol bom’ porque remove gordura das artérias?",
+    "palavras_chave": ["lipoproteínas", "hdl", "ldl", "colesterol", "sangue"]
+  },
+  {
+    "pergunta": "Como o corpo produz energia durante o exercício físico intenso?",
+    "resposta": "Inicialmente usa glicose e fosfocreatina; depois, recorre à respiração celular e à queima de gorduras. Sabia que atletas treinados desenvolvem mais mitocôndrias para aumentar a produção de ATP?",
+    "palavras_chave": ["energia", "exercício", "atp", "mitocôndrias", "glicose"]
+  },
+  {
+    "pergunta": "O que são antioxidantes naturais e onde podemos encontrá-los?",
+    "resposta": "São compostos que impedem a oxidação de células e tecidos. Estão presentes em alimentos como uvas, castanhas e chás. Sabia que o resveratrol, encontrado no vinho tinto, é um poderoso antioxidante natural?",
+    "palavras_chave": ["antioxidantes", "oxidação", "alimentos", "resveratrol", "saúde"]
+  },
+  {
+    "pergunta": "Por que os ácidos graxos ômega-3 são benéficos à saúde?",
+    "resposta": "Eles ajudam a reduzir inflamações, equilibrar o colesterol e proteger o coração. São encontrados em peixes como salmão e sardinha. Sabia que o ômega-3 também melhora a função cerebral?",
+    "palavras_chave": ["ômega-3", "ácidos graxos", "inflamação", "colesterol", "coração"]
+  },
+  {
+    "pergunta": "Como os radicais livres estão relacionados ao envelhecimento?",
+    "resposta": "Eles danificam moléculas como DNA, proteínas e lipídios, levando à deterioração celular. Antioxidantes ajudam a neutralizá-los. Sabia que exercícios moderados estimulam a produção natural de antioxidantes?",
+    "palavras_chave": ["radicais livres", "envelhecimento", "antioxidantes", "dna", "células"]
+  },
+  {
+    "pergunta": "O que são nucleotídeos e qual é seu papel biológico?",
+    "resposta": "São as unidades básicas dos ácidos nucleicos, formadas por açúcar, fosfato e base nitrogenada. Além de compor DNA e RNA, também armazenam energia, como no ATP. Sabia que a cafeína tem estrutura parecida com a de alguns nucleotídeos?",
+    "palavras_chave": ["nucleotídeos", "dna", "rna", "atp", "base nitrogenada"]
+  },
+  {
+    "pergunta": "Como a química explica o sabor dos alimentos?",
+    "resposta": "Os sabores vêm de compostos químicos que interagem com receptores gustativos. Açúcares produzem gosto doce; ácidos, o azedo; e aminoácidos, o umami. Sabia que o glutamato monossódico foi o primeiro saborizante descoberto quimicamente?",
+    "palavras_chave": ["sabores", "alimentos", "açúcares", "aminoácidos", "umami"]
+  },
+  {
+    "pergunta": "Por que o DNA tem formato de dupla hélice?",
+    "resposta": "Esse formato permite estabilidade e armazenamento eficiente de informação. As duas fitas são unidas por pontes de hidrogênio entre bases complementares. Sabia que Watson e Crick descobriram essa estrutura em 1953 com ajuda das imagens de Rosalind Franklin?",
+    "palavras_chave": ["dna", "dupla hélice", "bases nitrogenadas", "pontes de hidrogênio", "estrutura"]
+  },
+  {
+    "pergunta": "Como as enzimas aceleram as reações químicas nos organismos?",
+    "resposta": "As enzimas reduzem a energia de ativação das reações, permitindo que elas ocorram mais rapidamente e em condições suaves, como temperatura corporal. Elas são altamente específicas: cada uma reconhece um tipo de substrato. Sabia que sem as enzimas, o metabolismo seria tão lento que a vida como conhecemos não existiria?",
+    "palavras_chave": ["enzimas", "catálise", "energia de ativação", "substrato", "metabolismo"]
+  },
+  {
+    "pergunta": "Por que o ferro é essencial para o funcionamento do corpo humano?",
+    "resposta": "O ferro faz parte da hemoglobina, a proteína que transporta oxigênio no sangue. Ele também participa de processos enzimáticos. Sabia que a falta de ferro causa anemia, uma das deficiências nutricionais mais comuns no mundo?",
+    "palavras_chave": ["ferro", "hemoglobina", "oxigênio", "sangue", "anemia"]
+  },
+  {
+    "pergunta": "O que é o metabolismo basal e como ele se relaciona com a bioquímica?",
+    "resposta": "O metabolismo basal é a quantidade mínima de energia que o corpo precisa para manter suas funções vitais. Ele depende de reações bioquímicas como respiração celular e síntese de proteínas. Sabia que pessoas com mais massa muscular têm metabolismo basal mais alto?",
+    "palavras_chave": ["metabolismo basal", "energia", "respiração celular", "proteínas", "bioquímica"]
+  },
+  {
+    "pergunta": "Como o álcool é processado pelo corpo humano?",
+    "resposta": "O álcool é metabolizado no fígado por enzimas como a álcool-desidrogenase, que o transforma em acetaldeído e depois em ácido acético. Sabia que o acetaldeído é o principal responsável pela sensação de ressaca?",
+    "palavras_chave": ["álcool", "fígado", "enzimas", "acetaldeído", "metabolismo"]
+  },
+  {
+    "pergunta": "Por que o suor tem cheiro depois de um tempo?",
+    "resposta": "O suor em si é inodoro, mas as bactérias da pele decompõem substâncias nele, liberando compostos voláteis com odor. Sabia que o tipo de bactéria e a dieta influenciam o cheiro corporal?",
+    "palavras_chave": ["suor", "bactérias", "compostos voláteis", "odor", "pele"]
+  },
+  {
+    "pergunta": "Como a bioquímica explica o efeito das drogas no cérebro?",
+    "resposta": "As drogas atuam alterando a comunicação entre os neurônios, imitando ou bloqueando neurotransmissores. Isso afeta humor, percepção e comportamento. Sabia que a dopamina está envolvida em quase todos os tipos de dependência química?",
+    "palavras_chave": ["drogas", "cérebro", "neurotransmissores", "dopamina", "dependência"]
+  },
+  {
+    "pergunta": "Por que a cafeína nos deixa mais alertas?",
+    "resposta": "Ela bloqueia os receptores de adenosina, um neurotransmissor que induz o sono, e estimula a liberação de dopamina e adrenalina. Sabia que o efeito estimulante da cafeína pode durar até seis horas no organismo?",
+    "palavras_chave": ["cafeína", "adenosina", "dopamina", "adrenalina", "alerta"]
+  },
+  {
+    "pergunta": "Como os carboidratos são armazenados no corpo?",
+    "resposta": "O corpo armazena carboidratos em forma de glicogênio, principalmente no fígado e nos músculos, para uso rápido em momentos de necessidade energética. Sabia que atletas costumam fazer 'carbo loading' antes de provas para aumentar essas reservas?",
+    "palavras_chave": ["carboidratos", "glicogênio", "fígado", "músculos", "energia"]
+  },
+  {
+    "pergunta": "O que são vitaminas hidrossolúveis e lipossolúveis?",
+    "resposta": "As hidrossolúveis (como a C e as do complexo B) se dissolvem em água e não são armazenadas em grandes quantidades. As lipossolúveis (A, D, E e K) se acumulam nas gorduras do corpo. Sabia que o excesso das lipossolúveis pode ser tóxico?",
+    "palavras_chave": ["vitaminas", "hidrossolúveis", "lipossolúveis", "nutrientes", "saúde"]
+  },
+  {
+    "pergunta": "Como a insulina controla o açúcar no sangue?",
+    "resposta": "A insulina permite que a glicose entre nas células, diminuindo sua concentração no sangue. É produzida pelo pâncreas e essencial para o equilíbrio energético. Sabia que o diabetes ocorre quando esse sistema falha?",
+    "palavras_chave": ["insulina", "glicose", "pâncreas", "diabetes", "sangue"]
+  },
+  {
+    "pergunta": "Por que sentimos sede?",
+    "resposta": "A sede é um mecanismo bioquímico que sinaliza a necessidade de água para manter o equilíbrio osmótico e o volume sanguíneo. Sabia que pequenas variações na concentração de sais no sangue já ativam o centro da sede no cérebro?",
+    "palavras_chave": ["sede", "água", "equilíbrio osmótico", "sangue", "bioquímica"]
+  },
+  {
+    "pergunta": "O que acontece quimicamente quando cozinhamos os alimentos?",
+    "resposta": "O calor provoca reações químicas como a desnaturação de proteínas e a caramelização dos açúcares, alterando textura e sabor. Sabia que a reação de Maillard é a responsável pelo aroma e cor de alimentos assados?",
+    "palavras_chave": ["cozimento", "reação de maillard", "proteínas", "açúcares", "sabor"]
+  },
+  {
+    "pergunta": "Como os anestésicos funcionam no corpo humano?",
+    "resposta": "Eles interferem na transmissão dos impulsos nervosos, impedindo que os sinais de dor cheguem ao cérebro. Sabia que o primeiro anestésico usado em cirurgias foi o éter, no século XIX?",
+    "palavras_chave": ["anestésicos", "nervos", "dor", "impulsos elétricos", "éter"]
+  },
+  {
+    "pergunta": "Por que o sangue tem cor vermelha?",
+    "resposta": "A hemoglobina, que transporta oxigênio, contém ferro em seu centro. Quando o ferro se liga ao oxigênio, reflete a luz vermelha. Sabia que o sangue de alguns moluscos é azul porque usa cobre em vez de ferro?",
+    "palavras_chave": ["sangue", "hemoglobina", "ferro", "oxigênio", "cor"]
+  },
+  {
+    "pergunta": "Como o corpo transforma gordura em energia?",
+    "resposta": "A gordura é quebrada em ácidos graxos e glicerol, que entram em vias metabólicas como a beta-oxidação e o ciclo de Krebs. Sabia que a gordura rende mais que o dobro de energia por grama em comparação aos carboidratos?",
+    "palavras_chave": ["gordura", "energia", "beta-oxidação", "ciclo de krebs", "metabolismo"]
+  },
+  {
+    "pergunta": "O que são coenzimas e qual é sua função?",
+    "resposta": "As coenzimas são moléculas auxiliares que ajudam as enzimas a catalisar reações. Muitas derivam de vitaminas, como o NAD+ (vitamina B3). Sabia que sem coenzimas, várias reações metabólicas simplesmente parariam?",
+    "palavras_chave": ["coenzimas", "enzimas", "vitaminas", "nadh", "metabolismo"]
+  },
+  {
+    "pergunta": "Por que os músculos ficam doloridos depois do exercício?",
+    "resposta": "A dor ocorre por microlesões nas fibras musculares e pelo acúmulo de ácido lático. Durante a recuperação, o corpo reconstrói as fibras, tornando-as mais fortes. Sabia que alongar ajuda a eliminar o excesso de ácido lático?",
+    "palavras_chave": ["músculos", "dor", "ácido lático", "exercício", "recuperação"]
+  },
+  {
+    "pergunta": "Como os corantes alimentares funcionam quimicamente?",
+    "resposta": "Eles possuem estruturas moleculares capazes de absorver certos comprimentos de onda da luz, refletindo cores específicas. Sabia que muitos corantes artificiais foram originalmente derivados do alcatrão de carvão?",
+    "palavras_chave": ["corantes", "alimentos", "luz", "absorção", "química"]
+  },
+  {
+    "pergunta": "O que é o efeito tampão no sangue?",
+    "resposta": "É o mecanismo que mantém o pH do sangue estável, usando sistemas como o bicarbonato e o ácido carbônico. Sabia que pequenas variações de pH já podem comprometer reações vitais no corpo?",
+    "palavras_chave": ["ph", "tampão", "bicarbonato", "sangue", "equilíbrio"]
+  },
+  {
+    "pergunta": "Por que os refrigerantes são efervescentes?",
+    "resposta": "Eles contêm dióxido de carbono dissolvido sob pressão. Ao abrir a garrafa, a pressão cai e o gás escapa formando bolhas. Sabia que o CO₂ também ajuda a conservar a bebida?",
+    "palavras_chave": ["refrigerantes", "dióxido de carbono", "pressão", "bolhas", "efervescência"]
+  },
+  {
+    "pergunta": "Como a bioquímica explica o envelhecimento da pele?",
+    "resposta": "Com o tempo, há redução na produção de colágeno e aumento da oxidação celular. Radicais livres danificam proteínas e lipídios da pele. Sabia que a vitamina C ajuda a estimular a síntese de colágeno?",
+    "palavras_chave": ["pele", "envelhecimento", "colágeno", "radicais livres", "vitamina c"]
+  },
+  {
+    "pergunta": "O que é a respiração anaeróbica e quando ela ocorre?",
+    "resposta": "É a produção de energia sem oxigênio, usada por células em situações de esforço intenso. Produz menos ATP e gera ácido lático como subproduto. Sabia que algumas bactérias vivem exclusivamente de respiração anaeróbica?",
+    "palavras_chave": ["respiração anaeróbica", "atp", "oxigênio", "ácido lático", "bactérias"]
+  },
+  {
+    "pergunta": "Como o DNA é copiado antes da divisão celular?",
+    "resposta": "A enzima DNA-polimerase separa as duas fitas e forma novas cópias complementares. O processo é preciso, mas pode gerar mutações. Sabia que nosso DNA inteiro é copiado em apenas algumas horas?",
+    "palavras_chave": ["dna", "replicação", "enzimas", "mutação", "divisão celular"]
+  },
+  {
+    "pergunta": "Por que o sal ajuda a conservar alimentos?",
+    "resposta": "O sal retira a água dos microrganismos por osmose, impedindo que eles se multipliquem. Sabia que essa técnica é usada desde o Egito Antigo para conservar carnes e peixes?",
+    "palavras_chave": ["sal", "osmose", "conservação", "microrganismos", "alimentos"]
+  },
+  {
+    "pergunta": "Como o corpo transforma proteínas em energia?",
+    "resposta": "Quando há falta de carboidratos e gorduras, as proteínas são decompostas em aminoácidos que entram no ciclo de Krebs. Sabia que isso acontece com frequência em dietas muito restritivas?",
+    "palavras_chave": ["proteínas", "energia", "aminoácidos", "ciclo de krebs", "metabolismo"]
+  },
+  {
+    "pergunta": "O que são peptídeos e qual a diferença para as proteínas?",
+    "resposta": "Peptídeos são cadeias curtas de aminoácidos; proteínas são cadeias longas e complexas. Ambos exercem funções biológicas importantes. Sabia que muitos hormônios, como a insulina, são peptídeos?",
+    "palavras_chave": ["peptídeos", "proteínas", "aminoácidos", "hormônios", "bioquímica"]
+  },
+  {
+    "pergunta": "Como o corpo regula a temperatura usando reações químicas?",
+    "resposta": "Durante o metabolismo, parte da energia liberada nas reações químicas é convertida em calor. Quando o corpo precisa esfriar, o suor ajuda a dissipar esse calor. Sabia que febre é uma forma de o corpo acelerar reações imunológicas?",
+    "palavras_chave": ["temperatura", "metabolismo", "calor", "suor", "febre"]
+  },
+  {
+    "pergunta": "O que é a bioluminescência e como ela acontece quimicamente?",
+    "resposta": "A bioluminescência é a emissão de luz por organismos vivos, como vagalumes. Ela ocorre por reações envolvendo luciferina, luciferase e oxigênio. Sabia que cientistas usam essa reação em testes laboratoriais para rastrear genes?",
+    "palavras_chave": ["bioluminescência", "luciferina", "luciferase", "oxigênio", "reação química"]
+  }
+]

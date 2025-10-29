@@ -1,0 +1,622 @@
+[
+  {
+    "pergunta": "O que são rochas e como elas se formam?",
+    "resposta": "As rochas são agregados sólidos formados naturalmente por um ou mais minerais. Elas se formam através de processos geológicos, como o resfriamento do magma, a compactação de sedimentos ou a transformação por calor e pressão. Essa formação pode levar milhares ou até milhões de anos, dependendo do tipo de rocha. Sabia que algumas rochas da crosta terrestre têm mais de 4 bilhões de anos?",
+    "palavras_chave": ["rochas", "minerais", "formação", "magma", "geologia"]
+  },
+  {
+    "pergunta": "O que é o ciclo das rochas?",
+    "resposta": "O ciclo das rochas é o conjunto de processos que transformam um tipo de rocha em outro ao longo do tempo geológico. Ele envolve fusão, cristalização, erosão, deposição e metamorfismo. É um ciclo contínuo que mostra como nada na crosta terrestre é estático. Sabia que o ciclo das rochas pode durar milhões de anos até completar uma volta completa?",
+    "palavras_chave": ["ciclo", "rochas", "transformação", "processos", "geologia"]
+  },
+  {
+    "pergunta": "Quais são os principais tipos de rochas existentes?",
+    "resposta": "Existem três tipos principais de rochas: ígneas, sedimentares e metamórficas. As ígneas se formam a partir do resfriamento do magma, as sedimentares vêm da compactação de sedimentos, e as metamórficas surgem quando outras rochas sofrem transformações por calor e pressão. Cada uma guarda um pedaço da história da Terra. Sabia que até uma mesma rocha pode passar por todos esses estágios com o tempo?",
+    "palavras_chave": ["ígneas", "sedimentares", "metamórficas", "classificação", "geologia"]
+  },
+  {
+    "pergunta": "Como se formam as rochas ígneas?",
+    "resposta": "As rochas ígneas se formam pelo resfriamento e solidificação do magma ou da lava. Quando o resfriamento acontece dentro da crosta, formam-se rochas intrusivas, como o granito; quando ocorre na superfície, surgem as extrusivas, como o basalto. Sabia que as rochas ígneas representam cerca de 90% da crosta terrestre, mesmo que nem todas sejam visíveis na superfície?",
+    "palavras_chave": ["ígneas", "magma", "lava", "granito", "basalto"]
+  },
+  {
+    "pergunta": "Qual a diferença entre rochas ígneas intrusivas e extrusivas?",
+    "resposta": "As intrusivas se formam dentro da crosta terrestre, a partir do resfriamento lento do magma, o que permite a formação de cristais grandes, como no granito. Já as extrusivas se formam na superfície, com resfriamento rápido, gerando cristais pequenos ou invisíveis, como o basalto. Sabia que o granito das montanhas e o basalto dos vulcões são, na verdade, parentes geológicos?",
+    "palavras_chave": ["ígneas", "intrusivas", "extrusivas", "granito", "basalto"]
+  },
+  {
+    "pergunta": "O que são rochas sedimentares?",
+    "resposta": "As rochas sedimentares se formam pela deposição e compactação de fragmentos de outras rochas, restos orgânicos ou minerais dissolvidos em água. Elas costumam formar camadas e guardar fósseis, por isso são muito importantes para o estudo da história da Terra. Sabia que a maioria das paisagens esculpidas por rios e ventos é composta por esse tipo de rocha?",
+    "palavras_chave": ["sedimentares", "deposição", "camadas", "fósseis", "história"]
+  },
+  {
+    "pergunta": "Como os fósseis se relacionam com as rochas sedimentares?",
+    "resposta": "Os fósseis são preservados principalmente em rochas sedimentares, porque elas se formam a partir da deposição suave de sedimentos em ambientes como rios, lagos e oceanos. O acúmulo progressivo cobre restos de seres vivos e os mineraliza ao longo do tempo. Sabia que fósseis de dinossauros e folhas antigas são descobertos justamente em camadas sedimentares?",
+    "palavras_chave": ["fósseis", "sedimentares", "preservação", "camadas", "história"]
+  },
+  {
+    "pergunta": "O que são rochas metamórficas?",
+    "resposta": "As rochas metamórficas são formadas a partir da transformação de outras rochas submetidas a altas temperaturas e pressões. Elas mantêm a composição química geral, mas sua textura e estrutura se modificam. Um exemplo é o mármore, que vem do calcário. Sabia que o nome 'metamórfica' vem do grego e significa 'mudança de forma'?",
+    "palavras_chave": ["metamórficas", "transformação", "pressão", "temperatura", "mármore"]
+  },
+  {
+    "pergunta": "Como o calcário se transforma em mármore?",
+    "resposta": "Quando o calcário é exposto a altas temperaturas e pressões, seus cristais de calcita se reorganizam e formam o mármore, uma rocha metamórfica de textura mais compacta e visualmente brilhante. Esse processo ocorre no interior da crosta terrestre. Sabia que o mármore usado em esculturas clássicas, como as de Michelangelo, passou por milhões de anos de metamorfismo antes de chegar à superfície?",
+    "palavras_chave": ["calcário", "mármore", "metamorfismo", "cristais", "transformação"]
+  },
+  {
+    "pergunta": "O que é intemperismo e qual seu papel no ciclo das rochas?",
+    "resposta": "O intemperismo é o processo de desgaste das rochas expostas na superfície terrestre. Pode ser físico, químico ou biológico, e transforma grandes blocos em partículas menores, que depois formam sedimentos. É o ponto de partida do ciclo das rochas sedimentares. Sabia que até as raízes das plantas ajudam a quebrar rochas ao penetrar em suas fissuras?",
+    "palavras_chave": ["intemperismo", "desgaste", "sedimentos", "erosão", "biologia"]
+  },
+  {
+    "pergunta": "Como ocorre a erosão das rochas?",
+    "resposta": "A erosão é o transporte dos sedimentos gerados pelo intemperismo. Ela é causada por agentes como vento, água, gelo e gravidade. Esse movimento constante redistribui materiais e molda o relevo terrestre. Sabia que os cânions, como o Grand Canyon, são resultado de milhões de anos de erosão fluvial?",
+    "palavras_chave": ["erosão", "sedimentos", "relevo", "vento", "água"]
+  },
+  {
+    "pergunta": "O que diferencia o intemperismo físico do químico?",
+    "resposta": "O intemperismo físico quebra as rochas em pedaços menores sem alterar sua composição, como quando o gelo se expande em fissuras. Já o químico altera a composição mineral por reações, como a oxidação do ferro. Sabia que a coloração avermelhada de muitos solos vem justamente do ferro oxidado das rochas?",
+    "palavras_chave": ["intemperismo", "físico", "químico", "oxidação", "solos"]
+  },
+  {
+    "pergunta": "Como os minerais influenciam na formação das rochas?",
+    "resposta": "Os minerais são os blocos fundamentais das rochas. Sua composição química e estrutura cristalina determinam a aparência, dureza e cor das rochas. Por exemplo, o quartzo é um mineral comum em granitos. Sabia que existem mais de 5 mil tipos de minerais conhecidos e muitos deles ainda pouco estudados?",
+    "palavras_chave": ["minerais", "rochas", "quartzo", "composição", "cristais"]
+  },
+  {
+    "pergunta": "Qual a importância das rochas para a vida na Terra?",
+    "resposta": "As rochas sustentam os ecossistemas, fornecem minerais essenciais e influenciam o relevo e o solo, de onde obtemos alimentos. Além disso, abrigam recursos naturais como carvão, petróleo e metais. Sabia que até a composição química da água dos oceanos é influenciada pela dissolução de minerais das rochas?",
+    "palavras_chave": ["rochas", "vida", "solo", "recursos", "minerais"]
+  },
+  {
+    "pergunta": "Como o calor interno da Terra participa do ciclo das rochas?",
+    "resposta": "O calor do interior da Terra impulsiona o derretimento de rochas, gerando magma, e promove o metamorfismo em grandes profundidades. Esse calor vem tanto da energia residual da formação do planeta quanto do decaimento de elementos radioativos. Sabia que esse calor também é a base da energia geotérmica usada em algumas usinas?",
+    "palavras_chave": ["calor", "terra", "magma", "metamorfismo", "energia"]
+  },
+  {
+    "pergunta": "Por que as rochas sedimentares são importantes para os geólogos?",
+    "resposta": "Elas registram a história da Terra, guardando informações sobre o ambiente em que se formaram e sobre seres vivos que existiram em épocas antigas. Estudar suas camadas permite reconstruir o passado geológico. Sabia que até o tipo de grão de areia numa rocha pode revelar o clima de milhões de anos atrás?",
+    "palavras_chave": ["sedimentares", "história", "camadas", "fósseis", "geologia"]
+  },
+  {
+    "pergunta": "O que é magma e como ele se diferencia da lava?",
+    "resposta": "O magma é o material rochoso derretido que fica abaixo da superfície terrestre. Quando ele chega à superfície durante uma erupção vulcânica, passa a ser chamado de lava. A diferença é basicamente o local onde se encontra. Sabia que a temperatura do magma pode ultrapassar 1.200 graus Celsius?",
+    "palavras_chave": ["magma", "lava", "vulcão", "temperatura", "rochas"]
+  },
+  {
+    "pergunta": "Como as rochas ígneas podem se transformar em metamórficas?",
+    "resposta": "Quando uma rocha ígnea é soterrada e exposta a altas pressões e temperaturas, seus minerais se reorganizam sem derreter completamente, formando uma rocha metamórfica. É como se fosse uma 'recristalização'. Sabia que o basalto pode se transformar em anfibolito nesse processo?",
+    "palavras_chave": ["ígneas", "metamórficas", "pressão", "temperatura", "transformação"]
+  },
+  {
+    "pergunta": "Como as rochas metamórficas voltam a se tornar ígneas?",
+    "resposta": "Se as rochas metamórficas forem expostas a calor extremo, elas podem derreter completamente e originar magma, que ao se resfriar formará novas rochas ígneas. É a renovação natural do ciclo das rochas. Sabia que esse processo pode demorar milhões de anos, dependendo da profundidade?",
+    "palavras_chave": ["metamórficas", "ígneas", "magma", "ciclo", "transformação"]
+  },
+  {
+    "pergunta": "Por que o ciclo das rochas é considerado um sistema dinâmico?",
+    "resposta": "Porque ele nunca para — as rochas estão sempre sendo transformadas por processos internos e externos da Terra. O calor interno, a erosão e o intemperismo mantêm o ciclo em movimento constante. Sabia que a Terra recicla praticamente toda a sua crosta ao longo de bilhões de anos?",
+    "palavras_chave": ["ciclo", "dinâmico", "transformação", "terra", "processos"]
+  },
+  {
+    "pergunta": "Como as rochas sedimentares se transformam em metamórficas?",
+    "resposta": "Quando rochas sedimentares são enterradas profundamente na crosta terrestre, sofrem altas pressões e temperaturas que modificam seus minerais e estrutura. Nesse processo, elas se tornam rochas metamórficas, mais densas e resistentes. Sabia que o arenito pode virar quartzito após esse tipo de transformação?",
+    "palavras_chave": ["sedimentares", "metamórficas", "pressão", "temperatura", "transformação"]
+  },
+  {
+    "pergunta": "O que é compactação e cimentação no processo de formação das rochas sedimentares?",
+    "resposta": "A compactação ocorre quando camadas de sedimentos se acumulam e o peso das superiores comprime as inferiores. Já a cimentação acontece quando minerais dissolvidos na água preenchem os espaços entre os grãos e os colam, formando uma rocha sólida. Sabia que esse processo é tão lento que pode levar milhões de anos até consolidar uma rocha?",
+    "palavras_chave": ["compactação", "cimentação", "sedimentos", "formação", "rochas"]
+  },
+  {
+    "pergunta": "O que são rochas orgânicas?",
+    "resposta": "As rochas orgânicas são formadas a partir de restos de seres vivos acumulados e compactados ao longo do tempo. Exemplos incluem o carvão, derivado de vegetação antiga, e o calcário orgânico, formado por conchas e esqueletos marinhos. Sabia que o carvão usado nas usinas elétricas vem de florestas que existiram há centenas de milhões de anos?",
+    "palavras_chave": ["rochas", "orgânicas", "carvão", "calcário", "fósseis"]
+  },
+  {
+    "pergunta": "Como o carvão mineral se forma?",
+    "resposta": "O carvão mineral se forma a partir da decomposição de matéria vegetal acumulada em ambientes pantanosos, que é soterrada e submetida a pressão e calor ao longo de milhões de anos. O resultado é uma rocha combustível rica em carbono. Sabia que o tipo de carvão depende do grau de metamorfismo que ele sofreu, indo da turfa até a antracita?",
+    "palavras_chave": ["carvão", "formação", "carbono", "matéria orgânica", "pressão"]
+  },
+  {
+    "pergunta": "O que diferencia o carvão mineral do petróleo?",
+    "resposta": "Ambos são recursos fósseis, mas o carvão vem de restos vegetais terrestres, enquanto o petróleo se origina da decomposição de micro-organismos marinhos soterrados com sedimentos. Sabia que, apesar das origens distintas, os dois têm milhões de anos e são formados em ambientes sem oxigênio?",
+    "palavras_chave": ["carvão", "petróleo", "fósseis", "origem", "energia"]
+  },
+  {
+    "pergunta": "Por que as rochas são consideradas o 'registro' da Terra?",
+    "resposta": "Porque elas guardam informações sobre as condições ambientais e geológicas do passado. As rochas sedimentares mostram camadas e fósseis; as ígneas, o comportamento do magma; e as metamórficas, as forças internas da crosta. Sabia que os geólogos conseguem datar erupções e eras antigas apenas analisando minerais?",
+    "palavras_chave": ["rochas", "registro", "história", "geologia", "minerais"]
+  },
+  {
+    "pergunta": "O que é o basalto e onde ele é encontrado?",
+    "resposta": "O basalto é uma rocha ígnea extrusiva, escura e densa, formada pelo resfriamento rápido da lava. É comum em regiões vulcânicas e no fundo dos oceanos. Sabia que grande parte da crosta oceânica é composta por basaltos formados em dorsais submarinas?",
+    "palavras_chave": ["basalto", "ígnea", "lava", "oceano", "vulcão"]
+  },
+  {
+    "pergunta": "Por que o granito é uma rocha tão usada na construção civil?",
+    "resposta": "O granito é resistente, durável e tem uma aparência atraente. Formado pelo resfriamento lento do magma, ele apresenta cristais visíveis de quartzo, feldspato e mica. Sabia que o granito das bancadas de cozinha é praticamente o mesmo tipo de rocha que compõe grandes cadeias de montanhas?",
+    "palavras_chave": ["granito", "construção", "resistência", "quartzo", "feldspato"]
+  },
+  {
+    "pergunta": "Como o quartzo aparece em diferentes tipos de rochas?",
+    "resposta": "O quartzo é um mineral muito comum e pode ser encontrado em rochas ígneas, como o granito; em sedimentares, como o arenito; e em metamórficas, como o quartzito. Sua alta resistência química e física explica essa presença constante. Sabia que o quartzo é usado em relógios e eletrônicos por causa de sua capacidade de gerar energia elétrica sob pressão?",
+    "palavras_chave": ["quartzo", "minerais", "granito", "arenito", "quartzito"]
+  },
+  {
+    "pergunta": "O que é o arenito?",
+    "resposta": "O arenito é uma rocha sedimentar formada pela compactação de grãos de areia, geralmente de quartzo. Ele se forma em ambientes como desertos, praias e rios antigos. Sabia que o arenito colorido do deserto do Saara guarda registros de ventos e tempestades de milhões de anos atrás?",
+    "palavras_chave": ["arenito", "sedimentar", "quartzo", "deserto", "compactação"]
+  },
+  {
+    "pergunta": "O que caracteriza o xisto?",
+    "resposta": "O xisto é uma rocha metamórfica formada pela transformação de argilitos e folhelhos. Ele tem aparência foliada, ou seja, com camadas visíveis, e pode conter minerais brilhantes como mica. Sabia que o xisto betuminoso pode liberar petróleo e gás quando aquecido?",
+    "palavras_chave": ["xisto", "metamórfica", "foliação", "mica", "energia"]
+  },
+  {
+    "pergunta": "Como as rochas influenciam na formação do solo?",
+    "resposta": "O solo se forma a partir da decomposição e fragmentação das rochas pela ação do intemperismo e de organismos vivos. O tipo de rocha de origem define a composição mineral do solo. Sabia que solos derivados de rochas vulcânicas costumam ser muito férteis?",
+    "palavras_chave": ["solo", "intemperismo", "rochas", "fertilidade", "formação"]
+  },
+  {
+    "pergunta": "Por que o granito e o basalto têm cores diferentes?",
+    "resposta": "A diferença está na composição mineral e na velocidade de resfriamento. O granito, rico em minerais claros e formado lentamente, tem tons claros. Já o basalto, com minerais escuros e resfriamento rápido, é mais escuro. Sabia que essa variação ajuda os geólogos a identificar rochas no campo rapidamente?",
+    "palavras_chave": ["granito", "basalto", "minerais", "resfriamento", "cor"]
+  },
+  {
+    "pergunta": "O que são minerais acessórias em uma rocha?",
+    "resposta": "São minerais presentes em pequenas quantidades, que não definem o tipo principal da rocha, mas ajudam na sua identificação. Exemplos incluem zircão, apatita e magnetita. Sabia que o zircão é usado para datar rochas com precisão de bilhões de anos?",
+    "palavras_chave": ["minerais", "acessórios", "zircão", "identificação", "geologia"]
+  },
+  {
+    "pergunta": "O que é uma rocha vulcânica vítrea?",
+    "resposta": "É uma rocha formada pelo resfriamento tão rápido da lava que os cristais não têm tempo de se formar, resultando em uma textura parecida com vidro. O exemplo clássico é a obsidiana. Sabia que civilizações antigas usavam obsidiana para fazer lâminas e pontas de flecha?",
+    "palavras_chave": ["obsidiana", "vulcânica", "vítrea", "lava", "cristalização"]
+  },
+  {
+    "pergunta": "Como se formam os cristais nas rochas ígneas?",
+    "resposta": "Os cristais se formam à medida que o magma esfria e os minerais começam a se solidificar. Quanto mais lento o resfriamento, maiores os cristais. Sabia que é por isso que o granito tem cristais visíveis e o basalto quase não tem?",
+    "palavras_chave": ["cristais", "magma", "resfriamento", "granito", "basalto"]
+  },
+  {
+    "pergunta": "O que é uma rocha plutônica?",
+    "resposta": "Rochas plutônicas são formadas pelo resfriamento do magma em grandes profundidades da crosta terrestre. Elas têm cristais grandes e bem formados, como o granito. Sabia que o termo 'plutônica' vem de Plutão, o deus romano do submundo?",
+    "palavras_chave": ["plutônicas", "magma", "granito", "profundidade", "cristais"]
+  },
+  {
+    "pergunta": "Como as rochas ajudam a entender a tectônica de placas?",
+    "resposta": "As rochas registram os movimentos das placas tectônicas por meio de suas deformações, composições e idades. Rochas metamórficas e ígneas, por exemplo, revelam zonas de colisão e vulcanismo. Sabia que os Himalaias continuam crescendo por causa do encontro entre as placas indiana e eurasiática?",
+    "palavras_chave": ["rochas", "tectônica", "placas", "vulcanismo", "colisão"]
+  },
+  {
+    "pergunta": "O que são dobramentos e falhas nas rochas?",
+    "resposta": "Dobramentos e falhas são deformações provocadas por forças internas da Terra. Os dobramentos criam ondulações nas camadas, enquanto as falhas são rupturas. Sabia que essas estruturas podem indicar antigas zonas de terremoto?",
+    "palavras_chave": ["dobramentos", "falhas", "pressão", "deformação", "tectônica"]
+  },
+  {
+    "pergunta": "Por que as rochas metamórficas têm foliação?",
+    "resposta": "A foliação ocorre quando minerais se alinham devido à pressão direcional durante o metamorfismo. Isso cria uma aparência em camadas. Sabia que a ardósia usada em telhados é um exemplo clássico de rocha foliada?",
+    "palavras_chave": ["foliação", "metamorfismo", "pressão", "minerais", "ardósia"]
+  },
+  {
+    "pergunta": "O que é o quartzito e de onde ele vem?",
+    "resposta": "O quartzito é uma rocha metamórfica formada a partir do arenito, que, ao ser submetido a calor e pressão, tem seus grãos de quartzo fundidos e recristalizados. Sabia que ele é tão resistente que é usado como revestimento em monumentos e pisos externos?",
+    "palavras_chave": ["quartzito", "arenito", "metamorfismo", "quartzo", "resistência"]
+  },
+  {
+    "pergunta": "Como a água participa na formação das rochas?",
+    "resposta": "A água transporta e deposita sedimentos, dissolve minerais e participa de reações químicas que formam novas rochas. É essencial no ciclo sedimentar. Sabia que até a formação de cavernas calcárias depende da ação da água ácida dissolvendo o calcário?",
+    "palavras_chave": ["água", "sedimentos", "dissolução", "ciclo", "calcário"]
+  },
+  {
+    "pergunta": "O que são rochas clásticas?",
+    "resposta": "Rochas clásticas são formadas pela compactação de fragmentos de outras rochas e minerais. O tamanho desses fragmentos determina o tipo, como o conglomerado (grãos grandes) e o arenito (grãos médios). Sabia que o termo 'clástico' vem do grego e significa 'fragmento'?",
+    "palavras_chave": ["clásticas", "fragmentos", "sedimentares", "arenito", "conglomerado"]
+  },
+  {
+    "pergunta": "Por que o estudo das rochas é importante para a engenharia civil?",
+    "resposta": "Porque conhecer o tipo e a resistência das rochas é fundamental para construir fundações, túneis e barragens. Rochas fraturadas ou porosas podem comprometer estruturas. Sabia que testes geológicos são feitos antes de erguer arranha-céus para avaliar o solo e as rochas abaixo?",
+    "palavras_chave": ["engenharia", "rochas", "resistência", "fundações", "geologia"]
+  },
+  {
+    "pergunta": "O que é uma rocha matriz?",
+    "resposta": "A rocha matriz é aquela em que ocorrem minerais ou fósseis de interesse, servindo como o material de origem para exploração ou estudo. Por exemplo, o diamante é encontrado em uma rocha matriz chamada kimberlito. Sabia que algumas kimberlitas vêm de profundidades de mais de 150 km abaixo da superfície?",
+    "palavras_chave": ["rocha", "matriz", "minerais", "kimberlito", "diamante"]
+  },
+  {
+    "pergunta": "Como os fósseis se preservam dentro das rochas?",
+    "resposta": "Os fósseis se preservam quando restos de organismos são rapidamente cobertos por sedimentos que impedem sua decomposição. Com o tempo, os minerais substituem as partes orgânicas, formando moldes e impressões. Sabia que até pegadas e marcas de folhas podem virar fósseis?",
+    "palavras_chave": ["fósseis", "preservação", "sedimentos", "minerais", "história"]
+  },
+  {
+    "pergunta": "O que são rochas carbonáticas?",
+    "resposta": "Rochas carbonáticas são formadas principalmente por minerais de carbonato, como calcita e dolomita. O calcário é o exemplo mais comum, frequentemente associado a ambientes marinhos. Sabia que as cavernas de estalactites e estalagmites se formam justamente pela dissolução e precipitação do carbonato dessas rochas?",
+    "palavras_chave": ["carbonáticas", "calcário", "dolomita", "carbonato", "cavernas"]
+  },
+  {
+    "pergunta": "Como as rochas vulcânicas contribuem para a fertilidade do solo?",
+    "resposta": "Rochas vulcânicas, como o basalto, liberam minerais ricos em ferro, cálcio e magnésio quando se decompõem, tornando os solos mais férteis. Por isso, regiões vulcânicas são excelentes para agricultura. Sabia que o solo do entorno do Vesúvio, na Itália, é um dos mais férteis do mundo?",
+    "palavras_chave": ["vulcânicas", "solo", "fertilidade", "basalto", "agricultura"]
+  },
+  {
+    "pergunta": "O que é diagênese nas rochas sedimentares?",
+    "resposta": "Diagênese é o conjunto de transformações físicas e químicas que ocorrem após a deposição dos sedimentos, levando à sua consolidação em rochas. Inclui processos como compactação, cimentação e recristalização. Sabia que algumas rochas diagêneticas guardam microfósseis quase intactos?",
+    "palavras_chave": ["diagênese", "sedimentares", "compactação", "cimentação", "transformação"]
+  },
+  {
+    "pergunta": "Qual é a relação entre rochas e recursos minerais?",
+    "resposta": "Os recursos minerais estão contidos ou associados às rochas, que servem como hospedeiras desses materiais valiosos. O ferro, o cobre e o ouro, por exemplo, são extraídos de rochas específicas. Sabia que o Brasil está entre os maiores produtores de minério de ferro do mundo graças às formações rochosas de Minas Gerais?",
+    "palavras_chave": ["recursos", "minerais", "rochas", "mineração", "ferro"]
+  },
+  {
+    "pergunta": "Como o metamorfismo regional ocorre?",
+    "resposta": "O metamorfismo regional acontece em grandes áreas, geralmente associadas a movimentos tectônicos que submetem as rochas a altas pressões e temperaturas. Esse tipo de metamorfismo forma cadeias de montanhas. Sabia que os Alpes e os Andes são cheios de rochas metamórficas resultantes desse processo?",
+    "palavras_chave": ["metamorfismo", "regional", "montanhas", "pressão", "tectônica"]
+  },
+  {
+    "pergunta": "O que é metamorfismo de contato?",
+    "resposta": "O metamorfismo de contato ocorre quando o magma aquece as rochas ao seu redor sem causar fusão total. Esse calor altera a estrutura mineral próxima à intrusão. Sabia que o mármore e o corneana podem se formar assim, próximos a corpos magmáticos?",
+    "palavras_chave": ["metamorfismo", "contato", "magma", "calor", "transformação"]
+  },
+  {
+    "pergunta": "Como as rochas ajudam a identificar eras geológicas?",
+    "resposta": "Cada tipo de rocha e seus fósseis correspondem a períodos específicos da história da Terra. Ao estudá-las, os geólogos definem a idade e as condições ambientais de diferentes eras. Sabia que o princípio da superposição das camadas é usado para datar rochas sedimentares?",
+    "palavras_chave": ["eras", "geologia", "fósseis", "datação", "camadas"]
+  },
+  {
+    "pergunta": "O que é o princípio da superposição das camadas?",
+    "resposta": "Esse princípio afirma que, em uma sequência de camadas sedimentares não deformadas, as mais antigas ficam na base e as mais recentes no topo. Ele é fundamental para interpretar a história geológica. Sabia que esse conceito foi proposto no século XVII, antes mesmo da teoria da evolução?",
+    "palavras_chave": ["superposição", "camadas", "sedimentares", "datação", "geologia"]
+  },
+  {
+    "pergunta": "Por que algumas rochas são usadas como ornamentais?",
+    "resposta": "Rochas como mármore, granito e quartzito são usadas como ornamentais por sua beleza, resistência e facilidade de polimento. Elas decoram prédios, monumentos e interiores. Sabia que o Taj Mahal, na Índia, é feito de mármore branco puro extraído do Rajastão?",
+    "palavras_chave": ["rochas", "ornamentais", "mármore", "granito", "arquitetura"]
+  },
+  {
+    "pergunta": "Como as rochas registram antigas erupções vulcânicas?",
+    "resposta": "Rochas vulcânicas guardam bolhas, cinzas e cristais que revelam o tipo e a intensidade das erupções. Os geólogos as estudam para compreender a atividade vulcânica passada. Sabia que até cinzas vulcânicas microscópicas ajudam a rastrear erupções de milhares de anos atrás?",
+    "palavras_chave": ["vulcânicas", "erupções", "cinzas", "geologia", "registro"]
+  },
+  {
+    "pergunta": "O que é uma rocha porosa?",
+    "resposta": "Uma rocha é considerada porosa quando possui espaços vazios entre seus grãos, o que permite armazenar água, petróleo ou gás. Exemplos incluem o arenito e o calcário. Sabia que os aquíferos subterrâneos dependem dessas rochas para guardar água potável?",
+    "palavras_chave": ["porosidade", "arenito", "calcário", "água", "aquífero"]
+  },
+  {
+    "pergunta": "Como as rochas participam do ciclo do carbono?",
+    "resposta": "As rochas carbonáticas armazenam grandes quantidades de carbono na forma de minerais. Com o intemperismo e o vulcanismo, parte desse carbono é liberada novamente na atmosfera, fechando o ciclo. Sabia que esse equilíbrio ajuda a regular o clima da Terra?",
+    "palavras_chave": ["carbono", "calcário", "vulcanismo", "intemperismo", "clima"]
+  },
+  {
+    "pergunta": "Por que as montanhas contêm rochas antigas?",
+    "resposta": "As montanhas se formam por colisões de placas tectônicas que empurram rochas profundas à superfície. Por isso, muitas delas expõem materiais de bilhões de anos. Sabia que as rochas mais antigas conhecidas, no Canadá, têm cerca de 4 bilhões de anos?",
+    "palavras_chave": ["montanhas", "placas", "antigas", "geologia", "idade"]
+  },
+  {
+    "pergunta": "Como a pressão influencia o metamorfismo?",
+    "resposta": "A pressão reorienta os minerais e aumenta a densidade das rochas durante o metamorfismo. Ela pode gerar texturas como foliação e novas combinações minerais. Sabia que alguns minerais, como a granada metamórfica, só se formam sob pressões intensas?",
+    "palavras_chave": ["pressão", "metamorfismo", "minerais", "densidade", "granada"]
+  },
+  {
+    "pergunta": "O que é uma rocha ígnea intermediária?",
+    "resposta": "É uma rocha cuja composição química está entre as rochas máficas (escuras) e félsicas (claras). O andesito é um exemplo típico, formado em vulcões de zonas de subducção. Sabia que o nome vem da Cordilheira dos Andes, onde é comum encontrá-lo?",
+    "palavras_chave": ["ígnea", "intermediária", "andesito", "subducção", "vulcão"]
+  },
+  {
+    "pergunta": "Como o tempo geológico é revelado pelas rochas?",
+    "resposta": "As rochas acumulam camadas, fósseis e transformações que registram milhões de anos de história. Datando minerais radioativos, é possível estimar a idade das formações. Sabia que o tempo geológico da Terra é dividido em éons, eras, períodos e épocas?",
+    "palavras_chave": ["tempo", "geológico", "camadas", "datação", "eras"]
+  },
+  {
+    "pergunta": "O que diferencia as rochas máficas das félsicas?",
+    "resposta": "As rochas máficas são ricas em ferro e magnésio, com cores escuras; já as félsicas têm mais sílica e minerais claros como o quartzo. Sabia que essa diferença também afeta a densidade, sendo as máficas mais pesadas?",
+    "palavras_chave": ["máficas", "félsicas", "sílica", "minerais", "densidade"]
+  },
+  {
+    "pergunta": "Por que algumas rochas têm fósseis e outras não?",
+    "resposta": "Somente as rochas sedimentares oferecem condições adequadas para preservação de fósseis, pois se formam em ambientes calmos e de baixa temperatura. Rochas ígneas e metamórficas destroem restos orgânicos pelo calor e pressão. Sabia que fósseis em rochas vulcânicas são quase impossíveis de encontrar?",
+    "palavras_chave": ["fósseis", "sedimentares", "ígneas", "metamórficas", "preservação"]
+  },
+  {
+    "pergunta": "O que são conglomerados e brechas?",
+    "resposta": "São rochas sedimentares clásticas compostas por fragmentos grandes. O conglomerado tem grãos arredondados, enquanto a brecha tem fragmentos angulosos. Sabia que essas rochas indicam ambientes de alta energia, como leitos de rios ou encostas montanhosas?",
+    "palavras_chave": ["conglomerado", "brecha", "sedimentares", "fragmentos", "energia"]
+  },
+  {
+    "pergunta": "Como o vulcanismo afeta o ciclo das rochas?",
+    "resposta": "O vulcanismo traz magma à superfície, formando rochas ígneas extrusivas e reiniciando o ciclo geológico. Esse material novo pode depois se transformar em sedimentos e, mais tarde, em rochas metamórficas. Sabia que até o pó vulcânico ajuda a formar solos férteis?",
+    "palavras_chave": ["vulcanismo", "magma", "ígneas", "ciclo", "solos"]
+  },
+  {
+    "pergunta": "O que são rochas evaporíticas?",
+    "resposta": "São rochas formadas pela evaporação da água em lagos ou mares rasos, deixando minerais como sal e gesso. Sabia que grandes depósitos de sal no mundo, como o Salar de Uyuni, na Bolívia, são exemplos de formações evaporíticas?",
+    "palavras_chave": ["evaporíticas", "sal", "gesso", "evaporação", "minerais"]
+  },
+  {
+    "pergunta": "Como o metamorfismo pode mudar a cor das rochas?",
+    "resposta": "Durante o metamorfismo, os minerais se reorganizam e novas combinações químicas surgem, alterando a cor da rocha. Por exemplo, o calcário claro pode se tornar mármore esbranquiçado ou acinzentado. Sabia que a presença de ferro pode deixar rochas metamórficas com tons avermelhados?",
+    "palavras_chave": ["metamorfismo", "cor", "minerais", "transformação", "química"]
+  },
+  {
+    "pergunta": "Por que algumas rochas têm brilho metálico?",
+    "resposta": "Esse brilho vem da presença de minerais metálicos, como pirita e magnetita, que refletem a luz. Sabia que a pirita é conhecida como 'ouro dos tolos' por seu brilho dourado semelhante ao do ouro?",
+    "palavras_chave": ["brilho", "metálico", "pirita", "minerais", "reflexão"]
+  },
+  {
+    "pergunta": "O que é o ciclo das rochas?",
+    "resposta": "O ciclo das rochas descreve como rochas ígneas, sedimentares e metamórficas se transformam umas nas outras ao longo do tempo geológico. Esse processo envolve fusão, erosão, compactação e metamorfismo. Sabia que o ciclo completo pode levar milhões de anos para acontecer?",
+    "palavras_chave": ["ciclo", "rochas", "ígneas", "sedimentares", "metamórficas"]
+  },
+  {
+    "pergunta": "Como as rochas podem indicar a presença de petróleo?",
+    "resposta": "Certas rochas sedimentares, especialmente as porosas e permeáveis, como o arenito, podem armazenar petróleo em seus poros. Elas ficam seladas por camadas impermeáveis que impedem o vazamento. Sabia que os geólogos usam ondas sísmicas para localizar essas formações subterrâneas?",
+    "palavras_chave": ["petróleo", "arenito", "sedimentares", "porosidade", "geologia"]
+  },
+  {
+    "pergunta": "O que são intrusões magmáticas?",
+    "resposta": "Intrusões magmáticas são massas de magma que se solidificam dentro da crosta terrestre, sem chegar à superfície. Elas formam rochas como o granito e o diorito. Sabia que algumas intrusões gigantes, chamadas batólitos, podem ter centenas de quilômetros de extensão?",
+    "palavras_chave": ["intrusão", "magma", "granito", "batólito", "ígneas"]
+  },
+  {
+    "pergunta": "Como o intemperismo químico altera as rochas?",
+    "resposta": "O intemperismo químico modifica a composição mineral das rochas por reações com água, oxigênio e ácidos. Minerais instáveis se transformam em argilas e óxidos. Sabia que até a chuva ácida acelera esse tipo de intemperismo?",
+    "palavras_chave": ["intemperismo", "químico", "minerais", "argila", "chuva ácida"]
+  },
+  {
+    "pergunta": "O que é erosão e como ela age sobre as rochas?",
+    "resposta": "A erosão é o desgaste e transporte de fragmentos de rochas pela ação da água, vento ou gelo. Ela esculpe paisagens e forma vales, cânions e deltas. Sabia que o Grand Canyon foi moldado por milhões de anos de erosão do rio Colorado?",
+    "palavras_chave": ["erosão", "rochas", "água", "vento", "paisagens"]
+  },
+  {
+    "pergunta": "Como o granito se forma?",
+    "resposta": "O granito é uma rocha ígnea intrusiva formada pelo resfriamento lento do magma no interior da crosta. Por isso, apresenta cristais grandes de quartzo, feldspato e mica. Sabia que o granito é uma das rochas mais resistentes à erosão?",
+    "palavras_chave": ["granito", "ígnea", "intrusiva", "magma", "quartzo"]
+  },
+  {
+    "pergunta": "Por que o basalto é tão comum na Terra?",
+    "resposta": "O basalto é uma rocha ígnea extrusiva formada pelo resfriamento rápido da lava. Ele cobre grande parte dos fundos oceânicos e vulcões. Sabia que o basalto é a rocha mais abundante na crosta oceânica do planeta?",
+    "palavras_chave": ["basalto", "lava", "extrusiva", "crosta", "oceânica"]
+  },
+  {
+    "pergunta": "O que diferencia o mármore do calcário?",
+    "resposta": "O mármore é o resultado do metamorfismo do calcário, o que recristaliza seus minerais e aumenta a dureza. Sabia que o mármore puro é branco, mas impurezas podem dar cores variadas como rosa, verde e preto?",
+    "palavras_chave": ["mármore", "calcário", "metamorfismo", "minerais", "cor"]
+  },
+  {
+    "pergunta": "Como se formam as rochas sedimentares químicas?",
+    "resposta": "Essas rochas surgem pela precipitação de substâncias dissolvidas na água, como ocorre com o calcário e o gesso. Sabia que algumas delas se formam em lagoas salgadas e mares rasos evaporando lentamente?",
+    "palavras_chave": ["sedimentares", "químicas", "precipitação", "calcário", "gesso"]
+  },
+  {
+    "pergunta": "O que são rochas clásticas?",
+    "resposta": "Rochas clásticas são formadas por fragmentos de outras rochas cimentados juntos, como arenito e conglomerado. Sabia que o tamanho dos grãos ajuda os geólogos a identificar o ambiente onde se formaram?",
+    "palavras_chave": ["clásticas", "fragmentos", "arenito", "conglomerado", "sedimentares"]
+  },
+  {
+    "pergunta": "Como o metamorfismo transforma o xisto?",
+    "resposta": "Com aumento de pressão e temperatura, o xisto pode se transformar em gnaisse, adquirindo bandas de minerais distintos. Sabia que esse processo pode levar milhões de anos e ocorre a quilômetros de profundidade?",
+    "palavras_chave": ["xisto", "gnaisse", "metamorfismo", "pressão", "temperatura"]
+  },
+  {
+    "pergunta": "Por que o carvão é considerado uma rocha?",
+    "resposta": "O carvão é uma rocha sedimentar orgânica formada a partir da decomposição de vegetais em ambientes sem oxigênio. Sabia que o carvão pode ter milhões de anos e foi fundamental na Revolução Industrial?",
+    "palavras_chave": ["carvão", "rocha", "orgânica", "sedimentar", "energia"]
+  },
+  {
+    "pergunta": "O que são tufos vulcânicos?",
+    "resposta": "Tufos vulcânicos são rochas formadas pela compactação de cinzas e fragmentos expelidos por erupções explosivas. Sabia que algumas cidades antigas, como Roma, foram construídas sobre camadas de tufo?",
+    "palavras_chave": ["tufo", "vulcânico", "cinzas", "erupção", "rochas"]
+  },
+  {
+    "pergunta": "Como as falhas geológicas afetam as rochas?",
+    "resposta": "As falhas são fraturas na crosta onde ocorre deslocamento de blocos rochosos. Elas deformam as camadas e podem gerar terremotos. Sabia que o movimento da Falha de San Andreas é responsável por tremores na Califórnia?",
+    "palavras_chave": ["falhas", "geológicas", "terremotos", "crosta", "deslocamento"]
+  },
+  {
+    "pergunta": "O que é uma rocha ultramáfica?",
+    "resposta": "Rochas ultramáficas são extremamente ricas em ferro e magnésio e muito pobres em sílica. São comuns no manto terrestre. Sabia que a peridotita é o principal tipo de rocha ultramáfica e dá origem ao magma basáltico?",
+    "palavras_chave": ["ultram áfica", "peridotita", "manto", "ferro", "magnésio"]
+  },
+  {
+    "pergunta": "Como se formam as estalactites e estalagmites nas cavernas?",
+    "resposta": "Elas se formam pela deposição de carbonato de cálcio dissolvido na água que goteja no teto e no chão das cavernas. Sabia que podem levar milhares de anos para crescer alguns centímetros?",
+    "palavras_chave": ["estalactite", "estalagmita", "caverna", "calcário", "carbonato"]
+  },
+  {
+    "pergunta": "O que é foliação em rochas metamórficas?",
+    "resposta": "A foliação é o alinhamento dos minerais em camadas devido à pressão durante o metamorfismo. Ela dá às rochas um aspecto laminado. Sabia que o xisto e o gnaisse exibem foliação bem visível?",
+    "palavras_chave": ["foliação", "metamórficas", "xisto", "gnaisse", "pressão"]
+  },
+  {
+    "pergunta": "Como os geólogos classificam as rochas?",
+    "resposta": "As rochas são classificadas em três grupos principais: ígneas, sedimentares e metamórficas, conforme sua origem e processo de formação. Sabia que essa classificação foi proposta há mais de 200 anos e ainda é usada hoje?",
+    "palavras_chave": ["classificação", "ígneas", "sedimentares", "metamórficas", "origem"]
+  },
+  {
+    "pergunta": "Por que o arenito é importante na geologia?",
+    "resposta": "O arenito registra antigos ambientes como desertos e praias e serve como reservatório natural de água e petróleo. Sabia que algumas esculturas famosas, como as de Petra na Jordânia, foram talhadas em arenito?",
+    "palavras_chave": ["arenito", "sedimentar", "reservatório", "petróleo", "geologia"]
+  },
+  {
+    "pergunta": "O que é uma rocha plutônica?",
+    "resposta": "Rochas plutônicas se formam quando o magma esfria lentamente em profundidade, permitindo o crescimento de grandes cristais. Exemplos são o granito e o diorito. Sabia que o termo vem de Plutão, deus romano do submundo?",
+    "palavras_chave": ["plutônica", "granito", "diorito", "magma", "ígnea"]
+  },
+  {
+    "pergunta": "Como o gelo pode desgastar rochas?",
+    "resposta": "Quando a água entra em fendas e congela, ela se expande e quebra a rocha — processo chamado crioclastia. Sabia que esse fenômeno é comum em regiões montanhosas frias?",
+    "palavras_chave": ["gelo", "intemperismo", "crioclastia", "rochas", "frio"]
+  },
+  {
+    "pergunta": "O que são minerais acessórios nas rochas?",
+    "resposta": "São minerais presentes em pequenas quantidades que ajudam a identificar a origem da rocha. Sabia que o zircão, um mineral acessório, é usado para datar as rochas mais antigas da Terra?",
+    "palavras_chave": ["minerais", "acessórios", "zircão", "rochas", "datação"]
+  },
+  {
+    "pergunta": "Por que algumas rochas têm bolhas?",
+    "resposta": "Essas bolhas são vesículas formadas por gases presos durante o resfriamento da lava. Sabia que as rochas com muitas vesículas, como a pedra-pomes, podem até flutuar na água?",
+    "palavras_chave": ["bolhas", "lava", "vesículas", "ígneas", "pedra-pomes"]
+  },
+  {
+    "pergunta": "Como as rochas ajudam a reconstruir o clima antigo?",
+    "resposta": "Certos tipos de rochas e fósseis indicam climas do passado, como o carvão (ambientes úmidos) ou evaporitos (climas áridos). Sabia que até marcas de gelo fossilizadas em rochas revelam antigas eras glaciais?",
+    "palavras_chave": ["rochas", "clima", "fósseis", "paleoclima", "glaciação"]
+  },
+  {
+    "pergunta": "O que é metamorfismo dinâmico?",
+    "resposta": "O metamorfismo dinâmico ocorre quando as rochas sofrem deformações mecânicas intensas em falhas e zonas de cisalhamento. Sabia que esse processo pode transformar o granito em milonito?",
+    "palavras_chave": ["metamorfismo", "dinâmico", "falhas", "cisalhamento", "milonito"]
+  },
+  {
+    "pergunta": "Como a lava forma colunas de basalto?",
+    "resposta": "Quando a lava basáltica esfria lentamente, ela se contrai e racha em colunas hexagonais perfeitas. Sabia que a Calçada dos Gigantes, na Irlanda, é um dos melhores exemplos naturais desse fenômeno?",
+    "palavras_chave": ["lava", "basalto", "colunas", "resfriamento", "geologia"]
+  },
+  {
+    "pergunta": "O que é uma rocha vulcânica?",
+    "resposta": "Rochas vulcânicas se formam a partir da solidificação da lava expelida em erupções. Por resfriarem rapidamente, costumam ter textura fina ou vítrea, como o basalto e a obsidiana. Sabia que a obsidiana foi usada na antiguidade para fabricar lâminas e espelhos?",
+    "palavras_chave": ["vulcânica", "lava", "basalto", "obsidiana", "erupção"]
+  },
+  {
+    "pergunta": "Por que algumas rochas brilham quando expostas à luz?",
+    "resposta": "O brilho das rochas vem da reflexão da luz em seus minerais cristalinos. Minerais como quartzo e mica têm superfícies que refletem intensamente. Sabia que o brilho é uma das propriedades usadas para identificar minerais?",
+    "palavras_chave": ["brilho", "minerais", "quartzo", "mica", "identificação"]
+  },
+  {
+    "pergunta": "Como o metamorfismo de contato ocorre?",
+    "resposta": "O metamorfismo de contato acontece quando o calor de uma intrusão magmática altera as rochas vizinhas. A transformação é localizada e intensa. Sabia que esse processo forma rochas chamadas corneanas, muito duras e compactas?",
+    "palavras_chave": ["metamorfismo", "contato", "calor", "corneana", "magma"]
+  },
+  {
+    "pergunta": "O que são rochas ornamentais?",
+    "resposta": "São rochas usadas em construções e decorações por sua beleza e resistência, como granito, mármore e quartzito. Sabia que o Brasil é um dos maiores exportadores mundiais de rochas ornamentais?",
+    "palavras_chave": ["rochas", "ornamentais", "granito", "mármore", "quartzito"]
+  },
+  {
+    "pergunta": "Por que o arenito é poroso?",
+    "resposta": "O arenito é formado por grãos de areia cimentados, e os espaços entre esses grãos criam poros. Essa característica permite armazenar água e petróleo. Sabia que o aquífero Guarani é composto principalmente por arenito?",
+    "palavras_chave": ["arenito", "porosidade", "grãos", "aquífero", "petróleo"]
+  },
+  {
+    "pergunta": "Como os vulcões contribuem para o ciclo das rochas?",
+    "resposta": "Os vulcões trazem magma à superfície, formando novas rochas ígneas. Com o tempo, essas rochas sofrem intemperismo e reiniciam o ciclo. Sabia que parte do solo fértil das ilhas vulcânicas vem da decomposição dessas rochas?",
+    "palavras_chave": ["vulcões", "magma", "ígneas", "intemperismo", "solo"]
+  },
+  {
+    "pergunta": "O que são rochas sedimentares orgânicas?",
+    "resposta": "São rochas formadas pela acumulação de matéria orgânica, como restos de plantas e animais. Exemplos são o carvão e certas rochas calcárias. Sabia que essas rochas são importantes fontes de energia fóssil?",
+    "palavras_chave": ["sedimentares", "orgânicas", "carvão", "energia", "fóssil"]
+  },
+  {
+    "pergunta": "Como a pressão influencia o metamorfismo?",
+    "resposta": "A pressão força os minerais a se reorganizarem, criando novas texturas e estruturas nas rochas. Sabia que esse processo pode transformar até uma rocha comum em um cristal valioso?",
+    "palavras_chave": ["pressão", "metamorfismo", "minerais", "estrutura", "transformação"]
+  },
+  {
+    "pergunta": "O que é uma rocha piroclástica?",
+    "resposta": "Rochas piroclásticas são formadas por fragmentos sólidos expelidos durante erupções vulcânicas explosivas. Sabia que a pedra-pomes é um exemplo leve e poroso desse tipo de rocha?",
+    "palavras_chave": ["piroclástica", "vulcânica", "fragmentos", "erupção", "pedra-pomes"]
+  },
+  {
+    "pergunta": "Como se formam as argilas a partir das rochas?",
+    "resposta": "As argilas se formam pelo intemperismo químico de minerais como feldspatos, em ambientes úmidos. Sabia que a argila é a base da cerâmica desde as civilizações antigas?",
+    "palavras_chave": ["argila", "intemperismo", "feldspato", "química", "cerâmica"]
+  },
+  {
+    "pergunta": "O que são rochas friáveis?",
+    "resposta": "São rochas que se desintegram facilmente, como o arenito mal consolidado. Sabia que esse tipo de rocha é comum em falésias e áreas sujeitas à erosão intensa?",
+    "palavras_chave": ["friáveis", "arenito", "erosão", "consolidação", "rochas"]
+  },
+  {
+    "pergunta": "Por que o quartzito é tão resistente?",
+    "resposta": "O quartzito é uma rocha metamórfica formada a partir do arenito, com grãos de quartzo soldados pelo calor e pressão. Sabia que é tão duro que pode riscar o vidro?",
+    "palavras_chave": ["quartzito", "metamórfica", "quartzo", "pressão", "resistência"]
+  },
+  {
+    "pergunta": "Como os fósseis ajudam a datar rochas?",
+    "resposta": "Os fósseis permitem identificar a idade relativa das camadas sedimentares, comparando espécies conhecidas de diferentes períodos. Sabia que essa técnica se chama bioestratigrafia?",
+    "palavras_chave": ["fósseis", "datação", "sedimentares", "camadas", "bioestratigrafia"]
+  },
+  {
+    "pergunta": "O que é um conglomerado?",
+    "resposta": "O conglomerado é uma rocha sedimentar composta por fragmentos arredondados cimentados juntos. Sabia que o formato dos seixos revela a força da água que os transportou?",
+    "palavras_chave": ["conglomerado", "sedimentar", "seixos", "cimentação", "água"]
+  },
+  {
+    "pergunta": "Por que o gnaisse tem aparência bandada?",
+    "resposta": "O gnaisse mostra faixas claras e escuras devido ao alinhamento de minerais durante o metamorfismo intenso. Sabia que ele é um dos principais componentes do embasamento cristalino continental?",
+    "palavras_chave": ["gnaisse", "bandas", "metamorfismo", "minerais", "cristalino"]
+  },
+  {
+    "pergunta": "Como se formam as rochas evaporíticas?",
+    "resposta": "Elas se formam pela evaporação de águas ricas em sais, originando rochas como o sal-gema e o gesso. Sabia que vastos depósitos desse tipo se formaram em antigos mares interiores?",
+    "palavras_chave": ["evaporíticas", "sal-gema", "gesso", "evaporação", "sais"]
+  },
+  {
+    "pergunta": "O que é uma rocha vesicular?",
+    "resposta": "É uma rocha com cavidades deixadas por gases presos durante o resfriamento da lava. Sabia que a escória vulcânica é um exemplo típico de rocha vesicular?",
+    "palavras_chave": ["vesicular", "lava", "gases", "escória", "vulcânica"]
+  },
+  {
+    "pergunta": "Por que o estudo das rochas é essencial para a engenharia civil?",
+    "resposta": "Porque o tipo de rocha influencia diretamente a estabilidade de fundações, túneis e barragens. Sabia que engenheiros estudam o grau de fraturamento das rochas antes de qualquer construção?",
+    "palavras_chave": ["engenharia", "fundações", "rochas", "estabilidade", "fraturas"]
+  },
+  {
+    "pergunta": "Como os geólogos identificam rochas no campo?",
+    "resposta": "Eles observam cor, textura, dureza, brilho e composição mineral, além de realizar testes simples como o de riscar e reagir com ácido. Sabia que um simples martelo geológico é uma das ferramentas mais úteis nesse trabalho?",
+    "palavras_chave": ["identificação", "geologia", "minerais", "textura", "campo"]
+  },
+  {
+    "pergunta": "O que são rochas detríticas?",
+    "resposta": "São rochas sedimentares formadas por fragmentos de outras rochas transportados e depositados por água, vento ou gelo. Sabia que o tamanho dos grãos indica a energia do ambiente onde se formaram?",
+    "palavras_chave": ["detríticas", "sedimentares", "fragmentos", "transporte", "grãos"]
+  },
+  {
+    "pergunta": "Como os terremotos podem alterar as rochas?",
+    "resposta": "A energia liberada em terremotos pode fraturar, deslocar e até fundir rochas em profundidade. Sabia que algumas rochas vitrificadas são formadas instantaneamente durante grandes sismos?",
+    "palavras_chave": ["terremotos", "fraturas", "energia", "rochas", "sismos"]
+  },
+  {
+    "pergunta": "O que é diagênese?",
+    "resposta": "Diagênese é o conjunto de processos que transformam sedimentos soltos em rochas consolidadas, como compactação e cimentação. Sabia que é o estágio intermediário entre a deposição e o metamorfismo?",
+    "palavras_chave": ["diagênese", "compactação", "cimentação", "sedimentos", "rochas"]
+  },
+  {
+    "pergunta": "Como as rochas podem conter água subterrânea?",
+    "resposta": "Algumas rochas porosas e permeáveis, como arenitos e calcários fraturados, armazenam água nos espaços entre os grãos. Sabia que essa água forma os lençóis freáticos e aquíferos?",
+    "palavras_chave": ["água", "subterrânea", "porosidade", "arenito", "aquífero"]
+  },
+  {
+    "pergunta": "Por que as rochas sedimentares formam camadas?",
+    "resposta": "Elas se formam pela deposição gradual de sedimentos ao longo do tempo, criando estratos visíveis. Sabia que cada camada pode representar milhares de anos da história da Terra?",
+    "palavras_chave": ["camadas", "sedimentares", "estratos", "deposição", "tempo"]
+  },
+  {
+    "pergunta": "Como a tectônica de placas influencia o ciclo das rochas?",
+    "resposta": "O movimento das placas recicla a crosta: forma novas rochas ígneas nos vulcões e transforma antigas em metamórficas nas zonas de colisão. Sabia que sem tectônica o ciclo das rochas praticamente pararia?",
+    "palavras_chave": ["tectônica", "placas", "ciclo", "ígneas", "metamórficas"]
+  },
+  {
+    "pergunta": "O que diferencia o solo da rocha-matriz?",
+    "resposta": "O solo é o resultado do intemperismo e decomposição da rocha-matriz, misturado com matéria orgânica. Sabia que o tipo de rocha-matriz determina parte da fertilidade natural do solo?",
+    "palavras_chave": ["solo", "rocha-matriz", "intemperismo", "fertilidade", "orgânica"]
+  },
+  {
+    "pergunta": "Como as rochas registram a história geológica da Terra?",
+    "resposta": "As rochas guardam marcas de processos antigos — vulcões, mares, geleiras e até extinções. Sabia que estudar suas camadas é como ler as páginas de um livro de bilhões de anos?",
+    "palavras_chave": ["história", "geológica", "camadas", "processos", "terra"]
+  },
+  {
+    "pergunta": "Qual a rocha mais antiga já encontrada na Terra?",
+    "resposta": "As rochas de Acasta Gneiss, no Canadá, têm cerca de 4,03 bilhões de anos. Sabia que elas são mais antigas que a maioria dos continentes atuais?",
+    "palavras_chave": ["acasta", "gnaisse", "antiga", "terra", "canadá"]
+  },
+  {
+    "pergunta": "Por que estudar rochas é importante para entender o clima futuro?",
+    "resposta": "As rochas registram mudanças químicas e isotópicas que revelam o clima do passado. Esses dados ajudam a prever padrões futuros. Sabia que até as bolhas de gás em rochas vulcânicas guardam amostras da antiga atmosfera?",
+    "palavras_chave": ["clima", "rochas", "isótopos", "atmosfera", "história"]
+  }
+]

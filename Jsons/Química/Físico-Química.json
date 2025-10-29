@@ -1,0 +1,497 @@
+[
+  {
+    "pergunta": "O que é a Físico-Química e o que ela estuda?",
+    "resposta": "A Físico-Química é o ramo da química que usa os princípios da física para entender e prever o comportamento dos sistemas químicos. Ela é a ponte entre a química e a física, focando em propriedades que não são específicas de uma única substância, mas sim comuns a todas. Estuda coisas como a velocidade das reações, a estabilidade das substâncias, a transferência de energia e o equilíbrio entre fases. Sabia que muitos consideram o cientista russo Mikhail Lomonosov como o 'pai' da Físico-Química, pois foi ele quem cunhou o termo no século XVIII?",
+    "palavras_chave": ["ramo da química", "princípios da física", "sistemas químicos", "propriedades", "lomonosov"]
+  },
+  {
+    "pergunta": "O que é Termodinâmica Química?",
+    "resposta": "A Termodinâmica Química é a área da Físico-Química que estuda as transformações de energia que acompanham as reações e processos químicos. Ela responde a perguntas fundamentais como: 'Esta reação é espontânea?', 'Quanto calor será liberado ou absorvido?' e 'Até onde a reação vai prosseguir?'. Ela se baseia em leis universais, como a conservação de energia, para prever o comportamento da matéria. É essencial para projetar reatores químicos e entender desde a combustão em um motor até o metabolismo no nosso corpo.",
+    "palavras_chave": ["energia", "reação espontânea", "calor", "leis da termodinâmica", "processos químicos"]
+  },
+  {
+    "pergunta": "O que significa 'espontâneo' em Termodinâmica?",
+    "resposta": "Em Termodinâmica, 'espontâneo' não tem a ver com velocidade, mas sim com a tendência de um processo ocorrer. Um processo espontâneo é aquele que, uma vez iniciado, continua por si só sem a necessidade de um fornecimento contínuo de energia do ambiente. A chuva caindo é um exemplo clássico. O fator chave que determina a espontaneidade é a Energia Livre de Gibbs. Se a variação dessa energia for negativa, o processo é espontâneo. Curiosamente, o derretimento do gelo acima de 0°C é espontâneo, mesmo sendo um processo que absorve calor.",
+    "palavras_chave": ["processo espontâneo", "tendência", "energia livre de gibbs", "velocidade", "termodinâmica"]
+  },
+  {
+    "pergunta": "O que é Entalpia?",
+    "resposta": "Pense na Entalpia como o 'conteúdo total de calor' de um sistema, sob pressão constante. É uma medida da energia armazenada nas ligações químicas. Na prática, o que nos importa é a Variação de Entalpia, representada por ΔH. Se ΔH for negativo, a reação liberou calor para o ambiente e é chamada de exotérmica, como a queima de uma vela. Se ΔH for positivo, a reação absorveu calor do ambiente e é endotérmica, como o derretimento do gelo. É uma forma de contabilizar a energia que entra ou sai durante uma transformação química.",
+    "palavras_chave": ["entalpia", "calor", "pressão constante", "exotérmica", "endotérmica"]
+  },
+  {
+    "pergunta": "E a Entropia, o que é?",
+    "resposta": "A Entropia é uma medida da desordem ou do grau de aleatoriedade de um sistema. É um conceito poderoso: a Segunda Lei da Termodinâmica diz que a entropia do universo sempre aumenta. Sistemas tendem naturalmente a ir de um estado de maior ordem para um de maior desordem. Um cubo de gelo derretendo é um aumento de entropia, pois as moléculas de água, que estavam organizadas, ganham liberdade de movimento. Sabia que a entropia é muitas vezes associada à 'seta do tempo'? É por causa dela que conseguimos distinguir um vídeo passando para frente de um passando para trás.",
+    "palavras_chave": ["entropia", "desordem", "aleatoriedade", "segunda lei", "seta do tempo"]
+  },
+  {
+    "pergunta": "Como a Entalpia e a Entropia se relacionam para determinar uma reação espontânea?",
+    "resposta": "Essa relação é o cerne da Energia Livre de Gibbs! A fórmula é ΔG = ΔH - TΔS. O ΔG é a energia disponível para realizar trabalho. Para uma reação ser espontânea, ΔG deve ser negativo. Isso significa que uma reação é favorecida se for exotérmica (ΔH negativo) e/ou se levar a um grande aumento na desordem (ΔS positivo). A temperatura (T) é crucial: processos endotérmicos podem ser espontâneos se a temperatura for alta o suficiente para que o termo -TΔS se torne dominante e negativo. É um balanço entre a busca por um estado de menor energia e um estado de maior desordem.",
+    "palavras_chave": ["energia livre de gibbs", "delta g", "espontaneidade", "balanço energético", "temperatura"]
+  },
+  {
+    "pergunta": "O que é Cinética Química?",
+    "resposta": "Se a Termodinâmica nos diz *se* uma reação pode acontecer, a Cinética Química nos diz *quão rápido* ela acontece. É o estudo da velocidade das reações químicas e dos mecanismos pelos quais elas ocorrem. Por exemplo, a oxidação do ferro é termodinamicamente favorável, mas pode ser lenta. A cinética investiga fatores que afetam essa velocidade, como concentração dos reagentes, temperatura, presença de catalisadores e superfície de contato. É vital para a indústria, pois controlar a velocidade de uma reação pode significar a diferença entre um processo econômico e um inviável.",
+    "palavras_chave": ["cinética química", "velocidade da reação", "mecanismo de reação", "fatores", "termodinâmica"]
+  },
+  {
+    "pergunta": "O que é a Lei da Ação das Massas?",
+    "resposta": "A Lei da Ação das Massas, proposta por Guldberg e Waage, estabelece que a velocidade de uma reação química é diretamente proporcional ao produto das concentrações molares dos reagentes, cada uma elevada a um expoente igual ao seu coeficiente estequiométrico. É a base matemática para se escrever a expressão da velocidade de uma reação. Para uma reação genérica aA + bB -> produtos, a lei diz que a velocidade é proporcional a [A]^a * [B]^b. É importante notar que essa é a lei para reações elementares, ou seja, que ocorrem em uma única etapa.",
+    "palavras_chave": ["lei da ação das massas", "velocidade", "concentração", "coeficiente estequiométrico", "reação elementar"]
+  },
+  {
+    "pergunta": "O que é e para que serve a Equação de Arrhenius?",
+    "resposta": "A Equação de Arrhenius é uma fórmula matemática que relaciona a velocidade de uma reação com a temperatura. Ela nos mostra que um pequeno aumento na temperatura pode causar um grande aumento na velocidade da reação. A equação é k = A * e^(-Ea/RT), onde 'k' é a constante de velocidade, 'A' é o fator de frequência, 'Ea' é a energia de ativação, 'R' é a constante dos gases e 'T' é a temperatura em Kelvin. Ela quantifica uma observação comum: cozinhar comida no fogo alto é mais rápido porque mais moléculas dos reagentes possuem energia suficiente para superar a barreira da energia de ativação.",
+    "palavras_chave": ["equação de arrhenius", "temperatura", "constante de velocidade", "energia de ativação", "fator de frequência"]
+  },
+  {
+    "pergunta": "O que são e como funcionam os catalisadores?",
+    "resposta": "Catalisadores são substâncias que aumentam a velocidade de uma reação química sem serem consumidos no processo. Eles funcionam oferecendo um 'caminho alternativo' para a reação ocorrer, um caminho que tem uma energia de ativação menor. Imagine que as moléculas precisam escalar uma montanha para reagir. O catalisador é como um túnel que perfura a montanha, tornando a subida muito mais fácil e rápida. Um exemplo crucial são as catalytic converters (conversores catalíticos) nos carros, que usam metais como platina e ródio para transformar poluentes tóxicos em gases menos nocivos.",
+    "palavras_chave": ["catalisador", "velocidade", "energia de ativação", "caminho alternativo", "não é consumido"]
+  },
+  {
+    "pergunta": "O que é Equilíbrio Químico?",
+    "resposta": "Equilíbrio Químico é o estado de uma reação reversível onde as velocidades da reação direta e da reação inversa se igualam. Isso não significa que as reações pararam, mas sim que elas estão ocorrendo na mesma velocidade, então as concentrações de reagentes e produtos permanecem constantes ao longo do tempo. É um equilíbrio dinâmico, como uma festa onde o número de pessoas entrando é igual ao número de pessoas saindo: a lotação da festa permanece a mesma. A maioria das reações não vai até o fim; elas param em um ponto de equilíbrio onde reagentes e produtos coexistem.",
+    "palavras_chave": ["equilíbrio químico", "reação reversível", "dinâmico", "velocidades iguais", "concentração constante"]
+  },
+  {
+    "pergunta": "O que é a Constante de Equilíbrio (Kc e Kp)?",
+    "resposta": "A Constante de Equilíbrio é um número que nos diz a extensão de uma reação no equilíbrio, ou seja, se no equilíbrio teremos mais produtos ou mais reagentes. Para reações em solução, usamos Kc, que é calculado a partir das concentrações molares no equilíbrio. Para reações envolvendo gases, é comum usar Kp, calculado a partir das pressões parciais. Um valor de K muito maior que 1 indica que a reação 'foi quase até o fim', favorecendo os produtos. Um valor de K muito menor que 1 indica que a reação 'mal saiu do lugar', favorecendo os reagentes. É uma fotografia quantitativa da posição do equilíbrio.",
+    "palavras_chave": ["constante de equilíbrio", "kc", "kp", "extensão da reação", "lei da ação das massas"]
+  },
+  {
+    "pergunta": "O que é o Princípio de Le Chatelier?",
+    "resposta": "O Princípio de Le Chatelier é uma regra qualitativa que nos permite prever como um sistema em equilíbrio responde a uma perturbação externa. Ele diz que se uma mudança de condições (como concentração, pressão ou temperatura) é imposta a um sistema em equilíbrio, o sistema irá se ajustar para contrariar parcialmente essa mudança e estabelecer um novo equilíbrio. Por exemplo, se aumentarmos a concentração de um reagente, o equilíbrio se desloca no sentido de consumir esse reagente, ou seja, produzindo mais produtos. É um princípio de 'ação e reação' aplicado à química.",
+    "palavras_chave": ["le chatelier", "princípio", "deslocamento do equilíbrio", "perturbação", "concentração"]
+  },
+  {
+    "pergunta": "O que são Eletrólitos?",
+    "resposta": "Eletrólitos são substâncias que, quando dissolvidas em água, se separam em íons, produzindo uma solução que conduz corrente elétrica. Podem ser fortes, como o sal de cozinha (NaCl), que se dissocia completamente, ou fracos, como o ácido acético do vinagre (CH3COOH), que se dissocia apenas parcialmente. Os não-eletrólitos, como o açúcar, não formam íons em solução. Sabia que o termo 'eletrólito' vem do fato de que esses íons são capazes de 'viajar' em direção aos eletrodos (ânodo e cátodo) quando uma voltagem é aplicada? Eles são essenciais para o funcionamento das baterias e para os impulsos nervosos no nosso corpo.",
+    "palavras_chave": ["eletrólito", "íons", "conduz corrente", "dissociação", "solução aquosa"]
+  },
+  {
+    "pergunta": "O que é uma Solução Tampão?",
+    "resposta": "Uma Solução Tampão é uma mistura que resiste a mudanças bruscas no pH quando pequenas quantidades de ácido ou base são adicionadas. Ela é formada por um par conjugado ácido-base fraco, como um ácido fraco e seu sal (ex: CH3COOH/CH3COONa) ou uma base fraca e seu sal (ex: NH3/NH4Cl). Quando você adiciona um ácido forte, a base fraca do tampão o neutraliza. Quando você adiciona uma base forte, o ácido fraco do tampão a neutraliza. Sabia que o nosso sangue é um exemplo perfeito? Ele é tamponado principalmente pelo sistema H2CO3/HCO3-, mantendo o pH estável em torno de 7,4, o que é vital para a vida.",
+    "palavras_chave": ["solução tampão", "ph", "resistente a mudanças", "par conjugado", "sangue"]
+  },
+  {
+    "pergunta": "O que é e como se calcula o pH?",
+    "resposta": "O pH é uma escala logarítmica que mede a acidez ou basicidade de uma solução aquosa. Ele é definido como o logaritmo negativo da concentração de íons hidrônio: pH = -log[H3O+]. Por ser logarítmica, cada unidade de pH representa uma mudança de 10 vezes na acidez. Um pH 3 é dez vezes mais ácido que um pH 4. A escala vai de 0 (muito ácido) a 14 (muito básico), com o 7 sendo neutro. Para uma base, calculamos o pOH de forma análoga, e usamos a relação pH + pOH = 14. É uma ferramenta fundamental em quase todas as áreas da química e da biologia.",
+    "palavras_chave": ["ph", "escala logarítmica", "acidez", "concentração h3o+", "logaritmo negativo"]
+  },
+  {
+    "pergunta": "O que é Eletroquímica?",
+    "resposta": "A Eletroquímica é o ramo da Físico-Química que estuda a interconversão entre energia química e energia elétrica. Ela se divide em dois grandes pilares: a Pilhas ou Células Galvânicas, que convertem energia química em elétrica espontaneamente (como as baterias do seu celular), e a Eletrólise, que usa energia elétrica para forçar uma reação química não-espontânea a ocorrer (como o niquelamento de uma peça de metal). É a base tecnológica para baterias, pilhas, processos de galvanoplastia e a corrosão de metais.",
+    "palavras_chave": ["eletroquímica", "energia química", "energia elétrica", "pilha", "eletrólise"]
+  },
+  {
+    "pergunta": "Como funciona uma Pilha Galvânica?",
+    "resposta": "Uma Pilha Galvânica, ou voltaica, é um dispositivo que gera corrente elétrica a partir de uma reação redox espontânea. Ela é composta por dois eletrodos mergulhados em soluções de seus íons, conectados por uma ponte salina. No ânodo (polo negativo), ocorre a oxidação (perda de elétrons). No cátodo (polo positivo), ocorre a redução (ganho de elétrons). Os elétrons fluem pelo fio condutor do ânodo para o cátodo, criando a corrente elétrica. A pilha de Daniell, com zinco e cobre, é o exemplo clássico. Sabia que a primeira pilha foi inventada por Alessandro Volta em 1800, uma pilha de discos de cobre e zinco separados por um tecido embebido em salmoura?",
+    "palavras_chave": ["pilha galvânica", "reação redox", "ânodo", "cátodo", "corrente elétrica"]
+  },
+  {
+    "pergunta": "O que é o Potencial Padrão de Eletrodo (Eº)?",
+    "resposta": "O Potencial Padrão de Eletrodo é uma medida da tendência intrínseca de uma espécie química em ganhar elétrons (ser reduzida) em condições padrão. Por convenção, os químicos atribuíram ao Eletrodo Padrão de Hidrogênio um valor de 0,00 V e comparam todos os outros semirreações contra ele. Um Eº muito positivo (ex: Ag+ + e- -> Ag, Eº= +0,80 V) indica uma forte tendência a ser reduzida. Um Eº muito negativo (ex: Li+ + e- -> Li, Eº= -3,04 V) indica uma forte tendência a sofrer oxidação. A diferença de potencial entre dois eletrodos (ΔEº) nos diz se a reação da pilha será espontânea e qual será sua voltagem.",
+    "palavras_chave": ["potencial padrão", "eletrodo", "tendência a reduzir", "eletrodo de hidrogênio", "voltagem"]
+  },
+  {
+    "pergunta": "O que é e para que serve a Eletrólise?",
+    "resposta": "A Eletrólise é o processo inverso ao de uma pilha. Enquanto a pilha usa uma reação espontânea para gerar eletricidade, a eletrólise usa eletricidade para forçar uma reação não-espontânea a acontecer. Uma fonte de energia externa, como uma bateria, é conectada a dois eletrodos mergulhados em uma solução ou sal fundido. Isso 'empurra' os elétrons contra sua tendência natural, causando reações de oxidação e redução que não ocorreriam de outra forma. É usada para purificar metais (como o cobre), para fazer galvanoplastia (revestir um metal com outro) e para produzir substâncias como o alumínio a partir da bauxita e o cloro a partir do salmoura.",
+    "palavras_chave": ["eletrólise", "reação não-espontânea", "eletricidade externa", "purificação", "galvanoplastia"]
+  },
+  {
+    "pergunta": "O que são Estados da Matéria e Mudanças de Fase?",
+    "resposta": "Os estados fundamentais da matéria são o sólido (forma e volume definidos), o líquido (volume definido, forma do recipiente) e o gasoso (nem forma nem volume definidos). As mudanças entre esses estados, como fusão, vaporização e sublimação, são processos físicos governados pela Físico-Química. Durante uma mudança de fase, a temperatura permanece constante, pois toda a energia fornecida é usada para vencer as forças de atração intermoleculares, e não para aumentar a agitação térmica. O diagrama de fases é um mapa que mostra em quais condições de temperatura e pressão cada estado é estável.",
+    "palavras_chave": ["estados da matéria", "sólido", "líquido", "gasoso", "mudança de fase"]
+  },
+  {
+    "pergunta": "O que é um Diagrama de Fases?",
+    "resposta": "Um Diagrama de Fases é um gráfico de pressão versus temperatura que mostra as condições sob as quais diferentes fases de uma substância (sólido, líquido, gás) são termodinamicamente estáveis. As linhas no gráfico representam os conjuntos de P e T onde duas fases coexistem em equilíbrio. O ponto onde as três linhas se encontram é o Ponto Triplo, a única condição em que sólido, líquido e gás coexistem. O Ponto Crítico é o fim da linha líquido-gás, além do qual a distinção entre líquido e gás desaparece, formando um fluido supercrítico. É uma ferramenta essencial para entender e prever o comportamento das substâncias.",
+    "palavras_chave": ["diagrama de fases", "pressão", "temperatura", "ponto triplo", "ponto crítico"]
+  },
+  {
+    "pergunta": "O que são Propriedades Coligativas?",
+    "resposta": "Propriedades Coligativas são um conjunto de quatro propriedades das soluções que dependem apenas do número de partículas de soluto dissolvidas, e não da natureza química dessas partículas. São elas: 1) Abaixamento da Pressão de Vapor - o soluto dificulta a evaporação do solvente. 2) Elevação da Temperatura de Ebulição - a solução ferve a uma temperatura mais alta que o solvente puro. 3) Abaixamento da Temperatura de Congelamento - a solução congela a uma temperatura mais baixa. 4) Pressão Osmótica - a tendência do solvente puro fluir para a solução através de uma membrana semipermeável. É por isso que se joga sal no gelo para derreter mais rápido e abaixar a temperatura, ou por que o anticongelante é usado nos carros.",
+    "palavras_chave": ["propriedades coligativas", "número de partículas", "ebulição", "congelamento", "pressão osmótica"]
+  },
+  {
+    "pergunta": "O que é a Osmose?",
+    "resposta": "A Osmose é um tipo específico de difusão. É o movimento espontâneo do solvente (geralmente a água) de uma região de maior concentração de solvente (solução diluída) para uma região de menor concentração de solvente (solução concentrada), através de uma membrana semipermeável (que deixa passar o solvente, mas não o soluto). É um processo vital para os seres vivos! Por exemplo, é a osmose que regula a entrada de água nas células do nosso corpo. Sabia que quando você coloca uma cenoura murcha em água, ela fica firme de novo? Isso é a osmose em ação: a água do copo (menos concentrada em solutos) entra nas células da cenoura (mais concentradas), fazendo-as inchar.",
+    "palavras_chave": ["osmose", "membrana semipermeável", "solvente", "difusão", "pressão osmótica"]
+  },
+  {
+    "pergunta": "O que são Sólidos Amorfos e Sólidos Cristalinos?",
+    "resposta": "Essa é uma classificação dos sólidos baseada na organização interna de seus átomos, íons ou moléculas. Sólidos Cristalinos possuem uma estrutura ordenada e repetitiva, formando um reticulado cristalino com formas geométricas definidas. O sal de cozinha e os diamantes são exemplos. Já os Sólidos Amorfos (que significa 'sem forma') não possuem essa organização de longo alcance; suas partículas estão dispostas de forma aleatória, como em um líquido que congelou rapidamente. O vidro e os plásticos são os exemplos clássicos. Essa diferença estrutural afeta propriedades como ponto de fusão (os cristalinos têm um ponto de fusão bem definido, os amorfos amolecem em uma faixa de temperatura) e a dureza.",
+    "palavras_chave": ["sólidos cristalinos", "sólidos amorfos", "reticulado", "organização", "ponto de fusão"]
+  },
+  {
+    "pergunta": "O que são e como funcionam as Células de Combustível?",
+    "resposta": "As células de combustível são dispositivos eletroquímicos que convertem a energia química de um combustível, como o hidrogênio, diretamente em energia elétrica, de forma contínua, desde que haja fornecimento dos reagentes. Ela funciona como uma pilha, mas não 'descarrega' porque os reagentes são fornecidos externamente. No ânodo, o hidrogênio é oxidado, liberando elétrons. No cátodo, o oxigênio é reduzido, recebendo esses elétrons. O único subproduto é a água. Sabia que as naves espaciais Apollo, que levaram o homem à Lua, usavam células de combustível para gerar eletricidade e água potável para os astronautas?",
+    "palavras_chave": ["célula de combustível", "hidrogênio", "eletricidade contínua", "ânodo", "cátodo"]
+  },
+  {
+    "pergunta": "O que é Corrosão e como a Eletroquímica a explica?",
+    "resposta": "A corrosão, principalmente a ferrugem do ferro, é um processo eletroquímico espontâneo e indesejado. Ela ocorre porque o metal age como o ânodo de uma pilha microscópica, onde ele se oxida (Fe -> Fe²+ + 2e-). Esses elétrons fluem para outra região do metal, que age como cátodo, onde o oxigênio e a água são reduzidos. A presença de um eletrólito, como a umidade ou sal, completa o circuito, facilitando o processo. A proteção catódica, usada em cascos de navios e gasodutos, é uma aplicação prática da eletroquímica para prevenir a corrosão, conectando o metal a ser protegido a um metal de sacrifício com maior tendência a oxidar, como o zinco ou magnésio.",
+    "palavras_chave": ["corrosão", "ferrugem", "processo eletroquímico", "proteção catódica", "metal de sacrifício"]
+  },
+  {
+    "pergunta": "O que é a Equação de Nernst?",
+    "resposta": "A Equação de Nernst é uma fórmula fundamental da Eletroquímica que nos permite calcular o potencial real de um eletrodo, ou de uma pilha, em condições não padrão. Enquanto o Eº nos dá o potencial em condições ideais (1 mol/L, 1 atm, 25°C), a equação de Nernst leva em conta a temperatura e as concentrações reais dos reagentes e produtos. A equação é E = Eº - (RT/nF) * lnQ, onde Q é o quociente reacional. Ela explica, por exemplo, por que uma pilha 'morre': conforme os reagentes são consumidos, suas concentrações diminuem, o valor de Q aumenta e o potencial E diminui, até que não há mais voltagem suficiente para manter o dispositivo funcionando.",
+    "palavras_chave": ["equação de nernst", "potencial real", "concentração", "temperatura", "quociente reacional"]
+  },
+  {
+    "pergunta": "O que são Reações de Oxirredução (Redox)?",
+    "resposta": "Reações de Oxirredução, ou Redox, são reações químicas em que ocorre transferência de elétrons entre as espécies envolvidas. Elas são compostas por dois processos simultâneos: a Oxidação, que é a perda de elétrons, e a Redução, que é o ganho de elétrons. Uma maneira fácil de lembrar é com a sigla OIL RIG: Oxidation Is Loss (Oxidação é Perda), Reduction Is Gain (Redução é Ganho). O agente oxidante é a espécie que causa a oxidação, sendo ela própria reduzida. O agente redutor é a espécie que causa a redução, sendo ela própria oxidada. A combustão, a respiração celular e o funcionamento de pilhas são todos exemplos de reações redox.",
+    "palavras_chave": ["reações redox", "oxidação", "redução", "transferência de elétrons", "agente oxidante"]
+  },
+  {
+    "pergunta": "O que é e como se calcula o Trabalho de Expansão em Termodinâmica?",
+    "resposta": "Em Termodinâmica, trabalho de expansão é o trabalho realizado por um sistema quando ele se expande contra uma pressão externa. É o tipo de trabalho mais comum em processos químicos que envolvem gases. A fórmula para calcular esse trabalho é w = -P_ex * ΔV, onde P_ex é a pressão externa constante e ΔV é a variação de volume. O sinal negativo é uma convenção: quando o sistema realiza trabalho sobre as vizinhanças (se expande, ΔV positivo), o w é negativo, significando que o sistema perde energia. Pense em uma seringa com o êmbolo sendo empurrado para fora pelo gás interno: o gás (sistema) está realizando trabalho sobre o êmbolo (vizinhança).",
+    "palavras_chave": ["trabalho de expansão", "pressão externa", "variação de volume", "sistema", "vizinhança"]
+  },
+  {
+    "pergunta": "O que é uma Função de Estado?",
+    "resposta": "Uma Função de Estado é uma propriedade de um sistema cujo valor depende apenas do estado atual do sistema (como sua temperatura, pressão e composição), e não do 'caminho' percorrido para chegar até aquele estado. É como a diferença de altitude entre o base e o topo de uma montanha: ela é a mesma, independentemente de você ter subido por um caminho curto e íngreme ou por uma estrada longa e sinuosa. Exemplos clássicos são a Energia Interna (U), a Entalpia (H), a Entropia (S) e a Energia Livre de Gibbs (G). Em contraste, trabalho (w) e calor (q) não são funções de estado, pois dependem integralmente do caminho percorrido.",
+    "palavras_chave": ["função de estado", "caminho", "estado atual", "entalpia", "entropia"]
+  },
+  {
+    "pergunta": "O que é a Primeira Lei da Termodinâmica?",
+    "resposta": "A Primeira Lei da Termodinâmica é essencialmente a Lei da Conservação da Energia aplicada a sistemas termodinâmicos. Ela estabelece que a energia não pode ser criada nem destruída, apenas transformada. A variação da energia interna (ΔU) de um sistema é igual ao calor (q) adicionado ao sistema menos o trabalho (w) realizado pelo sistema sobre as suas vizinhanças: ΔU = q - w. Essa lei nos diz que é impossível construir uma máquina que crie energia do nada (um 'moto perpétuo de primeira espécie'). Toda a energia que entra em um sistema tem que sair, seja como calor, trabalho ou ficar armazenada.",
+    "palavras_chave": ["primeira lei", "conservação da energia", "variação energia interna", "calor", "trabalho"]
+  },
+  {
+    "pergunta": "O que é Calor Específico?",
+    "resposta": "O Calor Específico de uma substância é a quantidade de calor necessária para elevar a temperatura de 1 grama dessa substância em 1 grau Celsius (ou 1 Kelvin). É uma medida de quanto uma substância 'resiste' a mudar sua temperatura. Substâncias com alto calor específico, como a água (c = 4,184 J/g°C), precisam de muito calor para aquecer, mas também liberam muito calor ao esfriar. É por isso que regiões litorâneas têm climas mais amenos: o oceano absorve calor no verão e libera no inverno, atuando como um tampão térmico. Já metais, com baixo calor específico, esquentam e esfriam rapidamente.",
+    "palavras_chave": ["calor específico", "capacidade térmica", "variação de temperatura", "água", "tampão térmico"]
+  },
+  {
+    "pergunta": "O que é um Processo Reversível em Termodinâmica?",
+    "resposta": "Um Processo Reversível é um conceito teórico e idealizado no qual o sistema está em equilíbrio com suas vizinhanças durante cada etapa infinitesimal da transformação. É um processo tão lento e controlado que pode ser 'revertido' por uma mudança infinitesimal nas condições, fazendo o sistema retornar ao seu estado original sem deixar nenhuma mudança no universo. Na prática, todos os processos reais são irreversíveis, mas o processo reversível serve como um limite ideal para calcular o trabalho máximo que pode ser obtido de um sistema. É como empurrar um objeto em uma superfície sem atrito: um conceito útil para cálculos, mas inatingível na realidade.",
+    "palavras_chave": ["processo reversível", "idealizado", "equilíbrio", "trabalho máximo", "termodinâmica"]
+  },
+  {
+    "pergunta": "O que é um Fluido Supercrítico?",
+    "resposta": "Um Fluido Supercrítico é uma substância que se encontra em condições de temperatura e pressão acima do seu ponto crítico. Nesse estado, a distinção entre líquido e gás desaparece. O fluido supercrítico tem propriedades híbridas: densidade semelhante à de um líquido (o que o torna um bom solvente) e viscosidade e difusividade semelhantes às de um gás (o que lhe confere alta capacidade de penetração). Sabia que o dióxido de carbono supercrítico (CO₂ sc) é amplamente utilizado na indústria? Ele é empregado para descafeinar o café e para extrair óleos essenciais e aromas de forma limpa, pois evita o uso de solventes orgânicos tóxicos e é facilmente removido, deixando o produto puro.",
+    "palavras_chave": ["fluido supercrítico", "ponto crítico", "densidade", "solvente", "dióxido de carbono"]
+  },
+  {
+    "pergunta": "O que é a Lei de Hess?",
+    "resposta": "A Lei de Hess é um princípio fundamental da Termoquímica que afirma: 'A variação de entalpia de uma reação química depende apenas dos estados inicial e final dos reagentes e produtos, sendo independente do caminho ou do número de etapas da reação.' Em outras palavras, se uma reação pode ser expressa como a soma de duas ou mais reações, a entalpia da reação global será a soma das entalpias das reações individuais. É uma aplicação direta da entalpia ser uma função de estado. Essa lei é extremamente útil para calcular a entalpia de reações que são difíceis ou perigosas de medir diretamente em um calorímetro.",
+    "palavras_chave": ["lei de hess", "variação de entalpia", "função de estado", "soma de reações", "termoquímica"]
+  },
+  {
+    "pergunta": "O que é a Teoria das Colisões na Cinética Química?",
+    "resposta": "A Teoria das Colisões explica como as reações químicas ocorrem em nível molecular e quais fatores afetam sua velocidade. Ela postula que para uma reação acontecer, três condições devem ser satisfeitas: 1) As moléculas dos reagentes devem colidir. 2) Essas colisões devem ter uma orientação espacial favorável (a parte certa das moléculas deve se encontrar). 3) A colisão deve ocorrer com energia suficiente para superar a Energia de Ativação (Ea) – a barreira energética que precisa ser vencida para que as ligações antigas se quebrem e as novas se formem. Fatores como aumento de concentração ou temperatura aumentam a velocidade porque aumentam a frequência de colisões eficazes.",
+    "palavras_chave": ["teoria das colisões", "colisões eficazes", "orientação", "energia de ativação", "frequência"]
+  },
+  {
+    "pergunta": "O que é um Mecanismo de Reação?",
+    "resposta": "Um Mecanismo de Reação é a sequência detalhada de etapas elementares (etapas simples que ocorrem em uma única colisão) pelas quais uma reação química global ocorre. A reação que escrevemos na equação balanceada é frequentemente o resultado líquido de várias etapas. Essas etapas envolvem a formação de intermediários de reação, que são espécies formadas em uma etapa e consumidas em outra. A etapa mais lenta do mecanismo é chamada de etapa determinante da velocidade, pois ela dita a velocidade de toda a reação. Determinar o mecanismo de uma reação é como ser um detetive químico, usando dados experimentais para desvendar o caminho preciso que as moléculas percorrem.",
+    "palavras_chave": ["mecanismo de reação", "etapas elementares", "intermediário de reação", "etapa determinante", "reação global"]
+  },
+  {
+    "pergunta": "O que são e como funcionam os Inibidores?",
+    "resposta": "Inibidores são o oposto dos catalisadores: são substâncias que diminuem a velocidade de uma reação química. Eles funcionam de várias maneiras. Alguns, chamados de venenos de catalisador, se ligam fortemente ao catalisador, bloqueando os sítios ativos e impedindo que os reagentes se liguem. Outros, usados para retardar reações indesejadas como a decomposição ou a corrosão, podem reagir com os intermediários da reação, interrompendo o mecanismo. Um exemplo comum são os antioxidantes nos alimentos, que inibem as reações de oxidação que causam a rancificação. Sabia que o chumbo atua como um veneno para os catalisadores dos carros, que é um dos motivos pela gasolina ser livre de chumbo?",
+    "palavras_chave": ["inibidores", "velocidade da reação", "veneno de catalisador", "sítio ativo", "antioxidantes"]
+  },
+  {
+    "pergunta": "O que é um Equilíbrio Heterogêneo?",
+    "resposta": "Um Equilíbrio Heterogêneo é aquele no qual os reagentes e produtos estão em mais de uma fase. Um exemplo clássico é a decomposição do carbonato de cálcio: CaCO3(s) ⇌ CaO(s) + CO2(g). Na expressão da constante de equilíbrio (Kc ou Kp) para esses sistemas, a concentração de sólidos puros e líquidos puros não aparece, pois sua 'concentração' é constante (sua densidade). Portanto, para a reação acima, Kp = P_CO2. A pressão do gás dióxido de carbono é a única que importa para definir a posição do equilíbrio, independentemente da quantidade de CaCO3 ou CaO presentes, desde que haja algum de cada.",
+    "palavras_chave": ["equilíbrio heterogêneo", "múltiplas fases", "sólidos puros", "constante de equilíbrio", "concentração constante"]
+  },
+  {
+    "pergunta": "O que é o Efeito do Íon Comum?",
+    "resposta": "O Efeito do Íon Comum é a redução na solubilidade de um composto iônico pouco solúvel quando um sal solúvel contendo um íon comum é adicionado à solução. Por exemplo, a solubilidade do cloreto de prata (AgCl) é menor em uma solução de cloreto de sódio (NaCl) do que em água pura. Isso acontece porque o NaCl fornece íons Cl- à solução, e pelo Princípio de Le Chatelier, o equilíbrio de solubilidade AgCl(s) ⇌ Ag+(aq) + Cl-(aq) se desloca para a esquerda, para consumir o excesso de Cl-, fazendo com que mais AgCl precipite. Esse efeito é crucial para o controle de solubilidade em análises químicas e no funcionamento das soluções tampão.",
+    "palavras_chave": ["efeito do íon comum", "solubilidade", "composto iônico", "princípio de le chatelier", "precipitação"]
+  },
+  {
+    "pergunta": "O que é o Produto de Solubilidade (Kps)?",
+    "resposta": "O Produto de Solubilidade, representado por Kps, é a constante de equilíbrio para a dissolução de um composto iônico pouco solúvel em água. Para um sal genérico A_aB_b, que se dissocia em aA⁺ e bB⁻, a reação é A_aB_b(s) ⇌ aA⁺(aq) + bB⁻(aq). O Kps é então escrito como Kps = [A⁺]^a * [B⁻]^b. Ele é um valor constante para uma dada temperatura. Comparando o Produto Iônico (Qps) de uma solução – que é calculado da mesma forma, mas com as concentrações iniciais – com o Kps, podemos prever se ocorrerá precipitação: se Qps > Kps, a solução está supersaturada e precipitará sal; se Qps < Kps, a solução é insaturada e mais sal pode dissolver.",
+    "palavras_chave": ["produto de solubilidade", "kps", "solubilidade", "precipitação", "produto iônico"]
+  },
+  {
+    "pergunta": "O que são e como funcionam os Indicadores Ácido-Base?",
+    "resposta": "Indicadores Ácido-Base são substâncias orgânicas fracamente ácidas ou básicas que possuem cores diferentes para suas formas protonada (HIn) e desprotonada (In⁻). Eles funcionam como um 'semáforo' químico. Em solução, existe um equilíbrio: HIn ⇌ H⁺ + In⁻ (cor A ⇌ cor B). O ponto de viragem ocorre quando [HIn] = [In⁻], e a cor observada é uma mistura das duas. Cada indicador tem um intervalo de pH no qual a mudança de cor é perceptível, como a fenolftaleína, que é incolor em pH < 8,2 e rosa em pH > 10. Eles são escolhidos para que seu ponto de viragem coincida com o ponto de equivalência da titulação, sinalizando visualmente o fim da reação.",
+    "palavras_chave": ["indicadores ácido-base", "cor", "ponto de viragem", "equilíbrio", "fenolftaleína"]
+  },
+  {
+    "pergunta": "O que é uma Titulação?",
+    "resposta": "Uma Titulação é uma técnica analítica utilizada para determinar a concentração desconhecida de um soluto em uma solução (o titulado), usando uma solução de concentração conhecida (o titulante). O procedimento envolve adicionar gradualmente o titulante ao titulado, geralmente com a ajuda de uma bureta, até que a reação entre os dois seja completa. Esse ponto é chamado de ponto de equivalência e é frequentemente detectado por uma mudança brusca de cor causada por um indicador. O tipo mais comum é a titulação ácido-base, mas existem também titulações redox e de precipitação. É um método extremamente preciso e amplamente usado em química analítica e controle de qualidade.",
+    "palavras_chave": ["titulação", "titulante", "titulado", "ponto de equivalência", "concentração desconhecida"]
+  },
+  {
+    "pergunta": "O que é a Condutividade Eletrolítica?",
+    "resposta": "A Condutividade Eletrolítica é uma medida da capacidade de uma solução de conduzir corrente elétrica. Essa capacidade depende diretamente da presença, concentração e mobilidade dos íons na solução. Soluções de eletrólitos fortes, como NaCl, possuem alta condutividade porque se dissociam completamente, liberando muitos íons. Já soluções de eletrólitos fracos, como o ácido acético, possuem baixa condutividade. A água pura, por ter muito poucos íons, é um condutor muito pobre. A condutimetria é a técnica que mede essa propriedade e é usada para monitorar a pureza da água, acompanhar o progresso de uma titulação ou determinar a constante de dissociação de um ácido fraco.",
+    "palavras_chave": ["condutividade eletrolítica", "solução iônica", "mobilidade dos íons", "eletrólitos fortes", "condutimetria"]
+  },
+  {
+    "pergunta": "O que é a Lei de Henry?",
+    "resposta": "A Lei de Henry descreve a solubilidade de um gás em um líquido. Ela estabelece que, a uma temperatura constante, a quantidade de um gás que se dissolve em um determinado volume de líquido é diretamente proporcional à pressão parcial desse gás acima do líquido. A fórmula é C = k * P, onde C é a concentração do gás dissolvido, k é a constante de Henry (específica para cada par gás-líquido e temperatura) e P é a pressão parcial do gás. É por isso que quando você abre uma garrafa de refrigerante, o CO2 escapa: você reduz a pressão parcial do CO2 acima do líquido, diminuindo instantaneamente sua solubilidade. Sabia que a doença descompressiva, ou 'mal dos mergulhadores', é uma consequência direta da Lei de Henry? Ao subir rapidamente, a diminuição da pressão faz com que o nitrogênio dissolvido no sangue forme bolhas perigosas.",
+    "palavras_chave": ["lei de henry", "solubilidade de gases", "pressão parcial", "constante de henry", "doença descompressiva"]
+  },
+  {
+    "pergunta": "O que é a Lei de Raoult?",
+    "resposta": "A Lei de Raoult é fundamental para o estudo de soluções ideais. Ela relaciona a pressão de vapor de um componente em uma solução com sua fração molar. A lei diz que a pressão de vapor parcial de um solvente em uma solução ideal (P_A) é igual à pressão de vapor do solvente puro (P°_A) multiplicada pela sua fração molar na solução (X_A): P_A = X_A * P°_A. Para uma solução com dois componentes voláteis, a pressão de vapor total da solução é a soma das pressões parciais de cada componente. Desvios significativos da Lei de Raoult indicam que as forças intermoleculares entre os componentes da solução são diferentes das forças entre as moléculas dos componentes puros, caracterizando uma solução não ideal.",
+    "palavras_chave": ["lei de raoult", "pressão de vapor", "solução ideal", "fração molar", "solvente"]
+  },
+  {
+    "pergunta": "O que são Propriedades Intensivas e Extensivas?",
+    "resposta": "Essa é uma classificação importante das propriedades da matéria. Propriedades Intensivas são aquelas que não dependem da quantidade de matéria presente no sistema. Elas são inerentes ao material. Exemplos: temperatura, densidade, pressão, ponto de fusão, cor e concentração. Já as Propriedades Extensivas dependem da quantidade ou do tamanho da amostra. Exemplos: massa, volume, energia interna e número de mols. Uma dica: se você pegar duas amostras idênticas e juntá-las, as propriedades intensivas permanecem as mesmas (a densidade não muda), mas as propriedades extensivas dobram (a massa dobra).",
+    "palavras_chave": ["propriedades intensivas", "propriedades extensivas", "quantidade de matéria", "densidade", "massa"]
+  },
+  {
+    "pergunta": "O que é um Processo Adiabático?",
+    "resposta": "Um Processo Adiabático é aquele no qual não há transferência de calor entre o sistema e as suas vizinhanças (q = 0). Isso não significa que a temperatura seja constante; pelo contrário, em uma expansão adiabática, o sistema realiza trabalho às custas de sua própria energia interna, o que causa uma diminuição na sua temperatura. É o princípio por trás do funcionamento dos desodorantes em aerosol: quando o gás se expande rapidamente ao sair da lata, o processo é aproximadamente adiabático, e o resfriamento é tão intenso que pode formar uma pequena névoa de gelo. Na atmosfera, a ascensão de uma massa de ar é um processo adiabático que leva à formação de nuvens e chuva.",
+    "palavras_chave": ["processo adiabático", "sem troca de calor", "expansão", "temperatura", "energia interna"]
+  },
+  {
+    "pergunta": "O que é a Espectroscopia e como ela se relaciona com a Físico-Química?",
+    "resposta": "A Espectroscopia é o estudo da interação entre a matéria e a radiação eletromagnética. É uma ferramenta fundamental da Físico-Química porque permite investigar a estrutura molecular, identificar substâncias e medir concentrações. Diferentes tipos de espectroscopia sondam diferentes aspectos das moléculas: a IV (Infravermelho) analisa vibrações das ligações, a UV-Vis (Ultravioleta-Visível) estuda transições eletrônicas, e a RMN (Ressonância Magnética Nuclear) fornece informações sobre o ambiente dos núcleos atômicos. Cada molécula absorve ou emite radiação em comprimentos de onda característicos, funcionando como uma 'impressão digital' química.",
+    "palavras_chave": ["espectroscopia", "radiação eletromagnética", "estrutura molecular", "iv", "rmn"]
+  },
+  {
+    "pergunta": "O que é o Efeito Fotoelétrico e qual sua importância?",
+    "resposta": "O Efeito Fotoelétrico é a emissão de elétrons de uma superfície metálica quando iluminada por luz de frequência suficientemente alta. A explicação de Einstein para esse fenônio, que lhe rendeu o Nobel, foi revolucionária: a luz se comporta como partículas (fótons), e cada fóton carrega uma energia E = hν, onde h é a constante de Planck e ν é a frequência. Para arrancar um elétron, o fóton precisa ter energia maior que a função trabalho do metal. Sabia que esse efeito não é apenas um conceito teórico? Ele é a base dos sensores de luz das câmeras digitais, dos painéis solares e dos sistemas de abertura automática de portas.",
+    "palavras_chave": ["efeito fotoelétrico", "fótons", "elétrons", "einstein", "constante de planck"]
+  },
+  {
+    "pergunta": "O que são e como funcionam as Células Fotovoltaicas?",
+    "resposta": "As células fotovoltaicas, ou painéis solares, são dispositivos que convertem diretamente a energia da luz solar em energia elétrica através do efeito fotoelétrico. Elas são feitas de materiais semicondutores, como o silício. Quando os fótons da luz solar atingem o semicondutor, eles transferem sua energia para os elétrons, promovendo-os para uma banda de condução e criando pares elétron-lacuna. Um campo elétrico interno na junção p-n do semicondutor então separa essas cargas, fazendo com que os elétrons fluam em um circuito externo, gerando corrente elétrica. É uma aplicação prática fantástica da física quântica para geração de energia limpa.",
+    "palavras_chave": ["células fotovoltaicas", "semicondutores", "efeito fotoelétrico", "junção p-n", "energia solar"]
+  },
+  {
+    "pergunta": "O que é a Mecânica Quântica e por que é importante para a Química?",
+    "resposta": "A Mecânica Quântica é a teoria física que descreve o comportamento da matéria em escalas atômicas e subatômicas. Ela é fundamental para a química porque explica o que a física clássica não consegue: a estrutura dos átomos, a formação de ligações químicas, os espectros de emissão e absorção, e por que a tabela periódica tem essa organização. Conceitos como orbitais atômicos, números quânticos e o princípio da incerteza de Heisenberg são pilares da mecânica quântica. Sem ela, não entenderíamos por que os elétrons não caem no núcleo ou como as moléculas se formam e interagem.",
+    "palavras_chave": ["mecânica quântica", "orbitais atômicos", "estrutura atômica", "ligações químicas", "escala subatômica"]
+  },
+  {
+    "pergunta": "O que são Orbitais Atômicos?",
+    "resposta": "Orbitais Atômicos são regiões do espaço ao redor do núcleo onde há uma alta probabilidade (geralmente 90%) de se encontrar um elétron. Eles são soluções da equação de Schrödinger para o átomo de hidrogênio e são caracterizados por três números quânticos: n (principal, que define a camada e energia), l (momento angular, que define o subnível e a forma) e m (magnético, que define a orientação no espaço). Os formatos básicos são s (esférico), p (dumbbell), d e f (formatos mais complexos). Diferente do modelo planetário de Bohr, os orbitais não são trajetórias definidas, mas sim 'nuvens' de probabilidade que descrevem o comportamento ondulatório dos elétrons.",
+    "palavras_chave": ["orbitais atômicos", "números quânticos", "probabilidade", "equação de schrödinger", "nuvem eletrônica"]
+  },
+  {
+    "pergunta": "O que é o Princípio da Incerteza de Heisenberg?",
+    "resposta": "O Princípio da Incerteza de Heisenberg é um conceito fundamental da mecânica quântica que estabelece um limite fundamental para a precisão com que podemos conhecer simultaneamente certos pares de propriedades de uma partícula. O par mais famoso é posição e momento (quantidade de movimento). O princípio diz que é impossível determinar com precisão absoluta e ao mesmo tempo a posição (x) e o momento (p) de uma partícula: Δx * Δp ≥ h/4π. Quanto mais precisamente conhecermos uma das grandezas, menos precisamente conheceremos a outra. Isso não é uma limitação dos instrumentos, mas sim uma propriedade intrínseca da natureza. Significa que o conceito de trajetória definida para um elétron não faz sentido em nível atômico.",
+    "palavras_chave": ["princípio da incerteza", "heisenberg", "posição", "momento", "limitação fundamental"]
+  },
+  {
+    "pergunta": "O que é a Equação de Schrödinger?",
+    "resposta": "A Equação de Schrödinger é a equação fundamental da mecânica quântica não-relativística. Desenvolvida por Erwin Schrödinger em 1926, ela é uma equação de onda que descreve como o estado quântico de um sistema físico muda com o tempo. Para sistemas estacionários (com energia constante), usa-se a equação independente do tempo: Ĥψ = Eψ, onde Ĥ é o operador hamiltoniano (que representa a energia total), ψ é a função de onda do sistema e E é a energia. As soluções permitidas para essa equação (os autovalores E e as autofunções ψ) nos dão os níveis de energia quantizados e os orbitais dos elétrons nos átomos. É a base matemática para toda a química quântica moderna.",
+    "palavras_chave": ["equação de schrödinger", "função de onda", "estado quântico", "operador hamiltoniano", "níveis de energia"]
+  },
+  {
+    "pergunta": "O que são Ligações Químicas do ponto de vista da Mecânica Quântica?",
+    "resposta": "Sob a ótica da Mecânica Quântica, as ligações químicas são explicadas principalmente pela Teoria do Orbital Molecular (TOM). Nessa teoria, os orbitais atômicos dos átomos que se ligam se combinam para formar orbitais moleculares, que são deslocalizados por toda a molécula. Quando dois orbitais atômicos se sobrepõem, formam-se dois orbitais moleculares: um ligante (de menor energia, que estabiliza a molécula) e um antiligante (de maior energia). A ligação é formada quando elétrons são acomodados no orbital ligante, resultando em uma densidade eletrônica entre os núcleos que os mantém unidos. Essa abordagem explica propriedades como a ordem de ligação e o paramagnetismo do oxigênio, que o modelo de ligação de valência não explicava bem.",
+    "palavras_chave": ["ligações químicas", "orbital molecular", "teoria tom", "orbital ligante", "ordem de ligação"]
+  },
+  {
+    "pergunta": "O que são Forças Intermoleculares?",
+    "resposta": "Forças Intermoleculares são as forças de atração que existem entre moléculas. Elas são muito mais fracas que as ligações químicas intramoleculares (como as covalentes ou iônicas), mas são extremamente importantes porque determinam propriedades físicas como ponto de fusão, ponto de ebulição, viscosidade e tensão superficial. Existem três tipos principais, em ordem crescente de força: Forças de London (ou dispersão), presentes em todas as moléculas; Interações Dipolo-Dipolo, presentes em moléculas polares; e Pontes de Hidrogênio, um caso especial muito forte de dipolo-dipolo que ocorre quando o H está ligado a F, O ou N. Sabia que é por causa das pontes de hidrogênio que a água tem um ponto de ebulição anormalmente alto para uma molécula tão pequena?",
+    "palavras_chave": ["forças intermoleculares", "london", "dipolo-dipolo", "ponte de hidrogênio", "ponto de ebulição"]
+  },
+  {
+    "pergunta": "O que é a Teoria do Complexo Ativado?",
+    "resposta": "A Teoria do Complexo Ativado, também conhecida como Teoria do Estado de Transição, é um modelo da cinética química que descreve o que acontece no exato momento em que os reagentes se transformam em produtos. Segundo essa teoria, os reagentes primeiro formam uma espécie intermediária de alta energia e vida curta chamada Complexo Ativado. Esse complexo representa o ponto de máxima energia ao longo da coordenada de reação (o 'topo da colina' que as moléculas precisam escalar) e tem uma estrutura intermediária entre reagentes e produtos. A energia necessária para formar o complexo ativado é justamente a Energia de Ativação (Ea). Essa teoria fornece uma visão mais detalhada do mecanismo de reação do que a simples Teoria das Colisões.",
+    "palavras_chave": ["complexo ativado", "estado de transição", "energia de ativação", "coordenada de reação", "cinética química"]
+  },
+  {
+    "pergunta": "O que é um Diagrama de Energia Potencial?",
+    "resposta": "Um Diagrama de Energia Potencial é um gráfico que mostra a energia de um sistema de reagentes em função do 'caminho' ou 'progresso' da reação. Ele é uma ferramenta visual poderosa para entender a cinética e termodinâmica de uma reação. No eixo x temos a coordenada de reação, e no eixo y a energia potencial. Os reagentes começam em um nível de energia, sobem até um pico (que representa o complexo ativado e a energia de ativação) e depois descem para o nível de energia dos produtos. A diferença de energia entre reagentes e produtos nos dá a variação de entalpia (ΔH) da reação. Um diagrama desses mostra claramente por que mesmo reações exotérmicas (que liberam energia) precisam de uma faísca inicial para começar.",
+    "palavras_chave": ["diagrama de energia", "energia potencial", "complexo ativado", "energia de ativação", "variação de entalpia"]
+  },
+  {
+    "pergunta": "O que é um Processo Isotérmico?",
+    "resposta": "Um Processo Isotérmico é aquele que ocorre a temperatura constante (ΔT = 0). Para um gás ideal, isso implica que a energia interna (U) também permanece constante, pois U depende apenas da temperatura. Pela primeira lei da termodinâmica (ΔU = q - w), se ΔU = 0, então q = w. Isso significa que todo o calor absorvido pelo sistema é convertido em trabalho realizado pelo sistema sobre as vizinhanças (ou vice-versa). Na prática, para manter a temperatura constante durante uma expansão ou compressão, o sistema deve trocar calor com um reservatório térmico. A expansão isotérmica de um gás é um conceito chave no estudo das máquinas térmicas.",
+    "palavras_chave": ["processo isotérmico", "temperatura constante", "energia interna", "gás ideal", "trabalho"]
+  },
+  {
+    "pergunta": "O que é um Processo Isobárico?",
+    "resposta": "Um Processo Isobárico é aquele que ocorre a pressão constante. Esse é um dos tipos de processos mais comuns no laboratório e na natureza, como uma reação química ocorrendo em um béquer aberto (sob pressão atmosférica constante). Em processos isobáricos, o trabalho de expansão é calculado simplesmente por w = PΔV. Além disso, o calor trocado em um processo isobárico (q_p) é igual à variação de entalpia do sistema (ΔH). Isso torna a entalpia uma função de estado particularmente útil, já que muitos processos químicos práticos ocorrem em condições de pressão constante.",
+    "palavras_chave": ["processo isobárico", "pressão constante", "trabalho de expansão", "entalpia", "calor"]
+  },
+  {
+    "pergunta": "O que é um Processo Isocórico?",
+    "resposta": "Um Processo Isocórico, também chamado de isovolumétrico, é aquele que ocorre a volume constante (ΔV = 0). Como não há variação de volume, o trabalho de expansão (w = PΔV) é zero. Pela primeira lei da termodinâmica, ΔU = q - w, temos que ΔU = q_v. Isso significa que, em um processo a volume constante, a variação da energia interna do sistema (ΔU) é exatamente igual ao calor trocado (q_v). É por isso que os calorímetros de bomba, usados para medir o calor de combustão de alimentos e combustíveis, são projetados para operar em volume constante – a medida de calor nos dá diretamente a variação da energia interna.",
+    "palavras_chave": ["processo isocórico", "volume constante", "trabalho zero", "energia interna", "calorímetro de bomba"]
+  },
+  {
+    "pergunta": "O que é a Segunda Lei da Termodinâmica?",
+    "resposta": "A Segunda Lei da Termodinâmica introduz o conceito de entropia e estabelece a direção dos processos espontâneos. Ela pode ser enunciada de várias formas equivalentes: 1) 'O calor não flui espontaneamente de um corpo frio para um corpo quente.' 2) 'É impossível construir uma máquina térmica que, operando em ciclos, converta totalmente o calor em trabalho.' 3) 'A entropia do universo sempre aumenta em um processo espontâneo.' Em essência, a Segunda Lei nos diz que a energia tende a se dispersar e que os sistemas evoluem naturalmente para estados de maior desordem. É a lei que explica por que é tão difícil manter a ordem e por que processos como a queima de um pedaço de madeira são irreversíveis.",
+    "palavras_chave": ["segunda lei", "entropia", "processos espontâneos", "máquina térmica", "irreversibilidade"]
+  },
+  {
+    "pergunta": "O que é uma Máquina Térmica?",
+    "resposta": "Uma Máquina Térmica é qualquer dispositivo que converte energia térmica (calor) em trabalho mecânico. Elas operam em ciclos, absorvendo calor (Q_quente) de uma fonte a alta temperatura, convertendo parte desse calor em trabalho (W) e rejeitando o calor restante (Q_frio) para um sumidouro a baixa temperatura. A eficiência de uma máquina térmica (η) é a fração do calor absorvido que é convertida em trabalho: η = W / Q_quente = 1 - (Q_frio / Q_quente). A Segunda Lei da Termodinâmica impõe um limite máximo para essa eficiência, dado pelo Teorema de Carnot, que depende apenas das temperaturas das fontes quente e fria. Motores de carro e usinas termelétricas são exemplos de máquinas térmicas.",
+    "palavras_chave": ["máquina térmica", "ciclo termodinâmico", "eficiência", "calor", "trabalho"]
+  },
+  {
+    "pergunta": "O que é o Ciclo de Carnot?",
+    "resposta": "O Ciclo de Carnot é um ciclo termodinâmico teórico, idealizado por Sadi Carnot, que representa a máquina térmica com a máxima eficiência possível entre duas temperaturas. É composto por quatro processos reversíveis: duas expansões isotérmicas e duas compressões adiabáticas. A importância do ciclo de Carnot é que ele estabelece um limite superior absoluto para a eficiência de qualquer máquina térmica real: η_max = 1 - (T_fria / T_quente), onde as temperaturas são em Kelvin. Embora seja inatingível na prática, serve como um padrão de comparação para avaliar o desempenho de máquinas reais. Sabia que nenhuma máquina térmica pode ser mais eficiente que uma máquina de Carnot operando entre as mesmas temperaturas?",
+    "palavras_chave": ["ciclo de carnot", "máquina ideal", "eficiência máxima", "processos reversíveis", "temperatura kelvin"]
+  },
+  {
+    "pergunta": "O que é a Terceira Lei da Termodinâmica?",
+    "resposta": "A Terceira Lei da Termodinâmica estabelece que a entropia de um cristal perfeito e puro se aproxima de zero quando a temperatura se aproxima do zero absoluto (0 Kelvin). Em outras palavras, no zero absoluto, o estado de um sistema é perfeitamente ordenado e tem entropia mínima. Essa lei implica que é impossível atingir o zero absoluto por qualquer processo físico, pois isso exigiria a remoção de toda a desordem do sistema, o que é proibido pela própria natureza da entropia. A Terceira Lei fornece um ponto de referência absoluto para a entropia, permitindo o cálculo de entropias absolutas, e não apenas variações de entropia.",
+    "palavras_chave": ["terceira lei", "zero absoluto", "cristal perfeito", "entropia zero", "temperatura mínima"]
+  },
+  {
+    "pergunta": "O que é a Difusão?",
+    "resposta": "A Difusão é o processo pelo qual as partículas (átomos, íons ou moléculas) se movem de uma região de maior concentração para uma região de menor concentração, devido ao seu movimento térmico aleatório. É um processo espontâneo que tende a homogeneizar a concentração em um sistema. A difusão é governada pela Lei de Fick, que relaciona a taxa de difusão com o gradiente de concentração. Esse fenômeno é crucial em muitos processos: é assim que o oxigênio do ar entra nas nossas células pulmonares, como os nutrientes se espalham no solo para as raízes das plantas, e é a base de muitos processos de purificação e separação na indústria química.",
+    "palavras_chave": ["difusão", "gradiente de concentração", "movimento térmico", "lei de fick", "homogeneização"]
+  },
+  {
+    "pergunta": "O que é Efusão e qual sua relação com a Lei de Graham?",
+    "resposta": "A Efusão é a passagem de um gás através de um orifício muito pequeno (de diâmetro menor que o livre caminho médio das moléculas) para uma região de vácuo ou pressão mais baixa. A Lei de Graham, formulada por Thomas Graham, estabelece que a taxa de efusão de um gás é inversamente proporcional à raiz quadrada de sua massa molar. Ou seja, gases mais leves efundem mais rapidamente que gases mais pesados. A fórmula é: Taxa_A / Taxa_B = √(M_B / M_A). Um experimento clássico demonstra isso: o hidrogênio (M = 2 g/mol) efunde cerca de 4 vezes mais rápido que o oxigênio (M = 32 g/mol), pois √(32/2) = 4. Esse princípio é usado na separação de isótopos.",
+    "palavras_chave": ["efusão", "lei de graham", "massa molar", "taxa de efusão", "gases"]
+  },
+  {
+    "pergunta": "O que são Coloides?",
+    "resposta": "Coloides são misturas em que partículas microscopicamente dispersas de uma substância (a fase dispersa) estão distribuídas em outra substância (o meio de dispersão). O tamanho das partículas coloidais está entre 1 nm e 1000 nm, o que é maior que em uma solução verdadeira, mas menor que em uma suspensão. Exemplos comuns incluem o leite (gordura em água), a maionese (óleo em água), a espuma (gás em líquido) e a fumaça (sólido em gás). Os coloides exibem propriedades interessantes, como o Efeito Tyndall (espalhamento da luz que os torna visíveis) e o Movimento Browniano (movimento aleatório das partículas devido a colisões com moléculas do solvente).",
+    "palavras_chave": ["coloides", "fase dispersa", "meio de dispersão", "efeito tyndall", "movimento browniano"]
+  },
+  {
+    "pergunta": "O que é a Tensão Superficial?",
+    "resposta": "A Tensão Superficial é a propriedade da superfície de um líquido que o faz comportar-se como uma membrana elástica. Ela surge porque as moléculas no interior do líquido são atraídas igualmente em todas as direções pelas moléculas vizinhas, enquanto as moléculas na superfície são puxadas apenas para o interior. Isso cria uma força resultante para dentro, minimizando a área superficial. É por causa da tensão superficial que os insetos podem andar sobre a água, que as gotas de água são esféricas e que é possível encher um copo ligeiramente acima da borda. A tensão superficial diminui com o aumento da temperatura e pode ser reduzida pela adição de surfactantes (como o sabão).",
+    "palavras_chave": ["tensão superficial", "superfície líquida", "força coesiva", "área superficial mínima", "surfactantes"]
+  },
+  {
+    "pergunta": "O que é a Viscosidade?",
+    "resposta": "A Viscosidade é uma medida da resistência de um fluido (líquido ou gás) ao fluxo. Pense nela como o 'atrito interno' do fluido. Fluidos com alta viscosidade, como o mel ou o óleo motor, fluem lentamente. Já fluidos com baixa viscosidade, como a água ou o álcool, fluem facilmente. A viscosidade geralmente diminui com o aumento da temperatura para líquidos (as moléculas ganham energia para superar as forças intermoleculares), mas aumenta para gases (as colisões entre moléculas se tornam mais frequentes). É uma propriedade crítica no projeto de lubrificantes, na indústria de tintas e no bombeamento de fluidos em geral.",
+    "palavras_chave": ["viscosidade", "resistência ao fluxo", "atrito interno", "temperatura", "fluidos"]
+  },
+  {
+    "pergunta": "O que é a Capilaridade?",
+    "resposta": "A Capilaridade, ou ação capilar, é a capacidade de um líquido fluir em espaços estreitos, como tubos finos (capilares) ou poros de um material, sem a assistência de forças externas e até mesmo em oposição a forças externas como a gravidade. Esse fenômeno é resultado da combinação da coesão (forças entre moléculas do líquido) e da adesão (forças entre o líquido e as paredes do sólido). Se a adesão for maior que a coesão, o líquido sobe pelo tubo (como a água em um tubo de vidro). Se a coesão for maior, o líquido desce (como o mercúrio no mesmo tubo). É a capilaridade que permite que a água suba das raízes até as folhas das plantas e que o pavio de uma vela transporte a cera derretida para a chama.",
+    "palavras_chave": ["capilaridade", "ação capilar", "coesão", "adesão", "tubos finos"]
+  },
+  {
+    "pergunta": "O que é um Sistema Aberto, Fechado e Isolado?",
+    "resposta": "Essa é uma classificação termodinâmica baseada na interação do sistema com suas vizinhanças: Um Sistema Aberto pode trocar tanto matéria quanto energia (calor e trabalho) com as vizinhanças. Exemplo: uma panela aberta no fogão. Um Sistema Fechado pode trocar energia, mas não matéria. Exemplo: uma garrafa térmica fechada (troca calor, mas não perde líquido). Um Sistema Isolado não troca nem matéria nem energia com as vizinhanças. Exemplo: um universo termodinâmico idealizado. Na prática, sistemas verdadeiramente isolados não existem, mas a garrafa térmica é uma boa aproximação. A escolha de como definir o sistema é arbitrária e depende do que queremos estudar.",
+    "palavras_chave": ["sistema aberto", "sistema fechado", "sistema isolado", "troca de matéria", "troca de energia"]
+  },
+  {
+    "pergunta": "O que é a Radioatividade e como ela se relaciona com a estabilidade nuclear?",
+    "resposta": "A Radioatividade é o processo espontâneo pelo qual núcleos atômicos instáveis emitem partículas ou radiação para atingir uma configuração mais estável. Isso ocorre porque há um desequilíbrio entre as forças nucleares fortes (que unem prótons e nêutrons) e as forças eletromagnéticas repulsivas entre os prótons. Núcleos com muitos prótons ou uma proporção inadequada de nêutrons/prótons são instáveis. Os principais tipos de decaimento são alfa (emissão de núcleos de hélio), beta (transformação de nêutrons em prótons ou vice-versa) e gama (emissão de fótons de alta energia). Sabia que a datação por carbono-14, usada em arqueologia, baseia-se no decaimento beta deste isótopo radioativo?",
+    "palavras_chave": ["radioatividade", "decaimento nuclear", "estabilidade nuclear", "alfa", "beta"]
+  },
+  {
+    "pergunta": "O que é Meia-Vida de uma substância radioativa?",
+    "resposta": "A Meia-Vida é o tempo necessário para que a metade dos átomos de uma amostra radioativa sofra decaimento. É uma propriedade característica de cada isótopo radioativo e não depende da quantidade inicial da amostra, da temperatura ou de outras condições externas. Por exemplo, o carbono-14 tem meia-vida de 5.730 anos, enquanto o urânio-238 tem meia-vida de 4,5 bilhões de anos. O conceito é fundamental para a datação de fósseis e rochas, para a medicina nuclear (uso de radiofármacos) e para o gerenciamento de resíduos radioativos. Após cada meia-vida, a quantidade do material radioativo cai pela metade, seguindo um padrão exponencial.",
+    "palavras_chave": ["meia-vida", "decaimento radioativo", "datação", "isótopo", "tempo característico"]
+  },
+  {
+    "pergunta": "O que são Reações Nucleares e como diferem das reações químicas?",
+    "resposta": "Reações Nucleares envolvem mudanças no núcleo atômico, enquanto as reações químicas envolvem apenas os elétrons da eletrosfera. Nas reações nucleares, os elementos podem se transformar uns nos outros, as energias envolvidas são milhões de vezes maiores, e as leis de conservação incluem não só massa-energia, mas também número de massa e número atômico. Existem dois tipos principais: fissão nuclear (quebra de núcleos pesados em mais leves, como em usinas nucleares) e fusão nuclear (união de núcleos leves para formar mais pesados, como ocorre no Sol). As reações nucleares não são afetadas por condições químicas como temperatura e pressão, que tanto influenciam as reações químicas.",
+    "palavras_chave": ["reações nucleares", "fissão", "fusão", "núcleo atômico", "transformação elementar"]
+  },
+  {
+    "pergunta": "O que é o Modelo do Gás Ideal e quando ele falha?",
+    "resposta": "O Modelo do Gás Ideal é uma simplificação que descreve o comportamento dos gases baseada em suposições: as moléculas são pontuais, não há forças intermoleculares e as colisões são perfeitamente elásticas. A equação PV = nRT resume esse modelo. Ele funciona bem para gases reais em condições de baixa pressão e alta temperatura, onde as moléculas estão distantes e se movem rapidamente. No entanto, o modelo falha em altas pressões (as moléculas ocupam volume significativo) e baixas temperaturas (as forças intermoleculares se tornam importantes). Para esses casos, usamos equações de estado mais complexas, como a de van der Waals, que corrigem esses fatores.",
+    "palavras_chave": ["gás ideal", "equação de estado", "pressão", "temperatura", "van der waals"]
+  },
+  {
+    "pergunta": "O que é a Teoria Cinética dos Gases?",
+    "resposta": "A Teoria Cinética dos Gases é um modelo que explica o comportamento dos gases em termos do movimento de suas moléculas. Ela postula que: 1) Os gases são compostos por muitas moléculas em movimento aleatório constante; 2) As moléculas são muito pequenas comparadas às distâncias entre elas; 3) As colisões entre moléculas e com as paredes do recipiente são elásticas; 4) Não há forças intermoleculares significativas, exceto durante as colisões. Essa teoria explica qualitativamente as leis dos gases, a pressão (resultante do bombardeamento das moléculas nas paredes) e a relação entre temperatura e energia cinética média das moléculas. Quanto maior a temperatura, mais rápido as moléculas se movem.",
+    "palavras_chave": ["teoria cinética", "movimento molecular", "colisões elásticas", "pressão gasosa", "energia cinética"]
+  },
+  {
+    "pergunta": "O que é a Distribuição de Maxwell-Boltzmann?",
+    "resposta": "A Distribuição de Maxwell-Boltzmann é uma função matemática que descreve a distribuição de velocidades das moléculas em um gás ideal a uma temperatura específica. O gráfico mostra que poucas moléculas têm velocidades muito baixas ou muito altas, enquanto a maioria tem velocidades intermediárias em torno de uma velocidade mais provável. Quando a temperatura aumenta, a curva se alarga e se desloca para velocidades maiores, indicando que mais moléculas têm energias cinéticas mais altas. Essa distribuição é crucial para entender por que o aumento da temperatura acelera tanto as reações químicas: ele aumenta dramaticamente a fração de moléculas com energia suficiente para superar a energia de ativação.",
+    "palavras_chave": ["maxwell-boltzmann", "distribuição de velocidades", "energia cinética", "temperatura", "velocidade mais provável"]
+  },
+  {
+    "pergunta": "O que são Sais e como se formam?",
+    "resposta": "Sais são compostos iônicos resultantes da reação entre um ácido e uma base, em um processo chamado neutralização. Eles são formados por cátions (geralmente de uma base) e ânions (geralmente de um ácido). Por exemplo, HCl + NaOH → NaCl + H₂O. Os sais tendem a ser sólidos cristalinos com altos pontos de fusão, solúveis em água, e suas soluções aquosas podem ser neutras, ácidas ou básicas dependendo da força do ácido e base originários. Essa propriedade é explicada pela hidrólise dos íons. Sabia que o sal de cozinha (NaCl) é apenas um entre milhares de sais? Outros incluem o carbonato de cálcio (mármore), o nitrato de potássio (salitre) e o sulfato de cobre, cada um com propriedades e aplicações únicas.",
+    "palavras_chave": ["sais", "compostos iônicos", "neutralização", "hidrólise", "sólidos cristalinos"]
+  },
+  {
+    "pergunta": "O que é a Regra da Fase de Gibbs?",
+    "resposta": "A Regra da Fase de Gibbs é uma relação fundamental na termodinâmica que determina o número de graus de liberdade (F) de um sistema em equilíbrio. A fórmula é F = C - P + 2, onde C é o número de componentes e P é o número de fases presentes. Os graus de liberdade representam o número de variáveis intensivas (como temperatura, pressão ou composição) que podem ser alteradas independentemente sem alterar o número de fases em equilíbrio. Essa regra é extremamente útil para interpretar diagramas de fase, pois nos diz quantas condições precisamos especificar para definir completamente o estado do sistema. Para a água pura (C=1) no ponto triplo (P=3), F=0, significando que temperatura e pressão são fixas.",
+    "palavras_chave": ["regra das fases", "gibbs", "graus de liberdade", "componentes", "equilíbrio de fases"]
+  },
+  {
+    "pergunta": "O que é um Azeótropo?",
+    "resposta": "Um Azeótropo é uma mistura líquida de dois ou mais componentes que entra em ebulição a uma temperatura constante e se comporta como uma substância pura, produzindo um vapor com a mesma composição do líquido. Isso significa que a destilação simples não pode separar os componentes de uma mistura azeotrópica. Existem azeótropos de ponto de ebulição mínimo (como etanol-água a 95,6%) e de ponto de ebulição máximo (como ácido clorídrico-água). A formação de azeótropos representa um desvio significativo do comportamento ideal previsto pela Lei de Raoult e é crucial no projeto de processos de separação na indústria química, exigindo técnicas especiais como destilação extrativa ou por arraste de vapor.",
+    "palavras_chave": ["azeótropo", "mistura constante", "destilação", "comportamento não ideal", "separação"]
+  },
+  {
+    "pergunta": "O que é a Eletroforese?",
+    "resposta": "A Eletroforese é uma técnica analítica que separa moléculas carregadas (como proteínas ou DNA) baseando-se em sua migração diferencial sob a influência de um campo elétrico. Moléculas com carga negativa migram para o ânodo (+), e as positivas para o cátodo (-). A velocidade de migração depende da relação carga/tamanho da molécula: moléculas menores ou mais carregadas se movem mais rapidamente. A técnica é realizada em um gel poroso que atua como uma peneira molecular. Sabia que o sequenciamento de DNA, que revolucionou a genética, depende crucialmente da eletroforese em gel para separar fragmentos de DNA de diferentes tamanhos?",
+    "palavras_chave": ["eletroforese", "separação", "campo elétrico", "moléculas carregadas", "gel"]
+  },
+  {
+    "pergunta": "O que é a Cromatografia?",
+    "resposta": "A Cromatografia é uma família de técnicas de separação que distribui os componentes de uma mistura entre duas fases: uma fase estacionária (fixa) e uma fase móvel (que se move através da estacionária). A separação ocorre porque diferentes componentes da mistura têm diferentes afinidades pelas duas fases, distribuindo-se em taxas diferentes. Existem vários tipos: cromatografia em papel, em camada delgada, gasosa e líquida de alta eficiência (HPLC). Cada uma é ideal para diferentes tipos de amostras. É uma das técnicas analíticas mais versáteis, usada desde o controle de qualidade de alimentos e fármacos até a análise forense e ambiental.",
+    "palavras_chave": ["cromatografia", "separação", "fase estacionária", "fase móvel", "afinidade"]
+  },
+  {
+    "pergunta": "O que é a Ressonância Magnética Nuclear (RMN)?",
+    "resposta": "A Ressonância Magnética Nuclear é uma técnica espectroscópica poderosa que explora as propriedades magnéticas de certos núcleos atômicos, como o hidrogênio-1 ou carbono-13. Quando colocados em um forte campo magnético, esses núcleos podem absorver energia de radiofrequência e sofrer transições entre estados de spin. O espectro de RMN resultante fornece informações detalhadas sobre o ambiente químico dos núcleos, permitindo determinar a estrutura de moléculas orgânicas complexas. Sabia que a mesma física por trás da RMN analítica é usada na medicina para a imagem por ressonância magnética (MRI), que produz imagens detalhadas dos tecidos do corpo sem usar radiação ionizante?",
+    "palavras_chave": ["ressonância magnética", "rmn", "núcleos atômicos", "campo magnético", "estrutura molecular"]
+  },
+  {
+    "pergunta": "O que é a Espectrometria de Massas?",
+    "resposta": "A Espectrometria de Massas é uma técnica analítica que mede a relação massa-carga (m/z) de íons. O instrumento, o espectrômetro de massas, converte as moléculas da amostra em íons gasosos, separa esses íons com base em sua m/z e os detecta. O resultado é um espectro de massas que mostra a abundância relativa de cada íon versus m/z. Essa técnica é incrivelmente versátil: pode determinar massas moleculares precisas, identificar estruturas de moléculas complexas, detectar e quantificar traços de contaminantes e até mesmo datar rochas e fósseis. É usada em praticamente todas as áreas da química, da forense à exploração espacial.",
+    "palavras_chave": ["espectrometria de massas", "relação massa-carga", "íons", "identificação molecular", "análise qualitativa"]
+  },
+  {
+    "pergunta": "O que são Nanopartículas e por que têm propriedades especiais?",
+    "resposta": "Nanopartículas são partículas com dimensões entre 1 e 100 nanômetros. Nessa escala, os materiais começam a exibir propriedades radicalmente diferentes das que apresentam em macroescala, devido a dois efeitos principais: o aumento dramático da relação superfície/volume (tornando-as extremamente reativas) e o surgimento de efeitos quânticos. Por exemplo, nanopartículas de ouro podem ser vermelhas ou azuis, não douradas, e são catalisadores excelentes. Sabia que a natureza já usava nanotecnologia muito antes dos humanos? As cores vibrantes das asas de borboleta e das penas de pavão vêm da interação da luz com estruturas nanoscópicas, não de pigmentos.",
+    "palavras_chave": ["nanopartículas", "nanotecnologia", "efeitos quânticos", "superfície/volume", "propriedades especiais"]
+  },
+  {
+    "pergunta": "O que é a Catálise Homogênea e Heterogênea?",
+    "resposta": "Esta classificação diz respeito à fase em que o catalisador se encontra em relação aos reagentes. Na Catálise Homogênea, catalisador e reagentes estão na mesma fase (geralmente líquida). Um exemplo é a catálise ácida em solução aquosa. Já na Catálise Heterogênea, catalisador e reagentes estão em fases diferentes, tipicamente um catalisador sólido e reagentes gasosos ou em solução. O conversor catalítico dos carros é um exemplo clássico. A catálise heterogênea é geralmente preferida industrialmente porque o catalisador pode ser facilmente separado e reutilizado, enquanto a homogênea muitas vezes oferece maior seletividade.",
+    "palavras_chave": ["catálise homogênea", "catálise heterogênea", "fase", "conversor catalítico", "seletividade"]
+  },
+  {
+    "pergunta": "O que é a Eletrogravimetria?",
+    "resposta": "A Eletrogravimetria é uma técnica analítica quantitativa na qual o elemento a ser determinado é depositado eletroliticamente sobre um eletrodo de massa conhecida, e a massa do depósito é medida para calcular a concentração do elemento na amostra original. É um método extremamente preciso e seletivo, frequentemente usado como método padrão para análise de metais como cobre, chumbo e prata. O processo envolve controlar cuidadosamente o potencial do eletrodo para garantir que apenas o metal de interesse seja depositado. Após a eletrólise, o eletrodo é lavado, seco e pesado, e a diferença de massa corresponde à quantidade do metal na amostra.",
+    "palavras_chave": ["eletrogravimetria", "depósito eletrolítico", "análise quantitativa", "metais", "massa"]
+  },
+  {
+    "pergunta": "O que é a Polarografia?",
+    "resposta": "A Polarografia é um tipo de voltametria que usa um eletrodo de gota de mercúrio como eletrodo de trabalho. Desenvolvida por Jaroslav Heyrovský (que ganhou o Nobel por isso), ela mede a corrente que flui em função do potencial aplicado. A forma da curva corrente-potencial (polarograma) permite identificar e quantificar espécies eletroativas em solução. Cada espécie produz uma 'onda' em um potencial característico (potencial de meia-onda), e a altura da onda é proporcional à sua concentração. A polarografia foi revolucionária por permitir a detecção de traços de metais e é a precursora de muitas técnicas eletroanalíticas modernas.",
+    "palavras_chave": ["polarografia", "eletrodo de mercúrio", "heyrovský", "voltametria", "análise de traços"]
+  },
+  {
+    "pergunta": "O que é a Condutometria?",
+    "resposta": "A Condutometria é uma técnica eletroanalítica baseada na medida da condutividade elétrica de uma solução. Como a condutividade depende da concentração e mobilidade dos íons presentes, ela pode ser usada para monitorar reações que envolvem mudanças na concentração iônica. Uma aplicação clássica é nas titulações condutométricas, onde se mede a condutividade em função do volume de titulante adicionado. O ponto de equivalência é identificado por uma mudança abrupta na inclinação do gráfico. É particularmente útil para titulações de ácidos fracos com bases fracas, onde os indicadores visuais falham, e para analisar águas naturais e efluentes.",
+    "palavras_chave": ["condutometria", "condutividade", "titulação", "concentração iônica", "eletroanalítica"]
+  },
+  {
+    "pergunta": "O que é a Potenciometria?",
+    "resposta": "A Potenciometria é uma técnica eletroanalítica que mede a diferença de potencial (voltagem) entre dois eletrodos sob condições de corrente zero. O arranjo típico usa um eletrodo de referência (com potencial constante) e um eletrodo indicador (cujo potencial depende da concentração do analito). A aplicação mais conhecida é o pHmetro, onde o eletrodo de vidro funciona como eletrodo indicador sensível à concentração de H⁺. A relação entre potencial e concentração é dada pela equação de Nernst. A potenciometria é usada para medir concentrações de diversos íons, monitorar reações redox e detectar pontos finais em titulações potenciométricas.",
+    "palavras_chave": ["potenciometria", "potencial elétrico", "eletrodo indicador", "phmetro", "equação de nernst"]
+  },
+  {
+    "pergunta": "O que é a Coulometria?",
+    "resposta": "A Coulometria é uma técnica analítica baseada na medida da quantidade de eletricidade (carga, em coulombs) necessária para completar uma reação eletroquímica envolvendo o analito. Pela Lei de Faraday, a quantidade de substância eletrolisada é diretamente proporcional à quantidade de eletricidade usada. Na coulometria a potencial controlado, o potencial é mantido constante para garantir que apenas o analito reaja. Na coulometria a corrente controlada, uma corrente constante é aplicada e mede-se o tempo até a reação completar. É um método absoluto que não requer calibração com padrões e é extremamente preciso para determinar quantidades muito pequenas de substâncias.",
+    "palavras_chave": ["coulometria", "coulombs", "lei de faraday", "quantidade de eletricidade", "método absoluto"]
+  },
+  {
+    "pergunta": "O que é a Termogravimetria?",
+    "resposta": "A Termogravimetria é uma técnica analítica que mede a variação de massa de uma amostra em função da temperatura (ou do tempo) sob uma atmosfera controlada. O instrumento usado é uma balança termogravimétrica. Ela é particularmente útil para estudar processos como decomposição térmica, oxidação, dessorção e perda de solventes. A curva resultante (termograma) mostra etapas de perda de massa que correspondem a diferentes eventos térmicos. Por exemplo, pode-se determinar o conteúdo de umidade e cinzas em materiais, estudar a estabilidade térmica de polímeros ou analisar a decomposição de minerais. É uma ferramenta valiosa na caracterização de materiais.",
+    "palavras_chave": ["termogravimetria", "variação de massa", "temperatura", "decomposição térmica", "análise térmica"]
+  },
+  {
+    "pergunta": "O que é a Calorimetria de Varrimento Diferencial?",
+    "resposta": "A Calorimetria de Varrimento Diferencial é uma técnica que mede a diferença de calor necessário para aumentar a temperatura de uma amostra e de uma referência em função da temperatura. Quando a amostra sofre uma transição de fase (como fusão, cristalização ou transição vítrea) que absorve ou libera calor, isso aparece como um pico no termograma. O DSC é amplamente usado para determinar temperaturas de transição, entalpias de fusão, capacidades caloríficas e pureza de compostos. Na ciência dos polímeros, é indispensável para estudar transições vítreas e cristalinidade. Sabia que farmacêuticos usam DSC para detectar diferentes formas polimórficas de um medicamento, que podem ter diferentes biodisponibilidades?",
+    "palavras_chave": ["calorimetria diferencial", "dsc", "transição de fase", "entalpia", "análise térmica"]
+  },
+  {
+    "pergunta": "O que é a Espectroscopia Fotoeletrônica de Raios-X?",
+    "resposta": "A Espectroscopia Fotoeletrônica de Raios-X é uma técnica de superfície que usa o efeito fotoelétrico para estudar a composição elementar e o estado químico dos elementos na superfície de um material. Raios-X de energia conhecida incidem sobre a amostra, ejetando elétrons internos (elétrons de core). A energia cinética desses elétrons ejetados é medida, e pela equação de Einstein do efeito fotoelétrico, calcula-se a energia de ligação dos elétrons. Como a energia de ligação é característica de cada elemento e sensível ao seu ambiente químico, a XPS pode identificar elementos presentes e fornecer informações sobre ligações químicas e estados de oxidação. É uma das técnicas mais importantes para caracterização de superfícies.",
+    "palavras_chave": ["espectroscopia fotoeletrônica", "xps", "superfície", "energia de ligação", "composição elementar"]
+  },
+  {
+    "pergunta": "O que é a Espectroscopia de Infravermelho com Transformada de Fourier?",
+    "resposta": "A Espectroscopia de Infravermelho com Transformada de Fourier é uma versão moderna e muito mais rápida e sensível da espectroscopia IR tradicional. Em vez de fazer varredura através de cada comprimento de onda individualmente, o FT-IR mede todo o espectro infravermelho simultaneamente usando um interferômetro. Um computador então aplica uma transformada matemática (a Transformada de Fourier) ao interferograma resultante para obter o espectro convencional. As vantagens incluem maior velocidade, melhor relação sinal/ruído e alta precisão de comprimento de onda. O FT-IR é amplamente usado para identificar grupos funcionais em moléculas orgânicas, analisar polímeros, estudar proteínas e fazer análises qualitativas e quantitativas rotineiras.",
+    "palavras_chave": ["ft-ir", "infravermelho", "transformada de fourier", "interferômetro", "grupos funcionais"]
+  },
+  {
+    "pergunta": "O que é a Difração de Raios-X?",
+    "resposta": "A Difração de Raios-X é uma técnica poderosa para determinar a estrutura atômica de materiais cristalinos. Quando um feixe de raios-X incide sobre um cristal, os átomos no cristal espalham os raios-X. Essas ondas espalhadas interferem umas com as outras, produzindo padrões de difração construtiva apenas em direções específicas, de acordo com a Lei de Bragg. Analisando as posições e intensidades desses picos de difração, pode-se deduzir a disposição dos átomos no cristal, incluindo distâncias interatômicas e ângulos de ligação. A difração de raios-X revolucionou a química e a biologia, permitindo determinar as estruturas de moléculas complexas, desde sais simples até proteínas e DNA.",
+    "palavras_chave": ["difração de raios-x", "estrutura cristalina", "lei de bragg", "arranjo atômico", "materiais cristalinos"]
+  }
+]

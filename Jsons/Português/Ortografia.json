@@ -1,0 +1,462 @@
+[
+  {
+    "pergunta": "O que é ortografia?",
+    "resposta": "Ortografia é o conjunto de regras que define a forma correta de escrever as palavras em uma língua. Por exemplo, escrevemos 'exceção' com 'x' e 'ç', e não 'eseção'. Essas regras garantem unidade e compreensão entre falantes. Sabia que a palavra 'ortografia' vem do grego 'orthós' (correto) e 'gráphein' (escrever)?",
+    "palavras_chave": ["ortografia", "regras", "correto", "unidade", "escrever"]
+  },
+  {
+    "pergunta": "O que é acentuação gráfica?",
+    "resposta": "Acentuação gráfica indica a tonicidade e a pronúncia das palavras, diferenciando casos como 'avó' e 'avô'. Ela também ajuda a evitar ambiguidades, como 'pôde' (passado) e 'pode' (presente). Sabia que, no português, a acentuação foi padronizada em 1990 com o Acordo Ortográfico da Língua Portuguesa?",
+    "palavras_chave": ["acentuação", "tônica", "pronúncia", "ambiguidade", "acordo"]
+  },
+  {
+    "pergunta": "Por que usamos o acento agudo?",
+    "resposta": "O acento agudo marca a sílaba tônica e indica vogais abertas, como em 'café' ou 'avó'. Também diferencia palavras homônimas, como 'avó' e 'avô'. Sabia que, em espanhol, o acento agudo cumpre a mesma função e é chamado de 'tilde'?",
+    "palavras_chave": ["acento agudo", "tônica", "vogais abertas", "diferença", "homônimos"]
+  },
+  {
+    "pergunta": "Por que usamos o acento circunflexo?",
+    "resposta": "O acento circunflexo marca vogais fechadas e a tonicidade, como em 'avô' e 'você'. Ele também distingue palavras como 'pôde' (pretérito) e 'pode' (presente). Sabia que o nome 'circunflexo' vem do latim 'circumflexus', que significa 'dobrado ao redor'?",
+    "palavras_chave": ["acento circunflexo", "vogais fechadas", "tônica", "diferença", "latim"]
+  },
+  {
+    "pergunta": "O que é o acento grave?",
+    "resposta": "O acento grave indica a fusão de duas vogais idênticas, marcando a crase em construções como 'à escola'. Ele não altera a pronúncia, mas aponta o fenômeno de contração. Sabia que apenas a língua portuguesa usa o acento grave para marcar crase entre artigos e preposições?",
+    "palavras_chave": ["acento grave", "crase", "contração", "preposição", "artigo"]
+  },
+  {
+    "pergunta": "O que é o trema?",
+    "resposta": "O trema (¨) indicava que o 'u' deveria ser pronunciado em dígrafos como 'tranquilo' ou 'linguiça'. Após o Acordo Ortográfico de 2009, ele deixou de ser usado, mas a pronúncia continua a mesma. Sabia que, no alemão, o trema ainda é usado em vogais como 'ü' e 'ö'?",
+    "palavras_chave": ["trema", "u pronunciado", "dígrafo", "acordo ortográfico", "alemão"]
+  },
+  {
+    "pergunta": "O que são dígrafos?",
+    "resposta": "Dígrafos são combinações de duas letras que representam um único som, como 'ch' em 'chuva' ou 'lh' em 'milho'. Nem sempre duas letras significam dois sons distintos. Sabia que o português tem mais de 15 dígrafos, incluindo 'nh', 'ss' e 'rr'?",
+    "palavras_chave": ["dígrafos", "som único", "chuva", "milho", "ortografia"]
+  },
+  {
+    "pergunta": "Qual a diferença entre dígrafo e encontro consonantal?",
+    "resposta": "No dígrafo, duas letras representam um só som, como 'ch' em 'chave'. Já no encontro consonantal, duas consoantes aparecem juntas, mas cada uma mantém seu som, como 'pr' em 'prato'. Sabia que essa distinção ajuda na separação silábica correta das palavras?",
+    "palavras_chave": ["dígrafo", "encontro consonantal", "som", "separação silábica", "ortografia"]
+  },
+  {
+    "pergunta": "O que são homônimos?",
+    "resposta": "Homônimos são palavras iguais na escrita ou na pronúncia, mas com significados diferentes, como 'manga' (fruta ou parte da roupa). Eles podem ser perfeitos (mesma grafia e som) ou homófonos/homógrafos. Sabia que os homônimos são fonte comum de trocadilhos em piadas e literatura?",
+    "palavras_chave": ["homônimos", "palavras iguais", "significados", "trocadilhos", "literatura"]
+  },
+  {
+    "pergunta": "O que são parônimos?",
+    "resposta": "Parônimos são palavras parecidas na escrita ou no som, mas com significados diferentes, como 'comprar' e 'comparar'. Erros com parônimos são comuns em redações. Sabia que existe até dicionário específico só de parônimos para consulta rápida?",
+    "palavras_chave": ["parônimos", "palavras parecidas", "significados", "erros", "dicionário"]
+  },
+  {
+    "pergunta": "Por que 'haver' e 'a ver' confundem tanto?",
+    "resposta": "O verbo 'haver' significa existir ou ocorrer, como em 'Houve problemas'. Já 'a ver' indica relação, como 'Isso não tem nada a ver'. Sabia que esse é um dos erros mais cobrados em concursos e vestibulares?",
+    "palavras_chave": ["haver", "a ver", "existir", "relação", "erros"]
+  },
+  {
+    "pergunta": "Qual a diferença entre 'mal' e 'mau'?",
+    "resposta": "‘Mal’ é advérbio e significa o contrário de bem, como em 'Ele acordou mal'. Já 'mau' é adjetivo e significa o contrário de bom, como 'Ele é um mau aluno'. Sabia que existe a frase-mnemônica 'Mau é o contrário de bom, mal é o contrário de bem'?",
+    "palavras_chave": ["mal", "mau", "advérbio", "adjetivo", "diferença"]
+  },
+  {
+    "pergunta": "Qual a diferença entre 'por que' e 'porque'?",
+    "resposta": "'Por que' separado é usado em perguntas, como 'Por que você veio?'. Já 'porque' junto é resposta, como 'Não fui porque estava chovendo'. Existem ainda 'porquê' (substantivo) e 'por quê' (quando a palavra fica isolada). Sabia que o espanhol também usa variações parecidas com 'por qué'?",
+    "palavras_chave": ["por que", "porque", "pergunta", "resposta", "variações"]
+  },
+  {
+    "pergunta": "Por que 'sessão', 'seção' e 'cessão' causam dúvidas?",
+    "resposta": "'Sessão' é reunião ou espetáculo, 'seção' é divisão ou departamento, e 'cessão' é ato de ceder. Embora soem iguais, cada uma tem origem diferente no latim. Sabia que 'sessão' vem de 'sessio', que significa 'sentar-se'?",
+    "palavras_chave": ["sessão", "seção", "cessão", "diferença", "latim"]
+  },
+  {
+    "pergunta": "Qual a diferença entre 'onde' e 'aonde'?",
+    "resposta": "'Onde' indica lugar fixo, como 'Onde você está?'. Já 'aonde' sugere movimento, como 'Aonde vamos hoje?'. Sabia que o 'a' de 'aonde' já traz a ideia de direção, facilitando a memorização?",
+    "palavras_chave": ["onde", "aonde", "lugar", "movimento", "diferença"]
+  },
+  {
+    "pergunta": "Por que 'mas' e 'mais' confundem tanto?",
+    "resposta": "'Mas' é conjunção adversativa, como 'Queria sair, mas chovia'. Já 'mais' indica quantidade ou intensidade, como 'Quero mais água'. Sabia que existe uma frase de apoio: 'Mas é oposição, mais é adição'?",
+    "palavras_chave": ["mas", "mais", "diferença", "oposição", "quantidade"]
+  },
+  {
+    "pergunta": "O que é hífen?",
+    "resposta": "O hífen une palavras compostas ou divide sílabas no final de linhas. Após o Acordo Ortográfico, seu uso mudou em casos como 'autoescola' (sem hífen) e 'bem-vindo' (com hífen). Sabia que o hífen vem do grego 'hyphén', que significa 'juntos'?",
+    "palavras_chave": ["hífen", "palavras compostas", "acordo ortográfico", "unir", "grego"]
+  },
+  {
+    "pergunta": "O que é grafia etimológica?",
+    "resposta": "Grafia etimológica é quando mantemos a escrita de acordo com a origem da palavra, como 'haver' (do latim 'habere'). Muitas vezes isso explica o uso do 'h' inicial. Sabia que no português medieval escrevia-se 'fazer' como 'facere', mais próximo do latim?",
+    "palavras_chave": ["grafia etimológica", "origem", "latim", "h inicial", "história"]
+  },
+  {
+    "pergunta": "O que é ortografia oficial?",
+    "resposta": "Ortografia oficial é o conjunto de regras fixadas por gramáticas e acordos internacionais, garantindo unidade entre os países que falam português. É por isso que o Brasil e Portugal seguem a mesma norma após o Acordo Ortográfico. Sabia que a Academia Brasileira de Letras é responsável por zelar pela ortografia no Brasil?",
+    "palavras_chave": ["ortografia oficial", "regras", "acordo", "unidade", "ABL"]
+  },
+  {
+    "pergunta": "Qual a diferença entre 'em vez de' e 'ao invés de'?",
+    "resposta": "'Em vez de' significa substituição, como 'Em vez de estudar, jogou'. Já 'ao invés de' indica oposição, como 'Ao invés de descer, subiu'. Sabia que essa confusão é tão comum que até autores renomados já cometeram o erro?",
+    "palavras_chave": ["em vez de", "ao invés de", "diferença", "substituição", "oposição"]
+  },
+  {
+    "pergunta": "Por que algumas palavras têm letra muda?",
+    "resposta": "Algumas palavras mantêm letras que não são mais pronunciadas, como o 'h' em 'homem'. Isso se deve à origem histórica da palavra. Sabia que em francês muitas letras mudas também permanecem para preservar a etimologia?",
+    "palavras_chave": ["letra muda", "origem histórica", "h", "homem", "etimologia"]
+  },
+  {
+    "pergunta": "O que é dupla grafia?",
+    "resposta": "Dupla grafia ocorre quando duas formas de uma mesma palavra são aceitas, como 'tátil' e 'tátil'. Algumas vezes há preferência regional ou histórica. Sabia que o Acordo Ortográfico reduziu, mas não eliminou, os casos de dupla grafia?",
+    "palavras_chave": ["dupla grafia", "variação", "aceitação", "acordo", "regionalismo"]
+  },
+  {
+    "pergunta": "Por que 'meia' e 'meio' geram confusão?",
+    "resposta": "‘Meio’ é advérbio e significa 'um pouco', como em 'Estou meio cansado'. Já 'meia' é numeral feminino, como 'Meia hora de atraso'. Sabia que essa confusão aparece até em músicas populares brasileiras?",
+    "palavras_chave": ["meia", "meio", "advérbio", "numeral", "diferença"]
+  },
+  {
+    "pergunta": "O que são palavras homófonas?",
+    "resposta": "Palavras homófonas têm a mesma pronúncia, mas escrita diferente, como 'cela' e 'sela'. Elas podem gerar ambiguidades na oralidade, mas não na escrita. Sabia que muitas piadas se apoiam em homofonia para criar duplo sentido?",
+    "palavras_chave": ["homófonas", "mesma pronúncia", "escrita diferente", "ambiguidades", "piadas"]
+  },
+  {
+    "pergunta": "O que são palavras homógrafas?",
+    "resposta": "Palavras homógrafas são aquelas que têm a mesma grafia, mas pronúncia ou significado diferentes. Por exemplo, 'sede' pode ser o desejo de beber água ou o local de uma instituição. Sabia que, na poesia, escritores brincam muito com homógrafos para criar duplo sentido?",
+    "palavras_chave": ["homógrafas", "mesma grafia", "pronúncia diferente", "duplo sentido", "poesia"]
+  },
+  {
+    "pergunta": "Qual a diferença entre 'viajem' e 'viagem'?",
+    "resposta": "'Viagem' é substantivo, como em 'A viagem foi longa'. Já 'viajem' é forma verbal do verbo viajar, como em 'Que eles viajem amanhã'. Sabia que a maioria das pessoas só usa 'viagem', o que faz o erro de grafia ser muito comum?",
+    "palavras_chave": ["viagem", "viajem", "diferença", "substantivo", "verbo"]
+  },
+  {
+    "pergunta": "O que é um estrangeirismo na ortografia?",
+    "resposta": "Estrangeirismo é a incorporação de palavras de outras línguas ao português, como 'shopping' ou 'delivery'. Muitas vezes, elas convivem com traduções equivalentes, como 'centro comercial'. Sabia que a palavra 'futebol' é uma adaptação fonética do inglês 'football'?",
+    "palavras_chave": ["estrangeirismo", "palavras estrangeiras", "shopping", "delivery", "adaptação"]
+  },
+  {
+    "pergunta": "Qual a função do til na ortografia?",
+    "resposta": "O til (~) indica nasalização das vogais, como em 'pão' ou 'irmã'. Ele surgiu na escrita medieval como um pequeno 'n' sobreposto às vogais. Sabia que, em espanhol, a letra 'ñ' nasceu dessa mesma convenção gráfica?",
+    "palavras_chave": ["til", "nasalização", "vogais", "irmã", "história"]
+  },
+  {
+    "pergunta": "O que é ortoépia?",
+    "resposta": "Ortoépia é a pronúncia correta das palavras, de acordo com a norma culta. Um exemplo é dizer 'rúbrica' (com o acento na primeira sílaba) em vez de 'rubríca'. Sabia que muitas divergências regionais do Brasil envolvem justamente a ortoépia?",
+    "palavras_chave": ["ortoépia", "pronúncia correta", "rúbrica", "norma culta", "variação regional"]
+  },
+  {
+    "pergunta": "O que é prosódia?",
+    "resposta": "Prosódia é o estudo da correta entonação e acentuação das palavras. Por exemplo, 'rúbrica' tem acento na primeira sílaba, mas muitos brasileiros falam 'rubríca'. Sabia que o 'Dicionário de Prosódia' já foi muito usado em escolas para evitar erros?",
+    "palavras_chave": ["prosódia", "pronúncia", "acentuação", "entonação", "dicionário"]
+  },
+  {
+    "pergunta": "Qual a diferença entre ortoépia e prosódia?",
+    "resposta": "A ortoépia foca na pronúncia correta dos sons, enquanto a prosódia analisa a tonicidade e a entonação da fala. Juntas, garantem que o português seja falado sem desvios da norma culta. Sabia que a palavra 'prosódia' vem do grego e significa 'canto acompanhado'?",
+    "palavras_chave": ["ortoépia", "prosódia", "diferença", "pronúncia", "tonicidade"]
+  },
+  {
+    "pergunta": "Por que algumas palavras têm grafias diferentes em Portugal e no Brasil?",
+    "resposta": "Diferenças históricas e fonéticas levaram a grafias distintas, como 'fato' (Brasil) e 'facto' (Portugal). O Acordo Ortográfico de 2009 reduziu essas diferenças, mas não as eliminou totalmente. Sabia que até o século XIX, cada tipografia podia registrar palavras com ortografia própria?",
+    "palavras_chave": ["grafia diferente", "Portugal", "Brasil", "acordo ortográfico", "história"]
+  },
+  {
+    "pergunta": "O que é etimologia e sua relação com a ortografia?",
+    "resposta": "Etimologia é o estudo da origem das palavras, e muitas vezes explica por que certas letras aparecem na ortografia atual. Por exemplo, 'psicologia' mantém o 'p' por influência do grego, embora não seja pronunciado. Sabia que conhecer a etimologia ajuda muito a evitar erros ortográficos?",
+    "palavras_chave": ["etimologia", "origem", "palavras", "psicologia", "ortografia"]
+  },
+  {
+    "pergunta": "Por que 'exceção' se escreve com 'x' e 'ç'?",
+    "resposta": "A palavra 'exceção' vem do latim 'exceptione', com 'x' e 't', que evoluiu para o 'ç' em português. É por isso que não se escreve 'eseção'. Sabia que palavras derivadas de 'excipere' no latim mantêm esse padrão em várias línguas?",
+    "palavras_chave": ["exceção", "grafia correta", "latim", "evolução", "erro comum"]
+  },
+  {
+    "pergunta": "Por que escrevemos 'gelo' com 'g' e não com 'j'?",
+    "resposta": "A palavra 'gelo' vem do latim 'gelu', por isso a letra 'g' foi mantida. A pronúncia suave do 'g' diante de 'e' e 'i' gera confusão, mas a ortografia conserva a etimologia. Sabia que em italiano 'gelo' também significa frio e se escreve igual ao português?",
+    "palavras_chave": ["gelo", "grafia", "latim", "pronúncia", "etimologia"]
+  },
+  {
+    "pergunta": "Qual a diferença entre 'conserto' e 'concerto'?",
+    "resposta": "'Conserto' significa reparo, como em 'O mecânico fez o conserto do carro'. Já 'concerto' é apresentação musical, como 'O concerto foi emocionante'. Sabia que ambos vêm do latim 'concertare', mas ganharam sentidos distintos?",
+    "palavras_chave": ["conserto", "concerto", "diferença", "latim", "significados"]
+  },
+  {
+    "pergunta": "O que são palavras arcaicas na ortografia?",
+    "resposta": "Palavras arcaicas são termos que caíram em desuso, mas podem aparecer em textos antigos ou literários, como 'cousa' no lugar de 'coisa'. Sabia que Machado de Assis usava muitas palavras arcaicas em suas obras para dar estilo e sofisticação?",
+    "palavras_chave": ["palavras arcaicas", "cousa", "literatura", "machado de assis", "ortografia"]
+  },
+  {
+    "pergunta": "O que são regionalismos na ortografia?",
+    "resposta": "Regionalismos são variações de vocabulário e, às vezes, de grafia entre diferentes regiões, como 'bergamota' no Sul e 'mexerica' no Sudeste. Embora a ortografia oficial seja única, os regionalismos enriquecem a língua. Sabia que existem mais de 20 palavras diferentes para se referir ao pão francês no Brasil?",
+    "palavras_chave": ["regionalismos", "bergamota", "mexerica", "variação", "vocabulário"]
+  },
+  {
+    "pergunta": "Por que 'recepção' tem 'ç' e não 'ss'?",
+    "resposta": "A palavra 'recepção' vem do latim 'receptione', onde o 't' evoluiu para 'ç' em português. Já o 'ss' é usado em palavras derivadas de 's' simples entre vogais. Sabia que a etimologia é o critério que explica quase todos esses casos de dúvida?",
+    "palavras_chave": ["recepção", "grafia", "latim", "ç", "ortografia"]
+  },
+  {
+    "pergunta": "O que são neologismos ortográficos?",
+    "resposta": "Neologismos são palavras novas criadas para nomear fenômenos atuais, como 'selfie' ou 'blogueiro'. Muitas vezes, começam como estrangeirismos até serem adaptadas à ortografia oficial. Sabia que 'internetês' também criou centenas de neologismos usados na comunicação digital?",
+    "palavras_chave": ["neologismos", "palavras novas", "selfie", "blogueiro", "internetês"]
+  },
+  {
+    "pergunta": "O que é ortografia fonética?",
+    "resposta": "Ortografia fonética é quando a escrita corresponde diretamente à pronúncia. O português não é totalmente fonético, mas línguas como o espanhol se aproximam mais desse padrão. Sabia que o alfabeto fonético internacional (AFI) foi criado justamente para padronizar sons de todas as línguas?",
+    "palavras_chave": ["ortografia fonética", "pronúncia", "espanhol", "AFI", "escrita"]
+  },
+  {
+    "pergunta": "O que é ortografia ideográfica?",
+    "resposta": "Ortografia ideográfica é aquela que usa símbolos ou caracteres para representar ideias, como no chinês. Embora o português não seja ideográfico, usamos símbolos como '&' e '@' com valor ortográfico em certos contextos. Sabia que o símbolo '&' vem da junção das letras 'e' e 't', do latim 'et'?",
+    "palavras_chave": ["ortografia ideográfica", "símbolos", "chinês", "et", "ampersand"]
+  },
+  {
+    "pergunta": "Por que 'quiser' se escreve com 's' e não com 'z'?",
+    "resposta": "A palavra 'quiser' vem do latim 'quaesierit', com 's' na raiz, e por isso mantém essa grafia. O som pode enganar, mas a etimologia é o critério decisivo. Sabia que palavras derivadas de 'querer' sempre terão 's', como 'quisermos'?",
+    "palavras_chave": ["quiser", "grafia correta", "latim", "etimologia", "ortografia"]
+  },
+  {
+    "pergunta": "Qual a diferença entre 'descrição' e 'discrição'?",
+    "resposta": "'Descrição' é o ato de descrever, como em 'A descrição da paisagem'. Já 'discrição' é a qualidade de ser discreto, como 'Agir com discrição'. Sabia que muitas pessoas confundem essas palavras até em documentos oficiais?",
+    "palavras_chave": ["descrição", "discrição", "diferença", "erros", "confusão"]
+  },
+  {
+    "pergunta": "O que são palavras derivadas por sufixação?",
+    "resposta": "São palavras formadas pela adição de sufixos à raiz, como 'felizmente' a partir de 'feliz'. A ortografia acompanha essas formações sem grandes alterações na raiz. Sabia que muitos sufixos latinos, como '-mente', ainda se mantêm produtivos no português?",
+    "palavras_chave": ["sufixação", "palavras derivadas", "felizmente", "latim", "formação"]
+  },
+  {
+    "pergunta": "Qual a diferença entre 'comprimento' e 'cumprimento'?",
+    "resposta": "'Comprimento' é a medida de algo, como 'O comprimento da mesa'. Já 'cumprimento' é o ato de saudar ou de cumprir, como 'Um cumprimento educado'. Sabia que a confusão entre essas palavras é uma das mais registradas em provas de vestibular?",
+    "palavras_chave": ["comprimento", "cumprimento", "diferença", "medida", "saudação"]
+  },
+  {
+    "pergunta": "O que é ortografia simplificada?",
+    "resposta": "Ortografia simplificada é quando se tenta aproximar a escrita da pronúncia para facilitar o aprendizado, como já ocorreu em reformas linguísticas. No Brasil, a simplificação ocorreu em 1943 e depois em 1971. Sabia que alguns linguistas defendem novas simplificações para tornar o português mais acessível?",
+    "palavras_chave": ["ortografia simplificada", "reforma", "aprendizado", "1943", "1971"]
+  },
+  {
+    "pergunta": "O que é coesão textual?",
+    "resposta": "A coesão textual é o mecanismo linguístico que conecta as partes de um texto, garantindo que ideias, frases e parágrafos se encadeiem de maneira lógica e fluida. Isso é feito por meio de pronomes, conectivos, advérbios, sinônimos e repetições controladas. Por exemplo: 'Maria comprou um livro. Ela o leu em dois dias.' O pronome 'ela' retoma o sujeito 'Maria', criando coesão. Sabia que a palavra 'coesão' vem do latim 'cohaesio', que significa 'ato de unir ou ligar'?",
+    "palavras_chave": ["coesão textual", "ligação ideias", "pronomes", "conectivos", "texto fluido"]
+  },
+  {
+    "pergunta": "O que é coerência textual?",
+    "resposta": "A coerência textual é a qualidade que garante o sentido global de um texto, fazendo com que todas as partes contribuam para uma mensagem compreensível. Enquanto a coesão trata das conexões linguísticas, a coerência diz respeito ao conteúdo e à lógica interna. Por exemplo, seria incoerente escrever: 'Ele estava com frio, então vestiu uma camiseta regata.' Sabia que a coerência é avaliada no ENEM como parte da competência de estruturação de ideias? ",
+    "palavras_chave": ["coerência textual", "sentido global", "lógica interna", "ENEM", "organização"]
+  },
+  {
+    "pergunta": "Qual a diferença entre coesão e coerência?",
+    "resposta": "A coesão textual está ligada à gramática e à forma, utilizando recursos linguísticos como conectivos e pronomes para ligar frases e parágrafos. Já a coerência textual relaciona-se ao conteúdo e ao sentido, garantindo que as ideias apresentadas sejam compreensíveis e lógicas. Um texto pode ser coeso, mas não coerente, como em: 'O gato é verde porque voou para Paris.' Aqui há ligação entre frases, mas o sentido é absurdo. Sabia que a metáfora do 'fio condutor' é usada para representar a coerência? ",
+    "palavras_chave": ["coesão vs coerência", "diferença textual", "conectivos", "sentido lógico", "organização textual"]
+  },
+  {
+    "pergunta": "O que é intertextualidade?",
+    "resposta": "Intertextualidade é a relação que um texto estabelece com outro, seja por citação direta, referência ou inspiração. Isso ocorre em músicas, propagandas, redações e obras literárias. Por exemplo, o título 'Dom Casmurro no século XXI' faria referência clara à obra de Machado de Assis. Sabia que Roland Barthes, crítico francês do século vinte, foi um dos grandes estudiosos da intertextualidade? ",
+    "palavras_chave": ["intertextualidade", "referência textual", "Machado de Assis", "citação", "diálogo entre textos"]
+  },
+  {
+    "pergunta": "O que é paráfrase em um texto?",
+    "resposta": "Paráfrase é a reescrita de uma ideia com outras palavras, mantendo o mesmo sentido. É um recurso útil em redações para evitar plágio e enriquecer o texto. Por exemplo: frase original — 'A leitura amplia o conhecimento'; paráfrase — 'Ler é uma forma de expandir o saber'. Sabia que a palavra 'paráfrase' vem do grego 'paraphrasis', que significa 'explicação ao lado'? ",
+    "palavras_chave": ["paráfrase", "reescrita", "mesmo sentido", "evitar plágio", "redação"]
+  },
+  {
+    "pergunta": "O que é citação indireta?",
+    "resposta": "Citação indireta é quando o autor de um texto reproduz a ideia de outra pessoa com suas próprias palavras, sem usar aspas. Por exemplo: em vez de escrever 'Einstein disse: “A imaginação é mais importante que o conhecimento”', pode-se escrever 'Einstein defendia que a imaginação superava o conhecimento'. Sabia que a citação indireta é muito valorizada no ENEM porque mostra capacidade de interpretação? ",
+    "palavras_chave": ["citação indireta", "reescrever ideias", "sem aspas", "ENEM", "interpretação"]
+  },
+  {
+    "pergunta": "O que é citação direta curta?",
+    "resposta": "Citação direta curta é a reprodução literal das palavras de um autor, com até três linhas, inserida no corpo do texto e entre aspas. Por exemplo: 'A imaginação é mais importante que o conhecimento', afirmou Einstein. Sabia que a ABNT (Associação Brasileira de Normas Técnicas) define a formatação dessas citações em trabalhos acadêmicos? ",
+    "palavras_chave": ["citação direta", "até três linhas", "aspas", "ABNT", "redação acadêmica"]
+  },
+  {
+    "pergunta": "O que é citação direta longa?",
+    "resposta": "Citação direta longa é a transcrição literal de um trecho com mais de três linhas. Nesses casos, o texto deve ser destacado em parágrafo separado, com recuo, espaçamento menor e sem aspas, seguindo normas da ABNT. Esse formato é comum em trabalhos científicos, mas não recomendado em redações do ENEM, por ocupar espaço demais. Sabia que, em artigos acadêmicos, as citações longas geralmente representam menos de trinta por cento do trabalho total? ",
+    "palavras_chave": ["citação direta longa", "mais de três linhas", "ABNT", "artigo científico", "trabalhos acadêmicos"]
+  },
+  {
+    "pergunta": "O que é progressão textual?",
+    "resposta": "Progressão textual é a capacidade de desenvolver novas informações a cada parte do texto, evitando repetição desnecessária e monotonia. Isso garante que o texto avance de maneira natural e envolvente. Por exemplo: em uma redação sobre meio ambiente, o primeiro parágrafo pode apresentar o problema, o segundo discutir causas e o terceiro propor soluções. Sabia que a falta de progressão é uma das principais causas de notas baixas no ENEM? ",
+    "palavras_chave": ["progressão textual", "desenvolvimento ideias", "avançar conteúdo", "ENEM", "estrutura redação"]
+  },
+  {
+    "pergunta": "O que é um período composto?",
+    "resposta": "Período composto é a frase que contém duas ou mais orações, podendo ser coordenadas ou subordinadas. Por exemplo: 'Estudei muito e passei no exame' (orações coordenadas); 'Estudei muito porque queria passar no exame' (orações subordinadas). Sabia que o uso de períodos compostos enriquece a redação, mostrando domínio da sintaxe? ",
+    "palavras_chave": ["período composto", "orações coordenadas", "orações subordinadas", "sintaxe", "redação"]
+  },
+  {
+    "pergunta": "O que é um período simples?",
+    "resposta": "Período simples é a frase formada por apenas uma oração, contendo sujeito e predicado. Por exemplo: 'O sol nasceu'. Apesar de ser mais direto, o excesso de períodos simples pode deixar um texto repetitivo e pobre. Sabia que textos jornalísticos, para garantir objetividade, costumam preferir períodos simples? ",
+    "palavras_chave": ["período simples", "uma oração", "sujeito e predicado", "texto objetivo", "jornalismo"]
+  },
+  {
+    "pergunta": "O que é polissemia?",
+    "resposta": "Polissemia é a capacidade de uma palavra ter múltiplos significados dependendo do contexto. Por exemplo: 'banco' pode significar instituição financeira ou assento. Em redações, é importante usar palavras polissêmicas com cuidado para evitar ambiguidades. Sabia que 'manga' é um dos exemplos mais famosos da polissemia no português, podendo ser fruta ou parte da camisa? ",
+    "palavras_chave": ["polissemia", "múltiplos significados", "banco", "ambiguidade", "manga"]
+  },
+  {
+    "pergunta": "O que é denotação?",
+    "resposta": "Denotação é o uso de uma palavra em seu sentido literal, objetivo, sem carregar interpretações adicionais. Por exemplo: 'O céu está azul' significa apenas que a cor do céu é azul. Esse uso é comum em textos jornalísticos e científicos. Sabia que a palavra 'denotação' vem do latim 'denotare', que significa 'designar claramente'? ",
+    "palavras_chave": ["denotação", "sentido literal", "objetividade", "jornalismo", "científico"]
+  },
+  {
+    "pergunta": "O que é conotação?",
+    "resposta": "Conotação é o uso de palavras em sentido figurado, simbólico ou subjetivo. Por exemplo: 'Ele tem coração de pedra' não significa literalmente um coração físico de pedra, mas sim uma pessoa insensível. Textos literários exploram amplamente a conotação. Sabia que a publicidade também usa a conotação para criar slogans impactantes? ",
+    "palavras_chave": ["conotação", "sentido figurado", "literatura", "slogans publicitários", "subjetividade"]
+  },
+  {
+    "pergunta": "O que é parábola em textos?",
+    "resposta": "Parábola é uma narrativa alegórica que transmite ensinamentos morais ou espirituais por meio de metáforas. Muito usada em textos religiosos e literários, como as parábolas contadas por Jesus no Novo Testamento. Por exemplo, a 'Parábola do Filho Pródigo' ensina sobre perdão e misericórdia. Sabia que a palavra parábola vem do grego 'parabolé', que significa 'comparação'? ",
+    "palavras_chave": ["parábola", "narrativa alegórica", "ensinamento moral", "Novo Testamento", "literatura"]
+  },
+  {
+    "pergunta": "O que é alegoria em textos?",
+    "resposta": "Alegoria é uma figura de linguagem em que um conjunto de elementos do texto representa uma ideia abstrata. Um exemplo famoso é 'A Divina Comédia', de Dante Alighieri, que representa a jornada espiritual da alma. Sabia que alegorias eram muito usadas na Idade Média para transmitir mensagens religiosas e filosóficas ao público que não sabia ler? ",
+    "palavras_chave": ["alegoria", "figura linguagem", "ideia abstrata", "Divina Comédia", "Idade Média"]
+  },
+  {
+    "pergunta": "O que é um parágrafo tópico-frase?",
+    "resposta": "Parágrafo tópico-frase é aquele que começa apresentando claramente a ideia principal, que será desenvolvida nas frases seguintes. Esse modelo facilita a leitura e a organização do texto. Por exemplo: 'A educação é fundamental para o progresso social. Isso porque...'. Sabia que esse tipo de estrutura é muito valorizado em provas como o ENEM? ",
+    "palavras_chave": ["parágrafo tópico-frase", "ideia principal", "organização textual", "ENEM", "clareza"]
+  },
+  {
+    "pergunta": "O que é uma redação de causa e consequência?",
+    "resposta": "Redação de causa e consequência analisa os motivos que levam a um problema e as consequências resultantes dele. Por exemplo, no tema 'uso excessivo de celulares', pode-se discutir como a facilidade de acesso às redes sociais causa vício e prejudica o sono, e como isso gera impactos na saúde mental. Sabia que esse modelo é comum em vestibulares por estimular o raciocínio crítico? ",
+    "palavras_chave": ["redação causa consequência", "análise problemas", "impactos sociais", "vestibulares", "raciocínio crítico"]
+  },
+  {
+    "pergunta": "O que é dissertação expositiva?",
+    "resposta": "A dissertação expositiva é um tipo de texto que apresenta informações de forma objetiva, sem a intenção de convencer o leitor, apenas explicando o tema. Por exemplo, em uma redação sobre energia renovável, o autor pode expor dados sobre energia solar e eólica. Sabia que esse modelo é mais comum em artigos e relatórios do que em provas como o ENEM? ",
+    "palavras_chave": ["dissertação expositiva", "explicar tema", "informações objetivas", "artigos", "relatórios"]
+  },
+  {
+    "pergunta": "O que é dissertação argumentativa?",
+    "resposta": "A dissertação argumentativa é um texto em que o autor defende um ponto de vista, usando argumentos e exemplos para convencer o leitor. Esse é o modelo exigido no ENEM. Por exemplo: 'O investimento em educação pública é essencial para reduzir desigualdades sociais'. Sabia que Aristóteles, na Grécia Antiga, já sistematizava a importância da argumentação? ",
+    "palavras_chave": ["dissertação argumentativa", "defesa de ideias", "convencer leitor", "ENEM", "argumentação"]
+  },
+  {
+    "pergunta": "O que é resenha crítica?",
+    "resposta": "Resenha crítica é um texto que resume e analisa uma obra, como um livro, filme ou artigo, avaliando seus pontos fortes e fracos. Diferente de um simples resumo, traz opinião embasada. Por exemplo: uma resenha de 'Dom Casmurro' pode destacar o estilo irônico de Machado de Assis. Sabia que jornais do século dezenove já publicavam resenhas literárias para orientar leitores? ",
+    "palavras_chave": ["resenha crítica", "resumo e análise", "opinião embasada", "Machado de Assis", "jornalismo literário"]
+  },
+  {
+    "pergunta": "O que é resumo acadêmico?",
+    "resposta": "Resumo acadêmico é a síntese fiel de um texto científico ou literário, destacando apenas os pontos essenciais, sem interpretações pessoais. Ele deve ser breve, claro e objetivo. Por exemplo: resumir um artigo sobre mudanças climáticas em cinco linhas, citando apenas objetivos, métodos e resultados. Sabia que universidades exigem resumos em normas ABNT para TCCs e artigos? ",
+    "palavras_chave": ["resumo acadêmico", "síntese fiel", "objetividade", "ABNT", "trabalhos acadêmicos"]
+  },
+  {
+    "pergunta": "O que é paráfrase em redações do ENEM?",
+    "resposta": "Na redação do ENEM, paráfrase é usada para explicar ideias de autores de forma original, sem copiar literalmente. Por exemplo: em vez de escrever 'segundo Paulo Freire, a educação transforma o mundo', pode-se escrever 'Paulo Freire defendia que o aprendizado é motor de mudança social'. Sabia que usar paráfrases demonstra domínio da leitura e aumenta a nota de competência 2? ",
+    "palavras_chave": ["paráfrase ENEM", "evitar cópia", "Paulo Freire", "interpretação", "competência 2"]
+  },
+  {
+    "pergunta": "O que é uma crônica?",
+    "resposta": "Crônica é um gênero textual curto, geralmente publicado em jornais ou revistas, que retrata situações do cotidiano com humor, reflexão ou crítica social. Por exemplo, as crônicas de Rubem Braga abordavam temas simples, como o clima ou conversas de bar. Sabia que o nome 'crônica' vem do grego 'kronos', que significa tempo, já que esse texto registra fatos do dia a dia? ",
+    "palavras_chave": ["crônica", "cotidiano", "Rubem Braga", "humor e reflexão", "jornalismo literário"]
+  },
+  {
+    "pergunta": "O que é um ensaio?",
+    "resposta": "O ensaio é um gênero textual em que o autor explora ideias, reflexões ou argumentos de forma subjetiva e muitas vezes pessoal. Ao contrário de textos acadêmicos rígidos, o ensaio pode mesclar opinião, análise e até elementos literários. Por exemplo, o filósofo Michel de Montaigne, no século dezesseis, é considerado o 'pai do ensaio', escrevendo sobre temas que iam da amizade à educação. Sabia que o termo 'ensaio' vem do francês 'essai', que significa tentativa ou experimento?",
+    "palavras_chave": ["ensaio", "gênero textual", "Montaigne", "opinião pessoal", "reflexão"]
+  },
+  {
+    "pergunta": "O que é uma dissertação escolar?",
+    "resposta": "A dissertação escolar é um tipo de redação comumente solicitada em provas e vestibulares, estruturada em introdução, desenvolvimento e conclusão. Seu objetivo é avaliar a capacidade do aluno de organizar ideias e defender pontos de vista. Por exemplo, uma dissertação sobre tecnologia pode discutir impactos positivos e negativos da internet. Sabia que a dissertação escolar no Brasil foi inspirada em modelos franceses de redação acadêmica do século dezenove?",
+    "palavras_chave": ["dissertação escolar", "redação", "introdução desenvolvimento conclusão", "vestibulares", "estrutura"]
+  },
+  {
+    "pergunta": "O que é uma monografia?",
+    "resposta": "A monografia é um trabalho acadêmico aprofundado sobre um tema específico, geralmente apresentado como requisito para a conclusão de cursos de graduação. Diferente da redação escolar, exige pesquisa bibliográfica e metodologia científica. Por exemplo, uma monografia em Direito pode analisar a evolução da lei Maria da Penha. Sabia que o termo 'monografia' vem do grego 'monos' (um) e 'grapho' (escrever), significando 'escrever sobre um único assunto'?",
+    "palavras_chave": ["monografia", "trabalho acadêmico", "pesquisa científica", "graduação", "tema específico"]
+  },
+  {
+    "pergunta": "O que é uma dissertação científica?",
+    "resposta": "A dissertação científica é um trabalho de pós-graduação que busca aprofundar o estudo de um tema com base em metodologia rigorosa, análise de dados e referências bibliográficas. Diferente da monografia, a dissertação costuma trazer discussões originais, ainda que limitadas. Por exemplo, uma dissertação em biologia pode investigar os impactos da poluição nos corais marinhos. Sabia que a dissertação é requisito para o título de mestre no Brasil?",
+    "palavras_chave": ["dissertação científica", "pós-graduação", "metodologia", "análise de dados", "mestrado"]
+  },
+  {
+    "pergunta": "O que é uma tese?",
+    "resposta": "A tese é o trabalho acadêmico exigido em doutorados, com o objetivo de trazer uma contribuição inédita ao campo de estudo. É mais longa e complexa do que dissertações e monografias, envolvendo anos de pesquisa. Por exemplo, uma tese em história pode analisar documentos inéditos de determinada época. Sabia que a palavra 'tese' vem do grego 'thesis', que significa proposição ou colocação?",
+    "palavras_chave": ["tese", "doutorado", "contribuição inédita", "pesquisa acadêmica", "trabalho científico"]
+  },
+  {
+    "pergunta": "O que é um relatório técnico?",
+    "resposta": "O relatório técnico é um texto que descreve e analisa atividades, processos ou experimentos, geralmente em contextos acadêmicos ou profissionais. Deve ser objetivo, detalhado e baseado em dados. Por exemplo, um relatório técnico em engenharia pode apresentar os resultados de testes de resistência de materiais. Sabia que relatórios técnicos são documentos oficiais em empresas e podem servir como prova em processos jurídicos?",
+    "palavras_chave": ["relatório técnico", "descrição objetiva", "dados", "engenharia", "documento oficial"]
+  },
+  {
+    "pergunta": "O que é um artigo de opinião?",
+    "resposta": "O artigo de opinião é um texto jornalístico em que o autor defende seu ponto de vista sobre um tema atual, geralmente publicado em jornais e revistas. É diferente de uma notícia porque não se limita a informar, mas interpreta e opina. Por exemplo, um artigo pode discutir os efeitos da inteligência artificial na educação. Sabia que esse gênero ganhou força no século vinte como espaço de intelectuais em grandes jornais?",
+    "palavras_chave": ["artigo de opinião", "jornalismo", "opinião autoral", "interpretação", "debate público"]
+  },
+  {
+    "pergunta": "O que é um editorial?",
+    "resposta": "O editorial é um texto jornalístico que expressa a opinião oficial de um veículo de comunicação sobre determinado tema. Geralmente não é assinado, pois representa a posição institucional do jornal ou revista. Por exemplo, durante eleições, editoriais podem defender candidatos ou ideias. Sabia que os primeiros editoriais surgiram em jornais ingleses do século dezenove?",
+    "palavras_chave": ["editorial", "opinião institucional", "jornal", "revista", "século dezenove"]
+  },
+  {
+    "pergunta": "O que é uma carta argumentativa?",
+    "resposta": "A carta argumentativa é um gênero textual em formato de carta, mas com foco em defender uma posição ou convencer o destinatário sobre um tema. Por exemplo, uma carta enviada a um deputado para apoiar uma causa social. Sabia que esse gênero é frequentemente cobrado em vestibulares como alternativa à redação tradicional?",
+    "palavras_chave": ["carta argumentativa", "gênero carta", "defesa de ideias", "vestibulares", "convencer destinatário"]
+  },
+  {
+    "pergunta": "O que é uma carta do leitor?",
+    "resposta": "A carta do leitor é um espaço em jornais e revistas onde leitores podem expressar opiniões sobre matérias publicadas ou temas de interesse público. Geralmente é breve, respeitosa e publicada na seção específica. Por exemplo, um leitor pode enviar carta criticando a falta de cobertura sobre meio ambiente. Sabia que esse gênero aproximou jornalistas e público desde o século vinte?",
+    "palavras_chave": ["carta do leitor", "opinião popular", "jornalismo", "participação cidadã", "público leitor"]
+  },
+  {
+    "pergunta": "O que é um manifesto?",
+    "resposta": "Manifesto é um texto coletivo, assinado por um grupo, que busca declarar princípios, ideias ou reivindicações. Um exemplo histórico é o 'Manifesto Comunista', de mil oitocentos e quarenta e oito, escrito por Karl Marx e Friedrich Engels. Sabia que manifestos são usados até hoje em movimentos sociais para dar voz a causas coletivas?",
+    "palavras_chave": ["manifesto", "texto coletivo", "Karl Marx", "reivindicação", "movimentos sociais"]
+  },
+  {
+    "pergunta": "O que é uma crônica esportiva?",
+    "resposta": "A crônica esportiva é um tipo de crônica focada em narrar, comentar ou refletir sobre eventos esportivos. Pode mesclar humor, emoção e crítica, indo além da simples narração de fatos. Por exemplo, Nelson Rodrigues ficou famoso no Brasil escrevendo crônicas sobre futebol. Sabia que a crônica esportiva ajudou a popularizar o futebol como paixão nacional?",
+    "palavras_chave": ["crônica esportiva", "futebol", "Nelson Rodrigues", "narrativa esportiva", "paixão nacional"]
+  },
+  {
+    "pergunta": "O que é um texto instrucional?",
+    "resposta": "O texto instrucional é aquele que ensina o leitor a realizar uma ação por meio de instruções claras e sequenciais. Exemplos incluem manuais de eletrodomésticos e receitas culinárias. Sabia que esse gênero é um dos mais antigos, já presente em registros da Mesopotâmia, com instruções agrícolas gravadas em tabuletas de argila?",
+    "palavras_chave": ["texto instrucional", "instruções", "manuais", "receitas", "história antiga"]
+  },
+  {
+    "pergunta": "O que é uma receita culinária como gênero textual?",
+    "resposta": "A receita culinária é um tipo de texto instrucional que descreve ingredientes e o passo a passo para preparar um prato. Deve ser clara, objetiva e organizada. Por exemplo, uma receita de bolo lista os ingredientes e a ordem do preparo. Sabia que as primeiras receitas registradas datam de mais de quatro mil anos, encontradas em tábuas sumérias?",
+    "palavras_chave": ["receita culinária", "ingredientes", "passo a passo", "história da culinária", "texto instrucional"]
+  },
+  {
+    "pergunta": "O que é um texto regulador?",
+    "resposta": "O texto regulador tem a função de orientar comportamentos sociais por meio de regras ou normas. Exemplos são placas de trânsito, regulamentos escolares e leis. Sabia que os primeiros códigos reguladores, como o Código de Hamurábi, datam de cerca de mil setecentos antes de Cristo?",
+    "palavras_chave": ["texto regulador", "regras", "leis", "placas de trânsito", "Código de Hamurábi"]
+  },
+  {
+    "pergunta": "O que é um texto literário em prosa?",
+    "resposta": "O texto literário em prosa é aquele estruturado em parágrafos, como romances, contos e novelas. Diferente da poesia, privilegia narrativas e descrições mais lineares. Por exemplo, 'Grande Sertão: Veredas', de Guimarães Rosa, é uma obra-prima da prosa brasileira. Sabia que a prosa literária moderna surgiu no século dezoito, com o fortalecimento dos romances?",
+    "palavras_chave": ["texto literário em prosa", "romances", "contos", "Guimarães Rosa", "narrativa"]
+  },
+  {
+    "pergunta": "O que é um texto literário em verso?",
+    "resposta": "O texto literário em verso é aquele estruturado em versos e estrofes, geralmente marcado por ritmo, métrica ou rimas. A poesia é o exemplo mais conhecido desse formato. Por exemplo, 'Os Lusíadas', de Luís de Camões, é um clássico em versos épicos. Sabia que a poesia oral foi a primeira forma de literatura em muitas culturas, como a grega e a indígena?",
+    "palavras_chave": ["texto literário em verso", "poesia", "versos e estrofes", "Camões", "literatura oral"]
+  },
+  {
+    "pergunta": "O que é uma fábula?",
+    "resposta": "A fábula é um gênero narrativo curto que transmite uma lição moral, geralmente por meio de personagens animais com características humanas. Por exemplo, 'A Cigarra e a Formiga' ensina sobre trabalho e preguiça. Sabia que as fábulas de Esopo, da Grécia Antiga, são as mais famosas e ainda hoje influenciam literatura infantil?",
+    "palavras_chave": ["fábula", "lição moral", "animais", "Esopo", "literatura infantil"]
+  },
+  {
+    "pergunta": "O que é um mito?",
+    "resposta": "O mito é uma narrativa tradicional que explica fenômenos da natureza, a origem do mundo ou de costumes culturais, geralmente com personagens divinos ou sobrenaturais. Por exemplo, o mito grego de Prometeu explica a origem do fogo para a humanidade. Sabia que muitos mitos indígenas brasileiros explicam a criação de rios, animais e florestas?",
+    "palavras_chave": ["mito", "narrativa tradicional", "deuses", "origem do mundo", "cultura indígena"]
+  },
+  {
+    "pergunta": "O que é uma lenda?",
+    "resposta": "A lenda é uma narrativa popular transmitida oralmente, misturando elementos reais e fantásticos. Diferente do mito, está mais ligada a fatos locais ou personagens históricos. Por exemplo, a lenda do Saci-Pererê é muito conhecida no folclore brasileiro. Sabia que a palavra 'lenda' vem do latim 'legenda', que significa 'aquilo que deve ser lido'?",
+    "palavras_chave": ["lenda", "narrativa popular", "folclore", "Saci-Pererê", "tradição oral"]
+  },
+  {
+    "pergunta": "O que é um texto híbrido?",
+    "resposta": "Texto híbrido é aquele que mistura características de diferentes gêneros, como jornalístico, literário e publicitário em uma única produção. Por exemplo, uma reportagem pode trazer elementos narrativos típicos da literatura para envolver o leitor. Sabia que com a internet os textos híbridos se tornaram cada vez mais comuns, especialmente em blogs e redes sociais?",
+    "palavras_chave": ["texto híbrido", "mistura de gêneros", "reportagem literária", "internet", "redes sociais"]
+  }
+]

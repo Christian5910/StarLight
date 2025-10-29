@@ -1,0 +1,457 @@
+[
+  {
+    "pergunta": "O que torna uma planta considerada medicinal?",
+    "resposta": "Uma planta é considerada medicinal quando contém substâncias químicas naturais, chamadas princípios ativos, que produzem efeitos benéficos no organismo humano. Esses compostos podem aliviar sintomas, tratar doenças ou fortalecer o sistema imunológico. Um exemplo clássico é a camomila, usada há séculos para acalmar e melhorar a digestão. Sabia que muitas dessas propriedades só foram comprovadas cientificamente nas últimas décadas, graças aos avanços da farmacologia?",
+    "palavras_chave": ["plantas", "medicina", "princípios ativos", "farmacologia", "camomila"]
+  },
+  {
+    "pergunta": "Como os princípios ativos das plantas são descobertos?",
+    "resposta": "A descoberta dos princípios ativos envolve etapas como a extração, purificação e análise química das substâncias presentes nas plantas. Pesquisadores utilizam técnicas modernas, como cromatografia e espectrometria, para identificar quais compostos têm potencial terapêutico. Esse processo combina o conhecimento tradicional das comunidades com métodos científicos. Sabia que o ácido salicílico, base da aspirina, foi inicialmente isolado da casca do salgueiro?",
+    "palavras_chave": ["princípios ativos", "extração", "farmacologia", "biotecnologia", "aspirina"]
+  },
+  {
+    "pergunta": "Qual a importância da biodiversidade brasileira para as plantas medicinais?",
+    "resposta": "O Brasil é um dos países mais ricos em biodiversidade do planeta, abrigando milhares de espécies com potencial medicinal ainda pouco estudadas. Essa variedade representa uma enorme fonte de compostos bioativos que podem originar novos medicamentos. Além disso, a conservação da flora é essencial para garantir esse patrimônio genético. Sabia que apenas uma pequena fração das plantas da Amazônia foi analisada cientificamente até hoje?",
+    "palavras_chave": ["biodiversidade", "plantas medicinais", "amazônia", "conservação", "pesquisa"]
+  },
+  {
+    "pergunta": "Como a biotecnologia ajuda na produção de medicamentos de origem vegetal?",
+    "resposta": "A biotecnologia permite reproduzir e otimizar a produção de substâncias ativas encontradas nas plantas sem depender tanto do cultivo em larga escala. Técnicas como cultura de tecidos e engenharia genética ajudam a aumentar o rendimento e a pureza dos compostos. Isso reduz custos e impacto ambiental. Sabia que hoje já é possível produzir o princípio ativo da artemisinina, usada contra a malária, em laboratório com ajuda de micro-organismos modificados?",
+    "palavras_chave": ["biotecnologia", "cultura de tecidos", "engenharia genética", "medicamentos", "artemisinina"]
+  },
+  {
+    "pergunta": "Por que o conhecimento tradicional é importante no estudo das plantas medicinais?",
+    "resposta": "O conhecimento tradicional, transmitido entre gerações por povos indígenas e comunidades locais, é o ponto de partida para muitas descobertas científicas. Ele orienta os pesquisadores sobre quais plantas podem ter propriedades terapêuticas. Essa integração entre saber popular e ciência é chamada de etnobotânica. Sabia que cerca de 25% dos medicamentos modernos têm origem em plantas usadas tradicionalmente por comunidades locais?",
+    "palavras_chave": ["conhecimento tradicional", "etnobotânica", "plantas medicinais", "comunidades", "pesquisa"]
+  },
+  {
+    "pergunta": "O que é fitoterapia e como ela se diferencia da medicina tradicional?",
+    "resposta": "A fitoterapia é o uso de plantas medicinais em tratamentos de saúde, mas com base científica e padronização das substâncias ativas. Diferente da medicina tradicional popular, a fitoterapia busca garantir doses seguras e efeitos comprovados. Muitos sistemas de saúde, como o brasileiro, já incluem fitoterápicos entre os tratamentos oferecidos. Sabia que o SUS possui uma política nacional específica para o uso de plantas medicinais?",
+    "palavras_chave": ["fitoterapia", "plantas medicinais", "saúde pública", "sistema de saúde", "sus"]
+  },
+  {
+    "pergunta": "Como ocorre o processo de padronização dos fitoterápicos?",
+    "resposta": "A padronização garante que cada lote de um fitoterápico tenha a mesma quantidade e qualidade dos princípios ativos. Isso envolve controle rigoroso desde o cultivo da planta até a análise laboratorial do produto final. Esse processo é essencial para assegurar eficácia e segurança. Sabia que, sem padronização, dois medicamentos feitos da mesma planta podem ter efeitos completamente diferentes?",
+    "palavras_chave": ["fitoterápicos", "padronização", "controle de qualidade", "eficácia", "segurança"]
+  },
+  {
+    "pergunta": "Qual é o papel da engenharia genética na melhoria das plantas medicinais?",
+    "resposta": "A engenharia genética pode aumentar a produção de compostos terapêuticos em plantas ou até introduzir genes que as tornem mais resistentes a pragas e doenças. Essa abordagem também permite criar novas variedades com propriedades medicinais aprimoradas. Sabia que pesquisadores já desenvolveram uma planta de tabaco capaz de produzir anticorpos usados em vacinas experimentais?",
+    "palavras_chave": ["engenharia genética", "plantas medicinais", "melhoramento", "vacinas", "biotecnologia"]
+  },
+  {
+    "pergunta": "Quais são os desafios éticos no uso de recursos genéticos vegetais?",
+    "resposta": "Os principais desafios envolvem o uso justo e sustentável desses recursos, além do respeito ao conhecimento tradicional associado. A biopirataria, por exemplo, ocorre quando empresas exploram espécies ou saberes sem autorização ou compensação às comunidades. Leis internacionais, como o Protocolo de Nagoya, tentam regular esse uso. Sabia que o jaborandi, usado para produzir medicamentos oculares, já foi alvo de disputas de biopirataria?",
+    "palavras_chave": ["ética", "biopirataria", "recursos genéticos", "conhecimento tradicional", "legislação"]
+  },
+  {
+    "pergunta": "Como as culturas de tecidos ajudam na conservação das plantas medicinais?",
+    "resposta": "As culturas de tecidos permitem multiplicar plantas em laboratório a partir de pequenas partes, como células ou folhas, sem precisar retirar exemplares da natureza. Essa técnica é valiosa para conservar espécies ameaçadas e garantir matéria-prima de qualidade. Sabia que algumas orquídeas medicinais já estão sendo preservadas com esse método?",
+    "palavras_chave": ["cultura de tecidos", "conservação", "biotecnologia", "plantas medicinais", "propagação"]
+  },
+  {
+    "pergunta": "Por que algumas plantas medicinais podem ser tóxicas se usadas incorretamente?",
+    "resposta": "Muitas plantas medicinais contêm substâncias que, em pequenas doses, são terapêuticas, mas em excesso tornam-se tóxicas. Além disso, a parte usada ou o modo de preparo influenciam nos efeitos. Por isso, o uso deve ser orientado por profissionais de saúde. Sabia que a digitalina, usada para tratar problemas cardíacos, é extraída de uma planta extremamente venenosa chamada dedaleira?",
+    "palavras_chave": ["toxicidade", "plantas medicinais", "dosagem", "segurança", "digitalina"]
+  },
+  {
+    "pergunta": "Como as plantas medicinais influenciaram o desenvolvimento da indústria farmacêutica?",
+    "resposta": "As plantas medicinais foram a base para o surgimento de muitos dos primeiros medicamentos industriais. Substâncias como a morfina, a quinina e o taxol foram isoladas de plantas e inspiraram o desenvolvimento de fármacos sintéticos. Até hoje, a indústria farmacêutica explora a biodiversidade em busca de novos compostos. Sabia que cerca de 40% dos remédios atuais têm origem vegetal?",
+    "palavras_chave": ["indústria farmacêutica", "plantas medicinais", "fármacos", "história", "pesquisa"]
+  },
+  {
+    "pergunta": "O que é a farmacognosia e qual sua relação com as plantas medicinais?",
+    "resposta": "A farmacognosia é a ciência que estuda as substâncias naturais com propriedades medicinais, especialmente as derivadas de plantas. Ela combina botânica, química e farmacologia para entender como esses compostos atuam no organismo. Sabia que esse campo existe desde o século XIX e foi fundamental para transformar a medicina popular em ciência aplicada?",
+    "palavras_chave": ["farmacognosia", "plantas medicinais", "química", "farmacologia", "ciência"]
+  },
+  {
+    "pergunta": "Como o clima e o solo influenciam a qualidade das plantas medicinais?",
+    "resposta": "Fatores ambientais como temperatura, luminosidade e nutrientes do solo afetam diretamente a produção dos princípios ativos nas plantas. Por isso, o mesmo tipo de planta pode ter concentrações diferentes de substâncias dependendo da região onde é cultivada. Sabia que o alecrim cultivado em regiões quentes produz mais óleos essenciais do que em locais frios?",
+    "palavras_chave": ["clima", "solo", "plantas medicinais", "óleos essenciais", "cultivo"]
+  },
+  {
+    "pergunta": "Qual é o papel dos óleos essenciais nas plantas medicinais?",
+    "resposta": "Os óleos essenciais são misturas voláteis produzidas por algumas plantas como defesa contra predadores e microrganismos. Para nós, eles têm propriedades terapêuticas e são usados em aromaterapia, cosméticos e medicamentos. Sabia que a lavanda, além de ser calmante, também tem ação antibacteriana natural?",
+    "palavras_chave": ["óleos essenciais", "plantas medicinais", "aromaterapia", "lavanda", "terapia"]
+  },
+  {
+    "pergunta": "Como a nanotecnologia pode potencializar o uso de compostos vegetais?",
+    "resposta": "A nanotecnologia permite encapsular compostos vegetais em nanopartículas, aumentando sua absorção e estabilidade no organismo. Isso torna o tratamento mais eficaz e reduz efeitos colaterais. Sabia que já existem pesquisas com nanopartículas de curcumina, extraída do açafrão-da-terra, para tratar inflamações e até câncer?",
+    "palavras_chave": ["nanotecnologia", "biotecnologia", "plantas medicinais", "curcumina", "tratamento"]
+  },
+  {
+    "pergunta": "O que é bioprospecção e por que é tão importante?",
+    "resposta": "A bioprospecção é a busca por compostos naturais com potencial econômico, especialmente em plantas, animais e microrganismos. Ela une biologia, química e biotecnologia para descobrir novas substâncias úteis à medicina e à indústria. Sabia que a bioprospecção na Amazônia é considerada uma das mais promissoras do mundo?",
+    "palavras_chave": ["bioprospecção", "plantas medicinais", "amazônia", "biotecnologia", "descoberta"]
+  },
+  {
+    "pergunta": "Como as universidades brasileiras contribuem para o estudo das plantas medicinais?",
+    "resposta": "Diversas universidades mantêm programas de pesquisa em farmacobotânica e biotecnologia, estudando o potencial de espécies nativas e desenvolvendo fitoterápicos com base científica. Além disso, há parcerias com comunidades locais para valorizar o conhecimento tradicional. Sabia que a Universidade Federal do Ceará tem um dos maiores bancos de extratos de plantas medicinais do país?",
+    "palavras_chave": ["universidades", "pesquisa", "fitoterápicos", "biotecnologia", "brasil"]
+  },
+  {
+    "pergunta": "O que é um extrato vegetal e como ele é obtido?",
+    "resposta": "Um extrato vegetal é uma concentração dos compostos ativos de uma planta, obtida por processos de extração com solventes como água, álcool ou óleos. O tipo de solvente usado influencia quais substâncias serão extraídas. Sabia que o extrato de própolis, muito usado para fortalecer a imunidade, é feito a partir de resinas vegetais coletadas pelas abelhas?",
+    "palavras_chave": ["extrato vegetal", "extração", "plantas medicinais", "solventes", "compostos ativos"]
+  },
+  {
+    "pergunta": "Como a biotecnologia ajuda na produção sustentável de plantas medicinais?",
+    "resposta": "A biotecnologia reduz a necessidade de coletar plantas na natureza, permitindo produzir compostos ativos em laboratório por meio de cultura celular ou manipulação genética. Isso protege espécies nativas e diminui o impacto ambiental. Sabia que algumas empresas já produzem ingredientes de cosméticos naturais sem usar planta alguma, apenas células cultivadas?",
+    "palavras_chave": ["biotecnologia", "sustentabilidade", "plantas medicinais", "cultura celular", "conservação"]
+  },
+  {
+    "pergunta": "Por que o registro de patentes é importante no campo das plantas medicinais?",
+    "resposta": "O registro de patentes garante o reconhecimento legal das descobertas científicas e evita o uso indevido de tecnologias. No caso das plantas medicinais, ele protege tanto os pesquisadores quanto as comunidades que compartilham seus saberes. Sabia que o Brasil tem leis específicas que exigem comprovação de origem dos recursos genéticos usados em patentes?",
+    "palavras_chave": ["patentes", "biotecnologia", "propriedade intelectual", "legislação", "plantas medicinais"]
+  },
+  {
+    "pergunta": "Quais plantas medicinais brasileiras são mais estudadas atualmente?",
+    "resposta": "Entre as plantas brasileiras mais pesquisadas estão a erva-baleeira, usada em anti-inflamatórios naturais, o jaborandi, base de medicamentos oftálmicos, e a copaíba, conhecida por suas propriedades cicatrizantes. Essas espécies combinam tradição popular e interesse científico. Sabia que a Anvisa já reconhece oficialmente algumas delas em sua lista de fitoterápicos aprovados?",
+    "palavras_chave": ["plantas brasileiras", "pesquisa", "fitoterápicos", "anvisa", "farmacologia"]
+  },
+  {
+    "pergunta": "Como os avanços em bioinformática contribuem para o estudo das plantas medicinais?",
+    "resposta": "A bioinformática permite analisar o DNA das plantas para identificar genes responsáveis pela produção de compostos terapêuticos. Isso acelera a descoberta de novas substâncias e facilita o melhoramento genético. Sabia que já existem bancos de dados inteiros dedicados apenas ao genoma de plantas medicinais?",
+    "palavras_chave": ["bioinformática", "genoma", "biotecnologia", "plantas medicinais", "pesquisa"]
+  },
+  {
+    "pergunta": "O que diferencia um fitoterápico de um suplemento natural?",
+    "resposta": "O fitoterápico é um medicamento registrado, com eficácia e segurança comprovadas cientificamente. Já os suplementos naturais nem sempre passam pelos mesmos testes e servem mais para complementar a dieta. Sabia que, por isso, os fitoterápicos são fiscalizados pela Anvisa, enquanto os suplementos seguem regras menos rígidas?",
+    "palavras_chave": ["fitoterápico", "suplemento", "anvisa", "segurança", "eficácia"]
+  },
+  {
+    "pergunta": "Como a globalização afeta o comércio de plantas medicinais?",
+    "resposta": "A globalização facilita o acesso a espécies de diferentes partes do mundo, mas também aumenta o risco de exploração indevida e perda de biodiversidade. Por isso, há esforços para garantir comércio justo e rastreabilidade. Sabia que o mercado mundial de plantas medicinais movimenta bilhões de dólares por ano?",
+    "palavras_chave": ["globalização", "comércio", "plantas medicinais", "biodiversidade", "mercado"]
+  },
+  {
+    "pergunta": "Como a agricultura orgânica influencia na produção de plantas medicinais?",
+    "resposta": "A agricultura orgânica valoriza o cultivo sem agrotóxicos ou fertilizantes sintéticos, o que mantém a pureza dos compostos ativos das plantas medicinais. Além disso, reduz o risco de contaminação e melhora a qualidade dos extratos obtidos. Sabia que alguns estudos mostram que plantas cultivadas organicamente podem ter até mais antioxidantes do que as convencionais?",
+    "palavras_chave": ["agricultura orgânica", "plantas medicinais", "antioxidantes", "qualidade", "cultivo"]
+  },
+  {
+    "pergunta": "Qual a diferença entre fitoterápicos e medicamentos sintéticos?",
+    "resposta": "Os fitoterápicos são produzidos a partir de extratos vegetais e contêm uma combinação natural de compostos ativos. Já os medicamentos sintéticos são formulados em laboratório com moléculas isoladas ou reproduzidas artificialmente. Ambos podem ter eficácia comprovada, mas os fitoterápicos tendem a ter ação mais suave e menos efeitos colaterais. Sabia que muitos remédios sintéticos foram inspirados em moléculas vegetais?",
+    "palavras_chave": ["fitoterápicos", "medicamentos sintéticos", "comparação", "farmacologia", "origem"]
+  },
+  {
+    "pergunta": "Como as plantas medicinais podem ajudar no combate a doenças crônicas?",
+    "resposta": "Muitas plantas possuem compostos com ação anti-inflamatória, antioxidante ou reguladora do metabolismo, o que auxilia no tratamento de doenças como diabetes, hipertensão e artrite. É o caso da pata-de-vaca e do gengibre. Claro, elas não substituem o tratamento médico, mas podem atuar como complemento. Sabia que o chá verde, por exemplo, ajuda a reduzir o colesterol e melhorar o metabolismo?",
+    "palavras_chave": ["doenças crônicas", "plantas medicinais", "antioxidantes", "tratamento", "metabolismo"]
+  },
+  {
+    "pergunta": "O que é etnofarmacologia e por que ela é relevante?",
+    "resposta": "A etnofarmacologia estuda o uso tradicional de plantas medicinais em diferentes culturas, relacionando práticas ancestrais com evidências científicas. Essa área é essencial para valorizar saberes locais e descobrir novos compostos bioativos. Sabia que muitas pesquisas de medicamentos modernos começam a partir de observações etnofarmacológicas em comunidades indígenas?",
+    "palavras_chave": ["etnofarmacologia", "plantas medicinais", "saberes tradicionais", "pesquisa", "culturas"]
+  },
+  {
+    "pergunta": "Como a Anvisa regula o uso de plantas medicinais no Brasil?",
+    "resposta": "A Anvisa estabelece normas para registro, produção e comercialização de fitoterápicos e medicamentos à base de plantas. Ela exige comprovação científica de eficácia e segurança, além de boas práticas de fabricação. Sabia que existe uma lista oficial com dezenas de espécies reconhecidas como seguras pela agência, como a espinheira-santa e a valeriana?",
+    "palavras_chave": ["anvisa", "regulação", "fitoterápicos", "segurança", "legislação"]
+  },
+  {
+    "pergunta": "Como o cultivo in vitro contribui para a pesquisa de plantas medicinais?",
+    "resposta": "O cultivo in vitro permite crescer plantas ou células vegetais em ambiente controlado, o que facilita estudar seus princípios ativos sem depender da coleta na natureza. Essa técnica é muito usada para espécies raras ou ameaçadas. Sabia que já se consegue produzir compostos medicinais da babosa e da calêndula apenas em laboratório?",
+    "palavras_chave": ["cultivo in vitro", "biotecnologia", "plantas medicinais", "pesquisa", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é metabolômica e qual seu papel nas plantas medicinais?",
+    "resposta": "A metabolômica analisa o conjunto completo de compostos químicos produzidos por um organismo. No caso das plantas medicinais, essa abordagem ajuda a identificar quais moléculas têm potencial terapêutico. Sabia que com a metabolômica é possível comparar rapidamente centenas de extratos de plantas e selecionar os mais promissores para novos medicamentos?",
+    "palavras_chave": ["metabolômica", "plantas medicinais", "biotecnologia", "compostos químicos", "pesquisa"]
+  },
+  {
+    "pergunta": "Como o uso excessivo de plantas medicinais pode afetar o meio ambiente?",
+    "resposta": "A coleta descontrolada de espécies medicinais pode levar à extinção de plantas e desequilíbrio dos ecossistemas. Por isso, é fundamental adotar práticas sustentáveis e incentivar o cultivo controlado. Sabia que o pau-rosa, usado em perfumes e medicamentos, chegou a quase desaparecer por causa da extração indiscriminada?",
+    "palavras_chave": ["sustentabilidade", "plantas medicinais", "meio ambiente", "extinção", "cultivo"]
+  },
+  {
+    "pergunta": "Quais são os principais métodos de extração de compostos vegetais?",
+    "resposta": "Os métodos mais comuns incluem maceração, infusão, decocção e percolação. Cada técnica é escolhida conforme o tipo de substância desejada e a parte da planta usada. Tecnologias modernas, como extração com CO₂ supercrítico, também são aplicadas para obter compostos mais puros. Sabia que esse método é o mesmo usado para descafeinar o café?",
+    "palavras_chave": ["extração", "compostos vegetais", "métodos", "biotecnologia", "purificação"]
+  },
+  {
+    "pergunta": "Como a biotecnologia pode preservar o conhecimento tradicional das plantas medicinais?",
+    "resposta": "A biotecnologia contribui registrando e catalogando informações genéticas e químicas das plantas, associadas ao uso tradicional. Isso protege o saber ancestral e evita sua apropriação indevida. Sabia que existem bancos de dados internacionais criados para garantir que comunidades locais sejam reconhecidas por suas contribuições?",
+    "palavras_chave": ["biotecnologia", "conhecimento tradicional", "preservação", "bancos de dados", "plantas medicinais"]
+  },
+  {
+    "pergunta": "O que é uma planta adaptógena e como ela age no corpo humano?",
+    "resposta": "Plantas adaptógenas ajudam o corpo a lidar melhor com o estresse físico e mental, equilibrando funções hormonais e metabólicas. Exemplos famosos incluem o ginseng, a maca e o eleutero. Sabia que o termo ‘adaptógeno’ surgiu na Rússia, durante pesquisas sobre resistência de soldados e atletas na década de 1950?",
+    "palavras_chave": ["plantas adaptógenas", "estresse", "metabolismo", "ginseng", "equilíbrio"]
+  },
+  {
+    "pergunta": "Como as plantas medicinais podem ser usadas na cosmetologia?",
+    "resposta": "Muitas plantas contêm compostos antioxidantes, hidratantes e anti-inflamatórios, sendo amplamente usadas na formulação de cosméticos naturais. Aloe vera, calêndula e chá verde são exemplos clássicos. Sabia que a indústria cosmética tem investido em biotecnologia vegetal para produzir ativos sem explorar diretamente as plantas?",
+    "palavras_chave": ["cosméticos", "plantas medicinais", "antioxidantes", "biotecnologia", "beleza"]
+  },
+  {
+    "pergunta": "Qual é o papel dos alcaloides nas plantas medicinais?",
+    "resposta": "Os alcaloides são compostos nitrogenados que atuam como defesa natural das plantas contra predadores, mas em humanos podem ter efeitos medicinais poderosos. A morfina, a cafeína e a quinina são exemplos famosos. Sabia que existem mais de 10 mil tipos de alcaloides conhecidos na natureza?",
+    "palavras_chave": ["alcaloides", "plantas medicinais", "compostos químicos", "morfina", "quinina"]
+  },
+  {
+    "pergunta": "Por que é importante estudar a interação entre fitoterápicos e medicamentos convencionais?",
+    "resposta": "Alguns compostos vegetais podem potencializar ou anular os efeitos de medicamentos sintéticos. Por exemplo, o uso de erva-de-são-joão pode interferir em antidepressivos e anticoncepcionais. Por isso, sempre é preciso acompanhamento médico. Sabia que até o suco de grapefruit pode alterar o metabolismo de remédios no fígado?",
+    "palavras_chave": ["interações medicamentosas", "fitoterápicos", "segurança", "farmacologia", "ervas"]
+  },
+  {
+    "pergunta": "Como a cultura popular influencia o uso de plantas medicinais no Brasil?",
+    "resposta": "A cultura popular brasileira valoriza o uso de ervas no cotidiano, como o boldo, a erva-doce e a arruda. Essa tradição vem da mistura de saberes indígenas, africanos e europeus. Hoje, muitos desses usos são estudados cientificamente. Sabia que o chá de boldo brasileiro é diferente do europeu, vindo de espécies distintas?",
+    "palavras_chave": ["cultura popular", "plantas medicinais", "tradição", "etnobotânica", "brasil"]
+  },
+  {
+    "pergunta": "Como o DNA barcoding auxilia na identificação de plantas medicinais?",
+    "resposta": "O DNA barcoding usa sequências específicas do genoma para identificar plantas com precisão, mesmo quando não há flores ou folhas disponíveis. Isso evita confusões e fraudes em produtos fitoterápicos. Sabia que essa técnica já revelou casos de substituição indevida de espécies em chás e cápsulas vendidos comercialmente?",
+    "palavras_chave": ["dna barcoding", "identificação", "biotecnologia", "fitoterápicos", "segurança"]
+  },
+  {
+    "pergunta": "Qual é a diferença entre planta medicinal e planta aromática?",
+    "resposta": "Nem toda planta aromática é medicinal, embora muitas possuam ambas as propriedades. As aromáticas são valorizadas principalmente pelos óleos voláteis e fragrâncias, enquanto as medicinais têm uso terapêutico comprovado. Sabia que o alecrim é um exemplo clássico que reúne os dois papéis — aromático e medicinal?",
+    "palavras_chave": ["plantas aromáticas", "plantas medicinais", "óleos essenciais", "fragrância", "terapia"]
+  },
+  {
+    "pergunta": "Como a fermentação pode aumentar o potencial medicinal de certas plantas?",
+    "resposta": "A fermentação transforma compostos químicos das plantas, tornando-os mais biodisponíveis e potentes. Essa técnica vem sendo usada na biotecnologia para desenvolver suplementos e medicamentos naturais mais eficazes. Sabia que o chá kombucha é um exemplo de bebida fermentada com propriedades antioxidantes e digestivas?",
+    "palavras_chave": ["fermentação", "biotecnologia", "plantas medicinais", "suplementos", "antioxidantes"]
+  },
+  {
+    "pergunta": "Por que a conservação de sementes é importante para as plantas medicinais?",
+    "resposta": "As sementes guardam a diversidade genética das plantas, essencial para futuras pesquisas e para o cultivo sustentável. Bancos de sementes preservam espécies ameaçadas e permitem reintrodução em áreas degradadas. Sabia que o Brasil possui coleções específicas de sementes de plantas medicinais na Embrapa?",
+    "palavras_chave": ["sementes", "conservação", "biodiversidade", "embrapa", "plantas medicinais"]
+  },
+  {
+    "pergunta": "Como a fotossíntese influencia a produção de compostos medicinais nas plantas?",
+    "resposta": "Durante a fotossíntese, as plantas produzem energia e moléculas básicas que servem de matéria-prima para compostos secundários, como alcaloides e flavonoides. Ou seja, uma planta saudável e bem iluminada tende a ter mais princípios ativos. Sabia que algumas espécies medicinais são cultivadas sob luz controlada para aumentar a eficiência bioquímica?",
+    "palavras_chave": ["fotossíntese", "plantas medicinais", "alcaloides", "flavonoides", "energia"]
+  },
+  {
+    "pergunta": "Como a ciência garante que uma planta medicinal realmente funciona?",
+    "resposta": "A eficácia de uma planta é comprovada por meio de testes laboratoriais, estudos clínicos e análises químicas. Só após essas etapas ela pode ser reconhecida como segura e eficaz. Sabia que muitas plantas populares passam anos em testes antes de virarem medicamentos registrados?",
+    "palavras_chave": ["eficácia", "pesquisa científica", "fitoterápicos", "testes clínicos", "validação"]
+  },
+  {
+    "pergunta": "Como a biotecnologia pode ajudar na produção de vacinas vegetais?",
+    "resposta": "Com a engenharia genética, cientistas conseguem fazer plantas produzir proteínas semelhantes às de vírus ou bactérias, que podem ser usadas como vacinas com baixo custo e alta segurança. Sabia que a alface e o tabaco já foram usados em testes para gerar vacinas contra a hepatite B e a covid-19?",
+    "palavras_chave": ["vacinas", "biotecnologia", "plantas medicinais", "engenharia genética", "saúde"]
+  },
+  {
+    "pergunta": "O que são compostos fenólicos e qual sua importância nas plantas medicinais?",
+    "resposta": "Os compostos fenólicos têm forte ação antioxidante e ajudam a proteger as células contra danos causados pelos radicais livres. Eles estão presentes em plantas como o chá verde, o alecrim e o açaí. Sabia que esses compostos também contribuem para retardar o envelhecimento celular?",
+    "palavras_chave": ["compostos fenólicos", "antioxidantes", "plantas medicinais", "chá verde", "radicais livres"]
+  },
+  {
+    "pergunta": "Como a artemisinina revolucionou o tratamento da malária?",
+    "resposta": "A artemisinina é um composto extraído da planta Artemisia annua, usada há séculos na medicina tradicional chinesa. Ela se tornou a base dos tratamentos modernos contra a malária por sua alta eficácia em eliminar o parasita Plasmodium. Esse avanço foi tão importante que rendeu à cientista chinesa Tu Youyou o Prêmio Nobel de Medicina em 2015. Sabia que a descoberta da artemisinina salvou milhões de vidas em regiões tropicais do planeta?",
+    "palavras_chave": ["artemisinina", "malária", "planta medicinal", "biotecnologia", "saúde pública"]
+  },
+  {
+    "pergunta": "O que são metabólitos secundários nas plantas medicinais?",
+    "resposta": "Metabólitos secundários são substâncias produzidas pelas plantas não para o crescimento direto, mas como defesa ou atração de polinizadores. Muitos desses compostos têm propriedades terapêuticas, como os alcaloides e os flavonoides. Na biotecnologia, estudá-los ajuda a identificar novas drogas e formas de produção sintética mais sustentável. Sabia que a morfina e a cafeína são exemplos clássicos de metabólitos secundários?",
+    "palavras_chave": ["metabólitos", "alcaloides", "flavonoides", "fitoterapia", "biotecnologia"]
+  },
+  {
+    "pergunta": "Como a cultura de tecidos ajuda na preservação de plantas medicinais raras?",
+    "resposta": "A técnica de cultura de tecidos permite multiplicar plantas a partir de pequenas partes, como células ou fragmentos de folhas, em laboratório. Isso é essencial para preservar espécies medicinais ameaçadas ou de difícil cultivo. Além de garantir conservação, essa técnica assegura plantas livres de doenças e com princípios ativos padronizados.",
+    "palavras_chave": ["cultura de tecidos", "preservação", "espécies raras", "biotecnologia", "plantas medicinais"]
+  },
+  {
+    "pergunta": "Por que o estudo genético das plantas medicinais é importante?",
+    "resposta": "O estudo genético permite entender quais genes estão envolvidos na produção dos compostos terapêuticos das plantas. Com isso, cientistas conseguem manipular ou replicar essas substâncias de forma mais eficiente. Além disso, o mapeamento genético ajuda na conservação e identificação correta das espécies.",
+    "palavras_chave": ["genética", "plantas medicinais", "compostos ativos", "biotecnologia", "pesquisa"]
+  },
+  {
+    "pergunta": "Como a biotecnologia pode aumentar a produção de princípios ativos em plantas?",
+    "resposta": "Através de técnicas como engenharia genética e elicitação, é possível estimular as plantas a produzirem mais substâncias terapêuticas. Isso torna o processo mais produtivo e sustentável. Por exemplo, o uso de biorreatores permite cultivar células vegetais que produzem compostos medicinais em larga escala.",
+    "palavras_chave": ["biotecnologia", "engenharia genética", "produção", "princípios ativos", "plantas medicinais"]
+  },
+  {
+    "pergunta": "O que diferencia um fitoterápico de um medicamento sintético?",
+    "resposta": "Os fitoterápicos são medicamentos derivados de plantas, geralmente com extratos padronizados, enquanto os sintéticos são compostos produzidos em laboratório. Embora ambos tenham ação terapêutica, os fitoterápicos trazem complexidade natural, combinando várias moléculas que atuam de forma sinérgica. Sabia que a Organização Mundial da Saúde reconhece oficialmente o uso de fitoterápicos em sistemas de saúde tradicionais?",
+    "palavras_chave": ["fitoterápicos", "medicamentos", "plantas", "saúde", "OMS"]
+  },
+  {
+    "pergunta": "Como a bioprospecção contribui para a descoberta de novos medicamentos?",
+    "resposta": "A bioprospecção é o processo de busca por organismos com potencial biotecnológico, especialmente plantas com propriedades medicinais. Pesquisadores analisam extratos e compostos em busca de substâncias úteis para tratar doenças. Esse campo tem enorme importância econômica e científica, mas também levanta debates éticos sobre o uso do conhecimento tradicional.",
+    "palavras_chave": ["bioprospecção", "descoberta", "medicamentos", "ética", "biodiversidade"]
+  },
+  {
+    "pergunta": "Qual o papel da Amazônia no desenvolvimento de fármacos naturais?",
+    "resposta": "A Amazônia é um verdadeiro laboratório natural, abrigando milhares de espécies com potenciais usos farmacológicos. Pesquisas buscam compostos ativos em plantas locais que podem originar novos medicamentos. Porém, é essencial equilibrar o avanço científico com a proteção ambiental e o respeito ao conhecimento indígena.",
+    "palavras_chave": ["amazônia", "biodiversidade", "plantas medicinais", "fármacos", "conservação"]
+  },
+  {
+    "pergunta": "Como a nanotecnologia está sendo usada em fitoterápicos?",
+    "resposta": "A nanotecnologia permite encapsular compostos de plantas em nanopartículas, aumentando sua absorção e eficácia no corpo. Essa inovação torna os fitoterápicos mais estáveis e eficientes. Sabia que já existem cremes e suplementos à base de curcumina e chá-verde desenvolvidos com nanotecnologia?",
+    "palavras_chave": ["nanotecnologia", "fitoterápicos", "absorção", "eficácia", "curcumina"]
+  },
+  {
+    "pergunta": "Por que a regulamentação é importante no uso de plantas medicinais?",
+    "resposta": "Sem regulamentação, o uso de plantas medicinais pode ser perigoso, devido à falta de controle de qualidade ou dosagem. A Agência Nacional de Vigilância Sanitária (Anvisa) e outras instituições garantem que os produtos à base de plantas sejam seguros e eficazes. Isso também estimula pesquisas mais confiáveis.",
+    "palavras_chave": ["regulamentação", "anvisa", "segurança", "plantas medicinais", "qualidade"]
+  },
+  {
+    "pergunta": "Como a curcumina age no organismo humano?",
+    "resposta": "A curcumina, presente no açafrão-da-terra, tem propriedades anti-inflamatórias e antioxidantes. Ela atua combatendo radicais livres e reduzindo processos inflamatórios no corpo. Além disso, estudos investigam seu potencial no combate ao câncer e doenças degenerativas.",
+    "palavras_chave": ["curcumina", "inflamação", "antioxidante", "saúde", "açafrão"]
+  },
+  {
+    "pergunta": "O que é engenharia metabólica em plantas medicinais?",
+    "resposta": "Engenharia metabólica é o conjunto de técnicas que altera as vias de produção de compostos dentro das células vegetais. Isso permite otimizar a produção de princípios ativos ou criar novas substâncias terapêuticas. Essa abordagem é cada vez mais usada em biotecnologia vegetal.",
+    "palavras_chave": ["engenharia metabólica", "biotecnologia", "plantas", "compostos", "pesquisa"]
+  },
+  {
+    "pergunta": "Por que o uso sustentável das plantas medicinais é um desafio?",
+    "resposta": "O aumento da demanda por produtos naturais ameaça muitas espécies nativas, pois a coleta excessiva pode levar à extinção. Práticas sustentáveis, como cultivo controlado e uso de biotecnologia, são essenciais para equilibrar exploração e preservação.",
+    "palavras_chave": ["sustentabilidade", "plantas medicinais", "preservação", "biotecnologia", "cultivo"]
+  },
+  {
+    "pergunta": "Como os povos tradicionais influenciam a ciência das plantas medicinais?",
+    "resposta": "Os conhecimentos tradicionais são base de inúmeras descobertas científicas. Povos indígenas e comunidades locais utilizam plantas há séculos, fornecendo informações valiosas para a bioprospecção moderna. É fundamental reconhecer e proteger esses saberes para evitar biopirataria.",
+    "palavras_chave": ["conhecimento tradicional", "biopirataria", "plantas medicinais", "bioprospecção", "cultura"]
+  },
+  {
+    "pergunta": "O que são biorreatores e como ajudam na produção de compostos vegetais?",
+    "resposta": "Biorreatores são equipamentos que permitem cultivar células vegetais sob condições controladas. Eles possibilitam a produção em larga escala de substâncias medicinais, sem depender do cultivo tradicional. Essa técnica é sustentável e garante uniformidade química.",
+    "palavras_chave": ["biorreatores", "cultura celular", "produção", "sustentabilidade", "biotecnologia"]
+  },
+  {
+    "pergunta": "Como a clonagem vegetal é usada na propagação de espécies medicinais?",
+    "resposta": "A clonagem vegetal permite gerar cópias idênticas de plantas com alto teor de compostos ativos. Isso garante qualidade e produtividade constantes, essenciais para a indústria farmacêutica. Técnicas como micropropagação são amplamente utilizadas nesse processo.",
+    "palavras_chave": ["clonagem", "micropropagação", "plantas medicinais", "produção", "biotecnologia"]
+  },
+  {
+    "pergunta": "O que é farmacognosia e qual sua relação com as plantas medicinais?",
+    "resposta": "Farmacognosia é a ciência que estuda as drogas de origem natural, incluindo plantas e seus derivados. Ela analisa desde a identificação botânica até os princípios ativos. É uma área essencial para o desenvolvimento de medicamentos fitoterápicos seguros e eficazes.",
+    "palavras_chave": ["farmacognosia", "fitoterapia", "plantas medicinais", "fármacos", "análise"]
+  },
+  {
+    "pergunta": "Como o DNA barcoding ajuda a identificar plantas medicinais?",
+    "resposta": "O DNA barcoding utiliza pequenos trechos de DNA para identificar espécies com precisão. Essa técnica evita fraudes e substituições acidentais, garantindo autenticidade em produtos fitoterápicos. É uma ferramenta poderosa de controle de qualidade e conservação.",
+    "palavras_chave": ["dna barcoding", "identificação", "qualidade", "plantas medicinais", "genética"]
+  },
+  {
+    "pergunta": "Quais são os riscos do uso indiscriminado de plantas medicinais?",
+    "resposta": "Mesmo naturais, as plantas medicinais podem causar efeitos colaterais ou interagir com medicamentos. A automedicação sem orientação pode ser perigosa. Por isso, é essencial buscar informações confiáveis e respeitar dosagens recomendadas.",
+    "palavras_chave": ["riscos", "automedicação", "efeitos colaterais", "fitoterapia", "segurança"]
+  },
+  {
+    "pergunta": "Como a biotecnologia ajuda na padronização dos extratos vegetais?",
+    "resposta": "A biotecnologia permite controlar as condições de cultivo e extração das plantas, garantindo que os extratos tenham sempre a mesma concentração de princípios ativos. Isso é essencial para manter a eficácia e a segurança dos fitoterápicos. Sabia que, antes dessas técnicas, era comum encontrar grandes variações na potência de um mesmo produto natural?",
+    "palavras_chave": ["biotecnologia", "extratos", "padronização", "fitoterápicos", "qualidade"]
+  },
+  {
+    "pergunta": "O que são plantas adaptógenas e por que são tão populares?",
+    "resposta": "Plantas adaptógenas ajudam o corpo a lidar com o estresse físico e mental, equilibrando funções do organismo. Exemplos famosos incluem o ginseng, a ashwagandha e a rhodiola. Essas plantas vêm ganhando destaque na medicina integrativa por sua ação restauradora e preventiva.",
+    "palavras_chave": ["adaptógenas", "estresse", "ginseng", "saúde", "fitoterapia"]
+  },
+  {
+    "pergunta": "Por que a curcuma é considerada uma das plantas mais estudadas do mundo?",
+    "resposta": "A curcuma contém curcumina, um composto com propriedades anti-inflamatórias, antioxidantes e até antitumorais. É amplamente pesquisada por seu potencial na prevenção de doenças crônicas. Sabia que existem mais de 20 mil estudos científicos publicados sobre a curcumina?",
+    "palavras_chave": ["curcuma", "curcumina", "antioxidante", "pesquisa", "plantas medicinais"]
+  },
+  {
+    "pergunta": "Como os óleos essenciais se relacionam com a biotecnologia?",
+    "resposta": "Os óleos essenciais são misturas complexas de compostos voláteis extraídos de plantas. A biotecnologia tem desenvolvido métodos mais eficientes e sustentáveis de extração e síntese desses óleos. Além disso, a análise genética das plantas permite aprimorar a qualidade e o rendimento das essências.",
+    "palavras_chave": ["óleos essenciais", "extração", "biotecnologia", "aromaterapia", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é etnobotânica e qual sua importância para a ciência moderna?",
+    "resposta": "A etnobotânica estuda como diferentes culturas utilizam as plantas em seus costumes, alimentação e medicina. Esse conhecimento tradicional serve de base para descobertas científicas e desenvolvimento de novos medicamentos. Sabia que muitos remédios atuais nasceram da observação do uso popular de plantas?",
+    "palavras_chave": ["etnobotânica", "cultura", "plantas", "conhecimento tradicional", "ciência"]
+  },
+  {
+    "pergunta": "Como o uso de drones e sensores ajuda no cultivo de plantas medicinais?",
+    "resposta": "Drones e sensores permitem monitorar o crescimento, a irrigação e a saúde das plantas em tempo real. Isso melhora a produtividade e reduz o impacto ambiental. Essas tecnologias fazem parte da agricultura de precisão, que já é aplicada ao cultivo de espécies medicinais.",
+    "palavras_chave": ["drones", "agricultura", "plantas medicinais", "tecnologia", "monitoramento"]
+  },
+  {
+    "pergunta": "O que é biofabricação de compostos vegetais?",
+    "resposta": "A biofabricação usa organismos vivos, como bactérias ou leveduras, modificados geneticamente para produzir compostos que normalmente viriam das plantas. Essa técnica reduz a necessidade de cultivo extensivo e ajuda a conservar espécies ameaçadas.",
+    "palavras_chave": ["biofabricação", "biotecnologia", "compostos", "sustentabilidade", "plantas"]
+  },
+  {
+    "pergunta": "Como o mercado farmacêutico tem aproveitado os avanços em biotecnologia vegetal?",
+    "resposta": "A indústria farmacêutica investe em biotecnologia vegetal para desenvolver medicamentos mais eficazes e sustentáveis. O uso de plantas modificadas, cultura de células e técnicas de extração avançadas tem acelerado a descoberta de novos fármacos. Sabia que cerca de 25% dos remédios modernos derivam direta ou indiretamente de plantas?",
+    "palavras_chave": ["farmacêutica", "biotecnologia", "plantas", "fármacos", "inovação"]
+  },
+  {
+    "pergunta": "O que é a biopirataria e por que ela é um problema para as plantas medicinais?",
+    "resposta": "A biopirataria ocorre quando empresas ou pesquisadores exploram recursos biológicos e conhecimentos tradicionais sem autorização ou compensação. Isso prejudica comunidades locais e ameaça a conservação das espécies. O combate à biopirataria é essencial para uma biotecnologia ética.",
+    "palavras_chave": ["biopirataria", "ética", "conservação", "plantas medicinais", "biodiversidade"]
+  },
+  {
+    "pergunta": "Como a biotecnologia ajuda na produção de cosméticos naturais?",
+    "resposta": "A biotecnologia vegetal fornece ingredientes ativos extraídos de plantas para cosméticos, como antioxidantes e hidratantes. Ela permite criar fórmulas mais puras e sustentáveis, livres de químicos agressivos. Hoje, muitas marcas apostam em biocosméticos com base científica sólida.",
+    "palavras_chave": ["biotecnologia", "cosméticos", "plantas", "sustentabilidade", "beleza"]
+  },
+  {
+    "pergunta": "Por que o alecrim é considerado uma planta medicinal multifuncional?",
+    "resposta": "O alecrim contém compostos antioxidantes e antimicrobianos, sendo usado tanto na culinária quanto na medicina. Ele melhora a digestão, a memória e até a circulação. Sabia que seu óleo essencial é usado em terapias de relaxamento e produtos capilares?",
+    "palavras_chave": ["alecrim", "antioxidante", "fitoterapia", "óleo essencial", "bem-estar"]
+  },
+  {
+    "pergunta": "Como a bioinformática auxilia o estudo das plantas medicinais?",
+    "resposta": "A bioinformática analisa dados genéticos e moleculares das plantas, identificando genes responsáveis por compostos medicinais. Com isso, os cientistas aceleram a descoberta e o melhoramento de espécies promissoras. É uma fusão entre biologia, informática e inovação.",
+    "palavras_chave": ["bioinformática", "genética", "biotecnologia", "plantas medicinais", "pesquisa"]
+  },
+  {
+    "pergunta": "O que é o cultivo hidropônico de plantas medicinais?",
+    "resposta": "Na hidroponia, as plantas são cultivadas sem solo, recebendo nutrientes dissolvidos na água. Essa técnica permite um controle rigoroso sobre o crescimento e o teor de compostos ativos. É uma alternativa limpa e eficiente para o cultivo de espécies medicinais em ambientes urbanos.",
+    "palavras_chave": ["hidroponia", "cultivo", "plantas medicinais", "sustentabilidade", "biotecnologia"]
+  },
+  {
+    "pergunta": "Como o clima e o solo influenciam a qualidade das plantas medicinais?",
+    "resposta": "Fatores ambientais como temperatura, umidade e tipo de solo afetam diretamente a produção de compostos terapêuticos. Por isso, o mesmo tipo de planta pode ter diferentes propriedades dependendo da região em que é cultivada. A biotecnologia busca padronizar esses efeitos por meio de controle em laboratório.",
+    "palavras_chave": ["clima", "solo", "plantas medicinais", "qualidade", "biotecnologia"]
+  },
+  {
+    "pergunta": "Por que a camomila é tão usada na medicina natural?",
+    "resposta": "A camomila possui propriedades calmantes, anti-inflamatórias e digestivas. É uma das plantas mais populares da fitoterapia, usada em chás e cosméticos. Sabia que ela também é estudada como agente natural contra ansiedade leve?",
+    "palavras_chave": ["camomila", "fitoterapia", "calmante", "plantas medicinais", "chás"]
+  },
+  {
+    "pergunta": "O que é farmacologia de produtos naturais?",
+    "resposta": "É o ramo da farmacologia que estuda substâncias derivadas de organismos vivos, especialmente plantas. Analisa como essas substâncias agem no corpo e quais são suas aplicações terapêuticas. Esse campo une saberes tradicionais e ciência moderna.",
+    "palavras_chave": ["farmacologia", "produtos naturais", "plantas", "pesquisa", "ciência"]
+  },
+  {
+    "pergunta": "Como o conhecimento indígena contribui para a biotecnologia moderna?",
+    "resposta": "O saber indígena é uma fonte riquíssima de informações sobre plantas e seus usos medicinais. A biotecnologia moderna muitas vezes parte dessas observações para desenvolver novos medicamentos. É essencial garantir que esses povos sejam reconhecidos e recompensados por suas contribuições.",
+    "palavras_chave": ["indígenas", "conhecimento tradicional", "biotecnologia", "plantas", "ética"]
+  },
+  {
+    "pergunta": "Qual é o papel das universidades na pesquisa com plantas medicinais?",
+    "resposta": "As universidades desenvolvem estudos multidisciplinares que vão da botânica à farmacologia. Elas testam compostos, validam usos populares e formam profissionais especializados em biotecnologia vegetal. São centros fundamentais para transformar conhecimento em inovação.",
+    "palavras_chave": ["universidades", "pesquisa", "plantas medicinais", "biotecnologia", "inovação"]
+  },
+  {
+    "pergunta": "O que é o extrato padronizado e por que ele é importante?",
+    "resposta": "Um extrato padronizado tem uma quantidade fixa e conhecida do composto ativo principal da planta. Isso garante que cada dose tenha o mesmo efeito terapêutico. É um passo essencial para transformar o uso popular das plantas em medicamentos confiáveis.",
+    "palavras_chave": ["extrato", "padronização", "fitoterapia", "qualidade", "medicamentos"]
+  },
+  {
+    "pergunta": "Como a biotecnologia ajuda na conservação genética das plantas medicinais?",
+    "resposta": "Técnicas como o congelamento de sementes e o cultivo in vitro permitem preservar o material genético de espécies ameaçadas. Assim, é possível manter a diversidade biológica e garantir fontes para futuras pesquisas e medicamentos.",
+    "palavras_chave": ["conservação", "genética", "biotecnologia", "espécies", "biodiversidade"]
+  },
+  {
+    "pergunta": "O que são compostos fenólicos e qual sua importância médica?",
+    "resposta": "Os compostos fenólicos são antioxidantes naturais produzidos pelas plantas. Eles ajudam a combater o envelhecimento celular e reduzir o risco de doenças cardiovasculares. Estão presentes em alimentos e plantas medicinais como o chá-verde e o açaí.",
+    "palavras_chave": ["compostos fenólicos", "antioxidantes", "plantas", "saúde", "fitoterapia"]
+  },
+  {
+    "pergunta": "Por que a pesquisa com cannabis medicinal tem crescido tanto?",
+    "resposta": "A cannabis contém canabinoides com potencial terapêutico para tratar dores crônicas, epilepsia e ansiedade. Com o avanço da biotecnologia, é possível isolar e estudar cada composto separadamente. Sabia que o CBD, um dos principais componentes, não causa efeitos psicoativos?",
+    "palavras_chave": ["cannabis", "cbd", "fitoterapia", "biotecnologia", "medicina"]
+  },
+  {
+    "pergunta": "Como o mercado global de fitoterápicos está evoluindo?",
+    "resposta": "O mercado de fitoterápicos cresce continuamente, impulsionado pela busca por alternativas naturais e sustentáveis. Países asiáticos e europeus lideram em regulamentação e inovação, enquanto o Brasil desponta pelo potencial de sua biodiversidade.",
+    "palavras_chave": ["fitoterápicos", "mercado", "sustentabilidade", "biotecnologia", "biodiversidade"]
+  },
+  {
+    "pergunta": "Qual é o futuro das plantas medicinais na medicina moderna?",
+    "resposta": "O futuro aponta para uma integração entre a medicina tradicional e a biotecnologia avançada. Plantas medicinais continuarão sendo fonte de novos medicamentos e terapias personalizadas. O desafio será equilibrar inovação, ética e sustentabilidade.",
+    "palavras_chave": ["plantas medicinais", "futuro", "biotecnologia", "inovação", "sustentabilidade"]
+  }
+]

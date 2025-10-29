@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "Quem foi Euclides e por que ele é tão importante na história da matemática?",
+    "resposta": "Euclides foi um matemático grego que viveu por volta do século III a.C. em Alexandria. Ele é conhecido como o 'pai da geometria' por causa da sua obra *Elementos*, um conjunto de 13 livros que organizou e sistematizou o conhecimento geométrico da época. O que torna Euclides tão especial é que ele não só compilou ideias, mas criou um sistema lógico rigoroso, com axiomas e teoremas, que serviu de base para a matemática por mais de dois mil anos. Por exemplo, o famoso teorema de Pitágoras aparece em *Elementos*, provado de forma elegante. Sua abordagem lógica ainda influencia como ensinamos matemática hoje. Sabia que *Elementos* foi um dos livros mais publicados da história, só perdendo para a Bíblia por muitos séculos?",
+    "palavras_chave": ["euclides", "geometria", "elementos", "axiomas", "teoremas"]
+  },
+  {
+    "pergunta": "Qual foi a contribuição de Pitágoras para a matemática?",
+    "resposta": "Pitágoras, um filósofo e matemático grego do século VI a.C., é mais famoso pelo teorema que leva seu nome: em um triângulo retângulo, a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa. Mas ele fez muito mais! Ele fundou uma escola em Crotona, na Itália, onde seus seguidores, os pitagóricos, estudavam números como se fossem sagrados. Eles descobriram os números irracionais, como a raiz de 2, e exploraram relações entre números e música, como as proporções nas cordas de uma lira. A análise crítica aqui é que, apesar de sua genialidade, os pitagóricos misturavam matemática com misticismo, o que às vezes limitava suas descobertas. Sabia que Pitágoras achava que os números tinham significados espirituais, como o 10 sendo o número da perfeição?",
+    "palavras_chave": ["pitágoras", "teorema", "números irracionais", "pitagóricos", "música"]
+  },
+  {
+    "pergunta": "Por que Arquimedes é considerado um gênio da matemática antiga?",
+    "resposta": "Arquimedes, que viveu no século III a.C. em Siracusa, foi um dos maiores matemáticos da história. Ele calculou o valor de π com uma precisão impressionante para a época, usando polígonos inscritos e circunscritos em um círculo. Além disso, desenvolveu métodos para calcular áreas e volumes, como o volume de uma esfera, que são precursores do cálculo integral. Ele também usou a matemática para criar máquinas de guerra, como catapultas. O que impressiona é como ele combinava teoria pura com aplicações práticas. Uma crítica é que suas ideias eram tão avançadas que demoraram séculos para serem plenamente apreciadas. Sabia que Arquimedes descobriu o princípio da flutuação enquanto tomava banho, o que o fez gritar 'Eureka!'?",
+    "palavras_chave": ["arquimedes", "pi", "cálculo", "geometria", "flutuação"]
+  },
+  {
+    "pergunta": "Como Tales de Mileto usou a matemática no mundo real?",
+    "resposta": "Tales de Mileto, do século VI a.C., é considerado um dos primeiros matemáticos da história. Ele usou a geometria para resolver problemas práticos, como medir a altura de uma pirâmide no Egito observando sua sombra e comparando com a sombra de um bastão. Esse método, baseado na semelhança de triângulos, mostra como a matemática pode ser aplicada ao mundo real. Tales também previu um eclipse solar, mostrando que a matemática podia explicar fenômenos naturais. Uma crítica é que muitas histórias sobre ele são lendárias, então nem tudo é 100% confiável. Sabia que Tales achava que a água era a base de todas as coisas, o que o torna também um dos primeiros filósofos?",
+    "palavras_chave": ["tales", "geometria", "semelhança", "pirâmides", "eclipse"]
+  },
+  {
+    "pergunta": "O que Diophantus contribuiu para a álgebra?",
+    "resposta": "Diophantus, um matemático grego do século III d.C., é chamado de 'pai da álgebra' por causa de sua obra *Arithmetica*. Ele resolveu equações com várias incógnitas, criando métodos que se parecem com a álgebra moderna. Suas equações, chamadas diofantinas, só aceitam soluções inteiras, como encontrar números inteiros que satisfaçam x² + y² = z². Ele usava símbolos para representar incógnitas, algo inovador na época. Uma crítica é que sua notação era bem menos desenvolvida que a de hoje, dificultando a leitura. Sabia que o matemático Pierre de Fermat escreveu uma nota famosa nas margens de *Arithmetica*, que levou ao famoso Último Teorema de Fermat?",
+    "palavras_chave": ["diophantus", "álgebra", "equações diofantinas", "arithmetica", "fermat"]
+  },
+  {
+    "pergunta": "Quem foi Hypatia e qual seu papel na história da matemática?",
+    "resposta": "Hypatia de Alexandria, que viveu no século IV d.C., foi uma das primeiras mulheres matemáticas conhecidas. Ela ensinava matemática, astronomia e filosofia em Alexandria, comentando obras de Euclides e Diophantus. Seus trabalhos ajudaram a preservar o conhecimento matemático da Antiguidade. Ela também construiu instrumentos como astrolábios. Infelizmente, sua história é marcada por sua morte violenta, ligada a conflitos políticos e religiosos. Uma análise crítica é que, apesar de sua genialidade, poucas de suas obras sobreviveram, o que limita nosso conhecimento sobre ela. Sabia que Hypatia foi retratada no filme *Ágora*, que mostra sua vida e o contexto turbulento de Alexandria?",
+    "palavras_chave": ["hypatia", "alexandria", "matemática", "astronomia", "astrolábio"]
+  },
+  {
+    "pergunta": "Como a matemática babilônica influenciou o mundo antigo?",
+    "resposta": "Os babilônios, que viveram na Mesopotâmia por volta de 1800 a.C., desenvolveram uma matemática avançada para a época. Eles usavam um sistema numérico de base 60, que ainda influencia como dividimos horas e minutos. Resolviam problemas de álgebra e geometria, como calcular áreas de terras, e tinham tabelas para multiplicação e raízes quadradas. O que impressiona é como eles aplicavam isso na astronomia e na administração. Uma crítica é que faltava a eles um sistema formal de provas, como os gregos desenvolveram depois. Sabia que o sistema de base 60 dos babilônios é a razão pela qual temos 360 graus em um círculo?",
+    "palavras_chave": ["babilônios", "base 60", "álgebra", "geometria", "astronomia"]
+  },
+  {
+    "pergunta": "Qual foi o impacto de Al-Khwārizmī na história da matemática?",
+    "resposta": "Al-Khwārizmī, um matemático persa do século IX, é considerado o 'pai da álgebra moderna'. Sua obra *Al-Jabr* introduziu métodos sistemáticos para resolver equações lineares e quadráticas. Ele também popularizou o uso dos números indo-arábicos, como o zero, que revolucionaram os cálculos. Sua abordagem era prática, voltada para resolver problemas do comércio e heranças. Uma crítica é que ele não usava símbolos como fazemos hoje, o que tornava suas explicações mais verbosas. Sabia que a palavra 'álgebra' vem do título do seu livro, e 'algoritmo' deriva do seu nome?",
+    "palavras_chave": ["al-khwārizmī", "álgebra", "números indo-arábicos", "al-jabr", "algoritmo"]
+  },
+  {
+    "pergunta": "Por que Fibonacci é famoso na matemática?",
+    "resposta": "Leonardo de Pisa, conhecido como Fibonacci, foi um matemático italiano do século XIII. Ele popularizou os números indo-arábicos na Europa com seu livro *Liber Abaci*. Sua maior fama vem da sequência de Fibonacci, onde cada número é a soma dos dois anteriores (1, 1, 2, 3, 5, 8...). Essa sequência aparece em fenômenos naturais, como a disposição de folhas em plantas. Uma crítica é que ele não descobriu a sequência, mas a trouxe do mundo árabe. Sabia que a proporção entre números consecutivos da sequência de Fibonacci se aproxima da razão áurea, usada em arte e arquitetura?",
+    "palavras_chave": ["fibonacci", "sequência", "liber abaci", "razão áurea", "números"]
+  },
+  {
+    "pergunta": "O que Omar Khayyam contribuiu para a matemática?",
+    "resposta": "Omar Khayyam, um matemático persa do século XI, é conhecido por suas contribuições à álgebra e à geometria. Ele resolveu equações cúbicas usando interseções de curvas geométricas, um método inovador na época. Além disso, ele escreveu sobre a teoria dos números e ajudou a reformar o calendário persa. Sua abordagem combinava rigor matemático com poesia, já que ele também era poeta. Uma crítica é que suas ideias geométricas eram complexas demais para a época e só foram valorizadas séculos depois. Sabia que Khayyam é mais famoso no Ocidente por seu livro de poemas *Rubaiyat* do que por sua matemática?",
+    "palavras_chave": ["omar khayyam", "álgebra", "equações cúbicas", "geometria", "calendário"]
+  },
+  {
+    "pergunta": "Como René Descartes conectou álgebra e geometria?",
+    "resposta": "René Descartes, um filósofo e matemático francês do século XVII, revolucionou a matemática com a criação da geometria analítica. Ele mostrou que problemas geométricos, como curvas, podiam ser descritos por equações algébricas usando coordenadas. Isso permitiu, por exemplo, representar uma reta como y = mx + b. Sua obra *La Géométrie* lançou as bases para o cálculo moderno. Uma crítica é que sua notação era menos intuitiva que a de hoje. Sabia que o sistema de coordenadas que usamos, com eixos x e y, é chamado de cartesiano em homenagem a Descartes?",
+    "palavras_chave": ["descartes", "geometria analítica", "coordenadas", "la géométrie", "álgebra"]
+  },
+  {
+    "pergunta": "Qual foi o papel de Isaac Newton na história da matemática?",
+    "resposta": "Isaac Newton, do século XVII, foi um dos criadores do cálculo, junto com Leibniz. Ele desenvolveu métodos para estudar taxas de variação, como a derivada, e para calcular áreas sob curvas, como a integral. Esses conceitos foram fundamentais para a física, como no estudo do movimento dos planetas. Sua obra *Mathematical Principles of Natural Philosophy* é um marco. Uma crítica é que Newton era mais focado em aplicações do que em formalizar o cálculo. Sabia que ele e Leibniz brigaram feio pela autoria do cálculo, numa disputa que dividiu a comunidade científica?",
+    "palavras_chave": ["newton", "cálculo", "derivada", "integral", "física"]
+  },
+  {
+    "pergunta": "O que Leibniz trouxe de novo para a matemática?",
+    "resposta": "Gottfried Wilhelm Leibniz, também do século XVII, é co-criador do cálculo, junto com Newton. Ele desenvolveu uma notação mais clara e prática, como o símbolo ∫ para integrais e dy/dx para derivadas, que usamos até hoje. Ele também trabalhou em lógica e máquinas de calcular. Uma crítica é que Leibniz, como Newton, não tinha uma base rigorosa para o cálculo, o que só veio no século XIX. Sabia que Leibniz sonhava com uma linguagem universal baseada na lógica, que inspirou ideias modernas de computação?",
+    "palavras_chave": ["leibniz", "cálculo", "notação", "integral", "lógica"]
+  },
+  {
+    "pergunta": "Quem foi Carl Friedrich Gauss e por que ele é chamado de 'príncipe da matemática'?",
+    "resposta": "Carl Friedrich Gauss, um matemático alemão do século XIX, é conhecido como o 'príncipe da matemática' por suas contribuições em várias áreas. Ele trabalhou em teoria dos números, provando o teorema fundamental da álgebra, e desenvolveu métodos estatísticos, como a curva de Gauss (ou normal). Ele também fez avanços em astronomia e magnetismo. Sua genialidade estava na habilidade de conectar áreas diferentes. Uma crítica é que Gauss publicava pouco, deixando muitas ideias inéditas. Sabia que ele descobriu como construir um heptadecágono (polígono de 17 lados) com régua e compasso aos 19 anos?",
+    "palavras_chave": ["gauss", "teoria dos números", "estatística", "geometria", "astronomia"]
+  },
+  {
+    "pergunta": "Como Leonhard Euler mudou a matemática moderna?",
+    "resposta": "Leonhard Euler, um matemático suíço do século XVIII, é um dos mais prolíficos da história. Ele introduziu notações como f(x) para funções e e para a base do logaritmo natural. Euler trabalhou em análise, teoria dos números e grafos, resolvendo problemas como as pontes de Königsberg. Sua obra é clara e acessível, influenciando gerações. Uma crítica é que ele às vezes confiava na intuição sem provas rigorosas. Sabia que a constante de Euler-Mascheroni, usada em análise, ainda é um mistério, pois não sabemos se é racional ou irracional?",
+    "palavras_chave": ["euler", "funções", "teoria dos números", "grafos", "notação"]
+  },
+  {
+    "pergunta": "O que é o Último Teorema de Fermat e por que ele é famoso?",
+    "resposta": "O Último Teorema de Fermat diz que não existem números inteiros positivos a, b e c que satisfaçam a^n + b^n = c^n para n maior que 2. Pierre de Fermat, matemático francês do século XVII, afirmou ter uma prova, mas nunca a escreveu. Isso virou um dos maiores mistérios da matemática, resolvido só em 1994 por Andrew Wiles. A busca pela prova impulsionou a teoria dos números. Uma crítica é que Fermat provavelmente estava errado sobre ter uma prova simples. Sabia que Wiles levou sete anos trabalhando em segredo para provar o teorema?",
+    "palavras_chave": ["fermat", "teorema", "teoria dos números", "wiles", "prova"]
+  },
+  {
+    "pergunta": "Quem foi Évariste Galois e o que ele descobriu?",
+    "resposta": "Évariste Galois, um matemático francês do início do século XIX, criou a teoria de grupos, que explica simetrias em equações e formas geométricas. Ele mostrou por que algumas equações, como as de grau 5, não podem ser resolvidas por fórmulas simples. Sua vida foi trágica: morreu aos 20 anos num duelo. Sua genialidade só foi reconhecida após sua morte. Uma crítica é que seus manuscritos eram desorganizados, dificultando a compreensão inicial. Sabia que Galois escreveu suas ideias mais importantes na noite antes do duelo, sabendo que poderia morrer?",
+    "palavras_chave": ["galois", "teoria de grupos", "equações", "simetria", "duelo"]
+  },
+  {
+    "pergunta": "Como a matemática indiana influenciou o mundo?",
+    "resposta": "A matemática indiana, especialmente entre os séculos V e XII, trouxe inovações incríveis. Matemáticos como Aryabhata e Brahmagupta desenvolveram o conceito de zero como número e o sistema decimal. Eles também avançaram em trigonometria e resolveram equações quadráticas. Essas ideias chegaram ao mundo árabe e depois à Europa, mudando a forma de calcular. Uma crítica é que a falta de registros completos dificulta saber o alcance total dessas contribuições. Sabia que o número zero, essencial para a matemática moderna, teve origem na Índia por volta do século V?",
+    "palavras_chave": ["zero", "sistema decimal", "trigonometria", "aryabhata", "brahmagupta"]
+  },
+  {
+    "pergunta": "O que Sophie Germain contribuiu para a matemática?",
+    "resposta": "Sophie Germain, uma matemática francesa do final do século XVIII, trabalhou na teoria da elasticidade e na teoria dos números. Ela fez avanços no Último Teorema de Fermat, provando casos específicos. Como mulher, enfrentou preconceitos e teve que usar um pseudônimo masculino para ser levada a sério. Sua persistência abriu portas para outras mulheres na ciência. Uma crítica é que ela não recebeu o reconhecimento devido em vida. Sabia que Sophie Germain correspondeu-se com Gauss, que elogiou seu trabalho sem saber que ela era mulher?",
+    "palavras_chave": ["sophie germain", "fermat", "elasticidade", "teoria dos números", "mulheres"]
+  },
+  {
+    "pergunta": "Por que Ramanujan é considerado um gênio matemático?",
+    "resposta": "Srinivasa Ramanujan, um matemático indiano do início do século XX, tinha uma intuição extraordinária. Sem formação formal, ele descobriu milhares de fórmulas em teoria dos números, frações contínuas e séries infinitas. Sua parceria com o matemático G.H. Hardy na Inglaterra produziu resultados revolucionários. Uma crítica é que ele nem sempre provava suas fórmulas, confiando na intuição. Sabia que Ramanujan dizia que suas fórmulas vinham em sonhos inspirados por uma deusa hindu, Namagiri?",
+    "palavras_chave": ["ramanujan", "teoria dos números", "séries", "hardy", "intuição"]
+  },
+  {
+    "pergunta": "Como Ada Lovelace conectou matemática e computação?",
+    "resposta": "Ada Lovelace, do século XIX, é considerada a primeira programadora. Trabalhando com a Máquina Analítica de Charles Babbage, ela escreveu o primeiro algoritmo para calcular números de Bernoulli. Ela também previu que máquinas poderiam ir além de cálculos, como criar música. Sua visão foi revolucionária, mas limitada pela tecnologia da época. Uma crítica é que suas ideias foram mais teóricas do que práticas. Sabia que Ada era filha do poeta Lord Byron, mas preferiu a matemática à poesia?",
+    "palavras_chave": ["ada lovelace", "algoritmo", "máquina analítica", "computação", "bernoulli"]
+  },
+  {
+    "pergunta": "O que é a Hipótese de Riemann e por que ela importa?",
+    "resposta": "A Hipótese de Riemann, proposta por Bernhard Riemann em 1859, é um dos maiores problemas não resolvidos da matemática. Ela trata da distribuição dos números primos e está ligada à função zeta de Riemann. Resolver essa hipótese poderia revolucionar a teoria dos números e até a criptografia. Uma crítica é que sua complexidade a torna difícil de explicar para não especialistas. Sabia que há um prêmio de 1 milhão de dólares para quem resolver a Hipótese de Riemann, oferecido pelo Clay Mathematics Institute?",
+    "palavras_chave": ["riemann", "hipótese", "números primos", "função zeta", "criptografia"]
+  },
+  {
+    "pergunta": "Como Emmy Noether mudou a matemática e a física?",
+    "resposta": "Emmy Noether, uma matemática alemã do início do século XX, é famosa pelo Teorema de Noether, que conecta simetrias em física com leis de conservação, como a conservação de energia. Ela também revolucionou a álgebra abstrata, trabalhando com anéis e grupos. Como mulher, enfrentou barreiras, mas foi elogiada por Einstein. Uma crítica é que seu trabalho é tão abstrato que pode ser difícil de aplicar diretamente. Sabia que Noether lecionava sem salário formal por anos, por causa de preconceitos contra mulheres?",
+    "palavras_chave": ["emmy noether", "teorema", "álgebra abstrata", "simetria", "física"]
+  },
+  {
+    "pergunta": "O que é a geometria não euclidiana e quem a desenvolveu?",
+    "resposta": "A geometria não euclidiana desafia as ideias de Euclides, como a de que linhas paralelas nunca se encontram. No século XIX, matemáticos como Nikolai Lobachevsky e János Bolyai desenvolveram geometrias onde isso não é verdade, como em superfícies curvas. Essas ideias foram cruciais para a teoria da relatividade de Einstein. Uma crítica é que essas geometrias eram difíceis de visualizar na época. Sabia que a geometria não euclidiana é usada para modelar o universo, que pode não ser 'plano' como imaginamos?",
+    "palavras_chave": ["geometria não euclidiana", "lobachevsky", "bolyai", "relatividade", "curvatura"]
+  },
+  {
+    "pergunta": "Quem foi Alan Turing e sua contribuição para a matemática?",
+    "resposta": "Alan Turing, um matemático britânico do século XX, é conhecido como o pai da ciência da computação. Ele criou a Máquina de Turing, um modelo teórico que define o que é computável. Durante a Segunda Guerra Mundial, usou matemática para quebrar códigos nazistas. Sua visão sobre inteligência artificial também foi pioneira. Uma crítica é que suas ideias eram tão avançadas que demoraram a ser aplicadas. Sabia que Turing foi perseguido por ser homossexual e só recebeu reconhecimento póstumo por seu trabalho?",
+    "palavras_chave": ["turing", "máquina de turing", "computação", "códigos", "inteligência artificial"]
+  },
+  {
+    "pergunta": "Qual foi o impacto de Bhāskara II na matemática indiana?",
+    "resposta": "Bhāskara II, um matemático indiano do século XII, escreveu o *Siddhānta Shiromani*, um tratado que avançou álgebra, aritmética e astronomia. Ele desenvolveu métodos para resolver equações quadráticas e trabalhou com o conceito de infinito. Por exemplo, ele mostrou como dividir por zero leva a resultados 'infinitos', algo revolucionário para a época. Sua clareza na explicação de problemas práticos, como cálculos astronômicos, foi notável. Uma crítica é que suas ideias demoraram a chegar ao Ocidente. Sabia que Bhāskara II também escreveu poesia para ensinar matemática, como em seu livro *Lilavati*, nomeado em homenagem à sua filha?",
+    "palavras_chave": ["bhāskara", "álgebra", "siddhānta shiromani", "infinito", "lilavati"]
+  },
+  {
+    "pergunta": "Como François Viète contribuiu para a álgebra moderna?",
+    "resposta": "François Viète, um matemático francês do século XVI, é conhecido como o 'pai da álgebra simbólica'. Ele introduziu o uso de letras para representar variáveis e constantes, como x e a, em equações. Isso tornou a álgebra mais geral e fácil de manipular. Ele também resolveu equações de grau superior e trabalhou em trigonometria. Uma crítica é que sua notação ainda era complicada comparada à atual. Sabia que Viète usou sua matemática para decifrar códigos durante guerras, ajudando o rei da França?",
+    "palavras_chave": ["viète", "álgebra simbólica", "variáveis", "trigonometria", "códigos"]
+  },
+  {
+    "pergunta": "O que John Napier descobriu sobre logaritmos?",
+    "resposta": "John Napier, um matemático escocês do século XVII, inventou os logaritmos, que simplificaram cálculos complexos, como multiplicações e divisões, transformando-os em somas e subtrações. Sua obra *Mirifici Logarithmorum Canonis Descriptio* foi um marco. Isso ajudou astrônomos e navegadores da época. Uma crítica é que seus logaritmos iniciais não usavam a base moderna (como e ou 10). Sabia que Napier também criou os 'ossos de Napier', uma ferramenta física para cálculos, como uma calculadora primitiva?",
+    "palavras_chave": ["napier", "logaritmos", "cálculos", "astronomia", "ossos de napier"]
+  },
+  {
+    "pergunta": "Por que Pierre-Simon Laplace é importante na história da matemática?",
+    "resposta": "Pierre-Simon Laplace, do século XVIII, foi um matemático e astrônomo francês que avançou a teoria das probabilidades e a mecânica celeste. Sua obra *Théorie Analytique des Probabilités* formalizou conceitos de probabilidade usados hoje em estatística. Ele também aplicou equações diferenciais para estudar órbitas planetárias. Uma crítica é que seus textos eram densos e difíceis para leitores da época. Sabia que Laplace propôs a ideia de um 'demônio' que poderia prever o futuro conhecendo todas as leis da física?",
+    "palavras_chave": ["laplace", "probabilidade", "mecânica celeste", "equações diferenciais", "estatística"]
+  },
+  {
+    "pergunta": "Como Joseph Fourier influenciou a análise matemática?",
+    "resposta": "Joseph Fourier, um matemático francês do início do século XIX, desenvolveu a transformada de Fourier, que decompõe funções em somas de ondas senoidais. Isso é usado hoje em áreas como processamento de sinais e física. Ele aplicou sua teoria ao estudo do calor, mostrando como equações diferenciais descrevem fenômenos físicos. Uma crítica é que suas ideias iniciais careciam de rigor matemático, corrigido depois por outros. Sabia que a transformada de Fourier é essencial para tecnologias como compressão de áudio e imagem, como MP3 e JPEG?",
+    "palavras_chave": ["fourier", "transformada", "análise", "calor", "sinais"]
+  },
+  {
+    "pergunta": "Quem foi Niels Henrik Abel e o que ele descobriu?",
+    "resposta": "Niels Henrik Abel, um matemático norueguês do século XIX, fez avanços na teoria dos grupos e nas funções elípticas. Ele provou que equações de quinto grau ou mais não têm solução geral por radicais, resolvendo um problema de séculos. Sua vida foi curta e marcada por dificuldades financeiras. Uma crítica é que seu trabalho era tão avançado que poucos contemporâneos o entenderam. Sabia que Abel morreu aos 26 anos, mas suas ideias ainda são centrais na álgebra moderna?",
+    "palavras_chave": ["abel", "teoria de grupos", "funções elípticas", "equações", "álgebra"]
+  },
+  {
+    "pergunta": "O que é a conjectura de Goldbach e quem a propôs?",
+    "resposta": "A conjectura de Goldbach, proposta por Christian Goldbach em 1742, afirma que todo número par maior que 2 pode ser expresso como a soma de dois números primos. Por exemplo, 8 = 3 + 5. Apesar de testada para números enormes, ela nunca foi provada ou refutada. É um dos problemas mais antigos da teoria dos números. Uma crítica é que sua simplicidade esconde uma complexidade enorme. Sabia que Goldbach era um diplomata que trocava cartas com Euler sobre matemática por hobby?",
+    "palavras_chave": ["goldbach", "conjectura", "números primos", "teoria dos números", "euler"]
+  },
+  {
+    "pergunta": "Como Augustin-Louis Cauchy avançou o cálculo?",
+    "resposta": "Augustin-Louis Cauchy, um matemático francês do século XIX, trouxe rigor ao cálculo. Ele definiu conceitos como limite, continuidade e derivada de forma precisa, superando as intuições de Newton e Leibniz. Sua obra *Cours d’Analyse* é um marco na análise matemática. Uma crítica é que seu rigor tornou a matemática mais abstrata, dificultando o acesso para iniciantes. Sabia que Cauchy publicou mais de 700 artigos, influenciando quase todas as áreas da matemática da época?",
+    "palavras_chave": ["cauchy", "cálculo", "limite", "análise", "rigor"]
+  },
+  {
+    "pergunta": "Quem foi Georg Cantor e o que ele descobriu sobre o infinito?",
+    "resposta": "Georg Cantor, um matemático alemão do final do século XIX, criou a teoria dos conjuntos e revolucionou o estudo do infinito. Ele mostrou que existem diferentes tamanhos de infinito, como o infinito dos números naturais sendo 'menor' que o dos números reais. Sua ideia de cardinalidade chocou seus contemporâneos. Uma crítica é que suas teorias eram tão contraintuitivas que enfrentaram resistência. Sabia que Cantor sofreu com problemas de saúde mental, possivelmente devido à rejeição de suas ideias?",
+    "palavras_chave": ["cantor", "teoria dos conjuntos", "infinito", "cardinalidade", "números reais"]
+  },
+  {
+    "pergunta": "O que é a máquina de Turing e quem a criou?",
+    "resposta": "A Máquina de Turing, criada por Alan Turing no século XX, é um modelo teórico que descreve como um computador funciona. Ela consiste em uma fita infinita, um cabeçote de leitura/escrita e regras para processar símbolos. Esse conceito fundamenta a ciência da computação moderna. Uma crítica é que a máquina é puramente teórica, sem aplicação direta na época. Sabia que Turing usou sua máquina para provar que alguns problemas, como o problema da parada, são indecidíveis?",
+    "palavras_chave": ["turing", "máquina de turing", "computação", "indecidibilidade", "algoritmo"]
+  },
+  {
+    "pergunta": "Como Blaise Pascal contribuiu para a matemática?",
+    "resposta": "Blaise Pascal, um matemático francês do século XVII, avançou a teoria das probabilidades junto com Fermat, estudando jogos de azar. Ele também criou o triângulo de Pascal, usado em combinatória e no teorema binomial. Além disso, inventou uma calculadora mecânica, a Pascaline. Uma crítica é que ele abandonou a matemática por questões religiosas mais tarde na vida. Sabia que o triângulo de Pascal aparece em padrões naturais, como a sequência de Fibonacci?",
+    "palavras_chave": ["pascal", "probabilidade", "triângulo de pascal", "pascaline", "combinatória"]
+  },
+  {
+    "pergunta": "O que é a teoria dos números e por que ela é importante?",
+    "resposta": "A teoria dos números estuda propriedades dos números inteiros, como primos e divisibilidade. Matemáticos como Euclides, Fermat e Gauss a desenvolveram. Ela é crucial para a criptografia moderna, como o algoritmo RSA, que protege dados na internet. Uma crítica é que, por muito tempo, parecia uma área puramente teórica, sem aplicações práticas. Sabia que a teoria dos números foi chamada de 'rainha da matemática' por Gauss por sua beleza e desafio?",
+    "palavras_chave": ["teoria dos números", "primos", "criptografia", "gauss", "rsa"]
+  },
+  {
+    "pergunta": "Como Maryam Mirzakhani impactou a matemática moderna?",
+    "resposta": "Maryam Mirzakhani, uma matemática iraniana do século XXI, foi a primeira mulher a ganhar a Medalha Fields, em 2014. Ela trabalhou em geometria de superfícies de Riemann e dinâmica de sistemas complexos, com aplicações em física e teoria das cordas. Sua abordagem criativa inspirou muitos. Uma crítica é que seu trabalho é altamente abstrato, difícil de aplicar diretamente. Sabia que Mirzakhani desenhava suas ideias em grandes folhas de papel, como uma artista, para visualizar problemas complexos?",
+    "palavras_chave": ["mirzakhani", "geometria", "superfícies de riemann", "medalha fields", "dinâmica"]
+  },
+  {
+    "pergunta": "O que é o teorema de Gödel e quem o propôs?",
+    "resposta": "Kurt Gödel, um lógico austríaco do século XX, provou os teoremas da incompletude, que mostram que qualquer sistema matemático consistente tem afirmações verdadeiras que não podem ser provadas dentro do sistema. Isso abalou a ideia de uma matemática 'completa'. Uma crítica é que suas ideias são tão abstratas que têm pouco impacto fora da lógica. Sabia que Gödel era amigo de Einstein e suas conversas influenciaram ideias sobre tempo e relatividade?",
+    "palavras_chave": ["gödel", "incompletude", "lógica", "sistema formal", "einstein"]
+  },
+  {
+    "pergunta": "Como a matemática chinesa antiga contribuiu para o mundo?",
+    "resposta": "A matemática chinesa antiga, especialmente entre os séculos III e XIII, trouxe avanços como o teorema do resto chinês, usado para resolver sistemas de congruências. Livros como *Os Nove Capítulos sobre a Arte Matemática* abordavam álgebra e geometria prática. Essas ideias influenciaram o mundo árabe. Uma crítica é que os registros eram mais práticos do que teóricos, com menos ênfase em provas. Sabia que os chineses usavam varinhas para cálculos, um precursor das calculadoras?",
+    "palavras_chave": ["matemática chinesa", "teorema do resto", "nove capítulos", "congruências", "álgebra"]
+  },
+  {
+    "pergunta": "Quem foi John von Neumann e suas contribuições?",
+    "resposta": "John von Neumann, um matemático húngaro do século XX, contribuiu para teoria dos jogos, computação e física quântica. Ele desenvolveu o conceito de equilíbrio em jogos, usado em economia, e ajudou a criar os primeiros computadores. Sua versatilidade era impressionante. Uma crítica é que ele focava mais em aplicações do que em teoria pura. Sabia que von Neumann ajudou no Projeto Manhattan, aplicando matemática ao desenvolvimento da bomba atômica?",
+    "palavras_chave": ["von neumann", "teoria dos jogos", "computação", "equilíbrio", "física"]
+  },
+  {
+    "pergunta": "O que é o problema das pontes de Königsberg e quem o resolveu?",
+    "resposta": "O problema das pontes de Königsberg, do século XVIII, perguntava se era possível atravessar todas as sete pontes da cidade sem repetir nenhuma. Leonhard Euler resolveu isso em 1736, criando a teoria dos grafos. Ele provou que não era possível, pois o número de pontes em cada margem era ímpar. Isso lançou as bases para a topologia. Uma crítica é que o problema parece simples, mas sua solução foi revolucionária. Sabia que esse foi um dos primeiros problemas de matemática recreativa resolvidos formalmente?",
+    "palavras_chave": ["euler", "teoria dos grafos", "königsberg", "topologia", "pontes"]
+  },
+  {
+    "pergunta": "Como Maria Gaetana Agnesi contribuiu para a matemática?",
+    "resposta": "Maria Gaetana Agnesi, uma matemática italiana do século XVIII, escreveu *Instituzioni Analitiche*, um dos primeiros livros a explicar cálculo de forma clara. Ela também estudou a curva chamada 'bruxa de Agnesi', usada em física. Como mulher, enfrentou barreiras, mas foi reconhecida na Europa. Uma crítica é que sua curva tem aplicações limitadas. Sabia que Agnesi foi a primeira mulher a ser nomeada professora de matemática em uma universidade, em Bolonha?",
+    "palavras_chave": ["agnesi", "cálculo", "bruxa de agnesi", "instituzioni", "mulheres"]
+  },
+  {
+    "pergunta": "O que é o teorema fundamental da álgebra e quem o provou?",
+    "resposta": "O teorema fundamental da álgebra diz que todo polinômio de grau n tem exatamente n raízes (contando multiplicidades). Carl Friedrich Gauss deu a primeira prova rigorosa no final do século XVIII. Isso é crucial para álgebra e análise. Uma crítica é que a prova de Gauss era complexa, dificultando sua compreensão inicial. Sabia que Gauss publicou essa prova em sua tese de doutorado aos 21 anos?",
+    "palavras_chave": ["gauss", "teorema fundamental", "álgebra", "polinômios", "raízes"]
+  },
+  {
+    "pergunta": "Como Abraham de Moivre contribuiu para a probabilidade?",
+    "resposta": "Abraham de Moivre, um matemático francês do século XVIII, avançou a teoria das probabilidades com sua obra *The Doctrine of Chances*. Ele desenvolveu a fórmula de Moivre, que conecta números complexos e trigonometria, e trabalhou na distribuição normal. Suas ideias foram usadas em seguros e estatística. Uma crítica é que seu trabalho era mais técnico do que acessível. Sabia que De Moivre previu a data de sua própria morte com base em padrões de sono?",
+    "palavras_chave": ["de moivre", "probabilidade", "fórmula de moivre", "distribuição normal", "estatística"]
+  },
+  {
+    "pergunta": "O que é a constante de Euler e quem a estudou?",
+    "resposta": "A constante de Euler, aproximadamente 0,577, aparece em problemas de análise, como somas harmônicas. Leonhard Euler a estudou no século XVIII, mas ela ainda é um mistério, pois não sabemos se é racional ou irracional. Sua importância está em áreas como teoria dos números e cálculo. Uma crítica é que sua definição é abstrata, dificultando aplicações diretas. Sabia que a constante de Euler-Mascheroni é usada em algoritmos modernos de computação?",
+    "palavras_chave": ["euler", "constante", "análise", "teoria dos números", "somas harmônicas"]
+  },
+  {
+    "pergunta": "Como Al-Biruni usou a matemática na astronomia?",
+    "resposta": "Al-Biruni, um matemático e astrônomo persa do século XI, aplicou trigonometria para medir a circunferência da Terra com precisão impressionante. Ele também estudou o movimento dos planetas e escreveu sobre equações trigonométricas. Sua abordagem combinava teoria e observação prática. Uma crítica é que seus métodos dependiam de instrumentos limitados da época. Sabia que Al-Biruni mediu a Terra usando a sombra de uma montanha, um método que impressionou cientistas séculos depois?",
+    "palavras_chave": ["al-biruni", "trigonometria", "astronomia", "circunferência", "planetas"]
+  },
+  {
+    "pergunta": "O que é a conjectura de Poincaré e quem a resolveu?",
+    "resposta": "A conjectura de Poincaré, proposta por Henri Poincaré em 1904, é um problema de topologia que pergunta se uma esfera de dimensão superior pode ser caracterizada por suas propriedades. Foi resolvida em 2003 por Grigori Perelman, que recusou prêmios por sua prova. A conjectura é crucial para entender formas geométricas complexas. Uma crítica é que sua solução é extremamente técnica. Sabia que Perelman recusou a Medalha Fields e um prêmio de 1 milhão de dólares?",
+    "palavras_chave": ["poincaré", "conjectura", "topologia", "perelman", "esfera"]
+  },
+  {
+    "pergunta": "Como Nicole Oresme contribuiu para a matemática medieval?",
+    "resposta": "Nicole Oresme, um matemático francês do século XIV, foi pioneiro ao usar gráficos para representar movimento, um precursor do cálculo. Ele também trabalhou com frações e séries infinitas, desafiando ideias aristotélicas. Sua abordagem era inovadora para a época medieval. Uma crítica é que suas ideias eram limitadas pelo contexto científico da época. Sabia que Oresme também foi bispo e usou a matemática para argumentar contra a astrologia?",
+    "palavras_chave": ["oresme", "gráficos", "séries infinitas", "movimento", "medieval"]
+  },
+  {
+    "pergunta": "Quem foi David Hilbert e sua influência na matemática?",
+    "resposta": "David Hilbert, um matemático alemão do final do século XIX, influenciou a matemática com seus 23 problemas, propostos em 1900, que guiaram a pesquisa do século XX. Ele trabalhou em álgebra, análise e lógica, formalizando conceitos como espaços de Hilbert, usados em física quântica. Uma crítica é que seus problemas eram tão ambiciosos que alguns ainda estão abertos. Sabia que Hilbert acreditava que toda questão matemática poderia, em teoria, ser respondida?",
+    "palavras_chave": ["hilbert", "problemas de hilbert", "álgebra", "espaços de hilbert", "lógica"]
+  },
+  {
+    "pergunta": "Como Thābit ibn Qurra contribuiu para a matemática no mundo islâmico?",
+    "resposta": "Thābit ibn Qurra, um matemático do século IX, foi uma figura central na Era de Ouro Islâmica. Ele traduziu e expandiu obras gregas, como as de Euclides e Arquimedes, e fez avanços em álgebra e geometria. Thābit desenvolveu métodos para resolver equações quadráticas e estudou seções cônicas, aplicando-as à astronomia. Sua habilidade em conectar teoria e prática foi impressionante. Uma crítica é que suas contribuições foram ofuscadas por matemáticos posteriores, como Al-Khwārizmī. Sabia que Thābit também projetou instrumentos astronômicos, como astrolábios, usados por séculos?",
+    "palavras_chave": ["thābit ibn qurra", "álgebra", "geometria", "astronomia", "seções cônicas"]
+  },
+  {
+    "pergunta": "O que é o teorema de Bayes e quem o desenvolveu?",
+    "resposta": "O teorema de Bayes, desenvolvido por Thomas Bayes no século XVIII, descreve como atualizar probabilidades com novas evidências. É a base da estatística bayesiana, usada em áreas como inteligência artificial e medicina. Por exemplo, ajuda a calcular a probabilidade de uma doença dado um teste positivo. Bayes publicou pouco em vida, e seu teorema só ganhou fama depois. Uma crítica é que sua formulação inicial era limitada a casos simples. Sabia que Bayes era um pastor presbiteriano e usava a matemática para refletir sobre teologia?",
+    "palavras_chave": ["bayes", "teorema", "probabilidade", "estatística", "inteligência artificial"]
+  },
+  {
+    "pergunta": "Como Gerolamo Cardano avançou a álgebra no Renascimento?",
+    "resposta": "Gerolamo Cardano, um matemático italiano do século XVI, publicou a *Ars Magna*, onde descreveu métodos para resolver equações cúbicas e quárticas. Ele foi um dos primeiros a usar números negativos e imaginários em cálculos. Sua obra lançou as bases para a álgebra moderna, mas ele enfrentou críticas por publicar ideias de outros, como Tartaglia. Uma análise crítica é que sua abordagem ainda misturava intuição com rigor. Sabia que Cardano também era médico e astrólogo, e escreveu um horóscopo para Jesus Cristo?",
+    "palavras_chave": ["cardano", "ars magna", "equações cúbicas", "números imaginários", "álgebra"]
+  },
+  {
+    "pergunta": "Quem foi Katherine Johnson e seu impacto na matemática aplicada?",
+    "resposta": "Katherine Johnson, uma matemática afro-americana do século XX, trabalhou na NASA calculando trajetórias para missões espaciais, como o voo de John Glenn. Seus cálculos manuais eram tão precisos que astronautas confiavam neles mais do que em computadores da época. Ela enfrentou discriminação racial e de gênero, mas seu trabalho foi crucial. Uma crítica é que suas contribuições práticas superaram seus avanços teóricos. Sabia que seu trabalho inspirou o filme *Estrelas Além do Tempo*?",
+    "palavras_chave": ["katherine johnson", "nasa", "trajetórias", "matemática aplicada", "espaço"]
+  },
+  {
+    "pergunta": "O que é o princípio da casa dos pombos e quem o formalizou?",
+    "resposta": "O princípio da casa dos pombos diz que, se você tem mais pombos do que casas, pelo menos uma casa terá mais de um pombo. Parece simples, mas é poderoso em combinatória e teoria dos números. Foi formalizado por Johann Dirichlet no século XIX. Ele usou esse princípio para provar resultados em teoria dos números, como a existência de soluções em equações. Uma crítica é que sua simplicidade pode mascarar sua profundidade. Sabia que esse princípio é usado em problemas de informática, como detectar colisões em hash?",
+    "palavras_chave": ["dirichlet", "casa dos pombos", "combinatória", "teoria dos números", "hash"]
+  },
+  {
+    "pergunta": "Como Adrien-Marie Legendre contribuiu para a matemática?",
+    "resposta": "Adrien-Marie Legendre, um matemático francês do século XVIII, trabalhou em teoria dos números, funções elípticas e análise. Ele desenvolveu os polinômios de Legendre, usados em física e equações diferenciais. Sua obra *Éléments de Géométrie* atualizou Euclides para o ensino moderno. Uma crítica é que ele às vezes recebia menos crédito que contemporâneos como Lagrange. Sabia que Legendre tentou medir a Terra, contribuindo para a definição do metro?",
+    "palavras_chave": ["legendre", "polinômios", "teoria dos números", "geometria", "funções elípticas"]
+  },
+  {
+    "pergunta": "O que é o teorema de Pitágoras e sua origem?",
+    "resposta": "O teorema de Pitágoras diz que, em um triângulo retângulo, a² + b² = c², onde c é a hipotenusa. Embora associado a Pitágoras (século VI a.C.), há evidências de que babilônios e indianos o conheciam antes. Ele é fundamental em geometria e trigonometria, com aplicações em construção e navegação. Uma crítica é que sua prova formal só veio com Euclides. Sabia que o teorema aparece em mais de 370 demonstrações diferentes, catalogadas ao longo dos séculos?",
+    "palavras_chave": ["pitágoras", "teorema", "triângulo retângulo", "geometria", "prova"]
+  },
+  {
+    "pergunta": "Como Joseph-Louis Lagrange avançou a matemática?",
+    "resposta": "Joseph-Louis Lagrange, um matemático do século XVIII, contribuiu para análise, teoria dos números e mecânica. Ele desenvolveu o cálculo variacional, usado para otimizar trajetórias, e reformulou a mecânica newtoniana no *Mécanique Analytique*. Sua abordagem era elegante e abstrata. Uma crítica é que seus textos podiam ser densos para leitores da época. Sabia que Lagrange era tão respeitado que Napoleão o nomeou para importantes cargos científicos?",
+    "palavras_chave": ["lagrange", "cálculo variacional", "mecânica", "teoria dos números", "análise"]
+  },
+  {
+    "pergunta": "Quem foi Sofia Kovalevskaya e suas contribuições?",
+    "resposta": "Sofia Kovalevskaya, uma matemática russa do século XIX, foi pioneira em equações diferenciais e mecânica. Ela trabalhou no problema da rotação de corpos rígidos, ganhando um prestigiado prêmio. Como mulher, enfrentou barreiras para estudar, mas se tornou a primeira mulher a obter um doutorado em matemática. Uma crítica é que seu trabalho era focado em áreas específicas, com menos impacto geral. Sabia que ela também escreveu romances e peças de teatro?",
+    "palavras_chave": ["kovalevskaya", "equações diferenciais", "mecânica", "mulheres", "rotação"]
+  },
+  {
+    "pergunta": "O que é a função zeta de Riemann e sua importância?",
+    "resposta": "A função zeta de Riemann, definida por Bernhard Riemann no século XIX, é uma ferramenta da teoria dos números que estuda a distribuição de números primos. Ela é central na Hipótese de Riemann, um problema não resolvido. Suas aplicações vão desde física até criptografia. Uma crítica é que sua complexidade a torna inacessível para muitos. Sabia que a função zeta aparece em estudos sobre caos quântico e teoria das cordas?",
+    "palavras_chave": ["riemann", "função zeta", "números primos", "hipótese", "criptografia"]
+  },
+  {
+    "pergunta": "Como Al-Jazari usou a matemática em suas invenções?",
+    "resposta": "Al-Jazari, um engenheiro e matemático do século XII, aplicou geometria e trigonometria para criar máquinas complexas, como relógios de água e autômatos. Seu livro *Book of Knowledge of Ingenious Mechanical Devices* detalha esses projetos. Ele combinava teoria matemática com engenharia prática. Uma crítica é que suas invenções eram mais artesanais do que baseadas em modelos teóricos rigorosos. Sabia que Al-Jazari é considerado um dos pais da robótica por seus autômatos mecânicos?",
+    "palavras_chave": ["al-jazari", "geometria", "trigonometria", "autômatos", "engenharia"]
+  },
+  {
+    "pergunta": "O que é a conjectura de Fermat-Euler e quem a propôs?",
+    "resposta": "A conjectura de Fermat-Euler diz que todo número primo da forma 4n+1 pode ser escrito como a soma de dois quadrados. Proposta por Euler, inspirada em ideias de Fermat, ela foi provada por Euler no século XVIII. É um marco na teoria dos números. Uma crítica é que sua prova exigiu métodos avançados para a época. Sabia que essa conjectura conecta números primos com geometria, como círculos no plano cartesiano?",
+    "palavras_chave": ["euler", "fermat", "teoria dos números", "primos", "quadrados"]
+  },
+  {
+    "pergunta": "Como Johann Bernoulli contribuiu para o cálculo?",
+    "resposta": "Johann Bernoulli, um matemático suíço do século XVII, foi um dos primeiros a aplicar o cálculo de Leibniz. Ele resolveu problemas como a curva braquistócrona, que minimiza o tempo de descida de um objeto. Também trabalhou em equações diferenciais. Uma crítica é que suas disputas familiares com seu irmão Jakob atrapalharam sua reputação. Sabia que Bernoulli ensinou cálculo a Euler, que se tornou seu aluno mais famoso?",
+    "palavras_chave": ["bernoulli", "cálculo", "braquistócrona", "equações diferenciais", "euler"]
+  },
+  {
+    "pergunta": "O que é o teorema de Wilson e quem o descobriu?",
+    "resposta": "O teorema de Wilson, descoberto por John Wilson no século XVIII, diz que, para um número primo p, (p-1)! + 1 é divisível por p. É uma ferramenta útil na teoria dos números para testar primalidade. Embora simples, sua prova é não trivial. Uma crítica é que o teorema tem aplicações limitadas em comparação com outros resultados. Sabia que o teorema foi atribuído a Wilson por Lagrange, mas há evidências de que Leibniz o conhecia antes?",
+    "palavras_chave": ["wilson", "teorema", "teoria dos números", "primos", "fatorial"]
+  },
+  {
+    "pergunta": "Como Ulugh Beg usou a matemática na astronomia?",
+    "resposta": "Ulugh Beg, um governante e matemático do século XV, construiu um observatório em Samarcanda e usou trigonometria para criar tabelas astronômicas precisas. Suas medições de estrelas e planetas foram usadas por séculos. Ele também escreveu sobre equações algébricas. Uma crítica é que seu trabalho era mais empírico do que teórico. Sabia que Ulugh Beg era um príncipe timúrida que preferia a ciência à política, o que causou conflitos com sua família?",
+    "palavras_chave": ["ulugh beg", "trigonometria", "astronomia", "observatório", "tabelas"]
+  },
+  {
+    "pergunta": "O que é o teorema de Rolle e sua importância?",
+    "resposta": "O teorema de Rolle, proposto por Michel Rolle no século XVII, diz que, se uma função é contínua, derivável e tem valores iguais em dois pontos, há pelo menos um ponto onde a derivada é zero. É um pilar do cálculo diferencial, usado no teorema do valor médio. Uma crítica é que Rolle inicialmente rejeitava o cálculo, mas acabou contribuindo para ele. Sabia que o teorema de Rolle é usado em física para analisar movimento e equilíbrio?",
+    "palavras_chave": ["rolle", "teorema", "cálculo", "derivada", "valor médio"]
+  },
+  {
+    "pergunta": "Como Eudoxo de Cnido influenciou a geometria antiga?",
+    "resposta": "Eudoxo de Cnido, um matemático grego do século IV a.C., desenvolveu o método da exaustão, um precursor do cálculo integral, para calcular áreas e volumes. Ele também criou uma teoria de proporções que lida com números irracionais. Suas ideias influenciaram Euclides. Uma crítica é que seus métodos eram complexos para a época. Sabia que Eudoxo também era astrônomo e propôs um modelo de esferas celestes para explicar o movimento dos planetas?",
+    "palavras_chave": ["eudoxo", "exaustão", "geometria", "proporções", "astronomia"]
+  },
+  {
+    "pergunta": "Quem foi Paul Erdős e seu impacto na matemática?",
+    "resposta": "Paul Erdős, um matemático húngaro do século XX, foi um dos mais prolíficos da história, com mais de 1.500 artigos publicados. Ele trabalhou em teoria dos números, combinatória e teoria dos grafos, colaborando com centenas de matemáticos. Sua abordagem colaborativa criou a ideia do 'número de Erdős'. Uma crítica é que ele priorizava quantidade sobre profundidade em alguns casos. Sabia que Erdős vivia como nômade, viajando com uma mala e trabalhando com matemáticos pelo mundo?",
+    "palavras_chave": ["erdős", "teoria dos números", "combinatória", "grafos", "colaboração"]
+  },
+  {
+    "pergunta": "O que é o teorema de Fermat sobre pontos estacionários?",
+    "resposta": "O teorema de Fermat sobre pontos estacionários, do século XVII, diz que, em uma função diferenciável, os pontos máximo e mínimo ocorrem onde a derivada é zero. É um fundamento do cálculo e da otimização. Fermat usou isso para resolver problemas geométricos, como encontrar tangentes. Uma crítica é que sua abordagem carecia de rigor moderno. Sabia que Fermat desenvolveu esse conceito antes do cálculo de Newton e Leibniz?",
+    "palavras_chave": ["fermat", "pontos estacionários", "cálculo", "otimização", "derivada"]
+  },
+  {
+    "pergunta": "Como Madhava de Sangamagrama avançou a matemática indiana?",
+    "resposta": "Madhava, um matemático indiano do século XIV, fundou a escola de Kerala e desenvolveu séries infinitas para funções trigonométricas, como seno e cosseno, antecipando o cálculo. Ele também estimou π com grande precisão. Sua obra influenciou a astronomia indiana. Uma crítica é que suas ideias não chegaram ao Ocidente na época. Sabia que Madhava usava poesia para ensinar suas fórmulas, como Bhāskara II?",
+    "palavras_chave": ["madhava", "séries infinitas", "trigonometria", "kerala", "pi"]
+  },
+  {
+    "pergunta": "O que é o princípio de Cavalieri e quem o desenvolveu?",
+    "resposta": "O princípio de Cavalieri, do século XVII, diz que dois sólidos com a mesma altura e seções transversais de mesma área têm o mesmo volume. Bonaventura Cavalieri, um matemático italiano, usou isso para calcular volumes, antecipando o cálculo integral. É útil em geometria e física. Uma crítica é que sua abordagem era mais intuitiva do que rigorosa. Sabia que Cavalieri era discípulo de Galileu e aplicava matemática à astronomia?",
+    "palavras_chave": ["cavalieri", "princípio", "volume", "geometria", "cálculo"]
+  },
+  {
+    "pergunta": "Como Hypatia de Alexandria preservou o conhecimento matemático?",
+    "resposta": "Hypatia, do século IV, não só ensinou matemática em Alexandria, mas também preservou obras de Euclides e Apolônio, comentando-as e atualizando-as. Ela escreveu sobre seções cônicas e ajudou a manter viva a tradição grega. Sua influência foi mais pedagógica do que inovadora. Uma crítica é que poucos de seus textos sobreviveram. Sabia que Hypatia atraía alunos de toda a região mediterrânea, incluindo líderes políticos e religiosos?",
+    "palavras_chave": ["hypatia", "alexandria", "seções cônicas", "euclides", "pedagogia"]
+  },
+  {
+    "pergunta": "O que é a lei dos cossenos e sua origem?",
+    "resposta": "A lei dos cossenos generaliza o teorema de Pitágoras para qualquer triângulo, relacionando os lados e o cosseno de um ângulo. Embora associada a Euclides, ela foi formalizada por matemáticos islâmicos como Al-Kashi no século XV. É essencial em trigonometria e navegação. Uma crítica é que sua prova exige conhecimentos avançados para iniciantes. Sabia que a lei dos cossenos é usada em GPS para calcular distâncias na Terra esférica?",
+    "palavras_chave": ["lei dos cossenos", "trigonometria", "al-kashi", "triângulo", "navegação"]
+  },
+  {
+    "pergunta": "Como André Weil contribuiu para a matemática moderna?",
+    "resposta": "André Weil, um matemático francês do século XX, foi um dos fundadores da geometria algébrica moderna. Ele conectou álgebra, geometria e teoria dos números, influenciando a prova do Último Teorema de Fermat. Sua obra é abstrata, mas fundamental para a matemática atual. Uma crítica é que seu trabalho é difícil para não especialistas. Sabia que Weil foi um dos criadores do grupo Bourbaki, que revolucionou o ensino de matemática?",
+    "palavras_chave": ["weil", "geometria algébrica", "teoria dos números", "bourbaki", "fermat"]
+  },
+  {
+    "pergunta": "O que é o teorema de Euler para poliedros?",
+    "resposta": "O teorema de Euler para poliedros, do século XVIII, diz que, para um poliedro convexo, o número de vértices (V) menos o número de arestas (A) mais o número de faces (F) é igual a 2 (V - A + F = 2). É um pilar da topologia. Uma crítica é que ele não se aplica a formas mais complexas, como toros. Sabia que esse teorema inspirou o estudo de redes, como as usadas em circuitos elétricos?",
+    "palavras_chave": ["euler", "poliedros", "topologia", "vértices", "faces"]
+  },
+  {
+    "pergunta": "Como Hiparco contribuiu para a trigonometria na Antiguidade?",
+    "resposta": "Hiparco, um astrônomo e matemático grego do século II a.C., é considerado o pai da trigonometria. Ele criou tabelas de cordas, precursoras das funções seno e cosseno, para cálculos astronômicos, como prever eclipses. Sua abordagem permitiu medir ângulos e distâncias celestes com precisão. Uma crítica é que suas tabelas dependiam de observações empíricas, sem uma base teórica completa. Sabia que Hiparco também catalogou mais de 850 estrelas, influenciando a astronomia por séculos?",
+    "palavras_chave": ["hiparco", "trigonometria", "cordas", "astronomia", "estrelas"]
+  },
+  {
+    "pergunta": "O que é o teorema de Tales e sua importância?",
+    "resposta": "O teorema de Tales, atribuído a Tales de Mileto (século VI a.C.), diz que, se duas retas são cortadas por paralelas, os segmentos formados são proporcionais. É fundamental na geometria, usado para calcular alturas e distâncias, como Tales fez com as pirâmides. Sua simplicidade o torna poderoso para aplicações práticas. Uma crítica é que a atribuição a Tales pode ser lendária, já que outras culturas conheciam o princípio. Sabia que esse teorema é usado em engenharia para projetar estruturas proporcionais?",
+    "palavras_chave": ["tales", "teorema", "geometria", "proporção", "engenharia"]
+  },
+  {
+    "pergunta": "Como Liu Hui avançou a matemática chinesa?",
+    "resposta": "Liu Hui, um matemático chinês do século III, escreveu comentários sobre *Os Nove Capítulos sobre a Arte Matemática*. Ele calculou π com precisão usando polígonos inscritos, antecipando métodos do cálculo. Também desenvolveu algoritmos para resolver sistemas lineares. Sua abordagem era rigorosa para a época. Uma crítica é que suas ideias eram pouco conhecidas fora da China. Sabia que Liu Hui usou um polígono de 3.072 lados para estimar π, um feito impressionante para a época?",
+    "palavras_chave": ["liu hui", "pi", "nove capítulos", "algoritmos", "geometria"]
+  },
+  {
+    "pergunta": "Quem foi Émilie du Châtelet e seu papel na matemática?",
+    "resposta": "Émilie du Châtelet, uma matemática francesa do século XVIII, traduziu e comentou a *Principia* de Newton, tornando suas ideias mais acessíveis. Ela também trabalhou em física matemática, estudando energia e movimento. Sua habilidade em combinar teoria e explicação foi notável. Uma crítica é que ela focou mais em divulgar do que em criar teorias originais. Sabia que Émilie era uma nobre que estudava matemática em segredo, desafiando as normas de sua época?",
+    "palavras_chave": ["du châtelet", "newton", "física matemática", "energia", "tradução"]
+  },
+  {
+    "pergunta": "O que é o método de Newton-Raphson e sua origem?",
+    "resposta": "O método de Newton-Raphson, desenvolvido por Isaac Newton e Joseph Raphson no século XVII, é um algoritmo para encontrar raízes de funções usando derivadas. Ele converge rapidamente para soluções aproximadas, como em equações não lineares. É amplamente usado em computação e engenharia. Uma crítica é que o método pode falhar se a estimativa inicial for ruim. Sabia que esse método é essencial em softwares modernos para resolver problemas complexos, como em gráficos 3D?",
+    "palavras_chave": ["newton-raphson", "raízes", "derivadas", "algoritmo", "computação"]
+  },
+  {
+    "pergunta": "Como Al-Kashi avançou a trigonometria no mundo islâmico?",
+    "resposta": "Jamshīd al-Kāshī, um matemático persa do século XV, escreveu *A Chave da Aritmética*, onde refinou tabelas trigonométricas e desenvolveu a lei dos cossenos. Ele também calculou π com precisão, usando polígonos de até 805 milhões de lados. Suas obras eram práticas, voltadas para astronomia e arquitetura. Uma crítica é que seus métodos eram computacionalmente intensos. Sabia que Al-Kashi trabalhou no observatório de Ulugh Beg, colaborando com outros cientistas?",
+    "palavras_chave": ["al-kashi", "trigonometria", "lei dos cossenos", "pi", "astronomia"]
+  },
+  {
+    "pergunta": "O que é o teorema binomial e quem o desenvolveu?",
+    "resposta": "O teorema binomial, formalizado por Isaac Newton no século XVII, descreve a expansão de (a + b)^n em termos de coeficientes binomiais. É essencial em álgebra e probabilidade, como no cálculo de combinações. Newton generalizou o teorema para expoentes não inteiros. Uma crítica é que suas provas iniciais eram intuitivas, não rigorosas. Sabia que o teorema binomial aparece no triângulo de Pascal, conhecido séculos antes na China e na Índia?",
+    "palavras_chave": ["newton", "teorema binomial", "coeficientes", "álgebra", "probabilidade"]
+  },
+  {
+    "pergunta": "Como Apolônio de Perga contribuiu para a geometria?",
+    "resposta": "Apolônio, um matemático grego do século III a.C., escreveu *Cônicas*, um tratado sobre elipses, parábolas e hipérboles. Ele introduziu termos como 'foco' e 'diretriz', fundamentais para a geometria moderna. Suas ideias foram usadas em astronomia e engenharia. Uma crítica é que seus textos eram densos e pouco acessíveis. Sabia que as cônicas de Apolônio ajudaram Kepler a descrever as órbitas planetárias como elipses?",
+    "palavras_chave": ["apolônio", "cônicas", "geometria", "elipse", "kepler"]
+  },
+  {
+    "pergunta": "Quem foi William Rowan Hamilton e sua contribuição?",
+    "resposta": "William Rowan Hamilton, um matemático irlandês do século XIX, inventou os quaternions, uma extensão dos números complexos usada em rotações 3D. Ele também reformulou a mecânica clássica, criando a mecânica hamiltoniana, essencial na física moderna. Sua abordagem era altamente abstrata. Uma crítica é que os quaternions foram inicialmente pouco compreendidos. Sabia que Hamilton teve a ideia dos quaternions enquanto caminhava e gravou a fórmula em uma ponte?",
+    "palavras_chave": ["hamilton", "quaternions", "mecânica", "rotações", "física"]
+  },
+  {
+    "pergunta": "O que é o problema de Basileia e quem o resolveu?",
+    "resposta": "O problema de Basileia perguntava a soma da série infinita 1 + 1/4 + 1/9 + 1/16 + ..., ou seja, a soma dos inversos dos quadrados. Leonhard Euler resolveu-o no século XVIII, provando que a soma é π²/6. Esse resultado surpreendeu pela conexão entre números e π. Uma crítica é que a prova inicial de Euler carecia de rigor. Sabia que o problema de Basileia inspirou avanços na teoria das séries infinitas?",
+    "palavras_chave": ["euler", "basileia", "séries infinitas", "pi", "teoria"]
+  },
+  {
+    "pergunta": "Como Florence Nightingale usou a matemática?",
+    "resposta": "Florence Nightingale, uma enfermeira britânica do século XIX, usou estatística para melhorar condições hospitalares. Ela criou gráficos, como o diagrama de rosa, para mostrar que mais soldados morriam de doenças do que de ferimentos na Guerra da Crimeia. Isso revolucionou a saúde pública. Uma crítica é que seu trabalho era mais prático do que teórico. Sabia que Nightingale foi a primeira mulher eleita para a Royal Statistical Society?",
+    "palavras_chave": ["nightingale", "estatística", "diagrama de rosa", "saúde pública", "crimeia"]
+  },
+  {
+    "pergunta": "O que é a fórmula de Euler e sua importância?",
+    "resposta": "A fórmula de Euler, e^(iπ) + 1 = 0, descoberta por Leonhard Euler no século XVIII, conecta cinco constantes fundamentais: e, i, π, 1 e 0. É considerada uma das mais belas da matemática por sua simplicidade e profundidade. Liga análise, trigonometria e números complexos. Uma crítica é que sua beleza é mais estética do que prática. Sabia que a fórmula de Euler é usada em engenharia elétrica para analisar circuitos?",
+    "palavras_chave": ["euler", "fórmula", "números complexos", "trigonometria", "engenharia"]
+  },
+  {
+    "pergunta": "Como Brahmagupta avançou a álgebra indiana?",
+    "resposta": "Brahmagupta, um matemático indiano do século VII, escreveu *Brahmasphutasiddhanta*, onde formalizou o uso do zero e números negativos. Ele também resolveu equações quadráticas e estudou progressões aritméticas. Suas ideias influenciaram o mundo árabe. Uma crítica é que seus métodos eram mais algorítmicos do que gerais. Sabia que Brahmagupta deu regras para calcular áreas de quadriláteros cíclicos, usadas em geometria?",
+    "palavras_chave": ["brahmagupta", "zero", "números negativos", "álgebra", "quadriláteros"]
+  },
+  {
+    "pergunta": "O que é a conjectura de Kepler e quem a resolveu?",
+    "resposta": "A conjectura de Kepler, proposta por Johannes Kepler no século XVII, diz que a melhor forma de empilhar esferas, como laranjas, é a disposição cúbica de face centrada. Foi provada em 1998 por Thomas Hales, usando computadores. É importante em cristalografia e logística. Uma crítica é que a prova depende de cálculos computacionais extensos. Sabia que Kepler se inspirou ao observar pilhas de balas de canhão?",
+    "palavras_chave": ["kepler", "conjectura", "empilhamento", "hales", "cristalografia"]
+  },
+  {
+    "pergunta": "Como Ératostenes mediu a circunferência da Terra?",
+    "resposta": "Ératostenes, um matemático grego do século III a.C., mediu a circunferência da Terra usando sombras. Ele comparou o ângulo da sombra em Alexandria com a ausência de sombra em Siene, aplicando geometria. Seu resultado foi surpreendentemente preciso. Uma crítica é que ele dependia de medidas aproximadas de distância. Sabia que Ératostenes também foi bibliotecário-chefe da Biblioteca de Alexandria?",
+    "palavras_chave": ["ératostenes", "circunferência", "geometria", "sombras", "alexandria"]
+  },
+  {
+    "pergunta": "O que é o teorema de Noether e sua importância?",
+    "resposta": "O teorema de Noether, de Emmy Noether (século XX), conecta simetrias em física com leis de conservação, como energia ou momento. É fundamental na física teórica, especialmente na relatividade e na mecânica quântica. Sua abordagem era abstrata, mas poderosa. Uma crítica é que sua aplicação exige conhecimento avançado. Sabia que Einstein elogiou Noether como uma das maiores mentes matemáticas de sua época?",
+    "palavras_chave": ["noether", "teorema", "simetria", "física", "conservação"]
+  },
+  {
+    "pergunta": "Como Al-Haytham usou a matemática na ótica?",
+    "resposta": "Ibn al-Haytham, um matemático árabe do século XI, aplicou geometria para estudar a luz em seu *Livro de Ótica*. Ele explicou reflexões e refrações, antecipando leis modernas da física. Sua abordagem experimental combinava teoria e prática. Uma crítica é que suas ideias demoraram a ser adotadas no Ocidente. Sabia que Al-Haytham é considerado o pai da ótica moderna e influenciou cientistas como Kepler?",
+    "palavras_chave": ["al-haytham", "ótica", "geometria", "reflexão", "refração"]
+  },
+  {
+    "pergunta": "O que é o princípio de Fermat e sua relevância?",
+    "resposta": "O princípio de Fermat, do século XVII, diz que a luz segue o caminho que leva o menor tempo. Pierre de Fermat usou isso para explicar refração e reflexão, antecipando o cálculo variacional. É essencial em ótica e física moderna. Uma crítica é que o princípio assume um comportamento 'inteligente' da luz. Sabia que esse princípio inspirou a mecânica lagrangiana, usada em física teórica?",
+    "palavras_chave": ["fermat", "princípio", "ótica", "refração", "cálculo variacional"]
+  },
+  {
+    "pergunta": "Como Ramanujan contribuiu para as frações contínuas?",
+    "resposta": "Srinivasa Ramanujan, no início do século XX, desenvolveu fórmulas inovadoras para frações contínuas, que aproximam números irracionais. Suas descobertas, publicadas com G.H. Hardy, são usadas em teoria dos números e física. Sua intuição era quase sobrenatural. Uma crítica é que ele raramente explicava como chegava a suas fórmulas. Sabia que Ramanujan descobriu muitas dessas fórmulas sem acesso a livros avançados na Índia?",
+    "palavras_chave": ["ramanujan", "frações contínuas", "teoria dos números", "hardy", "intuição"]
+  },
+  {
+    "pergunta": "O que é o teorema de Green e sua aplicação?",
+    "resposta": "O teorema de Green, do matemático britânico George Green (século XIX), relaciona integrais de linha e de área em uma região plana. É um pilar do cálculo vetorial, usado em física para campos como eletromagnetismo. Sua abordagem era avançada para a época. Uma crítica é que Green publicou pouco em vida, limitando seu impacto inicial. Sabia que Green era autodidata e trabalhava como moleiro antes de estudar matemática?",
+    "palavras_chave": ["green", "teorema", "cálculo vetorial", "eletromagnetismo", "autodidata"]
+  },
+  {
+    "pergunta": "Como Menelaus contribuiu para a geometria esférica?",
+    "resposta": "Menelaus de Alexandria, do século I d.C., desenvolveu o teorema de Menelaus, que relaciona razões de segmentos em triângulos, incluindo na esfera. Isso foi crucial para astronomia e navegação. Sua obra influenciou matemáticos árabes. Uma crítica é que seus textos são fragmentados, dificultando o estudo. Sabia que o teorema de Menelaus é usado em mapas esféricos, como os de GPS?",
+    "palavras_chave": ["menelaus", "teorema", "geometria esférica", "astronomia", "navegação"]
+  },
+  {
+    "pergunta": "O que é a conjectura dos números primos gêmeos?",
+    "resposta": "A conjectura dos números primos gêmeos diz que existem infinitos pares de primos com diferença 2, como 3 e 5 ou 11 e 13. Proposta na Antiguidade, mas formalizada no século XIX, ela permanece não provada. É um desafio na teoria dos números. Uma crítica é que sua prova exige técnicas ainda não desenvolvidas. Sabia que avanços recentes, como o trabalho de Yitang Zhang, reduziram o intervalo entre primos, mas não resolveram a conjectura?",
+    "palavras_chave": ["primos gêmeos", "conjectura", "teoria dos números", "zhang", "infinitos"]
+  },
+  {
+    "pergunta": "Como Jakob Bernoulli contribuiu para a probabilidade?",
+    "resposta": "Jakob Bernoulli, um matemático suíço do século XVII, escreveu *Ars Conjectandi*, onde formalizou a lei dos grandes números, mostrando que, com muitas repetições, resultados tendem a uma média. Isso é fundamental em estatística. Ele também estudou números de Bernoulli. Uma crítica é que suas ideias eram teóricas, com poucas aplicações imediatas. Sabia que Jakob disputava com seu irmão Johann, criando rivalidades familiares intensas?",
+    "palavras_chave": ["bernoulli", "probabilidade", "lei dos grandes números", "estatística", "ars conjectandi"]
+  },
+  {
+    "pergunta": "O que é a constante de Apéry e sua relevância?",
+    "resposta": "A constante de Apéry, definida por Roger Apéry em 1978, é a soma de 1/n³ para n de 1 a infinito, aproximadamente 1,202. Apéry provou que é irracional, um marco na teoria dos números. É usada em análise e física. Uma crítica é que sua prova é extremamente complexa. Sabia que a descoberta de Apéry surpreendeu matemáticos, pois muitos achavam que a constante seria racional?",
+    "palavras_chave": ["apéry", "constante", "teoria dos números", "irracional", "séries"]
+  },
+  {
+    "pergunta": "Como Andrew Wiles resolveu o Último Teorema de Fermat?",
+    "resposta": "Andrew Wiles, um matemático britânico, provou o Último Teorema de Fermat em 1994, após sete anos de trabalho. Ele usou a conjectura de Taniyama-Shimura, conectando curvas elípticas e formas modulares. Sua prova, publicada em 1995, é um marco na teoria dos números. Uma crítica é que sua abordagem é tão avançada que poucos a compreendem completamente. Sabia que Wiles apresentou uma prova inicial com erro, mas corrigiu-a com a ajuda de Richard Taylor?",
+    "palavras_chave": ["wiles", "fermat", "teorema", "curvas elípticas", "taniyama-shimura"]
+  }
+]

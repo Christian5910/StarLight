@@ -1,0 +1,517 @@
+[
+  {
+    "pergunta": "O que é, de fato, uma função em matemática?",
+    "resposta": "Uma função é uma relação especial entre dois conjuntos, onde cada elemento do primeiro conjunto, chamado de domínio, está associado a um e apenas um elemento do segundo conjunto, conhecido como contradomínio. Pense nela como uma máquina: você coloca um valor de entrada, e ela te devolve um único valor de saída. Esse conceito é fundamental porque modela matematicamente como uma grandeza depende de outra. Por exemplo, o preço final de um produto é uma função do seu preço de custo. Sabia que a ideia de função, como a conhecemos hoje, foi consolidada pelo matemático alemão Peter Dirichlet no século XIX?",
+    "palavras_chave": ["domínio", "contradomínio", "relação", "valor de entrada", "modelagem"]
+  },
+  {
+    "pergunta": "Qual a diferença prática entre domínio, contradomínio e imagem?",
+    "resposta": "Esses três conceitos definem os 'limites' de uma função. O Domínio é o conjunto de todos os valores de entrada que você pode 'colocar' na função. O Contradomínio é o conjunto de todos os valores de saída possíveis, é o universo onde os resultados vivem. Já a Imagem é um subconjunto do contradomínio, formado apenas pelos valores de saída que são realmente atingidos quando você usa todos os elementos do domínio. Por exemplo, na função f(x) = x², com domínio nos números reais, o contradomínio também pode ser os reais, mas a imagem são apenas os números reais não negativos, pois x² é sempre maior ou igual a zero.",
+    "palavras_chave": ["domínio", "contradomínio", "imagem", "valores de entrada", "valores de saída"]
+  },
+  {
+    "pergunta": "Como identificar se um gráfico representa uma função?",
+    "resposta": "Existe um teste simples e visual chamado 'Teste da Reta Vertical'. Se você traçar retas verticais imaginárias por todo o gráfico e alguma dessas retas cortar o gráfico em mais de um ponto, então aquilo não é uma função. Isso acontece porque uma função só pode ter uma única saída para cada entrada. Se uma reta vertical tocar dois pontos, significa que um único valor de 'x' está gerando dois valores de 'y' diferentes, o que quebra a definição principal de uma função.",
+    "palavras_chave": ["teste da reta vertical", "gráfico", "definição de função", "análise gráfica", "relação"]
+  },
+  {
+    "pergunta": "O que é uma função injetora, sobrejetora e bijetora?",
+    "resposta": "Esses termos classificam como os elementos do domínio e do contradomínio se relacionam. Uma função é Injetora (ou injetiva) quando elementos diferentes do domínio sempre produzem imagens diferentes. Nada de repetir resposta! É Sobrejetora (ou sobrejetiva) quando a imagem é igual ao contradomínio, ou seja, não sobra nenhum elemento no contradomínio sem ser usado. E é Bijetora quando é ao mesmo tempo injetora e sobrejetora. Isso significa que há uma 'dança perfeita' entre domínio e contradomínio: cada elemento de um se conecta com um único elemento do outro, sem sobras. As funções bijetoras são as únicas que possuem função inversa.",
+    "palavras_chave": ["injetora", "sobrejetora", "bijetora", "função inversa", "classificação de funções"]
+  },
+  {
+    "pergunta": "Para que serve a famosa função f(x) = x²?",
+    "resposta": "A função quadrática f(x) = x² é um dos modelos matemáticos mais ubíquos que existem. Seu gráfico é uma parábola, e ela aparece em incontáveis situações. Na física, modela a trajetória de um projétil lançado. Na geometria, calcula a área de um quadrado a partir do seu lado. Na economia, pode representar funções de custo ou lucro. Ela é essencial para entender comportamentos não-lineares, onde as variações não são proporcionais. Sabia que a propriedade de que o quadrado de um número é sempre não-negativo é a base para definirmos o conceito de valor absoluto?",
+    "palavras_chave": ["função quadrática", "parábola", "física", "geometria", "não-linear"]
+  },
+  {
+    "pergunta": "O que é o zero ou raiz de uma função?",
+    "resposta": "O zero, ou raiz, de uma função é o valor de x no domínio para o qual a função se anula, ou seja, onde f(x) = 0. Graficamente, são os pontos onde o gráfico da função cruza o eixo horizontal (eixo x). Encontrar as raízes de uma função é um problema central na matemática e em suas aplicações. Por exemplo, se uma função modela o lucro de uma empresa, sua raiz indica o ponto de equilíbrio, onde não há lucro nem prejuízo. Em equações de movimento, as raízes podem indicar quando um objeto atinge o solo.",
+    "palavras_chave": ["raiz da função", "zero da função", "eixo x", "ponto de equilíbrio", "solução de equação"]
+  },
+  {
+    "pergunta": "Como funciona uma função linear e onde a encontramos no dia a dia?",
+    "resposta": "Uma função linear é da forma f(x) = ax + b, e seu gráfico é sempre uma linha reta. O 'a' é o coeficiente angular, que indica a inclinação da reta, e o 'b' é o coeficiente linear, que indica onde a reta corta o eixo y. Você encontra funções lineares constantemente: na conta de taxi (tarifa fixa + valor por km), no cálculo de conversão de moedas, no preço de uma corrida de app de transporte e em qualquer situação onde há uma relação de proporcionalidade direta com um valor inicial fixo.",
+    "palavras_chave": ["função linear", "reta", "coeficiente angular", "proporcionalidade", "dia a dia"]
+  },
+  {
+    "pergunta": "O que é uma função composta e como se calcula?",
+    "resposta": "Função composta é a aplicação de uma função ao resultado de outra. Denotamos por (g ∘ f)(x), que significa g(f(x)). Você primeiro aplica a função f ao x, pega o resultado e joga na função g. É como uma linha de montagem. Por exemplo, se f(x) = x+1 e g(x) = x², então (g ∘ f)(x) = g(f(x)) = g(x+1) = (x+1)². A ordem é crucial: (g ∘ f) é geralmente diferente de (f ∘ g). Esse conceito é poderoso para quebrar funções complexas em partes mais simples.",
+    "palavras_chave": ["função composta", "notação", "ordem de aplicação", "decomposição", "cálculo"]
+  },
+  {
+    "pergunta": "O que é a função inversa e quando ela existe?",
+    "resposta": "A função inversa, denotada por f⁻¹, é aquela que 'desfaz' o que a função original fez. Se f leva 'a' até 'b', então f⁻¹ leva 'b' de volta até 'a'. Para que uma função tenha inversa, ela precisa ser bijetora (injetora e sobrejetora). Graficamente, o gráfico de uma função e o de sua inversa são simétricos em relação à reta y = x, a bissetriz dos quadrantes ímpares. Um exemplo clássico é f(x) = 2x, cuja inversa é f⁻¹(x) = x/2. Sabia que a função exponencial e a função logarítmica são inversas uma da outra?",
+    "palavras_chave": ["função inversa", "bijetora", "simetria", "bissetriz", "desfazer operação"]
+  },
+  {
+    "pergunta": "Como a função exponencial modela crescimento e decaimento?",
+    "resposta": "A função exponencial, geralmente da forma f(x) = aˣ, é a rainha da modelagem de fenômenos de crescimento ou decaimento onde a taxa de variação é proporcional ao valor atual. Se a base 'a' for maior que 1, temos crescimento exponencial, como no caso de juros compostos ou populações sem restrições. Se 'a' estiver entre 0 e 1, temos decaimento exponencial, como na desintegração de materiais radioativos ou na depreciação de um carro. A característica marcante é que a grandeza dobra (ou cai pela metade) em intervalos de tempo regulares.",
+    "palavras_chave": ["função exponencial", "crescimento", "decaimento", "juros compostos", "meia-vida"]
+  },
+  {
+    "pergunta": "Qual a importância da função logarítmica?",
+    "resposta": "A função logarítmica, sendo a inversa da exponencial, é uma ferramenta poderosa para 'reduzir a escala' de grandezas que variam muito. Ela transforma multiplicações em adições, o que era extremamente útil antes das calculadoras. Hoje, ela é essencial na química para calcular pH, na geologia na escala Richter para terremotos, na astronomia para medir o brilho das estrelas (magnitude aparente) e na ciência da computação para analisar a eficiência de algoritmos. Ela responde a perguntas do tipo: 'a que potência preciso elevar a base para obter um certo número?'.",
+    "palavras_chave": ["função logarítmica", "escala", "ph", "escala richter", "algoritmos"]
+  },
+  {
+    "pergunta": "O que é uma função modular?",
+    "resposta": "A função modular, representada por f(x) = |x|, retorna sempre o 'valor absoluto' de x, ou seja, a distância de x até o zero na reta real. Ela ignora o sinal. Se x é positivo ou zero, |x| = x. Se x é negativo, |x| = -x (o que o torna positivo). Seu gráfico tem um famoso 'V'. Ela é crucial para representar situações onde apenas a magnitude importa, como distâncias, erros absolutos ou diferenças de potencial. Sabia que a função modular não é derivável no ponto x=0, pois o gráfico tem uma 'quina' bem definida ali?",
+    "palavras_chave": ["função modular", "valor absoluto", "distância", "gráfico em v", "derivabilidade"]
+  },
+  {
+    "pergunta": "O que são funções periódicas e onde aparecem?",
+    "resposta": "Funções periódicas são aquelas que repetem seus valores em intervalos regulares, chamados de período. O exemplo mais famoso é f(x) = sen(x), que se repete a cada 2π radianos. Essas funções são a linguagem natural para descrever fenômenos cíclicos: o movimento de um pêndulo, as estações do ano, as correntes alternadas na engenharia elétrica, as ondas sonoras e até os batimentos cardíacos. Elas capturam a ideia de ritmo e ciclo, que é fundamental no nosso universo.",
+    "palavras_chave": ["função periódica", "período", "seno", "cosseno", "fenômenos cíclicos"]
+  },
+  {
+    "pergunta": "Como as funções trigonométricas modelam o movimento circular?",
+    "resposta": "As funções seno e cosseno são projetadas para descrever o movimento circular uniforme. Imagine um ponto se movendo em um círculo de raio 1. A função seno nos dá a coordenada vertical (y) desse ponto em função do ângulo, e o cosseno nos dá a coordenada horizontal (x). Por isso, elas oscilam suavemente entre -1 e 1. Qualquer fenômeno que envolva oscilação, rotação ou vibração — desde uma mola indo e voltando até a propagação de uma onda de rádio — pode ser elegantemente descrito usando essas funções como blocos de construção básicos.",
+    "palavras_chave": ["seno", "cosseno", "círculo unitário", "oscilação", "movimento harmônico"]
+  },
+  {
+    "pergunta": "O que é uma função definida por partes?",
+    "resposta": "É uma função que usa diferentes fórmulas ou regras para diferentes intervalos do seu domínio. É como se fossem várias funções em uma, cada uma 'ligando' em uma região específica. Um exemplo clássico é a função sinal, que retorna -1 para x negativo, 0 para x=0 e +1 para x positivo. Outro exemplo muito prático é a tarifa de energia elétrica, que pode ter um preço por kWh para consumo até um certo limite e um preço diferente, mais caro, para o consumo que excede esse limite. Elas são perfeitas para modelar situações com condições ou regras que mudam.",
+    "palavras_chave": ["função por partes", "intervalos", "função sinal", "tarifas", "condições"]
+  },
+  {
+    "pergunta": "O que é o vértice de uma parábola e o que ele representa?",
+    "resposta": "O vértice de uma parábola, que é o gráfico de uma função quadrática, é o ponto de máximo ou de mínimo da função. Se a parábola tem concavidade para cima (a>0), o vértice é o ponto mais baixo, o mínimo. Se a concavidade é para baixo (a<0), o vértice é o ponto mais alto, o máximo. Suas coordenadas podem ser encontradas por fórmulas: xv = -b/(2a) e yv = f(xv). Em problemas reais, o vértice pode representar o lucro máximo de uma empresa, a altura máxima atingida por uma bola ou a produção ideal para minimizar custos.",
+    "palavras_chave": ["vértice", "parábola", "ponto de máximo", "ponto de mínimo", "otimização"]
+  },
+  {
+    "pergunta": "O que é uma função polinomial de primeiro grau?",
+    "resposta": "Uma função polinomial de primeiro grau é simplesmente outro nome para uma função linear, da forma f(x) = ax + b. Ela é chamada de 'primeiro grau' porque a variável 'x' está elevada ao expoente 1, que é o maior expoente na expressão. O 'grau' de um polinômio é dado pelo maior expoente da variável. Essas funções descrevem relações de proporcionalidade direta com um termo constante adicional, e seu comportamento gráfico e analítico é o mais simples possível no universo das funções: uma linha reta sem curvas.",
+    "palavras_chave": ["função polinomial", "primeiro grau", "linear", "proporcionalidade", "grau do polinômio"]
+  },
+  {
+    "pergunta": "E uma função polinomial de segundo grau?",
+    "resposta": "A função polinomial de segundo grau é a famosa função quadrática, f(x) = ax² + bx + c, com a ≠ 0. O 'segundo grau' vem do termo x². Diferente da função de primeiro grau (que é uma reta), a de segundo grau tem uma curva, a parábola. Esse termo ao quadrado é que introduz conceitos como vértice, concavidade, eixo de simetria e raízes (que podem ser duas, uma ou nenhuma, dependendo do discriminante Δ). Ela modela fenômenos onde a taxa de variação não é constante.",
+    "palavras_chave": ["função quadrática", "segundo grau", "parábola", "discriminante", "concavidade"]
+  },
+  {
+    "pergunta": "O que é o estudo do sinal de uma função?",
+    "resposta": "Estudar o sinal de uma função significa determinar para quais valores de x no domínio a função é positiva (f(x) > 0), negativa (f(x) < 0) ou nula (f(x) = 0). Esse estudo é visualmente poderoso: no gráfico, os intervalos onde a função é positiva são aqueles que estão acima do eixo x, e os intervalos onde é negativa estão abaixo do eixo x. Isso é extremamente útil para resolver inequações e para entender o comportamento de grandezas no mundo real, como saber quando o lucro de uma empresa é positivo ou quando a velocidade de um objeto é negativa (movimento retrógrado).",
+    "palavras_chave": ["estudo do sinal", "positiva", "negativa", "inequações", "análise gráfica"]
+  },
+  {
+    "pergunta": "Como funções são usadas para criar gráficos e visualizações?",
+    "resposta": "Funções são a base de quase todas as visualizações científicas e de engenharia. Cada ponto (x, y) no plano cartesiano pode ser visto como (entrada, saída) de uma função. Ao plotarmos todos esses pontos para um domínio, obtemos uma curva ou superfície que representa visualmente o comportamento da relação matemática. Isso nos permite 'enxergar' instantaneamente onde a função cresce, decresce, tem máximos, mínimos, zeros e descontinuidades. De um simples gráfico de linha no Excel aos complexos modelos 3D de previsão do tempo, tudo começa com a ideia de função.",
+    "palavras_chave": ["gráfico", "plano cartesiano", "visualização de dados", "análise", "curva"]
+  },
+  {
+    "pergunta": "O que é uma função par e uma função ímpar?",
+    "resposta": "Essas classificações descrevem a simetria de uma função. Uma função é Par se f(-x) = f(x) para todo x no domínio. Seu gráfico é simétrico em relação ao eixo y, como um rosto ou a função f(x)=x². Já uma função é Ímpar se f(-x) = -f(x). Seu gráfico é simétrico em relação à origem (0,0), como se você girasse 180 graus e ele ficasse igual. A função f(x)=x³ é um exemplo clássico. Muitas funções, como f(x)=x+1, não são nem pares nem ímpares. Sabia que a maioria das funções pode ser decomposta na soma de uma parte par com uma parte ímpar?",
+    "palavras_chave": ["função par", "função ímpar", "simetria", "eixo y", "origem"]
+  },
+  {
+    "pergunta": "O que é o domínio de uma função real?",
+    "resposta": "O domínio de uma função real são todos os números reais de 'x' para os quais a expressão da função 'faz sentido' e produz um número real como resultado. Encontrar o domínio significa identificar as restrições. Os principais 'inimigos' do domínio são: 1) Divisão por zero: exclui os 'x' que zeram o denominador. 2) Raiz quadrada (ou índice par) de número negativo: exige que o radicando seja ≥ 0. 3) Logaritmo de número não-positivo: exige que o logaritmando seja > 0. O domínio é o primeiro passo para se trabalhar com qualquer função.",
+    "palavras_chave": ["domínio", "números reais", "restrições", "divisão por zero", "raiz quadrada"]
+  },
+  {
+    "pergunta": "O que é a imagem de uma função?",
+    "resposta": "Enquanto o domínio é o conjunto de partida, a imagem é o conjunto de chegada efetivo. São todos os valores 'y' que a função realmente assume quando você aplica todos os elementos do domínio. Encontrar a imagem pode ser mais desafiador que encontrar o domínio. Para funções contínuas, muitas vezes olhamos para o gráfico e vemos qual a variação vertical. Por exemplo, a imagem de f(x)=x² é [0, ∞). A imagem de f(x)=sen(x) é [-1, 1]. Saber a imagem é crucial para entender o alcance e as limitações do modelo que a função representa.",
+    "palavras_chave": ["imagem", "valores de saída", "variação vertical", "alcance", "conjunto solução"]
+  },
+  {
+    "pergunta": "Como funções podem ser somadas, subtraídas ou multiplicadas?",
+    "resposta": "Operações entre funções são feitas de maneira bastante intuitiva. Dadas duas funções, f e g, você pode criar novas funções: A Soma (f+g)(x) = f(x) + g(x). A Subtração (f-g)(x) = f(x) - g(x). A Multiplicação (f*g)(x) = f(x) * g(x). E a Divisão (f/g)(x) = f(x) / g(x), desde que g(x) ≠ 0. O domínio da nova função é a interseção dos domínios de f e g, com a atenção extra na divisão para excluir os pontos onde g(x)=0. Isso permite combinar modelos simples para criar modelos mais complexos e realistas.",
+    "palavras_chave": ["soma de funções", "produto de funções", "operação com funções", "domínio da operação", "combinação"]
+  },
+  {
+    "pergunta": "O que é uma função constante?",
+    "resposta": "É a função mais simples que existe: f(x) = c, onde 'c' é um número fixo. Não importa qual valor de 'x' você coloca, a saída é sempre a mesma. Seu gráfico é uma reta horizontal que corta o eixo y no ponto (0, c). Embora simples, ela é profundamente importante. Em física, representa um objeto em repouso (função posição constante) ou uma velocidade constante (que é uma função linear, não constante). Na programação, ela é como uma variável que nunca muda de valor. Ela é o elemento neutro na ideia de variação.",
+    "palavras_chave": ["função constante", "reta horizontal", "sem variação", "valor fixo", "simplicidade"]
+  },
+  {
+    "pergunta": "O que é uma função racional e quais seus cuidados?",
+    "resposta": "Uma função racional é basicamente uma fração onde tanto o numerador quanto o denominador são polinômios. Ela é da forma f(x) = P(x)/Q(x), onde Q(x) não pode ser o polinômio nulo. O grande cuidado está justamente no denominador: precisamos excluir do domínio todos os valores de x que zeram Q(x), pois divisão por zero é indefinida. Esses pontos proibidos geralmente criam assíntotas verticais no gráfico, que são linhas que a curva se aproxima mas nunca toca. Um exemplo clássico é f(x) = 1/x, que tem uma assíntota vertical em x=0.",
+    "palavras_chave": ["função racional", "denominador", "assíntota vertical", "domínio", "polinômio"]
+  },
+  {
+    "pergunta": "Como funciona a função afim?",
+    "resposta": "A função afim é sinônimo da função linear de primeiro grau: f(x) = ax + b. O nome 'afim' vem do fato de que ela preserva a estrutura de retas paralelas - é uma transformação afim. O coeficiente 'a' é a taxa de variação: se a > 0, a função é crescente; se a < 0, é decrescente. Já o 'b' é onde a reta corta o eixo y. Essa função descreve qualquer situação com variação constante, como o custo de produção onde há um custo fixo (b) e um custo variável por unidade (a).",
+    "palavras_chave": ["função afim", "taxa de variação", "coeficiente linear", "crescente", "decrescente"]
+  },
+  {
+    "pergunta": "O que são funções trigonométricas inversas?",
+    "resposta": "Como as funções trigonométricas normais não são bijetoras (elas se repetem), precisamos restringir seus domínios para criar inversas. O arco seno (arcsen) nos dá o ângulo cujo seno é x, mas apenas considerando ângulos entre -π/2 e π/2. O arco cosseno (arccos) faz o mesmo para cosseno, com ângulos entre 0 e π. E o arco tangente (arctg) para tangente, entre -π/2 e π/2. Essas funções são essenciais para 'desfazer' operações trigonométricas, aparecendo em cálculos de ângulos em navegação, física e computação gráfica.",
+    "palavras_chave": ["arcsen", "arccos", "arctg", "função inversa", "restrição de domínio"]
+  },
+  {
+    "pergunta": "O que é uma função crescente e decrescente?",
+    "resposta": "Esses conceitos descrevem o comportamento de uma função conforme x aumenta. Dizemos que uma função é Crescente em um intervalo se, para quaisquer x₁ < x₂ nesse intervalo, tivermos f(x₁) ≤ f(x₂). Se for f(x₁) < f(x₂), é Estritamente Crescente. Analogamente, é Decrescente se f(x₁) ≥ f(x₂) quando x₁ < x₂. Visualmente, uma função crescente 'sobe' da esquerda para a direita, enquanto uma decrescente 'desce'. Identificar esses intervalos é crucial para entender otimização e comportamento de sistemas.",
+    "palavras_chave": ["função crescente", "função decrescente", "intervalo", "comportamento", "análise"]
+  },
+  {
+    "pergunta": "Como determinar o crescimento de uma função sem o gráfico?",
+    "resposta": "Existe um método analítico poderoso usando derivadas, mas mesmo sem cálculo, podemos testar a definição. Escolha dois valores quaisquer x₁ e x₂ no intervalo de interesse, com x₁ < x₂. Calcule f(x₁) e f(x₂). Se f(x₁) < f(x₂) para todas as escolhas, a função é crescente. Se f(x₁) > f(x₂), é decrescente. Para funções polinomiais de primeiro grau, basta olhar o sinal do coeficiente 'a': positivo indica crescimento, negativo indica decrescimento. Para quadráticas, analisamos em relação ao vértice.",
+    "palavras_chave": ["teste de crescimento", "definição", "análise analítica", "derivada", "coeficiente angular"]
+  },
+  {
+    "pergunta": "O que é uma função sobrejetora?",
+    "resposta": "Uma função f: A → B é sobrejetora (ou sobrejetiva) quando o contradomínio B é exatamente igual à imagem da função. Em outras palavras, não 'sobra' nenhum elemento em B que não seja correspondente de algum elemento de A. Para todo y em B, existe pelo menos um x em A tal que f(x) = y. Uma maneira prática de verificar é resolver a equação y = f(x) para x e ver se para todo y no contradomínio existe solução. Funções sobrejetoras garantem que todo elemento do destino é 'atingível'.",
+    "palavras_chave": ["sobrejetora", "contradomínio", "imagem", "atingibilidade", "verificação"]
+  },
+  {
+    "pergunta": "E uma função injetora?",
+    "resposta": "A função injetora (ou injetiva) é aquela que preserva a distinção: elementos diferentes do domínio sempre produzem imagens diferentes. Se x₁ ≠ x₂, então f(x₁) ≠ f(x₂). Uma forma equivalente de testar é: se f(x₁) = f(x₂), então obrigatoriamente x₁ = x₂. Graficamente, existe o 'teste da reta horizontal': se uma reta horizontal cortar o gráfico em mais de um ponto, a função não é injetora. A injetividade é importante porque garante que a função não 'colapsa' informações diferentes na mesma saída.",
+    "palavras_chave": ["injetora", "teste da reta horizontal", "unicidade", "preservação", "distinção"]
+  },
+  {
+    "pergunta": "O que é o gráfico de uma função?",
+    "resposta": "O gráfico de uma função f é o conjunto de todos os pares ordenados (x, f(x)) onde x pertence ao domínio, plotados no plano cartesiano. É uma representação visual poderosa que transforma álgebra em geometria. Cada ponto do gráfico nos diz: 'quando a entrada é x, a saída é y'. Através do gráfico, podemos identificar instantaneamente raízes (cruzamentos com eixo x), valor em zero (cruzamento com eixo y), intervalos de crescimento/decrescimento, máximos, mínimos, e comportamentos assintóticos. É a ponte entre a fórmula abstrata e o comportamento concreto.",
+    "palavras_chave": ["gráfico", "plano cartesiano", "pares ordenados", "representação visual", "análise geométrica"]
+  },
+  {
+    "pergunta": "Como esboçar o gráfico de uma função quadrática?",
+    "resposta": "Para esboçar f(x) = ax² + bx + c, siga estes passos: 1) A concavidade: se a > 0, é para cima (sorriso); se a < 0, é para baixo (carinha triste). 2) Encontre o vértice V = (-b/2a, f(-b/2a)) - este é o ponto de máximo ou mínimo. 3) Encontre as raízes resolvendo ax² + bx + c = 0 (use Bhaskara). 4) O ponto onde corta o eixo y é (0, c). 5) Use a simetria: a parábola é simétrica em relação à reta vertical que passa pelo vértice. Com esses 4-5 pontos chave, você pode esboçar a curva com boa precisão.",
+    "palavras_chave": ["esboço de gráfico", "parábola", "vértice", "raízes", "simetria"]
+  },
+  {
+    "pergunta": "O que é uma função definida implicitamente?",
+    "resposta": "Diferente das funções explícitas onde temos y = f(x) claramente, uma função implícita é definida por uma equação que relaciona x e y sem isolar y. Por exemplo, x² + y² = 1 define um círculo, mas não temos y explicitamente em função de x. Neste caso, na verdade temos duas funções: y = √(1-x²) e y = -√(1-x²). Trabalhar com funções implícitas requer técnicas especiais, como derivação implícita no cálculo. Muitas relações importantes na física e engenharia surgem naturalmente na forma implícita.",
+    "palavras_chave": ["função implícita", "equação", "derivação implícita", "círculo", "relação"]
+  },
+  {
+    "pergunta": "O que é o conjunto imagem de uma função?",
+    "resposta": "O conjunto imagem, ou simplesmente imagem, é formado por todos os valores que a função realmente assume. É um subconjunto do contradomínio. Enquanto o contradomínio é 'onde a função pode chegar', a imagem é 'onde ela realmente chega'. Por exemplo, se temos f: R → R definida por f(x) = x², o contradomínio é todos os reais, mas a imagem é apenas [0, ∞). Determinar a imagem exata pode ser desafiador, mas para funções contínuas de R em R, a imagem é geralmente um intervalo que pode ser encontrado estudando-se os valores máximo e mínimo da função.",
+    "palavras_chave": ["conjunto imagem", "valores atingidos", "subconjunto", "contradomínio", "intervalo"]
+  },
+  {
+    "pergunta": "O que é uma função algébrica?",
+    "resposta": "Funções algébricas são aquelas que podem ser construídas usando apenas operações algébricas: adição, subtração, multiplicação, divisão, potenciação e radiciação com expoentes racionais. Todos os polinômios, funções racionais e radicais são algébricas. Elas se contrastam com as funções transcendentes, como exponenciais, logaritmos e trigonométricas, que 'transcendem' as operações algébricas. As funções algébricas formam uma família fechada sob composição e combinação, e muitas propriedades importantes da álgebra se aplicam a elas.",
+    "palavras_chave": ["função algébrica", "operações algébricas", "polinômio", "racional", "radical"]
+  },
+  {
+    "pergunta": "E uma função transcendental?",
+    "resposta": "Funções transcendentes são aquelas que não são algébricas, ou seja, não podem ser expressas apenas com operações algébricas finitas. As principais classes são: funções exponenciais (como eˣ), logaritmicas (como ln x), trigonométricas (sen, cos) e suas inversas. O nome vem do latim 'transcendere' que significa 'ultrapassar', pois elas vão além da álgebra elementar. Essas funções são essenciais para descrever crescimento, decaimento, oscilações e muitos fenômenos naturais. Sabia que a maioria das funções que encontramos em aplicações avançadas são transcendentes?",
+    "palavras_chave": ["função transcendental", "exponencial", "logaritmo", "trigonométrica", "não-algébrica"]
+  },
+  {
+    "pergunta": "O que é o eixo de simetria de uma parábola?",
+    "resposta": "Toda parábola tem um eixo de simetria vertical que passa exatamente pelo seu vértice. Essa é uma reta imaginária que divide a parábola em duas partes espelhadas - o lado esquerdo é reflexo do direito. Para a função f(x) = ax² + bx + c, a equação desse eixo é x = -b/(2a), que é justamente a coordenada x do vértice. Essa propriedade é muito útil: se você conhece um ponto (x, y) na parábola, automaticamente conhece seu ponto simétrico (2xv - x, y), onde xv é a coordenada x do vértice.",
+    "palavras_chave": ["eixo de simetria", "parábola", "vértice", "reflexão", "geometria"]
+  },
+  {
+    "pergunta": "Como funciona a função raiz quadrada?",
+    "resposta": "A função raiz quadrada f(x) = √x é a inversa da função quadrática f(x) = x², mas apenas para x ≥ 0. Seu domínio é [0, ∞) porque não podemos extrair raiz quadrada real de números negativos. Sua imagem também é [0, ∞), e ela é sempre crescente em todo seu domínio. O gráfico começa na origem (0,0) e sobe suavemente, ficando cada vez mais 'horizontal' conforme x aumenta - isso reflete o fato que números grandes têm raízes proporcionalmente menores. Ela aparece em cálculos de distâncias, em estatística (desvio padrão) e em várias fórmulas geométricas.",
+    "palavras_chave": ["função raiz", "quadrada", "inversa", "domínio restrito", "crescente"]
+  },
+  {
+    "pergunta": "O que é uma função potência?",
+    "resposta": "Funções potência têm a forma f(x) = xⁿ, onde n é um número real constante. Elas formam uma família diversa: se n é inteiro positivo, temos polinômios simples; se n = 1/2, temos raiz quadrada; se n = -1, temos a função 1/x; e assim por diante. O comportamento dessas funções varia dramaticamente dependendo de n: para n > 0, passam pela origem e são crescentes para x > 0; para n < 0, têm assíntotas e são decrescentes. Elas são os blocos fundamentais para construir funções mais complexas através de operações algébricas.",
+    "palavras_chave": ["função potência", "expoente", "x elevado a n", "família", "comportamento"]
+  },
+  {
+    "pergunta": "O que é composição de funções na prática?",
+    "resposta": "Compor funções é como criar uma 'linha de produção' matemática. Por exemplo, imagine que f(x) calcula o imposto sobre um produto e g(x) calcula o desconto. A composição (g ∘ f)(x) = g(f(x)) significa: primeiro calcule o imposto, depois aplique o desconto sobre o valor já com imposto. Já (f ∘ g)(x) = f(g(x)) seria: primeiro dê o desconto, depois calcule o imposto sobre o valor com desconto. Os resultados são diferentes! Essa não-comutatividade mostra que a ordem das operações é crucial em situações reais como cálculos financeiros e processamento de dados.",
+    "palavras_chave": ["composição prática", "linha de produção", "ordem das operações", "aplicação real", "processamento"]
+  },
+  {
+    "pergunta": "O que é o zero de uma função polinomial?",
+    "resposta": "O zero ou raiz de uma função polinomial P(x) é todo valor r tal que P(r) = 0. Esses são os pontos onde o gráfico da função cruza o eixo x. Para polinômios de grau n, existem no máximo n raízes reais (pelo Teorema Fundamental da Álgebra, considerando raízes complexas, são exatamente n contando multiplicidades). Encontrar os zeros de um polinômio é um problema central, resolvido por fatoração, fórmula de Bhaskara (grau 2) ou métodos numéricos para graus maiores. Essas raízes determinam completamente a forma do gráfico do polinômio.",
+    "palavras_chave": ["zero polinomial", "raiz", "teorema fundamental", "fatoração", "grau do polinômio"]
+  },
+  {
+    "pergunta": "Como funciona a função maior inteiro?",
+    "resposta": "Também chamada de função piso, a função maior inteiro f(x) = ⌊x⌋ retorna o maior número inteiro que é menor ou igual a x. Por exemplo: ⌊3.7⌋ = 3, ⌊2⌋ = 2, ⌊-1.2⌋ = -2. Seu gráfico é fascinante: parece uma escada onde cada degrau tem comprimento 1, sendo contínuo à esquerda mas com 'saltos' à direita. Ela é descontínua em todos os inteiros e constante em cada intervalo [n, n+1). Essa função é essencial em programação (divisão inteira), matemática discreta e qualquer situação onde precisamos arredondar para baixo.",
+    "palavras_chave": ["função piso", "maior inteiro", "escada", "descontínua", "arredondamento"]
+  },
+  {
+    "pergunta": "O que é uma função limitada?",
+    "resposta": "Uma função é limitada quando existe um número M > 0 tal que |f(x)| ≤ M para todo x no domínio. Em outras palavras, os valores da função não 'fogem' para infinito - eles ficam confinados dentro de uma faixa [-M, M]. Visualmente, o gráfico inteiro cabe entre duas retas horizontais y = M e y = -M. A função sen(x) é limitada (entre -1 e 1), mas x² não é limitada. Funções limitadas têm propriedades especiais em análise matemática e são mais 'comportadas' em muitos aspectos. Em aplicações, elas modelam sistemas com restrições físicas naturais.",
+    "palavras_chave": ["função limitada", "limite superior", "limite inferior", "confinamento", "análise"]
+  },
+  {
+    "pergunta": "O que é o período fundamental de uma função periódica?",
+    "resposta": "O período fundamental é o menor número positivo T para o qual f(x+T) = f(x) para todo x no domínio. Por exemplo, sen(x) tem período fundamental 2π, embora 4π, 6π, etc. também sejam períodos. É como o 'ciclo mínimo' da função. Determinar o período fundamental é importante para entender a frequência fundamental de oscilações. Em processamento de sinais, trabalhar com o período fundamental evita redundância e simplifica análises. Para funções trigonométricas combinadas, o período fundamental é geralmente o mínimo múltiplo comum dos períodos individuais.",
+    "palavras_chave": ["período fundamental", "menor período", "ciclo mínimo", "função periódica", "frequência"]
+  },
+  {
+    "pergunta": "Como funções modelam fenômenos do cotidiano?",
+    "resposta": "Funções estão escondidas em toda parte! O consumo de combustível do seu carro em função da velocidade é uma função (geralmente quadrática). A conta de luz é uma função por partes do consumo. A conversão de temperaturas entre escalas é uma função linear. O crescimento de uma planta pode ser modelado por uma função logística. Até seu desempenho em aprender um novo assunto provavelmente segue uma curva de aprendizado, que é uma função! Reconhecer esses padrões funcionais nos ajuda a prever comportamentos, otimizar processos e tomar decisões mais informadas no dia a dia.",
+    "palavras_chave": ["modelagem", "cotidiano", "aplicações práticas", "previsão", "otimização"]
+  },
+  {
+    "pergunta": "O que é o coeficiente angular de uma reta?",
+    "resposta": "Em uma função linear f(x) = ax + b, o coeficiente 'a' é chamado de coeficiente angular ou inclinação. Ele mede o quanto y muda quando x aumenta uma unidade. Se a = 2, significa que para cada passo à direita, subimos 2 passos. Se a = -1, para cada passo à direita, descemos 1 passo. Se a = 0, a reta é horizontal. Quanto maior o valor absoluto de a, mais 'íngreme' é a reta. O coeficiente angular é fundamental em taxas de variação: velocidade, crescimento populacional, custo marginal em economia - todos são coeficientes angulares de funções apropriadas.",
+    "palavras_chave": ["coeficiente angular", "inclinação", "taxa de variação", "reta", "linear"]
+  },
+  {
+    "pergunta": "E o coeficiente linear?",
+    "resposta": "Na função f(x) = ax + b, o coeficiente 'b' é o coeficiente linear. Ele representa o valor da função quando x = 0, ou seja, onde o gráfico corta o eixo y. Em aplicações, frequentemente representa um valor inicial, um custo fixo, uma condição de contorno ou um 'ponto de partida'. Por exemplo, em uma função que modela o custo total de produção, 'b' seria o custo fixo (aluguel, salários) que existe mesmo com produção zero, enquanto 'a' seria o custo variável por unidade produzida.",
+    "palavras_chave": ["coeficiente linear", "corte eixo y", "valor inicial", "custo fixo", "condição inicial"]
+  },
+  {
+    "pergunta": "O que é uma função definida por várias sentenças?",
+    "resposta": "É sinônimo de função definida por partes, mas o nome 'várias sentenças' é particularmente descritivo: são funções que usam diferentes 'regras' ou 'fórmulas' para diferentes intervalos do domínio. A sintaxe geralmente usa chaves para agrupar as diferentes condições. Por exemplo, a função módulo pode ser escrita como: f(x) = x se x ≥ 0, e f(x) = -x se x < 0. Essas funções são extremamente versáteis para modelar situações do mundo real onde as regras mudam em certos limiares, como alíquotas de imposto progressivas ou tarifas com faixas de consumo.",
+    "palavras_chave": ["várias sentenças", "partes", "condições", "limiares", "versatilidade"]
+  },
+  {
+    "pergunta": "O que é uma função logarítmica e qual sua base?",
+    "resposta": "A função logarítmica é a inversa da função exponencial. Ela é da forma f(x) = logₐ(x), onde 'a' é a base, um número positivo diferente de 1. A pergunta fundamental que o logaritmo responde é: 'a que potência devo elevar a base 'a' para obter x?' Por exemplo, log₂(8) = 3 porque 2³ = 8. As bases mais comuns são 10 (logaritmo decimal), 'e' (logaritmo natural, ln) e 2 (em computação). A base determina quão 'rápido' o logaritmo cresce. Sabia que os logaritmos foram inventados no século XVII por John Napier para simplificar cálculos astronômicos complexos?",
+    "palavras_chave": ["logaritmo", "base", "função inversa", "logaritmo natural", "crescimento"]
+  },
+  {
+    "pergunta": "Como funciona a função cosseno?",
+    "resposta": "A função cosseno, f(x) = cos(x), é uma das funções trigonométricas fundamentais. No círculo unitário, ela representa a coordenada horizontal de um ponto que percorre a circunferência. Seu gráfico é uma onda suave que oscila entre -1 e 1, com período de 2π radianos. Diferente do seno que começa em zero, o cosseno começa em 1 quando x=0. Ela é uma função par (cos(-x) = cos(x)) e modela fenômenos de oscilação em fase com condições iniciais máximas, como o movimento de uma mola liberada da posição esticada.",
+    "palavras_chave": ["cosseno", "círculo unitário", "função par", "oscilação", "coordenada horizontal"]
+  },
+  {
+    "pergunta": "O que é o domínio natural de uma função?",
+    "resposta": "O domínio natural é o maior conjunto de números reais para os quais a expressão da função faz sentido matematicamente, sem considerar restrições contextuais externas. Por exemplo, para f(x) = 1/(x-2), o domínio natural são todos os reais exceto x=2. Já para g(x) = √(x-1), o domínio natural é [1, ∞). Determinar o domínio natural é o primeiro passo ao trabalhar com qualquer função, pois estabelece os 'limites de atuação' da expressão matemática antes de aplicarmos quaisquer restrições do mundo real.",
+    "palavras_chave": ["domínio natural", "restrições matemáticas", "maior conjunto", "análise inicial", "validade"]
+  },
+  {
+    "pergunta": "O que é uma função bijetora e por que ela é especial?",
+    "resposta": "Uma função é bijetora quando é simultaneamente injetora e sobrejetora. Isso cria uma correspondência perfeita 'um para um' entre domínio e contradomínio: cada elemento do domínio vai para um elemento único do contradomínio, e todos os elementos do contradomínio são atingidos. Essa propriedade é especial porque garante que a função possui inversa - existe uma função f⁻¹ que desfaz perfeitamente o que f fez. Em termos práticos, sistemas bijetores são 'reversíveis' sem perda de informação. A função f(x) = 2x é bijetora de R em R, mas f(x) = x² não é.",
+    "palavras_chave": ["bijetora", "correspondência perfeita", "função inversa", "reversibilidade", "injetora e sobrejetora"]
+  },
+  {
+    "pergunta": "Como determinar a inversa de uma função?",
+    "resposta": "Para encontrar a inversa de uma função f, seguimos três passos: 1) Verificamos se f é bijetora (caso contrário, não tem inversa). 2) Trocamos f(x) por y, então temos y = f(x). 3) 'Invertemos' a equação: isolamos x em função de y. 4) Por fim, trocamos y por x e x por f⁻¹(x). Por exemplo, para f(x) = 2x + 3: y = 2x + 3 → y - 3 = 2x → x = (y-3)/2 → f⁻¹(x) = (x-3)/2. Graficamente, a função e sua inversa são simétricas em relação à reta y = x.",
+    "palavras_chave": ["inversa", "troca de variáveis", "isolamento", "simetria", "procedimento"]
+  },
+  {
+    "pergunta": "O que é uma função exponencial natural?",
+    "resposta": "A função exponencial natural é f(x) = eˣ, onde 'e' é a constante de Euler, aproximadamente 2,71828. Esta é provavelmente a função mais importante da matemática devido às suas propriedades únicas: sua derivada é ela mesma (f'(x) = eˣ) e aparece naturalmente em crescimento contínuo, juros compostos capitalizados instantaneamente, processos de decaimento radioativo e na descrição de muitos fenômenos naturais. Ela é a 'função própria' do cálculo diferencial e serve como base para os logaritmos naturais. Sabia que o número 'e' é irracional e transcendente?",
+    "palavras_chave": ["exponencial natural", "número e", "constante de euler", "derivada", "crescimento contínuo"]
+  },
+  {
+    "pergunta": "O que são funções trigonométricas recíprocas?",
+    "resposta": "As funções trigonométricas recíprocas são secante (sec x = 1/cos x), cossecante (csc x = 1/sen x) e cotangente (cot x = 1/tan x). Elas recebem esse nome porque são os recíprocos (inversos multiplicativos) das funções trigonométricas básicas. Embora menos intuitivas, são muito úteis em cálculo e identidades trigonométricas. Seus gráficos têm assíntotas verticais nos pontos onde as funções originais se anulam. Por exemplo, sec x tem assíntotas onde cos x = 0, ou seja, em x = π/2 + kπ.",
+    "palavras_chave": ["secante", "cossecante", "cotangente", "recíprocas", "assíntotas"]
+  },
+  {
+    "pergunta": "O que é uma função definida por fórmula?",
+    "resposta": "Uma função definida por fórmula é aquela expressa através de uma equação matemática explícita que relaciona a variável dependente com a independente. Por exemplo, f(x) = 3x² - 2x + 1 ou g(x) = sen(x) + eˣ. Esta é a forma mais comum e poderosa de definir funções, pois permite cálculo direto de valores, análise de propriedades e manipulação algébrica. A fórmula serve como uma 'receita' precisa para calcular a saída para qualquer entrada válida. A maioria das funções que estudamos em matemática são definidas por fórmulas.",
+    "palavras_chave": ["fórmula", "equação explícita", "receita", "cálculo direto", "forma comum"]
+  },
+  {
+    "pergunta": "Como funções podem ser representadas por tabelas?",
+    "resposta": "A representação tabular lista pares específicos de entrada e saída em forma de tabela. É especialmente útil quando a função é definida experimentalmente ou quando não temos uma fórmula fechada. Por exemplo, dados de temperatura ao longo do dia ou resultados de uma pesquisa. A vantagem é a simplicidade e clareza para valores discretos. A desvantagem é que só temos informação sobre pontos específicos, não sobre o comportamento geral entre eles. Em matemática, tabelas são frequentemente o primeiro contato com o conceito de função, mostrando claramente a relação de dependência.",
+    "palavras_chave": ["tabela", "representação", "dados discretos", "experimental", "pares ordenados"]
+  },
+  {
+    "pergunta": "O que é uma função de duas variáveis?",
+    "resposta": "Enquanto funções comuns têm uma variável independente (f(x)), funções de duas variáveis têm a forma f(x,y), onde o resultado depende de duas entradas. Por exemplo, a área de um retângulo A(l,a) = l × a depende do comprimento e da largura. Seu gráfico não é uma curva no plano, mas uma superfície no espaço tridimensional. Essas funções são essenciais para modelar fenômenos multivariados: temperatura em função da latitude e longitude, lucro em função do preço e quantidade vendida, ou pressão em função do volume e temperatura.",
+    "palavras_chave": ["duas variáveis", "superfície", "multivariada", "espaço tridimensional", "dependência múltipla"]
+  },
+  {
+    "pergunta": "O que é o gráfico de uma função de duas variáveis?",
+    "resposta": "O gráfico de f(x,y) é o conjunto de todos os pontos (x, y, z) no espaço tridimensional onde z = f(x,y). Em vez de uma curva, temos uma superfície que pode ter picos, vales, planos e curvas de nível. Visualizar essas superfícies ajuda a entender como z muda quando x e y variam. Por exemplo, f(x,y) = x² + y² tem gráfico de um parabolóide (uma 'tigela'), enquanto f(x,y) = xy tem uma 'sela'. Essas visualizações são cruciais em otimização multivariada e em entender fenômenos físicos complexos.",
+    "palavras_chave": ["superfície", "espaço 3d", "curvas de nível", "parabolóide", "visualização"]
+  },
+  {
+    "pergunta": "O que é uma função definida por integral?",
+    "resposta": "É uma função onde o valor em cada ponto é dado por uma integral. O exemplo mais famoso é a função logaritmo natural: ln(x) = ∫₁ˣ (1/t) dt para x > 0. Outro exemplo importante é a função erro em probabilidade. Essas funções são definidas implicitamente por um processo de acumulação - a integral calcula a 'área acumulada' sob uma curva. Essa abordagem é poderosa porque pode definir funções para as quais não existe fórmula elementar fechada. Em cálculo, muitas funções especiais importantes são definidas por integrais.",
+    "palavras_chave": ["integral", "área acumulada", "definição implícita", "função erro", "logaritmo natural"]
+  },
+  {
+    "pergunta": "O que é uma função contínua?",
+    "resposta": "Intuitivamente, uma função é contínua quando seu gráfico pode ser desenhado sem levantar o lápis do papel. Formalmente, f é contínua em um ponto 'a' se: 1) f(a) existe, 2) o limite de f(x) quando x tende a 'a' existe, e 3) esse limite é igual a f(a). Funções contínuas têm comportamento 'previsível' - pequenas mudanças na entrada produzem pequenas mudanças na saída. A maioria das funções elementares (polinomiais, exponenciais, trigonométricas) são contínuas em seus domínios. A continuidade é essencial para muitos teoremas importantes do cálculo, como o Teorema do Valor Intermediário.",
+    "palavras_chave": ["contínua", "sem saltos", "limite", "comportamento previsível", "teorema do valor intermediário"]
+  },
+  {
+    "pergunta": "O que é uma função descontínua?",
+    "resposta": "Uma função é descontínua quando há 'quebras', 'saltos' ou 'buracos' em seu gráfico. Existem vários tipos de descontinuidade: removível (quando o limite existe mas não coincide com o valor da função), de salto (quando os limites laterais existem mas são diferentes), e essencial (quando pelo menos um dos limites laterais não existe). Por exemplo, f(x) = 1/x tem descontinuidade essencial em x=0, enquanto a função degrau unitário tem descontinuidade de salto. Descontinuidades muitas vezes indicam mudanças abruptas em fenômenos físicos ou limites nas modelagens matemáticas.",
+    "palavras_chave": ["descontínua", "salto", "buraco", "limites laterais", "quebra"]
+  },
+  {
+    "pergunta": "O que é o vértice de uma função quadrática?",
+    "resposta": "O vértice é o ponto de máximo ou mínimo da parábola que representa uma função quadrática f(x) = ax² + bx + c. Suas coordenadas são V = (-b/2a, f(-b/2a)). Se a > 0, o vértice é o ponto mínimo; se a < 0, é o ponto máximo. Este ponto é crucial porque representa o valor ótimo em problemas de otimização: a altura máxima de um projétil, o lucro máximo de uma empresa, ou o custo mínimo de produção. O vértice também é o centro de simetria da parábola - a função é simétrica em relação à reta vertical que passa por ele.",
+    "palavras_chave": ["vértice", "ponto extremo", "ótimo", "simetria", "coordenadas"]
+  },
+  {
+    "pergunta": "O que é uma função polinomial de grau n?",
+    "resposta": "Uma função polinomial de grau n tem a forma P(x) = aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀, onde aₙ ≠ 0 e n é um inteiro não negativo. O grau determina o comportamento da função para valores grandes de |x| e o número máximo de raízes reais. Polinômios de grau ímpar vão para -∞ quando x → -∞ e para +∞ quando x → +∞ (ou vice-versa, dependendo do sinal de aₙ). Polinômios de grau par vão para +∞ em ambas extremidades se aₙ > 0, ou para -∞ se aₙ < 0. Polinômios são funções muito 'bem-comportadas': são contínuas, diferenciáveis e suaves.",
+    "palavras_chave": ["polinomial", "grau n", "comportamento assintótico", "raízes", "suave"]
+  },
+  {
+    "pergunta": "O que é a função tangente?",
+    "resposta": "A função tangente, f(x) = tan(x) = sen(x)/cos(x), é uma função trigonométrica com comportamento peculiar. Diferente do seno e cosseno, ela não é limitada - seus valores vão de -∞ a +∞. Seu período é π (metade do período do seno e cosseno), e ela tem assíntotas verticais em x = π/2 + kπ, onde o cosseno se anula. O gráfico consiste de infinitos ramos desconexos, cada um crescendo de -∞ a +∞. A tangente é muito útil em trigonometria para relacionar lados opostos e adjacentes em triângulos retângulos, e aparece naturalmente em problemas de inclinação e ângulos.",
+    "palavras_chave": ["tangente", "assíntotas verticais", "período π", "ilimitada", "ramos"]
+  },
+  {
+    "pergunta": "O que é uma função definida recursivamente?",
+    "resposta": "Uma função definida recursivamente é especificada por: 1) Um ou mais casos base (valores iniciais conhecidos), e 2) Uma regra que calcula f(n) em termos de valores anteriores f(n-1), f(n-2), etc. O exemplo mais famoso é a sequência de Fibonacci: F(1) = 1, F(2) = 1, e F(n) = F(n-1) + F(n-2) para n > 2. Essa forma de definição é natural para fenômenos discretos onde o estado atual depende de estados anteriores, como crescimento populacional, algoritmos de ordenação, e muitos processos iterativos em computação.",
+    "palavras_chave": ["recursiva", "caso base", "fibonacci", "processo iterativo", "definição indutiva"]
+  },
+  {
+    "pergunta": "O que é o conceito de função como máquina?",
+    "resposta": "A analogia da função como máquina é uma metáfora pedagógica poderosa: imagine uma caixa preta onde você insere um valor de entrada (x), a máquina processa esse valor segundo uma regra fixa, e produz um valor de saída (f(x)). Essa visão enfatiza os aspectos essenciais: cada entrada produz exatamente uma saída, a regra é fixa, e o processo é determinístico. Embora simplificada, essa analogia ajuda estudantes a compreenderem o conceito fundamental de função antes de enfrentarem notações mais abstratas. É como uma calculadora programada com uma operação específica.",
+    "palavras_chave": ["máquina", "analogia", "caixa preta", "entrada-saída", "processamento"]
+  },
+  {
+    "pergunta": "O que é uma função definida por série?",
+    "resposta": "Algumas funções são definidas como somas infinitas de termos, chamadas séries. O exemplo mais importante é a série de Taylor, que representa funções como polinômios infinitos. Por exemplo, eˣ = 1 + x + x²/2! + x³/3! + ... para todo x real. Outro exemplo clássico é a série geométrica 1/(1-x) = 1 + x + x² + x³ + ... para |x| < 1. Essas representações são profundamente úteis em cálculo numérico, física teórica e para definir funções que não têm representação elementar fechada. Muitas funções especiais em matemática avançada são definidas por séries.",
+    "palavras_chave": ["série", "soma infinita", "taylor", "representação", "polinômio infinito"]
+  },
+  {
+    "pergunta": "O que é a função seno hiperbólico?",
+    "resposta": "O seno hiperbólico, sinh(x) = (eˣ - e⁻ˣ)/2, é uma função que, apesar do nome, não tem relação direta com trigonometria circular. Ela é chamada 'hiperbólica' porque satisfaz a identidade cosh²(x) - sinh²(x) = 1, análoga à identidade trigonométrica, mas com um sinal negativo - daí sua conexão com hipérboles. Seu gráfico passa pela origem e cresce exponencialmente para |x| grande. O seno hiperbólico aparece em problemas de cabos suspensos (catenária), na teoria da relatividade, e em equações diferenciais que modelam vários fenômenos físicos.",
+    "palavras_chave": ["seno hiperbólico", "sinh", "função hiperbólica", "catenária", "exponencial"]
+  },
+  {
+    "pergunta": "E o cosseno hiperbólico?",
+    "resposta": "O cosseno hiperbólico, cosh(x) = (eˣ + e⁻ˣ)/2, é a função companheira do seno hiperbólico. Diferente do sinh, o cosh é uma função par (cosh(-x) = cosh(x)) e seu valor mínimo é 1, atingido em x=0. Seu gráfico tem forma de 'catenária' - a curva que um cabo flexível forma quando suspenso por duas extremidades. Esta propriedade faz do cosh crucial em engenharia civil para projetar pontes suspensas e cabos de energia. Assim como o seno hiperbólico, ele satisfaz relações análogas às trigonométricas, mas com signos diferentes.",
+    "palavras_chave": ["cosseno hiperbólico", "cosh", "catenária", "função par", "mínimo"]
+  },
+  {
+    "pergunta": "O que é uma função de proporcionalidade inversa?",
+    "resposta": "Uma função de proporcionalidade inversa tem a forma f(x) = k/x, onde k é uma constante não nula. Ela modela situações onde uma grandeza diminui à medida que outra aumenta, de forma que o produto permanece constante: x × f(x) = k. Seu gráfico é uma hipérbole com assíntotas nos eixos coordenados. Exemplos práticos abundam: o tempo para completar uma tarefa é inversamente proporcional ao número de trabalhadores; a intensidade da luz é inversamente proporcional ao quadrado da distância (uma variação); a pressão de um gás é inversamente proporcional ao volume (Lei de Boyle).",
+    "palavras_chave": ["proporcionalidade inversa", "hipérbole", "assíntotas", "produto constante", "lei de boyle"]
+  },
+  {
+    "pergunta": "O que é o conceito de função em programação?",
+    "resposta": "Em programação, uma função é um bloco de código reutilizável que recebe entradas (parâmetros), executa operações e retorna um resultado. Embora inspirado no conceito matemático, na programação as funções podem ter 'efeitos colaterais' (modificar variáveis globais, imprimir na tela, etc.) e não são necessariamente determinísticas ou puras. Funções em programação servem principalmente para organizar código, evitar repetição e decompor problemas complexos em partes menores. Apesar das diferenças, a ideia central permanece: mapear entradas para saídas de acordo com uma regra definida.",
+    "palavras_chave": ["programação", "bloco de código", "parâmetros", "reutilização", "decomposição"]
+  },
+  {
+    "pergunta": "O que é uma função real de variável real?",
+    "resposta": "Esta é a classe de funções mais estudada em cálculo e análise: funções onde tanto o domínio quanto o contradomínio são subconjuntos dos números reais. Em notação: f: A ⊆ R → R. A grande maioria das funções que encontramos no ensino médio e nos primeiros anos de graduação pertencem a esta categoria. Essa restrição aos reais é importante porque permite usar toda a estrutura dos números reais (completude, ordem, operações) e técnicas específicas de análise real, como limites, derivadas e integrais no sentido de Riemann.",
+    "palavras_chave": ["função real", "variável real", "números reais", "cálculo", "análise real"]
+  },
+  {
+    "pergunta": "O que é o gráfico de uma função constante?",
+    "resposta": "O gráfico de uma função constante f(x) = c é simplesmente uma reta horizontal que corta o eixo y no ponto (0, c). Essa reta é paralela ao eixo x e está sempre à mesma altura, não importa qual o valor de x. Esse é o caso mais simples possível de gráfico de função, mas ilustra bem o conceito: todos os pontos do domínio são mapeados para o mesmo valor no contradomínio. Em aplicações, esse gráfico representa situações de estabilidade total: temperatura constante, velocidade zero (repouso), ou qualquer grandeza que não varia com o tempo ou com outras variáveis.",
+    "palavras_chave": ["constante", "reta horizontal", "paralela", "estabilidade", "simplicidade"]
+  },
+  {
+    "pergunta": "O que é o conceito de função em matemática discreta?",
+    "resposta": "Na matemática discreta, uma função é definida como uma relação entre conjuntos onde cada elemento do domínio está associado a exatamente um elemento do contradomínio. A diferença crucial é que esses conjuntos são frequentemente finitos ou enumeráveis, como conjuntos de números inteiros, vértices de grafos ou estados de uma máquina. Funções discretas são fundamentais em ciência da computação, criptografia e combinatória. Por exemplo, funções hash mapeiam dados de tamanho arbitrário para valores fixos, e funções recursivas definem algoritmos. Sabia que a teoria das funções recursivas é a base matemática da computabilidade?",
+    "palavras_chave": ["matemática discreta", "conjuntos finitos", "função hash", "recursividade", "computabilidade"]
+  },
+  {
+    "pergunta": "O que é uma função de Dirichlet?",
+    "resposta": "A função de Dirichlet é um exemplo fascinante e patológico em análise: D(x) = 1 se x é racional, e D(x) = 0 se x é irracional. Esta função é descontínua em todos os pontos e não é integrável no sentido de Riemann. Ela serve como contraexemplo para muitos teoremas que valem para funções 'bem-comportadas', mostrando que a intuição geométrica nem sempre se aplica. A função de Dirichlet ilustra a necessidade de definições precisas em matemática e motiva o desenvolvimento de teorias mais sofisticadas, como a integral de Lebesgue, sob a qual esta função é integrável.",
+    "palavras_chave": ["dirichlet", "função patológica", "descontínua", "racionais", "contraexemplo"]
+  },
+  {
+    "pergunta": "Como funções aparecem em programação funcional?",
+    "resposta": "Na programação funcional, as funções são cidadãs de primeira classe - podem ser passadas como argumentos, retornadas como resultados e atribuídas a variáveis. Este paradigma se inspira diretamente no conceito matemático de função, enfatizando funções puras (sem efeitos colaterais) e imutabilidade. Técnicas como composição de funções, funções de alta ordem e recursão são centrais. Linguagens como Haskell, Lisp e Scala implementam este paradigma, que facilita o raciocínio sobre programas e permite poderosas abstrações. Sabia que o cálculo lambda, desenvolvido por Alonzo Church nos anos 1930, é a base teórica da programação funcional?",
+    "palavras_chave": ["programação funcional", "funções puras", "cálculo lambda", "imutabilidade", "funções de alta ordem"]
+  },
+  {
+    "pergunta": "O que é uma função convexa?",
+    "resposta": "Uma função é convexa se, para quaisquer dois pontos x₁ e x₂ em seu domínio, o segmento de reta que liga (x₁, f(x₁)) a (x₂, f(x₂)) está sempre acima ou sobre o gráfico da função. Geometricamente, seu gráfico 'curva para cima'. Formalmente: f(tx₁ + (1-t)x₂) ≤ tf(x₁) + (1-t)f(x₂) para todo t entre 0 e 1. Funções convexas têm propriedades importantes em otimização - todo mínimo local é global, e algoritmos de minimização convergem bem. Exemplos incluem x², eˣ, e funções lineares (que são tanto convexas quanto côncavas).",
+    "palavras_chave": ["função convexa", "otimização", "curvatura", "mínimo global", "desigualdade"]
+  },
+  {
+    "pergunta": "E uma função côncava?",
+    "resposta": "Uma função é côncava se o segmento que liga quaisquer dois pontos de seu gráfico está sempre abaixo ou sobre a curva. É o oposto da convexidade: f(tx₁ + (1-t)x₂) ≥ tf(x₁) + (1-t)f(x₂) para t entre 0 e 1. Seu gráfico 'curva para baixo'. Maximizar funções côncavas é tão 'fácil' quanto minimizar funções convexas. Exemplos clássicos são √x (para x ≥ 0) e ln(x). Na economia, funções de utilidade são frequentemente assumidas como côncavas, refletindo utilidade marginal decrescente - cada unidade adicional de um bem traz menos satisfação que a anterior.",
+    "palavras_chave": ["função côncava", "curvatura negativa", "máximo global", "utilidade marginal", "economia"]
+  },
+  {
+    "pergunta": "O que é uma função suave?",
+    "resposta": "Uma função é suave (ou de classe C∞) se é infinitamente diferenciável - podemos calcular suas derivadas de todas as ordens. A maioria das funções elementares é suave em seus domínios: polinômios, exponenciais, senos, cossenos. Funções suaves têm gráficos sem 'quinas' ou mudanças abruptas, e são essenciais em análise matemática, física teórica e equações diferenciais. O conceito oposto seria funções apenas contínuas mas não diferenciáveis, como a função |x| em x=0, ou funções 'patológicas' como a de Weierstrass, que é contínua em toda parte mas diferenciável em nenhuma.",
+    "palavras_chave": ["função suave", "infinitamente diferenciável", "classe c∞", "análise", "física teórica"]
+  },
+  {
+    "pergunta": "O que é a função maior inteiro (piso)?",
+    "resposta": "A função piso, denotada ⌊x⌋, retorna o maior inteiro menor ou igual a x. Por exemplo: ⌊3.7⌋ = 3, ⌊2⌋ = 2, ⌊-1.2⌋ = -2. Seu gráfico tem forma de escada, com degraus de comprimento 1 e descontinuidades em todos os inteiros. É contínua à direita mas descontínua à esquerda. A função piso é crucial em matemática discreta, ciência da computação (divisão inteira, arredondamento) e teoria dos números. Sua companheira é a função teto, ⌈x⌉, que retorna o menor inteiro maior ou igual a x. Juntas, são ferramentas fundamentais para trabalhar com valores discretos.",
+    "palavras_chave": ["função piso", "maior inteiro", "escada", "descontínua", "arredondamento"]
+  },
+  {
+    "pergunta": "O que é uma função de distribuição em probabilidade?",
+    "resposta": "Em probabilidade, a função de distribuição acumulada F(x) de uma variável aleatória X é definida como F(x) = P(X ≤ x). Ela fornece a probabilidade de X assumir valores menores ou iguais a x. Esta função tem propriedades importantes: é não-decrescente, contínua à direita, lim F(x) = 0 quando x → -∞, e lim F(x) = 1 quando x → +∞. Para variáveis contínuas, F(x) é a integral da função densidade de probabilidade. A função de distribuição é central em estatística matemática, permitindo calcular probabilidades de intervalos e caracterizar completamente o comportamento de variáveis aleatórias.",
+    "palavras_chave": ["função distribuição", "probabilidade acumulada", "variável aleatória", "estatística", "não-decrescente"]
+  },
+  {
+    "pergunta": "O que é a função sinal (signum)?",
+    "resposta": "A função sinal, sgn(x), retorna o sinal de um número real: sgn(x) = 1 se x > 0, sgn(0) = 0, e sgn(x) = -1 se x < 0. É uma função descontínua em x = 0, com um salto de -1 para 1. A função sinal é útil em processamento de sinais, controle e para expressar funções por partes. Relaciona-se com a função módulo através de |x| = x·sgn(x) para x ≠ 0. Em algumas definições, sgn(0) é deixado indefinido. Esta função captura a essência do conceito de 'positividade' ou 'negatividade' de forma discreta.",
+    "palavras_chave": ["função sinal", "signum", "descontínua", "salto", "processamento de sinais"]
+  },
+  {
+    "pergunta": "O que é uma função de Bessel?",
+    "resposta": "As funções de Bessel são soluções de uma importante equação diferencial que aparece em problemas com simetria cilíndrica ou esférica, como vibração de membranas circulares, propagação de ondas em cilindros, e distribuição de calor em objetos simétricos. Existem vários tipos: Jₙ(x) (de primeira espécie), Yₙ(x) (de segunda espécie), etc. Estas funções não podem ser expressas em termos de funções elementares, mas têm séries de potências e propriedades bem estudadas. As funções de Bessel são exemplos de funções especiais - funções importantes o suficiente para terem nomes e serem tabuladas.",
+    "palavras_chave": ["função de bessel", "equação diferencial", "simetria cilíndrica", "funções especiais", "física matemática"]
+  },
+  {
+    "pergunta": "O que é a função gama?",
+    "resposta": "A função gama, Γ(z), é uma extensão da função fatorial para números complexos (exceto inteiros não-positivos). Para números reais positivos, Γ(n) = (n-1)! quando n é inteiro positivo. Ela é definida pela integral Γ(z) = ∫₀∞ tᶻ⁻¹e⁻ᵗ dt para Re(z) > 0. A função gama é ubíqua em matemática avançada, aparecendo em teoria das probabilidades (distribuição gama), física estatística, teoria analítica dos números e equações diferenciais. Sabia que a função gama foi introduzida por Euler em 1729 como uma forma de generalizar o fatorial?",
+    "palavras_chave": ["função gama", "fatorial generalizado", "integral", "euler", "números complexos"]
+  },
+  {
+    "pergunta": "O que é uma função harmônica?",
+    "resposta": "Funções harmônicas são soluções da equação de Laplace ∇²f = 0. Elas têm a propriedade do valor médio: o valor em qualquer ponto é igual à média dos valores em qualquer esfera centrada nesse ponto. Exemplos incluem funções lineares, partes reais e imaginárias de funções analíticas complexas, e o potencial gravitacional no espaço vazio. Funções harmônicas modelam fenômenos de equilíbrio: distribuição de temperatura em estado estacionário, potencial eletrostático em regiões sem carga, e fluxo de fluidos ideais. São extremamente suaves e suas propriedades são profundamente estudadas em análise complexa e equações diferenciais parciais.",
+    "palavras_chave": ["função harmônica", "equação de laplace", "valor médio", "potencial", "equilíbrio"]
+  },
+  {
+    "pergunta": "O que é a função erro?",
+    "resposta": "A função erro, erf(x), é definida por erf(x) = (2/√π)∫₀ˣ e⁻ᵗ² dt. Ela mede a probabilidade de que uma variável aleatória com distribuição normal padrão esteja entre -x e x. A função erro não pode ser expressa em termos de funções elementares, mas é tão importante em probabilidade, estatística e física que recebeu um nome especial. Ela aparece na solução da equação do calor, em difusão, e em processamento de sinais. Relaciona-se com a função de distribuição normal Φ(x) por Φ(x) = [1 + erf(x/√2)]/2. Sua prima é a função erro complementar, erfc(x) = 1 - erf(x).",
+    "palavras_chave": ["função erro", "erf", "distribuição normal", "probabilidade", "equação do calor"]
+  },
+  {
+    "pergunta": "O que é uma função meromorfa?",
+    "resposta": "Uma função é meromorfa se é holomorfa (analítica) em todo seu domínio, exceto em pontos isolados onde tem pólos (singularidades onde a função vai para infinito). Em outras palavras, é uma função que pode ser escrita como o quociente de duas funções holomorfas. Exemplos incluem funções racionais, tan(x) = sen(x)/cos(x), e outras funções trigonométricas. As funções meromorfas são as 'funções racionais' do mundo complexo e têm propriedades muito especiais. Elas são fundamentais em análise complexa, teoria dos números (funções zeta e L) e física teórica.",
+    "palavras_chave": ["função meromorfa", "pólos", "holomorfa", "analítica complexa", "singularidades"]
+  },
+  {
+    "pergunta": "O que é a função zeta de Riemann?",
+    "resposta": "A função zeta, ζ(s), é uma das funções mais importantes da matemática. Originalmente definida para Re(s) > 1 por ζ(s) = ∑ₙ₌₁∞ 1/nˢ, ela admite uma continuação analítica para todo o plano complexo (exceto s=1). A Hipótese de Riemann, um dos problemas em aberto mais famosos, afirma que todos os zeros não-triviais de ζ(s) estão na linha crítica Re(s) = 1/2. Esta função conecta profundamente teoria dos números (distribuição de primos) com análise complexa. Sabia que ζ(-1) = -1/12, um resultado contra-intuitivo que aparece em teoria quântica de campos?",
+    "palavras_chave": ["função zeta", "riemann", "hipótese de riemann", "números primos", "análise complexa"]
+  },
+  {
+    "pergunta": "O que é uma função de onda em mecânica quântica?",
+    "resposta": "Em mecânica quântica, o estado de um sistema é descrito por uma função de onda ψ(x,t), geralmente uma função complexa de variáveis espaciais e temporais. O módulo ao quadrado |ψ(x,t)|² dá a densidade de probabilidade de encontrar a partícula na posição x no tempo t. Funções de onda satisfazem a equação de Schrödinger e contêm toda informação fisicamente significativa sobre o sistema. Diferente de funções clássicas, ψ pode exibir comportamentos não-intuitivos como superposição e interferência. A natureza das funções de onda é o cerne da interpretação da mecânica quântica.",
+    "palavras_chave": ["função de onda", "mecânica quântica", "equação de schrödinger", "probabilidade", "estado quântico"]
+  },
+  {
+    "pergunta": "O que é uma função de transferência em engenharia?",
+    "resposta": "Em engenharia de sistemas, a função de transferência H(s) de um sistema linear invariante no tempo é a transformada de Laplace da saída dividida pela transformada de Laplace da entrada (com condições iniciais nulas). Ela caracteriza completamente como o sistema responde a diferentes frequências. Analisando H(s), podemos determinar estabilidade, resposta em frequência, e comportamento dinâmico sem resolver equações diferenciais. Funções de transferência são fundamentais em controle automático, processamento de sinais, e circuitos elétricos. Elas transformam problemas de equações diferenciais em problemas algébricos mais simples.",
+    "palavras_chave": ["função de transferência", "transformada de laplace", "sistemas lineares", "estabilidade", "engenharia de controle"]
+  },
+  {
+    "pergunta": "O que é uma função de Green?",
+    "resposta": "Funções de Green são uma ferramenta poderosa para resolver equações diferenciais não-homogêneas com condições de contorno. Basicamente, a função de Green G(x,ξ) representa a resposta do sistema no ponto x a uma fonte pontual unitária no ponto ξ. A solução geral é então uma superposição (integral) das respostas a todas as fontes. Este método é especialmente útil em eletromagnetismo (potencial de uma distribuição de carga), mecânica quântica (propagadores) e teoria da elasticidade. As funções de Green transformam problemas de valor de contorno em problemas de integração.",
+    "palavras_chave": ["função de green", "equações diferenciais", "condições de contorno", "superposição", "fonte pontual"]
+  },
+  {
+    "pergunta": "O que é a função de Ackermann?",
+    "resposta": "A função de Ackermann A(m,n) é uma função recursiva que cresce extremamente rápido - muito mais rápido que exponenciais, fatoriais ou torres de potências. Ela é definida recursivamente por: A(0,n) = n+1; A(m,0) = A(m-1,1) para m>0; A(m,n) = A(m-1, A(m,n-1)) para m,n>0. Esta função é importante na teoria da computação porque é recursiva mas não primitiva recursiva, mostrando que a classe das funções recursivas é estritamente maior. Ela ilustra o poder conceitual da recursão e aparece no estudo da terminação de programas.",
+    "palavras_chave": ["função de ackermann", "recursão", "crescimento rápido", "computabilidade", "teoria da computação"]
+  },
+  {
+    "pergunta": "O que é uma função de custo em aprendizado de máquina?",
+    "resposta": "Em aprendizado de máquina, a função de custo (ou loss function) mede quão 'errado' estão as previsões de um modelo comparado com os valores reais. Durante o treinamento, o algoritmo ajusta os parâmetros do modelo para minimizar esta função. Exemplos comuns incluem erro quadrático médio para regressão e entropia cruzada para classificação. A escolha da função de custo é crucial - ela determina o que o modelo 'aprende' a considerar importante. Técnicas de otimização como gradiente descendente são usadas para encontrar os parâmetros que minimizam a função de custo.",
+    "palavras_chave": ["função de custo", "aprendizado de máquina", "otimização", "gradiente descendente", "erro"]
+  },
+  {
+    "pergunta": "O que é a função de Möbius?",
+    "resposta": "A função de Möbius μ(n) é uma função importante em teoria dos números, definida para inteiros positivos. μ(n) = 1 se n=1; μ(n) = 0 se n tem um fator primo quadrado; μ(n) = (-1)ᵏ se n é produto de k primos distintos. Esta função aparentemente simples está profundamente conectada com a distribuição de números primos através da fórmula de inversão de Möbius. Ela aparece na teoria analítica dos números, combinatória (princípio de inclusão-exclusão) e até na física (em algumas soluções de teoria de cordas). A função de Möbius é um exemplo de como funções discretas podem ter profundas conexões.",
+    "palavras_chave": ["função de möbius", "teoria dos números", "inversão de möbius", "números primos", "combinatória"]
+  },
+  {
+    "pergunta": "O que é uma função de ativação em redes neurais?",
+    "resposta": "Em redes neurais artificiais, as funções de ativação determinam a saída de cada neurônio dada sua entrada. Elas introduzem não-linearidade, permitindo que a rede aprenda relações complexas. Exemplos incluem sigmoide (1/(1+e⁻ˣ)), que mapeia para (0,1); tanh, que mapeia para (-1,1); e ReLU (max(0,x)), atualmente muito popular. A escolha da função de ativação afeta a capacidade da rede de aprender, a velocidade de treinamento e a ocorrência de problemas como vanishing gradients. Estas funções são análogas aos potenciais de ação em neurônios biológicos.",
+    "palavras_chave": ["função de ativação", "redes neurais", "não-linearidade", "relu", "sigmoide"]
+  },
+  {
+    "pergunta": "O que é a função de Cantor?",
+    "resposta": "A função de Cantor, ou 'escada do diabo', é uma função contínua e não-decrescente definida no intervalo [0,1] que é quase constante em toda parte - sua derivada é zero em quase todo ponto, mas ainda assim sobe de 0 a 1. Ela é constante nos intervalos removidos durante a construção do conjunto de Cantor. Esta função é um contraexemplo patológico que mostra que continuidade não implica diferenciabilidade, e que 'quase constante' não implica constante. A função de Cantor é um exemplo clássico em análise real e teoria da medida.",
+    "palavras_chave": ["função de cantor", "escada do diabo", "contínua", "não diferenciável", "conjunto de cantor"]
+  },
+  {
+    "pergunta": "O que é uma função de utilidade em economia?",
+    "resposta": "Em economia, uma função de utilidade U(x) atribui um valor numérico a diferentes cestas de bens x, representando as preferências de um consumidor. A ideia é que os consumidores escolhem a cesta que maximiza U(x) sujeito à sua restrição orçamentária. Funções de utilidade são tipicamente assumidas como côncavas, refletindo utilidade marginal decrescente. Formas comuns incluem Cobb-Douglas, CES e utilidade logarítmica. O conceito se estende para utilidade esperada em condições de incerteza e utilidade intertemporal em escolhas ao longo do tempo. Funções de utilidade são a base matemática da teoria do consumidor.",
+    "palavras_chave": ["função de utilidade", "economia", "preferências", "utilidade marginal", "consumidor"]
+  },
+  {
+    "pergunta": "O que é a função de Weierstrass?",
+    "resposta": "A função de Weierstrass é definida por W(x) = ∑ₙ₌₀∞ aⁿ cos(bⁿπx) onde 0 < a < 1 e b é um inteiro ímpar com ab > 1 + 3π/2. Esta função é notável por ser contínua em toda parte mas diferenciável em nenhum ponto! Quando foi apresentada em 1872, chocou a comunidade matemática que assumia que funções contínuas eram diferenciáveis 'na maioria' dos pontos. A função de Weierstrass mostrou que a continuidade é muito mais fraca que a diferenciabilidade e motivou desenvolvimentos importantes em análise real.",
+    "palavras_chave": ["função de weierstrass", "contínua", "não diferenciável", "patológica", "análise real"]
+  },
+  {
+    "pergunta": "O que é uma função de produção em economia?",
+    "resposta": "Uma função de produção Q = F(K,L) relaciona a quantidade produzida Q com os insumos capital K e trabalho L. Ela modela a tecnologia de produção disponível para uma firma. Formas comuns incluem Cobb-Douglas (Q = AKᵅLᵝ), Leontief (proporções fixas) e CES (elasticidade de substituição constante). As propriedades da função de produção - retornos de escala, produtividade marginal, elasticidade de substituição - determinam o comportamento da firma e a distribuição de renda entre capital e trabalho. Funções de produção são centrais na microeconomia e no crescimento econômico.",
+    "palavras_chave": ["função de produção", "economia", "cobb-douglas", "insumos", "produtividade marginal"]
+  },
+  {
+    "pergunta": "O que é o conceito de função em teoria das categorias?",
+    "resposta": "Na teoria das categorias, as funções são generalizadas para 'morfismos' entre objetos. Uma categoria consiste de objetos e morfismos entre eles, com uma operação de composição satisfazendo propriedades básicas. Neste contexto abstrato, os morfismos podem ser funções usuais, homomorfismos entre grupos, mapas contínuos entre espaços topológicos, ou qualquer tipo de 'transformação preservadora de estrutura'. A teoria das categorias foca nas propriedades dos morfismos e suas composições, permitindo unificar conceitos de diferentes áreas da matemática. É uma das abstrações mais poderosas da matemática moderna.",
+    "palavras_chave": ["teoria das categorias", "morfismos", "objetos", "composição", "abstração"]
+  }
+]

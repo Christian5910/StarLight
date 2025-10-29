@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "O que é um poliedro em geometria espacial?",
+    "resposta": "Um poliedro é uma figura tridimensional formada por faces planas, que são polígonos, unidas por arestas e vértices. Pense num cubo: ele tem 6 faces quadradas, 12 arestas e 8 vértices. É como uma construção 3D feita de 'pedaços' 2D. Eles são importantes porque aparecem na natureza, como em cristais, e na arquitetura, como em estruturas de pontes. A análise crítica aqui é que a definição exige que o poliedro seja fechado e convexo ou côncavo, o que diferencia, por exemplo, um cubo de uma esfera. Sabia que os poliedros regulares, como o dodecaedro, foram estudados por Platão, que os associava aos elementos da natureza, como fogo e água?",
+    "palavras_chave": ["poliedro", "faces", "arestas", "vértices", "platão"]
+  },
+  {
+    "pergunta": "Como calcular o volume de um cubo?",
+    "resposta": "O volume de um cubo é simples: você multiplica o comprimento da aresta por ela mesma três vezes, ou seja, aresta ao cubo. Se a aresta tem 4 cm, o volume é 4 x 4 x 4 = 64 cm³. É uma fórmula direta porque todas as faces do cubo são iguais. Na prática, isso ajuda, por exemplo, a calcular quanto líquido cabe numa caixa cúbica. O cuidado é garantir que as medidas estejam na mesma unidade. Sabia que o cubo é o único poliedro regular onde todas as faces são quadrados?",
+    "palavras_chave": ["cubo", "volume", "aresta", "fórmula", "poliedro"]
+  },
+  {
+    "pergunta": "O que diferencia um prisma de uma pirâmide?",
+    "resposta": "Um prisma tem duas bases paralelas e faces laterais que são paralelogramos, como uma caixa retangular. Já a pirâmide tem uma única base e faces laterais triangulares que convergem para um vértice, como as pirâmides do Egito. A diferença está na estrutura: o prisma mantém a mesma 'forma' da base ao longo da altura, enquanto a pirâmide afunila. Isso impacta, por exemplo, o cálculo de volume: o prisma usa base vezes altura, enquanto a pirâmide divide isso por 3. Sabia que as pirâmides do Egito usavam geometria espacial para alinhamentos astronômicos precisos?",
+    "palavras_chave": ["prisma", "pirâmide", "base", "volume", "geometria"]
+  },
+  {
+    "pergunta": "Por que o tetraedro é especial entre os poliedros?",
+    "resposta": "O tetraedro é o poliedro mais simples, com apenas 4 faces triangulares, 4 vértices e 6 arestas. Ele é especial porque é o único poliedro regular com faces triangulares, o que o torna extremamente estável. Na engenharia, estruturas triangulares, como as de pontes, são inspiradas nele por causa dessa estabilidade. Criticamente, sua simplicidade o torna um 'bloco de construção' para outros poliedros. Sabia que o tetraedro aparece em moléculas, como a do metano, onde os átomos formam essa estrutura geométrica?",
+    "palavras_chave": ["tetraedro", "poliedro", "triângulo", "estabilidade", "química"]
+  },
+  {
+    "pergunta": "Como funciona a fórmula de Euler para poliedros?",
+    "resposta": "A fórmula de Euler diz que, para qualquer poliedro convexo, o número de vértices (V) menos o número de arestas (A) mais o número de faces (F) é sempre igual a 2: V - A + F = 2. Por exemplo, num cubo, temos 8 vértices, 12 arestas e 6 faces: 8 - 12 + 6 = 2. Essa relação é poderosa porque ajuda a verificar se uma figura é um poliedro válido. A análise crítica é que ela só vale para poliedros sem 'buracos'. Sabia que Euler descobriu essa fórmula no século XVIII, revolucionando a topologia?",
+    "palavras_chave": ["euler", "poliedro", "vértices", "arestas", "faces"]
+  },
+  {
+    "pergunta": "O que é a área lateral de um cilindro?",
+    "resposta": "A área lateral de um cilindro é a área da 'parede' curva que conecta as duas bases circulares. A fórmula é 2π vezes o raio da base vezes a altura. Se o raio é 3 cm e a altura é 5 cm, a área lateral é 2 x π x 3 x 5 = 30π cm². É útil, por exemplo, para calcular quanto material é preciso para cobrir uma lata. A análise é que essa área exclui as bases, diferentemente da área total. Sabia que cilindros são comuns em engenharia, como em tubos e pistões?",
+    "palavras_chave": ["cilindro", "área lateral", "raio", "altura", "engenharia"]
+  },
+  {
+    "pergunta": "Como se calcula o volume de uma esfera?",
+    "resposta": "O volume de uma esfera é dado pela fórmula (4/3) x π x raio³. Se o raio é 2 cm, o volume é (4/3) x π x 8 = 32π/3 cm³. Essa fórmula vem da integração em cálculo, mas na prática, é usada para coisas como calcular o volume de planetas ou balões. A análise crítica é que o raio é a única variável, então medi-lo com precisão é crucial. Sabia que Arquimedes, no século III a.C., foi um dos primeiros a estudar o volume da esfera?",
+    "palavras_chave": ["esfera", "volume", "raio", "arquimedes", "cálculo"]
+  },
+  {
+    "pergunta": "O que é um cone em geometria espacial?",
+    "resposta": "Um cone é uma figura 3D com uma base circular e um único vértice, onde a superfície curva conecta a base ao topo. Pense num chapéu de festa! Ele é usado em design, como em funis ou megafones. A análise crítica é que o cone é uma transição entre figuras planas (círculo) e espaciais (vértice), o que o torna único. Sua fórmula de volume, (1/3) x área da base x altura, reflete essa 'redução'. Sabia que os cones de tráfego são projetados com base quadrada para maior estabilidade, mas ainda usam a ideia do cone?",
+    "palavras_chave": ["cone", "base", "vértice", "volume", "design"]
+  },
+  {
+    "pergunta": "Qual é a diferença entre volume e área de superfície?",
+    "resposta": "Volume mede o espaço interno de uma figura 3D, como o quanto de água cabe numa caixa, e é dado em unidades cúbicas, como cm³. Área de superfície mede a área total das faces externas, em unidades quadradas, como cm². Por exemplo, um cubo pode ter um volume grande, mas uma área de superfície pequena se for compacto. A análise crítica é que confundir os dois pode levar a erros em projetos de engenharia. Sabia que a área de superfície de uma esfera foi descoberta por Arquimedes antes do volume?",
+    "palavras_chave": ["volume", "área de superfície", "unidades", "engenharia", "arquimedes"]
+  },
+  {
+    "pergunta": "O que são sólidos de revolução?",
+    "resposta": "Sólidos de revolução são figuras 3D criadas ao girar uma curva 2D em torno de um eixo. Por exemplo, girar um círculo em torno de seu diâmetro forma uma esfera; girar um retângulo forma um cilindro. Eles são importantes em cálculo e design, como na fabricação de peças simétricas. A análise é que a simetria dos sólidos facilita cálculos de volume e área. Sabia que o método dos sólidos de revolução foi formalizado por matemáticos como Cavalieri no século XVII?",
+    "palavras_chave": ["sólidos de revolução", "eixo", "simetria", "cálculo", "cavalieri"]
+  },
+  {
+    "pergunta": "Como calcular a área total de um prisma?",
+    "resposta": "A área total de um prisma é a soma da área das duas bases mais a área lateral. Para um prisma retangular com base 4x3 cm e altura 5 cm, a área das bases é 2 x (4 x 3) = 24 cm², e a área lateral é o perímetro da base (4 + 3 + 4 + 3) x altura = 14 x 5 = 70 cm². Total: 24 + 70 = 94 cm². É útil para calcular material de embalagem. A análise é que a forma da base define a complexidade do cálculo. Sabia que prismas triangulares são usados em telhados por sua estabilidade?",
+    "palavras_chave": ["prisma", "área total", "base", "lateral", "embalagem"]
+  },
+  {
+    "pergunta": "O que é o centro de massa de um sólido geométrico?",
+    "resposta": "O centro de massa é o ponto onde o sólido 'se equilibra', como se toda sua massa estivesse concentrada ali. Em figuras simétricas, como uma esfera, ele fica no centro geométrico. Em um cone, está a 1/4 da altura a partir da base. É crucial em física para prever movimentos. A análise crítica é que, em sólidos irregulares, calcular o centro de massa exige integração. Sabia que o centro de massa de um carro é ajustado para melhorar sua estabilidade em curvas?",
+    "palavras_chave": ["centro de massa", "equilíbrio", "simetria", "física", "cone"]
+  },
+  {
+    "pergunta": "Por que o dodecaedro é um poliedro regular?",
+    "resposta": "O dodecaedro é um poliedro regular porque tem 12 faces, todas pentágonos regulares, com o mesmo número de arestas e vértices em cada face. Ele é um dos cinco poliedros regulares, chamados sólidos platônicos. Sua simetria o torna fascinante em matemática e arte. A análise é que sua regularidade exige proporções precisas, como a razão áurea. Sabia que o dodecaedro era associado por Platão ao 'éter', a essência do universo?",
+    "palavras_chave": ["dodecaedro", "poliedro regular", "pentágono", "platão", "razão áurea"]
+  },
+  {
+    "pergunta": "Como se calcula o volume de um prisma triangular?",
+    "resposta": "O volume de um prisma triangular é a área da base triangular vezes a altura do prisma. Se a base é um triângulo com área 6 cm² e a altura do prisma é 10 cm, o volume é 6 x 10 = 60 cm³. Na prática, isso ajuda a calcular, por exemplo, o volume de uma viga triangular. A análise é que a área da base exige cuidado, pois triângulos variam muito. Sabia que prismas triangulares são comuns em estruturas de pontes por sua resistência?",
+    "palavras_chave": ["prisma triangular", "volume", "base", "altura", "estruturas"]
+  },
+  {
+    "pergunta": "O que é a diagonal de um paralelepípedo?",
+    "resposta": "A diagonal de um paralelepípedo é a linha reta que conecta dois vértices opostos, passando pelo interior. Sua fórmula é √(a² + b² + c²), onde a, b e c são as dimensões. Para um paralelepípedo de 3x4x5 cm, a diagonal é √(9 + 16 + 25) = √50 cm. É útil em design de estruturas. A análise é que a diagonal reflete a 'extensão' 3D do sólido. Sabia que a diagonal de um cubo é usada em problemas de otimização de espaço?",
+    "palavras_chave": ["paralelepípedo", "diagonal", "dimensões", "fórmula", "otimização"]
+  },
+  {
+    "pergunta": "Qual a importância da simetria em geometria espacial?",
+    "resposta": "A simetria em geometria espacial facilita cálculos e análises, já que partes idênticas de um sólido, como faces de um cubo, simplificam fórmulas de volume e área. Ela aparece em poliedros regulares e sólidos de revolução, como esferas. Na prática, a simetria é usada em design e engenharia para equilíbrio e estética. A análise é que a simetria reduz variáveis, mas sólidos assimétricos são mais desafiadores. Sabia que a simetria da esfera inspirou modelos de planetas na astronomia?",
+    "palavras_chave": ["simetria", "poliedros", "esfera", "design", "astronomia"]
+  },
+  {
+    "pergunta": "O que é a área de superfície de uma esfera?",
+    "resposta": "A área de superfície de uma esfera é dada por 4π vezes o raio ao quadrado. Se o raio é 3 cm, a área é 4 x π x 9 = 36π cm². É usada, por exemplo, para calcular o material necessário para cobrir uma bola. A análise é que a esfera tem a menor área de superfície para um dado volume, o que a torna eficiente. Sabia que Arquimedes provou que a área da esfera é igual à de um cilindro circunscrito?",
+    "palavras_chave": ["esfera", "área de superfície", "raio", "arquimedes", "eficiência"]
+  },
+  {
+    "pergunta": "Como calcular o volume de um cone circular reto?",
+    "resposta": "O volume de um cone circular reto é (1/3) x π x raio² x altura. Se o raio da base é 2 cm e a altura é 6 cm, o volume é (1/3) x π x 4 x 6 = 8π cm³. É útil para calcular, por exemplo, o volume de um funil. A análise é que o fator 1/3 reflete o afunilamento do cone. Sabia que os cones são usados em aerodinâmica para reduzir resistência do ar?",
+    "palavras_chave": ["cone", "volume", "raio", "altura", "aerodinâmica"]
+  },
+  {
+    "pergunta": "O que é um icosaedro e onde ele aparece?",
+    "resposta": "Um icosaedro é um poliedro regular com 20 faces triangulares, 12 vértices e 30 arestas. Ele é um dos sólidos platônicos e aparece em cristais, vírus e até em dados de RPG. Sua simetria o torna estável e esteticamente interessante. A análise é que sua complexidade o diferencia de poliedros mais simples, como o tetraedro. Sabia que o vírus da poliomielite tem uma estrutura semelhante ao icosaedro?",
+    "palavras_chave": ["icosaedro", "poliedro", "triângulo", "simetria", "vírus"]
+  },
+  {
+    "pergunta": "Por que a esfera é tão eficiente em termos de volume?",
+    "resposta": "A esfera é eficiente porque, para um dado volume, ela tem a menor área de superfície possível. Isso significa que usa menos material para conter o mesmo espaço, como em bolhas de sabão ou planetas. A análise crítica é que essa propriedade, chamada isoperimetria, é um princípio universal na natureza. Sabia que gotas d’água tendem a formar esferas por causa da tensão superficial?",
+    "palavras_chave": ["esfera", "volume", "área de superfície", "isoperimetria", "natureza"]
+  },
+  {
+    "pergunta": "Como se calcula a área lateral de um cone?",
+    "resposta": "A área lateral de um cone é π x raio x geratriz, onde a geratriz é a distância do vértice à borda da base. Se o raio é 3 cm e a geratriz é 5 cm, a área é π x 3 x 5 = 15π cm². É útil para calcular material para superfícies curvas, como funis. A análise é que a geratriz, não a altura, é a chave aqui. Sabia que a área lateral de um cone é equivalente à de um setor circular desenrolado?",
+    "palavras_chave": ["cone", "área lateral", "geratriz", "raio", "setor circular"]
+  },
+  {
+    "pergunta": "O que é um poliedro de Platão?",
+    "resposta": "Um poliedro de Platão é um poliedro regular com faces idênticas, todas polígonos regulares, como o cubo ou o dodecaedro. Existem apenas cinco: tetraedro, cubo, octaedro, dodecaedro e icosaedro. Eles são estudados desde a Grécia Antiga por sua simetria. A análise é que sua raridade reflete restrições geométricas rígidas. Sabia que Platão associava cada um a um elemento: terra, ar, fogo, água e éter?",
+    "palavras_chave": ["poliedro de platão", "simetria", "faces", "platão", "elementos"]
+  },
+  {
+    "pergunta": "Como o cálculo integral se aplica à geometria espacial?",
+    "resposta": "O cálculo integral é usado para encontrar volumes e áreas de sólidos complexos, como esferas e cones, integrando áreas de seções transversais. Por exemplo, o volume de uma esfera pode ser calculado integrando discos ao longo de um eixo. É essencial para sólidos de revolução. A análise é que o cálculo permite tratar figuras irregulares. Sabia que Arquimedes usava ideias precursoras do cálculo para estudar esferas?",
+    "palavras_chave": ["cálculo integral", "volume", "área", "sólidos de revolução", "arquimedes"]
+  },
+  {
+    "pergunta": "O que é a seção transversal de um sólido?",
+    "resposta": "A seção transversal é o formato obtido ao cortar um sólido com um plano. Por exemplo, cortar um cilindro perpendicularmente à base dá um círculo; se for inclinado, uma elipse. É importante em engenharia para analisar tensões em materiais. A análise é que a forma da seção depende do ângulo do corte. Sabia que seções cônicas, como parábolas, vêm de cortes em cones?",
+    "palavras_chave": ["seção transversal", "sólido", "plano", "engenharia", "seções cônicas"]
+  },
+  {
+    "pergunta": "Como a geometria espacial é usada na arquitetura?",
+    "resposta": "A geometria espacial é essencial na arquitetura para projetar estruturas como cúpulas (esferas), vigas (prismas) e telhados (pirâmides). Ela ajuda a calcular volumes, áreas e estabilidade. Por exemplo, cúpulas usam a eficiência da esfera para cobrir grandes áreas. A análise é que a precisão geométrica evita colapsos estruturais. Sabia que o Panteão de Roma usa uma cúpula quase perfeitamente esférica, projetada há 2.000 anos?",
+    "palavras_chave": ["geometria espacial", "arquitetura", "cúpula", "estabilidade", "panteão"]
+  },
+  {
+    "pergunta": "O que é um octaedro em geometria espacial?",
+    "resposta": "Um octaedro é um poliedro regular com 8 faces triangulares, 6 vértices e 12 arestas. Imagine dois tetraedros colados pelas bases! Ele é um dos cinco sólidos platônicos e aparece em cristais e design. A análise crítica é que sua simetria permite estabilidade estrutural, mas sua forma exige cálculos precisos. Sabia que o octaedro é usado em dados de RPG de 8 lados, chamados D8?",
+    "palavras_chave": ["octaedro", "poliedro", "triângulo", "simetria", "rpg"]
+  },
+  {
+    "pergunta": "Como calcular a área total de um cilindro?",
+    "resposta": "A área total de um cilindro é a soma da área lateral (2π x raio x altura) e das duas bases (2 x π x raio²). Para um cilindro com raio 2 cm e altura 5 cm, a área lateral é 2π x 2 x 5 = 20π cm², e as bases são 2 x π x 4 = 8π cm², totalizando 28π cm². É útil para projetos de embalagens. A análise é que a curvatura exige cuidado com π. Sabia que latas de alimentos são cilindros otimizados para minimizar material?",
+    "palavras_chave": ["cilindro", "área total", "raio", "altura", "embalagem"]
+  },
+  {
+    "pergunta": "Por que o cubo é tão comum na arquitetura?",
+    "resposta": "O cubo é comum na arquitetura por sua simplicidade e estabilidade. Suas faces iguais facilitam cálculos de volume e área, e sua simetria suporta cargas uniformemente. Pense em prédios com salas cúbicas ou caixas d’água. A análise crítica é que, embora eficiente, o cubo pode ser monótono esteticamente. Sabia que o cubo inspirou o design do Kaaba, em Meca, um marco arquitetônico religioso?",
+    "palavras_chave": ["cubo", "arquitetura", "simetria", "estabilidade", "kaaba"]
+  },
+  {
+    "pergunta": "O que é a geratriz de um cone?",
+    "resposta": "A geratriz de um cone é a linha reta que conecta o vértice à borda da base circular. Por exemplo, num cone com base de raio 3 cm e altura 4 cm, a geratriz é √(3² + 4²) = 5 cm. Ela é essencial para calcular a área lateral. A análise é que a geratriz define a inclinação do cone. Sabia que a geratriz é usada em design de foguetes para calcular aerodinâmica?",
+    "palavras_chave": ["cone", "geratriz", "área lateral", "inclinação", "aerodinâmica"]
+  },
+  {
+    "pergunta": "Como a geometria espacial ajuda na astronomia?",
+    "resposta": "A geometria espacial modela corpos celestes, como planetas (esferas) e órbitas (elipsoides). Ela calcula volumes, distâncias e trajetórias, como a órbita elíptica da Terra. A análise é que a precisão geométrica é vital para previsões astronômicas. Sabia que Kepler usou sólidos platônicos para tentar explicar as órbitas planetárias no século XVII?",
+    "palavras_chave": ["geometria espacial", "astronomia", "esfera", "órbita", "kepler"]
+  },
+  {
+    "pergunta": "O que é um paralelepípedo retangular?",
+    "resposta": "Um paralelepípedo retangular é um poliedro com 6 faces retangulares, onde faces opostas são iguais e paralelas. É como uma caixa de sapatos. Seu volume é comprimento x largura x altura. É usado em embalagens e construções. A análise é que sua regularidade facilita cálculos, mas não é um sólido platônico. Sabia que contêineres de transporte são paralelepípedos otimizados para empilhamento?",
+    "palavras_chave": ["paralelepípedo", "retângulo", "volume", "embalagem", "contêiner"]
+  },
+  {
+    "pergunta": "Como calcular o volume de uma pirâmide quadrangular?",
+    "resposta": "O volume de uma pirâmide quadrangular é (1/3) x área da base x altura. Se a base é um quadrado de lado 4 cm e a altura é 6 cm, o volume é (1/3) x (4 x 4) x 6 = 32 cm³. É usado em projetos como monumentos. A análise é que o fator 1/3 reflete o afunilamento. Sabia que as pirâmides do Egito usavam bases quadradas para alinhamento com os pontos cardeais?",
+    "palavras_chave": ["pirâmide", "volume", "base", "altura", "egito"]
+  },
+  {
+    "pergunta": "O que é um sólido platônico?",
+    "resposta": "Um sólido platônico é um poliedro regular com faces idênticas, todas polígonos regulares, como o tetraedro ou o cubo. Existem apenas cinco, devido a restrições geométricas. Eles são usados em matemática e design por sua simetria. A análise é que sua raridade reflete a complexidade da regularidade 3D. Sabia que o dodecaedro inspirou esculturas renascentistas, como as de Leonardo da Vinci?",
+    "palavras_chave": ["sólido platônico", "poliedro", "simetria", "dodecaedro", "renascimento"]
+  },
+  {
+    "pergunta": "Como a geometria espacial é usada em jogos de videogame?",
+    "resposta": "A geometria espacial cria ambientes 3D em videogames, usando poliedros para modelar objetos e sólidos de revolução para superfícies curvas, como esferas. Ela calcula colisões e perspectivas. A análise é que a precisão geométrica melhora a imersão. Sabia que jogos como Minecraft usam cubos para simplificar a modelagem de mundos?",
+    "palavras_chave": ["geometria espacial", "videogame", "poliedros", "colisão", "minecraft"]
+  },
+  {
+    "pergunta": "O que é a altura de um prisma?",
+    "resposta": "A altura de um prisma é a distância perpendicular entre suas duas bases paralelas. Por exemplo, num prisma retangular, é a medida entre as faces superior e inferior. É essencial para calcular volume (área da base x altura). A análise é que a altura define a 'extensão' 3D do prisma. Sabia que a altura de prismas em vigas afeta sua resistência estrutural?",
+    "palavras_chave": ["prisma", "altura", "volume", "bases", "estruturas"]
+  },
+  {
+    "pergunta": "Por que a esfera não é um poliedro?",
+    "resposta": "A esfera não é um poliedro porque não tem faces planas, arestas ou vértices. Ela é uma superfície curva contínua, diferente de poliedros como cubos, que têm faces poligonais. A análise é que essa distinção separa sólidos geométricos em categorias distintas. Sabia que a esfera é aproximada por poliedros com muitas faces, como em modelos de planetas?",
+    "palavras_chave": ["esfera", "poliedro", "curva", "faces", "planetas"]
+  },
+  {
+    "pergunta": "Como calcular a área de superfície de um cone?",
+    "resposta": "A área de superfície de um cone é a soma da área lateral (π x raio x geratriz) e da base (π x raio²). Para um cone com raio 3 cm e geratriz 5 cm, a área lateral é π x 3 x 5 = 15π cm², e a base é π x 9 = 9π cm², totalizando 24π cm². É útil em design. A análise é que a geratriz complica o cálculo. Sabia que cones são usados em alto-falantes para direcionar som?",
+    "palavras_chave": ["cone", "área de superfície", "geratriz", "raio", "alto-falantes"]
+  },
+  {
+    "pergunta": "O que é um hexaedro regular?",
+    "resposta": "Um hexaedro regular é um poliedro com 6 faces, todas quadrados iguais, também chamado de cubo. Ele tem 8 vértices e 12 arestas. É usado em arquitetura e jogos, como dados. A análise é que sua simplicidade o torna ideal para cálculos. Sabia que o cubo é o único hexaedro regular entre os sólidos platônicos?",
+    "palavras_chave": ["hexaedro", "cubo", "faces", "simetria", "dados"]
+  },
+  {
+    "pergunta": "Como a geometria espacial é aplicada na medicina?",
+    "resposta": "A geometria espacial modela órgãos em 3D, como o coração (aproximado por elipsoides), para cirurgias e exames de imagem. Ela calcula volumes e superfícies em próteses. A análise é que a precisão geométrica salva vidas. Sabia que tomografias usam seções transversais para reconstruir imagens 3D do corpo?",
+    "palavras_chave": ["geometria espacial", "medicina", "elipso კაფე", "tomografia", "próteses"]
+  },
+  {
+    "pergunta": "O que é a diagonal de um cubo?",
+    "resposta": "A diagonal de um cubo é a linha reta que conecta dois vértices opostos, passando pelo interior. Sua fórmula é aresta x √3. Para um cubo de aresta 4 cm, a diagonal é 4 x √3 ≈ 6,93 cm. É útil em cálculos espaciais. A análise é que a diagonal reflete a extensão 3D. Sabia que a diagonal do cubo aparece em problemas de física, como movimento de partículas?",
+    "palavras_chave": ["cubo", "diagonal", "aresta", "fórmula", "física"]
+  },
+  {
+    "pergunta": "Por que o tetraedro é tão estável?",
+    "resposta": "O tetraedro é estável porque suas 4 faces triangulares distribuem forças uniformemente. Triângulos são rígidos, diferente de quadrados, que podem deformar. É usado em estruturas como torres. A análise é que sua simplicidade maximiza resistência. Sabia que o tetraedro inspirou o design de moléculas como o diamante?",
+    "palavras_chave": ["tetraedro", "estabilidade", "triângulo", "estruturas", "diamante"]
+  },
+  {
+    "pergunta": "Como calcular o volume de um cilindro circular reto?",
+    "resposta": "O volume de um cilindro circular reto é π x raio² x altura. Para um cilindro com raio 3 cm e altura 5 cm, o volume é π x 9 x 5 = 45π cm³. É usado para calcular capacidades, como tanques. A análise é que o raio tem grande impacto por ser ao quadrado. Sabia que cilindros são comuns em motores de carros?",
+    "palavras_chave": ["cilindro", "volume", "raio", "altura", "motores"]
+  },
+  {
+    "pergunta": "O que é um elipsoide em geometria espacial?",
+    "resposta": "Um elipsoide é um sólido 3D onde todas as seções transversais são elipses, como uma bola de rúgbi. É definido por três eixos de tamanhos diferentes. É usado em astronomia para modelar planetas. A análise é que sua falta de simetria esférica complica cálculos. Sabia que a Terra é um elipsoide achatado, não uma esfera perfeita?",
+    "palavras_chave": ["elipsoide", "elipse", "astronomia", "terra", "eixos"]
+  },
+  {
+    "pergunta": "Como a razão áurea aparece em geometria espacial?",
+    "resposta": "A razão áurea (≈1,618) aparece em poliedros regulares, como o dodecaedro, onde as proporções das faces pentagonais seguem essa razão. É usada em design por sua estética harmônica. A análise é que a razão áurea conecta geometria e beleza. Sabia que o dodecaedro era considerado sagrado na Grécia Antiga por causa dessa proporção?",
+    "palavras_chave": ["razão áurea", "dodecaedro", "pentágono", "design", "grécia"]
+  },
+  {
+    "pergunta": "O que é a área de base de um prisma?",
+    "resposta": "A área de base de um prisma é a área do polígono que forma suas bases paralelas. Para um prisma triangular com base de área 10 cm², ela é usada para calcular volume (área da base x altura). A análise é que a forma da base define a complexidade do cálculo. Sabia que prismas hexagonais são usados em colmeias por sua eficiência espacial?",
+    "palavras_chave": ["prisma", "área de base", "polígono", "volume", "colmeias"]
+  },
+  {
+    "pergunta": "Como calcular a diagonal de um prisma retangular?",
+    "resposta": "A diagonal de um prisma retangular é √(comprimento² + largura² + altura²). Para um prisma de 3x4x5 cm, a diagonal é √(9 + 16 + 25) = √50 cm. É útil em projetos espaciais. A análise é que a fórmula generaliza a do cubo. Sabia que diagonais são usadas em cabos de sustentação de estruturas?",
+    "palavras_chave": ["prisma", "diagonal", "dimensões", "fórmula", "estruturas"]
+  },
+  {
+    "pergunta": "O que são seções cônicas em geometria espacial?",
+    "resposta": "Seções cônicas são curvas obtidas ao cortar um cone com um plano: círculo, elipse, parábola ou hipérbole. Elas dependem do ângulo do corte. São usadas em astronomia e engenharia. A análise é que cada seção tem propriedades únicas. Sabia que as órbitas planetárias, como elipses, foram descritas por Kepler usando seções cônicas?",
+    "palavras_chave": ["seções cônicas", "cone", "elipse", "astronomia", "kepler"]
+  },
+  {
+    "pergunta": "Por que o icosaedro é usado em design?",
+    "resposta": "O icosaedro é usado em design por sua alta simetria e 20 faces triangulares, que distribuem forças uniformemente. Aparece em cúpulas geodésicas e bolas de futebol. A análise é que sua complexidade o torna esteticamente único. Sabia que cúpulas geodésicas, inspiradas no icosaedro, foram popularizadas por Buckminster Fuller?",
+    "palavras_chave": ["icosaedro", "design", "simetria", "cúpula", "fuller"]
+  },
+  {
+    "pergunta": "Como a geometria espacial é usada em robótica?",
+    "resposta": "A geometria espacial modela movimentos de robôs em 3D, como braços robóticos que usam coordenadas esféricas ou cilíndricas. Ela calcula trajetórias e colisões. A análise é que a precisão geométrica é crucial para eficiência. Sabia que robôs industriais usam geometria espacial para montar carros com precisão milimétrica?",
+    "palavras_chave": ["geometria espacial", "robótica", "coordenadas", "trajetória", "indústria"]
+  },
+  {
+    "pergunta": "O que é o volume de um tetraedro regular?",
+    "resposta": "O volume de um tetraedro regular é (aresta³ x √2) / 12. Para uma aresta de 3 cm, o volume é (27 x √2) / 12 ≈ 3,18 cm³. É usado em modelagem 3D. A análise é que a fórmula reflete a simplicidade do tetraedro. Sabia que tetraedros são usados em animações para criar malhas 3D?",
+    "palavras_chave": ["tetraedro", "volume", "aresta", "modelagem", "animação"]
+  },
+  {
+    "pergunta": "O que é um poliedro convexo?",
+    "resposta": "Um poliedro convexo é uma figura 3D onde qualquer segmento de reta entre dois pontos do poliedro está inteiramente dentro dele. Um cubo é convexo, mas uma figura com 'cavidades' não seria. Isso é importante para aplicar a fórmula de Euler. A análise crítica é que a convexidade simplifica cálculos geométricos. Sabia que cristais naturais, como diamantes, frequentemente formam poliedros convexos?",
+    "palavras_chave": ["poliedro convexo", "euler", "cubo", "cristais", "geometria"]
+  },
+  {
+    "pergunta": "Como calcular a área total de uma pirâmide quadrangular?",
+    "resposta": "A área total de uma pirâmide quadrangular é a soma da área da base quadrada (lado²) e das quatro faces laterais triangulares (cada uma com área ½ x base x geratriz). Para uma base de lado 4 cm e geratriz 5 cm, a base é 16 cm², e as laterais são 4 x (½ x 4 x 5) = 40 cm², totalizando 56 cm². É útil em arquitetura. A análise é que a geratriz complica o cálculo. Sabia que as pirâmides de Gizé usavam essa geometria para precisão estrutural?",
+    "palavras_chave": ["pirâmide", "área total", "geratriz", "base", "gizé"]
+  },
+  {
+    "pergunta": "O que é a apótema de uma pirâmide regular?",
+    "resposta": "A apótema de uma pirâmide regular é a distância do vértice ao ponto médio de uma aresta da base. É usada para calcular a área das faces laterais triangulares. Por exemplo, numa pirâmide quadrangular, a área lateral depende da apótema. A análise é que ela reflete a inclinação das faces. Sabia que a apótema é crucial para alinhar pirâmides com precisão astronômica?",
+    "palavras_chave": ["apótema", "pirâmide", "área lateral", "vértice", "astronomia"]
+  },
+  {
+    "pergunta": "Por que a esfera é usada em embalagens?",
+    "resposta": "A esfera é usada em embalagens porque maximiza o volume com a menor área de superfície, economizando material. Pense em bolas de tênis em latas esféricas. A análise crítica é que, embora eficiente, esferas são difíceis de empilhar. Sabia que bolhas de sabão são esféricas devido à minimização de energia superficial?",
+    "palavras_chave": ["esfera", "embalagem", "volume", "área", "bolhas"]
+  },
+  {
+    "pergunta": "O que é um prisma hexagonal na geometria espacial?",
+    "resposta": "Um prisma hexagonal é um poliedro com duas bases hexagonais paralelas e seis faces laterais retangulares. É usado em estruturas como colmeias ou parafusos. Seu volume é a área da base hexagonal vezes a altura. A análise é que a base hexagonal otimiza espaço. Sabia que colmeias usam prismas hexagonais por sua eficiência de empacotamento?",
+    "palavras_chave": ["prisma hexagonal", "base", "volume", "colmeias", "empacotamento"]
+  },
+  {
+    "pergunta": "Como a geometria espacial é usada na navegação?",
+    "resposta": "A geometria espacial modela trajetórias em 3D, como rotas de aviões ou satélites, usando coordenadas esféricas ou elipsoidais. Ela calcula distâncias na superfície da Terra, que é um elipsoide. A análise é que a curvatura terrestre exige cálculos precisos. Sabia que o GPS usa geometria esférica para determinar posições com precisão?",
+    "palavras_chave": ["geometria espacial", "navegação", "elipsoide", "gps", "trajetórias"]
+  },
+  {
+    "pergunta": "O que é a superfície esférica em geometria?",
+    "resposta": "A superfície esférica é a 'casca' de uma esfera, sem incluir o interior. Sua área é 4π x raio², usada em cálculos de superfícies curvas, como cúpulas. A análise é que a curvatura constante da esfera a torna única. Sabia que a superfície esférica inspirou o design de planetários para projeções realistas?",
+    "palavras_chave": ["superfície esférica", "esfera", "área", "cúpulas", "planetários"]
+  },
+  {
+    "pergunta": "Como calcular o volume de um dodecaedro regular?",
+    "resposta": "O volume de um dodecaedro regular é (15 + 7√5) x aresta³ / 4. Para uma aresta de 2 cm, o volume é cerca de 76,57 cm³. É usado em modelagem 3D. A análise é que a fórmula reflete a complexidade do dodecaedro. Sabia que o dodecaedro aparece em cristais de certos minerais, como a pirita?",
+    "palavras_chave": ["dodecaedro", "volume", "aresta", "cristais", "pirita"]
+  },
+  {
+    "pergunta": "O que é um cilindro oblíquo?",
+    "resposta": "Um cilindro oblíquo é um cilindro cujas bases circulares não são paralelas ao eixo, ou seja, o eixo é inclinado. Seu volume ainda é área da base x altura perpendicular. É menos comum, mas aparece em design. A análise é que a inclinação complica cálculos de área lateral. Sabia que cilindros oblíquos são usados em algumas esculturas modernas para efeitos visuais?",
+    "palavras_chave": ["cilindro oblíquo", "volume", "base", "inclinação", "esculturas"]
+  },
+  {
+    "pergunta": "Por que o tetraedro regular é usado em química?",
+    "resposta": "O tetraedro regular é usado em química porque sua estrutura simétrica modela moléculas como o metano (CH₄), onde os átomos se organizam em torno de um centro. A análise é que a estabilidade geométrica reflete ligações químicas. Sabia que o tetraedro explica a estrutura do diamante, um dos materiais mais duros conhecidos?",
+    "palavras_chave": ["tetraedro", "química", "molécula", "metano", "diamante"]
+  },
+  {
+    "pergunta": "Como a geometria espacial ajuda na engenharia civil?",
+    "resposta": "A geometria espacial calcula volumes e áreas de estruturas como vigas (prismas) e cúpulas (esferas). Ela garante estabilidade e eficiência de materiais. A análise é que erros geométricos podem causar colapsos. Sabia que a Ponte Estaiada de São Paulo usa prismas e cabos calculados com geometria espacial?",
+    "palavras_chave": ["geometria espacial", "engenharia civil", "estruturas", "cúpulas", "pontes"]
+  },
+  {
+    "pergunta": "O que é a área lateral de um prisma triangular?",
+    "resposta": "A área lateral de um prisma triangular é a soma das áreas das três faces laterais retangulares, dada por perímetro da base x altura do prisma. Para uma base com perímetro 12 cm e altura 5 cm, é 12 x 5 = 60 cm². É útil em construção. A análise é que o perímetro depende da base. Sabia que prismas triangulares são usados em telhados inclinados?",
+    "palavras_chave": ["prisma triangular", "área lateral", "perímetro", "altura", "telhados"]
+  },
+  {
+    "pergunta": "O que é um poliedro de Archimedes?",
+    "resposta": "Um poliedro de Archimedes é um poliedro semirregular com faces de diferentes polígonos regulares, mas vértices idênticos, como o cuboctaedro. É usado em design e cristalografia. A análise é que sua complexidade está entre os sólidos platônicos e formas irregulares. Sabia que Archimedes estudou esses poliedros, mas muitos foram redescobertos na Renascença?",
+    "palavras_chave": ["poliedro de archimedes", "semirregular", "vértices", "cristalografia", "renascença"]
+  },
+  {
+    "pergunta": "Como calcular a diagonal de uma pirâmide quadrangular?",
+    "resposta": "A diagonal de uma pirâmide quadrangular conecta o vértice ao canto oposto da base. Usa-se o teorema de Pitágoras em 3D, considerando a base e a altura. É complexo, mas útil em design. A análise é que exige coordenadas espaciais. Sabia que diagonais de pirâmides são usadas em animações 3D para movimentos realistas?",
+    "palavras_chave": ["pirâmide", "diagonal", "pitágoras", "design", "animação"]
+  },
+  {
+    "pergunta": "O que é um cone circular reto?",
+    "resposta": "Um cone circular reto tem uma base circular e um vértice alinhado perpendicularmente ao centro da base. Seu volume é (1/3) x π x raio² x altura. É usado em funis e megafones. A análise é que sua simetria simplifica cálculos. Sabia que o farol de um carro usa a forma de um cone para focar a luz?",
+    "palavras_chave": ["cone", "circular reto", "volume", "simetria", "farol"]
+  },
+  {
+    "pergunta": "Como a geometria espacial é usada em animação 3D?",
+    "resposta": "A geometria espacial modela objetos em animação 3D, usando poliedros como malhas para personagens e sólidos de revolução para superfícies curvas. Ela calcula perspectivas e colisões. A análise é que a precisão geométrica cria realismo. Sabia que filmes como Toy Story usam tetraedros para modelar personagens?",
+    "palavras_chave": ["geometria espacial", "animação 3d", "poliedros", "malhas", "perspectiva"]
+  },
+  {
+    "pergunta": "O que é a simetria de rotação em sólidos?",
+    "resposta": "A simetria de rotação é quando um sólido pode girar em torno de um eixo e parecer idêntico, como um cubo girando 90°. É crucial para design e física. A análise é que a simetria reduz cálculos. Sabia que a simetria de rotação da esfera inspirou modelos de átomos?",
+    "palavras_chave": ["simetria de rotação", "sólidos", "eixo", "design", "átomos"]
+  },
+  {
+    "pergunta": "Como calcular o volume de um icosaedro regular?",
+    "resposta": "O volume de um icosaedro regular é (5 x aresta³ x (3 + √5)) / 12. Para uma aresta de 2 cm, é cerca de 21,78 cm³. É usado em modelagem. A análise é que a fórmula reflete sua complexidade. Sabia que o icosaedro é usado em bolas de futebol por sua estabilidade?",
+    "palavras_chave": ["icosaedro", "volume", "aresta", "modelagem", "futebol"]
+  },
+  {
+    "pergunta": "O que é a área de superfície de um paralelepípedo?",
+    "resposta": "A área de superfície de um paralelepípedo é 2 x (comprimento x largura + comprimento x altura + largura x altura). Para um paralelepípedo de 3x4x5 cm, é 2 x (12 + 15 + 20) = 94 cm². É útil em embalagens. A análise é que as dimensões variadas complicam o cálculo. Sabia que caixas de transporte usam essa fórmula para otimizar material?",
+    "palavras_chave": ["paralelepípedo", "área de superfície", "dimensões", "embalagem", "otimização"]
+  },
+  {
+    "pergunta": "Por que o cubo é um sólido platônico?",
+    "resposta": "O cubo é um sólido platônico porque tem 6 faces quadradas idênticas, com vértices e arestas simétricos. É um dos cinco poliedros regulares. A análise é que sua simplicidade o torna ideal para cálculos. Sabia que o cubo inspirou o design de dados desde a antiguidade?",
+    "palavras_chave": ["cubo", "sólido platônico", "faces", "simetria", "dados"]
+  },
+  {
+    "pergunta": "O que é a projeção ortogonal em geometria espacial?",
+    "resposta": "A projeção ortogonal é a representação de um sólido 3D num plano 2D, com linhas perpendiculares ao plano. É usada em desenhos técnicos para mostrar vistas de objetos. A análise é que simplifica a visualização, mas perde profundidade. Sabia que projeções ortogonais são padrão em plantas arquitetônicas?",
+    "palavras_chave": ["projeção ortogonal", "sólidos", "desenho técnico", "arquitetura", "visualização"]
+  },
+  {
+    "pergunta": "Como a geometria espacial é usada na física?",
+    "resposta": "A geometria espacial modela objetos em física, como esferas para planetas ou prismas para vigas. Ela calcula centros de massa e momentos de inércia. A análise é que a precisão geométrica é essencial para previsões físicas. Sabia que Einstein usou geometria espacial na relatividade geral para descrever o espaço-tempo?",
+    "palavras_chave": ["geometria espacial", "física", "centro de massa", "relatividade", "einstein"]
+  },
+  {
+    "pergunta": "O que é um cone oblíquo?",
+    "resposta": "Um cone oblíquo tem a base circular e o vértice desalinhado do centro da base, ou seja, o eixo não é perpendicular. Seu volume ainda é (1/3) x área da base x altura. A análise é que a obliquidade complica cálculos de área. Sabia que cones oblíquos aparecem em design de lâmpadas modernas?",
+    "palavras_chave": ["cone oblíquo", "volume", "base", "design", "lâmpadas"]
+  },
+  {
+    "pergunta": "Como calcular a área lateral de um paralelepípedo?",
+    "resposta": "A área lateral de um paralelepípedo é a soma das áreas das quatro faces laterais, dada por 2 x (comprimento + largura) x altura. Para um paralelepípedo de 3x4x5 cm, é 2 x (3 + 4) x 5 = 70 cm². É útil em construção. A análise é que exclui as bases. Sabia que essa fórmula é usada em caixas de transporte?",
+    "palavras_chave": ["paralelepípedo", "área lateral", "dimensões", "construção", "caixas"]
+  },
+  {
+    "pergunta": "O que é a simetria axial em geometria espacial?",
+    "resposta": "A simetria axial é quando um sólido pode ser girado em torno de um eixo e parecer idêntico, como em um cilindro. É usada em design e física para equilíbrio. A análise é que a simetria simplifica modelagem. Sabia que a simetria axial de cilindros é usada em turbinas de aviões?",
+    "palavras_chave": ["simetria axial", "cilindro", "eixo", "design", "turbinas"]
+  },
+  {
+    "pergunta": "O que é um poliedro côncavo?",
+    "resposta": "Um poliedro côncavo é uma figura 3D com pelo menos uma 'cavidade', onde um segmento de reta entre dois pontos pode sair do poliedro. Diferente de um cubo, que é convexo, um poliedro côncavo tem faces que 'afundam'. É menos comum, mas aparece em design complexo. A análise é que a concavidade complica cálculos, como o da fórmula de Euler. Sabia que algumas estruturas celulares, como em esponjas marinhas, têm formas côncavas?",
+    "palavras_chave": ["poliedro côncavo", "cavidade", "convexidade", "euler", "biologia"]
+  },
+  {
+    "pergunta": "Como calcular a área total de um tetraedro regular?",
+    "resposta": "A área total de um tetraedro regular é 4 vezes a área de uma face triangular, ou seja, √3 x aresta². Para uma aresta de 3 cm, cada face tem (√3 x 9)/4 ≈ 3,9 cm², e a área total é 4 x 3,9 ≈ 15,6 cm². É útil em modelagem 3D. A análise é que a simetria simplifica o cálculo. Sabia que tetraedros são usados em animações para criar malhas simples?",
+    "palavras_chave": ["tetraedro", "área total", "aresta", "simetria", "animação"]
+  },
+  {
+    "pergunta": "O que é a altura de uma pirâmide?",
+    "resposta": "A altura de uma pirâmide é a distância perpendicular do vértice à base. Por exemplo, numa pirâmide quadrangular, ela é usada para calcular o volume: (1/3) x área da base x altura. É crucial em arquitetura. A análise é que a altura define a 'verticalidade' da pirâmide. Sabia que a altura da Grande Pirâmide de Gizé foi calculada para alinhamentos solares?",
+    "palavras_chave": ["pirâmide", "altura", "volume", "arquitetura", "gizé"]
+  },
+  {
+    "pergunta": "Por que o dodecaedro é usado em design?",
+    "resposta": "O dodecaedro é usado em design por sua simetria e faces pentagonais, que criam formas esteticamente atraentes. Aparece em luminárias e esculturas. A análise é que sua complexidade geométrica exige precisão. Sabia que o dodecaedro inspirou o design do pavilhão da Expo 67 em Montreal?",
+    "palavras_chave": ["dodecaedro", "design", "simetria", "pentágono", "expo 67"]
+  },
+  {
+    "pergunta": "O que é um prisma oblíquo?",
+    "resposta": "Um prisma oblíquo tem bases paralelas, mas as faces laterais não são perpendiculares às bases, criando uma inclinação. Seu volume ainda é área da base x altura perpendicular. É usado em design arquitetônico. A análise é que a obliquidade complica cálculos de área lateral. Sabia que prismas oblíquos aparecem em esculturas modernas para efeitos visuais dinâmicos?",
+    "palavras_chave": ["prisma oblíquo", "volume", "bases", "design", "esculturas"]
+  },
+  {
+    "pergunta": "Como a geometria espacial é usada na aviação?",
+    "resposta": "A geometria espacial modela asas (prismas) e fuselagens (cilindros) em aviões, calculando volumes e áreas para eficiência aerodinâmica. Ela otimiza trajetórias em 3D. A análise é que a precisão geométrica reduz consumo de combustível. Sabia que asas de aviões usam seções cônicas para minimizar resistência ao ar?",
+    "palavras_chave": ["geometria espacial", "aviação", "aerodinâmica", "seções cônicas", "trajetórias"]
+  },
+  {
+    "pergunta": "O que é a área de superfície de um icosaedro?",
+    "resposta": "A área de superfície de um icosaedro regular é 5√3 x aresta². Para uma aresta de 2 cm, é 5√3 x 4 ≈ 34,64 cm². É usado em modelagem de objetos simétricos. A análise é que a simetria facilita o cálculo. Sabia que o icosaedro inspira o design de cúpulas geodésicas?",
+    "palavras_chave": ["icosaedro", "área de superfície", "aresta", "simetria", "cúpulas"]
+  },
+  {
+    "pergunta": "Como calcular o volume de um paralelepípedo oblíquo?",
+    "resposta": "O volume de um paralelepípedo oblíquo é a área da base vezes a altura perpendicular ao plano da base. Para uma base de 12 cm² e altura 5 cm, o volume é 12 x 5 = 60 cm³. É usado em cálculos estruturais. A análise é que a obliquidade exige medir a altura corretamente. Sabia que paralelepípedos oblíquos aparecem em vigas inclinadas?",
+    "palavras_chave": ["paralelepípedo oblíquo", "volume", "base", "altura", "vigas"]
+  },
+  {
+    "pergunta": "O que é a simetria esférica?",
+    "resposta": "A simetria esférica é quando um objeto, como uma esfera, parece idêntico após qualquer rotação. É usada em astronomia para modelar planetas. A análise é que a simetria máxima simplifica cálculos. Sabia que a simetria esférica inspirou modelos de átomos na física quântica?",
+    "palavras_chave": ["simetria esférica", "esfera", "astronomia", "átomos", "física"]
+  },
+  {
+    "pergunta": "Como a geometria espacial é usada em cristalografia?",
+    "resposta": "A geometria espacial modela cristais com poliedros, como cubos ou dodecaedros, para estudar sua estrutura atômica. Ela calcula ângulos e volumes. A análise é que a simetria dos cristais reflete leis geométricas. Sabia que o diamante tem uma estrutura cristalina baseada no tetraedro?",
+    "palavras_chave": ["geometria espacial", "cristalografia", "poliedros", "diamante", "simetria"]
+  },
+  {
+    "pergunta": "O que é a geratriz de um cilindro?",
+    "resposta": "A geratriz de um cilindro é a linha reta que, ao girar em torno de um eixo, forma a superfície lateral. Em um cilindro reto, é igual à altura. É usada para calcular a área lateral. A análise é que a geratriz define a curvatura. Sabia que a geratriz é essencial no design de tubos industriais?",
+    "palavras_chave": ["cilindro", "geratriz", "área lateral", "curvatura", "tubos"]
+  },
+  {
+    "pergunta": "Como calcular o volume de um octaedro regular?",
+    "resposta": "O volume de um octaedro regular é (√2 x aresta³) / 3. Para uma aresta de 3 cm, o volume é (√2 x 27) / 3 ≈ 12,73 cm³. É usado em modelagem 3D. A análise é que a fórmula reflete sua simetria. Sabia que o octaedro aparece em cristais de fluorita?",
+    "palavras_chave": ["octaedro", "volume", "aresta", "simetria", "fluorita"]
+  },
+  {
+    "pergunta": "O que é a seção transversal de uma esfera?",
+    "resposta": "A seção transversal de uma esfera é um círculo, independentemente do ângulo do corte. O raio do círculo depende da distância do corte ao centro. É usado em física e design. A análise é que a simetria da esfera garante seções circulares. Sabia que cortes de esferas inspiraram lentes ópticas?",
+    "palavras_chave": ["esfera", "seção transversal", "círculo", "lentes", "simetria"]
+  },
+  {
+    "pergunta": "Por que o cubo maximiza o volume em caixas?",
+    "resposta": "O cubo maximiza o volume para uma área de superfície fixa entre paralelepípedos, porque suas dimensões iguais otimizam o espaço. É ideal para embalagens. A análise é que, fora do cubo, o volume diminui para a mesma área. Sabia que caixas cúbicas são comuns em logística por essa eficiência?",
+    "palavras_chave": ["cubo", "volume", "área de superfície", "embalagem", "logística"]
+  },
+  {
+    "pergunta": "O que é a área de base de uma pirâmide?",
+    "resposta": "A área de base de uma pirâmide é a área do polígono que forma sua base, como um quadrado ou triângulo. É usada para calcular o volume: (1/3) x área da base x altura. A análise é que a forma da base define a complexidade. Sabia que pirâmides quadrangulares eram comuns no Egito por sua estabilidade?",
+    "palavras_chave": ["pirâmide", "área de base", "volume", "estabilidade", "egito"]
+  },
+  {
+    "pergunta": "Como a geometria espacial é usada em geologia?",
+    "resposta": "A geometria espacial modela formações rochosas e cristais, como poliedros em minerais ou elipsoides em fósseis. Ela calcula volumes e orientações. A análise é que a geometria revela padrões naturais. Sabia que o basalto forma colunas prismáticas hexagonais em formações como a Calçada dos Gigantes?",
+    "palavras_chave": ["geometria espacial", "geologia", "cristais", "prismas", "basalto"]
+  },
+  {
+    "pergunta": "O que é a diagonal de uma face de um cubo?",
+    "resposta": "A diagonal de uma face de um cubo é a linha reta que conecta dois vértices opostos de uma face quadrada, dada por aresta x √2. Para uma aresta de 4 cm, é 4√2 ≈ 5,66 cm. É útil em cálculos estruturais. A análise é que é diferente da diagonal espacial. Sabia que diagonais de faces são usadas em design de treliças?",
+    "palavras_chave": ["cubo", "diagonal de face", "aresta", "estruturas", "treliças"]
+  },
+  {
+    "pergunta": "Como calcular a área lateral de uma pirâmide triangular?",
+    "resposta": "A área lateral de uma pirâmide triangular é a soma das áreas das três faces laterais triangulares: 3 x (½ x base x apótema). Para uma base de 4 cm e apótema 5 cm, é 3 x (½ x 4 x 5) = 30 cm². É útil em arquitetura. A análise é que a apótema é crucial. Sabia que pirâmides triangulares aparecem em telhados tradicionais?",
+    "palavras_chave": ["pirâmide triangular", "área lateral", "apótema", "base", "telhados"]
+  },
+  {
+    "pergunta": "O que é a simetria de reflexão em sólidos?",
+    "resposta": "A simetria de reflexão é quando um sólido tem uma face ou plano que o divide em duas metades espelhadas, como no cubo. É usada em design para equilíbrio. A análise é que a simetria simplifica modelagem. Sabia que a simetria de reflexão é usada em cristais para identificar sua estrutura?",
+    "palavras_chave": ["simetria de reflexão", "cubo", "plano", "cristais", "design"]
+  },
+  {
+    "pergunta": "Como a geometria espacial é usada em design de joias?",
+    "resposta": "A geometria espacial modela gemas e ornamentos, como tetraedros para diamantes ou esferas para pérolas. Ela calcula cortes para brilho máximo. A análise é que a precisão geométrica aumenta o valor estético. Sabia que o corte brilhante de diamantes usa simetria esférica para refletir luz?",
+    "palavras_chave": ["geometria espacial", "joias", "diamantes", "simetria", "corte"]
+  },
+  {
+    "pergunta": "O que é um toro em geometria espacial?",
+    "resposta": "Um toro é um sólido 3D em forma de anel, como um donut, gerado pela rotação de um círculo em torno de um eixo. Seu volume é complexo, mas usado em física. A análise é que sua topologia é distinta de poliedros. Sabia que o toro modela campos magnéticos em física de plasma?",
+    "palavras_chave": ["toro", "sólido", "rotação", "física", "topologia"]
+  },
+  {
+    "pergunta": "Como calcular a área de superfície de um octaedro?",
+    "resposta": "A área de superfície de um octaedro regular é 2√3 x aresta². Para uma aresta de 3 cm, é 2√3 x 9 ≈ 31,18 cm². É usado em modelagem. A análise é que a simetria facilita o cálculo. Sabia que o octaedro inspira o design de cristais artificiais?",
+    "palavras_chave": ["octaedro", "área de superfície", "aresta", "simetria", "cristais"]
+  },
+  {
+    "pergunta": "O que é a base de um cone?",
+    "resposta": "A base de um cone é o polígono, geralmente um círculo, que forma sua fundação. A área da base circular é π x raio², usada para calcular volume. A análise é que a base define a estabilidade do cone. Sabia que bases quadradas são usadas em cones de tráfego para maior firmeza?",
+    "palavras_chave": ["cone", "base", "área", "volume", "estabilidade"]
+  },
+  {
+    "pergunta": "Como a geometria espacial é usada em nanotecnologia?",
+    "resposta": "A geometria espacial modela nanoestruturas, como fulerenos, que lembram icosaedros. Ela calcula volumes e áreas em escalas minúsculas. A análise é que a precisão geométrica é vital em nanoescala. Sabia que o buckminsterfulereno, uma molécula, tem forma de icosaedro truncado?",
+    "palavras_chave": ["geometria espacial", "nanotecnologia", "icosaedro", "fulerenos", "nanoescala"]
+  },
+  {
+    "pergunta": "Por que a pirâmide é estável em arquitetura?",
+    "resposta": "A pirâmide é estável porque sua base ampla distribui o peso, e o afunilamento reduz a pressão no topo. É usada em monumentos e edifícios. A análise é que a estabilidade depende da proporção base-altura. Sabia que as pirâmides maias usavam degraus para maior estabilidade sísmica?",
+    "palavras_chave": ["pirâmide", "estabilidade", "base", "arquitetura", "maias"]
+  }
+]

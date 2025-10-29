@@ -1,0 +1,637 @@
+[
+  {
+    "pergunta": "O que é uma supernova?",
+    "resposta": "Uma supernova é a explosão espetacular de uma estrela no final de sua vida. Ela libera tanta energia em poucos segundos quanto o Sol em toda sua existência! Esse evento espalha elementos pesados pelo espaço, ajudando a formar novos planetas e até a vida. Sabia que o ferro do nosso sangue veio de antigas supernovas?",
+    "palavras_chave": ["supernova", "estrela", "explosão", "universo", "elementos"]
+  },
+  {
+    "pergunta": "Por que Plutão deixou de ser considerado um planeta?",
+    "resposta": "Plutão perdeu o status de planeta em 2006 porque não cumpre todos os critérios definidos pela União Astronômica Internacional — ele não ‘limpa’ sua órbita de outros corpos. Agora é classificado como planeta anão. Sabia que essa decisão ainda é debatida entre cientistas e fãs da astronomia?",
+    "palavras_chave": ["plutão", "planeta anão", "órbita", "astronomia", "classificação"]
+  },
+  {
+    "pergunta": "O que são buracos negros?",
+    "resposta": "Buracos negros são regiões do espaço onde a gravidade é tão intensa que nada escapa, nem a luz. Eles se formam quando estrelas muito massivas colapsam. Sabia que há um buraco negro supermassivo no centro da Via Láctea chamado Sagitário A*?",
+    "palavras_chave": ["buraco negro", "gravidade", "estrela", "universo", "via láctea"]
+  },
+  {
+    "pergunta": "O que é a Via Láctea?",
+    "resposta": "A Via Láctea é a galáxia onde está o nosso Sistema Solar. Ela tem forma de espiral e contém centenas de bilhões de estrelas. Sabia que, se você olhar para o céu em uma noite sem poluição luminosa, aquela faixa esbranquiçada é ela vista de dentro?",
+    "palavras_chave": ["via láctea", "galáxia", "sistema solar", "estrelas", "universo"]
+  },
+  {
+    "pergunta": "O que é um exoplaneta?",
+    "resposta": "Exoplanetas são planetas que orbitam estrelas fora do nosso Sistema Solar. Já foram descobertos milhares deles, alguns até com características parecidas com a Terra. Sabia que o primeiro foi identificado em 1995, revolucionando a astronomia moderna?",
+    "palavras_chave": ["exoplaneta", "estrela", "sistema solar", "descoberta", "astronomia"]
+  },
+  {
+    "pergunta": "Por que vemos diferentes fases da Lua?",
+    "resposta": "As fases da Lua acontecem por causa da posição entre o Sol, a Terra e a própria Lua. Dependendo do ângulo, vemos mais ou menos da parte iluminada. Sabia que o ciclo lunar completo dura cerca de 29 dias?",
+    "palavras_chave": ["lua", "fases", "terra", "sol", "astronomia"]
+  },
+  {
+    "pergunta": "O que é uma galáxia?",
+    "resposta": "Uma galáxia é um imenso conjunto de estrelas, planetas, gases e poeira mantidos juntos pela gravidade. Existem bilhões de galáxias no universo! Sabia que a Andrômeda está se aproximando da Via Láctea e deve colidir com ela em cerca de 4 bilhões de anos?",
+    "palavras_chave": ["galáxia", "gravidade", "estrelas", "andrômeda", "universo"]
+  },
+  {
+    "pergunta": "O que é a Estação Espacial Internacional?",
+    "resposta": "A Estação Espacial Internacional, ou ISS, é um laboratório que orbita a Terra a cerca de 400 km de altitude. Astronautas de vários países vivem e pesquisam lá. Sabia que ela dá uma volta completa ao redor do planeta a cada 90 minutos?",
+    "palavras_chave": ["estação espacial", "astronauta", "terra", "órbita", "ciência"]
+  },
+  {
+    "pergunta": "Como nascem as estrelas?",
+    "resposta": "As estrelas nascem em nuvens de gás e poeira chamadas nebulosas. Quando a gravidade comprime essas nuvens, o calor e a pressão fazem o hidrogênio se fundir, dando início à luz estelar. Sabia que o Sol também nasceu em uma nebulosa há cerca de 4,6 bilhões de anos?",
+    "palavras_chave": ["estrela", "nebulosa", "gravidade", "hidrogênio", "formação"]
+  },
+  {
+    "pergunta": "O que é um cometa?",
+    "resposta": "Cometas são corpos de gelo e poeira que orbitam o Sol. Quando se aproximam, o calor solar faz o gelo evaporar, formando uma cauda brilhante. Sabia que o cometa Halley é visível da Terra a cada 76 anos?",
+    "palavras_chave": ["cometa", "órbita", "sol", "cauda", "espaço"]
+  },
+  {
+    "pergunta": "O que é um eclipse solar?",
+    "resposta": "O eclipse solar ocorre quando a Lua passa entre a Terra e o Sol, bloqueando parcial ou totalmente sua luz. É um espetáculo incrível, mas deve ser observado com proteção! Sabia que eclipses totais em um mesmo ponto da Terra são raros, ocorrendo a cada 300 anos em média?",
+    "palavras_chave": ["eclipse", "lua", "sol", "terra", "astronomia"]
+  },
+  {
+    "pergunta": "Por que Marte é conhecido como o Planeta Vermelho?",
+    "resposta": "Marte é chamado de Planeta Vermelho por causa do óxido de ferro presente em sua superfície, o mesmo material da ferrugem. Sabia que há montanhas e cânions gigantescos por lá, como o Monte Olimpo e o Vale Marineris?",
+    "palavras_chave": ["marte", "planeta", "óxido de ferro", "superfície", "astronomia"]
+  },
+  {
+    "pergunta": "O que é o Big Bang?",
+    "resposta": "O Big Bang é a teoria que explica a origem do universo: uma grande expansão que começou há cerca de 13,8 bilhões de anos. Sabia que o universo ainda está se expandindo até hoje?",
+    "palavras_chave": ["big bang", "universo", "origem", "expansão", "cosmologia"]
+  },
+  {
+    "pergunta": "O que são estrelas cadentes?",
+    "resposta": "Na verdade, estrelas cadentes não são estrelas, e sim meteoros: pequenos fragmentos que entram na atmosfera e queimam, produzindo luz. Sabia que, em certas épocas do ano, acontecem chuvas de meteoros com centenas por hora?",
+    "palavras_chave": ["meteoro", "atmosfera", "luz", "chuva de meteoros", "astronomia"]
+  },
+  {
+    "pergunta": "O que é o Sol, afinal?",
+    "resposta": "O Sol é uma estrela média feita principalmente de hidrogênio e hélio. É a principal fonte de energia do Sistema Solar. Sabia que sua luz demora cerca de 8 minutos para chegar até nós?",
+    "palavras_chave": ["sol", "estrela", "energia", "hidrogênio", "sistema solar"]
+  },
+  {
+    "pergunta": "O que é um ano-luz?",
+    "resposta": "Um ano-luz é a distância que a luz percorre em um ano — cerca de 9,46 trilhões de quilômetros! É usado para medir grandes distâncias no espaço. Sabia que a estrela mais próxima, Proxima Centauri, está a 4,2 anos-luz da Terra?",
+    "palavras_chave": ["ano-luz", "luz", "distância", "universo", "medida"]
+  },
+  {
+    "pergunta": "Por que os astronautas flutuam no espaço?",
+    "resposta": "Eles flutuam porque estão em queda livre constante ao redor da Terra, o que cria a sensação de ausência de peso. Sabia que, mesmo flutuando, os astronautas ainda sentem os efeitos da gravidade?",
+    "palavras_chave": ["astronauta", "gravidade", "queda livre", "espaço", "órbita"]
+  },
+  {
+    "pergunta": "O que é um asteroide?",
+    "resposta": "Asteroides são rochas espaciais que orbitam o Sol, principalmente entre Marte e Júpiter. Sabia que alguns são tão grandes que têm suas próprias luas?",
+    "palavras_chave": ["asteroide", "rocha", "órbita", "sol", "cinturão"]
+  },
+  {
+    "pergunta": "O que é uma constelação?",
+    "resposta": "Constelações são grupos de estrelas que formam desenhos no céu, usados há milênios para navegação e histórias. Sabia que as constelações do zodíaco foram criadas pelos babilônios há mais de 3 mil anos?",
+    "palavras_chave": ["constelação", "estrelas", "zodíaco", "astronomia", "navegação"]
+  },
+  {
+    "pergunta": "O que é um planeta gasoso?",
+    "resposta": "Planetas gasosos, como Júpiter e Saturno, são compostos principalmente por gases como hidrogênio e hélio, sem uma superfície sólida. Sabia que Júpiter tem uma tempestade chamada Grande Mancha Vermelha que dura há séculos?",
+    "palavras_chave": ["planeta", "gás", "júpiter", "saturno", "astronomia"]
+  },
+  {
+    "pergunta": "Como sabemos a idade do universo?",
+    "resposta": "Os cientistas calculam a idade do universo estudando a expansão cósmica e a radiação cósmica de fundo — o 'eco' do Big Bang. Sabia que essa radiação foi detectada por acaso em 1965?",
+    "palavras_chave": ["universo", "big bang", "radiação", "expansão", "cosmologia"]
+  },
+  {
+    "pergunta": "O que é um telescópio espacial?",
+    "resposta": "É um telescópio colocado fora da atmosfera da Terra, como o Hubble, que observa o cosmos com nitidez impressionante. Sabia que ele já capturou imagens de galáxias a bilhões de anos-luz de distância?",
+    "palavras_chave": ["telescópio", "hubble", "espaço", "observação", "astronomia"]
+  },
+  {
+    "pergunta": "O que são os anéis de Saturno?",
+    "resposta": "Os anéis de Saturno são feitos de bilhões de pedaços de gelo e rocha que orbitam o planeta. Sabia que outros planetas, como Urano e Netuno, também têm anéis, mas menos visíveis?",
+    "palavras_chave": ["saturno", "anéis", "gelo", "planeta", "órbita"]
+  },
+  {
+    "pergunta": "O que é uma nebulosa?",
+    "resposta": "Nebulosas são imensas nuvens de gás e poeira onde nascem ou morrem estrelas. Sabia que a Nebulosa de Órion é visível a olho nu em noites claras?",
+    "palavras_chave": ["nebulosa", "estrela", "gás", "poeira", "universo"]
+  },
+  {
+    "pergunta": "O que é o cinturão de asteroides?",
+    "resposta": "É uma região entre Marte e Júpiter repleta de asteroides. Sabia que, se todos fossem reunidos, formariam um corpo menor que a Lua?",
+    "palavras_chave": ["cinturão", "asteroides", "marte", "júpiter", "espaço"]
+  },
+  {
+    "pergunta": "O que é a Lua Azul?",
+    "resposta": "Lua Azul é o nome dado à segunda lua cheia que ocorre em um mesmo mês. Ela não é literalmente azul, mas é um fenômeno raro. Sabia que isso acontece a cada dois ou três anos?",
+    "palavras_chave": ["lua azul", "lua cheia", "fenômeno", "astronomia", "calendário"]
+  },
+  {
+    "pergunta": "Por que Plutão deixou de ser considerado um planeta?",
+    "resposta": "Plutão foi rebaixado para a categoria de planeta anão em 2006 pela União Astronômica Internacional. Isso aconteceu porque ele não cumpre todos os critérios que definem um planeta, especialmente o de 'limpar a vizinhança' da sua órbita, já que divide o espaço com outros corpos no cinturão de Kuiper. Sabia que o nome 'Plutão' foi sugerido por uma menina inglesa de 11 anos chamada Venetia Burney, em 1930?",
+    "palavras_chave": ["plutão", "planeta anão", "cinturão de kuiper", "astronomia", "união astronômica internacional"]
+  },
+  {
+    "pergunta": "O que é um buraco negro e como ele se forma?",
+    "resposta": "Um buraco negro é uma região do espaço onde a gravidade é tão intensa que nada, nem mesmo a luz, consegue escapar. Ele se forma quando uma estrela muito massiva colapsa sob o próprio peso após esgotar seu combustível nuclear. Esses objetos deformam o espaço-tempo ao redor, criando efeitos fascinantes, como lentes gravitacionais. Sabia que o primeiro buraco negro fotografado foi o da galáxia M87, em 2019?",
+    "palavras_chave": ["buraco negro", "gravidade", "estrela", "colapso", "espaço-tempo"]
+  },
+  {
+    "pergunta": "O que são exoplanetas e como os astrônomos os descobrem?",
+    "resposta": "Exoplanetas são planetas que orbitam estrelas fora do nosso Sistema Solar. Eles são detectados por métodos como o de trânsito, quando o planeta passa na frente da estrela e reduz um pouco o brilho dela, ou pelo método da velocidade radial, que mede oscilações causadas pela gravidade do planeta. Sabia que já foram confirmados mais de 5 mil exoplanetas até hoje?",
+    "palavras_chave": ["exoplanetas", "trânsito", "velocidade radial", "sistema solar", "astronomia"]
+  },
+  {
+    "pergunta": "O que é uma supernova?",
+    "resposta": "Uma supernova é a explosão catastrófica de uma estrela no fim da sua vida. Esse evento libera uma quantidade imensa de energia e espalha elementos pesados, como ferro e ouro, pelo espaço — ou seja, parte de nós veio de estrelas que explodiram. Sabia que a luz de uma supernova pode brilhar mais do que uma galáxia inteira por algumas semanas?",
+    "palavras_chave": ["supernova", "estrela", "explosão", "elementos químicos", "energia"]
+  },
+  {
+    "pergunta": "Por que o céu é escuro à noite, se há tantas estrelas?",
+    "resposta": "Esse é o famoso Paradoxo de Olbers. Se o universo fosse infinito e cheio de estrelas, o céu deveria ser completamente iluminado. Mas ele é escuro porque o universo é finito e está em expansão, o que faz com que a luz de muitas estrelas ainda não tenha chegado até nós. Sabia que isso é uma das evidências do Big Bang?",
+    "palavras_chave": ["paradoxo de olbers", "big bang", "expansão", "universo", "luz"]
+  },
+  {
+    "pergunta": "O que causa o brilho das estrelas?",
+    "resposta": "As estrelas brilham por causa das reações de fusão nuclear que ocorrem em seu núcleo. Nelas, o hidrogênio se transforma em hélio, liberando uma enorme quantidade de energia em forma de luz e calor. Sabia que o Sol converte cerca de 600 milhões de toneladas de hidrogênio em hélio a cada segundo?",
+    "palavras_chave": ["estrelas", "fusão nuclear", "hidrogênio", "hélio", "energia"]
+  },
+  {
+    "pergunta": "Qual é a diferença entre um cometa e um asteroide?",
+    "resposta": "A principal diferença está na composição. Os cometas são formados por gelo e poeira, criando uma cauda brilhante quando se aproximam do Sol. Já os asteroides são feitos principalmente de rocha e metal, e não produzem cauda. Sabia que o cometa Halley é visível da Terra a cada 76 anos?",
+    "palavras_chave": ["cometa", "asteroide", "cauda", "sol", "halley"]
+  },
+  {
+    "pergunta": "O que é a Via Láctea?",
+    "resposta": "A Via Láctea é a galáxia onde está o nosso Sistema Solar. Ela é uma espiral gigantesca com cerca de 100 mil anos-luz de diâmetro e abriga entre 100 e 400 bilhões de estrelas. Nosso Sol está localizado em um dos braços espirais, a cerca de 27 mil anos-luz do centro galáctico. Sabia que a palavra 'Láctea' vem do latim e significa 'caminho de leite'?",
+    "palavras_chave": ["via láctea", "galáxia", "sistema solar", "estrelas", "universo"]
+  },
+  {
+    "pergunta": "Por que Marte é chamado de 'planeta vermelho'?",
+    "resposta": "Marte recebe esse apelido por causa da grande quantidade de óxido de ferro (ferrugem) em sua superfície, que reflete uma cor avermelhada. Esse planeta sempre despertou o interesse humano e é o principal alvo de missões espaciais que buscam sinais de vida passada. Sabia que em Marte há o maior vulcão conhecido do Sistema Solar, o Monte Olimpo?",
+    "palavras_chave": ["marte", "planeta vermelho", "óxido de ferro", "vulcão", "vida"]
+  },
+  {
+    "pergunta": "O que é a Estação Espacial Internacional?",
+    "resposta": "A Estação Espacial Internacional, ou ISS, é um laboratório em órbita da Terra, fruto da colaboração entre diversos países. Lá, astronautas realizam experimentos científicos em microgravidade, estudando desde biologia até física de materiais. Sabia que ela dá uma volta completa na Terra a cada 90 minutos?",
+    "palavras_chave": ["estação espacial", "iss", "microgravidade", "astronautas", "experimentos"]
+  },
+  {
+    "pergunta": "O que é uma nebulosa?",
+    "resposta": "Nebulosa é uma imensa nuvem de gás e poeira no espaço. Algumas são berçários de novas estrelas, enquanto outras são restos de estrelas que morreram. Elas costumam ter formas e cores incríveis. Sabia que a Nebulosa de Órion é uma das mais estudadas porque mostra o processo de nascimento estelar em detalhes?",
+    "palavras_chave": ["nebulosa", "gás", "poeira", "estrelas", "órion"]
+  },
+  {
+    "pergunta": "Por que o Sol parece maior ao nascer e ao se pôr?",
+    "resposta": "Isso é uma ilusão de ótica chamada 'ilusão lunar' — nosso cérebro compara o Sol ao horizonte e o percebe como maior, embora o tamanho aparente não mude. A atmosfera também espalha a luz, dando tons alaranjados e avermelhados. Sabia que esse mesmo efeito ocorre com a Lua cheia?",
+    "palavras_chave": ["sol", "ilusão de ótica", "atmosfera", "luz", "lua"]
+  },
+  {
+    "pergunta": "O que são buracos de minhoca?",
+    "resposta": "Buracos de minhoca são estruturas teóricas que conectariam dois pontos distantes do espaço-tempo, como um atalho cósmico. Embora fascinantes, nunca foram observados na prática. A ideia surgiu das equações da relatividade de Einstein. Sabia que esse conceito inspirou filmes como 'Interestelar'?",
+    "palavras_chave": ["buraco de minhoca", "espaço-tempo", "einstein", "relatividade", "atalho"]
+  },
+  {
+    "pergunta": "Como os astronautas dormem no espaço?",
+    "resposta": "No espaço, os astronautas dormem flutuando, presos em sacos de dormir fixados nas paredes da estação para não sair voando. Eles precisam manter ciclos de sono regulares, mesmo com 16 'nasceres do Sol' por dia na ISS. Sabia que alguns astronautas dizem sonhar de forma diferente em microgravidade?",
+    "palavras_chave": ["astronautas", "sono", "iss", "microgravidade", "espaço"]
+  },
+  {
+    "pergunta": "O que são auroras polares?",
+    "resposta": "As auroras são fenômenos luminosos que acontecem quando partículas do vento solar colidem com os gases da atmosfera terrestre. Essas colisões produzem luzes coloridas, geralmente nas regiões polares. Sabia que em Júpiter e Saturno também há auroras, ainda mais intensas que as da Terra?",
+    "palavras_chave": ["aurora", "vento solar", "atmosfera", "luzes", "planetas"]
+  },
+  {
+    "pergunta": "O que é o Big Bang?",
+    "resposta": "O Big Bang é a teoria que explica a origem do universo como uma grande expansão que começou há cerca de 13,8 bilhões de anos. Desde então, o universo continua se expandindo. Sabia que a radiação cósmica de fundo é uma espécie de 'eco' desse evento inicial?",
+    "palavras_chave": ["big bang", "expansão", "universo", "origem", "radiação"]
+  },
+  {
+    "pergunta": "Qual é o planeta mais quente do Sistema Solar?",
+    "resposta": "Surpreendentemente, não é Mercúrio, mas Vênus! Sua atmosfera densa de dióxido de carbono cria um efeito estufa extremo, com temperaturas que passam de 460°C. Sabia que uma sonda soviética conseguiu pousar em Vênus em 1982 e resistiu apenas 127 minutos antes de derreter?",
+    "palavras_chave": ["vênus", "temperatura", "efeito estufa", "planeta", "sistema solar"]
+  },
+  {
+    "pergunta": "Por que os astronautas flutuam no espaço?",
+    "resposta": "Eles flutuam porque estão em queda livre constante ao redor da Terra, dentro da nave. Embora a gravidade ainda atue sobre eles, o movimento orbital faz parecer que estão sem peso. Sabia que o termo técnico para isso é 'microgravidade'?",
+    "palavras_chave": ["gravidade", "órbita", "queda livre", "microgravidade", "espaço"]
+  },
+  {
+    "pergunta": "O que é uma galáxia?",
+    "resposta": "Uma galáxia é um gigantesco conjunto de estrelas, planetas, gases e poeira unidos pela gravidade. Existem bilhões delas no universo, de diferentes formas e tamanhos. Sabia que a galáxia Andrômeda está se aproximando da Via Láctea e deve colidir com ela daqui a 4 bilhões de anos?",
+    "palavras_chave": ["galáxia", "estrelas", "gravidade", "andromeda", "universo"]
+  },
+  {
+    "pergunta": "Como se mede a distância das estrelas?",
+    "resposta": "Os astrônomos usam métodos como a paralaxe estelar, que mede o deslocamento aparente de uma estrela conforme a Terra orbita o Sol. Para distâncias maiores, usam o brilho de certos tipos de estrelas, como as cefeidas. Sabia que a estrela mais próxima de nós, Proxima Centauri, está a 4,24 anos-luz?",
+    "palavras_chave": ["paralaxe", "distância", "estrela", "cefeidas", "anos-luz"]
+  },
+  {
+    "pergunta": "O que é um quasar?",
+    "resposta": "Um quasar é o núcleo extremamente brilhante de uma galáxia distante, alimentado por um buraco negro supermassivo. Ele libera mais energia que todas as estrelas da galáxia juntas. Sabia que os quasares são tão distantes que sua luz leva bilhões de anos para chegar até nós?",
+    "palavras_chave": ["quasar", "buraco negro", "galáxia", "energia", "universo"]
+  },
+  {
+    "pergunta": "Por que a Lua sempre mostra a mesma face para a Terra?",
+    "resposta": "Isso acontece porque o período de rotação da Lua é igual ao de sua translação ao redor da Terra — um fenômeno chamado rotação sincronizada. Sabia que o lado oculto da Lua só foi fotografado pela primeira vez em 1959 pela sonda soviética Luna 3?",
+    "palavras_chave": ["lua", "rotação", "translação", "sincronização", "terra"]
+  },
+  {
+    "pergunta": "O que é uma anã branca?",
+    "resposta": "Uma anã branca é o que resta de uma estrela que esgotou seu combustível nuclear e colapsou. Ela é incrivelmente densa — uma colher de chá dessa matéria pesaria toneladas. Sabia que o destino do Sol será se tornar uma anã branca daqui a bilhões de anos?",
+    "palavras_chave": ["anã branca", "estrela", "colapso", "densidade", "sol"]
+  },
+  {
+    "pergunta": "O que é uma chuva de meteoros?",
+    "resposta": "Uma chuva de meteoros ocorre quando a Terra passa por regiões com detritos deixados por cometas. As partículas queimam ao entrar na atmosfera, criando 'estrelas cadentes'. Sabia que a chuva de meteoros Perseidas acontece todo ano em agosto?",
+    "palavras_chave": ["chuva de meteoros", "cometa", "atmosfera", "estrelas cadentes", "terra"]
+  },
+  {
+    "pergunta": "O que é o cinturão de asteroides?",
+    "resposta": "O cinturão de asteroides é uma região entre Marte e Júpiter onde orbitam milhares de corpos rochosos. Ele se formou a partir de restos de material que nunca se uniram para formar um planeta, por causa da forte gravidade de Júpiter. Sabia que lá fica o planeta anão Ceres?",
+    "palavras_chave": ["cinturão de asteroides", "marte", "júpiter", "ceres", "gravidade"]
+  },
+  {
+    "pergunta": "O que é a matéria escura?",
+    "resposta": "Matéria escura é uma forma misteriosa de matéria que não emite, reflete ou absorve luz — mas cuja presença é detectada pelos efeitos gravitacionais que exerce sobre as galáxias. Embora represente cerca de 27% do universo, ainda não sabemos do que ela é feita. Sabia que ela foi proposta para explicar por que as galáxias giram mais rápido do que deveriam?",
+    "palavras_chave": ["matéria escura", "gravidade", "universo", "galáxias", "física"]
+  },
+  {
+    "pergunta": "O que é energia escura?",
+    "resposta": "A energia escura é uma forma de energia que parece estar acelerando a expansão do universo. Ela representa cerca de 68% de tudo o que existe, mas ainda é um dos maiores mistérios da cosmologia moderna. Sabia que foi graças à observação de supernovas distantes, nos anos 1990, que descobrimos essa aceleração?",
+    "palavras_chave": ["energia escura", "expansão", "universo", "cosmologia", "supernovas"]
+  },
+  {
+    "pergunta": "Como funciona um telescópio espacial como o Hubble?",
+    "resposta": "O telescópio Hubble orbita acima da atmosfera terrestre, o que permite capturar imagens nítidas e profundas do universo. Ele observa diferentes comprimentos de onda de luz e ajudou a medir a idade do universo. Sabia que o Hubble já fotografou galáxias formadas apenas 400 milhões de anos após o Big Bang?",
+    "palavras_chave": ["telescópio", "hubble", "universo", "imagens", "observação"]
+  },
+  {
+    "pergunta": "O que é um buraco negro supermassivo?",
+    "resposta": "É um tipo de buraco negro que possui milhões ou até bilhões de vezes a massa do Sol. Eles geralmente estão no centro das galáxias e influenciam sua formação. Sabia que há um buraco negro supermassivo no centro da Via Láctea chamado Sagitário A*?",
+    "palavras_chave": ["buraco negro", "supermassivo", "via láctea", "galáxias", "gravidade"]
+  },
+  {
+    "pergunta": "O que é o efeito Doppler na astronomia?",
+    "resposta": "O efeito Doppler ocorre quando a luz de um objeto se desloca no espectro conforme ele se aproxima ou se afasta. Na astronomia, ele é usado para medir a velocidade de estrelas e galáxias. Sabia que o desvio para o vermelho das galáxias distantes é uma das provas de que o universo está em expansão?",
+    "palavras_chave": ["efeito doppler", "luz", "expansão", "galáxias", "velocidade"]
+  },
+  {
+    "pergunta": "O que são pulsares?",
+    "resposta": "Pulsares são estrelas de nêutrons que giram rapidamente e emitem feixes regulares de radiação, como faróis cósmicos. Foram descobertos em 1967 e revolucionaram a astrofísica. Sabia que alguns pulsares giram centenas de vezes por segundo?",
+    "palavras_chave": ["pulsar", "estrela de nêutrons", "radiação", "astrofísica", "rotação"]
+  },
+  {
+    "pergunta": "O que é a radiação cósmica de fundo?",
+    "resposta": "É uma leve radiação que preenche todo o universo e é considerada o 'eco' do Big Bang. Ela foi detectada pela primeira vez em 1965 e confirmou a teoria da expansão cósmica. Sabia que essa radiação tem temperatura média de apenas 2,7 kelvins?",
+    "palavras_chave": ["radiação cósmica", "big bang", "universo", "expansão", "cosmologia"]
+  },
+  {
+    "pergunta": "Por que o Sol é uma estrela e não um planeta?",
+    "resposta": "O Sol é uma estrela porque produz sua própria energia através da fusão nuclear, transformando hidrogênio em hélio. Planetas, por outro lado, não geram luz — apenas refletem a luz solar. Sabia que o Sol contém mais de 99% da massa de todo o Sistema Solar?",
+    "palavras_chave": ["sol", "estrela", "fusão nuclear", "energia", "sistema solar"]
+  },
+  {
+    "pergunta": "O que são satélites naturais e artificiais?",
+    "resposta": "Satélites naturais são corpos que orbitam planetas, como a Lua em relação à Terra. Já os artificiais são construídos pelo ser humano para comunicação, observação e pesquisa. Sabia que o primeiro satélite artificial foi o Sputnik 1, lançado pela União Soviética em 1957?",
+    "palavras_chave": ["satélite", "lua", "sputnik", "órbita", "espaço"]
+  },
+  {
+    "pergunta": "Como surgem os anéis de Saturno?",
+    "resposta": "Os anéis de Saturno são compostos por bilhões de pedaços de gelo e rocha. Acredita-se que eles sejam restos de luas destruídas pela gravidade do planeta. Sabia que os anéis são incrivelmente finos — em média, têm apenas 10 metros de espessura?",
+    "palavras_chave": ["saturno", "anéis", "gelo", "gravidade", "planeta"]
+  },
+  {
+    "pergunta": "O que são galáxias elípticas e espirais?",
+    "resposta": "As galáxias espirais, como a Via Láctea, têm braços curvados e bastante poeira interestelar. Já as elípticas são mais antigas, com formato oval e pouca formação de estrelas novas. Sabia que as galáxias irregulares não se encaixam em nenhum desses tipos?",
+    "palavras_chave": ["galáxias", "espiral", "elíptica", "estrelas", "poeira"]
+  },
+  {
+    "pergunta": "Por que os planetas têm cores diferentes?",
+    "resposta": "As cores dos planetas dependem de sua composição atmosférica e superficial. Marte é vermelho por causa da ferrugem; Netuno é azul por causa do metano. Sabia que Urano e Netuno têm tons parecidos, mas por razões químicas diferentes?",
+    "palavras_chave": ["planetas", "cores", "atmosfera", "composição", "metano"]
+  },
+  {
+    "pergunta": "O que é o tempo sideral?",
+    "resposta": "Tempo sideral é a medida do tempo baseada na rotação da Terra em relação às estrelas, não ao Sol. Ele é usado em astronomia para apontar telescópios com precisão. Sabia que o dia sideral é cerca de 4 minutos mais curto que o dia solar?",
+    "palavras_chave": ["tempo sideral", "rotação", "terra", "estrelas", "astronomia"]
+  },
+  {
+    "pergunta": "Como os astronautas se alimentam no espaço?",
+    "resposta": "Eles comem alimentos desidratados ou embalados a vácuo, que precisam ser reidratados com água quente. A microgravidade muda o paladar, então as comidas costumam ser mais temperadas. Sabia que os primeiros astronautas comiam purês em tubos, como pasta de dente?",
+    "palavras_chave": ["astronautas", "alimentação", "microgravidade", "espaço", "nasa"]
+  },
+  {
+    "pergunta": "O que é o cinturão de Kuiper?",
+    "resposta": "O cinturão de Kuiper é uma região além de Netuno, repleta de pequenos corpos gelados. Plutão e outros planetas anões vivem ali. Sabia que a sonda New Horizons foi a primeira a explorar essa região em 2015?",
+    "palavras_chave": ["cinturão de kuiper", "plutão", "netuno", "new horizons", "planeta anão"]
+  },
+  {
+    "pergunta": "O que é uma anã marrom?",
+    "resposta": "Anãs marrons são corpos que ficam entre uma estrela e um planeta — grandes demais para serem planetas, mas pequenas demais para manter a fusão nuclear estável. Sabia que elas são chamadas de 'estrelas fracassadas' por isso?",
+    "palavras_chave": ["anã marrom", "estrela", "planeta", "fusão nuclear", "astronomia"]
+  },
+  {
+    "pergunta": "O que é a constelação de Órion?",
+    "resposta": "Órion é uma das constelações mais reconhecíveis do céu noturno, representando um caçador. Suas estrelas mais brilhantes são Betelgeuse e Rigel. Sabia que a Nebulosa de Órion fica exatamente na 'espada' dessa constelação?",
+    "palavras_chave": ["constelação", "órion", "betelgeuse", "rigel", "nebulosa"]
+  },
+  {
+    "pergunta": "Por que Júpiter é chamado de 'gigante gasoso'?",
+    "resposta": "Porque ele é formado principalmente por hidrogênio e hélio, sem uma superfície sólida definida. É o maior planeta do Sistema Solar e possui tempestades colossais, como a Grande Mancha Vermelha. Sabia que essa tempestade dura há pelo menos 300 anos?",
+    "palavras_chave": ["júpiter", "gigante gasoso", "hidrogênio", "tempestade", "planeta"]
+  },
+  {
+    "pergunta": "O que é um eclipse solar?",
+    "resposta": "O eclipse solar acontece quando a Lua passa entre a Terra e o Sol, bloqueando parcial ou totalmente sua luz. É um evento impressionante e raro em um mesmo local. Sabia que os eclipses totais nunca duram mais de 7 minutos?",
+    "palavras_chave": ["eclipse", "sol", "lua", "terra", "astronomia"]
+  },
+  {
+    "pergunta": "Por que a Lua parece mudar de forma durante o mês?",
+    "resposta": "As fases da Lua acontecem porque vemos diferentes porções iluminadas por ela conforme orbita a Terra. O ciclo completo leva cerca de 29,5 dias. Sabia que esse ciclo é a base de muitos calendários antigos?",
+    "palavras_chave": ["lua", "fases", "iluminação", "órbita", "terra"]
+  },
+  {
+    "pergunta": "O que são meteoritos?",
+    "resposta": "Meteoritos são fragmentos de asteroides ou cometas que sobrevivem à passagem pela atmosfera e atingem a superfície da Terra. Sabia que o maior já encontrado pesa mais de 60 toneladas e está na Namíbia?",
+    "palavras_chave": ["meteorito", "asteroide", "atmosfera", "impacto", "terra"]
+  },
+  {
+    "pergunta": "Como funciona um foguete?",
+    "resposta": "Os foguetes funcionam pela terceira lei de Newton: para cada ação, há uma reação. Eles ejetam gases em alta velocidade para impulsionar o veículo na direção oposta. Sabia que o foguete Saturn V foi o responsável por levar o homem à Lua?",
+    "palavras_chave": ["foguete", "propulsão", "newton", "saturn v", "espaço"]
+  },
+  {
+    "pergunta": "O que é uma estrela cadente de verdade?",
+    "resposta": "Apesar do nome, não é uma estrela. É um meteoro — um pequeno fragmento espacial que queima ao entrar na atmosfera. Sabia que algumas chuvas de meteoros vêm de cometas antigos, como o Halley?",
+    "palavras_chave": ["estrela cadente", "meteoro", "atmosfera", "cometa", "chuva de meteoros"]
+  },
+  {
+    "pergunta": "Por que Netuno é azul?",
+    "resposta": "Netuno é azul por causa do metano em sua atmosfera, que absorve a luz vermelha e reflete a azul. Sabia que ventos em Netuno podem ultrapassar 2 mil km/h, os mais rápidos do Sistema Solar?",
+    "palavras_chave": ["netuno", "azul", "metano", "ventos", "atmosfera"]
+  },
+  {
+    "pergunta": "O que é um exoplaneta?",
+    "resposta": "Exoplanetas são planetas que orbitam estrelas fora do nosso Sistema Solar. Milhares já foram descobertos, muitos em zonas habitáveis, onde pode haver água líquida. Sabia que o primeiro exoplaneta foi confirmado em 1995, e desde então encontramos até mundos com dois sóis, como em Star Wars?",
+    "palavras_chave": ["exoplaneta", "estrela", "órbita", "sistema solar", "habitat"]
+  },
+  {
+    "pergunta": "Por que Plutão deixou de ser considerado um planeta?",
+    "resposta": "Plutão foi reclassificado como planeta anão em 2006 porque não 'limpa sua órbita', ou seja, compartilha seu caminho com outros corpos do cinturão de Kuiper. Ele continua sendo um objeto fascinante, com montanhas de gelo e atmosfera tênue. Sabia que Plutão tem cinco luas, e a maior delas, Caronte, é quase do mesmo tamanho dele?",
+    "palavras_chave": ["plutão", "planeta anão", "cinturão de kuiper", "caronte", "astronomia"]
+  },
+  {
+    "pergunta": "O que é uma supernova?",
+    "resposta": "Supernova é a explosão colossal que ocorre quando uma estrela massiva chega ao fim da vida. Ela libera energia suficiente para brilhar mais que uma galáxia por alguns dias. Sabia que os elementos pesados como o ferro e o ouro vêm dessas explosões estelares?",
+    "palavras_chave": ["supernova", "estrela", "explosão", "elementos", "galáxia"]
+  },
+  {
+    "pergunta": "Como nascem as estrelas?",
+    "resposta": "As estrelas nascem dentro de nuvens gigantes de gás e poeira chamadas nebulosas. A gravidade faz o material se aglutinar até que a temperatura e pressão iniciem a fusão nuclear. Sabia que a Nebulosa de Órion é uma das 'maternidades' estelares mais estudadas?",
+    "palavras_chave": ["estrela", "nebulosa", "formação", "gravidade", "fusão nuclear"]
+  },
+  {
+    "pergunta": "Por que vemos sempre a mesma face da Lua?",
+    "resposta": "Isso acontece porque o tempo que a Lua leva para girar em torno de si mesma é o mesmo que leva para orbitar a Terra. Esse fenômeno é chamado de rotação síncrona. Sabia que o outro lado da Lua foi visto pela primeira vez em 1959, por uma sonda soviética?",
+    "palavras_chave": ["lua", "rotação síncrona", "terra", "órbita", "astronomia"]
+  },
+  {
+    "pergunta": "O que é o Big Bang?",
+    "resposta": "O Big Bang é o modelo que explica a origem do universo a partir de uma expansão cósmica há cerca de 13,8 bilhões de anos. Não foi uma explosão comum, mas uma expansão do próprio espaço. Sabia que o universo ainda está se expandindo desde então?",
+    "palavras_chave": ["big bang", "universo", "expansão", "origem", "cosmologia"]
+  },
+  {
+    "pergunta": "Como os astronautas dormem no espaço?",
+    "resposta": "Eles dormem em sacos de dormir presos à parede para não flutuar na microgravidade. O ciclo de sono é ajustado artificialmente, já que na Estação Espacial Internacional o Sol nasce e se põe 16 vezes por dia! Sabia que alguns astronautas preferem dormir com tampões de ouvido por causa dos ruídos das máquinas?",
+    "palavras_chave": ["astronautas", "sono", "microgravidade", "estação espacial", "espaço"]
+  },
+  {
+    "pergunta": "O que são auroras boreais e austrais?",
+    "resposta": "As auroras são fenômenos luminosos que acontecem quando partículas solares colidem com a atmosfera da Terra, especialmente nos polos. O resultado são luzes coloridas dançando no céu. Sabia que as cores variam conforme o gás envolvido — verde pelo oxigênio e vermelho pelo nitrogênio?",
+    "palavras_chave": ["aurora", "partículas solares", "atmosfera", "pólos", "luz"]
+  },
+  {
+    "pergunta": "Por que o espaço é silencioso?",
+    "resposta": "Porque o som precisa de um meio material, como o ar, para se propagar. No vácuo do espaço, as ondas sonoras simplesmente não se espalham. Sabia que, apesar disso, cientistas conseguem 'ouvir' o espaço ao transformar ondas de rádio em sons audíveis?",
+    "palavras_chave": ["espaço", "vácuo", "som", "ondas", "física"]
+  },
+  {
+    "pergunta": "O que é a Via Láctea?",
+    "resposta": "A Via Láctea é a galáxia onde vivemos, com cerca de 100 mil anos-luz de diâmetro e centenas de bilhões de estrelas. Nosso Sol está em um de seus braços espirais. Sabia que o nome vem da aparência leitosa que ela tem no céu noturno?",
+    "palavras_chave": ["via láctea", "galáxia", "estrelas", "sol", "universo"]
+  },
+  {
+    "pergunta": "O que é um cometa?",
+    "resposta": "Cometas são corpos gelados que, ao se aproximarem do Sol, liberam gás e poeira, formando uma cauda brilhante. Sabia que o cometa Halley é visível da Terra a cada 76 anos e foi observado desde o século XI?",
+    "palavras_chave": ["cometa", "sol", "cauda", "gelo", "órbita"]
+  },
+  {
+    "pergunta": "Por que Marte é chamado de 'planeta vermelho'?",
+    "resposta": "Porque sua superfície é rica em óxidos de ferro, que dão o tom avermelhado característico. Marte é o principal candidato a abrigar colônias humanas no futuro. Sabia que o pôr do sol em Marte é azul?",
+    "palavras_chave": ["marte", "ferro", "vermelho", "superfície", "exploração"]
+  },
+  {
+    "pergunta": "Como sabemos a idade do universo?",
+    "resposta": "A idade do universo é estimada a partir da radiação cósmica de fundo e da expansão medida pelas galáxias distantes. O valor mais aceito hoje é de cerca de 13,8 bilhões de anos. Sabia que essa estimativa ficou mais precisa graças ao telescópio Planck, da ESA?",
+    "palavras_chave": ["universo", "idade", "radiação cósmica", "expansão", "planck"]
+  },
+  {
+    "pergunta": "O que é um quasar?",
+    "resposta": "Quasares são objetos extremamente brilhantes alimentados por buracos negros supermassivos em galáxias distantes. Eles emitem mais energia que trilhões de estrelas juntas. Sabia que alguns quasares estão a bilhões de anos-luz e mostram como o universo era jovem?",
+    "palavras_chave": ["quasar", "buraco negro", "galáxia", "energia", "universo"]
+  },
+  {
+    "pergunta": "Como funcionam as sondas espaciais?",
+    "resposta": "Sondas espaciais são naves não tripuladas projetadas para explorar planetas, luas e até o espaço interestelar. Elas enviam dados por rádio para a Terra. Sabia que a Voyager 1, lançada em 1977, já ultrapassou os limites do Sistema Solar?",
+    "palavras_chave": ["sonda", "exploração", "voyager", "nasa", "sistema solar"]
+  },
+  {
+    "pergunta": "Por que a Terra é o único planeta com vida conhecida?",
+    "resposta": "Porque reúne condições ideais: temperatura amena, água líquida e uma atmosfera protetora. Até hoje, nenhum outro planeta apresentou esse equilíbrio. Sabia que o termo 'zona habitável' vem exatamente dessa combinação de fatores?",
+    "palavras_chave": ["terra", "vida", "água", "atmosfera", "zona habitável"]
+  },
+  {
+    "pergunta": "O que é uma galáxia anã?",
+    "resposta": "Galáxias anãs são pequenas galáxias com poucas estrelas, geralmente orbitando galáxias maiores. Elas ajudam os cientistas a entender como as grandes galáxias se formaram. Sabia que a Via Láctea tem várias galáxias anãs companheiras?",
+    "palavras_chave": ["galáxia anã", "via láctea", "estrelas", "formação", "astronomia"]
+  },
+  {
+    "pergunta": "Como funciona uma estação espacial?",
+    "resposta": "A estação espacial é um laboratório em órbita onde astronautas vivem e conduzem experimentos científicos. A mais famosa é a Estação Espacial Internacional, ativa desde 2000. Sabia que ela orbita a Terra a cada 90 minutos?",
+    "palavras_chave": ["estação espacial", "órbita", "experimentos", "astronautas", "nasa"]
+  },
+  {
+    "pergunta": "O que são as marés e qual é a relação delas com a Lua?",
+    "resposta": "As marés são causadas pela força gravitacional da Lua e do Sol sobre os oceanos da Terra. Quando estão alinhados, as marés ficam mais intensas. Sabia que a rotação da Terra está lentamente diminuindo por causa dessa interação?",
+    "palavras_chave": ["marés", "lua", "gravidade", "terra", "oceano"]
+  },
+  {
+    "pergunta": "Por que o céu é azul?",
+    "resposta": "A cor azul do céu vem da dispersão da luz solar pelas moléculas da atmosfera. A luz azul é espalhada mais facilmente que as outras cores. Sabia que, em Marte, o efeito é o oposto e o céu é avermelhado?",
+    "palavras_chave": ["céu", "azul", "luz", "atmosfera", "dispersão"]
+  },
+  {
+    "pergunta": "O que é uma estrela de nêutrons?",
+    "resposta": "Uma estrela de nêutrons é o núcleo superdenso que sobra após a explosão de uma supernova. Uma colher desse material pesaria bilhões de toneladas na Terra. Sabia que algumas giram tão rápido que emitem pulsos de radiação, os pulsares?",
+    "palavras_chave": ["estrela de nêutrons", "supernova", "densidade", "pulsares", "gravidade"]
+  },
+  {
+    "pergunta": "Por que o espaço é escuro se há tantas estrelas?",
+    "resposta": "Embora existam bilhões de estrelas, elas estão muito distantes e sua luz não é suficiente para iluminar o universo. Esse mistério é conhecido como paradoxo de Olbers. Sabia que a expansão do universo também faz a luz enfraquecer?",
+    "palavras_chave": ["espaço", "escuridão", "luz", "universo", "paradoxo de olbers"]
+  },
+  {
+    "pergunta": "O que é uma anã branca?",
+    "resposta": "Anãs brancas são o estágio final da vida de estrelas médias, como o Sol. São incrivelmente densas e esfriam lentamente ao longo de bilhões de anos. Sabia que o destino do nosso Sol é se tornar uma anã branca?",
+    "palavras_chave": ["anã branca", "estrela", "sol", "densidade", "evolução estelar"]
+  },
+  {
+    "pergunta": "O que é um asteroide?",
+    "resposta": "Asteroides são rochas espaciais que orbitam o Sol, principalmente entre Marte e Júpiter. Alguns são restos da formação do Sistema Solar. Sabia que há planos de minerar asteroides no futuro por causa dos metais preciosos que contêm?",
+    "palavras_chave": ["asteroide", "rochas", "órbita", "sistema solar", "mineração"]
+  },
+  {
+    "pergunta": "O que é o telescópio James Webb?",
+    "resposta": "O telescópio James Webb é o sucessor do Hubble e observa o universo em luz infravermelha, revelando galáxias extremamente antigas. Sabia que ele é tão sensível que pode detectar o calor de uma abelha na Lua?",
+    "palavras_chave": ["james webb", "telescópio", "infravermelho", "galáxias", "hubble"]
+  },
+  {
+    "pergunta": "O que é um buraco negro?",
+    "resposta": "Buraco negro é uma região do espaço onde a gravidade é tão intensa que nada, nem mesmo a luz, consegue escapar. Eles se formam quando estrelas muito massivas colapsam sobre si mesmas. Sabia que em 2019 foi capturada a primeira imagem real de um buraco negro pela colaboração Event Horizon Telescope?",
+    "palavras_chave": ["buraco negro", "gravidade", "estrela", "colapso", "event horizon"]
+  },
+  {
+    "pergunta": "O que é matéria escura?",
+    "resposta": "Matéria escura é uma substância invisível que compõe cerca de 27% do universo e não emite luz. Sua presença é percebida pelos efeitos gravitacionais sobre galáxias e estrelas. Sabia que, até hoje, ninguém sabe exatamente do que ela é feita?",
+    "palavras_chave": ["matéria escura", "universo", "gravidade", "galáxias", "mistério"]
+  },
+  {
+    "pergunta": "O que é energia escura?",
+    "resposta": "Energia escura é uma força misteriosa responsável pela aceleração da expansão do universo. Ela representa cerca de 68% de tudo o que existe. Sabia que essa descoberta rendeu o Prêmio Nobel de Física em 2011?",
+    "palavras_chave": ["energia escura", "universo", "expansão", "física", "aceleração"]
+  },
+  {
+    "pergunta": "Como funciona um eclipse solar?",
+    "resposta": "Um eclipse solar acontece quando a Lua se posiciona entre o Sol e a Terra, projetando uma sombra sobre o planeta. Existem eclipses totais, parciais e anulares. Sabia que durante um eclipse total é possível ver a coroa solar a olho nu?",
+    "palavras_chave": ["eclipse solar", "lua", "sol", "sombra", "astronomia"]
+  },
+  {
+    "pergunta": "O que é um eclipse lunar?",
+    "resposta": "Um eclipse lunar ocorre quando a Terra fica entre o Sol e a Lua, projetando sua sombra sobre o satélite. Durante o evento, a Lua pode ficar avermelhada — é a 'Lua de sangue'. Sabia que esse fenômeno pode durar até quase duas horas?",
+    "palavras_chave": ["eclipse lunar", "terra", "lua", "sombra", "lua de sangue"]
+  },
+  {
+    "pergunta": "Por que os planetas não caem no Sol?",
+    "resposta": "Os planetas não caem no Sol porque estão em movimento constante, equilibrando a atração gravitacional com sua velocidade orbital. É como girar uma pedra presa a um barbante. Sabia que se a Terra parasse de se mover, cairia direto no Sol em poucos meses?",
+    "palavras_chave": ["planetas", "sol", "gravidade", "órbita", "movimento"]
+  },
+  {
+    "pergunta": "O que é a radiação cósmica de fundo?",
+    "resposta": "É o eco térmico do Big Bang, uma radiação muito fraca que permeia todo o universo. Ela é uma das principais evidências de que o universo teve um início quente e denso. Sabia que ela foi descoberta por acaso, em 1965, por dois engenheiros da Bell Labs?",
+    "palavras_chave": ["radiação cósmica", "big bang", "universo", "astronomia", "descoberta"]
+  },
+  {
+    "pergunta": "O que são anéis de Saturno feitos?",
+    "resposta": "Os anéis de Saturno são compostos principalmente de gelo e poeira, variando de minúsculas partículas a blocos enormes. Eles refletem muita luz solar, por isso parecem tão brilhantes. Sabia que cada anel é, na verdade, formado por bilhões de pedacinhos individuais?",
+    "palavras_chave": ["saturno", "anéis", "gelo", "poeira", "planeta"]
+  },
+  {
+    "pergunta": "O que é um cinturão de asteroides?",
+    "resposta": "O cinturão de asteroides é uma região entre Marte e Júpiter cheia de rochas espaciais. Ele se formou a partir de material que nunca virou planeta por causa da influência gravitacional de Júpiter. Sabia que a nave Dawn visitou dois grandes asteroides desse cinturão?",
+    "palavras_chave": ["cinturão de asteroides", "marte", "júpiter", "rochas", "gravidade"]
+  },
+  {
+    "pergunta": "Por que Vênus é o planeta mais quente?",
+    "resposta": "Apesar de não ser o mais próximo do Sol, Vênus é o mais quente porque sua atmosfera espessa retém o calor através do efeito estufa. A temperatura chega a 460°C. Sabia que chove ácido sulfúrico lá?",
+    "palavras_chave": ["vênus", "temperatura", "efeito estufa", "atmosfera", "planeta"]
+  },
+  {
+    "pergunta": "Como são os dias e as noites em Mercúrio?",
+    "resposta": "Em Mercúrio, um dia solar dura 176 dias terrestres! Isso acontece por causa da rotação lenta e da órbita rápida. Sabia que, por esse motivo, o Sol parece nascer duas vezes no mesmo dia em alguns pontos do planeta?",
+    "palavras_chave": ["mercúrio", "rotação", "órbita", "sol", "planeta"]
+  },
+  {
+    "pergunta": "O que é uma galáxia espiral?",
+    "resposta": "Galáxias espirais têm braços que giram em torno de um núcleo luminoso, como a Via Láctea. Elas abrigam muitas estrelas jovens e regiões de formação estelar. Sabia que cerca de dois terços das galáxias conhecidas têm essa forma?",
+    "palavras_chave": ["galáxia espiral", "via láctea", "estrelas", "formação", "astronomia"]
+  },
+  {
+    "pergunta": "Como os satélites se mantêm em órbita?",
+    "resposta": "Os satélites se equilibram entre a gravidade da Terra e sua velocidade tangencial. Essa combinação cria uma queda constante, mas controlada. Sabia que o primeiro satélite artificial foi o Sputnik, lançado pela União Soviética em 1957?",
+    "palavras_chave": ["satélite", "órbita", "gravidade", "sputnik", "terra"]
+  },
+  {
+    "pergunta": "O que é a Estação Espacial Internacional?",
+    "resposta": "A Estação Espacial Internacional é um laboratório em órbita construído em parceria por várias nações. Ela serve para pesquisas científicas e testes de tecnologia espacial. Sabia que ela viaja a mais de 27 mil km/h?",
+    "palavras_chave": ["estação espacial", "órbita", "pesquisa", "astronautas", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é um planeta gasoso?",
+    "resposta": "Planetas gasosos, como Júpiter e Saturno, são compostos principalmente por hidrogênio e hélio, sem uma superfície sólida definida. Sabia que Júpiter é tão grande que caberiam mais de 1.300 Terras dentro dele?",
+    "palavras_chave": ["planeta gasoso", "júpiter", "saturno", "hidrogênio", "hélio"]
+  },
+  {
+    "pergunta": "Como é o clima em Netuno?",
+    "resposta": "Netuno é o planeta mais ventoso do Sistema Solar, com rajadas que ultrapassam 2.000 km/h. Sua cor azul vem do metano na atmosfera. Sabia que Netuno leva 165 anos para dar uma volta completa em torno do Sol?",
+    "palavras_chave": ["netuno", "vento", "atmosfera", "metano", "planeta"]
+  },
+  {
+    "pergunta": "O que é um pulsar?",
+    "resposta": "Pulsar é uma estrela de nêutrons que gira rapidamente e emite feixes regulares de radiação. É como um farol cósmico. Sabia que o primeiro pulsar foi detectado em 1967 por Jocelyn Bell Burnell, uma jovem estudante de astronomia?",
+    "palavras_chave": ["pulsar", "estrela de nêutrons", "radiação", "astronomia", "descoberta"]
+  },
+  {
+    "pergunta": "Por que Júpiter tem uma grande mancha vermelha?",
+    "resposta": "A grande mancha vermelha é uma tempestade gigante que dura há mais de 300 anos. Ela é tão grande que caberiam duas Terras dentro dela. Sabia que a cor varia entre tons de vermelho e marrom conforme os ventos mudam?",
+    "palavras_chave": ["júpiter", "mancha vermelha", "tempestade", "planeta", "atmosfera"]
+  },
+  {
+    "pergunta": "O que são buracos negros supermassivos?",
+    "resposta": "São buracos negros com milhões ou bilhões de vezes a massa do Sol, geralmente localizados no centro das galáxias. Sabia que existe um deles no coração da Via Láctea, chamado Sagitário A*?",
+    "palavras_chave": ["buraco negro", "supermassivo", "galáxia", "sagitário a*", "centro"]
+  },
+  {
+    "pergunta": "Como os foguetes vencem a gravidade da Terra?",
+    "resposta": "Os foguetes usam propulsão baseada na terceira lei de Newton: cada ação gera uma reação. Ao expelir gases para baixo, eles são empurrados para cima. Sabia que o foguete Saturn V, da missão Apollo, continua sendo o mais potente já lançado?",
+    "palavras_chave": ["foguete", "gravidade", "propulsão", "nasa", "apollo"]
+  },
+  {
+    "pergunta": "O que é uma galáxia elíptica?",
+    "resposta": "Galáxias elípticas têm formato arredondado e contêm estrelas antigas. São menos ativas que as espirais e possuem pouca poeira. Sabia que a galáxia M87, uma elíptica gigante, abriga o buraco negro fotografado em 2019?",
+    "palavras_chave": ["galáxia elíptica", "estrelas", "m87", "buraco negro", "astronomia"]
+  },
+  {
+    "pergunta": "Por que os astronautas flutuam no espaço?",
+    "resposta": "Eles flutuam porque estão em queda livre contínua junto com a nave. Essa sensação é chamada de microgravidade. Sabia que até a musculatura e os ossos enfraquecem se o astronauta ficar muito tempo assim?",
+    "palavras_chave": ["microgravidade", "astronautas", "queda livre", "espaço", "gravidade"]
+  },
+  {
+    "pergunta": "O que são galáxias irregulares?",
+    "resposta": "Galáxias irregulares não têm uma forma definida e muitas vezes surgem de colisões entre outras galáxias. Elas abrigam intensa formação de estrelas. Sabia que a galáxia do Triângulo é uma das mais próximas da Via Láctea e tem formato irregular?",
+    "palavras_chave": ["galáxia irregular", "formação estelar", "colisão", "via láctea", "triângulo"]
+  },
+  {
+    "pergunta": "O que é a constelação de Órion?",
+    "resposta": "Órion é uma das constelações mais reconhecíveis do céu, representando um caçador na mitologia grega. Ela contém as estrelas Betelgeuse e Rigel, além da famosa Nebulosa de Órion. Sabia que ela é visível tanto no hemisfério norte quanto no sul?",
+    "palavras_chave": ["constelação", "órion", "estrelas", "nebulosa", "mitologia"]
+  },
+  {
+    "pergunta": "Por que vemos estrelas piscando no céu?",
+    "resposta": "As estrelas parecem piscar por causa da turbulência na atmosfera da Terra, que desvia a luz. Sabia que, no espaço, elas não piscam — o brilho é constante e estável?",
+    "palavras_chave": ["estrelas", "atmosfera", "luz", "turbulência", "observação"]
+  },
+  {
+    "pergunta": "O que é a nebulosa do Caranguejo?",
+    "resposta": "A nebulosa do Caranguejo é o resto de uma supernova observada em 1054 por astrônomos chineses. Hoje, ainda emite radiação intensa e abriga um pulsar no centro. Sabia que ela está a cerca de 6.500 anos-luz da Terra?",
+    "palavras_chave": ["nebulosa", "caranguejo", "supernova", "pulsar", "astronomia"]
+  },
+  {
+    "pergunta": "O que são meteoros?",
+    "resposta": "Meteoros são fragmentos de rocha que entram na atmosfera terrestre e se incendeiam pelo atrito, criando o fenômeno conhecido como 'estrela cadente'. Sabia que alguns meteoros maiores conseguem chegar ao solo, sendo chamados de meteoritos?",
+    "palavras_chave": ["meteoro", "atmosfera", "estrela cadente", "meteorito", "terra"]
+  }
+]

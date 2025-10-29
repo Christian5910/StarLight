@@ -1,0 +1,602 @@
+[
+  {
+    "pergunta": "Quem foi Marco Polo e por que suas viagens foram importantes?",
+    "resposta": "Marco Polo foi um mercador veneziano do século XIII que viajou até a China e descreveu suas experiências em um livro. Suas histórias despertaram o interesse europeu por rotas comerciais com o Oriente. Sabia que por muito tempo muitos achavam que seus relatos eram invenções?",
+    "palavras_chave": ["Marco Polo", "China", "século XIII", "rotas comerciais", "Oriente"]
+  },
+  {
+    "pergunta": "O que motivou as Grandes Navegações europeias?",
+    "resposta": "Os europeus queriam novas rotas para as Índias e riquezas como especiarias, ouro e seda, além de expandir o cristianismo. Sabia que o avanço da navegação com a bússola e o astrolábio foi essencial para isso?",
+    "palavras_chave": ["Grandes Navegações", "especiarias", "bússola", "cristianismo", "comércio"]
+  },
+  {
+    "pergunta": "Quem foi Fernão de Magalhães e qual foi sua maior conquista?",
+    "resposta": "Magalhães liderou a primeira expedição a dar a volta completa na Terra, no século XVI. Mesmo morrendo durante a viagem, sua frota provou que o planeta era realmente redondo. Sabia que só uma das cinco naus voltou à Espanha?",
+    "palavras_chave": ["Fernão de Magalhães", "circunavegação", "século XVI", "expedições", "navegação"]
+  },
+  {
+    "pergunta": "Por que os vikings são considerados exploradores?",
+    "resposta": "Porque entre os séculos VIII e XI eles navegaram do norte da Europa até a América do Norte, séculos antes de Colombo. Sabia que Leif Erikson foi o primeiro europeu a chegar ao continente americano?",
+    "palavras_chave": ["vikings", "Leif Erikson", "América do Norte", "século XI", "exploração"]
+  },
+  {
+    "pergunta": "Quem foi Cristóvão Colombo e o que ele descobriu?",
+    "resposta": "Colombo era um navegador genovês que, em 1492, chegou à América acreditando ter alcançado a Ásia. Sabia que ele fez quatro viagens ao continente sem saber que era um 'novo mundo'?",
+    "palavras_chave": ["Cristóvão Colombo", "América", "1492", "Espanha", "descobrimento"]
+  },
+  {
+    "pergunta": "O que foram as expedições bandeirantes no Brasil?",
+    "resposta": "Foram grupos de exploradores paulistas que, entre os séculos XVI e XVIII, adentraram o interior do Brasil em busca de ouro, pedras preciosas e indígenas para escravizar. Sabia que eles expandiram muito as fronteiras do país?",
+    "palavras_chave": ["bandeirantes", "interior do Brasil", "século XVII", "ouro", "expansão territorial"]
+  },
+  {
+    "pergunta": "Quem foi Américo Vespúcio e por que a América tem esse nome?",
+    "resposta": "Américo Vespúcio foi um navegador italiano que percebeu que as terras descobertas por Colombo não eram a Ásia, mas um novo continente. Por isso, o nome América é uma homenagem a ele.",
+    "palavras_chave": ["Américo Vespúcio", "novo continente", "século XVI", "descobrimentos", "América"]
+  },
+  {
+    "pergunta": "O que foram as expedições científicas do século XVIII?",
+    "resposta": "Foram viagens que uniam exploração e ciência, como as de James Cook, que mapeou o Pacífico e levou naturalistas a bordo. Sabia que foi numa dessas viagens que o cientista Joseph Banks catalogou centenas de espécies novas?",
+    "palavras_chave": ["expedições científicas", "James Cook", "século XVIII", "mapeamento", "ciência"]
+  },
+  {
+    "pergunta": "Como foi a exploração do interior da África no século XIX?",
+    "resposta": "Exploradores europeus como David Livingstone e Henry Stanley viajaram pelo interior da África em busca das nascentes do rio Nilo e de rotas comerciais. Sabia que essas expedições abriram caminho para o colonialismo europeu no continente?",
+    "palavras_chave": ["África", "Livingstone", "Stanley", "rio Nilo", "século XIX"]
+  },
+  {
+    "pergunta": "Quem foi Pedro Álvares Cabral?",
+    "resposta": "Cabral era um navegador português que, em 1500, chegou ao território que viria a ser o Brasil durante uma expedição para as Índias. Sabia que ele comandava 13 embarcações nessa viagem?",
+    "palavras_chave": ["Pedro Álvares Cabral", "Brasil", "1500", "Portugal", "descobrimento"]
+  },
+  {
+    "pergunta": "O que foi a exploração do Ártico e da Antártida?",
+    "resposta": "No século XIX e início do XX, vários exploradores tentaram alcançar os polos da Terra. Sabia que Roald Amundsen foi o primeiro a chegar ao Polo Sul, em 1911?",
+    "palavras_chave": ["Ártico", "Antártida", "Roald Amundsen", "século XX", "expedições polares"]
+  },
+  {
+    "pergunta": "Como começou a exploração espacial?",
+    "resposta": "Ela começou com a corrida espacial entre EUA e URSS durante a Guerra Fria. Sabia que o satélite Sputnik, lançado em 1957, foi o primeiro objeto humano a orbitar a Terra?",
+    "palavras_chave": ["exploração espacial", "Guerra Fria", "Sputnik", "URSS", "1957"]
+  },
+  {
+    "pergunta": "Quem foi Neil Armstrong?",
+    "resposta": "Foi o astronauta americano que, em 1969, se tornou o primeiro homem a pisar na Lua durante a missão Apollo 11. Sabia que sua frase 'um pequeno passo para o homem, um salto gigante para a humanidade' virou símbolo da exploração espacial?",
+    "palavras_chave": ["Neil Armstrong", "Apollo 11", "Lua", "1969", "exploração espacial"]
+  },
+  {
+    "pergunta": "O que foi o Tratado de Tordesilhas?",
+    "resposta": "Assinado em 1494 entre Portugal e Espanha, ele dividiu o mundo recém-descoberto entre os dois países. Sabia que essa linha imaginária passou a 370 léguas a oeste de Cabo Verde?",
+    "palavras_chave": ["Tratado de Tordesilhas", "1494", "Portugal", "Espanha", "divisão territorial"]
+  },
+  {
+    "pergunta": "Quem foi James Cook?",
+    "resposta": "Cook foi um navegador britânico que explorou o Pacífico, a Austrália e a Nova Zelândia no século XVIII. Sabia que ele também foi o primeiro europeu a mapear o Havaí?",
+    "palavras_chave": ["James Cook", "Pacífico", "Austrália", "Nova Zelândia", "século XVIII"]
+  },
+  {
+    "pergunta": "O que foi a Corrida do Ouro na Califórnia?",
+    "resposta": "Em 1848, a descoberta de ouro na Califórnia atraiu milhares de pessoas em busca de riqueza e mudou a economia dos Estados Unidos. Sabia que a população da região triplicou em poucos anos?",
+    "palavras_chave": ["Corrida do Ouro", "Califórnia", "1848", "EUA", "migração"]
+  },
+  {
+    "pergunta": "Como o Brasil participou da exploração da Amazônia?",
+    "resposta": "Desde o século XVII, missões portuguesas e cientistas mapearam rios e catalogaram espécies. Sabia que a Expedição de Alexandre Rodrigues Ferreira foi uma das maiores do século XVIII?",
+    "palavras_chave": ["Amazônia", "exploração científica", "Alexandre Rodrigues Ferreira", "século XVIII", "Brasil"]
+  },
+  {
+    "pergunta": "Quem foi Yuri Gagarin?",
+    "resposta": "Gagarin foi o primeiro ser humano a viajar para o espaço, em 1961, a bordo da nave Vostok 1, da União Soviética. Sabia que ele deu uma volta completa na Terra em apenas 108 minutos?",
+    "palavras_chave": ["Yuri Gagarin", "Vostok 1", "1961", "URSS", "exploração espacial"]
+  },
+  {
+    "pergunta": "O que foi a missão Apollo 11?",
+    "resposta": "Foi a missão da NASA que levou o homem à Lua em 1969, marcando um dos maiores feitos da história da exploração humana. Sabia que o módulo lunar se chamava Eagle?",
+    "palavras_chave": ["Apollo 11", "NASA", "Lua", "1969", "EUA"]
+  },
+  {
+    "pergunta": "Por que a exploração de Marte é importante hoje?",
+    "resposta": "Porque ajuda a entender a origem do sistema solar e a possibilidade de vida fora da Terra. Sabia que o robô Perseverance pousou em Marte em 2021 para buscar sinais de vida antiga?",
+    "palavras_chave": ["Marte", "Perseverance", "NASA", "vida extraterrestre", "exploração espacial"]
+  },
+  {
+    "pergunta": "O que motivava os povos antigos a explorar novas terras?",
+    "resposta": "A busca por recursos, terras férteis e rotas comerciais impulsionava os povos antigos a sair em viagens arriscadas. Egípcios, fenícios e gregos exploravam o Mediterrâneo muito antes das grandes navegações. Sabia que os fenícios chegaram até o Atlântico mais de mil anos antes de Cristo?",
+    "palavras_chave": ["povos antigos", "rotas comerciais", "Mediterrâneo", "fenícios", "exploração"]
+  },
+  {
+    "pergunta": "Por que a exploração do fundo do mar ainda é um desafio?",
+    "resposta": "Porque a pressão, a escuridão e a profundidade extrema dificultam o uso de equipamentos. Mesmo com tecnologias modernas, menos de 20% dos oceanos foi mapeado com precisão. Sabia que conhecemos mais sobre Marte do que sobre o fundo do mar?",
+    "palavras_chave": ["oceano", "profundidade", "tecnologia", "mapeamento", "exploração submarina"]
+  },
+  {
+    "pergunta": "O que foi a Rota da Seda e como ela influenciou a exploração?",
+    "resposta": "A Rota da Seda era uma rede de caminhos que ligava a Ásia à Europa, permitindo trocas comerciais e culturais por séculos. Sabia que ela inspirou muitos exploradores a buscar novas rotas marítimas para o Oriente?",
+    "palavras_chave": ["Rota da Seda", "Ásia", "Europa", "comércio", "exploração"]
+  },
+  {
+    "pergunta": "Quem foi Alexander von Humboldt e qual sua importância para a exploração científica?",
+    "resposta": "Humboldt foi um naturalista alemão que, no século XIX, explorou a América Latina e descreveu sua geografia, fauna e flora com detalhes inéditos. Sabia que ele inspirou cientistas como Darwin?",
+    "palavras_chave": ["Alexander von Humboldt", "América Latina", "século XIX", "ciência", "exploração científica"]
+  },
+  {
+    "pergunta": "Como a exploração do petróleo mudou o mundo?",
+    "resposta": "A busca e extração do petróleo transformaram a economia mundial e a geopolítica desde o século XX. Sabia que o primeiro poço comercial foi perfurado em 1859, nos Estados Unidos?",
+    "palavras_chave": ["petróleo", "século XX", "energia", "geopolítica", "exploração econômica"]
+  },
+  {
+    "pergunta": "Quem foi Charles Darwin e o que ele explorou?",
+    "resposta": "Darwin viajou pelo mundo a bordo do navio Beagle, observando espécies e paisagens que o ajudaram a formular a teoria da evolução. Sabia que ele passou cinco anos nessa viagem?",
+    "palavras_chave": ["Charles Darwin", "Beagle", "evolução", "século XIX", "exploração científica"]
+  },
+  {
+    "pergunta": "Por que as pirâmides atraem exploradores e arqueólogos até hoje?",
+    "resposta": "Porque guardam mistérios sobre o Egito Antigo, sua religião e técnicas de construção. Sabia que ainda há câmaras não exploradas dentro da Grande Pirâmide de Quéops?",
+    "palavras_chave": ["pirâmides", "Egito Antigo", "arqueologia", "mistérios", "exploração"]
+  },
+  {
+    "pergunta": "O que foi a exploração do Nilo pelos europeus?",
+    "resposta": "No século XIX, vários exploradores tentaram descobrir as nascentes do Nilo. Sabia que essa corrida científica também teve motivações políticas ligadas ao imperialismo europeu?",
+    "palavras_chave": ["rio Nilo", "África", "século XIX", "imperialismo", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração espacial mudou nossa visão do universo?",
+    "resposta": "Ela revelou que a Terra é apenas um pequeno planeta num vasto cosmos. Missões como Voyager e Hubble ampliaram nosso conhecimento sobre galáxias e planetas distantes.",
+    "palavras_chave": ["exploração espacial", "Voyager", "Hubble", "universo", "descobertas"]
+  },
+  {
+    "pergunta": "O que foram as expedições de Zheng He na China?",
+    "resposta": "Zheng He comandou frotas imensas no século XV, explorando o Oceano Índico e chegando até a África. Sabia que seus navios eram maiores que os de Colombo?",
+    "palavras_chave": ["Zheng He", "China", "século XV", "Oceano Índico", "exploração marítima"]
+  },
+  {
+    "pergunta": "Por que a exploração de cavernas é importante?",
+    "resposta": "Porque revela registros geológicos e biológicos únicos, ajudando a entender o passado da Terra. Sabia que já foram descobertas espécies que só existem em cavernas?",
+    "palavras_chave": ["espeleologia", "cavernas", "geologia", "biodiversidade", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração do espaço profundo é feita hoje?",
+    "resposta": "Com sondas automáticas que viajam por décadas, como a Voyager e a New Horizons. Sabia que algumas delas já saíram do sistema solar?",
+    "palavras_chave": ["espaço profundo", "sondas", "Voyager", "New Horizons", "exploração espacial"]
+  },
+  {
+    "pergunta": "O que é exploração sustentável?",
+    "resposta": "É o uso consciente de recursos naturais sem destruir o ambiente. Sabia que hoje há expedições científicas voltadas apenas para restaurar ecossistemas degradados?",
+    "palavras_chave": ["sustentabilidade", "recursos naturais", "meio ambiente", "ciência", "exploração"]
+  },
+  {
+    "pergunta": "Por que a exploração da Amazônia é tão polêmica?",
+    "resposta": "Porque envolve interesses econômicos, científicos e ambientais. Sabia que há áreas da floresta que ainda não foram completamente mapeadas?",
+    "palavras_chave": ["Amazônia", "meio ambiente", "biodiversidade", "mapeamento", "exploração"]
+  },
+  {
+    "pergunta": "Como a tecnologia mudou a forma de explorar o planeta?",
+    "resposta": "Satélites, drones e inteligência artificial permitem mapear florestas, oceanos e até ruínas antigas sem sair do lugar. Sabia que já se descobriu uma cidade maia assim?",
+    "palavras_chave": ["tecnologia", "drones", "satélites", "arqueologia", "exploração moderna"]
+  },
+  {
+    "pergunta": "O que foi a exploração da Lua após as missões Apollo?",
+    "resposta": "Depois da Apollo 17, missões não tripuladas continuaram a estudar o solo lunar e planejar futuras bases. Sabia que a NASA quer voltar à Lua até o final desta década?",
+    "palavras_chave": ["Lua", "Apollo 17", "NASA", "missões espaciais", "exploração lunar"]
+  },
+  {
+    "pergunta": "Por que a exploração de minas é considerada perigosa?",
+    "resposta": "Porque envolve riscos de desabamentos, gases tóxicos e acidentes ambientais. Sabia que, no século XIX, muitas minas funcionavam sem nenhuma medida de segurança?",
+    "palavras_chave": ["mineração", "trabalho", "segurança", "século XIX", "exploração"]
+  },
+  {
+    "pergunta": "Quem foi Roald Amundsen e por que ele é um ícone da exploração polar?",
+    "resposta": "Amundsen foi o primeiro a chegar ao Polo Sul, em 1911, e também o primeiro a sobrevoar o Polo Norte. Sabia que ele desapareceu em uma missão de resgate no Ártico?",
+    "palavras_chave": ["Roald Amundsen", "Polo Sul", "Polo Norte", "expedições polares", "exploração"]
+  },
+  {
+    "pergunta": "O que a arqueologia submarina explora?",
+    "resposta": "Ela estuda ruínas e embarcações afundadas para entender o passado humano. Sabia que há cidades inteiras submersas no Mediterrâneo?",
+    "palavras_chave": ["arqueologia submarina", "navios afundados", "civilizações", "Mediterrâneo", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração tecnológica se conecta à curiosidade humana?",
+    "resposta": "Toda invenção e descoberta vêm do desejo de entender e ultrapassar limites. Sabia que o termo 'explorar' vem do latim explorare, que significa 'investigar com atenção'?",
+    "palavras_chave": ["curiosidade", "tecnologia", "descoberta", "história", "exploração"]
+  },
+  {
+    "pergunta": "O que foi a escravidão no Brasil colonial?",
+    "resposta": "Milhões de africanos foram trazidos à força para trabalhar em plantações e engenhos, sustentando a economia colonial. Sabia que o Brasil foi o último país das Américas a abolir a escravidão, em 1888?",
+    "palavras_chave": ["escravidão", "Brasil colonial", "africanos", "trabalho forçado", "economia"]
+  },
+  {
+    "pergunta": "Como funcionava o sistema de encomiendas na América espanhola?",
+    "resposta": "Era um sistema em que colonos espanhóis recebiam terras e indígenas para trabalhar, explorando sua mão de obra. Sabia que muitas vezes isso levava à morte de comunidades inteiras por excesso de trabalho e doenças?",
+    "palavras_chave": ["encomienda", "América espanhola", "trabalho indígena", "colonização", "exploração"]
+  },
+  {
+    "pergunta": "O que foram as plantações de açúcar no Caribe?",
+    "resposta": "Erguendo-se entre os séculos XVI e XVIII, usavam trabalho escravo africano para produzir açúcar exportado à Europa. Sabia que algumas dessas plantações eram tão lucrativas que davam nome a ilhas inteiras?",
+    "palavras_chave": ["plantações", "açúcar", "Caribe", "escravidão", "exploração econômica"]
+  },
+  {
+    "pergunta": "Como os colonizadores exploravam recursos naturais na América?",
+    "resposta": "Extraíam ouro, prata, pau-brasil e outros produtos, muitas vezes destruindo o meio ambiente e o modo de vida indígena. Sabia que os colonizadores introduziram novas técnicas de mineração que ainda influenciam o Brasil?",
+    "palavras_chave": ["recursos naturais", "América", "mineração", "colonização", "exploração"]
+  },
+  {
+    "pergunta": "O que foi a exploração do trabalho infantil na Revolução Industrial?",
+    "resposta": "No século XIX, crianças trabalhavam longas horas em fábricas, muitas vezes em condições perigosas. Sabia que na Inglaterra, leis só começaram a limitar o trabalho infantil na década de 1830?",
+    "palavras_chave": ["trabalho infantil", "Revolução Industrial", "fábricas", "século XIX", "exploração"]
+  },
+  {
+    "pergunta": "O que foram os latifúndios e como exploravam trabalhadores?",
+    "resposta": "Grandes propriedades rurais concentravam terra e mão de obra barata, muitas vezes sem direitos. Sabia que a estrutura de latifúndios ainda influencia a desigualdade em países como o Brasil?",
+    "palavras_chave": ["latifúndios", "terra", "trabalhadores", "desigualdade", "exploração agrícola"]
+  },
+  {
+    "pergunta": "Como o trabalho nas minas de ouro era exploratório?",
+    "resposta": "Durante o ciclo do ouro no Brasil, trabalhadores eram submetidos a jornadas extenuantes e condições perigosas. Sabia que os impostos da Coroa, como o 'quinto', aumentavam a pressão sobre eles?",
+    "palavras_chave": ["mineração", "ouro", "trabalho forçado", "Brasil colonial", "exploração"]
+  },
+  {
+    "pergunta": "O que foi o tráfico negreiro?",
+    "resposta": "Comércio forçado de africanos para trabalhar em colônias americanas, sustentando economias inteiras. Sabia que milhões morreram durante a travessia do Atlântico, chamada de 'Passagem do Meio'?",
+    "palavras_chave": ["tráfico negreiro", "africanos", "Atlântico", "escravidão", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração de trabalhadores imigrantes ocorreu no século XIX?",
+    "resposta": "Muitos europeus foram contratados em condições precárias para trabalhar em indústrias e agricultura nas Américas. Sabia que esses contratos eram chamados de 'indentured labor' e muitas vezes se aproximavam de escravidão?",
+    "palavras_chave": ["trabalhadores imigrantes", "século XIX", "indústria", "agricultura", "exploração"]
+  },
+  {
+    "pergunta": "O que foi o trabalho forçado em canaviais e engenhos?",
+    "resposta": "Durante séculos, trabalhadores indígenas e africanos eram obrigados a cultivar cana-de-açúcar sem liberdade ou remuneração justa. Sabia que engenhos do Nordeste brasileiro exportavam açúcar para toda a Europa?",
+    "palavras_chave": ["trabalho forçado", "engenhos", "cana-de-açúcar", "escravidão", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração colonial afetou populações indígenas?",
+    "resposta": "Destruição cultural, morte por doenças e escravidão foram comuns, enquanto terras eram apropriadas. Sabia que algumas línguas indígenas já desapareceram totalmente por causa disso?",
+    "palavras_chave": ["indígenas", "colonização", "escravidão", "doenças", "exploração"]
+  },
+  {
+    "pergunta": "O que foi a exploração econômica do café no Brasil?",
+    "resposta": "Nos séculos XIX e XX, plantações de café usavam trabalho escravo e imigrante para exportação em larga escala. Sabia que o ciclo do café ajudou a financiar a infraestrutura do país, como ferrovias?",
+    "palavras_chave": ["café", "Brasil", "trabalho", "exportação", "exploração econômica"]
+  },
+  {
+    "pergunta": "Como a exploração de recursos naturais ainda ocorre hoje?",
+    "resposta": "Extração de minerais, petróleo e madeira muitas vezes prejudica comunidades locais e o meio ambiente. Sabia que a mineração ilegal em florestas tropicais destrói hectares por dia?",
+    "palavras_chave": ["recursos naturais", "mineração", "petróleo", "meio ambiente", "exploração moderna"]
+  },
+  {
+    "pergunta": "O que foi o sistema de servidão na Idade Média?",
+    "resposta": "Camponeses eram obrigados a trabalhar nas terras de senhores feudais, com pouca liberdade e pagamento simbólico. Sabia que a servidão foi o principal sistema de exploração do campo europeu por séculos?",
+    "palavras_chave": ["servidão", "Idade Média", "camponeses", "feudos", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração humana ocorreu nas plantações de algodão nos EUA?",
+    "resposta": "Milhões de escravizados africanos trabalharam em condições extremas, principalmente no Sul, até a Guerra Civil. Sabia que o algodão era chamado de 'rei' por sua importância econômica?",
+    "palavras_chave": ["algodão", "EUA", "escravidão", "plantações", "exploração"]
+  },
+  {
+    "pergunta": "O que foi a exploração de crianças nas fábricas de carvão?",
+    "resposta": "Durante a Revolução Industrial, crianças eram obrigadas a trabalhar em minas de carvão, enfrentando riscos graves. Sabia que muitas crianças morriam ou ficavam com sequelas permanentes?",
+    "palavras_chave": ["trabalho infantil", "carvão", "fábricas", "século XIX", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração social se manifesta hoje?",
+    "resposta": "Em muitas regiões, trabalhadores recebem salários baixos e têm condições precárias, mesmo com leis trabalhistas. Sabia que o trabalho informal atinge milhões de pessoas no mundo todo?",
+    "palavras_chave": ["trabalho", "salários baixos", "condições precárias", "informalidade", "exploração social"]
+  },
+  {
+    "pergunta": "O que foi a exploração de mão de obra indígena em minas de prata?",
+    "resposta": "Na América colonial espanhola, indígenas eram obrigados a trabalhar em minas de Potosí e outras, sob condições exaustivas. Sabia que milhares morreram por esforço físico e intoxicação?",
+    "palavras_chave": ["mão de obra indígena", "minas", "América colonial", "trabalho forçado", "exploração"]
+  },
+  {
+    "pergunta": "Como o colonialismo europeu explorava territórios africanos?",
+    "resposta": "Extraíam recursos, impunham tributos e exploravam a população local. Sabia que a Conferência de Berlim (1884-85) dividiu o continente sem consultar os povos africanos?",
+    "palavras_chave": ["colonialismo", "África", "recursos", "população", "exploração"]
+  },
+  {
+    "pergunta": "O que foi a exploração de trabalhadores em plantações de chá na Ásia?",
+    "resposta": "Trabalhadores locais eram submetidos a longas jornadas e baixos salários para abastecer mercados europeus. Sabia que o chá indiano era um símbolo do poder britânico na Ásia?",
+    "palavras_chave": ["chá", "Ásia", "trabalho forçado", "mercado europeu", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração de trabalhadores ocorre na indústria de tecnologia hoje?",
+    "resposta": "Muitas fábricas de eletrônicos, especialmente na Ásia, empregam trabalhadores em condições precárias, com jornadas longas e salários baixos, enquanto os produtos são vendidos globalmente a preços altos. Sabia que marcas famosas de smartphones e laptops foram pressionadas por ONGs a melhorar as condições de trabalho? Isso mostra como a economia global ainda depende de desigualdades laborais.",
+    "palavras_chave": ["trabalho", "indústria tecnológica", "exploração", "condições precárias", "economia global"]
+  },
+  {
+    "pergunta": "O que é exploração de recursos naturais em larga escala?",
+    "resposta": "Empresas extraem petróleo, minério, madeira e água de forma intensiva, muitas vezes degradando o meio ambiente e deslocando comunidades locais. Sabia que a mineração ilegal na Amazônia já destruiu milhares de hectares de floresta em poucos anos? Essa prática evidencia a tensão entre desenvolvimento econômico e sustentabilidade.",
+    "palavras_chave": ["recursos naturais", "mineração", "petróleo", "desmatamento", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração de trabalhadores acontece na indústria da moda?",
+    "resposta": "Marcas internacionais produzem roupas em fábricas de países em desenvolvimento, pagando salários baixos e oferecendo condições perigosas. Sabia que acidentes como o desabamento do Rana Plaza, em 2013, mostraram ao mundo os riscos desse tipo de exploração? Essa realidade evidencia a desigualdade global na produção de bens de consumo.",
+    "palavras_chave": ["moda", "trabalho", "exploração", "fábricas", "condições precárias"]
+  },
+  {
+    "pergunta": "O que é exploração econômica em países em desenvolvimento?",
+    "resposta": "Muitas multinacionais se beneficiam de recursos e mão de obra barata em países pobres, enquanto grande parte da riqueza não fica localmente. Sabia que algumas empresas de mineração na África lucram bilhões e geram poucos empregos locais? Isso reflete o desequilíbrio de poder na economia global.",
+    "palavras_chave": ["economia", "multinacionais", "exploração", "países pobres", "desigualdade"]
+  },
+  {
+    "pergunta": "Como a exploração de crianças ainda acontece hoje?",
+    "resposta": "Crianças trabalham em fazendas, fábricas e mineração, muitas vezes sem acesso à educação, principalmente em países pobres. Sabia que estima-se que mais de 150 milhões de crianças trabalham no mundo atualmente? Essa exploração compromete o desenvolvimento e direitos fundamentais das crianças.",
+    "palavras_chave": ["trabalho infantil", "exploração", "crianças", "educação", "direitos humanos"]
+  },
+  {
+    "pergunta": "O que é exploração laboral informal?",
+    "resposta": "Muitas pessoas trabalham sem carteira assinada, com jornadas longas e sem benefícios legais. Sabia que no Brasil mais de 40% da população ocupada está no trabalho informal? Isso mostra como a exploração moderna pode ser legalmente invisível, mas socialmente prejudicial.",
+    "palavras_chave": ["trabalho informal", "exploração", "salários baixos", "direitos", "economia"]
+  },
+  {
+    "pergunta": "Como a exploração ocorre em plantações de soja e café?",
+    "resposta": "Trabalhadores rurais enfrentam jornadas exaustivas e baixos salários, enquanto grandes empresas lucram com exportação. Sabia que o Brasil é um dos maiores produtores mundiais de soja e café, mas ainda há denúncias de trabalho análogo à escravidão nessas áreas? Isso mostra que exploração e lucro caminham juntos na agroindústria.",
+    "palavras_chave": ["agroindústria", "soja", "café", "trabalho rural", "exploração"]
+  },
+  {
+    "pergunta": "O que é exploração de comunidades locais por mineração?",
+    "resposta": "Empresas extraem minerais de terras indígenas ou rurais, oferecendo pouco retorno econômico e degradando o ambiente. Sabia que o garimpo ilegal em terras indígenas já afetou rios e aldeias no Brasil? Esse tipo de exploração cria conflitos sociais e ambientais graves.",
+    "palavras_chave": ["mineração", "comunidades locais", "recursos", "impacto ambiental", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração se manifesta na indústria de alimentos?",
+    "resposta": "Trabalhadores em frigoríficos e fábricas de alimentos muitas vezes recebem salários baixos, jornadas extenuantes e pouca proteção. Sabia que denúncias de exploração nesse setor cresceram durante a pandemia de COVID-19? Isso mostra a vulnerabilidade de trabalhadores essenciais.",
+    "palavras_chave": ["alimentação", "trabalho", "frigoríficos", "exploração", "salários baixos"]
+  },
+  {
+    "pergunta": "O que é exploração ambiental em grandes projetos de infraestrutura?",
+    "resposta": "Construção de barragens, estradas e portos frequentemente desloca comunidades e destrói ecossistemas. Sabia que a barragem de Belo Monte gerou protestos de povos indígenas e ambientalistas? A exploração ambiental evidencia conflitos entre desenvolvimento e preservação.",
+    "palavras_chave": ["infraestrutura", "barragens", "deslocamento", "meio ambiente", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração de trabalhadores ocorre na indústria de petróleo?",
+    "resposta": "Funcionários em plataformas e refinarias enfrentam longas jornadas e riscos graves, enquanto grandes corporações lucram. Sabia que acidentes como o vazamento da plataforma Deepwater Horizon em 2010 destacaram riscos humanos e ambientais? Isso evidencia como exploração e lucro podem gerar consequências globais.",
+    "palavras_chave": ["petróleo", "trabalhadores", "exploração", "plataformas", "segurança"]
+  },
+  {
+    "pergunta": "O que é exploração em zonas de conflito?",
+    "resposta": "Empresas e grupos armados exploram trabalhadores e recursos naturais em áreas instáveis, muitas vezes violando direitos humanos. Sabia que diamantes de conflitos em países africanos são conhecidos como 'diamantes de sangue'? Esse tipo de exploração mostra a interseção entre violência e economia.",
+    "palavras_chave": ["conflitos", "recursos naturais", "trabalhadores", "direitos humanos", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração econômica afeta mulheres?",
+    "resposta": "Mulheres muitas vezes recebem salários menores, têm dupla jornada e são subrepresentadas em cargos de liderança. Sabia que no mundo, mulheres ganham em média 20% menos que homens pelo mesmo trabalho? Essa desigualdade mostra como exploração não é apenas econômica, mas também social.",
+    "palavras_chave": ["mulheres", "trabalho", "desigualdade", "salários", "exploração"]
+  },
+  {
+    "pergunta": "O que é exploração em trabalhos domésticos?",
+    "resposta": "Trabalhadores domésticos podem sofrer longas jornadas, baixos salários e falta de direitos. Sabia que no Brasil, só em 2013 a PEC do Trabalho Doméstico garantiu direitos como FGTS e férias? Isso mostra que a exploração pode existir até em empregos aparentemente comuns.",
+    "palavras_chave": ["trabalho doméstico", "exploração", "direitos", "jornadas longas", "salários baixos"]
+  },
+  {
+    "pergunta": "Como a exploração acontece na indústria de mineração de ouro moderna?",
+    "resposta": "Garimpeiros trabalham em condições perigosas e ilegais, com impactos ambientais graves, enquanto empresas lucram com a exportação. Sabia que mercúrio usado na extração contamina rios e afeta comunidades ribeirinhas? Isso mostra a continuidade da exploração em pleno século XXI.",
+    "palavras_chave": ["mineração", "ouro", "garimpo", "impacto ambiental", "exploração"]
+  },
+  {
+    "pergunta": "O que é exploração digital?",
+    "resposta": "Usuários e trabalhadores da internet podem ser explorados, seja vendendo dados pessoais sem consentimento ou recebendo salários baixos em plataformas digitais. Sabia que plataformas de delivery e transporte usam algoritmos que pressionam trabalhadores a jornadas exaustivas? A exploração digital é um novo tipo de desigualdade moderna.",
+    "palavras_chave": ["exploração digital", "internet", "trabalhadores", "algoritmos", "dados pessoais"]
+  },
+  {
+    "pergunta": "Como a exploração se manifesta em zonas rurais pobres?",
+    "resposta": "Pequenos agricultores podem ser pressionados por grandes empresas a venderem terras, usar trabalho barato e técnicas intensivas. Sabia que muitas vezes isso leva à degradação do solo e à pobreza persistente? A exploração rural é uma continuidade histórica da desigualdade social.",
+    "palavras_chave": ["rural", "agricultura", "trabalhadores", "desigualdade", "exploração"]
+  },
+  {
+    "pergunta": "O que é exploração em zonas urbanas informais?",
+    "resposta": "Trabalhadores de áreas urbanas informais, como feiras e construção, recebem baixos salários, trabalham sem direitos e enfrentam risco de despejo. Sabia que milhões de pessoas vivem nessas condições em grandes cidades do mundo, sem proteção social? Isso evidencia a exploração contemporânea urbana.",
+    "palavras_chave": ["urbanas", "informalidade", "trabalho", "direitos", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração global de commodities afeta países pobres?",
+    "resposta": "Países ricos compram recursos baratos, enquanto nações exportadoras recebem pouco e sofrem impactos ambientais. Sabia que o comércio de café, cacau e soja frequentemente mantém desigualdades entre Norte e Sul global? Isso mostra como exploração econômica se conecta a desequilíbrios históricos.",
+    "palavras_chave": ["commodities", "países pobres", "exportação", "economia global", "exploração"]
+  },
+  {
+    "pergunta": "O que é exploração de trabalhadores em plataformas de streaming e produção de conteúdo?",
+    "resposta": "Criadores de conteúdo muitas vezes recebem pouca remuneração enquanto grandes empresas lucram com visualizações e publicidade. Sabia que contratos de exclusividade podem limitar ganhos e liberdade de produção? Essa exploração evidencia a desigualdade também na economia digital.",
+    "palavras_chave": ["streaming", "conteúdo digital", "trabalhadores", "exploração", "economia digital"]
+  },
+  {
+    "pergunta": "O que é exploração ambiental na Amazônia?",
+    "resposta": "O desmatamento para agricultura, mineração e pecuária retira árvores e destrói ecossistemas, afetando fauna, clima e comunidades locais. Sabia que a Amazônia é responsável por cerca de 20% do oxigênio da Terra? Essa exploração mostra como o lucro imediato pode prejudicar o equilíbrio global.",
+    "palavras_chave": ["Amazônia", "desmatamento", "exploração ambiental", "ecossistemas", "comunidades locais"]
+  },
+  {
+    "pergunta": "Como a extração de petróleo afeta o meio ambiente?",
+    "resposta": "Plataformas de petróleo e derramamentos contaminam rios, mares e solos, além de contribuir para mudanças climáticas. Sabia que o vazamento do Exxon Valdez, em 1989, atingiu milhares de quilômetros de costa nos EUA? Isso evidencia os riscos da exploração energética irresponsável.",
+    "palavras_chave": ["petróleo", "derramamento", "meio ambiente", "exploração", "mudanças climáticas"]
+  },
+  {
+    "pergunta": "O que é exploração de água subterrânea?",
+    "resposta": "A retirada excessiva de aquíferos para agricultura, indústria e cidades pode causar escassez e afundamento de terrenos. Sabia que o Aquífero Guarani, um dos maiores do mundo, está sendo pressionado pelo uso intensivo na América do Sul? A exploração da água demonstra o conflito entre necessidade e sustentabilidade.",
+    "palavras_chave": ["água", "aquíferos", "exploração", "escassez", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como a mineração de ouro afeta comunidades locais?",
+    "resposta": "O garimpo ilegal contamina rios com mercúrio, prejudica a saúde e desloca populações. Sabia que aldeias ribeirinhas da Amazônia sofrem com doenças causadas por essa contaminação? A exploração mineral mostra o custo humano da busca por lucro.",
+    "palavras_chave": ["mineração", "ouro", "mercúrio", "comunidades locais", "exploração"]
+  },
+  {
+    "pergunta": "O que é exploração de recursos em zonas de conflito?",
+    "resposta": "Grupos armados e empresas controlam petróleo, diamantes e minerais em países em guerra, lucrando enquanto a população sofre. Sabia que na República Democrática do Congo, minerais de conflito financiam armamentos? Isso mostra como exploração e violência podem andar juntas.",
+    "palavras_chave": ["conflito", "recursos naturais", "diamantes", "petróleo", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração da pesca afeta oceanos?",
+    "resposta": "Pesca industrial em excesso reduz populações de peixes, destrói habitats marinhos e prejudica pescadores tradicionais. Sabia que cerca de 90% dos estoques de peixes do mundo estão totalmente ou excessivamente explorados? Essa exploração evidencia o impacto humano nos oceanos.",
+    "palavras_chave": ["pesca", "oceanos", "sobrepesca", "exploração", "habitats marinhos"]
+  },
+  {
+    "pergunta": "O que é exploração de carvão mineral?",
+    "resposta": "A extração de carvão causa desmatamento, poluição do ar e acidentes com trabalhadores. Sabia que a mineração de carvão é responsável por grande parte das emissões de CO2 no mundo? A exploração desse recurso mostra a relação entre energia, lucro e impactos ambientais.",
+    "palavras_chave": ["carvão", "mineração", "poluição", "trabalhadores", "exploração"]
+  },
+  {
+    "pergunta": "Como a exploração de terras agrícolas afeta ecossistemas?",
+    "resposta": "A expansão de monoculturas como soja e cana-de-açúcar substitui florestas e savanas, reduzindo biodiversidade. Sabia que a perda de espécies pode comprometer serviços ambientais, como polinização e controle de pragas? Isso mostra que a exploração agrícola tem efeitos a longo prazo.",
+    "palavras_chave": ["agricultura", "monocultura", "biodiversidade", "exploração", "ecossistemas"]
+  },
+  {
+    "pergunta": "O que é exploração de petróleo em águas profundas?",
+    "resposta": "Plataformas em alto-mar extraem petróleo com riscos de acidentes graves e impactos ecológicos. Sabia que o vazamento da plataforma Deepwater Horizon liberou milhões de barris de petróleo no Golfo do México em 2010? A exploração profunda é lucrativa, mas ambientalmente perigosa.",
+    "palavras_chave": ["petróleo", "plataforma", "alto-mar", "exploração", "meio ambiente"]
+  },
+  {
+    "pergunta": "Como a exploração de minerais raros influencia a tecnologia?",
+    "resposta": "Minerais como lítio e cobalto são essenciais para eletrônicos e carros elétricos, mas a extração pode explorar trabalhadores e degradar o ambiente. Sabia que o cobalto do Congo é extraído muitas vezes por crianças? A exploração desses minerais evidencia dilemas éticos na tecnologia moderna.",
+    "palavras_chave": ["minerais raros", "lítio", "cobalto", "exploração", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é exploração de florestas tropicais?",
+    "resposta": "Corte de madeira ilegal e agricultura predatória reduzem áreas verdes, ameaçando espécies e comunidades tradicionais. Sabia que a cada minuto, cerca de 40 campos de futebol de floresta tropical são desmatados no mundo? A exploração florestal compromete ecossistemas inteiros.",
+    "palavras_chave": ["florestas tropicais", "desmatamento", "exploração", "espécies", "comunidades"]
+  },
+  {
+    "pergunta": "Como a exploração de energia renovável pode ter impactos sociais?",
+    "resposta": "Projetos de hidrelétricas ou usinas solares podem deslocar comunidades e modificar ecossistemas locais. Sabia que a construção de grandes barragens no Brasil gerou protestos de povos indígenas? Mesmo renováveis, essas explorações precisam de planejamento social e ambiental.",
+    "palavras_chave": ["energia renovável", "hidrelétricas", "impactos sociais", "exploração", "comunidades"]
+  },
+  {
+    "pergunta": "O que é exploração de recursos hídricos em cidades?",
+    "resposta": "Extração excessiva de água de rios e lençóis freáticos para abastecimento urbano pode causar escassez e prejudicar ecossistemas. Sabia que em algumas cidades brasileiras, rios já secaram devido à superexploração? Isso evidencia a necessidade de gestão sustentável da água.",
+    "palavras_chave": ["água", "recursos hídricos", "exploração", "cidades", "escassez"]
+  },
+  {
+    "pergunta": "Como a exploração de petróleo em regiões árticas é problemática?",
+    "resposta": "A extração em áreas geladas ameaça ecossistemas frágeis e contribui para mudanças climáticas. Sabia que o derretimento do gelo no Ártico facilita novas explorações, mas aumenta riscos de acidentes? A exploração nessas regiões exige cuidado extremo.",
+    "palavras_chave": ["petróleo", "Ártico", "exploração", "ecossistemas", "mudanças climáticas"]
+  },
+  {
+    "pergunta": "O que é exploração de trabalhadores em mineração de coltan?",
+    "resposta": "O coltan, usado em celulares e computadores, é extraído em condições perigosas, muitas vezes com trabalho infantil. Sabia que o Congo fornece mais de 60% do coltan mundial? A exploração desse mineral mostra a ligação entre tecnologia e injustiça social.",
+    "palavras_chave": ["coltan", "mineração", "trabalho infantil", "exploração", "tecnologia"]
+  },
+  {
+    "pergunta": "Como a exploração de solos agrícolas prejudica o ambiente?",
+    "resposta": "Uso excessivo de fertilizantes e monoculturas reduz a fertilidade, contamina rios e diminui biodiversidade. Sabia que áreas de produção intensiva podem levar décadas para se recuperar? A exploração do solo exige práticas sustentáveis para durar no tempo.",
+    "palavras_chave": ["solo", "agricultura", "fertilizantes", "exploração", "meio ambiente"]
+  },
+  {
+    "pergunta": "O que é exploração de recursos marinhos por aquicultura?",
+    "resposta": "Cultivo intensivo de peixes e camarões pode poluir água e afetar ecossistemas locais. Sabia que a aquicultura cresce mais rápido que a pesca tradicional, mas nem sempre de forma sustentável? A exploração marinha precisa equilibrar produção e preservação.",
+    "palavras_chave": ["aquicultura", "peixes", "recursos marinhos", "exploração", "poluição"]
+  },
+  {
+    "pergunta": "Como a exploração de terras indígenas ocorre?",
+    "resposta": "Empresas extraem madeira, minérios e água sem consentimento, prejudicando culturas locais. Sabia que muitas tribos protestam e usam ações judiciais para proteger seus territórios? A exploração de terras indígenas é um conflito contínuo entre lucro e direitos humanos.",
+    "palavras_chave": ["terras indígenas", "mineração", "madeira", "exploração", "direitos humanos"]
+  },
+  {
+    "pergunta": "O que é exploração de petróleo em plataformas offshore?",
+    "resposta": "Extração no mar envolve risco de derramamentos, acidentes e impacto em biodiversidade marinha. Sabia que a exploração offshore representa grande parte da produção mundial de petróleo, mas gera grandes desafios ambientais? A exploração marítima exige tecnologia e fiscalização rigorosa.",
+    "palavras_chave": ["petróleo", "plataforma offshore", "exploração", "biodiversidade", "meio ambiente"]
+  },
+  {
+    "pergunta": "Como a exploração de minerais para baterias afeta comunidades locais?",
+    "resposta": "Extração de lítio e cobalto pode contaminar solos e rios, além de explorar trabalhadores. Sabia que a demanda por carros elétricos aumenta a pressão sobre essas regiões? A exploração mineral moderna mostra o dilema entre tecnologia limpa e impacto social.",
+    "palavras_chave": ["lítio", "cobalto", "baterias", "exploração", "comunidades locais"]
+  },
+  {
+    "pergunta": "O que foi a exploração do ouro na Idade Moderna?",
+    "resposta": "Na Idade Moderna, europeus exploraram minas de ouro na América e África, enriquecendo impérios e explorando povos locais. Sabia que a busca pelo ouro motivou expedições perigosas e a colonização de territórios distantes? A exploração desse recurso moldou economias e relações sociais da época.",
+    "palavras_chave": ["ouro", "Idade Moderna", "exploração", "colonização", "economia"]
+  },
+  {
+    "pergunta": "Como a exploração do sal era importante na Antiguidade?",
+    "resposta": "O sal era essencial para conservar alimentos e manter a saúde, tornando-se valioso em comércio e impostos. Sabia que estradas chamadas 'vias salaria' existiam para transportar sal na Roma Antiga? A exploração desse recurso estratégico influenciou cidades e guerras.",
+    "palavras_chave": ["sal", "Antiguidade", "comércio", "exploração", "Roma"]
+  },
+  {
+    "pergunta": "O que foi a exploração colonial na África?",
+    "resposta": "Entre os séculos XIX e XX, potências europeias invadiram a África em busca de matérias-primas e território. Sabia que a Conferência de Berlim (1884-85) dividiu o continente entre países europeus sem consultar os povos locais? A exploração colonial gerou desigualdade e conflitos até hoje.",
+    "palavras_chave": ["África", "colonização", "exploração", "século XIX", "matérias-primas"]
+  },
+  {
+    "pergunta": "Como a exploração do petróleo mudou o Oriente Médio?",
+    "resposta": "A descoberta de petróleo no século XX transformou países como Arábia Saudita e Iraque em potências econômicas, mas também gerou conflitos. Sabia que o petróleo se tornou decisivo em guerras e na geopolítica mundial? A exploração energética tem consequências políticas e sociais profundas.",
+    "palavras_chave": ["petróleo", "Oriente Médio", "exploração", "século XX", "geopolítica"]
+  },
+  {
+    "pergunta": "O que foi a exploração das Américas pelos europeus?",
+    "resposta": "Portugal, Espanha e depois outras nações exploraram terras, povos e riquezas das Américas. Sabia que metais preciosos e produtos agrícolas foram levados para a Europa, financiando impérios? A exploração gerou enormes transformações sociais e culturais.",
+    "palavras_chave": ["Américas", "exploração", "colonização", "Portugal", "Espanha"]
+  },
+  {
+    "pergunta": "Como a exploração do comércio de escravos impactou sociedades?",
+    "resposta": "Milhões de africanos foram forçados a trabalhar nas Américas, enriquecendo potências coloniais e devastando comunidades na África. Sabia que o tráfico negreiro durou mais de 300 anos? Essa exploração humana deixou marcas duradouras na economia e na cultura.",
+    "palavras_chave": ["tráfico de escravos", "África", "Américas", "exploração", "colonização"]
+  },
+  {
+    "pergunta": "O que foi a exploração do ouro e diamantes no Brasil?",
+    "resposta": "Entre os séculos XVII e XVIII, minas em Minas Gerais e Goiás atraíram aventureiros e escravos, fortalecendo a economia colonial. Sabia que Vila Rica, hoje Ouro Preto, ficou famosa por suas riquezas? A exploração mineral moldou cidades e estruturas sociais.",
+    "palavras_chave": ["Brasil", "ouro", "diamantes", "exploração", "Minas Gerais"]
+  },
+  {
+    "pergunta": "Como a exploração de petróleo no século XXI afeta a Amazônia?",
+    "resposta": "Novas áreas de exploração energética ameaçam florestas, rios e comunidades indígenas. Sabia que acordos internacionais tentam limitar esses impactos? A exploração moderna continua sendo um desafio entre desenvolvimento e preservação ambiental.",
+    "palavras_chave": ["petróleo", "Amazônia", "século XXI", "exploração", "meio ambiente"]
+  },
+  {
+    "pergunta": "O que é exploração espacial?",
+    "resposta": "Missões da NASA, ESA e empresas privadas buscam recursos em asteroides e outros planetas, abrindo possibilidades para futuro da humanidade. Sabia que a Lua e Marte são os principais alvos de exploração científica e econômica? Essa exploração mistura ciência, tecnologia e economia.",
+    "palavras_chave": ["espaço", "exploração", "NASA", "Marte", "Lua"]
+  },
+  {
+    "pergunta": "Como a exploração de recursos marinhos modernos ocorre?",
+    "resposta": "A pesca industrial, extração de petróleo offshore e mineração submarina retiram recursos sem regeneração natural rápida. Sabia que o aumento da demanda por minerais de fundo marinho ameaça espécies desconhecidas? A exploração marítima atual desafia o equilíbrio ecológico.",
+    "palavras_chave": ["recursos marinhos", "exploração", "pesca industrial", "minerais", "meio ambiente"]
+  },
+  {
+    "pergunta": "O que foi a exploração da borracha na Amazônia?",
+    "resposta": "No final do século XIX e início do XX, seringueiros extraíam borracha para exportação, com grandes lucros para empresas e muito sofrimento para trabalhadores. Sabia que cidades como Manaus cresceram rapidamente por causa da borracha? A exploração econômica trouxe desigualdade e desenvolvimento desigual.",
+    "palavras_chave": ["borracha", "Amazônia", "século XIX", "exploração", "trabalhadores"]
+  },
+  {
+    "pergunta": "Como a exploração de urânio afeta o planeta?",
+    "resposta": "Extraído para energia nuclear, o urânio gera resíduos radioativos e riscos de acidentes. Sabia que o desastre de Chernobyl em 1986 foi resultado de falhas na exploração e uso da energia nuclear? A exploração desse recurso exige alto controle e responsabilidade.",
+    "palavras_chave": ["urânio", "energia nuclear", "exploração", "resíduos", "acidentes"]
+  },
+  {
+    "pergunta": "O que foi a exploração do pau-brasil?",
+    "resposta": "No início do Brasil Colônia, europeus retiravam madeira vermelha para tintas, beneficiando comerciantes e Coroa portuguesa. Sabia que o nome do país vem dessa árvore? A exploração inicial moldou a economia e as relações com povos indígenas.",
+    "palavras_chave": ["pau-brasil", "Brasil", "exploração", "colônia", "madeira"]
+  },
+  {
+    "pergunta": "Como a exploração de minerais estratégicos influencia a tecnologia?",
+    "resposta": "Metais como lítio, cobalto e terras raras são usados em eletrônicos, mas sua extração pode explorar trabalhadores e destruir ecossistemas. Sabia que a demanda por baterias de carros elétricos aumenta a pressão sobre essas regiões? A exploração mineral moderna mostra dilemas éticos e ambientais.",
+    "palavras_chave": ["minerais estratégicos", "exploração", "lítio", "cobalto", "tecnologia"]
+  },
+  {
+    "pergunta": "O que foi a exploração do açúcar no Brasil colonial?",
+    "resposta": "Do século XVI em diante, engenhos usavam mão de obra escrava africana para produção de açúcar exportado à Europa. Sabia que o açúcar foi o motor econômico do Nordeste por mais de 150 anos? A exploração econômica impactou sociedade, cultura e economia global.",
+    "palavras_chave": ["açúcar", "Brasil", "exploração", "escravidão", "colonial"]
+  },
+  {
+    "pergunta": "Como a exploração de florestas para madeira afeta o clima?",
+    "resposta": "Desmatamento para madeira reduz cobertura vegetal, aumenta emissão de carbono e muda ciclos hidrológicos. Sabia que a Amazônia ajuda a regular chuvas em toda a América do Sul? A exploração madeireira tem impacto direto no clima regional e global.",
+    "palavras_chave": ["madeira", "florestas", "desmatamento", "exploração", "clima"]
+  },
+  {
+    "pergunta": "O que é exploração de recursos minerais em zonas de conflito?",
+    "resposta": "Diamantes, ouro e coltan financiam guerras e milícias, prejudicando a população local. Sabia que na República Democrática do Congo, milhões dependem da extração dessas minas, mesmo em condições perigosas? A exploração nesses contextos tem forte impacto social e político.",
+    "palavras_chave": ["minerais", "conflito", "exploração", "Congo", "diamantes"]
+  },
+  {
+    "pergunta": "Como a exploração de petróleo na Venezuela afetou o país?",
+    "resposta": "Décadas de extração intensa geraram riqueza, mas má gestão e corrupção levaram a crises econômicas e ambientais. Sabia que a Venezuela possui uma das maiores reservas de petróleo do mundo? A exploração mostra que recursos abundantes não garantem desenvolvimento sustentável.",
+    "palavras_chave": ["petróleo", "Venezuela", "exploração", "crise econômica", "meio ambiente"]
+  },
+  {
+    "pergunta": "O que foi a exploração do cacau no Brasil?",
+    "resposta": "Principalmente na Bahia, no século XIX, o cacau movimentou economia colonial com trabalho escravo e exportação para Europa. Sabia que cidades cresceram em torno da produção de cacau? A exploração agrícola moldou paisagens, economia e relações sociais.",
+    "palavras_chave": ["cacau", "Brasil", "exploração", "Bahia", "colonial"]
+  },
+  {
+    "pergunta": "Como a exploração de terras para mineração afeta rios?",
+    "resposta": "Extração de minerais pode poluir rios com metais pesados e destruir habitats aquáticos. Sabia que a mineração de ouro na Amazônia contamina peixes com mercúrio, afetando saúde humana e fauna? A exploração mineral exige técnicas sustentáveis para proteger ecossistemas.",
+    "palavras_chave": ["mineração", "rios", "exploração", "mercúrio", "ecossistemas"]
+  }
+]

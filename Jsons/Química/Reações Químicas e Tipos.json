@@ -1,0 +1,882 @@
+[
+  {
+    "pergunta": "O que é uma reação química?",
+    "resposta": "Uma reação química é um processo em que substâncias se transformam em outras, por meio da reorganização dos átomos. Os reagentes formam novos produtos, com propriedades diferentes. Por exemplo, quando o ferro enferruja, ele reage com o oxigênio do ar, formando óxido de ferro. Sabia que praticamente tudo o que acontece ao nosso redor — desde digerir um alimento até acender uma vela — envolve reações químicas?",
+    "palavras_chave": ["reação", "átomos", "reagentes", "produtos", "transformação"]
+  },
+  {
+    "pergunta": "Como identificar que uma reação química ocorreu?",
+    "resposta": "Podemos perceber uma reação química por indícios como mudança de cor, liberação de gás, formação de precipitado ou variação de temperatura. Por exemplo, quando misturamos vinagre e bicarbonato de sódio, o gás liberado mostra que ocorreu uma reação. Sabia que nem toda mudança visível é química? Derreter gelo, por exemplo, é apenas uma mudança física.",
+    "palavras_chave": ["evidências", "mudança", "gás", "precipitado", "temperatura"]
+  },
+  {
+    "pergunta": "O que são reagentes e produtos em uma reação química?",
+    "resposta": "Reagentes são as substâncias que participam do início da reação, enquanto produtos são as que se formam ao final. Por exemplo, no processo de combustão do metano (CH₄ + 2O₂ → CO₂ + 2H₂O), o metano e o oxigênio são reagentes, e o dióxido de carbono e a água são produtos. É como se os átomos se reorganizassem para formar novas combinações.",
+    "palavras_chave": ["reagentes", "produtos", "combustão", "metano", "oxigênio"]
+  },
+  {
+    "pergunta": "O que caracteriza uma reação de síntese?",
+    "resposta": "Nas reações de síntese, duas ou mais substâncias se unem para formar um único produto. É como juntar peças de LEGO para construir algo novo. Um exemplo clássico é a formação da água: 2H₂ + O₂ → 2H₂O. Sabia que esse tipo de reação também é chamado de reação de combinação?",
+    "palavras_chave": ["síntese", "combinação", "água", "hidrogênio", "oxigênio"]
+  },
+  {
+    "pergunta": "O que é uma reação de decomposição?",
+    "resposta": "Numa reação de decomposição, uma substância se quebra em duas ou mais substâncias mais simples. Por exemplo, o peróxido de hidrogênio (H₂O₂) se decompõe em água e oxigênio, especialmente na presença de luz ou catalisadores. Sabia que essa reação é o que faz o peróxido 'borbulhar' quando usado para limpar ferimentos?",
+    "palavras_chave": ["decomposição", "peróxido", "oxigênio", "quebra", "catalisador"]
+  },
+  {
+    "pergunta": "Como funciona uma reação de simples troca?",
+    "resposta": "Na simples troca, um elemento mais reativo substitui outro em um composto. Por exemplo, quando o ferro reage com sulfato de cobre, o cobre é deslocado e o ferro forma sulfato ferroso. É como uma 'troca de parceiros' entre substâncias. Sabia que esse tipo de reação é comum em processos de galvanização?",
+    "palavras_chave": ["simples troca", "reatividade", "ferro", "cobre", "galvanização"]
+  },
+  {
+    "pergunta": "O que é uma reação de dupla troca?",
+    "resposta": "Na dupla troca, dois compostos trocam íons entre si, formando novos compostos. Um exemplo é a reação entre ácido clorídrico e hidróxido de sódio, que gera sal e água. É um tipo de reação muito comum em soluções aquosas. Sabia que esse processo está por trás da neutralização de ácidos e bases?",
+    "palavras_chave": ["dupla troca", "íons", "ácido", "base", "neutralização"]
+  },
+  {
+    "pergunta": "O que caracteriza uma reação de combustão?",
+    "resposta": "A combustão ocorre quando uma substância reage com oxigênio, liberando energia em forma de luz e calor. É o que acontece quando um combustível queima, como a gasolina nos motores. Sabia que, para a combustão acontecer, é preciso o chamado 'triângulo do fogo': combustível, comburente e calor?",
+    "palavras_chave": ["combustão", "oxigênio", "energia", "fogo", "combustível"]
+  },
+  {
+    "pergunta": "Por que a ferrugem é considerada uma reação química?",
+    "resposta": "A ferrugem é o resultado da oxidação do ferro em contato com oxigênio e umidade. Nessa reação lenta, forma-se o óxido de ferro, que muda a aparência e a estrutura do metal. Sabia que o sal acelera esse processo, por isso ambientes marítimos corroem metais mais rapidamente?",
+    "palavras_chave": ["ferrugem", "oxidação", "ferro", "oxigênio", "umidade"]
+  },
+  {
+    "pergunta": "O que é uma reação endotérmica?",
+    "resposta": "Reações endotérmicas são aquelas que absorvem energia do meio, geralmente em forma de calor. Um exemplo é a fotossíntese, que usa energia solar para transformar gás carbônico e água em glicose e oxigênio. Sabia que essas reações são essenciais para a vida, pois armazenam energia química nos alimentos?",
+    "palavras_chave": ["endotérmica", "energia", "fotossíntese", "calor", "absorção"]
+  },
+  {
+    "pergunta": "O que é uma reação exotérmica?",
+    "resposta": "Nas reações exotérmicas, ocorre liberação de energia para o ambiente, geralmente como calor. A combustão é um ótimo exemplo: quando a madeira queima, libera energia em forma de fogo. Sabia que até reações biológicas, como a digestão, também são exotérmicas?",
+    "palavras_chave": ["exotérmica", "energia", "calor", "combustão", "liberação"]
+  },
+  {
+    "pergunta": "Qual é a diferença entre oxidação e redução?",
+    "resposta": "Na oxidação, uma substância perde elétrons; na redução, outra ganha elétrons. Essas duas ocorrem sempre juntas, formando as reações redox. Por exemplo, no enferrujamento, o ferro se oxida e o oxigênio se reduz. Sabia que o termo 'oxidação' vem de 'oxigênio', pois esse elemento foi o primeiro observado nesse tipo de reação?",
+    "palavras_chave": ["oxidação", "redução", "elétrons", "redox", "ferro"]
+  },
+  {
+    "pergunta": "O que são reações redox?",
+    "resposta": "As reações redox envolvem transferência de elétrons entre substâncias. São fundamentais na respiração celular e na produção de energia elétrica em pilhas. Sabia que as baterias do seu celular funcionam graças a reações redox controladas?",
+    "palavras_chave": ["redox", "elétrons", "pilhas", "energia", "transferência"]
+  },
+  {
+    "pergunta": "O que significa catalisar uma reação química?",
+    "resposta": "Catalisar uma reação é acelerar seu andamento com a ajuda de uma substância chamada catalisador, que não é consumida no processo. Um exemplo é a enzima catalase, que decompõe o peróxido de hidrogênio em água e oxigênio. Sabia que sem as enzimas, as reações do corpo humano seriam lentas demais para manter a vida?",
+    "palavras_chave": ["catalisador", "enzima", "reação", "velocidade", "catalase"]
+  },
+  {
+    "pergunta": "O que é equilíbrio químico?",
+    "resposta": "O equilíbrio químico ocorre quando as velocidades das reações direta e inversa se igualam, e as concentrações das substâncias permanecem constantes. Isso não significa que a reação parou, mas que há um balanço dinâmico. Sabia que o equilíbrio é essencial na fabricação da amônia pelo processo Haber-Bosch?",
+    "palavras_chave": ["equilíbrio", "velocidade", "reversível", "amônia", "constante"]
+  },
+  {
+    "pergunta": "O que é uma reação reversível?",
+    "resposta": "Uma reação reversível é aquela que pode ocorrer nos dois sentidos — formando produtos e reagentes simultaneamente. Um exemplo é a dissociação do ácido carbônico em água, que pode se recombinar. Sabia que o equilíbrio entre essas reações ajuda a manter o pH do sangue constante?",
+    "palavras_chave": ["reversível", "equilíbrio", "ácido", "pH", "dissociação"]
+  },
+  {
+    "pergunta": "Como a temperatura influencia as reações químicas?",
+    "resposta": "A temperatura afeta a velocidade das reações, pois quanto maior ela é, mais energia as partículas têm para colidir e reagir. É por isso que o leite azeda mais rápido no calor. Sabia que algumas reações só acontecem em temperaturas altíssimas, como a formação de estrelas?",
+    "palavras_chave": ["temperatura", "velocidade", "energia", "colisão", "reação"]
+  },
+  {
+    "pergunta": "Por que algumas reações químicas são lentas?",
+    "resposta": "A velocidade depende de fatores como temperatura, concentração e presença de catalisadores. Reações lentas, como o enferrujamento, têm baixas taxas de colisão eficaz. Sabia que existem reações tão lentas que podem levar séculos para ocorrer completamente?",
+    "palavras_chave": ["velocidade", "lenta", "fatores", "colisão", "catalisador"]
+  },
+  {
+    "pergunta": "O que é uma reação de neutralização?",
+    "resposta": "A neutralização ocorre quando um ácido reage com uma base, formando sal e água. Por exemplo, o ácido clorídrico reage com o hidróxido de sódio para formar cloreto de sódio. Sabia que esse princípio é usado em antiácidos para aliviar azia?",
+    "palavras_chave": ["neutralização", "ácido", "base", "sal", "água"]
+  },
+  {
+    "pergunta": "O que significa balancear uma equação química?",
+    "resposta": "Balancear é ajustar os coeficientes das substâncias para que o número de átomos de cada elemento seja igual nos reagentes e produtos. Isso obedece à Lei da Conservação da Massa. Sabia que Lavoisier foi quem formulou essa lei no século XVIII?",
+    "palavras_chave": ["balanceamento", "equação", "átomos", "massa", "lavoisier"]
+  },
+  {
+    "pergunta": "Por que é importante balancear equações químicas?",
+    "resposta": "Sem o balanceamento, os cálculos estequiométricos e a previsão de quantidades de produtos ficariam errados. É como tentar seguir uma receita sem as medidas certas. Sabia que programas de simulação química fazem esse balanceamento automaticamente hoje em dia?",
+    "palavras_chave": ["balanceamento", "equação", "estequiometria", "produtos", "quantidade"]
+  },
+  {
+    "pergunta": "O que é uma reação fotossintética?",
+    "resposta": "A fotossíntese é uma reação química impulsionada pela luz solar, em que plantas convertem água e gás carbônico em glicose e oxigênio. Ela é essencial para a vida na Terra. Sabia que apenas 1% da energia solar captada é transformada em energia química útil pelas plantas?",
+    "palavras_chave": ["fotossíntese", "luz", "plantas", "glicose", "oxigênio"]
+  },
+  {
+    "pergunta": "O que é uma reação de oxidação do combustível?",
+    "resposta": "Quando um combustível reage com oxigênio, ocorre uma oxidação liberando energia, dióxido de carbono e água. Esse processo é o que move carros e gera eletricidade. Sabia que a queima incompleta pode liberar monóxido de carbono, um gás tóxico e incolor?",
+    "palavras_chave": ["oxidação", "combustível", "energia", "carbono", "monóxido"]
+  },
+  {
+    "pergunta": "O que é eletrólise e por que é uma reação importante?",
+    "resposta": "A eletrólise é um processo químico que usa corrente elétrica para decompor compostos. É usada, por exemplo, para separar o alumínio de seus minérios. Sabia que o processo consome tanta energia que representa parte significativa do custo do alumínio?",
+    "palavras_chave": ["eletrólise", "corrente", "decomposição", "alumínio", "energia"]
+  },
+  {
+    "pergunta": "O que diferencia uma reação rápida de uma lenta?",
+    "resposta": "A principal diferença está na velocidade com que os reagentes se transformam em produtos. Isso depende da energia de ativação e de fatores como temperatura e concentração. Sabia que as reações em explosões são extremamente rápidas e liberam energia quase instantaneamente?",
+    "palavras_chave": ["velocidade", "reação", "ativação", "temperatura", "concentração"]
+  },
+  {
+    "pergunta": "O que é a energia de ativação em uma reação química?",
+    "resposta": "A energia de ativação é a quantidade mínima de energia necessária para que uma reação química comece. Ela serve como uma barreira que os reagentes precisam ultrapassar para se transformar em produtos. Por exemplo, o fósforo do palito de fósforo precisa do atrito para iniciar a combustão. Sabia que algumas reações só ocorrem se essa energia for fornecida por calor, luz ou eletricidade?",
+    "palavras_chave": ["energia", "ativação", "reação", "calor", "combustão"]
+  },
+  {
+    "pergunta": "Como os catalisadores diminuem a energia de ativação?",
+    "resposta": "Os catalisadores oferecem um caminho alternativo para a reação, com menor energia de ativação. Isso acelera o processo sem alterar o produto final. Um exemplo é o catalisador de platina usado em carros para reduzir poluentes. Sabia que as enzimas no corpo humano fazem exatamente o mesmo tipo de função, só que de forma biológica?",
+    "palavras_chave": ["catalisador", "energia", "enzima", "platina", "velocidade"]
+  },
+  {
+    "pergunta": "Por que as reações químicas liberam ou absorvem calor?",
+    "resposta": "Durante uma reação, as ligações químicas são quebradas e formadas novamente. Se a energia liberada na formação das novas ligações for maior que a absorvida, a reação é exotérmica; se for o contrário, é endotérmica. Sabia que até o simples ato de dissolver sal em água pode ser endotérmico ou exotérmico, dependendo do tipo de sal?",
+    "palavras_chave": ["energia", "ligações", "exotérmica", "endotérmica", "calor"]
+  },
+  {
+    "pergunta": "O que é uma reação de precipitação?",
+    "resposta": "Uma reação de precipitação ocorre quando dois compostos em solução aquosa se combinam e formam um sólido insolúvel, chamado precipitado. Um exemplo clássico é a mistura de nitrato de prata com cloreto de sódio, que forma cloreto de prata sólido. Sabia que esse tipo de reação é muito usado em testes de identificação de íons em laboratório?",
+    "palavras_chave": ["precipitação", "solução", "sólido", "íons", "laboratório"]
+  },
+  {
+    "pergunta": "Como ocorre a combustão incompleta?",
+    "resposta": "A combustão incompleta acontece quando há pouco oxigênio disponível. Em vez de formar dióxido de carbono, a reação gera monóxido de carbono e fuligem. Sabia que essa é a principal razão do escurecimento das panelas e da fumaça preta nos veículos?",
+    "palavras_chave": ["combustão", "oxigênio", "monóxido", "fuligem", "poluição"]
+  },
+  {
+    "pergunta": "O que é uma reação ácido-base?",
+    "resposta": "É uma reação entre um ácido e uma base que resulta, normalmente, na formação de sal e água. Por exemplo, o ácido sulfúrico reage com o hidróxido de sódio para formar sulfato de sódio. Sabia que esse tipo de reação é o princípio dos produtos de limpeza doméstica que neutralizam sujeiras ácidas ou básicas?",
+    "palavras_chave": ["ácido", "base", "sal", "neutralização", "reação"]
+  },
+  {
+    "pergunta": "Por que algumas reações químicas emitem luz?",
+    "resposta": "Em certas reações, parte da energia liberada é transformada em luz. Esse fenômeno é chamado de quimiluminescência. Um exemplo curioso são os bastões luminosos usados em festas. Sabia que vagalumes também produzem luz por uma reação química natural chamada bioluminescência?",
+    "palavras_chave": ["luz", "energia", "quimiluminescência", "vagalume", "bioluminescência"]
+  },
+  {
+    "pergunta": "Como funciona uma reação eletroquímica?",
+    "resposta": "Numa reação eletroquímica, ocorre transferência de elétrons entre substâncias, gerando corrente elétrica. É o que acontece em pilhas e baterias. Sabia que a primeira pilha da história foi criada por Alessandro Volta em 1800, usando discos de cobre e zinco?",
+    "palavras_chave": ["elétrons", "corrente", "pilha", "bateria", "volta"]
+  },
+  {
+    "pergunta": "O que são reações orgânicas de combustão?",
+    "resposta": "São reações em que compostos orgânicos, como hidrocarbonetos, reagem com oxigênio produzindo dióxido de carbono e água. Elas liberam grande quantidade de energia. Sabia que o calor das velas e dos motores é resultado direto dessas reações orgânicas?",
+    "palavras_chave": ["orgânica", "hidrocarboneto", "combustão", "energia", "carbono"]
+  },
+  {
+    "pergunta": "O que diferencia uma reação espontânea de uma não espontânea?",
+    "resposta": "As reações espontâneas ocorrem naturalmente, sem necessidade de energia externa. Já as não espontâneas precisam de energia, como na eletrólise da água. Sabia que a tendência natural das reações é buscar estados de menor energia e maior estabilidade?",
+    "palavras_chave": ["espontânea", "energia", "estabilidade", "eletrólise", "natural"]
+  },
+  {
+    "pergunta": "Por que o ferro enferruja mais rapidamente em locais úmidos?",
+    "resposta": "A umidade facilita o transporte de íons e acelera a oxidação do ferro. Além disso, o oxigênio dissolvido na água participa diretamente da reação. Sabia que o uso de tintas e vernizes cria uma barreira que impede o contato do metal com a água e o ar?",
+    "palavras_chave": ["ferrugem", "umidade", "oxidação", "ferro", "proteção"]
+  },
+  {
+    "pergunta": "Como o pH influencia as reações químicas?",
+    "resposta": "O pH determina se o meio é ácido, básico ou neutro, afetando a velocidade e a direção das reações. Por exemplo, enzimas digestivas funcionam melhor em certos valores de pH. Sabia que o pH do sangue humano precisa ficar entre 7,35 e 7,45 para o corpo funcionar bem?",
+    "palavras_chave": ["ph", "ácido", "básico", "enzimas", "velocidade"]
+  },
+  {
+    "pergunta": "O que é uma reação de oxidação lenta?",
+    "resposta": "É uma reação em que o oxigênio reage com uma substância de forma gradual, sem liberação perceptível de calor ou luz. A ferrugem é um exemplo típico. Sabia que o amadurecimento de frutas também é uma forma de oxidação lenta?",
+    "palavras_chave": ["oxidação", "lenta", "oxigênio", "ferrugem", "frutas"]
+  },
+  {
+    "pergunta": "Como a concentração afeta a velocidade de uma reação?",
+    "resposta": "Quanto maior a concentração dos reagentes, maior a chance de colisões entre as partículas e, portanto, mais rápida será a reação. É por isso que comprimidos efervescentes dissolvem mais rápido em pouca água. Sabia que esse mesmo princípio é usado na indústria química para otimizar a produção?",
+    "palavras_chave": ["concentração", "velocidade", "colisão", "reagentes", "produção"]
+  },
+  {
+    "pergunta": "O que é um inibidor químico?",
+    "resposta": "Um inibidor é uma substância que diminui a velocidade de uma reação, muitas vezes bloqueando o sítio ativo de um catalisador ou enzima. Sabia que certos medicamentos atuam como inibidores enzimáticos para controlar reações no organismo?",
+    "palavras_chave": ["inibidor", "velocidade", "enzima", "reação", "medicamento"]
+  },
+  {
+    "pergunta": "Por que o papel amarela com o tempo?",
+    "resposta": "O amarelamento do papel é resultado de reações de oxidação e degradação da celulose, aceleradas pela luz e pelo oxigênio. Sabia que museus controlam a umidade e a iluminação para retardar essas reações químicas?",
+    "palavras_chave": ["oxidação", "papel", "celulose", "luz", "envelhecimento"]
+  },
+  {
+    "pergunta": "O que é a reação de fermentação?",
+    "resposta": "A fermentação é um processo químico em que micro-organismos convertem açúcares em álcool ou ácido, liberando energia. É o que acontece na produção de pães, queijos e bebidas alcoólicas. Sabia que esse tipo de reação é usado desde o Egito Antigo?",
+    "palavras_chave": ["fermentação", "açúcares", "micro-organismos", "álcool", "energia"]
+  },
+  {
+    "pergunta": "O que é uma reação de substituição em química orgânica?",
+    "resposta": "Nessa reação, um átomo ou grupo de átomos de uma molécula é substituído por outro. É muito comum em compostos halogenados. Sabia que essa é uma das bases das reações de síntese de medicamentos?",
+    "palavras_chave": ["substituição", "orgânica", "átomos", "halogenados", "síntese"]
+  },
+  {
+    "pergunta": "O que é uma reação de adição?",
+    "resposta": "Nas reações de adição, duas moléculas se unem, sem perda de átomos, formando um produto único. Um exemplo é a adição de hidrogênio ao eteno para formar etano. Sabia que esse tipo de reação é usado na indústria de alimentos para transformar óleos líquidos em gorduras sólidas?",
+    "palavras_chave": ["adição", "orgânica", "hidrogênio", "eteno", "indústria"]
+  },
+  {
+    "pergunta": "Como ocorre uma reação de eliminação?",
+    "resposta": "Numa reação de eliminação, uma molécula perde átomos ou grupos pequenos, como água ou halogênios, formando uma ligação dupla. É o oposto da adição. Sabia que essas reações são essenciais para produzir compostos usados em plásticos e combustíveis?",
+    "palavras_chave": ["eliminação", "orgânica", "ligação", "plásticos", "combustíveis"]
+  },
+  {
+    "pergunta": "Por que a luz pode iniciar certas reações químicas?",
+    "resposta": "A luz fornece energia suficiente para quebrar ligações químicas e iniciar reações, como na fotossíntese ou na decomposição do ozônio. Sabia que esse fenômeno é chamado de fotólise e é usado até em fotografia e impressão 3D?",
+    "palavras_chave": ["luz", "energia", "fotólise", "reação", "fotossíntese"]
+  },
+  {
+    "pergunta": "O que é uma reação reversível no contexto industrial?",
+    "resposta": "Em processos industriais, reações reversíveis permitem ajustar o equilíbrio para aumentar o rendimento de produtos, como na produção da amônia. Sabia que engenheiros controlam pressão e temperatura para deslocar o equilíbrio químico conforme desejado?",
+    "palavras_chave": ["reversível", "indústria", "equilíbrio", "amônia", "pressão"]
+  },
+  {
+    "pergunta": "Como o catalisador afeta a direção do equilíbrio químico?",
+    "resposta": "O catalisador acelera tanto a reação direta quanto a inversa igualmente, então ele não altera a posição do equilíbrio — apenas faz o sistema atingi-lo mais rápido. Sabia que isso é fundamental em processos como o de Haber-Bosch para produção de fertilizantes?",
+    "palavras_chave": ["catalisador", "equilíbrio", "velocidade", "fertilizantes", "reação"]
+  },
+  {
+    "pergunta": "O que são reações químicas em cadeia?",
+    "resposta": "São reações em que os produtos de uma etapa servem de reagentes para a próxima, gerando um ciclo contínuo. Sabia que esse tipo de reação é o princípio por trás das explosões nucleares e também da polimerização?",
+    "palavras_chave": ["cadeia", "reação", "polimerização", "nuclear", "produtos"]
+  },
+  {
+    "pergunta": "Por que a fotossíntese é considerada uma reação redox?",
+    "resposta": "Durante a fotossíntese, o dióxido de carbono é reduzido a glicose e a água é oxidada a oxigênio. Portanto, há transferência de elétrons, típica das reações redox. Sabia que esse processo é o inverso da respiração celular?",
+    "palavras_chave": ["fotossíntese", "redox", "oxidação", "redução", "glicose"]
+  },
+  {
+    "pergunta": "Como ocorre a reação de saponificação?",
+    "resposta": "A saponificação é a reação entre uma gordura e uma base forte, formando sabão e glicerina. Sabia que esse é um dos processos químicos mais antigos utilizados pelo ser humano, conhecido desde a Babilônia?",
+    "palavras_chave": ["saponificação", "sabão", "gordura", "base", "glicerina"]
+  },
+  {
+    "pergunta": "O que é uma reação nuclear, e como difere de uma reação química?",
+    "resposta": "As reações nucleares envolvem mudanças no núcleo dos átomos, enquanto as químicas afetam apenas os elétrons. Sabia que na fissão nuclear, um átomo pesado se divide em dois menores, liberando enorme energia?",
+    "palavras_chave": ["nuclear", "átomo", "fissão", "energia", "núcleo"]
+  },
+  {
+    "pergunta": "Por que a reação entre sódio e água é tão violenta?",
+    "resposta": "O sódio reage rapidamente com a água, liberando hidrogênio e calor, o que pode causar explosões. Sabia que esse comportamento extremo se deve à alta reatividade dos metais alcalinos?",
+    "palavras_chave": ["sódio", "água", "reatividade", "hidrogênio", "explosão"]
+  },
+  {
+    "pergunta": "Como ocorre a oxidação dos alimentos?",
+    "resposta": "Os alimentos oxidam quando entram em contato com o oxigênio, alterando cor, sabor e cheiro. Sabia que o uso de antioxidantes, como a vitamina C, ajuda a retardar essas reações?",
+    "palavras_chave": ["oxidação", "alimentos", "oxigênio", "antioxidantes", "vitamina c"]
+  },
+  {
+    "pergunta": "O que é uma reação de hidratação?",
+    "resposta": "Na hidratação, uma molécula de água se adiciona a outra substância, geralmente um alceno. É muito usada na indústria para produzir álcoois. Sabia que esse tipo de reação é fundamental na química dos combustíveis?",
+    "palavras_chave": ["hidratação", "água", "álcoois", "alceno", "indústria"]
+  },
+  {
+    "pergunta": "Por que o peróxido de hidrogênio se decompõe facilmente?",
+    "resposta": "O peróxido de hidrogênio é instável e se decompõe em água e oxigênio, especialmente na presença de luz ou catalisadores metálicos. Sabia que por isso ele é armazenado em frascos escuros?",
+    "palavras_chave": ["peróxido", "hidrogênio", "decomposição", "oxigênio", "luz"]
+  },
+  {
+    "pergunta": "Como os polímeros se formam em reações químicas?",
+    "resposta": "Os polímeros são formados por reações de polimerização, nas quais pequenas moléculas chamadas monômeros se unem em longas cadeias. Sabia que o plástico PET, usado em garrafas, é resultado desse processo?",
+    "palavras_chave": ["polimerização", "monômeros", "polímeros", "cadeia", "plástico"]
+  },
+  {
+    "pergunta": "O que é a reação de oxirredução na corrosão metálica?",
+    "resposta": "Na corrosão, ocorre uma reação redox: o metal se oxida e perde elétrons, enquanto o oxigênio é reduzido. Sabia que o uso de metais de sacrifício, como o zinco, protege estruturas de aço dessa reação?",
+    "palavras_chave": ["corrosão", "redox", "oxidação", "zinco", "proteção"]
+  },
+  {
+    "pergunta": "Como o calor influencia o equilíbrio químico?",
+    "resposta": "O aumento de temperatura favorece reações endotérmicas, enquanto a redução favorece as exotérmicas. Sabia que esse princípio é aplicado na indústria para controlar o rendimento de reações?",
+    "palavras_chave": ["temperatura", "equilíbrio", "endotérmica", "exotérmica", "rendimento"]
+  },
+  {
+    "pergunta": "O que são reações fotocatalíticas?",
+    "resposta": "São reações que usam luz para ativar um catalisador e acelerar o processo químico. Sabia que esse tipo de reação está sendo estudado para purificar o ar e a água usando luz solar?",
+    "palavras_chave": ["fotocatalítica", "luz", "catalisador", "purificação", "solar"]
+  },
+  {
+    "pergunta": "Como a pressão influencia as reações químicas?",
+    "resposta": "A pressão afeta principalmente reações que envolvem gases. Quando aumentamos a pressão, o sistema tende a favorecer o lado com menor volume gasoso, segundo o princípio de Le Châtelier. Sabia que, na produção de amônia, aumentar a pressão é essencial para elevar o rendimento do processo?",
+    "palavras_chave": ["pressão", "gases", "equilíbrio", "le châtelier", "amônia"]
+  },
+  {
+    "pergunta": "O que são reações de oxidação-redução na respiração celular?",
+    "resposta": "Na respiração celular, moléculas de glicose são oxidadas para liberar energia, enquanto o oxigênio é reduzido para formar água. Esse processo fornece ATP, o 'combustível' das células. Sabia que essas reações redox ocorrem nas mitocôndrias, conhecidas como as 'usinas de energia' da célula?",
+    "palavras_chave": ["respiração", "redox", "glicose", "oxigênio", "atp"]
+  },
+  {
+    "pergunta": "O que é uma reação química em cadeia no corpo humano?",
+    "resposta": "No organismo, muitas reações formam cadeias bioquímicas, como o ciclo de Krebs. Os produtos de uma etapa servem de reagentes para a próxima, garantindo fluxo contínuo de energia. Sabia que esse processo é fundamental para manter o metabolismo ativo o tempo todo?",
+    "palavras_chave": ["cadeia", "bioquímica", "metabolismo", "energia", "ciclo de krebs"]
+  },
+  {
+    "pergunta": "O que são reações de polimerização por adição?",
+    "resposta": "Na polimerização por adição, os monômeros se unem sem liberação de subprodutos, formando cadeias longas. É o caso do polietileno, usado em embalagens. Sabia que pequenas mudanças nessa reação originam diferentes tipos de plásticos, como o PVC e o poliestireno?",
+    "palavras_chave": ["polimerização", "adição", "monômeros", "plástico", "polietileno"]
+  },
+  {
+    "pergunta": "Por que o gelo seca no congelador sem derreter?",
+    "resposta": "Esse fenômeno ocorre por sublimação, uma mudança física em que o gelo passa direto do estado sólido para o gasoso. Mas a superfície também sofre pequenas reações de oxidação e absorção de gases. Sabia que esse mesmo processo é usado para conservar alimentos em liofilização?",
+    "palavras_chave": ["sublimação", "gelo", "mudança", "liofilização", "oxidação"]
+  },
+  {
+    "pergunta": "O que é o princípio de Le Châtelier nas reações químicas?",
+    "resposta": "Esse princípio afirma que, quando um sistema em equilíbrio é perturbado, ele se ajusta para minimizar a perturbação. Por exemplo, se aumentamos a concentração de reagentes, a reação avança para o lado dos produtos. Sabia que essa ideia é essencial para o controle de reações industriais?",
+    "palavras_chave": ["le châtelier", "equilíbrio", "reação", "concentração", "ajuste"]
+  },
+  {
+    "pergunta": "Como os fotocatalisadores ajudam a degradar poluentes?",
+    "resposta": "Os fotocatalisadores, como o dióxido de titânio, absorvem luz e geram espécies reativas que quebram moléculas poluentes. Sabia que esse processo pode até eliminar odores e compostos tóxicos do ar?",
+    "palavras_chave": ["fotocatalisador", "luz", "titânio", "poluentes", "oxidação"]
+  },
+  {
+    "pergunta": "O que é uma reação de combustão completa?",
+    "resposta": "Na combustão completa, o combustível reage com oxigênio suficiente, formando dióxido de carbono e água, com liberação máxima de energia. Sabia que motores modernos são ajustados para favorecer esse tipo de reação e reduzir a poluição?",
+    "palavras_chave": ["combustão", "oxigênio", "dióxido", "energia", "poluição"]
+  },
+  {
+    "pergunta": "Como ocorre a reação entre ácido e metal?",
+    "resposta": "Quando um metal reage com um ácido, ocorre liberação de gás hidrogênio e formação de um sal. Por exemplo, o zinco com ácido clorídrico forma cloreto de zinco. Sabia que essa reação é uma das formas de testar a reatividade dos metais?",
+    "palavras_chave": ["metal", "ácido", "hidrogênio", "sal", "reatividade"]
+  },
+  {
+    "pergunta": "Por que o alumínio não enferruja facilmente?",
+    "resposta": "O alumínio reage com o oxigênio formando uma camada fina de óxido que o protege contra corrosão. Essa barreira impede novas reações. Sabia que esse mesmo princípio é usado no processo de anodização para reforçar a proteção?",
+    "palavras_chave": ["alumínio", "oxidação", "óxido", "proteção", "anodização"]
+  },
+  {
+    "pergunta": "Como os explosivos funcionam do ponto de vista químico?",
+    "resposta": "Explosivos são substâncias que sofrem reações muito rápidas e exotérmicas, liberando gases e calor instantaneamente. Sabia que a dinamite, inventada por Alfred Nobel, contém nitroglicerina estabilizada para controlar essa reação?",
+    "palavras_chave": ["explosivos", "exotérmica", "gases", "nitroglicerina", "energia"]
+  },
+  {
+    "pergunta": "O que é uma reação de oxidação no corpo humano?",
+    "resposta": "No organismo, a oxidação ocorre quando moléculas perdem elétrons, produzindo energia, mas também radicais livres. Sabia que antioxidantes naturais, como a vitamina E, ajudam a neutralizar esses radicais e proteger as células?",
+    "palavras_chave": ["oxidação", "radicais", "antioxidantes", "vitamina e", "células"]
+  },
+  {
+    "pergunta": "Como o catalisador das usinas reduz emissões?",
+    "resposta": "Nas usinas e fábricas, catalisadores convertem gases tóxicos em substâncias menos nocivas, acelerando reações de oxidação. Sabia que catalisadores de platina e paládio são amplamente usados por sua eficiência?",
+    "palavras_chave": ["catalisador", "oxidação", "platina", "emissões", "reação"]
+  },
+  {
+    "pergunta": "O que é uma reação endotérmica na culinária?",
+    "resposta": "Quando dissolvemos sal em gelo para fazer sorvetes artesanais, ocorre uma reação endotérmica: o sistema absorve calor e esfria o ambiente. Sabia que esse princípio também é usado em bolsas de gelo instantâneas para primeiros socorros?",
+    "palavras_chave": ["endotérmica", "culinária", "sal", "gelo", "calor"]
+  },
+  {
+    "pergunta": "Por que a maçã escurece ao ser cortada?",
+    "resposta": "Ao ser cortada, a polpa da maçã entra em contato com o oxigênio e enzimas, provocando uma oxidação que escurece a superfície. Sabia que o suco de limão reduz essa reação por ser ácido e antioxidante?",
+    "palavras_chave": ["maçã", "oxidação", "enzimas", "limão", "antioxidante"]
+  },
+  {
+    "pergunta": "Como funciona a reação de fotodecomposição?",
+    "resposta": "A fotodecomposição ocorre quando a luz quebra as ligações químicas de uma substância. Um exemplo é a decomposição do ozônio na estratosfera pela radiação ultravioleta. Sabia que esse processo também está envolvido na degradação de plásticos expostos ao sol?",
+    "palavras_chave": ["fotodecomposição", "luz", "ozônio", "uv", "ligações"]
+  },
+  {
+    "pergunta": "O que é uma reação de neutralização biológica?",
+    "resposta": "No corpo, o bicarbonato de sódio neutraliza o excesso de ácido no estômago, formando sal, água e gás carbônico. Sabia que esse mesmo princípio químico é usado em antiácidos comerciais?",
+    "palavras_chave": ["neutralização", "bicarbonato", "ácido", "estômago", "antiácido"]
+  },
+  {
+    "pergunta": "Por que a oxidação é importante na química ambiental?",
+    "resposta": "Processos de oxidação são usados no tratamento de água e efluentes para degradar compostos orgânicos tóxicos. Sabia que o ozônio é um dos oxidantes mais potentes e ecologicamente corretos utilizados para esse fim?",
+    "palavras_chave": ["oxidação", "ambiental", "água", "ozônio", "tratamento"]
+  },
+  {
+    "pergunta": "O que é uma reação de condensação?",
+    "resposta": "Na condensação, duas moléculas se unem e liberam uma molécula menor, geralmente água. Esse tipo de reação forma proteínas e plásticos. Sabia que o nylon é produzido justamente por uma reação de condensação?",
+    "palavras_chave": ["condensação", "moléculas", "água", "proteínas", "nylon"]
+  },
+  {
+    "pergunta": "Como funciona a reação de esterificação?",
+    "resposta": "A esterificação ocorre entre um ácido carboxílico e um álcool, formando um éster e água. É usada para fabricar aromas e fragrâncias. Sabia que o cheiro característico do abacaxi vem de um éster chamado butirato de etila?",
+    "palavras_chave": ["esterificação", "álcool", "ácido", "éster", "aroma"]
+  },
+  {
+    "pergunta": "O que é uma reação de oxidação incompleta?",
+    "resposta": "É uma reação na qual o oxigênio reage parcialmente com o combustível, produzindo monóxido de carbono e energia. Sabia que isso acontece em ambientes com pouca ventilação, tornando o monóxido perigoso por ser incolor e tóxico?",
+    "palavras_chave": ["oxidação", "incompleta", "monóxido", "combustível", "energia"]
+  },
+  {
+    "pergunta": "Como ocorre a reação de fotossíntese artificial?",
+    "resposta": "Pesquisadores buscam reproduzir a fotossíntese em laboratório, convertendo luz solar, água e CO₂ em combustíveis. Sabia que essa tecnologia pode ser a base de fontes de energia limpa no futuro?",
+    "palavras_chave": ["fotossíntese", "artificial", "energia", "co2", "luz solar"]
+  },
+  {
+    "pergunta": "Por que a prata escurece com o tempo?",
+    "resposta": "A prata reage com o enxofre do ar, formando sulfeto de prata, uma substância escura. Sabia que a exposição à luz e à poluição acelera esse processo, e que o polimento remove a camada escurecida?",
+    "palavras_chave": ["prata", "enxofre", "sulfeto", "escurecimento", "polimento"]
+  },
+  {
+    "pergunta": "O que é uma reação endotérmica na natureza?",
+    "resposta": "Um exemplo natural é a evaporação da água: o processo absorve calor do ambiente, resfriando o entorno. Sabia que é esse tipo de reação que faz o suor ajudar a regular a temperatura corporal?",
+    "palavras_chave": ["endotérmica", "evaporação", "calor", "natureza", "temperatura"]
+  },
+  {
+    "pergunta": "Como o cloro age nas reações de desinfecção da água?",
+    "resposta": "O cloro reage com micro-organismos e compostos orgânicos, oxidando e destruindo estruturas celulares. Sabia que, mesmo em pequenas quantidades, ele garante a potabilidade da água em todo o mundo?",
+    "palavras_chave": ["cloro", "oxidação", "água", "desinfecção", "potabilidade"]
+  },
+  {
+    "pergunta": "O que é uma reação de deslocamento duplo?",
+    "resposta": "É uma reação onde dois compostos trocam íons, formando novos produtos. Um exemplo é a reação entre sulfato de bário e nitrato de prata. Sabia que essa reação é usada em testes laboratoriais para detectar certos íons?",
+    "palavras_chave": ["deslocamento", "duplo", "íons", "reação", "laboratório"]
+  },
+  {
+    "pergunta": "Por que o ferro é usado como metal de sacrifício?",
+    "resposta": "Na proteção catódica, um metal mais reativo, como o zinco, se oxida no lugar do ferro, evitando sua corrosão. Sabia que esse método protege cascos de navios e tubulações submarinas?",
+    "palavras_chave": ["ferro", "zinco", "corrosão", "proteção", "catódica"]
+  },
+  {
+    "pergunta": "Como as reações químicas sustentam a vida?",
+    "resposta": "Todo funcionamento biológico depende de reações químicas — da digestão à respiração. Elas convertem energia e matéria de forma contínua. Sabia que o corpo humano realiza bilhões de reações por segundo?",
+    "palavras_chave": ["vida", "biologia", "energia", "metabolismo", "reações"]
+  },
+  {
+    "pergunta": "O que é uma reação de oxidação no solo?",
+    "resposta": "No solo, minerais de ferro e manganês oxidam-se em contato com o ar e a umidade, alterando a cor e a fertilidade. Sabia que a tonalidade avermelhada de muitos solos tropicais vem justamente dessas reações?",
+    "palavras_chave": ["solo", "oxidação", "ferro", "manganês", "fertilidade"]
+  },
+  {
+    "pergunta": "Por que o etanol queima com chama azul?",
+    "resposta": "A chama azul indica uma combustão completa, com oxigênio suficiente e formação apenas de dióxido de carbono e água. Sabia que essa queima é mais limpa e menos poluente do que a da gasolina?",
+    "palavras_chave": ["etanol", "combustão", "azul", "oxigênio", "limpa"]
+  },
+  {
+    "pergunta": "Como o pH interfere nas reações químicas?",
+    "resposta": "O pH determina a acidez ou alcalinidade do meio, influenciando a velocidade e o equilíbrio das reações. Em soluções muito ácidas ou básicas, certas substâncias se degradam mais rápido. Sabia que enzimas biológicas só funcionam bem dentro de uma faixa estreita de pH?",
+    "palavras_chave": ["ph", "acidez", "alcalinidade", "enzimas", "equilíbrio"]
+  },
+  {
+    "pergunta": "O que é uma reação de substituição em compostos orgânicos?",
+    "resposta": "Na substituição, um átomo ou grupo é trocado por outro dentro da molécula. É comum em haletos orgânicos, onde um halogênio é trocado por um grupo hidroxila. Sabia que essa reação está por trás da fabricação de muitos medicamentos e plásticos?",
+    "palavras_chave": ["substituição", "orgânicos", "haletos", "hidroxila", "medicamentos"]
+  },
+  {
+    "pergunta": "Por que algumas reações produzem gás como produto?",
+    "resposta": "Quando compostos liberam substâncias voláteis, formam gases como dióxido de carbono ou hidrogênio. Isso ocorre, por exemplo, ao misturar vinagre e bicarbonato. Sabia que esse tipo de reação é usado em extintores de incêndio de espuma?",
+    "palavras_chave": ["gás", "reação", "bicarbonato", "vinagre", "dióxido"]
+  },
+  {
+    "pergunta": "O que é uma reação reversível?",
+    "resposta": "Uma reação é reversível quando os produtos podem reagir novamente para formar os reagentes. Isso acontece até que se alcance o equilíbrio químico. Sabia que o equilíbrio é dinâmico, ou seja, as reações continuam ocorrendo nos dois sentidos?",
+    "palavras_chave": ["reversível", "equilíbrio", "dinâmico", "reagentes", "produtos"]
+  },
+  {
+    "pergunta": "Como funciona uma reação de precipitação?",
+    "resposta": "A precipitação ocorre quando dois íons em solução formam um composto insolúvel, que se deposita no fundo do recipiente. Sabia que esse princípio é usado para remover metais pesados da água?",
+    "palavras_chave": ["precipitação", "íons", "solução", "insolúvel", "água"]
+  },
+  {
+    "pergunta": "Por que algumas reações precisam de calor para acontecer?",
+    "resposta": "Reações endotérmicas precisam absorver energia para quebrar ligações químicas iniciais. O calor fornece essa energia de ativação. Sabia que o cozimento dos alimentos depende exatamente desse tipo de reação?",
+    "palavras_chave": ["calor", "endotérmica", "energia", "ativação", "cozimento"]
+  },
+  {
+    "pergunta": "O que é uma reação de decomposição térmica?",
+    "resposta": "Nesse tipo de reação, o calor quebra compostos em substâncias mais simples. Um exemplo é a decomposição do carbonato de cálcio em óxido de cálcio e gás carbônico. Sabia que esse processo é essencial na fabricação do cimento?",
+    "palavras_chave": ["decomposição", "térmica", "calor", "carbonato", "cimento"]
+  },
+  {
+    "pergunta": "Como a eletricidade pode causar reações químicas?",
+    "resposta": "Na eletrólise, uma corrente elétrica provoca reações que não ocorreriam espontaneamente. É assim que se obtém metais puros e gases industriais. Sabia que a eletrólise da água separa hidrogênio e oxigênio?",
+    "palavras_chave": ["eletricidade", "eletrólise", "hidrogênio", "oxigênio", "metais"]
+  },
+  {
+    "pergunta": "Por que o ferro reage com o oxigênio e enferruja?",
+    "resposta": "A ferrugem é resultado de uma reação lenta de oxidação do ferro em presença de água e oxigênio. Sabia que o sal acelera esse processo, por isso o metal enferruja mais rápido perto do mar?",
+    "palavras_chave": ["ferrugem", "oxidação", "ferro", "oxigênio", "água"]
+  },
+  {
+    "pergunta": "O que diferencia uma reação lenta de uma rápida?",
+    "resposta": "A velocidade depende de fatores como temperatura, concentração e catalisadores. Reações explosivas são rápidas, enquanto a oxidação de metais é lenta. Sabia que enzimas biológicas são catalisadores que aceleram reações vitais?",
+    "palavras_chave": ["velocidade", "temperatura", "catalisador", "enzimas", "oxidação"]
+  },
+  {
+    "pergunta": "Como funcionam as reações químicas em pilhas elétricas?",
+    "resposta": "Em uma pilha, ocorrem reações de oxidação e redução em polos separados, gerando fluxo de elétrons. Sabia que a pilha de Daniell, uma das primeiras, usava zinco e cobre para demonstrar esse princípio?",
+    "palavras_chave": ["pilha", "oxidação", "redução", "elétrons", "energia"]
+  },
+  {
+    "pergunta": "O que é uma reação de combustão incompleta?",
+    "resposta": "Ela ocorre quando falta oxigênio, formando monóxido de carbono e fuligem. Sabia que o monóxido é perigoso por ser incolor e se ligar à hemoglobina, impedindo o transporte de oxigênio no sangue?",
+    "palavras_chave": ["combustão", "incompleta", "oxigênio", "monóxido", "fuligem"]
+  },
+  {
+    "pergunta": "Por que as bebidas efervescentes borbulham?",
+    "resposta": "A efervescência vem da liberação de dióxido de carbono, resultado de uma reação entre ácido e carbonato. Sabia que o mesmo princípio químico é usado em comprimidos efervescentes?",
+    "palavras_chave": ["efervescência", "carbonato", "ácido", "dióxido", "reação"]
+  },
+  {
+    "pergunta": "Como as plantas realizam reações químicas para produzir energia?",
+    "resposta": "Por meio da fotossíntese, elas convertem luz, água e gás carbônico em glicose e oxigênio. Sabia que o pigmento clorofila é o catalisador natural dessa reação incrível?",
+    "palavras_chave": ["fotossíntese", "luz", "glicose", "clorofila", "oxigênio"]
+  },
+  {
+    "pergunta": "O que é uma reação ácido-base?",
+    "resposta": "É a reação entre um ácido e uma base, formando sal e água. Um exemplo é a neutralização entre ácido clorídrico e hidróxido de sódio. Sabia que esse tipo de reação é essencial para manter o pH do sangue equilibrado?",
+    "palavras_chave": ["ácido", "base", "neutralização", "ph", "sal"]
+  },
+  {
+    "pergunta": "Como o calor influencia a velocidade das reações?",
+    "resposta": "O aumento da temperatura acelera o movimento das partículas, fazendo as colisões entre reagentes acontecerem com mais energia. Sabia que, por isso, reações químicas são mais lentas em baixas temperaturas?",
+    "palavras_chave": ["calor", "temperatura", "velocidade", "colisão", "energia"]
+  },
+  {
+    "pergunta": "Por que o pão cresce durante o cozimento?",
+    "resposta": "A fermentação libera gás carbônico, que forma bolhas na massa. O calor faz o gás expandir, aumentando o volume do pão. Sabia que essa é uma reação biológica controlada por fungos chamados leveduras?",
+    "palavras_chave": ["fermentação", "pão", "gás", "levedura", "cozimento"]
+  },
+  {
+    "pergunta": "O que é uma reação de deslocamento simples?",
+    "resposta": "Ocorre quando um elemento mais reativo substitui outro em um composto. Por exemplo, o zinco desloca o cobre de uma solução de sulfato de cobre. Sabia que esse tipo de reação é usado para purificar metais?",
+    "palavras_chave": ["deslocamento", "simples", "metais", "reatividade", "purificação"]
+  },
+  {
+    "pergunta": "Como funciona a oxidação do álcool no corpo?",
+    "resposta": "O fígado converte o etanol em acetaldeído e depois em ácido acético, por meio de reações de oxidação. Sabia que o acúmulo de acetaldeído é o que causa a sensação de ressaca?",
+    "palavras_chave": ["álcool", "oxidação", "fígado", "acetaldeído", "ácido acético"]
+  },
+  {
+    "pergunta": "Por que algumas reações mudam de cor?",
+    "resposta": "A mudança de cor indica formação de novas substâncias com propriedades ópticas diferentes. Sabia que esse fenômeno é usado em titulações químicas para indicar o ponto final da reação?",
+    "palavras_chave": ["cor", "reação", "indicador", "titulação", "substâncias"]
+  },
+  {
+    "pergunta": "O que são reações de síntese em química?",
+    "resposta": "Na síntese, duas ou mais substâncias se combinam para formar um novo composto. Sabia que esse tipo de reação é usado para criar fertilizantes, medicamentos e até materiais espaciais?",
+    "palavras_chave": ["síntese", "combinação", "composto", "fertilizante", "medicamento"]
+  },
+  {
+    "pergunta": "Como as reações químicas podem ser usadas para gerar energia limpa?",
+    "resposta": "Em células a combustível, o hidrogênio reage com o oxigênio, produzindo eletricidade, calor e água. Sabia que esse processo é silencioso e não emite poluentes?",
+    "palavras_chave": ["energia", "hidrogênio", "célula", "oxigênio", "eletricidade"]
+  },
+  {
+    "pergunta": "Por que o vinagre e o bicarbonato reagem de forma efervescente?",
+    "resposta": "O ácido acético do vinagre reage com o bicarbonato, liberando dióxido de carbono e formando sal e água. Sabia que esse tipo de reação é usado em experimentos infantis para simular erupções vulcânicas?",
+    "palavras_chave": ["vinagre", "bicarbonato", "ácido", "efervescência", "dióxido"]
+  },
+  {
+    "pergunta": "O que é uma reação química espontânea?",
+    "resposta": "É aquela que ocorre naturalmente, sem necessidade de energia externa, por ser termodinamicamente favorável. Sabia que a corrosão dos metais é um exemplo clássico de reação espontânea?",
+    "palavras_chave": ["espontânea", "energia", "termodinâmica", "corrosão", "metais"]
+  },
+  {
+    "pergunta": "Como funciona a catálise enzimática?",
+    "resposta": "As enzimas reduzem a energia de ativação das reações biológicas, tornando-as mais rápidas e específicas. Sabia que uma única enzima pode catalisar milhares de reações por segundo?",
+    "palavras_chave": ["enzimas", "catálise", "biológica", "energia", "velocidade"]
+  },
+  {
+    "pergunta": "Por que o cobre adquire cor esverdeada com o tempo?",
+    "resposta": "O cobre reage com o oxigênio e dióxido de carbono, formando carbonato básico de cobre, conhecido como pátina. Sabia que essa camada protege o metal contra novas oxidações?",
+    "palavras_chave": ["cobre", "oxidação", "carbonato", "pátina", "proteção"]
+  },
+  {
+    "pergunta": "O que são reações químicas de combustão espontânea?",
+    "resposta": "São reações que liberam tanto calor que se inflamam sozinhas, como ocorre com o fósforo branco em contato com o ar. Sabia que isso exige grande cuidado no armazenamento de substâncias reativas?",
+    "palavras_chave": ["combustão", "espontânea", "calor", "fósforo", "reação"]
+  },
+  {
+    "pergunta": "Como as reações químicas são usadas em fotografia?",
+    "resposta": "Nos filmes fotográficos, sais de prata sofrem redução quando expostos à luz, formando imagens. Sabia que esse mesmo princípio foi base da fotografia analógica por mais de um século?",
+    "palavras_chave": ["fotografia", "redução", "prata", "luz", "imagem"]
+  },
+  {
+    "pergunta": "O que é uma reação de isomerização?",
+    "resposta": "Na isomerização, uma molécula se rearranja para formar outra com a mesma fórmula, mas estrutura diferente. Sabia que esse processo é usado para melhorar o rendimento da gasolina?",
+    "palavras_chave": ["isomerização", "molécula", "estrutura", "gasolina", "rearranjo"]
+  },
+  {
+    "pergunta": "Como as reações químicas ocorrem em vulcões?",
+    "resposta": "O calor extremo e os gases reativos causam decomposição de minerais e formação de novos compostos. Sabia que a cor das lavas pode indicar diferentes reações químicas em andamento?",
+    "palavras_chave": ["vulcão", "minerais", "calor", "gases", "lava"]
+  },
+  {
+    "pergunta": "Por que as reações químicas são essenciais na medicina?",
+    "resposta": "Medicamentos atuam alterando ou controlando reações químicas do corpo, equilibrando funções biológicas. Sabia que muitos remédios imitam substâncias naturais para regular essas reações?",
+    "palavras_chave": ["medicina", "reação", "biológica", "medicamento", "corpo"]
+  },
+  {
+    "pergunta": "O que é uma reação fotoquímica?",
+    "resposta": "É uma reação iniciada pela absorção de luz, que fornece energia para quebrar ligações químicas. Sabia que esse é o mesmo tipo de reação que ocorre na fotossíntese das plantas?",
+    "palavras_chave": ["fotoquímica", "luz", "energia", "ligações", "fotossíntese"]
+  },
+  {
+    "pergunta": "Como os catalisadores afetam o equilíbrio químico?",
+    "resposta": "Eles aceleram tanto a reação direta quanto a inversa, sem alterar a posição do equilíbrio. Sabia que o catalisador nunca se consome totalmente durante o processo?",
+    "palavras_chave": ["catalisador", "equilíbrio", "velocidade", "reação", "processo"]
+  },
+  {
+    "pergunta": "Por que a água oxigenada perde o efeito com o tempo?",
+    "resposta": "Ela se decompõe lentamente em água e oxigênio, especialmente na presença de luz. Sabia que por isso é vendida em frascos escuros, para evitar a reação de decomposição?",
+    "palavras_chave": ["água oxigenada", "decomposição", "oxigênio", "luz", "proteção"]
+  },
+  {
+    "pergunta": "O que caracteriza uma reação de combustão?",
+    "resposta": "A combustão ocorre quando uma substância reage com o oxigênio, liberando energia na forma de calor e luz. É o que acontece, por exemplo, quando a gasolina queima no motor de um carro. Essa energia liberada vem da transformação das ligações químicas. Sabia que a chama azul do fogão indica uma combustão mais completa, com melhor aproveitamento do oxigênio?",
+    "palavras_chave": ["combustão", "oxigênio", "energia", "reação", "calor"]
+  },
+  {
+    "pergunta": "Por que algumas reações químicas precisam de catalisadores?",
+    "resposta": "Os catalisadores aceleram uma reação sem serem consumidos por ela. Eles diminuem a energia de ativação necessária para que as moléculas reajam, tornando o processo mais rápido. Na indústria, isso é essencial para economizar tempo e energia. Sabia que o catalisador do carro transforma gases tóxicos em substâncias menos nocivas antes de saírem pelo escapamento?",
+    "palavras_chave": ["catalisador", "energia de ativação", "reação", "indústria", "velocidade"]
+  },
+  {
+    "pergunta": "O que diferencia uma reação endotérmica de uma exotérmica?",
+    "resposta": "As reações exotérmicas liberam calor, enquanto as endotérmicas absorvem. Queimar madeira é um exemplo de reação exotérmica; já o processo de fotossíntese é endotérmico, pois absorve energia solar. Sabia que até uma simples reação de dissolver sal em água pode ser endotérmica ou exotérmica dependendo do tipo de sal?",
+    "palavras_chave": ["endotérmica", "exotérmica", "energia", "calor", "fotossíntese"]
+  },
+  {
+    "pergunta": "Como ocorre uma reação de decomposição?",
+    "resposta": "Na decomposição, uma substância se divide em duas ou mais substâncias mais simples. Um exemplo clássico é a decomposição da água oxigenada, que libera oxigênio e forma água. Esse tipo de reação pode ser ativado por calor, luz ou eletricidade. Sabia que o mesmo princípio é usado em airbags de carros, onde compostos se decompõem rapidamente para liberar gás?",
+    "palavras_chave": ["decomposição", "substância", "oxigênio", "energia", "reações"]
+  },
+  {
+    "pergunta": "O que é uma reação de dupla troca?",
+    "resposta": "Numa reação de dupla troca, dois compostos trocam entre si partes de suas moléculas, formando novos compostos. Um exemplo é a reação entre ácido clorídrico e hidróxido de sódio, que gera sal e água. Sabia que esse tipo de reação está por trás de muitos processos usados no tratamento de água e em laboratórios?",
+    "palavras_chave": ["dupla troca", "compostos", "ácido", "sal", "reação"]
+  },
+  {
+    "pergunta": "O que define uma reação de neutralização?",
+    "resposta": "A neutralização ocorre quando um ácido reage com uma base, formando sal e água. É o que acontece, por exemplo, quando usamos antiácidos para aliviar a acidez do estômago. Sabia que a neutralização é tão importante que ajuda a equilibrar o pH de solos agrícolas também?",
+    "palavras_chave": ["neutralização", "ácido", "base", "sal", "ph"]
+  },
+  {
+    "pergunta": "Como as reações químicas liberam energia?",
+    "resposta": "Durante uma reação, as ligações químicas se rompem e novas se formam. O balanço entre a energia gasta e a liberada determina se o processo é endotérmico ou exotérmico. Essa diferença é a fonte de energia de combustões, baterias e até do metabolismo humano. Sabia que o corpo humano é uma verdadeira usina de reações químicas exotérmicas?",
+    "palavras_chave": ["energia", "ligações químicas", "exotérmica", "endotérmica", "metabolismo"]
+  },
+  {
+    "pergunta": "O que é uma reação de síntese?",
+    "resposta": "Na síntese, duas ou mais substâncias simples se combinam para formar um composto mais complexo. É o caso da formação da água a partir do hidrogênio e oxigênio. Sabia que muitas reações no corpo humano, como a produção de proteínas, são sínteses químicas controladas por enzimas?",
+    "palavras_chave": ["síntese", "combinação", "hidrogênio", "oxigênio", "enzimas"]
+  },
+  {
+    "pergunta": "Por que algumas reações químicas são reversíveis?",
+    "resposta": "Reações reversíveis são aquelas em que os produtos podem voltar a reagir e formar os reagentes. Isso ocorre quando o equilíbrio químico é alcançado, como no caso da amônia no processo de Haber-Bosch. Sabia que esse tipo de reação é essencial para a fabricação de fertilizantes e para o controle de gases no sangue?",
+    "palavras_chave": ["reversível", "equilíbrio químico", "amônia", "fertilizantes", "processo haber-bosch"]
+  },
+  {
+    "pergunta": "Como a temperatura influencia as reações químicas?",
+    "resposta": "O aumento da temperatura faz as moléculas se moverem mais rápido, aumentando a chance de colisões eficazes. Isso acelera a reação. Por outro lado, temperaturas muito altas podem degradar substâncias. Sabia que por isso guardamos alimentos na geladeira, para retardar as reações químicas que causam a decomposição?",
+    "palavras_chave": ["temperatura", "velocidade", "colisões", "moléculas", "reação"]
+  },
+  {
+    "pergunta": "O que é o princípio de Le Chatelier?",
+    "resposta": "Esse princípio diz que, quando um sistema em equilíbrio é perturbado, ele reage de forma a minimizar essa perturbação. É uma maneira de prever como variações de temperatura, pressão ou concentração afetam uma reação. Sabia que esse conceito é usado para otimizar a produção de amônia em larga escala?",
+    "palavras_chave": ["le chatelier", "equilíbrio", "reação", "pressão", "temperatura"]
+  },
+  {
+    "pergunta": "Por que algumas reações produzem gases?",
+    "resposta": "Algumas reações químicas liberam gases como resultado da quebra de ligações. É o caso da reação entre vinagre e bicarbonato de sódio, que libera dióxido de carbono. Sabia que esse mesmo gás é o responsável por fazer bolos crescerem e refrigerantes borbulharem?",
+    "palavras_chave": ["gases", "reação", "dióxido de carbono", "bicarbonato", "vinagre"]
+  },
+  {
+    "pergunta": "O que é energia de ativação?",
+    "resposta": "É a quantidade mínima de energia necessária para iniciar uma reação química. Imagine como uma faísca que acende a reação. Sabia que as enzimas no nosso corpo funcionam justamente reduzindo essa energia, permitindo que reações vitais ocorram a 37°C?",
+    "palavras_chave": ["energia de ativação", "reações", "enzimas", "temperatura", "catalisador"]
+  },
+  {
+    "pergunta": "Como funciona uma reação de oxirredução?",
+    "resposta": "Nas reações de oxirredução, uma substância perde elétrons (oxidação) e outra ganha (redução). É o que acontece em pilhas e baterias. Sabia que esse tipo de reação está por trás da ferrugem no ferro e também do funcionamento do seu celular?",
+    "palavras_chave": ["oxirredução", "oxidação", "redução", "elétrons", "baterias"]
+  },
+  {
+    "pergunta": "O que é uma reação de substituição simples?",
+    "resposta": "Nesse tipo de reação, um elemento mais reativo substitui outro em um composto. Um exemplo é o ferro substituindo o cobre em uma solução de sulfato de cobre. Sabia que reações assim são usadas para purificar metais e produzir ligas metálicas?",
+    "palavras_chave": ["substituição", "metais", "reatividade", "composto", "química"]
+  },
+  {
+    "pergunta": "Como ocorre uma reação fotoquímica?",
+    "resposta": "A reação fotoquímica é ativada pela luz. A fotossíntese é um exemplo clássico, em que a luz solar fornece energia para converter gás carbônico e água em glicose e oxigênio. Sabia que até a formação da camada de ozônio envolve uma reação fotoquímica na estratosfera?",
+    "palavras_chave": ["fotoquímica", "luz", "fotossíntese", "ozônio", "energia"]
+  },
+  {
+    "pergunta": "O que é uma reação redox em pilhas?",
+    "resposta": "Nas pilhas, ocorrem simultaneamente uma oxidação e uma redução, em compartimentos separados. Essa diferença gera corrente elétrica. Sabia que o mesmo princípio é usado em baterias recarregáveis, mas nelas o processo é reversível?",
+    "palavras_chave": ["redox", "pilhas", "oxidação", "redução", "corrente elétrica"]
+  },
+  {
+    "pergunta": "Como a pressão afeta reações químicas envolvendo gases?",
+    "resposta": "A pressão influencia o número de colisões entre moléculas gasosas. Em reações com gases, aumentar a pressão pode favorecer o lado com menos moléculas, segundo Le Chatelier. Sabia que essa regra é usada para fabricar amônia de forma mais eficiente?",
+    "palavras_chave": ["pressão", "gases", "equilíbrio", "colisões", "le chatelier"]
+  },
+  {
+    "pergunta": "O que é uma reação reversível no corpo humano?",
+    "resposta": "Muitas reações no corpo são reversíveis, como o equilíbrio entre gás carbônico e bicarbonato no sangue. Esse sistema ajuda a manter o pH constante. Sabia que esse equilíbrio é vital para que possamos respirar corretamente e manter a homeostase?",
+    "palavras_chave": ["reversível", "ph", "bicarbonato", "respiração", "homeostase"]
+  },
+  {
+    "pergunta": "O que significa equilíbrio químico dinâmico?",
+    "resposta": "É o estado em que as reações diretas e inversas acontecem ao mesmo tempo e com a mesma velocidade. Parece que nada muda, mas as moléculas continuam reagindo. Sabia que isso ocorre no ar entre o oxigênio e o ozônio constantemente?",
+    "palavras_chave": ["equilíbrio", "dinâmico", "reação", "velocidade", "ozônio"]
+  },
+  {
+    "pergunta": "Como se identifica uma reação química?",
+    "resposta": "Sinais como mudança de cor, liberação de gás, formação de precipitado ou variação de temperatura indicam uma reação química. Sabia que até o escurecimento de uma maçã cortada é uma reação, chamada oxidação?",
+    "palavras_chave": ["reação química", "mudança", "precipitado", "oxidação", "cor"]
+  },
+  {
+    "pergunta": "Por que nem toda mistura de substâncias gera uma reação química?",
+    "resposta": "Nem toda mistura leva à formação de novas substâncias. Às vezes, as moléculas não têm energia suficiente ou não se alinham corretamente para reagir. Sabia que o simples fato de misturar sal e açúcar não causa nenhuma reação química?",
+    "palavras_chave": ["mistura", "substâncias", "energia", "reação", "moléculas"]
+  },
+  {
+    "pergunta": "O que são reações irreversíveis?",
+    "resposta": "Reações irreversíveis são aquelas que, uma vez concluídas, não retornam aos reagentes. A queima de papel, por exemplo, não pode ser desfeita. Sabia que a digestão dos alimentos também envolve reações irreversíveis altamente controladas pelo corpo?",
+    "palavras_chave": ["irreversível", "reação", "digestão", "queima", "transformação"]
+  },
+  {
+    "pergunta": "Como a concentração dos reagentes influencia uma reação?",
+    "resposta": "Quanto maior a concentração, maior a chance de colisões entre partículas, o que acelera a reação. Sabia que esse é o princípio usado em indústrias químicas para aumentar a produtividade dos processos?",
+    "palavras_chave": ["concentração", "reagentes", "colisões", "velocidade", "indústria"]
+  },
+  {
+    "pergunta": "O que é uma reação ácido-base?",
+    "resposta": "É a interação entre íons H⁺ e OH⁻, resultando em sal e água. Essa reação é fundamental em processos biológicos e industriais. Sabia que o vinagre e o bicarbonato produzem uma reação ácido-base quando misturados?",
+    "palavras_chave": ["ácido", "base", "neutralização", "sal", "reação"]
+  },
+  {
+    "pergunta": "Por que o ferro enferruja?",
+    "resposta": "A ferrugem é resultado de uma reação de oxirredução entre o ferro, o oxigênio e a umidade do ar. O ferro é oxidado, formando óxidos de ferro hidratados, que conhecemos como ferrugem. Sabia que a pintura ou o uso de óleo cria uma barreira que impede o contato do ferro com o ar, evitando a corrosão?",
+    "palavras_chave": ["ferrugem", "oxidação", "ferro", "corrosão", "oxigênio"]
+  },
+  {
+    "pergunta": "O que é uma reação de precipitação?",
+    "resposta": "Ocorre quando dois compostos solúveis em água reagem e formam um sólido insolúvel, chamado de precipitado. Um exemplo é a mistura de nitrato de prata com cloreto de sódio, que gera cloreto de prata sólido. Sabia que reações assim são usadas para identificar íons em análises químicas?",
+    "palavras_chave": ["precipitação", "solução", "íons", "cloreto de prata", "insolúvel"]
+  },
+  {
+    "pergunta": "Como a luz pode influenciar uma reação química?",
+    "resposta": "A luz fornece energia para iniciar certas reações químicas, chamadas de fotoquímicas. É o caso da fotossíntese e da decomposição da prata em filmes fotográficos antigos. Sabia que o protetor solar contém compostos que reagem com a luz ultravioleta para proteger a pele?",
+    "palavras_chave": ["luz", "fotoquímica", "energia", "fotossíntese", "ultravioleta"]
+  },
+  {
+    "pergunta": "O que é uma reação nuclear e como difere de uma reação química?",
+    "resposta": "Enquanto as reações químicas envolvem elétrons das camadas externas dos átomos, as reações nucleares alteram o núcleo atômico. Por isso liberam muito mais energia, como nas usinas e bombas atômicas. Sabia que o Sol brilha graças a reações nucleares de fusão entre átomos de hidrogênio?",
+    "palavras_chave": ["reação nuclear", "fusão", "energia", "átomo", "núcleo"]
+  },
+  {
+    "pergunta": "O que é um reagente limitante?",
+    "resposta": "O reagente limitante é aquele que se consome primeiro numa reação, determinando a quantidade máxima de produto formado. Sabia que esse conceito é essencial na indústria para evitar desperdício de matéria-prima?",
+    "palavras_chave": ["reagente", "limitante", "produto", "quantidade", "indústria"]
+  },
+  {
+    "pergunta": "Por que o alumínio demora a corroer?",
+    "resposta": "O alumínio reage rapidamente com o oxigênio, mas forma uma fina camada de óxido de alumínio que o protege de novas reações. Essa camada é tão estável que impede a corrosão profunda. Sabia que esse mesmo princípio é usado no processo de anodização para proteger superfícies metálicas?",
+    "palavras_chave": ["alumínio", "oxidação", "camada", "proteção", "corrosão"]
+  },
+  {
+    "pergunta": "O que é eletrólise?",
+    "resposta": "A eletrólise é uma reação química forçada pela passagem de corrente elétrica. Ela é usada, por exemplo, para decompor a água em hidrogênio e oxigênio. Sabia que esse processo também é usado na purificação de metais e na produção de cloro?",
+    "palavras_chave": ["eletrólise", "eletricidade", "decomposição", "hidrogênio", "oxigênio"]
+  },
+  {
+    "pergunta": "Como funcionam as reações em cadeia?",
+    "resposta": "Uma reação em cadeia é aquela em que os produtos de uma etapa provocam novas reações, perpetuando o processo. Isso ocorre em explosões e em reações nucleares. Sabia que o princípio da reação em cadeia é o mesmo usado para manter acesa uma chama contínua?",
+    "palavras_chave": ["reação em cadeia", "energia", "nuclear", "explosão", "processo"]
+  },
+  {
+    "pergunta": "O que é uma reação de combustão incompleta?",
+    "resposta": "A combustão incompleta ocorre quando falta oxigênio suficiente, gerando monóxido de carbono em vez de dióxido de carbono. Sabia que esse gás é tóxico e pode causar intoxicações em ambientes mal ventilados?",
+    "palavras_chave": ["combustão", "oxigênio", "monóxido", "dióxido", "toxicidade"]
+  },
+  {
+    "pergunta": "Como as enzimas aceleram reações químicas no corpo?",
+    "resposta": "As enzimas são catalisadores biológicos que reduzem a energia de ativação das reações. Cada enzima é específica para um tipo de reação. Sabia que sem elas, o metabolismo humano seria tão lento que a vida não seria possível?",
+    "palavras_chave": ["enzimas", "catalisador", "metabolismo", "energia", "biológica"]
+  },
+  {
+    "pergunta": "O que são reações espontâneas?",
+    "resposta": "São aquelas que ocorrem naturalmente, sem a necessidade de energia externa. Um exemplo é a corrosão do ferro. Sabia que a espontaneidade depende da variação de energia livre de Gibbs, um conceito central na termodinâmica?",
+    "palavras_chave": ["espontânea", "energia", "gibbs", "termodinâmica", "corrosão"]
+  },
+  {
+    "pergunta": "Como o pH influencia as reações químicas?",
+    "resposta": "O pH afeta a acidez ou basicidade do meio, influenciando a velocidade e o equilíbrio das reações. Em organismos vivos, manter o pH correto é essencial para que as enzimas funcionem bem. Sabia que o sangue humano tem pH levemente alcalino, em torno de 7,4?",
+    "palavras_chave": ["ph", "ácido", "base", "enzimas", "equilíbrio"]
+  },
+  {
+    "pergunta": "O que são reações de polimerização?",
+    "resposta": "Na polimerização, pequenas moléculas chamadas monômeros se unem para formar grandes cadeias conhecidas como polímeros. Sabia que esse processo dá origem a plásticos como o polietileno e o PVC?",
+    "palavras_chave": ["polimerização", "monômero", "polímero", "plástico", "reação"]
+  },
+  {
+    "pergunta": "Por que a fotossíntese é considerada uma reação química?",
+    "resposta": "Porque transforma gás carbônico e água em glicose e oxigênio por meio da luz solar. É uma reação endotérmica e essencial à vida na Terra. Sabia que menos de 1% da energia solar que chega ao planeta é usada na fotossíntese?",
+    "palavras_chave": ["fotossíntese", "luz", "glicose", "endotérmica", "energia"]
+  },
+  {
+    "pergunta": "Como ocorre a fermentação?",
+    "resposta": "A fermentação é uma reação bioquímica em que microrganismos decompõem açúcares sem usar oxigênio, gerando energia e subprodutos como álcool ou ácido lático. Sabia que esse processo é usado desde a Antiguidade para produzir pães, queijos e bebidas?",
+    "palavras_chave": ["fermentação", "microrganismos", "açúcar", "álcool", "energia"]
+  },
+  {
+    "pergunta": "O que é uma reação reversível em equilíbrio dinâmico?",
+    "resposta": "É uma reação em que os reagentes se transformam em produtos e vice-versa, com as duas velocidades se igualando. Sabia que esse equilíbrio é o segredo por trás da regulação do oxigênio e dióxido de carbono no sangue?",
+    "palavras_chave": ["reversível", "equilíbrio", "dinâmico", "reagentes", "produtos"]
+  },
+  {
+    "pergunta": "Como a superfície de contato afeta a velocidade de uma reação?",
+    "resposta": "Quanto maior a área de contato entre os reagentes, mais rápida é a reação. Por isso, substâncias em pó reagem mais rápido que blocos sólidos. Sabia que o pó de alumínio pode até explodir em contato com o ar por ter uma superfície muito grande?",
+    "palavras_chave": ["superfície", "velocidade", "reações", "pó", "contato"]
+  },
+  {
+    "pergunta": "O que é um inibidor químico?",
+    "resposta": "Inibidores são substâncias que reduzem a velocidade de uma reação, muitas vezes bloqueando a ação de catalisadores. Sabia que alguns medicamentos funcionam assim, impedindo reações indesejadas no corpo?",
+    "palavras_chave": ["inibidor", "reação", "velocidade", "catalisador", "medicamento"]
+  },
+  {
+    "pergunta": "Como a eletricidade pode causar reações químicas?",
+    "resposta": "A corrente elétrica pode quebrar ligações químicas, iniciando reações chamadas de eletrólise. Esse princípio é usado na galvanoplastia e na obtenção de metais. Sabia que esse mesmo processo é usado para niquelar joias?",
+    "palavras_chave": ["eletricidade", "eletrólise", "metais", "corrente", "reação"]
+  },
+  {
+    "pergunta": "O que diferencia uma reação rápida de uma lenta?",
+    "resposta": "Depende da energia de ativação, da temperatura e da concentração dos reagentes. Explosões são reações muito rápidas; já a ferrugem é extremamente lenta. Sabia que os catalisadores podem transformar uma reação lenta em algo quase instantâneo?",
+    "palavras_chave": ["velocidade", "energia", "temperatura", "catalisador", "reação"]
+  },
+  {
+    "pergunta": "Como ocorre a formação do ozônio na atmosfera?",
+    "resposta": "A radiação ultravioleta quebra moléculas de oxigênio em átomos individuais, que depois se unem a outras moléculas formando ozônio (O₃). Sabia que essa reação fotoquímica é vital para nos proteger dos raios UV?",
+    "palavras_chave": ["ozônio", "atmosfera", "oxigênio", "ultravioleta", "fotoquímica"]
+  },
+  {
+    "pergunta": "O que é entalpia em uma reação química?",
+    "resposta": "A entalpia representa a quantidade de energia absorvida ou liberada durante uma reação. Reações exotérmicas liberam entalpia; endotérmicas, absorvem. Sabia que esse conceito é essencial para entender motores e sistemas de aquecimento?",
+    "palavras_chave": ["entalpia", "energia", "exotérmica", "endotérmica", "reação"]
+  },
+  {
+    "pergunta": "Por que algumas reações liberam luz?",
+    "resposta": "Algumas reações químicas liberam energia em forma de luz, um fenômeno chamado quimiluminescência. Sabia que as pulseiras luminosas e até o brilho de vagalumes funcionam assim?",
+    "palavras_chave": ["luz", "energia", "quimiluminescência", "vagalumes", "reação"]
+  },
+  {
+    "pergunta": "O que é um produto intermediário em uma reação química?",
+    "resposta": "É uma substância temporária formada durante as etapas de uma reação, mas que não aparece no resultado final. Sabia que muitos intermediários são altamente instáveis e só existem por frações de segundo?",
+    "palavras_chave": ["intermediário", "reação", "etapas", "instável", "substância"]
+  },
+  {
+    "pergunta": "Como a pressão influencia a solubilidade dos gases?",
+    "resposta": "Quanto maior a pressão, maior a quantidade de gás que se dissolve em um líquido — é o que explica o gás nos refrigerantes. Sabia que, ao abrir a garrafa, a pressão cai e o gás escapa, formando bolhas?",
+    "palavras_chave": ["pressão", "gases", "solubilidade", "líquido", "bolhas"]
+  },
+  {
+    "pergunta": "Por que o cobre muda de cor com o tempo?",
+    "resposta": "Com o tempo, o cobre reage com o oxigênio e outros gases do ar, formando uma camada verde de carbonato de cobre, chamada pátina. Sabia que essa camada protege o metal de corrosões mais profundas?",
+    "palavras_chave": ["cobre", "oxidação", "pátina", "corrosão", "carbonato"]
+  },
+  {
+    "pergunta": "O que é uma reação de deslocamento duplo?",
+    "resposta": "É quando dois compostos trocam íons entre si, formando dois novos compostos. Sabia que esse tipo de reação é muito usado na obtenção de sais e na purificação de soluções em laboratório?",
+    "palavras_chave": ["deslocamento", "íons", "compostos", "sal", "reação"]
+  }
+]

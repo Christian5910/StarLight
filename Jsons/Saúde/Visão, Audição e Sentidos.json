@@ -1,0 +1,597 @@
+[
+  {
+    "pergunta": "Como o olho humano transforma a luz em imagem?",
+    "resposta": "Nosso olho funciona como uma câmera biológica. A luz entra pela córnea, atravessa a pupila e é focalizada pelo cristalino na retina, onde células chamadas fotorreceptores — cones e bastonetes — convertem essa luz em impulsos elétricos. Esses sinais seguem para o cérebro pelo nervo óptico, e é lá que a imagem realmente “nasce”. Sabia que a imagem que chega à retina está de cabeça para baixo e o cérebro a corrige automaticamente?",
+    "palavras_chave": ["retina", "fotorreceptores", "nervo óptico", "cristalino", "luz"]
+  },
+  {
+    "pergunta": "Qual é a diferença entre cones e bastonetes na visão?",
+    "resposta": "Os cones e os bastonetes são células da retina que captam a luz, mas com funções diferentes. Os cones permitem perceber cores e funcionam melhor em ambientes bem iluminados. Já os bastonetes são mais sensíveis à luz fraca e responsáveis pela visão noturna e periférica. Por isso, à noite, temos dificuldade em distinguir cores. Sabia que os seres humanos têm três tipos de cones, mas alguns animais têm quatro ou até cinco, enxergando cores que nem imaginamos?",
+    "palavras_chave": ["cones", "bastonetes", "retina", "cores", "visão noturna"]
+  },
+  {
+    "pergunta": "Por que algumas pessoas são daltônicas?",
+    "resposta": "O daltonismo acontece quando há uma alteração genética nos cones da retina, dificultando a percepção de certas cores, geralmente o vermelho e o verde. Essa condição é mais comum em homens porque o gene relacionado está no cromossomo X. Apesar disso, quem tem daltonismo costuma se adaptar bem, desenvolvendo outras formas de distinguir tons. Sabia que John Dalton, o cientista que estudou o fenômeno, também era daltônico?",
+    "palavras_chave": ["daltonismo", "retina", "cones", "genética", "cores"]
+  },
+  {
+    "pergunta": "O que causa a miopia e a hipermetropia?",
+    "resposta": "A miopia ocorre quando o globo ocular é um pouco mais longo e a imagem se forma antes da retina, dificultando ver de longe. Já a hipermetropia é o oposto: o olho é mais curto, e a imagem se forma depois da retina, prejudicando a visão de perto. Lentes corretivas ajustam o foco, permitindo que a imagem chegue ao ponto certo. Sabia que o uso prolongado de telas tem aumentado os casos de miopia no mundo todo?",
+    "palavras_chave": ["miopia", "hipermetropia", "retina", "lentes", "visão"]
+  },
+  {
+    "pergunta": "Como o ouvido transforma o som em impulso nervoso?",
+    "resposta": "O som entra pelo canal auditivo e faz vibrar o tímpano. Essas vibrações passam pelos três ossículos — martelo, bigorna e estribo — até a cóclea, uma estrutura em espiral cheia de líquido. Ali, células ciliadas transformam as vibrações em impulsos elétricos que seguem para o cérebro pelo nervo auditivo. É o cérebro que interpreta tudo como som. Sabia que o estribo é o menor osso do corpo humano?",
+    "palavras_chave": ["ouvido", "tímpano", "cóclea", "vibração", "som"]
+  },
+  {
+    "pergunta": "Por que ficamos com dor de ouvido durante viagens de avião?",
+    "resposta": "A dor de ouvido ocorre por causa da diferença de pressão entre o ar interno e externo ao tímpano. A tuba auditiva, que liga o ouvido médio à garganta, tenta equilibrar essa pressão. Mastigar ou bocejar ajuda a abrir esse canal e aliviar o desconforto. Sabia que mergulhadores também sentem o mesmo efeito ao descer para grandes profundidades?",
+    "palavras_chave": ["ouvido", "pressão", "tímpano", "tuba auditiva", "avião"]
+  },
+  {
+    "pergunta": "Como o cérebro interpreta os cheiros?",
+    "resposta": "Quando inalamos o ar, moléculas odoríferas se ligam a receptores na mucosa olfatória do nariz. Esses sinais seguem para o bulbo olfatório e, depois, para o córtex cerebral, onde ocorre a identificação do cheiro. É por isso que aromas despertam memórias e emoções — o olfato está ligado ao sistema límbico, responsável pelas emoções. Sabia que as pessoas conseguem distinguir mais de 10 mil cheiros diferentes?",
+    "palavras_chave": ["olfato", "nariz", "cheiro", "bulbo olfatório", "emoções"]
+  },
+  {
+    "pergunta": "Por que o gosto da comida muda quando estamos gripados?",
+    "resposta": "Quando estamos gripados, o nariz fica congestionado e o olfato não funciona direito. Como o sabor depende da combinação entre gosto e cheiro, a comida parece “sem graça”. As papilas gustativas ainda captam o básico — doce, salgado, azedo, amargo e umami —, mas sem o olfato, perdemos boa parte da experiência sensorial. Sabia que a maior parte do sabor que sentimos vem, na verdade, do cheiro?",
+    "palavras_chave": ["gosto", "olfato", "gripal", "papilas gustativas", "sabores"]
+  },
+  {
+    "pergunta": "O que é o sentido de propriocepção?",
+    "resposta": "A propriocepção é o sentido que nos permite perceber a posição e o movimento do nosso corpo sem precisar olhar. Graças a sensores em músculos, articulações e tendões, o cérebro sabe, por exemplo, onde estão nossas mãos mesmo de olhos fechados. Esse sentido é essencial para equilíbrio e coordenação motora. Sabia que dançarinos e atletas desenvolvem uma propriocepção extremamente refinada?",
+    "palavras_chave": ["propriocepção", "músculos", "equilíbrio", "coordenação", "movimento"]
+  },
+  {
+    "pergunta": "Por que o som parece diferente debaixo d’água?",
+    "resposta": "Debaixo d’água, o som se propaga mais rápido e de forma diferente porque a água é mais densa que o ar. Nosso ouvido, adaptado ao ar, não interpreta bem essas vibrações, o que faz o som parecer abafado e estranho. Animais marinhos, como golfinhos e baleias, têm estruturas auditivas especializadas para ouvir perfeitamente no ambiente aquático.",
+    "palavras_chave": ["som", "água", "audição", "densidade", "propagação"]
+  },
+  {
+    "pergunta": "O que é astigmatismo?",
+    "resposta": "O astigmatismo acontece quando a córnea ou o cristalino têm curvaturas irregulares, distorcendo a imagem que chega à retina. O resultado é uma visão borrada tanto de perto quanto de longe. Lentes específicas ajudam a corrigir esse desvio. Sabia que muitas pessoas têm um leve astigmatismo sem nem perceber, pois o cérebro se adapta?",
+    "palavras_chave": ["astigmatismo", "córnea", "cristalino", "retina", "visão"]
+  },
+  {
+    "pergunta": "Por que a visão periférica é menos nítida?",
+    "resposta": "A retina tem mais bastonetes nas bordas, responsáveis por captar luz, mas não cores nem detalhes. Por isso, a visão periférica serve mais para perceber movimento e luminosidade do que formas precisas. Esse mecanismo é útil, por exemplo, para detectar algo se aproximando. Sabia que à noite nossa visão periférica funciona até melhor que a central?",
+    "palavras_chave": ["retina", "bastonetes", "visão periférica", "movimento", "luz"]
+  },
+  {
+    "pergunta": "Como os surdos podem sentir vibrações musicais?",
+    "resposta": "Mesmo sem ouvir sons, pessoas surdas podem sentir as vibrações transmitidas pelo ar, pelo chão ou por instrumentos. O corpo capta essas ondas mecânicas, e o cérebro as interpreta como sensações rítmicas. Alguns artistas surdos, como Beethoven em sua fase final, compunham baseando-se nessas vibrações. Sabia que há festas voltadas para surdos com caixas de som que transmitem o ritmo pelo corpo?",
+    "palavras_chave": ["surdez", "vibração", "música", "ritmo", "audição"]
+  },
+  {
+    "pergunta": "O que é o zumbido no ouvido?",
+    "resposta": "O zumbido, ou tinnitus, é uma percepção de som sem fonte externa. Pode surgir após exposição a ruídos altos, problemas circulatórios ou uso de certos medicamentos. O cérebro interpreta sinais errados como som. Sabia que, em ambientes silenciosos, quase todas as pessoas conseguem perceber um leve zumbido se prestarem atenção?",
+    "palavras_chave": ["zumbido", "tinnitus", "ouvido", "ruído", "cérebro"]
+  },
+  {
+    "pergunta": "Por que algumas pessoas enxergam melhor no escuro?",
+    "resposta": "A capacidade de enxergar no escuro depende da sensibilidade dos bastonetes da retina e da adaptação do olho à baixa luminosidade. Após alguns minutos no escuro, eles se tornam mais ativos. Pessoas que passam mais tempo em ambientes de pouca luz desenvolvem essa adaptação com mais facilidade. Sabia que os piratas usavam um tampão em um olho para manter um deles adaptado à escuridão?",
+    "palavras_chave": ["visão noturna", "bastonetes", "retina", "adaptação", "luz"]
+  },
+  {
+    "pergunta": "Como os olhos se ajustam a diferentes intensidades de luz?",
+    "resposta": "A íris, que é a parte colorida do olho, controla a abertura da pupila. Em locais claros, ela se contrai para limitar a entrada de luz; em ambientes escuros, se dilata para captar mais. Esse ajuste é quase instantâneo e automático. Sabia que a pupila também pode mudar de tamanho por causa de emoções, como medo ou atração?",
+    "palavras_chave": ["pupila", "íris", "luz", "adaptação", "emoções"]
+  },
+  {
+    "pergunta": "O que é audição binaural?",
+    "resposta": "Audição binaural é a capacidade de ouvir com os dois ouvidos, o que nos permite localizar de onde o som vem. O cérebro compara o tempo e a intensidade do som recebido por cada ouvido para definir a direção. Essa habilidade é essencial para o equilíbrio e a orientação espacial. Sabia que algumas gravações musicais simulam a audição binaural, dando a sensação de que o som está ao seu redor?",
+    "palavras_chave": ["audição", "binaural", "som", "localização", "cérebro"]
+  },
+  {
+    "pergunta": "Por que choramos ao cortar cebola?",
+    "resposta": "Ao cortar cebola, liberamos uma substância chamada sin-propanotial-S-óxido, que reage com a umidade dos olhos e forma ácido sulfúrico em pequena quantidade. Isso irrita a mucosa ocular e faz as glândulas lacrimais produzirem lágrimas para lavar o olho. Sabia que resfriar a cebola antes de cortar reduz bastante esse efeito?",
+    "palavras_chave": ["cebola", "lágrimas", "olhos", "substâncias", "reação"]
+  },
+  {
+    "pergunta": "Como funciona o equilíbrio do corpo?",
+    "resposta": "O equilíbrio depende do ouvido interno, especialmente dos canais semicirculares, que detectam movimentos da cabeça por meio de líquidos e sensores. Essas informações se combinam com a visão e a propriocepção para manter o corpo estável. Quando há conflito entre esses sentidos, sentimos tontura. Sabia que o enjoo em viagens é justamente causado por esse conflito?",
+    "palavras_chave": ["equilíbrio", "ouvido interno", "canais semicirculares", "tontura", "movimento"]
+  },
+  {
+    "pergunta": "Por que sentimos enjoo ao ler em movimento?",
+    "resposta": "O enjoo ocorre porque os olhos percebem o movimento do texto parado, mas o ouvido interno sente o movimento do veículo. O cérebro recebe sinais contraditórios e interpreta isso como um possível envenenamento — daí o mal-estar. Sabia que o uso de óculos de realidade virtual também pode causar esse mesmo tipo de confusão sensorial?",
+    "palavras_chave": ["enjoo", "visão", "ouvido interno", "movimento", "cérebro"]
+  },
+  {
+    "pergunta": "O que é catarata e como ela afeta a visão?",
+    "resposta": "A catarata é a opacificação do cristalino, que normalmente é transparente. Ela torna a visão turva e embaçada, como se o mundo estivesse coberto por uma névoa. A cirurgia substitui o cristalino por uma lente artificial. Sabia que a catarata é uma das causas de cegueira mais antigas descritas na medicina, e já era tratada no Egito antigo?",
+    "palavras_chave": ["catarata", "cristalino", "visão", "cirurgia", "opacidade"]
+  },
+  {
+    "pergunta": "Por que sentimos arrepios quando ouvimos certas músicas?",
+    "resposta": "A sensação de arrepio ocorre quando uma música ativa áreas do cérebro ligadas ao prazer e à emoção, liberando dopamina. Mudanças repentinas no ritmo, melodia ou intensidade provocam essa reação. Sabia que cientistas chamam isso de 'frisson musical' e que ele é mais comum em pessoas com alta sensibilidade emocional?",
+    "palavras_chave": ["música", "emoções", "dopamina", "arrepio", "prazer"]
+  },
+  {
+    "pergunta": "O que é a sinestesia?",
+    "resposta": "A sinestesia é uma condição neurológica em que os sentidos se misturam. Por exemplo, algumas pessoas 'veem' cores quando ouvem sons ou associam números a sabores. O cérebro cria conexões cruzadas entre áreas sensoriais. Sabia que o compositor Franz Liszt pedia que a orquestra tocasse mais 'azul' ou 'vermelho' durante os ensaios?",
+    "palavras_chave": ["sinestesia", "sentidos", "cérebro", "percepção", "sons"]
+  },
+  {
+    "pergunta": "Como os animais enxergam de forma diferente dos humanos?",
+    "resposta": "Cada espécie tem adaptações visuais únicas. Águias têm visão muito mais nítida e ampla, enquanto gatos enxergam melhor em pouca luz. Já alguns insetos percebem a luz ultravioleta, invisível para nós. Essas diferenças refletem as necessidades de sobrevivência de cada animal. Sabia que as abelhas conseguem ver padrões nas flores que nossos olhos não captam?",
+    "palavras_chave": ["animais", "visão", "luz", "evolução", "percepção"]
+  },
+  {
+    "pergunta": "Por que o cheiro do café desperta as pessoas?",
+    "resposta": "O aroma do café estimula o sistema nervoso mesmo antes de bebermos. Compostos voláteis ativam o bulbo olfatório e liberam dopamina e adrenalina, o que melhora o humor e o estado de alerta. Sabia que só o cheiro do café já pode reduzir a sensação de cansaço em algumas pessoas?",
+    "palavras_chave": ["café", "cheiro", "olfato", "dopamina", "alerta"]
+  },
+  {
+    "pergunta": "O que é visão em 3D?",
+    "resposta": "A visão em 3D acontece porque nossos olhos veem o mundo de ângulos ligeiramente diferentes. O cérebro combina essas imagens e cria a noção de profundidade. É o mesmo princípio usado em filmes 3D, que simulam essa diferença de perspectiva. Sabia que pessoas com estrabismo muitas vezes não percebem bem a profundidade?",
+    "palavras_chave": ["visão", "profundidade", "3d", "cérebro", "olhos"]
+  },
+  {
+    "pergunta": "Por que sentimos coceira dentro do ouvido?",
+    "resposta": "A coceira no ouvido pode ser causada por ressecamento da pele, excesso de cera ou pequenas infecções. O ouvido é sensível, e até pequenas irritações podem provocar essa sensação. Evite usar objetos para coçar, pois isso pode machucar o canal auditivo. Sabia que o ouvido produz cera justamente para proteger contra bactérias e fungos?",
+    "palavras_chave": ["ouvido", "coceira", "cera", "infecção", "proteção"]
+  },
+  {
+    "pergunta": "Como o tato percebe temperaturas e texturas?",
+    "resposta": "Na pele, temos receptores sensoriais especializados que captam calor, frio, pressão e textura. Esses sinais viajam pelos nervos até o cérebro, onde são interpretados como sensações táteis. Sabia que a ponta dos dedos tem uma das maiores concentrações de receptores do corpo humano?",
+    "palavras_chave": ["tato", "pele", "receptores", "temperatura", "textura"]
+  },
+  {
+    "pergunta": "Por que algumas pessoas têm mais sensibilidade à dor?",
+    "resposta": "A sensibilidade à dor varia por fatores genéticos, hormonais e emocionais. O cérebro também influencia, pois a atenção, o estresse e o humor alteram a percepção da dor. Sabia que atletas treinam o corpo e o cérebro para aumentar a tolerância à dor durante competições?",
+    "palavras_chave": ["dor", "sensibilidade", "cérebro", "emoções", "genética"]
+  },
+  {
+    "pergunta": "O que é memória olfativa?",
+    "resposta": "A memória olfativa é a capacidade de associar cheiros a lembranças. Como o olfato está ligado diretamente ao sistema límbico, um aroma pode reativar memórias e emoções de forma instantânea. Sabia que o cheiro é um dos estímulos mais poderosos para despertar lembranças da infância?",
+    "palavras_chave": ["olfato", "memória", "cheiro", "emoções", "lembranças"]
+  },
+  {
+    "pergunta": "Por que enxergamos pontos coloridos depois de olhar para uma luz forte?",
+    "resposta": "Quando olhamos para uma luz intensa, os fotorreceptores da retina ficam temporariamente saturados e continuam enviando sinais mesmo após a luz desaparecer. Por isso, vemos manchas coloridas — chamadas de imagens residuais. Elas somem quando os receptores voltam ao estado normal. Sabia que esse efeito é o mesmo usado em truques de ilusão visual?",
+    "palavras_chave": ["retina", "fotorreceptores", "luz", "imagem residual", "visão"]
+  },
+  {
+    "pergunta": "Como funciona o implante coclear em pessoas com surdez profunda?",
+    "resposta": "O implante coclear é um dispositivo eletrônico que transforma sons em impulsos elétricos, estimulando diretamente o nervo auditivo. Diferente dos aparelhos convencionais, ele não amplifica o som, mas substitui a função das células ciliadas danificadas. Sabia que o primeiro implante coclear bem-sucedido foi realizado na década de 1970?",
+    "palavras_chave": ["implante coclear", "audição", "nervo auditivo", "surdez", "tecnologia"]
+  },
+  {
+    "pergunta": "Por que os olhos lacrimejam quando faz muito vento?",
+    "resposta": "O vento acelera a evaporação da umidade da superfície ocular, e o corpo reage produzindo mais lágrimas para manter os olhos lubrificados. É uma defesa natural. Sabia que as lágrimas têm três camadas — aquosa, lipídica e mucosa — e cada uma tem uma função diferente de proteção?",
+    "palavras_chave": ["lágrimas", "olhos", "vento", "lubrificação", "proteção"]
+  },
+  {
+    "pergunta": "Como os óculos de sol protegem a visão?",
+    "resposta": "Os óculos de sol com proteção UV bloqueiam os raios ultravioleta que podem danificar a córnea, o cristalino e a retina. Essa proteção ajuda a prevenir doenças como catarata e degeneração macular. Sabia que o uso constante de óculos escuros sem filtro UV pode ser pior, porque dilata a pupila e deixa mais radiação entrar?",
+    "palavras_chave": ["óculos de sol", "uv", "proteção", "retina", "catarata"]
+  },
+  {
+    "pergunta": "O que são as famosas ‘moscas volantes’ na visão?",
+    "resposta": "As ‘moscas volantes’ são pequenas sombras que se movem quando olhamos para superfícies claras. Elas vêm de fragmentos de gel vítreo dentro do olho que projetam sombras na retina. São comuns com o envelhecimento e geralmente inofensivas. Sabia que o termo médico para isso é ‘miodesopsia’?",
+    "palavras_chave": ["miodesopsia", "retina", "vítreo", "visão", "envelhecimento"]
+  },
+  {
+    "pergunta": "Por que sentimos orelhas ‘tampadas’ às vezes?",
+    "resposta": "Essa sensação geralmente acontece por diferença de pressão entre o ouvido médio e o ambiente externo. Bocejar ou engolir abre a tuba auditiva e equilibra a pressão. Sabia que durante resfriados, a tuba pode obstruir, o que piora essa sensação?",
+    "palavras_chave": ["ouvido", "pressão", "tuba auditiva", "resfriado", "audição"]
+  },
+  {
+    "pergunta": "Como o cérebro combina visão e audição para entender o mundo?",
+    "resposta": "O cérebro integra as informações captadas pelos olhos e ouvidos para formar uma percepção coerente da realidade. É por isso que, em vídeos mal sincronizados, sentimos desconforto — o cérebro detecta o descompasso. Sabia que esse processamento acontece em milissegundos no córtex temporal e occipital?",
+    "palavras_chave": ["cérebro", "visão", "audição", "percepção", "integração sensorial"]
+  },
+  {
+    "pergunta": "O que é a degeneração macular relacionada à idade?",
+    "resposta": "É uma doença que afeta a mácula, região central da retina responsável pela visão detalhada. Com o tempo, as células dessa área se deterioram, causando perda progressiva da visão central. Sabia que a dieta rica em antioxidantes pode ajudar a retardar esse processo?",
+    "palavras_chave": ["degeneração macular", "retina", "visão", "envelhecimento", "antioxidantes"]
+  },
+  {
+    "pergunta": "Por que ficamos tontos depois de girar rápido?",
+    "resposta": "Ao girar, o líquido dentro dos canais semicirculares do ouvido continua se movendo mesmo após pararmos, enviando ao cérebro a falsa sensação de movimento. Isso causa tontura e desequilíbrio temporários. Sabia que os patinadores profissionais treinam o cérebro para ignorar esse efeito?",
+    "palavras_chave": ["tontura", "ouvido interno", "equilíbrio", "movimento", "canais semicirculares"]
+  },
+  {
+    "pergunta": "Como o olfato influencia o apetite?",
+    "resposta": "Grande parte do prazer de comer vem do cheiro da comida. O olfato estimula o sistema digestivo e aumenta a salivação. Quando o olfato falha — como em resfriados — o apetite tende a diminuir. Sabia que cozinheiros profissionais treinam o olfato para identificar até pequenas variações de aroma?",
+    "palavras_chave": ["olfato", "apetite", "cheiro", "comida", "digestão"]
+  },
+  {
+    "pergunta": "Por que sentimos orelhas queimando quando estamos envergonhados?",
+    "resposta": "A vergonha ativa o sistema nervoso simpático, que aumenta o fluxo de sangue em regiões como rosto e orelhas. O resultado é aquela sensação de calor e vermelhidão. Sabia que isso é uma reação evolutiva ligada à empatia e ao reconhecimento social?",
+    "palavras_chave": ["emoções", "vergonha", "orelha", "sangue", "sistema nervoso"]
+  },
+  {
+    "pergunta": "Como os deficientes visuais desenvolvem audição mais apurada?",
+    "resposta": "Com a falta de estímulo visual, o cérebro reorganiza suas conexões e amplia o processamento auditivo. Assim, áreas que normalmente seriam usadas para ver passam a ajudar a ouvir melhor. Sabia que estudos mostram que cegos podem identificar objetos apenas pelo eco do som?",
+    "palavras_chave": ["audição", "deficiência visual", "cérebro", "plasticidade", "eco"]
+  },
+  {
+    "pergunta": "O que causa o fenômeno da visão dupla?",
+    "resposta": "A visão dupla, ou diplopia, ocorre quando os olhos não estão perfeitamente alinhados, fazendo o cérebro receber duas imagens ligeiramente diferentes. Pode ser temporária por fadiga ou indicar problemas musculares ou neurológicos. Sabia que o cérebro, às vezes, ignora uma das imagens para compensar o problema?",
+    "palavras_chave": ["visão dupla", "diplopia", "olhos", "cérebro", "alinhamento"]
+  },
+  {
+    "pergunta": "Por que a música pode melhorar o humor?",
+    "resposta": "A música estimula áreas cerebrais relacionadas à emoção, prazer e memória. Ela libera dopamina e serotonina, que geram bem-estar. Sabia que certas músicas podem até regular os batimentos cardíacos e reduzir o estresse?",
+    "palavras_chave": ["música", "emoções", "dopamina", "cérebro", "bem-estar"]
+  },
+  {
+    "pergunta": "Como funciona o teste de audiometria?",
+    "resposta": "A audiometria mede a capacidade auditiva por meio de sons de diferentes frequências e intensidades. O paciente indica quando consegue ouvir cada som, e o resultado mostra se há perda auditiva e em qual faixa de frequência. Sabia que trabalhadores expostos a ruído precisam fazer esse teste periodicamente por lei?",
+    "palavras_chave": ["audiometria", "audição", "frequência", "som", "saúde ocupacional"]
+  },
+  {
+    "pergunta": "Por que o cheiro da chuva é tão marcante?",
+    "resposta": "O cheiro da chuva vem de uma substância chamada geosmina, produzida por bactérias do solo. Quando chove, ela é liberada no ar e facilmente percebida pelo olfato humano, que é muito sensível a esse aroma. Sabia que conseguimos detectar geosmina em concentrações menores que uma gota em uma piscina olímpica?",
+    "palavras_chave": ["chuva", "cheiro", "geosmina", "olfato", "solo"]
+  },
+  {
+    "pergunta": "Como o tato ajuda na percepção espacial?",
+    "resposta": "O tato fornece informações sobre forma, textura e pressão, permitindo reconhecer objetos sem vê-los. Em pessoas cegas, essa habilidade é ainda mais desenvolvida, compensando a falta de visão. Sabia que o cérebro cria um ‘mapa tátil’ do corpo no córtex somatossensorial?",
+    "palavras_chave": ["tato", "percepção", "textura", "cérebro", "mapa corporal"]
+  },
+  {
+    "pergunta": "Por que ficamos com a voz diferente quando estamos resfriados?",
+    "resposta": "O resfriado inflama as vias respiratórias e altera a vibração das cordas vocais, além de obstruir o nariz, o que muda a ressonância da voz. Sabia que hidratar-se bem ajuda a manter as cordas vocais funcionando melhor mesmo gripado?",
+    "palavras_chave": ["voz", "resfriado", "cordas vocais", "inflamação", "ressonância"]
+  },
+  {
+    "pergunta": "O que é presbiopia, a chamada ‘vista cansada’?",
+    "resposta": "A presbiopia surge com o envelhecimento, quando o cristalino perde elasticidade e dificuldade em focar objetos próximos. O uso de óculos para leitura corrige esse problema. Sabia que quase todas as pessoas desenvolvem presbiopia depois dos 40 anos?",
+    "palavras_chave": ["presbiopia", "cristalino", "envelhecimento", "visão", "óculos"]
+  },
+  {
+    "pergunta": "Por que sentimos cheiro de comida mesmo longe dela?",
+    "resposta": "As moléculas odoríferas são extremamente voláteis e viajam pelo ar em pequenas concentrações. O olfato humano é capaz de detectar traços mínimos dessas substâncias, o que explica por que sentimos o cheiro de um churrasco a metros de distância.",
+    "palavras_chave": ["cheiro", "olfato", "moléculas", "comida", "ar"]
+  },
+  {
+    "pergunta": "Como a visão e o equilíbrio estão conectados?",
+    "resposta": "A visão ajuda o cérebro a entender a posição do corpo no espaço. Quando os olhos veem movimento, mas o ouvido interno não sente, ocorre desequilíbrio — como em simuladores ou videogames. Sabia que pilotos de avião são treinados para confiar nos instrumentos e não apenas nos sentidos?",
+    "palavras_chave": ["visão", "equilíbrio", "ouvido interno", "movimento", "cérebro"]
+  },
+  {
+    "pergunta": "Por que o som do próprio corpo parece mais alto debaixo d’água?",
+    "resposta": "A água conduz melhor as vibrações internas, fazendo sons como batimentos cardíacos e respiração parecerem amplificados. Nosso ouvido capta o som por condução óssea, além da via aérea. Sabia que mergulhadores profissionais relatam ouvir o próprio corpo com nitidez impressionante?",
+    "palavras_chave": ["som", "água", "condução óssea", "audição", "vibração"]
+  },
+  {
+    "pergunta": "O que são ilusões auditivas?",
+    "resposta": "Ilusões auditivas acontecem quando o cérebro interpreta sons de forma diferente da realidade. O famoso ‘tom de Shepard’, por exemplo, parece subir infinitamente. Elas mostram como o cérebro completa e distorce informações sonoras. Sabia que existem artistas que compõem músicas inteiras baseadas nessas ilusões?",
+    "palavras_chave": ["audição", "ilusões", "som", "cérebro", "percepção"]
+  },
+  {
+    "pergunta": "Como o olfato influencia a escolha de parceiros?",
+    "resposta": "Estudos mostram que o cheiro corporal transmite informações genéticas, e o cérebro tende a preferir odores de pessoas com sistemas imunológicos diferentes do nosso, favorecendo filhos mais saudáveis. Sabia que esse fenômeno também ocorre com outros mamíferos?",
+    "palavras_chave": ["olfato", "cheiro", "genética", "parceiros", "imunidade"]
+  },
+  {
+    "pergunta": "Por que o ouvido interno é essencial para andar em linha reta?",
+    "resposta": "O ouvido interno detecta a posição e aceleração da cabeça por meio de líquidos e sensores. Ele envia informações constantes ao cérebro para ajustar o movimento e manter o corpo equilibrado. Sabia que astronautas perdem temporariamente essa referência no espaço e precisam se readaptar na Terra?",
+    "palavras_chave": ["ouvido interno", "equilíbrio", "movimento", "cérebro", "gravidade"]
+  },
+  {
+    "pergunta": "Como o cérebro diferencia sons simultâneos?",
+    "resposta": "O cérebro usa pistas como tempo, frequência e direção para separar sons, um processo chamado de segregação auditiva. É o que nos permite entender uma conversa em um ambiente barulhento. Sabia que esse fenômeno é conhecido como ‘efeito coquetel’?",
+    "palavras_chave": ["audição", "cérebro", "sons", "frequência", "percepção"]
+  },
+  {
+    "pergunta": "Por que algumas pessoas sentem arrepios ao ouvir o som de giz no quadro?",
+    "resposta": "Certos sons ativam áreas do cérebro ligadas à dor e ao nojo. O som do giz no quadro tem frequências que nosso ouvido interpreta como ameaçadoras, talvez por instinto evolutivo. Sabia que sons semelhantes aparecem nos gritos de primatas?",
+    "palavras_chave": ["som", "frequência", "emoções", "audição", "evolução"]
+  },
+  {
+    "pergunta": "Como o tato detecta dor e prazer ao mesmo tempo?",
+    "resposta": "A pele possui diferentes tipos de receptores, e o cérebro interpreta a combinação dos sinais para distinguir dor, pressão e prazer. Um toque forte pode ser doloroso, mas suave pode causar relaxamento. Sabia que massagens ativam áreas cerebrais semelhantes às da empatia?",
+    "palavras_chave": ["tato", "dor", "prazer", "receptores", "cérebro"]
+  },
+  {
+    "pergunta": "Por que a pupila muda de tamanho em resposta às emoções?",
+    "resposta": "Além da luz, a pupila reage ao estado emocional: ela se dilata em situações de interesse, medo ou atração. Isso ocorre pela ação do sistema nervoso autônomo. Sabia que pesquisadores medem dilatação pupilar para estudar reações psicológicas?",
+    "palavras_chave": ["pupila", "emoções", "sistema nervoso", "atração", "reação"]
+  },
+  {
+    "pergunta": "Por que sentimos coceira quando algo encosta levemente na pele?",
+    "resposta": "A coceira é uma resposta do corpo a estímulos leves nos nervos sensoriais da pele. Ela serve como um alerta para afastar possíveis ameaças, como insetos. O ato de coçar ativa outros receptores táteis que momentaneamente bloqueiam a sensação incômoda. Sabia que o cérebro pode gerar coceira apenas por sugestão, sem estímulo real?",
+    "palavras_chave": ["coceira", "pele", "receptores", "nervos", "cérebro"]
+  },
+  {
+    "pergunta": "Como o cérebro sabe de onde vem um som?",
+    "resposta": "O cérebro compara o tempo e a intensidade com que o som chega a cada ouvido. Pequenas diferenças, de milissegundos, ajudam a determinar a direção da fonte sonora. Esse processo é automático e muito preciso. Sabia que corujas têm assimetria nas orelhas justamente para localizar presas no escuro?",
+    "palavras_chave": ["som", "cérebro", "audição", "localização", "ouvidos"]
+  },
+  {
+    "pergunta": "Por que algumas pessoas têm medo de agulha só de olhar?",
+    "resposta": "O medo de agulha ativa o sistema límbico, responsável pelas reações emocionais e de defesa. Apenas ver a agulha já pode provocar aumento dos batimentos cardíacos e até desmaios em pessoas mais sensíveis. Sabia que esse tipo de reação pode ter origem evolutiva, como forma de evitar ferimentos?",
+    "palavras_chave": ["medo", "visão", "emoções", "sistema límbico", "agulha"]
+  },
+  {
+    "pergunta": "Como o cérebro compensa a falta de um dos sentidos?",
+    "resposta": "Quando um sentido é perdido, o cérebro se reorganiza, reforçando os outros. Esse fenômeno, chamado plasticidade neural, permite que cegos tenham tato e audição mais refinados, por exemplo. Sabia que escaneamentos cerebrais mostram a área visual de pessoas cegas ativa quando elas leem em Braille?",
+    "palavras_chave": ["cérebro", "sentidos", "plasticidade", "audição", "tato"]
+  },
+  {
+    "pergunta": "Por que vemos flashes de luz ao esfregar os olhos?",
+    "resposta": "Ao pressionar os olhos fechados, estimulamos mecanicamente a retina, que responde enviando sinais elétricos ao cérebro. Isso cria a ilusão de luzes ou formas coloridas. Sabia que esse fenômeno é chamado de 'fosfeno'?",
+    "palavras_chave": ["retina", "luz", "fosfeno", "visão", "estímulo"]
+  },
+  {
+    "pergunta": "O que acontece com os sentidos quando dormimos?",
+    "resposta": "Durante o sono, os sentidos reduzem a atividade, mas não se desligam completamente. Sons e luzes ainda podem ser processados, mas o cérebro decide se devem nos acordar. Sabia que o olfato é o sentido que mais diminui durante o sono profundo?",
+    "palavras_chave": ["sono", "sentidos", "cérebro", "olfato", "repouso"]
+  },
+  {
+    "pergunta": "Por que as lágrimas têm gosto salgado?",
+    "resposta": "As lágrimas contêm sais minerais, principalmente cloreto de sódio, que ajudam a manter o equilíbrio químico dos olhos. Essa salinidade também impede o crescimento de micro-organismos. Sabia que choramos lágrimas diferentes conforme a emoção — as de tristeza têm mais hormônios do estresse?",
+    "palavras_chave": ["lágrimas", "olhos", "sal", "emoções", "proteção"]
+  },
+  {
+    "pergunta": "Como os óculos 3D funcionam?",
+    "resposta": "Os óculos 3D apresentam duas imagens ligeiramente diferentes, uma para cada olho. O cérebro combina ambas e cria a percepção de profundidade. Sabia que esse princípio imita exatamente o modo como nossos olhos naturais produzem visão tridimensional?",
+    "palavras_chave": ["visão", "3d", "profundidade", "óculos", "cérebro"]
+  },
+  {
+    "pergunta": "Por que os olhos mudam de cor com a luz?",
+    "resposta": "O que muda não é a cor real da íris, mas a forma como a luz é refletida nela. A iluminação e o tamanho da pupila alteram a percepção da cor. Sabia que a íris é formada por fibras e pigmentos que refletem a luz de maneira única em cada pessoa?",
+    "palavras_chave": ["íris", "olhos", "luz", "reflexo", "cor"]
+  },
+  {
+    "pergunta": "Como o corpo percebe dor interna, como dor de barriga?",
+    "resposta": "Os órgãos internos têm receptores chamados nociceptores viscerais, que detectam inflamações, distensões e outros estímulos. O cérebro interpreta esses sinais como dor, embora nem sempre seja fácil localizar o ponto exato. Sabia que por isso uma dor cardíaca pode ser sentida no braço?",
+    "palavras_chave": ["dor", "órgãos", "nociceptores", "cérebro", "percepção"]
+  },
+  {
+    "pergunta": "Por que sentimos arrepio quando temos frio?",
+    "resposta": "O arrepio é uma reação automática do corpo para conservar calor. Os pelos se erguem, criando uma camada de ar isolante, como nos animais. Sabia que esse reflexo, chamado piloereção, é controlado pelo sistema nervoso autônomo?",
+    "palavras_chave": ["arrepio", "frio", "piloereção", "sistema nervoso", "temperatura"]
+  },
+  {
+    "pergunta": "Como o olfato e o paladar trabalham juntos?",
+    "resposta": "O paladar detecta apenas cinco gostos básicos, mas o olfato adiciona complexidade e aroma. Quando comemos, moléculas sobem pela cavidade nasal interna e completam a experiência gustativa. Sabia que 80% do que chamamos de ‘sabor’ vem do cheiro?",
+    "palavras_chave": ["paladar", "olfato", "gosto", "cheiro", "sabores"]
+  },
+  {
+    "pergunta": "Por que as crianças têm audição mais sensível?",
+    "resposta": "Com o tempo, as células ciliadas da cóclea se desgastam, especialmente por exposição a sons altos. As crianças, por terem audição intacta, escutam frequências mais agudas que os adultos. Sabia que há aplicativos que emitem sons que só jovens conseguem ouvir?",
+    "palavras_chave": ["audição", "crianças", "frequência", "cóclea", "sons"]
+  },
+  {
+    "pergunta": "O que são os receptores de dor da pele?",
+    "resposta": "São terminações nervosas livres que detectam estímulos potencialmente perigosos, como calor, frio extremo ou pressão intensa. Elas enviam sinais ao cérebro, que interpreta como dor. Sabia que o cérebro não sente dor, mas interpreta os sinais que vêm de outras partes do corpo?",
+    "palavras_chave": ["dor", "pele", "receptores", "nervos", "cérebro"]
+  },
+  {
+    "pergunta": "Como funciona a visão em cores nos dispositivos eletrônicos?",
+    "resposta": "Telas digitais misturam luzes vermelha, verde e azul (sistema RGB) para criar milhões de cores. Nossos cones oculares percebem essas combinações como tons variados. Sabia que o mesmo princípio inspirou o funcionamento das antigas TVs de tubo?",
+    "palavras_chave": ["visão", "cores", "rgb", "tela", "luz"]
+  },
+  {
+    "pergunta": "Por que sentimos formigamento ao ficar muito tempo na mesma posição?",
+    "resposta": "Ficar parado comprime nervos e vasos sanguíneos, reduzindo a circulação e a transmissão de impulsos. Quando o fluxo volta, sentimos o formigamento. Sabia que esse fenômeno é chamado de parestesia?",
+    "palavras_chave": ["formigamento", "nervos", "circulação", "parestesia", "sensação"]
+  },
+  {
+    "pergunta": "Como o ouvido distingue sons agudos e graves?",
+    "resposta": "Na cóclea, as ondas sonoras estimulam diferentes regiões: a base responde aos sons agudos e o topo aos graves. O cérebro interpreta essas frequências distintas e as organiza como tons. Sabia que essa capacidade diminui com a idade, principalmente para sons agudos?",
+    "palavras_chave": ["cóclea", "audição", "frequência", "sons", "cérebro"]
+  },
+  {
+    "pergunta": "Por que o som do próprio nome chama mais atenção?",
+    "resposta": "O cérebro prioriza sons que têm significado pessoal. Ouvir o próprio nome ativa áreas de atenção e emoção, mesmo em ambientes barulhentos. Sabia que esse reflexo é usado em propagandas e mensagens sonoras para capturar nossa atenção?",
+    "palavras_chave": ["nome", "audição", "atenção", "cérebro", "emoções"]
+  },
+  {
+    "pergunta": "O que é cegueira noturna?",
+    "resposta": "É a dificuldade de enxergar em ambientes escuros, geralmente causada pela deficiência de vitamina A ou por doenças da retina. Sabia que alimentos como cenoura e abóbora ajudam a prevenir o problema?",
+    "palavras_chave": ["cegueira noturna", "retina", "vitamina a", "visão", "luz"]
+  },
+  {
+    "pergunta": "Por que sentimos tontura ao levantar rápido?",
+    "resposta": "Levantar bruscamente pode reduzir o fluxo sanguíneo momentâneo no cérebro, causando a chamada hipotensão postural. Isso faz a visão escurecer e dá sensação de desequilíbrio. Sabia que beber água e levantar devagar ajuda a evitar esse efeito?",
+    "palavras_chave": ["tontura", "pressão", "cérebro", "equilíbrio", "sangue"]
+  },
+  {
+    "pergunta": "Como o olfato pode indicar perigo?",
+    "resposta": "O olfato detecta gases tóxicos, fumaça e alimentos estragados antes que o corpo entre em contato com o perigo. Essa é uma das funções mais antigas e instintivas do sistema sensorial humano. Sabia que algumas pessoas com COVID-19 perderam temporariamente essa importante defesa?",
+    "palavras_chave": ["olfato", "cheiro", "perigo", "proteção", "instinto"]
+  },
+  {
+    "pergunta": "Por que sentimos frio ao sair do banho?",
+    "resposta": "A água evapora da pele e retira calor do corpo nesse processo, o que provoca a sensação de frio. É o mesmo princípio usado pelo suor para resfriar o organismo. Sabia que essa evaporação é chamada de resfriamento evaporativo?",
+    "palavras_chave": ["frio", "pele", "evaporação", "calor", "banho"]
+  },
+  {
+    "pergunta": "Como o cérebro cria ilusões visuais?",
+    "resposta": "As ilusões visuais acontecem porque o cérebro tenta interpretar padrões e perspectivas com base em experiências anteriores. Ele ‘preenche’ lacunas e, às vezes, se engana. Sabia que artistas como Escher exploraram esse fenômeno em suas obras?",
+    "palavras_chave": ["ilusão", "visão", "cérebro", "percepção", "arte"]
+  },
+  {
+    "pergunta": "Por que sentimos o som do coração após exercícios?",
+    "resposta": "Durante o esforço, o coração bombeia mais sangue, e as vibrações se espalham pelo corpo. Como a audição interna aumenta a sensibilidade após o exercício, percebemos o som com mais clareza. Sabia que isso é chamado de percepção somática do pulso?",
+    "palavras_chave": ["coração", "som", "audição", "exercício", "pulso"]
+  },
+  {
+    "pergunta": "Como a visão se adapta ao uso de óculos novos?",
+    "resposta": "Nos primeiros dias, o cérebro precisa ajustar a forma como processa as imagens corrigidas pelas lentes. Esse período de adaptação varia de pessoa para pessoa. Sabia que o cérebro pode até 'recalibrar' o equilíbrio corporal nesse processo?",
+    "palavras_chave": ["visão", "óculos", "adaptação", "cérebro", "lentes"]
+  },
+  {
+    "pergunta": "Por que sentimos gosto metálico às vezes?",
+    "resposta": "O gosto metálico pode surgir por alterações nas papilas gustativas, medicamentos ou deficiências nutricionais. Ele também aparece após esforço intenso ou contato com metais. Sabia que certos remédios mudam temporariamente a percepção gustativa?",
+    "palavras_chave": ["gosto", "papilas", "metálico", "paladar", "nutrição"]
+  },
+  {
+    "pergunta": "O que é o reflexo de piscada?",
+    "resposta": "É uma resposta automática que protege os olhos contra objetos, luz intensa ou vento. A piscada espalha a lágrima, limpa a superfície ocular e mantém a lubrificação. Sabia que piscamos em média 15 a 20 vezes por minuto?",
+    "palavras_chave": ["piscada", "reflexo", "olhos", "proteção", "lágrimas"]
+  },
+  {
+    "pergunta": "Por que a pele fica arrepiada quando sentimos medo?",
+    "resposta": "O medo ativa o sistema nervoso simpático, que contrai músculos ligados aos pelos — o mesmo reflexo usado pelos animais para parecerem maiores. Sabia que esse reflexo é o mesmo que causa arrepio com música intensa?",
+    "palavras_chave": ["medo", "arrepio", "pelo", "emoções", "sistema nervoso"]
+  },
+  {
+    "pergunta": "Como os cães têm olfato tão mais aguçado que o humano?",
+    "resposta": "Os cães possuem até 300 milhões de receptores olfativos, enquanto nós temos cerca de 5 milhões. Além disso, a área cerebral dedicada ao olfato é muito maior. Sabia que eles conseguem detectar uma gota de sangue em uma piscina olímpica?",
+    "palavras_chave": ["cães", "olfato", "cheiro", "receptores", "cérebro"]
+  },
+  {
+    "pergunta": "Por que algumas pessoas sentem enjoo com cheiros fortes?",
+    "resposta": "Cheiros intensos ativam receptores olfativos e o sistema nervoso autônomo, o que pode gerar náusea em pessoas mais sensíveis. O cérebro interpreta o odor como um possível perigo. Sabia que isso é uma reação protetiva herdada da evolução?",
+    "palavras_chave": ["olfato", "cheiro", "náusea", "cérebro", "evolução"]
+  },
+  {
+    "pergunta": "Por que o som do mar acalma tanta gente?",
+    "resposta": "O som do mar tem um ritmo constante e previsível, semelhante ao da respiração humana. Esse padrão ajuda o cérebro a entrar em estado de relaxamento, reduzindo o estresse. Sabia que esse tipo de som é chamado de 'ruído branco natural'?",
+    "palavras_chave": ["som", "mar", "relaxamento", "ruído branco", "cérebro"]
+  },
+  {
+    "pergunta": "Como o cérebro interpreta o gosto picante?",
+    "resposta": "Na verdade, o picante não é um sabor, mas uma sensação de dor térmica provocada pela capsaicina, presente na pimenta. Ela estimula os mesmos receptores que detectam calor. Sabia que por isso o corpo reage suando quando comemos algo muito apimentado?",
+    "palavras_chave": ["paladar", "pimenta", "capsaicina", "receptores", "sensação"]
+  },
+  {
+    "pergunta": "Por que o cheiro de café é tão marcante pela manhã?",
+    "resposta": "O aroma do café contém centenas de compostos voláteis que estimulam o sistema olfativo e áreas do cérebro associadas ao prazer e à memória. Sabia que apenas o cheiro do café pode aumentar o estado de alerta antes mesmo do primeiro gole?",
+    "palavras_chave": ["café", "cheiro", "olfato", "memória", "alerta"]
+  },
+  {
+    "pergunta": "Como funciona o equilíbrio do corpo?",
+    "resposta": "O equilíbrio é controlado pelo sistema vestibular, localizado no ouvido interno. Ele detecta movimentos e posição da cabeça, enviando sinais ao cérebro e aos músculos. Sabia que problemas nessa região podem causar vertigem e desequilíbrio?",
+    "palavras_chave": ["equilíbrio", "ouvido interno", "vestibular", "cérebro", "vertigem"]
+  },
+  {
+    "pergunta": "Por que o som dentro da piscina parece diferente?",
+    "resposta": "A água conduz o som cerca de quatro vezes mais rápido que o ar, mas o ouvido humano não está adaptado a essa transmissão. Por isso o som parece abafado e difícil de localizar. Sabia que golfinhos usam essa propagação para se comunicar a longas distâncias?",
+    "palavras_chave": ["som", "água", "audição", "velocidade", "comunicação"]
+  },
+  {
+    "pergunta": "Como o cérebro reconhece vozes familiares?",
+    "resposta": "O cérebro cria uma espécie de 'assinatura sonora' para cada voz conhecida, armazenando padrões de frequência e ritmo. Isso permite reconhecer alguém mesmo em meio a barulho. Sabia que bebês conseguem identificar a voz da mãe ainda no útero?",
+    "palavras_chave": ["voz", "audição", "memória", "cérebro", "reconhecimento"]
+  },
+  {
+    "pergunta": "O que é daltonismo?",
+    "resposta": "O daltonismo é uma alteração genética que afeta os cones da retina, dificultando distinguir certas cores, especialmente vermelho e verde. Sabia que o nome vem de John Dalton, cientista britânico que também era daltônico?",
+    "palavras_chave": ["daltonismo", "retina", "cores", "cones", "genética"]
+  },
+  {
+    "pergunta": "Por que sentimos orelhas tampadas durante um voo?",
+    "resposta": "A diferença de pressão entre o ouvido interno e o ambiente causa essa sensação. Engolir ou mascar algo ajuda a equilibrar a pressão pela trompa de Eustáquio. Sabia que bebês sofrem mais com isso porque o canal deles é mais estreito?",
+    "palavras_chave": ["pressão", "ouvido", "voo", "trompa de eustáquio", "barotrauma"]
+  },
+  {
+    "pergunta": "Como os olhos se adaptam à escuridão?",
+    "resposta": "Na ausência de luz, a pupila se dilata e a retina passa a usar mais bastonetes, células sensíveis a pouca luminosidade. O processo completo pode levar até 30 minutos. Sabia que pilotos de guerra mantinham um olho tampado para preservar a visão noturna?",
+    "palavras_chave": ["visão", "pupila", "retina", "bastonetes", "escuridão"]
+  },
+  {
+    "pergunta": "O que é zumbido no ouvido?",
+    "resposta": "O zumbido, ou tinnitus, é a percepção de som sem fonte externa, causado por danos nas células auditivas ou por estresse. Sabia que o silêncio total pode intensificar a percepção desse som interno?",
+    "palavras_chave": ["zumbido", "ouvido", "audição", "tinnitus", "som"]
+  },
+  {
+    "pergunta": "Por que algumas pessoas são mais sensíveis à luz?",
+    "resposta": "Essa sensibilidade, chamada fotofobia, pode estar ligada a enxaquecas, infecções ou simplesmente olhos mais claros. Sabia que usar óculos com proteção UV ajuda a reduzir o desconforto em ambientes muito iluminados?",
+    "palavras_chave": ["luz", "fotofobia", "olhos", "proteção", "visão"]
+  },
+  {
+    "pergunta": "Como o paladar muda com a idade?",
+    "resposta": "Com o passar dos anos, o número de papilas gustativas diminui, e a saliva se torna menos abundante. Isso reduz a percepção dos sabores. Sabia que idosos costumam preferir comidas mais temperadas por causa dessa perda de sensibilidade?",
+    "palavras_chave": ["paladar", "idade", "papilas", "sabores", "saliva"]
+  },
+  {
+    "pergunta": "Por que algumas músicas nos fazem chorar?",
+    "resposta": "A música ativa áreas cerebrais ligadas à emoção, memória e prazer. Certas melodias despertam lembranças e reações físicas, como arrepios e lágrimas. Sabia que a dopamina, neurotransmissor do prazer, aumenta quando ouvimos uma música que amamos?",
+    "palavras_chave": ["música", "emoções", "cérebro", "dopamina", "memória"]
+  },
+  {
+    "pergunta": "O que causa a perda de olfato após um resfriado?",
+    "resposta": "Infecções respiratórias inflamam as vias nasais e afetam os neurônios olfativos, impedindo a passagem de moléculas de cheiro. Sabia que esses neurônios se regeneram com o tempo, o que nem todo tecido nervoso faz?",
+    "palavras_chave": ["olfato", "resfriado", "nariz", "neurônios", "inflamação"]
+  },
+  {
+    "pergunta": "Como o corpo distingue quente e frio?",
+    "resposta": "A pele tem receptores específicos que reagem a variações de temperatura, enviando sinais diferentes para o cérebro. Sabia que alguns estímulos, como o mentol, enganam o cérebro e causam sensação de frio mesmo sem alterar a temperatura real?",
+    "palavras_chave": ["temperatura", "pele", "receptores", "frio", "quente"]
+  },
+  {
+    "pergunta": "Por que o cheiro da chuva é tão agradável?",
+    "resposta": "O aroma vem de compostos liberados pelo solo e por bactérias quando a chuva cai, como o geosmina. Esse cheiro ativa memórias e emoções positivas. Sabia que nosso nariz é extremamente sensível à geosmina, mesmo em baixíssimas concentrações?",
+    "palavras_chave": ["chuva", "cheiro", "geosmina", "memória", "emoções"]
+  },
+  {
+    "pergunta": "Por que sentimos o som vibrar no peito em shows altos?",
+    "resposta": "Sons muito graves fazem o ar vibrar em baixa frequência, o que pode ser sentido fisicamente pelo corpo. É uma experiência sensorial completa, não apenas auditiva. Sabia que certas frequências são usadas terapeuticamente para relaxamento muscular?",
+    "palavras_chave": ["som", "vibração", "grave", "frequência", "corpo"]
+  },
+  {
+    "pergunta": "Como o cérebro diferencia vozes humanas de sons artificiais?",
+    "resposta": "A voz humana tem padrões complexos de entonação e ritmo que o cérebro reconhece facilmente. Sons artificiais tendem a ser mais regulares. Sabia que crianças pequenas já conseguem distinguir a voz da mãe de outras vozes aos poucos dias de vida?",
+    "palavras_chave": ["voz", "audição", "cérebro", "sons", "reconhecimento"]
+  },
+  {
+    "pergunta": "Por que alguns sons dão arrepios, como unhas no quadro?",
+    "resposta": "Certas frequências ativam uma resposta instintiva de alerta no cérebro, possivelmente herdada da evolução. Esses sons lembram gritos de alarme de animais. Sabia que cientistas descobriram que o desconforto é maior entre 2000 e 4000 Hz?",
+    "palavras_chave": ["som", "frequência", "arrepio", "cérebro", "evolução"]
+  },
+  {
+    "pergunta": "Como os olhos reconhecem rostos?",
+    "resposta": "O cérebro possui uma área especializada chamada giro fusiforme, que processa padrões faciais. Ele compara cada rosto visto com memórias armazenadas. Sabia que algumas pessoas têm prosopagnosia, uma condição que impede reconhecer rostos?",
+    "palavras_chave": ["rostos", "visão", "cérebro", "memória", "reconhecimento"]
+  },
+  {
+    "pergunta": "Por que sentimos o ouvido estalar ao engolir?",
+    "resposta": "Ao engolir, abrimos momentaneamente a trompa de Eustáquio, equalizando a pressão entre o ouvido médio e o ambiente. O estalo é o som desse ajuste. Sabia que mergulhadores fazem o mesmo movimento para evitar dor na descida?",
+    "palavras_chave": ["ouvido", "pressão", "trompa de eustáquio", "som", "mergulho"]
+  },
+  {
+    "pergunta": "O que causa a visão dupla?",
+    "resposta": "A visão dupla, ou diplopia, ocorre quando os olhos não se alinham corretamente, enviando imagens diferentes ao cérebro. Pode ser causada por fadiga ocular ou problemas neurológicos. Sabia que o cérebro às vezes 'desliga' um olho para compensar?",
+    "palavras_chave": ["visão", "diplopia", "olhos", "cérebro", "alinhamento"]
+  },
+  {
+    "pergunta": "Como o olfato se relaciona com o apetite?",
+    "resposta": "O cheiro dos alimentos ativa o sistema digestivo antes mesmo da comida chegar à boca, aumentando a produção de saliva e sucos gástricos. Sabia que quem perde o olfato tende a comer menos, justamente por essa conexão direta?",
+    "palavras_chave": ["olfato", "apetite", "cheiro", "digestão", "saliva"]
+  },
+  {
+    "pergunta": "Por que ficamos zonzos depois de girar várias vezes?",
+    "resposta": "Ao girar, o líquido nos canais semicirculares do ouvido continua se movendo mesmo depois que paramos, confundindo o cérebro sobre a posição do corpo. Sabia que astronautas treinam para reduzir esse tipo de desorientação?",
+    "palavras_chave": ["equilíbrio", "ouvido interno", "giro", "cérebro", "tontura"]
+  },
+  {
+    "pergunta": "O que é visão periférica?",
+    "resposta": "É a capacidade de perceber o que está ao redor do campo visual direto. Ela é mais sensível ao movimento, mas menos precisa em detalhes e cores. Sabia que a visão periférica é essencial para dirigir e praticar esportes?",
+    "palavras_chave": ["visão", "periférica", "campo visual", "movimento", "olhos"]
+  },
+  {
+    "pergunta": "Por que o som parece diferente quando tapamos um ouvido?",
+    "resposta": "Com apenas um ouvido funcionando, o cérebro perde as pistas de tempo e intensidade usadas para localizar o som. Isso faz o áudio parecer mais 'achatado' e distante. Sabia que orelhas humanas não captam igual — uma sempre ouve ligeiramente melhor?",
+    "palavras_chave": ["audição", "ouvidos", "som", "localização", "cérebro"]
+  },
+  {
+    "pergunta": "Como o tato influencia nossas emoções?",
+    "resposta": "O toque libera hormônios como a ocitocina, que traz sensação de conforto e confiança. Por isso, abraços e carícias têm efeito calmante. Sabia que o tato é o primeiro sentido a se desenvolver ainda no útero?",
+    "palavras_chave": ["tato", "emoções", "ocitocina", "toque", "cérebro"]
+  },
+  {
+    "pergunta": "Por que a visão de realidade virtual pode causar enjoo?",
+    "resposta": "O enjoo ocorre quando os olhos veem movimento, mas o corpo está parado. Esse conflito entre visão e equilíbrio confunde o cérebro, gerando náusea. Sabia que esse efeito é chamado de 'cinetose visual'?",
+    "palavras_chave": ["realidade virtual", "visão", "enjoo", "equilíbrio", "cérebro"]
+  },
+  {
+    "pergunta": "Como os cegos reconhecem ambientes pelo som?",
+    "resposta": "Eles desenvolvem a ecolocalização — a habilidade de interpretar ecos e reverberações dos sons ao redor. Com prática, conseguem perceber obstáculos e distâncias. Sabia que algumas pessoas cegas usam estalos de língua para se orientar, como morcegos?",
+    "palavras_chave": ["cegueira", "som", "ecolocalização", "audição", "espaço"]
+  },
+  {
+    "pergunta": "Por que o olfato é tão ligado às lembranças?",
+    "resposta": "O bulbo olfativo fica próximo ao hipocampo, área responsável pela memória. Por isso, cheiros ativam lembranças de forma instantânea e emocional. Sabia que esse efeito é explorado na aromaterapia para estimular bem-estar?",
+    "palavras_chave": ["olfato", "memória", "cheiro", "cérebro", "emoções"]
+  }
+]

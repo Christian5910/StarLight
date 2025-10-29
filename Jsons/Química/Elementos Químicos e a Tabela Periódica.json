@@ -1,0 +1,537 @@
+[
+  {
+    "pergunta": "O que são elementos químicos?",
+    "resposta": "Elementos químicos são substâncias formadas por átomos do mesmo tipo, ou seja, com o mesmo número de prótons no núcleo. Eles são os blocos fundamentais de toda a matéria. Cada elemento tem propriedades únicas, como o hidrogênio, que é leve e inflamável, e o ouro, que é denso e brilhante. Sabia que, até hoje, já foram identificados mais de 100 elementos diferentes, incluindo os naturais e os criados em laboratório?",
+    "palavras_chave": ["elementos", "átomos", "prótons", "matéria", "substâncias"]
+  },
+  {
+    "pergunta": "Como os elementos estão organizados na Tabela Periódica?",
+    "resposta": "A Tabela Periódica organiza os elementos de acordo com o número atômico crescente, ou seja, pelo número de prótons em cada átomo. Os elementos com propriedades semelhantes ficam na mesma coluna, chamada de grupo ou família. Já as linhas horizontais são chamadas de períodos. Essa organização ajuda a prever comportamentos químicos. Sabia que a estrutura atual da tabela é inspirada na proposta de Dmitri Mendeleev, feita lá em 1869?",
+    "palavras_chave": ["tabela periódica", "número atômico", "grupos", "períodos", "mendeleev"]
+  },
+  {
+    "pergunta": "O que significa o número atômico de um elemento?",
+    "resposta": "O número atômico indica a quantidade de prótons presentes no núcleo de um átomo. Ele é o que diferencia um elemento químico de outro — por exemplo, o hidrogênio tem número atômico 1, enquanto o oxigênio tem 8. Esse número também determina o comportamento químico da substância. Sabia que, na Tabela Periódica, os elementos estão dispostos exatamente em ordem crescente de número atômico?",
+    "palavras_chave": ["número atômico", "prótons", "átomos", "tabela periódica", "elementos"]
+  },
+  {
+    "pergunta": "Quem criou a primeira versão da Tabela Periódica moderna?",
+    "resposta": "O cientista russo Dmitri Mendeleev foi o responsável por montar, em 1869, a primeira versão da Tabela Periódica moderna. Ele organizou os elementos conhecidos da época de acordo com suas massas atômicas e propriedades químicas semelhantes. O mais impressionante é que ele deixou espaços em branco para elementos ainda não descobertos — e previu corretamente vários deles. Sabia que o elemento de número 101, o mendelévio, recebeu esse nome em sua homenagem?",
+    "palavras_chave": ["mendeleev", "tabela periódica", "massas atômicas", "elementos", "descobertas"]
+  },
+  {
+    "pergunta": "O que são grupos e períodos na Tabela Periódica?",
+    "resposta": "Na Tabela Periódica, os grupos são as colunas verticais que reúnem elementos com propriedades químicas parecidas — por exemplo, os gases nobres ou os metais alcalinos. Já os períodos são as linhas horizontais, que mostram o aumento progressivo do número atômico. Essa disposição reflete a estrutura eletrônica dos átomos. Sabia que os elementos do mesmo grupo costumam reagir de maneiras muito semelhantes?",
+    "palavras_chave": ["grupos", "períodos", "propriedades", "tabela periódica", "elementos"]
+  },
+  {
+    "pergunta": "O que diferencia metais, ametais e semimetais?",
+    "resposta": "Os metais são bons condutores de calor e eletricidade, geralmente brilhantes e maleáveis, como o ferro e o cobre. Já os ametais são maus condutores e podem ser gases ou sólidos quebradiços, como o oxigênio e o enxofre. Os semimetais, como o silício, têm propriedades intermediárias. Sabia que os metais ocupam cerca de 80% de toda a Tabela Periódica?",
+    "palavras_chave": ["metais", "ametais", "semimetais", "condutividade", "propriedades"]
+  },
+  {
+    "pergunta": "Por que o hidrogênio é um elemento especial na Tabela Periódica?",
+    "resposta": "O hidrogênio é especial porque, embora esteja na primeira posição da Tabela Periódica, não pertence de fato a nenhum grupo. Ele tem características que lembram tanto os metais alcalinos quanto os halogênios. Além disso, é o elemento mais abundante do universo, presente nas estrelas e na água. Sabia que cerca de 75% da massa do universo visível é composta por hidrogênio?",
+    "palavras_chave": ["hidrogênio", "tabela periódica", "alcalinos", "halogênios", "universo"]
+  },
+  {
+    "pergunta": "O que são os metais alcalinos?",
+    "resposta": "Os metais alcalinos formam o grupo 1 da Tabela Periódica e incluem elementos como lítio, sódio e potássio. Eles são extremamente reativos, especialmente com a água, e nunca são encontrados puros na natureza. São também bons condutores de eletricidade. Sabia que o sódio reage tão violentamente com a água que precisa ser guardado em óleo para não explodir?",
+    "palavras_chave": ["metais alcalinos", "sódio", "potássio", "reatividade", "grupo 1"]
+  },
+  {
+    "pergunta": "Quem foi Henry Moseley e qual sua contribuição para a Tabela Periódica?",
+    "resposta": "Henry Moseley foi um físico britânico que, em 1913, determinou experimentalmente o número atômico dos elementos usando raios X. Sua descoberta mostrou que a organização correta da Tabela Periódica deveria ser feita com base no número de prótons, e não na massa atômica. Isso corrigiu os erros da tabela de Mendeleev. Sabia que Moseley morreu muito jovem, com apenas 27 anos, durante a Primeira Guerra Mundial?",
+    "palavras_chave": ["moseley", "número atômico", "tabela periódica", "raios x", "mendeleev"]
+  },
+  {
+    "pergunta": "O que são os gases nobres?",
+    "resposta": "Os gases nobres são os elementos do grupo 18 da Tabela Periódica, como hélio, neônio e argônio. Eles são quimicamente muito estáveis, porque têm suas camadas eletrônicas completas. Por isso, raramente formam compostos. Sabia que o gás hélio foi descoberto primeiro no Sol, antes mesmo de ser encontrado na Terra?",
+    "palavras_chave": ["gases nobres", "hélio", "neônio", "estabilidade", "grupo 18"]
+  },
+  {
+    "pergunta": "Como a Tabela Periódica ajuda a prever o comportamento químico dos elementos?",
+    "resposta": "A posição de um elemento na Tabela Periódica indica quantos elétrons ele tem em suas camadas e como tende a reagir. Elementos do mesmo grupo, por exemplo, reagem de formas semelhantes porque têm o mesmo número de elétrons na última camada. Assim, a tabela funciona como um mapa de propriedades químicas. Sabia que até o tipo de ligação que um átomo faz pode ser previsto pela sua posição?",
+    "palavras_chave": ["tabela periódica", "elétrons", "camadas", "reações químicas", "propriedades"]
+  },
+  {
+    "pergunta": "O que são os metais de transição?",
+    "resposta": "Os metais de transição são aqueles localizados no centro da Tabela Periódica, entre os grupos 3 e 12. Eles incluem o ferro, o cobre e o ouro. São conhecidos por formarem compostos coloridos e por apresentarem múltiplos estados de oxidação. Sabia que o ferro é o metal mais usado do mundo e essencial para a formação do sangue humano?",
+    "palavras_chave": ["metais de transição", "ferro", "ouro", "oxidação", "propriedades"]
+  },
+  {
+    "pergunta": "Por que alguns elementos são chamados de sintéticos?",
+    "resposta": "Elementos sintéticos são aqueles que não existem naturalmente na Terra — eles são produzidos artificialmente em laboratórios ou reatores nucleares. Exemplos são o tecnécio e o oganessônio. Muitos deles são instáveis e se desintegram rapidamente. Sabia que o primeiro elemento sintético criado foi o tecnécio, em 1937?",
+    "palavras_chave": ["elementos sintéticos", "laboratório", "tecnécio", "instabilidade", "radioatividade"]
+  },
+  {
+    "pergunta": "O que é a camada de valência de um átomo?",
+    "resposta": "A camada de valência é a camada mais externa de elétrons de um átomo, e é ela que determina como o elemento vai reagir quimicamente. Os elétrons dessa camada participam das ligações químicas. Sabia que os gases nobres são tão estáveis justamente porque têm a camada de valência completa?",
+    "palavras_chave": ["camada de valência", "elétrons", "ligações químicas", "átomo", "estabilidade"]
+  },
+  {
+    "pergunta": "Qual é o elemento mais abundante no planeta Terra?",
+    "resposta": "O elemento mais abundante na crosta terrestre é o oxigênio, que representa quase metade da sua composição. Ele está presente em minerais, na água e no ar que respiramos. Já no núcleo da Terra, o ferro é o mais comum. Sabia que, no universo, o elemento mais abundante é o hidrogênio?",
+    "palavras_chave": ["oxigênio", "terra", "crosta", "abundância", "hidrogênio"]
+  },
+  {
+    "pergunta": "O que são os halogênios?",
+    "resposta": "Os halogênios são os elementos do grupo 17 da Tabela Periódica, como flúor, cloro, bromo e iodo. Eles são altamente reativos e tendem a formar sais com metais, como o cloreto de sódio, o sal de cozinha. Sabia que o nome 'halogênio' vem do grego e significa 'gerador de sais'?",
+    "palavras_chave": ["halogênios", "flúor", "cloro", "sais", "grupo 17"]
+  },
+  {
+    "pergunta": "O que são os elementos representativos?",
+    "resposta": "Os elementos representativos são aqueles localizados nos grupos 1, 2 e de 13 a 18 da Tabela Periódica. Eles apresentam propriedades químicas bem definidas e seguem um padrão claro de configuração eletrônica. Incluem metais, ametais e gases nobres. Sabia que esses elementos estão envolvidos nas reações químicas mais comuns do nosso dia a dia, como a combustão e a respiração?",
+    "palavras_chave": ["elementos representativos", "grupos", "configuração eletrônica", "tabela periódica", "reações"]
+  },
+  {
+    "pergunta": "Por que os elementos de um mesmo grupo têm propriedades semelhantes?",
+    "resposta": "Os elementos de um mesmo grupo têm o mesmo número de elétrons na camada de valência, o que faz com que se comportem quimicamente de forma parecida. Por exemplo, o sódio e o potássio, ambos do grupo dos metais alcalinos, reagem de modo semelhante com a água. Sabia que essa repetição de propriedades é o que dá nome à Tabela ‘Periódica’?",
+    "palavras_chave": ["grupos", "camada de valência", "propriedades", "metais alcalinos", "tabela periódica"]
+  },
+  {
+    "pergunta": "O que caracteriza um elemento metálico?",
+    "resposta": "Os elementos metálicos são caracterizados pelo brilho, boa condução de calor e eletricidade, e pela capacidade de formar íons positivos nas reações químicas. Eles também são maleáveis e dúcteis. Sabia que o ouro é o único metal que ocorre quase puro na natureza e não enferruja?",
+    "palavras_chave": ["metais", "condutividade", "íons", "maleabilidade", "ouro"]
+  },
+  {
+    "pergunta": "O que são os elementos de transição interna?",
+    "resposta": "Os elementos de transição interna são os lantanídeos e actinídeos, localizados nas duas linhas separadas na parte inferior da Tabela Periódica. Eles possuem elétrons nos orbitais f e têm propriedades muito semelhantes entre si. Sabia que o urânio, um actinídeo, é o combustível mais usado em usinas nucleares?",
+    "palavras_chave": ["transição interna", "lantanídeos", "actinídeos", "urânio", "orbitais f"]
+  },
+  {
+    "pergunta": "Como a Tabela Periódica evoluiu ao longo do tempo?",
+    "resposta": "A Tabela Periódica começou com apenas algumas dezenas de elementos e foi sendo atualizada à medida que novas descobertas surgiam. Mendeleev organizou os primeiros, depois Moseley aperfeiçoou com o número atômico, e no século XX foram incluídos os elementos sintéticos. Sabia que o elemento mais recente, o oganessônio, foi adicionado oficialmente em 2016?",
+    "palavras_chave": ["tabela periódica", "história", "mendeleev", "moseley", "oganessônio"]
+  },
+  {
+    "pergunta": "O que é a periodicidade das propriedades químicas?",
+    "resposta": "A periodicidade é a repetição regular de certas propriedades dos elementos conforme o número atômico aumenta. Isso explica por que elementos do mesmo grupo se comportam de forma parecida. Propriedades como eletronegatividade e raio atômico variam de maneira previsível. Sabia que esse padrão foi o que permitiu a Mendeleev prever elementos ainda não descobertos?",
+    "palavras_chave": ["periodicidade", "propriedades", "eletronegatividade", "raio atômico", "mendeleev"]
+  },
+  {
+    "pergunta": "O que é eletronegatividade e como ela varia na Tabela Periódica?",
+    "resposta": "A eletronegatividade indica a tendência que um átomo tem de atrair elétrons em uma ligação química. Na Tabela Periódica, ela aumenta da esquerda para a direita e de baixo para cima. O flúor é o elemento mais eletronegativo de todos. Sabia que essa propriedade explica por que algumas ligações são polares e outras não?",
+    "palavras_chave": ["eletronegatividade", "ligações químicas", "flúor", "tabela periódica", "polaridade"]
+  },
+  {
+    "pergunta": "O que é o raio atômico?",
+    "resposta": "O raio atômico é a distância média entre o núcleo e a camada mais externa de elétrons de um átomo. Ele diminui da esquerda para a direita e aumenta de cima para baixo na Tabela Periódica. Isso ocorre por causa da atração entre prótons e elétrons. Sabia que o césio tem um dos maiores raios atômicos conhecidos?",
+    "palavras_chave": ["raio atômico", "núcleo", "elétrons", "tabela periódica", "césio"]
+  },
+  {
+    "pergunta": "O que é energia de ionização?",
+    "resposta": "A energia de ionização é a quantidade de energia necessária para retirar um elétron de um átomo no estado gasoso. Quanto mais forte for a atração entre o núcleo e os elétrons, maior será essa energia. Sabia que o hélio tem a maior energia de ionização de todos os elementos?",
+    "palavras_chave": ["energia de ionização", "elétrons", "átomos", "hélio", "tabela periódica"]
+  },
+  {
+    "pergunta": "O que significa afinidade eletrônica?",
+    "resposta": "Afinidade eletrônica é a energia liberada quando um átomo neutro ganha um elétron. Ela mede a facilidade com que o átomo aceita elétrons. Na Tabela Periódica, aumenta da esquerda para a direita e de baixo para cima. Sabia que o cloro tem uma das maiores afinidades eletrônicas conhecidas?",
+    "palavras_chave": ["afinidade eletrônica", "elétrons", "energia", "átomo", "cloro"]
+  },
+  {
+    "pergunta": "Por que o hélio não forma compostos químicos?",
+    "resposta": "O hélio tem sua camada de valência completamente preenchida, com dois elétrons, o que o torna extremamente estável e inerte. Por isso, ele não reage com outros elementos. Sabia que o hélio é tão leve que escapa facilmente da atmosfera terrestre?",
+    "palavras_chave": ["hélio", "inércia química", "camada de valência", "estabilidade", "gases nobres"]
+  },
+  {
+    "pergunta": "Qual é a diferença entre massa atômica e número atômico?",
+    "resposta": "O número atômico representa o número de prótons no núcleo, enquanto a massa atômica é a soma de prótons e nêutrons. Dois átomos do mesmo elemento podem ter massas diferentes — são os chamados isótopos. Sabia que o carbono-14 é um isótopo usado para datar fósseis antigos?",
+    "palavras_chave": ["massa atômica", "número atômico", "prótons", "nêutrons", "isótopos"]
+  },
+  {
+    "pergunta": "O que são isótopos?",
+    "resposta": "Isótopos são átomos do mesmo elemento que têm o mesmo número de prótons, mas números diferentes de nêutrons. Por isso, têm massas diferentes, mas comportamento químico semelhante. Sabia que o hidrogênio tem três isótopos naturais: prótio, deutério e trítio?",
+    "palavras_chave": ["isótopos", "nêutrons", "átomos", "massa", "hidrogênio"]
+  },
+  {
+    "pergunta": "O que significa o termo 'símbolo químico'?",
+    "resposta": "O símbolo químico é a abreviação internacional que representa cada elemento. Ele é formado por uma ou duas letras, sendo a primeira sempre maiúscula. Por exemplo, O é oxigênio e Fe é ferro. Sabia que muitos símbolos vêm do latim, como 'Na' de natrium, para o sódio?",
+    "palavras_chave": ["símbolo químico", "elementos", "tabela periódica", "latim", "representação"]
+  },
+  {
+    "pergunta": "Por que os metais alcalino-terrosos são importantes?",
+    "resposta": "Os metais alcalino-terrosos pertencem ao grupo 2 e incluem elementos como cálcio, magnésio e bário. Eles são essenciais em processos biológicos e industriais. O cálcio, por exemplo, é vital para os ossos. Sabia que o magnésio é usado em fogos de artifício por causa do seu brilho intenso?",
+    "palavras_chave": ["alcalino-terrosos", "cálcio", "magnésio", "grupo 2", "reações"]
+  },
+  {
+    "pergunta": "O que diferencia um elemento radioativo dos demais?",
+    "resposta": "Um elemento é radioativo quando seus núcleos são instáveis e se desintegram espontaneamente, liberando radiação. Exemplos são o urânio e o polônio. Sabia que a radioatividade pode ser usada tanto para produzir energia quanto para tratar doenças, como o câncer?",
+    "palavras_chave": ["radioatividade", "urânio", "núcleo", "energia", "câncer"]
+  },
+  {
+    "pergunta": "Como os elementos foram criados no universo?",
+    "resposta": "Os primeiros elementos, como hidrogênio e hélio, surgiram logo após o Big Bang. Já os elementos mais pesados foram formados nas estrelas, por fusão nuclear, e espalhados pelo espaço quando essas estrelas explodiram em supernovas. Sabia que o ferro presente no nosso sangue veio, literalmente, das estrelas?",
+    "palavras_chave": ["elementos", "big bang", "estrelas", "fusão nuclear", "supernovas"]
+  },
+  {
+    "pergunta": "O que é o número de massa de um elemento?",
+    "resposta": "O número de massa é a soma de prótons e nêutrons no núcleo de um átomo. Ele ajuda a diferenciar isótopos do mesmo elemento. Por exemplo, o carbono-12 e o carbono-14 têm o mesmo número atômico, mas massas diferentes. Sabia que o número de massa é sempre um número inteiro, diferente da massa atômica média?",
+    "palavras_chave": ["número de massa", "prótons", "nêutrons", "isótopos", "átomo"]
+  },
+  {
+    "pergunta": "Por que o hidrogênio é considerado um elemento único na Tabela Periódica?",
+    "resposta": "O hidrogênio é único porque, embora esteja no grupo 1, não se comporta como os metais alcalinos. Ele pode agir tanto como um metal quanto como um não metal, dependendo da reação. É o elemento mais leve e o mais abundante do universo. Sabia que cerca de 75% da massa visível do cosmos é composta de hidrogênio?",
+    "palavras_chave": ["hidrogênio", "tabela periódica", "metais alcalinos", "universo", "abundância"]
+  },
+  {
+    "pergunta": "O que caracteriza os metais de transição?",
+    "resposta": "Os metais de transição ocupam o centro da Tabela Periódica e são conhecidos pela capacidade de formar íons com diferentes cargas. Eles são bons condutores e frequentemente usados em ligas metálicas. Sabia que o ferro, um metal de transição, é o núcleo de muitas ferramentas e do próprio planeta Terra?",
+    "palavras_chave": ["metais de transição", "ferro", "ligas", "condutividade", "tabela periódica"]
+  },
+  {
+    "pergunta": "Por que o ouro não oxida facilmente?",
+    "resposta": "O ouro é quimicamente estável por causa da forte atração entre seus elétrons e o núcleo. Essa estabilidade impede reações de oxidação em condições normais. É por isso que o ouro brilha e não enferruja. Sabia que essa resistência à corrosão é o motivo de o ouro ser usado em joias e até em circuitos eletrônicos?",
+    "palavras_chave": ["ouro", "oxidação", "estabilidade", "corrosão", "reações químicas"]
+  },
+  {
+    "pergunta": "Como a Tabela Periódica está organizada atualmente?",
+    "resposta": "Hoje, os elementos são organizados em ordem crescente de número atômico e agrupados de acordo com suas propriedades químicas. As linhas horizontais são chamadas de períodos, e as colunas verticais, de grupos. Sabia que essa organização moderna é baseada no trabalho de Henry Moseley, que usou o número atômico como critério principal?",
+    "palavras_chave": ["tabela periódica", "organização", "número atômico", "moseley", "grupos"]
+  },
+  {
+    "pergunta": "O que são elementos sintéticos?",
+    "resposta": "Elementos sintéticos são aqueles que não existem naturalmente e são criados artificialmente em laboratórios, por meio de reações nucleares. Normalmente, são instáveis e radioativos. Sabia que o primeiro elemento sintético foi o tecnécio, descoberto em 1937?",
+    "palavras_chave": ["elementos sintéticos", "radioatividade", "tecnécio", "laboratório", "reações nucleares"]
+  },
+  {
+    "pergunta": "Por que o oxigênio é tão essencial para a vida?",
+    "resposta": "O oxigênio participa da respiração celular, processo que libera energia para os organismos vivos. Além disso, forma compostos importantes, como a água e o dióxido de carbono. Sabia que o oxigênio foi isolado pela primeira vez por Joseph Priestley, no século XVIII?",
+    "palavras_chave": ["oxigênio", "respiração celular", "vida", "priestley", "compostos"]
+  },
+  {
+    "pergunta": "O que são gases nobres e por que são tão estáveis?",
+    "resposta": "Os gases nobres — como hélio, neônio e argônio — têm suas camadas de valência completas, o que os torna quimicamente inertes. Eles quase não formam compostos. Sabia que o neônio é o responsável pelo brilho das placas luminosas das cidades?",
+    "palavras_chave": ["gases nobres", "estabilidade", "hélio", "neônio", "camada de valência"]
+  },
+  {
+    "pergunta": "Como o carbono consegue formar tantas substâncias diferentes?",
+    "resposta": "O carbono é especial porque pode formar quatro ligações covalentes, permitindo uma infinidade de combinações. Essa versatilidade dá origem a milhões de compostos orgânicos. Sabia que o diamante e o grafite são feitos apenas de carbono, mas têm propriedades totalmente opostas?",
+    "palavras_chave": ["carbono", "ligações covalentes", "compostos orgânicos", "diamante", "grafite"]
+  },
+  {
+    "pergunta": "Por que o mercúrio é o único metal líquido à temperatura ambiente?",
+    "resposta": "O mercúrio tem ligações metálicas fracas, o que faz com que seus átomos se movimentem mais livremente, mantendo-se no estado líquido em temperatura ambiente. Sabia que o mercúrio já foi usado em termômetros, mas hoje é evitado por ser tóxico?",
+    "palavras_chave": ["mercúrio", "estado líquido", "ligações metálicas", "termômetro", "toxicidade"]
+  },
+  {
+    "pergunta": "Qual é o papel do silício na tecnologia moderna?",
+    "resposta": "O silício é o principal componente dos chips de computador e painéis solares, por ser um excelente semicondutor. Ele permite controlar o fluxo de elétrons nos circuitos eletrônicos. Sabia que o nome ‘Vale do Silício’ vem justamente desse elemento?",
+    "palavras_chave": ["silício", "semicondutores", "chips", "eletrônica", "tecnologia"]
+  },
+  {
+    "pergunta": "Por que o ferro enferruja?",
+    "resposta": "O ferro enferruja quando reage com o oxigênio e a umidade do ar, formando óxido de ferro, a famosa ferrugem. Esse processo é uma oxidação lenta. Sabia que a galvanização, com uma camada de zinco, é uma forma de proteger o ferro da ferrugem?",
+    "palavras_chave": ["ferro", "oxidação", "ferrugem", "zinco", "proteção"]
+  },
+  {
+    "pergunta": "O que diferencia metais, ametais e semimetais?",
+    "resposta": "Os metais conduzem eletricidade e calor, os ametais são isolantes e os semimetais possuem propriedades intermediárias. O silício, por exemplo, é um semimetal essencial na eletrônica. Sabia que o bismuto é um dos poucos metais que flutuam na água derretida?",
+    "palavras_chave": ["metais", "ametais", "semimetais", "propriedades", "silício"]
+  },
+  {
+    "pergunta": "Por que o sódio reage violentamente com a água?",
+    "resposta": "O sódio é um metal alcalino altamente reativo. Ao entrar em contato com a água, ele libera hidrogênio e muito calor, o que pode causar explosões. Sabia que o sódio puro é guardado em óleo para evitar o contato com o ar e a umidade?",
+    "palavras_chave": ["sódio", "metais alcalinos", "reação", "hidrogênio", "água"]
+  },
+  {
+    "pergunta": "O que são os halogênios?",
+    "resposta": "Os halogênios são elementos do grupo 17, como flúor, cloro e iodo. Eles são altamente reativos e formam sais quando combinados com metais. Sabia que o cloro é usado para purificar a água potável?",
+    "palavras_chave": ["halogênios", "flúor", "cloro", "reações químicas", "sais"]
+  },
+  {
+    "pergunta": "Como se descobrem novos elementos químicos?",
+    "resposta": "Novos elementos são criados bombardeando núcleos atômicos com partículas em aceleradores. Quando um núcleo se funde e forma algo estável, temos um novo elemento. Sabia que o elemento oganessônio foi nomeado em homenagem ao cientista Yuri Oganessian?",
+    "palavras_chave": ["descoberta", "elementos", "aceleradores", "fusão", "oganessônio"]
+  },
+  {
+    "pergunta": "O que é um semicondutor?",
+    "resposta": "Semicondutores são materiais que conduzem eletricidade apenas sob certas condições. São usados em componentes eletrônicos, como transistores e diodos. Sabia que o germânio foi o primeiro semicondutor usado em transistores, antes do silício?",
+    "palavras_chave": ["semicondutor", "eletricidade", "transistores", "germânio", "silício"]
+  },
+  {
+    "pergunta": "Por que o alumínio é tão usado na indústria?",
+    "resposta": "O alumínio é leve, resistente à corrosão e fácil de moldar. É amplamente usado em aviões, embalagens e construções. Sabia que ele é o metal mais abundante na crosta terrestre?",
+    "palavras_chave": ["alumínio", "indústria", "corrosão", "leveza", "crosta terrestre"]
+  },
+  {
+    "pergunta": "Como a eletronegatividade influencia as ligações químicas?",
+    "resposta": "A eletronegatividade determina como os elétrons são compartilhados ou transferidos entre átomos. Quando há grande diferença, forma-se uma ligação iônica; quando pequena, uma ligação covalente. Sabia que essa propriedade é essencial para entender a polaridade das moléculas?",
+    "palavras_chave": ["eletronegatividade", "ligações", "polaridade", "moléculas", "reações químicas"]
+  },
+  {
+    "pergunta": "Por que o cobre é um excelente condutor elétrico?",
+    "resposta": "O cobre possui elétrons livres que se movimentam facilmente, permitindo o fluxo de corrente elétrica com pouca resistência. Por isso, é muito usado em fios e cabos. Sabia que o cobre também é bactericida natural?",
+    "palavras_chave": ["cobre", "condutividade", "elétrons", "fios", "bactericida"]
+  },
+  {
+    "pergunta": "O que é o número atômico e por que ele é tão importante?",
+    "resposta": "O número atômico representa a quantidade de prótons no núcleo do átomo. Ele define o elemento e sua posição na Tabela Periódica. Sabia que nenhum elemento pode ter o mesmo número atômico que outro, pois isso mudaria completamente sua identidade química?",
+    "palavras_chave": ["número atômico", "prótons", "núcleo", "identidade química", "tabela periódica"]
+  },
+  {
+    "pergunta": "Como a Tabela Periódica ajuda a prever reações químicas?",
+    "resposta": "A posição de um elemento na Tabela indica suas propriedades e tendência de reagir com outros. Por exemplo, metais reagem com não metais formando sais. Sabia que essa previsibilidade foi uma das maiores conquistas científicas do século XIX?",
+    "palavras_chave": ["tabela periódica", "reações químicas", "metais", "sais", "propriedades"]
+  },
+  {
+    "pergunta": "O que é densidade e como ela varia entre os elementos?",
+    "resposta": "A densidade depende da massa e do volume do material. Em geral, os metais pesados, como o chumbo, têm alta densidade, enquanto gases e ametais têm densidades baixas. Sabia que o ósmio é o elemento mais denso conhecido?",
+    "palavras_chave": ["densidade", "massa", "volume", "chumbo", "ósmio"]
+  },
+  {
+    "pergunta": "Por que o flúor é tão reativo?",
+    "resposta": "O flúor tem altíssima eletronegatividade e pequena distância entre núcleo e elétrons, o que o torna extremamente reativo. Ele reage até com gases nobres sob certas condições. Sabia que o flúor puro é tão perigoso que corrói vidro?",
+    "palavras_chave": ["flúor", "reatividade", "eletronegatividade", "ligações", "gases nobres"]
+  },
+  {
+    "pergunta": "Qual a importância do cálcio no corpo humano?",
+    "resposta": "O cálcio é essencial para a formação de ossos e dentes, além de participar na contração muscular e na coagulação sanguínea. Sabia que o leite é uma das principais fontes de cálcio na dieta humana?",
+    "palavras_chave": ["cálcio", "ossos", "dentes", "saúde", "nutrição"]
+  },
+  {
+    "pergunta": "O que são os lantanídeos e por que são importantes?",
+    "resposta": "Os lantanídeos são os 15 elementos que vão do lantânio ao lutécio, localizados na primeira linha separada da Tabela Periódica. Eles são usados em ímãs, lasers e telas de celulares. Sabia que o europium, um lantanídeo, é responsável pela cor vermelha em displays de TV e LEDs?",
+    "palavras_chave": ["lantanídeos", "elementos", "ímanes", "tecnologia", "europium"]
+  },
+  {
+    "pergunta": "O que diferencia actinídeos de outros elementos?",
+    "resposta": "Os actinídeos são elementos radioativos, da actínio ao lawrêncio, e muitos são usados em energia nuclear. Eles possuem elétrons nos orbitais f e apresentam múltiplos estados de oxidação. Sabia que o plutônio, um actinídeo, é utilizado tanto em energia nuclear quanto em armas nucleares?",
+    "palavras_chave": ["actinídeos", "radioatividade", "plutônio", "energia nuclear", "orbitais f"]
+  },
+  {
+    "pergunta": "Por que o oxigênio é tão reativo?",
+    "resposta": "O oxigênio tem alta eletronegatividade e tendência a formar ligações estáveis, o que o torna altamente reativo. Ele participa da combustão e da respiração celular. Sabia que o oxigênio é essencial para a oxidação de metais e para a produção de energia nos seres vivos?",
+    "palavras_chave": ["oxigênio", "reatividade", "ligações", "combustão", "respiração"]
+  },
+  {
+    "pergunta": "O que são os metais alcalinos-terrosos?",
+    "resposta": "Os metais alcalinos-terrosos estão no grupo 2 da Tabela Periódica, incluindo cálcio, magnésio e bário. Eles são reativos, mas menos que os metais alcalinos, e são fundamentais em processos biológicos e industriais. Sabia que o magnésio é usado em fogos de artifício pelo seu brilho intenso?",
+    "palavras_chave": ["alcalinos-terrosos", "cálcio", "magnésio", "reatividade", "grupo 2"]
+  },
+  {
+    "pergunta": "Como se descobriu o hélio?",
+    "resposta": "O hélio foi descoberto primeiro no Sol, em 1868, através da observação do espectro solar, antes de ser encontrado na Terra. Sabia que o nome vem de 'Helios', o deus grego do Sol?",
+    "palavras_chave": ["hélio", "descoberta", "sol", "espectro", "grego"]
+  },
+  {
+    "pergunta": "O que é a densidade atômica e como ela varia?",
+    "resposta": "A densidade atômica é a relação entre massa e volume de um átomo ou elemento. Em geral, metais pesados, como o ouro, têm densidade alta, enquanto gases leves, como o hélio, têm densidade baixa. Sabia que o ósmio é o elemento mais denso conhecido?",
+    "palavras_chave": ["densidade", "átomos", "massa", "volume", "ósmio"]
+  },
+  {
+    "pergunta": "Por que o carbono é a base da química orgânica?",
+    "resposta": "O carbono forma quatro ligações covalentes, permitindo uma enorme diversidade de moléculas complexas. Isso o torna essencial para compostos orgânicos, como proteínas, carboidratos e lipídios. Sabia que o diamante e o grafite são formas puras de carbono, mas com propriedades totalmente diferentes?",
+    "palavras_chave": ["carbono", "química orgânica", "ligações covalentes", "diamante", "grafite"]
+  },
+  {
+    "pergunta": "O que são os metais de pós-transição?",
+    "resposta": "Metais de pós-transição incluem elementos como alumínio, estanho e chumbo. Eles são menos reativos que os metais de transição e possuem maior eletronegatividade. Sabia que o alumínio é o metal mais abundante na crosta terrestre?",
+    "palavras_chave": ["pós-transição", "alumínio", "estanho", "chumbo", "eletronegatividade"]
+  },
+  {
+    "pergunta": "Por que o flúor é altamente corrosivo?",
+    "resposta": "O flúor é extremamente eletronegativo e reage rapidamente com a maioria dos elementos, incluindo metais e gases. Sabia que ele é tão reativo que pode corroer vidro se não for manipulado corretamente?",
+    "palavras_chave": ["flúor", "reatividade", "corrosão", "eletronegatividade", "tabela periódica"]
+  },
+  {
+    "pergunta": "Como o sódio é usado na indústria?",
+    "resposta": "O sódio é usado em produção de vidro, sabões e compostos químicos. Por ser altamente reativo, reage com água e outros elementos. Sabia que o sódio metálico precisa ser armazenado em óleo para evitar explosões?",
+    "palavras_chave": ["sódio", "indústria", "reações químicas", "armazenamento", "álcool"]
+  },
+  {
+    "pergunta": "O que são os elementos de transição interna?",
+    "resposta": "São os lantanídeos e actinídeos, localizados nas linhas separadas abaixo da Tabela Periódica. Possuem elétrons nos orbitais f e exibem propriedades químicas similares entre si. Sabia que esses elementos são essenciais em tecnologia de alta precisão, como lasers e ímãs?",
+    "palavras_chave": ["transição interna", "lantanídeos", "actinídeos", "orbitais f", "tecnologia"]
+  },
+  {
+    "pergunta": "Por que o cobre é usado em fios elétricos?",
+    "resposta": "O cobre tem excelente condutividade elétrica e é maleável, o que facilita a fabricação de fios e cabos. Sabia que ele também tem propriedades antibacterianas naturais, sendo usado em superfícies de hospitais?",
+    "palavras_chave": ["cobre", "condutividade", "fios", "maleabilidade", "antibacteriano"]
+  },
+  {
+    "pergunta": "O que é energia de ionização?",
+    "resposta": "A energia de ionização é a energia necessária para remover um elétron de um átomo isolado. Ela aumenta da esquerda para a direita e de baixo para cima na Tabela Periódica. Sabia que o hélio possui a maior energia de ionização entre os elementos?",
+    "palavras_chave": ["energia de ionização", "elétrons", "átomos", "tabela periódica", "hélio"]
+  },
+  {
+    "pergunta": "Por que o mercúrio é líquido à temperatura ambiente?",
+    "resposta": "O mercúrio tem ligações metálicas fracas, o que permite que seus átomos se movam livremente. Sabia que ele já foi muito usado em termômetros, mas hoje é evitado devido à toxicidade?",
+    "palavras_chave": ["mercúrio", "estado líquido", "ligações metálicas", "termômetro", "toxicidade"]
+  },
+  {
+    "pergunta": "Como se classifica um metal alcalino?",
+    "resposta": "Metais alcalinos estão no grupo 1, como lítio, sódio e potássio. São altamente reativos e nunca encontrados puros na natureza. Sabia que eles reagem violentamente com água, liberando hidrogênio e calor?",
+    "palavras_chave": ["metais alcalinos", "grupo 1", "reatividade", "hidrogênio", "elementos"]
+  },
+  {
+    "pergunta": "O que é afinidade eletrônica?",
+    "resposta": "Afinidade eletrônica é a energia liberada quando um átomo ganha um elétron. Na Tabela Periódica, aumenta da esquerda para a direita e de baixo para cima. Sabia que o cloro é um dos elementos com maior afinidade eletrônica?",
+    "palavras_chave": ["afinidade eletrônica", "elétrons", "energia", "cloro", "tabela periódica"]
+  },
+  {
+    "pergunta": "O que são ametais?",
+    "resposta": "Ametais são elementos que geralmente não conduzem eletricidade, como oxigênio, nitrogênio e enxofre. Eles formam compostos covalentes e desempenham papéis importantes na vida e na indústria. Sabia que o oxigênio representa quase metade da crosta terrestre?",
+    "palavras_chave": ["ametais", "oxigênio", "nitrogênio", "enxofre", "compostos"]
+  },
+  {
+    "pergunta": "Por que o silício é crucial na eletrônica?",
+    "resposta": "O silício é um semicondutor, permitindo controlar o fluxo de elétrons nos circuitos. Por isso, é usado em chips, computadores e painéis solares. Sabia que o Vale do Silício recebeu esse nome justamente por causa desse elemento?",
+    "palavras_chave": ["silício", "semicondutor", "chips", "eletrônica", "tecnologia"]
+  },
+  {
+    "pergunta": "O que significa o termo 'número de massa'?",
+    "resposta": "O número de massa é a soma de prótons e nêutrons no núcleo de um átomo. Ele diferencia isótopos de um mesmo elemento. Sabia que o carbono-14, usado em datação de fósseis, é um exemplo de isótopo?",
+    "palavras_chave": ["número de massa", "prótons", "nêutrons", "isótopos", "átomo"]
+  },
+  {
+    "pergunta": "Como se formam os sais?",
+    "resposta": "Sais se formam quando um metal reage com um ametal, resultando em ligações iônicas. Por exemplo, o cloreto de sódio, o sal de cozinha, é formado por sódio e cloro. Sabia que essa reação é básica na química inorgânica e essencial na alimentação humana?",
+    "palavras_chave": ["sais", "reação", "metais", "ametais", "cloreto de sódio"]
+  },
+  {
+    "pergunta": "Por que o ferro é magnético?",
+    "resposta": "O ferro é magnético devido aos spins dos elétrons de seus átomos, que se alinham em regiões chamadas domínios magnéticos. Sabia que o mesmo princípio é usado em discos rígidos e motores elétricos?",
+    "palavras_chave": ["ferro", "magnetismo", "elétrons", "domínios magnéticos", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é radioatividade?",
+    "resposta": "Radioatividade é a emissão de partículas ou radiação por átomos com núcleos instáveis. Ela pode gerar energia ou ser usada em medicina. Sabia que Marie Curie descobriu o rádio e o polônio estudando a radioatividade?",
+    "palavras_chave": ["radioatividade", "núcleo", "partículas", "energia", "curie"]
+  },
+  {
+    "pergunta": "O que é a camada de valência?",
+    "resposta": "A camada de valência é a camada externa de elétrons de um átomo, determinando sua reatividade. Sabia que gases nobres têm camadas de valência completas, tornando-os muito estáveis?",
+    "palavras_chave": ["camada de valência", "elétrons", "reatividade", "gases nobres", "estabilidade"]
+  },
+  {
+    "pergunta": "Por que o alumínio é leve e resistente?",
+    "resposta": "O alumínio tem baixa densidade, mas forma uma camada protetora de óxido que evita corrosão. Por isso é usado em aviões e embalagens. Sabia que é o metal mais abundante na crosta terrestre?",
+    "palavras_chave": ["alumínio", "leveza", "resistência", "óxido", "aviões"]
+  },
+  {
+    "pergunta": "O que diferencia um elemento representativo?",
+    "resposta": "Elementos representativos estão nos grupos 1, 2 e de 13 a 18, com propriedades químicas bem definidas. Sabia que incluem metais, ametais e gases nobres, sendo a base de muitas reações químicas?",
+    "palavras_chave": ["elementos representativos", "grupos", "propriedades", "metais", "gases nobres"]
+  },
+  {
+    "pergunta": "O que são elementos de transição?",
+    "resposta": "Elementos de transição estão nos grupos 3 a 12 da Tabela Periódica. Eles podem formar íons com diferentes cargas e têm propriedades metálicas típicas. Sabia que o ferro, cobre e ouro são exemplos clássicos de metais de transição usados há milênios?",
+    "palavras_chave": ["elementos de transição", "grupos", "íons", "ferro", "cobre"]
+  },
+  {
+    "pergunta": "Por que o flúor é o elemento mais eletronegativo?",
+    "resposta": "O flúor atrai elétrons com muita força devido à sua alta carga nuclear efetiva e pequeno tamanho atômico. Sabia que essa propriedade faz dele essencial na produção de compostos como o Teflon?",
+    "palavras_chave": ["flúor", "eletronegatividade", "átomos", "ligações", "tecnologia"]
+  },
+  {
+    "pergunta": "O que diferencia metais de não metais?",
+    "resposta": "Metais conduzem eletricidade e calor, têm brilho e são maleáveis; não metais são isolantes e frágeis. Sabia que alguns elementos, como o carbono e o arsênio, podem se comportar de formas intermediárias?",
+    "palavras_chave": ["metais", "não metais", "propriedades", "condutividade", "maleabilidade"]
+  },
+  {
+    "pergunta": "O que são elementos sintéticos e por que são instáveis?",
+    "resposta": "Elementos sintéticos são criados artificialmente em laboratórios e possuem núcleos instáveis, o que os torna radioativos. Sabia que o elemento mais pesado criado, oganessônio, existe apenas por frações de segundo?",
+    "palavras_chave": ["elementos sintéticos", "radioatividade", "instabilidade", "oganessônio", "laboratório"]
+  },
+  {
+    "pergunta": "Como se classificam os gases nobres?",
+    "resposta": "Gases nobres, como hélio, néon e argônio, têm camadas externas completas, tornando-os inertes. Sabia que eles são usados em lâmpadas, lasers e balões por sua estabilidade?",
+    "palavras_chave": ["gases nobres", "inércia química", "hélio", "néon", "argônio"]
+  },
+  {
+    "pergunta": "Por que o cálcio é essencial para os ossos?",
+    "resposta": "O cálcio é fundamental para a formação e manutenção dos ossos e dentes, além de participar da contração muscular e coagulação. Sabia que a deficiência de cálcio pode levar à osteoporose?",
+    "palavras_chave": ["cálcio", "ossos", "dentes", "contração muscular", "coagulação"]
+  },
+  {
+    "pergunta": "Como os lantanídeos são usados na tecnologia?",
+    "resposta": "Os lantanídeos são importantes em ímãs, lasers, lâmpadas e displays. Sabia que o europium é responsável pela cor vermelha em telas de TV e LEDs?",
+    "palavras_chave": ["lantanídeos", "tecnologia", "ímanes", "lasers", "europium"]
+  },
+  {
+    "pergunta": "O que é um isótopo?",
+    "resposta": "Isótopos são átomos do mesmo elemento com números diferentes de nêutrons, resultando em massas distintas. Sabia que o carbono-14 é usado para datar restos arqueológicos?",
+    "palavras_chave": ["isótopos", "átomos", "nêutrons", "carbono-14", "massa"]
+  },
+  {
+    "pergunta": "Por que o alumínio é resistente à corrosão?",
+    "resposta": "O alumínio forma uma camada fina de óxido na superfície que protege o metal da corrosão. Sabia que essa propriedade o torna essencial em aviões e embalagens?",
+    "palavras_chave": ["alumínio", "corrosão", "óxido", "resistência", "aviões"]
+  },
+  {
+    "pergunta": "O que é eletronegatividade?",
+    "resposta": "Eletronegatividade é a capacidade de um átomo de atrair elétrons em uma ligação química. Sabia que o flúor é o elemento mais eletronegativo de todos?",
+    "palavras_chave": ["eletronegatividade", "átomos", "ligações", "química", "flúor"]
+  },
+  {
+    "pergunta": "Como o ferro pode ser magnético?",
+    "resposta": "O ferro é magnético porque os spins de seus elétrons se alinham em domínios magnéticos. Sabia que esse princípio é usado em motores e discos rígidos?",
+    "palavras_chave": ["ferro", "magnetismo", "elétrons", "domínios magnéticos", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é energia de ionização?",
+    "resposta": "Energia de ionização é a energia necessária para remover um elétron de um átomo isolado. Sabia que a energia aumenta da esquerda para a direita e de baixo para cima na Tabela Periódica?",
+    "palavras_chave": ["energia de ionização", "elétrons", "átomos", "tabela periódica", "propriedades"]
+  },
+  {
+    "pergunta": "O que são metais de pós-transição?",
+    "resposta": "Metais de pós-transição incluem alumínio, chumbo e estanho, e são menos reativos que os metais de transição. Sabia que eles possuem maior eletronegatividade e algumas aplicações industriais importantes?",
+    "palavras_chave": ["pós-transição", "alumínio", "chumbo", "estanho", "eletronegatividade"]
+  },
+  {
+    "pergunta": "Por que o oxigênio é vital para a vida?",
+    "resposta": "O oxigênio permite a respiração celular, liberando energia essencial para os organismos. Sabia que também é responsável pela oxidação de metais e compostos orgânicos na natureza?",
+    "palavras_chave": ["oxigênio", "respiração celular", "energia", "vida", "oxidação"]
+  },
+  {
+    "pergunta": "Como o cobre ajuda na condução elétrica?",
+    "resposta": "O cobre possui elétrons livres que se movem facilmente, conduzindo eletricidade. Sabia que ele também tem propriedades antibacterianas, sendo usado em hospitais e superfícies de contato?",
+    "palavras_chave": ["cobre", "condutividade", "elétrons", "fios", "antibacteriano"]
+  },
+  {
+    "pergunta": "O que são metais alcalinos?",
+    "resposta": "Metais alcalinos estão no grupo 1 e são extremamente reativos, como lítio, sódio e potássio. Sabia que eles nunca aparecem puros na natureza devido à reatividade intensa com água e ar?",
+    "palavras_chave": ["metais alcalinos", "grupo 1", "reatividade", "sódio", "potássio"]
+  },
+  {
+    "pergunta": "O que significa número atômico?",
+    "resposta": "O número atômico indica a quantidade de prótons no núcleo de um átomo, definindo o elemento. Sabia que isso também determina sua posição na Tabela Periódica?",
+    "palavras_chave": ["número atômico", "prótons", "átomo", "tabela periódica", "elemento"]
+  },
+  {
+    "pergunta": "Como se formam sais químicos?",
+    "resposta": "Sais se formam quando metais reagem com ametais, criando ligações iônicas. Por exemplo, o cloreto de sódio é formado pelo sódio e cloro. Sabia que essa reação é básica na química inorgânica?",
+    "palavras_chave": ["sais", "reações", "metais", "ametais", "cloreto de sódio"]
+  },
+  {
+    "pergunta": "Por que o diamante e o grafite são diferentes se são só carbono?",
+    "resposta": "O carbono forma diferentes estruturas: no diamante os átomos estão em uma rede tetraédrica rígida; no grafite, em camadas que deslizam. Sabia que isso explica por que o diamante é duro e o grafite macio?",
+    "palavras_chave": ["carbono", "diamante", "grafite", "estrutura", "propriedades"]
+  },
+  {
+    "pergunta": "O que diferencia ametais de metais?",
+    "resposta": "Ametais são isolantes e frágeis, enquanto metais conduzem eletricidade e calor. Sabia que alguns elementos, como o arsênio, podem se comportar como ambos, dependendo da situação?",
+    "palavras_chave": ["ametais", "metais", "propriedades", "condutividade", "fragilidade"]
+  },
+  {
+    "pergunta": "O que é camada de valência?",
+    "resposta": "A camada de valência é a última camada de elétrons de um átomo e determina sua reatividade química. Sabia que gases nobres têm camadas de valência completas e são muito estáveis?",
+    "palavras_chave": ["camada de valência", "elétrons", "reatividade", "gases nobres", "estabilidade"]
+  },
+  {
+    "pergunta": "Por que o mercúrio é tóxico?",
+    "resposta": "O mercúrio pode se acumular no organismo, afetando o sistema nervoso e órgãos vitais. Sabia que por isso ele deixou de ser usado em termômetros e lâmpadas fluorescentes?",
+    "palavras_chave": ["mercúrio", "toxicidade", "sistema nervoso", "acúmulo", "perigo"]
+  },
+  {
+    "pergunta": "Como se descobriu o oxigênio?",
+    "resposta": "O oxigênio foi isolado por Joseph Priestley em 1774, revolucionando a química ao mostrar que o ar não era uma substância única. Sabia que Antoine Lavoisier deu o nome 'oxigênio' e explicou seu papel na combustão?",
+    "palavras_chave": ["oxigênio", "descoberta", "priestley", "lavoisier", "combustão"]
+  },
+  {
+    "pergunta": "O que são elementos representativos?",
+    "resposta": "Elementos representativos estão nos grupos 1, 2 e 13 a 18 e mostram padrões de propriedades químicas previsíveis. Sabia que incluem metais, ametais e gases nobres?",
+    "palavras_chave": ["elementos representativos", "grupos", "propriedades", "metais", "ametais"]
+  }
+]

@@ -1,0 +1,607 @@
+[
+  {
+    "pergunta": "Comer cenoura realmente melhora a visão no escuro?",
+    "resposta": "Essa é uma crença que tem um fundo de verdade, mas foi tremendamente exagerada. A cenoura é rica em betacaroteno, que o corpo converte em vitamina A, um nutriente essencial para a saúde da retina e para a visão noturna. No entanto, uma dieta equilibrada já fornece a vitamina A necessária. Comer cenouras em excesso não vai lhe dar uma 'visão de super-herói'. A crença ganhou força durante a Segunda Guerra Mundial como parte de uma propaganda britânica para esconder o desenvolvimento do radar, que era o verdadeiro motivo pela qual seus pilotos abatiam aviões inimigos à noite. Sabia que o excesso de betacaroteno pode deixar a pele com um tom alaranjado, uma condição inofensiva chamada carotenemia?",
+    "palavras_chave": ["cenoura", "visão", "vitamina a", "betacaroteno", "mito alimentar"]
+  },
+  {
+    "pergunta": "Tomar leite quente com mel realmente ajuda a dormir?",
+    "resposta": "Essa é uma daquelas crenças que funciona mais pelo efeito placebo e pelo ritual do que pela ciência. O leite contém triptofano, um aminoácido precursor da melatonina (o hormônio do sono). No entanto, a quantidade presente em um copo de leite é muito baixa para ter um efeito farmacológico significativo. O que realmente pode ajudar é o conforto psicológico do ritual, a sensação de aconchego proporcionada pela bebida quente e a associação com memórias positivas da infância. É um remédio caseiro inofensivo, mas não espere milagres se você sofre de insônia crônica.",
+    "palavras_chave": ["leite", "mel", "insônia", "triptofano", "placebo"]
+  },
+  {
+    "pergunta": "É preciso beber 2 litros de água por dia?",
+    "resposta": "Essa regra dos '8 copos de 250ml' é uma generalização que não leva em conta o tamanho corporal, o nível de atividade física, o clima e a alimentação de cada pessoa. A necessidade de hidratação é individual. Nossa hidratação também vem de outras fontes, como frutas, legumes, sopas e até café. O melhor indicador é a cor da sua urina: se estiver amarela clara, você está bem hidratado. Forçar a ingestão de água além da sede pode, em casos raros, levar a uma intoxicação por água, chamada hiponatremia. Sabia que a origem desse mito pode estar em uma recomendação do Conselho de Alimentos e Nutrição dos EUA de 1945, que foi mal interpretada ao longo dos anos?",
+    "palavras_chave": ["hidratação", "água", "mito", "urina", "necessidade diária"]
+  },
+  {
+    "pergunta": "Usar chapéu faz você perder calor pela cabeça?",
+    "resposta": "Não de uma forma desproporcional. A ideia de que perdemos 50% a 80% do calor corporal pela cabeça é um exagero que surgiu de um experimento militar dos anos 1950, onde soldados usavam roupas de sobrevivência no Ártico, mas ficavam com a cabeça descoberta. Como a cabeça era a única parte exposta, claro que a maior parte do calor saía por ali. Em condições normais, vestido com roupas de verão, você perde calor de forma relativamente igual por qualquer parte da pele que esteja exposta. A cabeça não é um 'radiador' especial do corpo.",
+    "palavras_chave": ["calor", "cabeça", "chapéu", "perda de calor", "termorregulação"]
+  },
+  {
+    "pergunta": "Celular pode causar câncer no cérebro?",
+    "resposta": "Até o momento, não há evidências científicas consistentes que liguem o uso de celulares ao câncer. Os celulares emitem radiação não ionizante de radiofrequência, que é muito mais fraca do que a radiação ionizante (como a de raios-X) e não tem energia suficiente para quebrar ligações químicas no DNA e causar câncer. Grandes estudos epidemiológicos, como o Million Women Study e pesquisas do National Cancer Institute, não encontraram um aumento consistente no risco de tumores cerebrais com o uso de telefones celulares. A Organização Mundial da Saúde classifica os campos de radiofrequência como 'possivelmente carcinogênicos para humanos', uma categoria que também inclui o café e os picles, baseada em 'evidências limitadas' e não em uma relação de causa e efeito.",
+    "palavras_chave": ["celular", "câncer", "radiação", "cérebro", "radiofrequência"]
+  },
+  {
+    "pergunta": "Leite aumenta a produção de muco quando se está resfriado?",
+    "resposta": "Isso é um mito persistente. Estudos controlados não encontraram nenhuma ligação entre o consumo de leite e a produção de muco, catarro ou congestão nasal. A sensação que algumas pessoas descrevem pode ser devido à textura do leite, que pode revestir temporariamente a boca e a garganta, criando uma sensação semelhante ao muco espesso. Se você não tem alergia ou intolerância à lactose, não há motivo para evitar o leite durante um resfriado. É uma crença que pode privar as pessoas de uma boa fonte de nutrientes e hidratação quando mais precisam.",
+    "palavras_chave": ["leite", "muco", "catarro", "resfriado", "alergia alimentar"]
+  },
+  {
+    "pergunta": "Comer depois das 20h engorda mais?",
+    "resposta": "O que engorda é o balanço energético total ao longo do dia, não o horário em que você come. Se você consome mais calorias do que gasta, você ganha peso, independentemente de ser 18h ou 22h. No entanto, há uma lógica comportamental por trás desse mito: pessoas que comem tarde da noite tendem a fazer lanches calóricos e pouco nutritivos enquanto assistem TV, e podem já ter excedido sua necessidade calórica diária. Além disso, comer muito perto da hora de dormir pode causar indigestão e atrapalhar a qualidade do sono, o que indiretamente pode afetar o metabolismo. Mas o relógio biológico em si não 'desliga' o metabolismo à noite.",
+    "palavras_chave": ["horário", "jantar", "metabolismo", "engordar", "calorias"]
+  },
+  {
+    "pergunta": "Suor é sinal de queimação de gordura?",
+    "resposta": "Não, essa é uma confusão comum. O suor é simplesmente o mecanismo de refrigeração do corpo. Você sua para baixar a temperatura interna quando ela sobe devido ao exercício, ao calor ou ao estresse. A queima de gordura (oxidação de lipídios) é um processo metabólico que ocorre dentro das células para produzir energia, e não tem uma correlação direta com a quantidade de suor. Você pode suar muito em uma sauna e queimar pouca gordura, ou fazer um treino intenso em um ambiente frio (suando pouco) e queimar muitas calorias. O suor mede a sua temperatura, não o seu esforço ou a queima de gordura.",
+    "palavras_chave": ["suor", "gordura", "exercício", "calorias", "termorregulação"]
+  },
+  {
+    "pergunta": "Ler com pouca luz estraga a visão?",
+    "resposta": "Ler no escuro ou com luz baixa pode causar fadiga ocular, dor de cabeça e ressecamento dos olhos, pois as pupilas se dilatam para captar mais luz e você tende a piscar menos. No entanto, isso é uma condição temporária e desconfortável, não causa danos permanentes à estrutura ou função dos olhos. A visão não será 'estragada' no sentido de desenvolver miopia ou outras doenças oculares. É mais uma questão de conforto do que de risco real. Sabia que o maior fator de risco para a miopia é a genética, seguido por passar muito tempo em ambientes fechados e focando em objetos próximos, independentemente da iluminação?",
+    "palavras_chave": ["visão", "leitura", "luz", "fadiga ocular", "miopia"]
+  },
+  {
+    "pergunta": "Coca-Cola pode dissolver um dente ou um prego?",
+    "resposta": "Esse é um mito baseado em experimentos dramáticos, mas que não reflete a realidade do consumo normal. A Coca-Cola e outros refrigerantes são ácidos (devido ao ácido fosfórico e cítrico) e podem, de fato, corroer o esmalte dos dentes e dissolver metais se ficarem submersos por um período muito longo (dias ou semanas). No entanto, dentro do nosso corpo, o dente não fica exposto ao refrigerante por tanto tempo. A saliva ajuda a neutralizar o ácido e a lavar a superfície do dente. O verdadeiro perigo não é o dente se dissolver, mas a erosão ácida crônica no esmalte e o alto teor de açúcar, que contribuem para as cáries. O problema é a frequência, não uma única ingestão.",
+    "palavras_chave": ["coca-cola", "dente", "ácido", "erosão", "refrigerante"]
+  },
+  {
+    "pergunta": "Cremes anticelulite realmente funcionam?",
+    "resposta": "A maioria dos cremes anticelulite oferece, na melhor das hipóteses, uma melhora temporária e superficial na aparência da pele. A celulite é uma condição estrutural complexa, envolvendo fibras de colágeno que puxam a pele para baixo enquanto depósitos de gordura empurram para cima, criando o aspecto de 'casca de laranja'. Cremes com cafeína ou retinol podem desidratar temporariamente as células de gordura ou melhorar a espessura da pele, reduzindo ligeiramente a visibilidade. Mas nenhum creme é capaz de reorganizar a estrutura do tecido conjuntivo, que é a causa raiz do problema. É um mercado que se aproveita de uma insegurança muito comum, especialmente entre as mulheres.",
+    "palavras_chave": ["celulite", "creme", "pele", "gordura", "estética"]
+  },
+  {
+    "pergunta": "Desodorante antitranspirante causa câncer de mama?",
+    "resposta": "Não há evidências científicas credíveis que liguem o uso de desodorantes ou antitranspirantes ao câncer de mama. O mito surgiu de alegações de que os parabenos e o alumínio presentes nesses produtos seriam absorvidos pela pele, especialmente através de cortes da lâmina de barbear, e causariam toxicidade ou desregulação hormonal. No entanto, a pele da axila é uma barreira eficiente, e os rins e o fígado são perfeitamente capazes de processar e eliminar as pequenas quantidades que possam ser absorvidas. Estudos epidemiológicos de larga escala não encontraram nenhuma correlação entre o uso desses produtos e a incidência de câncer de mama.",
+    "palavras_chave": ["desodorante", "câncer de mama", "alumínio", "parabenos", "axila"]
+  },
+  {
+    "pergunta": "É perigoso acordar um sonâmbulo?",
+    "resposta": "É um mito muito difundido que acordar um sonâmbulo pode causar um ataque cardíaco ou um choque grave. Na verdade, o maior perigo é para a pessoa que tenta acordá-lo, pois o sonâmbulo, confuso e desorientado, pode reagir com violência sem intenção. O ideal é guiá-lo com calma e segurança de volta para a cama, falando em um tom de voz suave. Se for necessário acordá-lo, faça-o de uma distância segura. A pessoa provavelmente ficará muito confusa, mas não sofrerá nenhum dano físico por ser despertada. Sabia que o sonambulismo ocorre durante as fases mais profundas do sono não-REM, quando o cérebro está menos ativo, mas o corpo ainda é capaz de se mover?",
+    "palavras_chave": ["sonambulismo", "sono", "acordar", "mito", "segurança"]
+  },
+  {
+    "pergunta": "Comer abacaxi depois da relação sexual 'limpa' o canal vaginal?",
+    "resposta": "Isso é uma crença sem qualquer fundamento científico. O sabor e o odor dos fluidos vaginais são influenciados por fatores internos como hormônios, dieta geral, hidratação e o equilíbrio da flora vaginal natural. Nenhum alimento ingerido tem o poder de 'limpar' ou desintoxicar o canal vaginal, que é um ambiente autolimpante. O mito provavelmente surge do fato de que o abacaxi, por ser doce e ácido, pode alterar ligeiramente o sabor do esperma quando consumido pelo homem, mas isso não se aplica à fisiologia feminina. A saúde vaginal é mantida com higiene externa simples e o equilíbrio do pH natural.",
+    "palavras_chave": ["abacaxi", "vagina", "sabor", "mito sexual", "higiene íntima"]
+  },
+  {
+    "pergunta": "Vacinas contra a gripe podem dar gripe?",
+    "resposta": "Absolutamente não. As vacinas contra a gripe mais comuns são feitas com vírus inativados (mortos) ou com proteínas virais, que são biologicamente incapazes de causar a doença. O que pode acontecer é o corpo montar uma resposta imunológica, que pode incluir sintomas leves como febre baixa ou dor no corpo por um dia ou dois – um sinal de que o sistema imunológico está funcionando. Além disso, como leva cerca de duas semanas para criar imunidade, a pessoa pode ter sido infectada pelo vírus da gripe verdadeiro logo antes ou depois de ser vacinada, e acabar associando a doença à vacina. É uma coincência temporal, não uma relação de causa.",
+    "palavras_chave": ["vacina", "gripe", "vírus inativado", "imunização", "efeito colateral"]
+  },
+  {
+    "pergunta": "Comer chocolate causa espinhas?",
+    "resposta": "Por décadas, o chocolate foi um dos vilões clássicos da acne, mas a ciência atual não apoia essa ligação direta. Estudos controlados não conseguiram demonstrar que o chocolate, por si só, cause acne em uma pessoa com pele normal. O que pode acontecer é que dietas com alta carga glicêmica (ricas em açúcares e gorduras) possam piorar a inflamação e, consequentemente, a acne em pessoas já predispostas. Como o chocolate ao leite é rico em açúcar e gordura, ele pode ser parte desse contexto, mas não é o único culpado. O fator mais importante para a acne continua sendo a genética e as flutuações hormonais.",
+    "palavras_chave": ["chocolate", "acne", "espinha", "dieta", "inflamação"]
+  },
+  {
+    "pergunta": "É verdade que só usamos 10% do nosso cérebro?",
+    "resposta": "Esse é um dos mitos neurológicos mais populares e persistentes, mas é completamente falso. Técnicas de imageamento cerebral, como a ressonância magnética funcional e a PET, mostram claramente que usamos virtualmente todas as partes do nosso cérebro ao longo do dia, mesmo durante o sono. Diferentes áreas são ativadas para diferentes funções: falar, andar, pensar, lembrar, etc. Nenhuma área do cérebro está completamente 'ociosa'. Se 90% do cérebro fosse inútil, danos causados por derrames ou traumatismos seriam muito menos significativos do que são. Sabia que o mito pode ter surgido de uma má interpretação de escritos do psicólogo William James, que se referia ao 'potencial humano' não utilizado, e não à capacidade cerebral física?",
+    "palavras_chave": ["cérebro", "mito", "neurologia", "potencial", "imagem cerebral"]
+  },
+  {
+    "pergunta": "Fazer croc com os dedos causa artrite?",
+    "resposta": "Não, estalar as articulações dos dedos não causa artrite. O 'crac' característico é causado pelo colapso de bolhas de gás no líquido sinovial que lubrifica a articulação – um processo chamado de cavitação. Estudos de longo prazo, incluindo um famoso onde um médico estalou os dedos de apenas uma mão por décadas, não encontraram diferença na incidência de artrite entre as mãos que estalavam e as que não estalavam. No entanto, estalar os dedos de forma muito vigorosa ou forçada pode, raramente, causar lesões nos ligamentos ou tendões ao redor da articulação. A artrite é uma doença complexa com causas genéticas, imunológicas e mecânicas, não relacionada a esse hábito inofensivo.",
+    "palavras_chave": ["estalar dedos", "artrite", "articulação", "líquido sinovial", "mito ortopédico"]
+  },
+  {
+    "pergunta": "Comer à noite engorda mais do que de dia?",
+    "resposta": "Já tocamos no horário, mas este mito é tão forte que vale aprofundar. O metabolismo não desliga à noite; ele apenas diminui um pouco durante o sono. O que realmente importa é o balanço calórico total de 24 horas. Se você ingerir 2000 calorias distribuídas ao longo do dia ou 2000 calorias num lanche da meia-noite, o efeito no peso será o mesmo, em teoria. Na prática, quem come muito tarde tende a exceder suas necessidades calóricas totais, pois geralmente são lanches extras, e não a refeição principal realocada. Além disso, a qualidade do sono pode ser prejudicada por uma digestão pesada, e a privação de sono está ligada a desregulações hormonais que aumentam o apetite.",
+    "palavras_chave": ["metabolismo noturno", "calorias", "sono", "apetite", "ritmo circadiano"]
+  },
+  {
+    "pergunta": "O micro-ondas tira os nutrientes dos alimentos?",
+    "resposta": "Pelo contrário, o micro-ondas é um dos métodos de cozimento que melhor preserva os nutrientes, especialmente as vitaminas hidrossolúveis, como a vitamina C e as do complexo B. Isso porque o tempo de cozimento é muito curto e usa pouca água. Qualquer método de cozimento que aquece o alimento causa alguma perda nutricional, mas o micro-ondas geralmente causa menos danos do que ferver, por exemplo, onde os nutrientes são lixiviados para a água. O mito provavelmente surge do medo da radiação, mas a radiação do micro-ondas não é ionizante e não torna o alimento 'radioativo'; ela apenas aquece as moléculas de água por vibração.",
+    "palavras_chave": ["micro-ondas", "nutrientes", "cozimento", "vitaminas", "radiação"]
+  },
+  {
+    "pergunta": "Pessoas morenas precisam de menos protetor solar?",
+    "resposta": "Este é um mito perigosíssimo. É verdade que a melanina, o pigmento da pele, oferece uma proteção natural equivalente a um FPS de cerca de 4 a 8. No entanto, essa proteção é insuficiente contra os danos cumulativos da radiação UV, que causa envelhecimento precoce, manchas e, o mais grave, câncer de pele. Pessoas de pele morena e negra também desenvolvem câncer de skin, embora com menor incidência, e quando desenvolvem, costumam ser diagnosticadas em estágios mais avançados, justamente por causa desse falso senso de segurança. Todo mundo, independente do tom de pele, deve usar protetor solar diariamente.",
+    "palavras_chave": ["protetor solar", "pele morena", "melanina", "câncer de skin", "radiação uv"]
+  },
+  {
+    "pergunta": "Beber álcool aquece o corpo no frio?",
+    "resposta": "É exatamente o oposto. O álcool cria uma sensação momentânea de calor porque causa vasodilatação periférica, levando mais sangue quente para a superfície da pele. No entanto, isso é uma ilusão perigosa. Ao levar o calor para a superfície, o corpo perde calor para o ambiente mais rapidamente, fazendo com que a temperatura corporal central caia. Em um ambiente frio, isso pode precipitar a hipotermia. Por isso, em situações de frio intenso, beber álcool é contraproducente e arriscado. A sensação de calor é passageira e mascara o resfriamento real que está ocorrendo internamente.",
+    "palavras_chave": ["álcool", "frio", "vasodilatação", "hipotermia", "temperatura corporal"]
+  },
+  {
+    "pergunta": "Cortar os cabelos na lua crescente faz eles crescerem mais rápido?",
+    "resposta": "Não há nenhuma evidência científica de que as fases da lua influenciem no crescimento do cabelo ou de qualquer outro processo biológico humano. O crescimento do cabelo é determinado por fatores genéticos, hormonais, nutricionais e pela saúde geral. A crença é antiga e faz parte de um conjunto de saberes populares ligados à agricultura, onde se acreditava que a lua influenciava o plantio e a colheita. Cortar as pontas duplas é benéfico para a saúde do fio, pois evita que as pontas se partam e o cabelo 'perca' comprimento, mas isso acontece independentemente da fase lunar.",
+    "palavras_chave": ["cabelo", "lua", "crescente", "crescimento", "mito cultural"]
+  },
+  {
+    "pergunta": "Ingerir vinagre de maçã emagrece?",
+    "resposta": "O vinagre de maçã ganhou status de 'poção mágica' para emagrecimento, mas a realidade é bem menos emocionante. Alguns estudos pequenos sugerem que o ácido acético pode promover uma leve sensação de saciedade e modular ligeiramente a resposta glicêmica após uma refeição rica em carboidratos. No entanto, o efeito é modesto e não é suficiente para causar uma perda de peso significativa por si só. Beber vinagre puro pode danificar o esmalte dos dentes e o revestimento do esôfago. Não existem atalhos mágicos: a perda de peso sustentável vem de um déficit calórico consistente através de uma alimentação equilibrada e exercícios.",
+    "palavras_chave": ["vinagre de maçã", "emagrecer", "ácido acético", "saciedade", "mito dietético"]
+  },
+  {
+    "pergunta": "Açúcar mascavo é mais saudável que o açúcar branco?",
+    "resposta": "Nutricionalmente, a diferença é mínima e irrelevante na prática. O açúcar mascavo é simplesmente açúcar branco que não passou pelo processo final de refinamento, mantendo assim uma película de melaço que contém quantidades vestigiais de minerais como cálcio, ferro e potássio. No entanto, para obter uma quantidade significativa desses minerais, você teria que consumir uma quantidade absurda de açúcar, o que anularia qualquer benefício. No final, ambos são sacarose e fornecem calorias vazias, contribuindo igualmente para o ganho de peso, cáries e picos glicêmicos. A escolha entre um e outro é mais uma questão de sabor e textura do que de saúde.",
+    "palavras_chave": ["açúcar mascavo", "açúcar refinado", "calorias", "minerais", "melaço"]
+  },
+  {
+    "pergunta": "Comer peixe com leite faz mal?",
+    "resposta": "Não há nenhuma base científica para acreditar que a combinação de peixe e leite seja prejudicial à saúde. Esse é um tabu alimentar muito comum em várias culturas, mas não passa de uma crença popular. Do ponto de vista nutricional, são duas excelentes fontes de proteína. O mito pode ter surgido de observações antigas sobre a deterioração rápida de ambos os alimentos em climas quentes, levando a intoxicações alimentares que foram erroneamente atribuídas à combinação, e não à falta de refrigeração. Pessoas sem alergia ou intolerância a nenhum dos dois alimentos podem consumi-los juntos sem qualquer problema.",
+    "palavras_chave": ["peixe", "leite", "tabu alimentar", "proteína", "intoxicação"]
+  },
+  {
+    "pergunta": "Ar condicionado pode causar gripe ou resfriado?",
+    "resposta": "O ar condicionado em si não causa viroses como gripe ou resfriado, pois essas são causadas por vírus. No entanto, ele pode criar condições que facilitam a transmissão. O ar frio e seco resseca as mucosas do nariz, que são nossa primeira linha de defesa, tornando-nos mais suscetíveis a infecções. Além disso, ambientes fechados e com aglomeração de pessoas (típicos de locais com ar condicionado) são ideais para a circulação de vírus. A manutenção inadequada dos filtros do aparelho também pode espalhar alérgenos e outros microrganismos. O choque térmico ao sair de um ambiente muito frio para um quente pode ser um estresse para o corpo, mas não é a causa direta da doença.",
+    "palavras_chave": ["ar condicionado", "gripe", "resfriado", "mucosas", "vírus"]
+  },
+  {
+    "pergunta": "Produtos 'detox' limpam o organismo?",
+    "resposta": "A ideia de que precisamos de sucos, chás ou dietas especiais para 'desintoxicar' o corpo é um mito de marketing muito lucrativo. Nosso corpo já possui um sistema de detoxificação extremamente eficiente e sofisticado: o fígado, os rins, os pulmões e a pele. Esses órgãos trabalham constantemente para neutralizar e eliminar toxinas. Nenhum suco verde ou chá milagroso consegue fazer isso melhor. Uma alimentação equilibrada, rica em frutas, verduras e água, simplesmente apoia o funcionamento natural desses órgãos. Produtos 'detox' geralmente são apenas diuréticos que fazem você perder água, dando uma falsa sensação de 'limpeza'.",
+    "palavras_chave": ["detox", "desintoxicar", "fígado", "rins", "marketing"]
+  },
+  {
+    "pergunta": "Comer carboidrato à noite engorda?",
+    "resposta": "Este é um desdobramento do mito sobre comer à noite. Carboidratos, como pães, massas e arroz, são uma fonte de energia. Se você consome mais energia (calorias) do que gasta, o excedente será armazenado como gordura, independentemente do horário. A lógica por trás desse mito é que, à noite, você vai dormir e gasta menos energia, então o carboidrato seria mais facilmente armazenado. No entanto, o corpo gasta energia constantemente, inclusive durante o sono, para manter funções vitais. O problema, mais uma vez, não é o horário ou o nutriente em si, mas o excedente calórico total e a escolha de carboidratos refinados e calóricos, que são comuns em lanches noturnos.",
+    "palavras_chave": ["carboidrato", "noite", "engordar", "energia", "calorias"]
+  },
+  {
+    "pergunta": "Caminhar é tão bom quanto correr para a saúde?",
+    "resposta": "Ambas as atividades são excelentes, mas oferecem benefícios em intensidades diferentes. Para a saúde cardiovascular geral e controle de peso, a corrida, por ser um exercício de maior intensidade, queima mais calorias por minuto e exige mais do sistema cardiorrespiratório. No entanto, a caminhada é uma atividade de baixo impacto, acessível a quase todos e com risco muito menor de lesões. Para um iniciante ou alguém com problemas articulares, caminhar é uma opção fantasticamente superior. O melhor exercício é aquele que você consegue fazer com consistência. Sabia que um estudo grande mostrou que corredores tendem a ter maior redução no risco de hiensão, colesterol alto e diabetes, mas que caminhantes que gastavam a mesma quantidade de energia alcançavam benefícios muito similares?",
+    "palavras_chave": ["caminhada", "corrida", "exercício", "cardio", "benefícios"]
+  },
+  {
+    "pergunta": "Chá de boldo é bom para curar a ressaca?",
+    "resposta": "O chá de boldo é um remédio caseiro muito popular, mas sua eficácia para a ressaca é limitada. O boldo contém uma substância chamada lactona, que tem propriedades coleréticas, ou seja, estimula a produção e secreção da bile pelo fígado, o que pode ajudar na digestão de gorduras. Isso pode trazer um alívio sintomático da indigestão que acompanha a ressaca. No entanto, a ressaca é causada principalmente pela desidratação, pela queda do açúcar no sangue e por toxinas resultantes do metabolismo do álcool. Nada substitui o tempo e a reidratação. O chá de boldo pode ajudar no conforto digestivo, mas não é uma 'cura' milagrosa.",
+    "palavras_chave": ["boldo", "ressaca", "fígado", "bile", "remédio caseiro"]
+  },
+  {
+    "pergunta": "Pular café da manhã engorda?",
+    "resposta": "Essa é uma generalização. A ideia de que o café da manhã 'acelera o metabolismo' é exagerada. O que importa é o total de calorias e a qualidade da alimentação ao longo de todo o dia. Para algumas pessoas, pular o café da manhã leva a comer mais e pior no almoço, resultando em um excedente calórico. Para outras, que naturalmente não sentem fome de manhã, pular essa refeição pode ser uma forma intuitiva de reduzir a ingestão calórica total, uma prática conhecida como jejum intermitente. O efeito depende totalmente do indivíduo e do seu contexto. Não é uma regra universal.",
+    "palavras_chave": ["café da manhã", "metabolismo", "jejum", "calorias", "individualidade"]
+  },
+  {
+    "pergunta": "Comer banana à noite causa gripe ou resfriado?",
+    "resposta": "Não existe nenhuma base fisiológica para essa crença. A banana é uma fruta nutritiva, rica em potássio, vitaminas e fibras. Ela não produz muco, nem 'esfria' o corpo de uma forma que predisponha a infecções. Esse mito provavelmente se originou em tradições de medicina popular que classificam os alimentos como 'quentes' ou 'frios', independentemente de sua temperatura real. Uma pessoa pode perfeitamente comer banana à noite sem medo de acordar gripada. A gripe e o resfriado são causados exclusivamente por vírus, não pelo consumo de frutas.",
+    "palavras_chave": ["banana", "gripe", "muco", "comida fria", "vitaminas"]
+  },
+  {
+    "pergunta": "Aspartame causa câncer?",
+    "resposta": "Após décadas de extensa pesquisa, não há evidências convincentes de que o aspartame, um adoçante artificial, cause câncer em humanos. A segurança do aspartame foi aprovada por agências regulatórias rigorosas como a FDA (EUA) e a EFSA (Europa), com base em centenas de estudos. O mito persiste devido a pesquisas iniciais em ratos que usavam doses astronomicamente altas, não replicáveis em humanos com consumo normal. Em 2023, a OMS classificou o aspartame como 'possivelmente carcinogênico', mas esta é uma categoria de baixo risco que inclui também itens como picles e o aloe vera, significando que as evidências são limitadas e não conclusivas.",
+    "palavras_chave": ["aspartame", "adoçante", "câncer", "segurança alimentar", "oms"]
+  },
+  {
+    "pergunta": "É perigoso nadar depois de comer?",
+    "resposta": "A crença de que nadar após uma refeição causa cãibras fatais é um exagero. Após comer, o sangue flui para o trato digestivo, o que teoricamente poderia reduzir um pouco o fluxo para os músculos. No entanto, isso é insuficiente para causar cãibras em uma pessoa saudável a ponto de levá-la a se afogar. O desconforto real é a possibilidade de sentir enjoos ou náuseas durante um esforço físico intenso com o estômago cheio. O conselho sensato é esperar um tempo até a digestão pesada passar e nadar em um ritmo mais leve, mas não é necessário esperar a mítica '1 hora' ou '2 horas' que os avós recomendavam.",
+    "palavras_chave": ["nadar", "comer", "cãibra", "digestão", "afogamento"]
+  },
+  {
+    "pergunta": "Chá de erva-doce aumenta a produção de leite materno?",
+    "resposta": "A erva-doce é uma das galactagogas mais famosas da cultura popular, mas a evidência científica de sua eficácia é fraca e conflitante. Alguns pequenos estudos sugerem um efeito modesto, possivelmente devido a compostos fitoestrogênicos. No entanto, revisões sistemáticas maiores não encontraram provas consistentes. O que definitivamente aumenta a produção de leite é a amamentação frequente e eficaz, que esvazia as mamas e estimula mais produção, aliada a uma boa hidratação e nutrição da mãe. O efeito do chá pode ser mais psicológico ou um placebo, mas não é uma solução mágica para problemas de baixa produção.",
+    "palavras_chave": ["erva-doce", "leite materno", "galactagogo", "amamentação", "placebo"]
+  },
+  {
+    "pergunta": "Usar óculos de outra pessoa estraga a vista?",
+    "resposta": "Usar ocasionalmente os óculos de outra pessoa não causará danos permanentes aos seus olhos. O que vai acontecer é um grande desconforto visual. Se a graduação for muito diferente da sua, seus olhos terão que fazer um esforço extra para focar, o que pode resultar em dor de cabeça, tontura, náusea e fadiga ocular. Esses sintomas são temporários e cessam quando você para de usar os óculos 'errados'. No entanto, usar uma correção inadequada continuamente, especialmente em crianças, pode interferir no desenvolvimento visual. O mito do 'estragar a vista' vem desse desconforto intenso, que as pessoas interpretam como um dano, quando na verdade é apenas uma strain muscular temporária.",
+    "palavras_chave": ["óculos", "visão", "grau", "fadiga ocular", "desconforto"]
+  },
+  {
+    "pergunta": "Comer ovo aumenta o colesterol?",
+    "resposta": "Esta é uma visão que a ciência nutricional modernizou. Durante anos, o ovo foi vilão devido ao seu alto teor de colesterol dietético. No entanto, pesquisas recentes mostram que, para a maioria das pessoas saudáveis, o colesterol da dieta tem um impacto relativamente pequeno no colesterol sanguíneo, que é muito mais influenciado pela genética e pela ingestão de gorduras saturadas e trans. O ovo é uma fonte fantástica de proteínas de alta qualidade, vitaminas e antioxidantes. Para a grande maioria, consumir até um ovo por dia não aumenta o risco de doenças cardíacas. A recomendação de restrição vale principalmente para pessoas que já têm diabetes ou hipercolesterolemia familiar.",
+    "palavras_chave": ["ovo", "colesterol", "dieta", "gordura saturada", "nutrição"]
+  },
+  {
+    "pergunta": "Açúcar deixa as crianças hiperativas?",
+    "resposta": "Inúmeros estudos científicos controlados falharam em encontrar qualquer ligação entre o consumo de açúcar e o comportamento hiperativo em crianças. A crença é incrivelmente persistente, provavelmente por causa de um viés de confirmação: os pais esperam que o comportamento mude em festas (onde há açúcar), e é exatamente nesses ambientes, cheios de estímulos, emoção e outras crianças, que os pequenos naturalmente ficam mais agitados. O açúcar é associado à ocasião, não sendo a causa da agitação. Sabia que um estudo clássico mostrou que pais que acreditavam que seus filhos tinham tomado açúcar relatavam mais comportamentos hiperativos, mesmo quando as crianças haviam recebido apenas um placebo?",
+    "palavras_chave": ["açúcar", "hiperatividade", "crianças", "viés de confirmação", "placebo"]
+  },
+  {
+    "pergunta": "Produtos 'sem glúten' são mais saudáveis?",
+    "resposta": "Para a grande maioria das pessoas, não. A dieta sem glúten é essencial e salvadora para quem tem doença celíaca ou sensibilidade não celíaca ao glúten. Para os outros, trocar produtos com glúten por suas versões 'gluten-free' não traz nenhum benefício inerente à saúde. Muitas vezes, o oposto é verdadeiro: para compensar a textura e sabor que o glúten proporciona, os fabricantes adicionam mais açúcar, gordura e aditivos. Esses produtos podem ser mais calóricos e menos nutritivos. A menos que você tenha uma condição médica específica, não há motivo para evitar o glúten, que está presente em grãos integrais que são fontes importantes de fibras e vitaminas.",
+    "palavras_chave": ["glúten", "doença celíaca", "dieta", "moda", "alimento processado"]
+  },
+  {
+    "pergunta": "Cerveja preta é bom para amamentar?",
+    "resposta": "Este é um mito perigoso. A crença popular é que o lúpulo e os cereais da cerveja preta atuariam como galactagogos. Na realidade, o álcool presente em qualquer tipo de cerveja é prejudicial para a amamentação. Ele passa rapidamente para o leite materno e pode afetar o sono, o desenvolvimento motor e até o ganho de peso do bebê. Além disso, ao contrário do que se pensa, o álcool inibe a descida do leite (reflexo de ejeção) e pode reduzir a produção. A hidratação adequada com água, sucos naturais e, se quiser, cerveja sem álcool, é a maneira segura e eficaz de se manter hidratada para produzir leite.",
+    "palavras_chave": ["cerveja preta", "leite materno", "álcool", "bebê", "hidratação"]
+  },
+  {
+    "pergunta": "Comer manga com leite é venenoso?",
+    "resposta": "Absolutamente não. Essa é uma das combinações alimentares mais temidas em algumas culturas, mas é completamente inofensiva. Manga e leite são, individualmente, alimentos altamente nutritivos. Juntos, formam a base de vitaminas e milk-shakes deliciosos em todo o mundo. O mito possivelmente tem raízes históricas na Índia colonial, onde os governantes britânicos podem ter espalhado a lenda para dissuadir os nativos de consumirem uma refeição nutritiva e barata, ou pode ser uma forma de tabu alimentar sem base científica. Não há nenhuma reação química entre os dois que produza toxinas.",
+    "palavras_chave": ["manga", "leite", "veneno", "tabu alimentar", "nutrição"]
+  },
+  {
+    "pergunta": "Cabelo e unhas continuam crescendo depois que morremos?",
+    "resposta": "Esta é uma ilusão arrepiante, mas falsa. Após a morte, o corpo desidrata e a pele, especialmente ao redor dos cabelos e unhas, retrai. Essa retração da pele dá a impressão de que os cabelos e as unhas ficaram mais longos. Na realidade, o crescimento de cabelos e unhas requer uma complexa atividade celular, que cessa poucos minutos após a morte, quando o fornecimento de sangue e oxigênio para essas células é interrompido. É um fenômeno puramente mecânico de mudança no tecido circundante, e não um crescimento real.",
+    "palavras_chave": ["cabelo", "unha", "morte", "crescimento", "desidratação"]
+  },
+  {
+    "pergunta": "Comer pimenta causa úlcera no estômago?",
+    "resposta": "A pimenta, especificamente a capsaicina, seu composto ativo, não é a causa das úlceras gástricas. Pelo contrário, alguns estudos sugerem que ela pode até ter um efeito protetor, inibindo a secreção ácida e estimulando a produção de muco protetor. A grande maioria das úlceras é causada por uma infecção pela bactéria Helicobacter pylori ou pelo uso prolongado de anti-inflamatórios não esteroidais. O que a pimenta pode fazer é irritar uma úlcera já existente, causando dor e desconforto. Portanto, ela piora os sintomas, mas não é a causa da ferida.",
+    "palavras_chave": ["pimenta", "úlcera", "estômago", "helicobacter pylori", "capsaicina"]
+  },
+  {
+    "pergunta": "Tomar banho depois de comer faz mal?",
+    "resposta": "Tomar um banho morno ou rápido após uma refeição normal não representa nenhum perigo para a maioria das pessoas saudáveis. O mito provavelmente surge da mesma lógica de nadar: o corpo desviaria sangue para a pele (para regular a temperatura) e away do estômago, atrapalhando a digestão. Na prática, o corpo é perfeitamente capaz de lidar com essas duas demandas sem grandes problemas. O que pode causar algum desconforto é um banho muito quente e demorado, ou uma refeição extremamente pesada, combinados. Para uma pessoa com problemas circulatórios ou digestivos sérios, o cuidado pode ser maior, mas para a maioria é um hábito inofensivo.",
+    "palavras_chave": ["banho", "comer", "digestão", "sangue", "desconforto"]
+  },
+  {
+    "pergunta": "Antiperspirante 'natural' sem alumínio é melhor para a saúde?",
+    "resposta": "A histeria em torno do alumínio fez surgir um mercado de antitranspirantes 'naturais'. É importante distinguir: desodorantes mascaram o odor, enquanto antitranspirantes (que contêm alumínio) reduzem a quantidade de suor. O alumínio é o ingrediente ativo que bloqueia temporariamente os ductos das glândulas sudoríparas. Não há evidências robustas de que essa quantidade de alumínio, aplicada topicamente, seja prejudicial. Os 'naturais' são, na verdade, desodorantes. Se você sua muito e quer reduzir a transpiração, um antitranspirante com alumínio é a opção eficaz e considerada segura pelas agências de saúde. A escolha é entre eficácia e uma preferência pessoal por ingredientes 'livres de'.",
+    "palavras_chave": ["antiperspirante", "alumínio", "natural", "desodorante", "suor"]
+  },
+  {
+    "pergunta": "Beber água gelada queima calorias?",
+    "resposta": "Tecnicamente, sim, mas em uma quantidade tão insignificante que é irrelevante para a perda de peso. O corpo gasta uma pequena quantidade de energia para aquecer a água ingerida até a temperatura corporal. Estima-se que beber um copo de 500ml de água gelada queime cerca de 17 calorias. Para queimar apenas 1 kg de gordura (cerca de 7700 calorias), você precisaria beber mais de 450 copos. Claramente, não é uma estratégia viável. Beber água é fundamental para a saúde e pode ajudar na saciedade, mas sua temperatura não faz diferença no balanço energético total.",
+    "palavras_chave": ["água gelada", "calorias", "metabolismo", "termogênese", "perda de peso"]
+  },
+  {
+    "pergunta": "Pessoas com diabetes não podem comer nenhum tipo de açúcar?",
+    "resposta": "Este é um mito que pode ser muito prejudicial. Pessoas com diabetes podem, sim, consumir açúcar, mas com moderação e como parte de um plano alimentar equilibrado. O foco moderno do manejo do diabetes não é a eliminação total do açúcar, mas o controle da quantidade total de carboidratos e do índice glicêmico ao longo do dia, aliado à medicação adequada. Proibir completamente pode levar a desejos incontroláveis e a episódios de compulsão. A chave é o planejamento: se a pessoa quiser comer um pequeno pedaço de bolo, ela pode ajustar os outros carboidratos da refeição. A educação diabetológica é fundamental para derrubar esse mito restritivo.",
+    "palavras_chave": ["diabetes", "açúcar", "carboidrato", "dieta", "moderação"]
+  },
+  {
+    "pergunta": "Cremes com colágeno rejuvenescem a pele?",
+    "resposta": "Infelizmente, não. As moléculas de colágeno presentes nos cremes são grandes demais para penetrar na camada mais externa da pele (a epiderme). Elas ficam na superfície, agindo como um hidratante, podendo dar uma aparência temporariamente mais suave e preenchida, mas não conseguem repor o colágeno que se perde nas camadas mais profundas com a idade. O que realmente estimula a produção natural de colágeno são ingredientes como os retinóides e a vitamina C, além de procedimentos como o laser e o microagulhamento, que criam microlesões para induzir a reparação. Cremes de colágeno são, em grande parte, um eficaz marketing de esperança.",
+    "palavras_chave": ["colágeno", "creme", "pele", "envelhecimento", "hidratante"]
+  },
+  {
+    "pergunta": "Comer abacaxi queima gordura?",
+    "resposta": "O abacaxi contém uma enzima chamada bromelina, que auxilia na digestão de proteínas. Por isso, ele pode ajudar a 'quebrar' a carne de um churrasco no seu estômago, mas não quebra a gordura armazenada no seu corpo. A bromelina não tem a capacidade de entrar na sua corrente sanguínea e viajar até os depósitos de gordura para 'dissolvê-los'. Nenhum alimento tem esse poder de queimar gordura localizada. A perda de gordura ocorre de forma sistêmica, através de um déficit calórico. O abacaxi é uma fruta saudável, low-calorie e rica em fibras, que pode ser parte de uma dieta equilibrada para perda de peso, mas não é um agente 'queimador de gordura'.",
+    "palavras_chave": ["abacaxi", "gordura", "bromelina", "enzima", "déficit calórico"]
+  },
+  {
+    "pergunta": "Sentar muito perto da TV estraga a vista?",
+    "resposta": "Assim como ler com pouca luz, este é um mito que assustou gerações de crianças. Sentar-se perto da televisão não causa danos físicos permanentes aos olhos. No entanto, pode ser um sinal de que a criança já tem um problema de visão não diagnosticado, como miopia, e se aproxima da tela para enxergar melhor. Pode também causar fadiga ocular temporária e dor de cabeça. Se uma criança tem esse hábito persistente, o correto não é repreendê-la, mas levá-la a um oftalmologista para uma avaliação. A TV moderna, com suas telas de LCD/LED, também não emite a radiação prejudicial das antigas TVs de tubo.",
+    "palavras_chave": ["tv", "visão", "miopia", "fadiga ocular", "criança"]
+  },
+  {
+    "pergunta": "Comer a clara do ovo é mais saudável que a gema?",
+    "resposta": "Essa ideia levou à moda dos omeletes de clara, mas é uma simplificação nutricionalmente pobre. A clara é uma fonte pura de proteína, com pouquíssimas calorias, e por isso é valorizada em dietas de restrição calórica. No entanto, a gema é onde se concentram a maioria das vitaminas (A, D, E, K) e minerais (ferro, zinco, selênio) do ovo, além de gorduras saudáveis e colina, um nutriente essencial para o cérebro. Jogar a gema fora é desperdiçar a parte mais nutritiva do alimento. Para a maioria das pessoas, comer o ovo inteiro é a escolha mais saudável e equilibrada.",
+    "palavras_chave": ["clara", "gema", "ovo", "nutrientes", "proteína"]
+  },
+  {
+    "pergunta": "Pomada para assaduras serve para cicatrizar ferimentos?",
+    "resposta": "Usar pomada de assaduras, que geralmente contém óxido de zinco, em ferimentos abertos não é uma boa ideia. A função principal do óxido de zinco é formar uma barreira física protetora e impermeável na pele *saia* da região das fraldas, evitando o contato com a umidade e as fezes. Em uma ferida aberta, essa mesma barreira pode impedir a drenagem e a respiração do tecido, criando um ambiente úmido e fechado que favorece a proliferação de bactérias e pode atrapalhar o processo natural de cicatrização. Para ferimentos, o ideal é usar produtos específicos como antissépticos e curativos que mantenham um equilíbrio ideal de umidade.",
+    "palavras_chave": ["pomada", "assadura", "ferimento", "óxido de zinco", "cicatrização"]
+  },
+  {
+    "pergunta": "Comer embutidos, como presunto, causa câncer?",
+    "resposta": "A afirmação é um tanto alarmista, mas tem uma base em evidências epidemiológicas. A OMS classificou as carnes processadas (incluindo presunto, salsicha, bacon e salame) como 'carcinogênicas para humanos' (Grupo 1), baseada em evidências suficientes de que seu consumo aumenta o risco de câncer colorretal. No entanto, é crucial entender o que isso significa: o risco *relativo* aumenta, mas o risco *absoluto* para um indivíduo permanece baixo. É um fator de risco entre muitos outros, como tabagismo e sedentarismo. O problema são os conservantes (como os nitritos e nitratos) e outros compostos formados durante o processamento. O conselho é de moderação, não de proibição total.",
+    "palavras_chave": ["embutido", "câncer", "carne processada", "oms", "nitrito"]
+  },
+  {
+    "pergunta": "Suplementos de vitamina C previnem gripes e resfriados?",
+    "resposta": "A fama da vitamina C como escudo contra resfriados começou com o químico Linus Pauling na década de 1970, mas a ciência subsequente não a confirmou. Para a população em geral, a suplementação regular de vitamina C *não* reduz a incidência de resfriados. O que alguns estudos mostram é que ela pode reduzir ligeiramente a duração dos sintomas (cerca de 8% em adultos e 14% em crianças), um efeito bastante modesto. Para atletas de elite submetidos a exercícios extremos (como maratonistas), a suplementação pode reduzir pela metade o risco de pegar um resfriado. Para o cidadão comum, uma alimentação balanceada com frutas cítricas já fornece vitamina C suficiente.",
+    "palavras_chave": ["vitamina c", "gripe", "resfriado", "suplemento", "linus pauling"]
+  },
+  {
+    "pergunta": "Pílulas 'queimadoras de gordura' funcionam?",
+    "resposta": "A grande maioria dessas pílulas, vendidas como suplementos alimentares, tem eficácia questionável e não sustentada por estudos robustos. Elas geralmente contêm uma mistura de cafeína e outros estimulantes que podem aumentar ligeiramente o metabolismo e suprimir o apetite por um curto período. No entanto, esse efeito é mínimo e o corpo rapidamente desenvolve tolerância. Nenhuma pílula é capaz de criar o déficit calórico necessário para a perda de peso significativa e duradoura. Muitas são apenas 'queimadoras de dinheiro' e, pior, podem causar efeitos colaterais como aumento da pressão arterial, ansiedade e problemas cardíacos. Não existem atalhos mágicos para a perda de peso.",
+    "palavras_chave": ["pílula", "queimador de gordura", "suplemento", "cafeína", "metabolismo"]
+  },
+  {
+    "pergunta": "Tomar café atrapalha o crescimento?",
+    "resposta": "Não há nenhuma evidência científica que ligue o consumo moderado de café ao prejuízo do crescimento em crianças ou adolescentes. Este mito provavelmente surgiu da ideia de que a cafeína, em quantidades muito altas, pode interferir na absorção de cálcio. No entanto, o efeito é tão pequeno que uma colher de leite é suficiente para compensá-lo. O crescimento é determinado principalmente pela genética, nutrição geral e hormônios. O real problema do café para os mais jovens é a cafeína, que pode causar ansiedade, agitação, dor de cabeça e dificuldade para dormir, daí a recomendação de moderação ou evitar para essa faixa etária.",
+    "palavras_chave": ["café", "crescimento", "cafeína", "cálcio", "adolescente"]
+  },
+  {
+    "pergunta": "Comer peixe faz bem para o cérebro?",
+    "resposta": "Este é um dos raros casos em que o mito popular é corroborado pela ciência. Peixes, especialmente os de água fria e gordurosos como salmão, sardinha e atum, são ricos em ácidos graxos ômega-3, especificamente o DHA (ácido docosahexaenóico). O DHA é um componente fundamental das membranas das células cerebrais e é crucial para a função cognitiva, a memória e a comunicação entre os neurônios. Estudos observacionais associam o consumo regular de peixe a um menor declínio cognitivo na velhice e a um menor risco de demência. Então, sim, a sabedoria popular de que 'peixe é alimento para o cérebro' tem um sólido fundamento nutricional.",
+    "palavras_chave": ["peixe", "cérebro", "ômega-3", "dha", "cognição"]
+  },
+  {
+    "pergunta": "Fazer exercício abdominal 'queima' a gordura da barriga?",
+    "resposta": "Este é o clássico mito da 'redução localizada'. Fazer abdominais fortalece e define os músculos do abdômen que estão *por baixo* da camada de gordura. No entanto, eles não são eficazes para queimar a gordura que cobre esses músculos. O corpo queima gordura de forma sistêmica, de acordo com a genética de cada um, e não de forma seletiva na área que está sendo exercitada. Para 'secar' a barriga, você precisa criar um déficit calórico através de exercícios cardiovasculares e de força para o corpo todo, combinados com uma dieta adequada. Fazer mil abdominais por dia sem cuidar da alimentação resultará em um abdômen forte, mas ainda coberto por gordura.",
+    "palavras_chave": ["abdominal", "gordura localizada", "exercício", "déficit calórico", "musculação"]
+  },
+  {
+    "pergunta": "Comer carboidrato é essencial para ter energia para malhar?",
+    "resposta": "Sim, essa é uma verdade. Os carboidratos são a fonte de energia preferida e mais eficiente do nosso corpo, especialmente para exercícios de média a alta intensidade. Eles são armazenados nos músculos e no fígado na forma de glicogênio, que é rapidamente convertido em glicose para alimentar a contração muscular. Fazer exercícios em estado de depleção de glicogênio (por exemplo, em uma dieta low-carb muito restritiva) pode levar a uma performance reduzida, fadiga precoce e até perda de massa muscular, pois o corpo pode passar a usar proteína como fonte de energia. Consumir uma fonte de carboidrato complexo (como aveia ou batata-doce) algumas horas antes do treino é uma estratégia inteligente para melhorar o rendimento.",
+    "palavras_chave": ["carboidrato", "energia", "treino", "glicogênio", "performance"]
+  },
+  {
+    "pergunta": "Homeopatia é um tratamento eficaz para doenças?",
+    "resposta": "A homeopatia é baseada no princípio dos 'semelhantes' e no uso de substâncias altamente diluídas, tantas vezes que frequentemente não resta uma única molécula da substância original no remédio final. Do ponto de vista da ciência moderna, a homeopatia não possui um mecanismo de ação plausível e seus efeitos não são superiores ao placebo em estudos clínicos rigorosos e controlados. Grandes revisões sistemáticas, como a do Conselho Nacional de Saúde e Pesquisa Médica da Austrália, concluíram que não há evidências confiáveis de que a homeopatia seja eficaz para qualquer condição de saúde. Pode fazer uma pessoa se sentir subjetivamente melhor devido ao efeito placebo, mas não trata a doença em si. Para condições sérias, confiar apenas na homeopatia pode ser perigoso.",
+    "palavras_chave": ["homeopatia", "placebo", "diluição", "eficácia", "medicina baseada em evidências"]
+  },
+  {
+    "pergunta": "Comer à vontade na infância cria um 'estoque' para a vida toda?",
+    "resposta": "Este é um mito perigoso. O que acontece na infância é a chamada 'proliferação de adipócitos', que são as células de gordura. Uma alimentação excessivamente calórica na infância pode aumentar o *número* dessas células, e este número tende a ser permanente. Na vida adulta, ao engordar ou emagrecer, você apenas aumenta ou diminui o *tamanho* dessas células, mas não seu número. Ter mais células de gordura desde a infância pode tornar a pessoa mais predisposta a flutuações de peso e a dificuldades para emagrecer no futuro. Portanto, a base estabelecida na infância é crucial, mas não como um 'estoque', e sim como uma programação metabólica e celular de longo prazo.",
+    "palavras_chave": ["infância", "gordura", "adipócitos", "obesidade", "programação metabólica"]
+  },
+  {
+    "pergunta": "Pessoas magras não precisam se exercitar?",
+    "resposta": "Esse é um equívoco grave. O peso na balança é apenas um indicador de saúde, e um IMC baixo não significa automaticamente que a pessoa é saudável por dentro. O exercício físico oferece benefícios que vão muito além do controle de peso: melhora a saúde cardiovascular, fortalece ossos e músculos, reduz o risco de diabetes tipo 2, melhora o humor, a qualidade do sono e a função cognitiva. Uma pessoa magra pode ter uma alta porcentagem de gordura corporal (a chamada 'falsa magra' ou 'skinny fat') e um condicionamento físico péssimo, o que a coloca em risco para problemas de saúde. Exercício é para todo mundo, independente do tamanho do corpo.",
+    "palavras_chave": ["magro", "exercício", "saúde cardiovascular", "condicionamento físico", "gordura visceral"]
+  },
+  {
+    "pergunta": "Beber líquido durante a refeição atrapalha a digestão?",
+    "resposta": "Beber uma quantidade moderada de líquido durante as refeições não atrapalha a digestão de forma significativa. O estômago é perfeitamente capaz de lidar com líquidos e sólidos ao mesmo tempo. Na verdade, a água pode ajudar a amolecer o bolo alimentar, facilitando o processo. O mito surge da ideia de que os líquidos 'diluiriam' os sucos gástricos, mas o estômago regula seu pH de forma muito eficiente. O que pode acontecer é que beber muito líquido de uma vez pode dar uma sensação de estufamento e, para quem busca emagrecer, pode ajudar a preencher o estômago e promover saciedade. O único cuidado é para pessoas com refluxo, onde grandes volumes podem piorar os sintomas.",
+    "palavras_chave": ["líquido", "refeição", "digestão", "suco gástrico", "saciedade"]
+  },
+  {
+    "pergunta": "Chá de carqueja 'limpa o fígado' e emagrece?",
+    "resposta": "O chá de carqueja é um dos remédios caseiros mais famosos para o fígado, mas sua ação é mais mito do que realidade. Atribui-se a ele propriedades 'depurativas' e 'desintoxicantes', porém, não há evidências científicas robustas que comprovem que ele 'limpe' o fígado. Seu sabor amargo pode ter um leve efeito digestivo e estimular a produção de bile, o que pode aliviar a sensação de empachamento após uma refeição gordurosa. Quanto ao emagrecimento, não há efeito direto. A perda de peso associada ao seu uso geralmente vem do efeito diurético (perda de água) e da substituição de bebidas calóricas por um chá sem calorias. O fígado é autolimpante e não precisa de chás para isso.",
+    "palavras_chave": ["carqueja", "fígado", "detox", "digestão", "bile"]
+  },
+  {
+    "pergunta": "Creme dental clareador desgasta os dentes?",
+    "resposta": "Depende da sua composição. Cremes dentais clareadores convencionais, que você compra no supermercado, geralmente contêm abrasivos suaves para remover manchas superficiais. Eles são seguros para o esmalte quando usados conforme as instruções. O perigo está nas pastas caseiras ou produtos muito abrasivos, como aqueles que contêm carvão ativado ou bicarbonato de sódio em alta concentração, que podem, sim, riscar e desgastar o esmalte dental com o uso contínuo, tornando os dentes mais sensíveis e amarelados a longo prazo (pois a dentina, que é mais amarela, fica exposta). Para um clareamento real e seguro, o ideal é consultar um dentista.",
+    "palavras_chave": ["creme dental", "clareador", "esmalte dental", "abrasivo", "sensibilidade"]
+  },
+  {
+    "pergunta": "Tomar banho de chuva após exercício físico faz mal?",
+    "resposta": "Não faz mal. Na verdade, pode ser bastante refrescante. O mito provavelmente vem da associação entre ficar com as roupas molhadas e o resfriamento do corpo, que em teoria poderia baixar a imunidade. No entanto, um resfriado ou gripe só é causado por um vírus. Após o exercício, há uma breve 'janela de oportunidade' onde o sistema imune pode estar ligeiramente suprimido, mas um banho de chuva rápido não é o fator determinante para adoecer. O maior risco é tomar um susto com água muito fria se você estiver muito aquecido, o que pode causar um pico de pressão em pessoas susceptíveis. Fora isso, é um hábito inofensivo.",
+    "palavras_chave": ["banho de chuva", "exercício", "resfriado", "imunidade", "temperatura corporal"]
+  },
+  {
+    "pergunta": "Comer alimentos 'light' e 'diet' é a chave para emagrecer?",
+    "resposta": "Essa crença pode ser uma armadilha. Produtos 'light' têm redução de algum nutriente (geralmente gordura) e os 'diet' são isentos de algum ingrediente (como açúcar, para diabéticos). No entanto, 'reduzido em gordura' muitas vezes significa 'aumentado em açúcar' para manter o sabor, e vice-versa. Muitos desses produtos continuam sendo altamente processados e calóricos. O maior perigo é o efeito psicológico: as pessoas tendem a consumir porções maiores porque acham que é 'liberado', resultando em um consumo calórico igual ou até maior. A chave para emagrecer não é trocar produtos normais por versões light, mas priorizar alimentos in natura e controlar o tamanho das porções.",
+    "palavras_chave": ["light", "diet", "emagrecer", "alimento processado", "porção"]
+  },
+  {
+    "pergunta": "A urina é estéril?",
+    "resposta": "Este é um mito científico antigo que foi derrubado. Durante décadas, acreditou-se que a urina da bexiga de uma pessoa saudável era completamente estéril. No entanto, técnicas modernas de sequenciamento genético mostraram que a bexiga, assim como o intestino, abriga um microbioma único, com uma comunidade de bactérias benéficas. A urina não é estéril; ela contém bactérias, mas em uma pessoa saudável, essas bactérias não são patogênicas e vivem em equilíbrio. Esse mito levou a práticas perigosas, como usar urina para limpar ferimentos, o que é uma ideia terrível, pois mesmo bactérias 'boas' podem causar infecão em uma ferida aberta.",
+    "palavras_chave": ["urina", "estéril", "microbioma", "bexiga", "bactéria"]
+  },
+  {
+    "pergunta": "Comer carboidrato no jantar engorda mais do que proteína?",
+    "resposta": "Como já falamos, o horário em si não é o fator decisivo. Uma caloria de carboidrato e uma caloria de proteína têm a mesma unidade de energia. No entanto, a proteína tem um efeito térmico maior (o corpo gasta mais calorias para digeri-la) e promove uma saciedade mais prolongada. Portanto, uma refeição rica em proteínas pode, indiretamente, ajudar no controle de peso ao fazer você se sentir satisfeito por mais tempo e reduzir a vontade de beliscar depois. Mas se você mantiver o mesmo déficit calórico, comer uma porção moderada de batata-doce (carboidrato) no jantar não vai engordar mais do que um filé de frango (proteína) com o mesmo valor calórico.",
+    "palavras_chave": ["carboidrato", "proteína", "jantar", "efeito térmico", "saciedade"]
+  },
+  {
+    "pergunta": "Pomada com corticoides 'cura' todas as alergias de pele?",
+    "resposta": "As pomadas de corticoides são anti-inflamatórias potentes e são excelentes para controlar os *sintomas* de alergias de pele, como coceira, vermelhidão e inchaço. No entanto, elas não 'curam' a alergia em si, que é uma resposta exagerada do sistema imunológico a um determinado agente. Elas apenas suprimem a reação inflamatória. Se o uso for contínuo sem identificar e afastar a causa (alérgeno), os sintomas voltarão assim que a pomada for suspensa. Além disso, o uso prolongado e indiscriminado pode causar efeitos colaterais sérios, como afinamento da pele, estrias e até absorção sistêmica do hormônio. Elas devem ser usadas com prescrição médica e por tempo limitado.",
+    "palavras_chave": ["corticoide", "pomada", "alergia", "pele", "anti-inflamatório"]
+  },
+  {
+    "pergunta": "Refrigerante diet é melhor para a saúde que o normal?",
+    "resposta": "'Melhor' é um termo relativo. Trocar refrigerante açucarado pela versão diet é uma estratégia eficaz para reduzir drasticamente a ingestão de calorias e açúcar, o que é benéfico para o controle de peso e diabetes. No entanto, 'melhor' não significa 'bom'. Refrigerante diet continua sendo uma bebida ultraprocessada, ácida (prejudicial para os dentes) e cheia de aditivos. Alguns estudos observacionais associam o alto consumo de refrigerantes diet a um maior risco de síndrome metabólica e derrames, mas a relação de causa e efeito não é clara – pode ser que pessoas com pior saúde preexistente tendam a consumi-los mais. A água ainda é a opção indiscutivelmente mais saudável.",
+    "palavras_chave": ["refrigerante diet", "adoçante", "ultraprocessado", "ácido", "saúde"]
+  },
+  {
+    "pergunta": "Comer fruta depois do almoço engorda?",
+    "resposta": "Não, o momento em que você come a fruta não altera seu valor calórico. Uma maçã tem as mesmas calorias se comida antes, durante ou depois da refeição. Na verdade, comer uma fruta como sobremesa pode ser uma ótima estratégia para satisfazer o desejo por doce de forma saudável, além de adicionar fibras, vitaminas e minerais à refeição. A única consideração é para pessoas com problemas digestivos específicos, como síndrome do intestino irritável, onde a combinação de frutose com outros alimentos pode causar desconforto. Para a grande maioria, é um hábito excelente e não contribui para o ganho de peso.",
+    "palavras_chave": ["fruta", "sobremesa", "calorias", "fibra", "digestão"]
+  },
+  {
+    "pergunta": "Pílula do dia seguinte é uma pílula abortiva?",
+    "resposta": "Não, este é um equívoco comum e importante de ser esclarecido. A pílula do dia seguinte é um contraceptivo de emergência, e não um abortivo. Seu principal mecanismo de ação é *impedir ou retardar a ovulação*, ou seja, evitar que o óvulo seja liberado. Se não há óvulo, não há possibilidade de fecundação. Ela também pode tornar o muco cervical mais espesso, dificultando a passagem dos espermatozoides. A pílula do dia seguinte *não* tem efeito se a fecundação já tiver ocorrido, ou seja, se a mulher já estiver grávida. Ela não interrompe uma gravidez em curso. Por isso, seu uso é considerado contraceptivo e não abortivo pela maioria das definições médicas e legais.",
+    "palavras_chave": ["pílula do dia seguinte", "contracepção", "ovulação", "aborto", "fecundação"]
+  },
+  {
+    "pergunta": "Tomar sol através do vidro da janela fornece vitamina D?",
+    "resposta": "Infelizmente, não. Os raios UVB, que são os responsáveis por ativar a produção de vitamina D na nossa pele, são quase completamente bloqueados pelo vidro comum. Você pode se bronzear (devido aos raios UVA, que penetram no vidro), mas isso não se traduz em síntese de vitamina D. Ficar atrás de uma janela fechada é inútil para esse fim. Para produzir vitamina D, você precisa de exposição direta da pele ao sol, preferencialmente nos horários de pico de UVB (geralmente entre 10h e 15h), e por um tempo curto (cerca de 15 a 20 minutos, dependendo do tom de pele), sem protetor solar na área exposta.",
+    "palavras_chave": ["vitamina d", "sol", "vidro", "raios uvb", "exposição solar"]
+  },
+  {
+    "pergunta": "Comer alimentos muito quentes pode causar câncer no estômago?",
+    "resposta": "Há uma associação, mas não uma relação direta de causa e efeito. A Agência Internacional de Pesquisa em Câncer (IARC) classifica o consumo de bebidas muito quentes (acima de 65°C) como 'provavelmente carcinogênico para humanos'. A teoria é que o calor extremo cause danos térmicos repetitivos e crônicos no revestimento do esôfago, o que poderia levar a inflamação e, com o tempo, aumentar o risco de transformação celular maligna. O risco é maior para o esôfago do que para o estômago propriamente dito. O conselho é simples: espere esfriar um pouco aquele café, chá ou chimarrão antes de consumir. Deixe a temperatura chegar a um ponto confortável, que não queime a língua.",
+    "palavras_chave": ["alimento quente", "câncer", "esôfago", "danos térmicos", "iarc"]
+  },
+  {
+    "pergunta": "Pessoas idosas precisam de menos sono?",
+    "resposta": "A necessidade de sono (cerca de 7-8 horas por noite) não diminui significativamente com a idade. O que muda é a *capacidade* de dormir. Idosos tendem a ter um sono mais fragmentado, acordando mais vezes durante a noite devido a dores, necessidade de urinar, apneia do sono ou efeitos colaterais de medicamentos. Eles também tendem a produzir menos melatonina, o hormônio do sono. Isso leva a uma maior sonolência durante o dia e a sonecas, que podem, por sua vez, atrapalhar o sono noturno, criando um ciclo vicioso. A ideia de que 'idosos dormem pouco' é uma consequência dessas mudanças fisiológicas e de saúde, e não uma necessidade reduzida. A qualidade do sono é que se torna o grande desafio.",
+    "palavras_chave": ["idoso", "sono", "melatonina", "sono fragmentado", "necessidade de sono"]
+  },
+  {
+    "pergunta": "Usar boné ou chapéu causa calvície?",
+    "resposta": "Não, usar chapéu não causa calvície de padrão masculino, que é determinada principalmente por genética e hormônios (especificamente a diidrotestosterona - DHT). O que um chapéu muito apertado, usado por tempo prolongado, pode causar é uma condição chamada 'alopecia por tração', que é a perda de cabelo devido a uma tensão constante nos folículos pilosos. Isso é diferente da calvície comum e geralmente é reversível se a tensão for interrompida. Também pode piorar a dermatite seópica ou causar acne na testa se o chapéu for sujo. Mas, usado com moderação e com o tamanho correto, ele é inofensivo para a saúde dos fios.",
+    "palavras_chave": ["boné", "calvície", "alopecia", "tração", "genética"]
+  },
+  {
+    "pergunta": "Comer alimentos com muito sal aumenta a pressão em todas as pessoas?",
+    "resposta": "Este é um mito de generalização. A sensibilidade ao sal varia muito de pessoa para pessoa. Aproximadamente metade das pessoas com hiensão e um quarto das pessoas com pressão normal são 'sensíveis ao sal', o que significa que sua pressão arterial sobe significativamente com uma alta ingestão de sódio. Para a outra metade, o efeito é modesto ou quase nulo. Outros fatores, como a ingestão de potássio (que ajuda a excretar o sódio), o peso corporal e a genética, são igualmente ou mais importantes. No entanto, como é difícil saber quem é sensível, a recomendação de moderar o sal é universal, pois a maioria das pessoas consome muito mais do que a necessidade fisiológica.",
+    "palavras_chave": ["sal", "pressão arterial", "sensibilidade", "sódio", "hiensão"]
+  },
+  {
+    "pergunta": "Pomada para hematomas acelera a cura?",
+    "resposta": "As pomadas para hematomas (como as à base de heparinóide) afirmam acelerar a reabsorção do sangue extravasado. A evidência científica para isso é fraca. Um hematoma é um processo natural em que o corpo quebra e remove as células sanguíneas que vazaram dos vasos. Essas pomadas podem ter um leve efeito anti-inflamatório e melhorar a circulação local, o que *teoricamente* poderia acelerar ligeiramente o processo. No entanto, a diferença é provavelmente mínima. O que realmente ajuda é, nas primeiras 48 horas, aplicar gelo (para reduzir o sangramento) e, depois, compressas quentes (para aumentar a circulação e a reabsorção). A pomada pode trazer uma sensação de alívio, mas não espere um milagre.",
+    "palavras_chave": ["pomada", "hematoma", "heparinóide", "reabsorção", "gelo"]
+  },
+  {
+    "pergunta": "Comer proteína em excesso sobrecarrega os rins?",
+    "resposta": "Para pessoas com rins saudáveis, uma dieta rica em proteínas não é prejudicial. Os rins são órgãos altamente eficientes e se adaptam para lidar com uma maior carga de resíduos nitrogenados provenientes do metabolismo das proteínas. No entanto, para indivíduos que *já têm* doença renal preexistente (como insuficiência renal crônica), uma ingestão muito alta de proteína pode, de fato, acelerar a progressão da doença, sobrecarregando os rins já comprometidos. Portanto, a recomendação é: se você tem rins saudáveis, não se preocupe com a proteína da dieta. Se você tem algum problema renal conhecido, é essencial seguir as orientações de um nutricionista ou nefrologista sobre a ingestão proteica.",
+    "palavras_chave": ["proteína", "rins", "doença renal", "nitrogênio", "saúde"]
+  },
+  {
+    "pergunta": "Shakes de whey protein são essenciais para ganhar músculo?",
+    "resposta": "Não, eles não são essenciais. O whey protein é simplesmente uma forma conveniente, rápida e de alta qualidade de ingerir proteína. Ele é um suplemento, ou seja, deve *complementar* a dieta, não substituir alimentos. É perfeitamente possível atingir as necessidades proteicas para a hipertrofia através de alimentos inteiros como frango, peixe, ovos, carne, queijo e leguminosas. O whey é útil para atletas que têm dificuldade em comer logo após o treino (a famosa 'janela de oportunidade') ou para quem tem uma rotina muito agitada. Mas nenhum shake é magicamente superior a uma refeição sólida e balanceada. O ganho de músculo depende do treino de força e de um superávit calórico com proteína adequada, não da fonte em pó.",
+    "palavras_chave": ["whey protein", "músculo", "suplemento", "proteína", "hipertrofia"]
+  },
+  {
+    "pergunta": "Tomar antibiótico corta o efeito do anticoncepcional?",
+    "resposta": "Esta é uma crença que precisa ser desmistificada. A grande maioria dos antibióticos *não* interfere na eficácia dos anticoncepcionais hormonais orais (a pílula). A exceção é um grupo muito específico de antibióticos chamados 'indutores enzimáticos', como a Rifampicina e a Rifabutina, usados principalmente para tratar tuberculose. Estes, sim, podem acelerar o metabolismo dos hormônios, reduzindo sua concentração no sangue. Antibióticos comuns, como a Amoxicilina, não têm esse efeito. O mito pode ter surgido porque uma infecção grave, com febre, vômito ou diarreia, pode sim comprometer a absorção da pílula. Mas o antibiótico em si, na maioria esmagadora dos casos, é inócuo.",
+    "palavras_chave": ["antibiótico", "anticoncepcional", "pílula", "rifampicina", "metabolismo"]
+  },
+  {
+    "pergunta": "Comer abacate é muito calórico e engorda?",
+    "resposta": "O abacate é, de fato, uma fruta caloricamente densa devido ao seu alto teor de gordura. No entanto, as gorduras do abacate são majoritariamente monoinsaturadas (as mesmas do azeite), que são benéficas para a saúde do coração. Além disso, ele é rico em fibras, que promovem saciedade. Por causa dessa combinação de gordura boa e fibra, incluir uma porção moderada de abacate na dieta pode, na verdade, ajudar no controle de peso, pois você se sente satisfeito por mais tempo e tende a comer menos nas refeições seguintes. O problema, como com qualquer alimento, é o exagero. Meio abacate por dia é uma porção excelente e não vai engordar ninguém dentro de uma dieta equilibrada.",
+    "palavras_chave": ["abacate", "gordura", "calorias", "fibra", "saciedade"]
+  },
+  {
+    "pergunta": "Fazer exercício em jejum queima mais gordura?",
+    "resposta": "Fisiologicamente, sim. Ao se exercitar em estado de jejum, os estoques de glicogênio estão baixos, então o corpo recruta uma porcentagem ligeiramente maior de gordura como fonte de energia. No entanto, o que importa para a perda de gordura é o *balanço energético total de 24 horas*, não de onde a energia vem durante o exercício. Se você queima mais gordura durante o treino, mas depois compensa comendo mais ao longo do dia, o resultado final é nulo. Além disso, treinar em jejum pode comprometer a intensidade e a duração do exercício, fazendo com que você queime menos calorias totais. Para atletas bem adaptados, pode ser uma estratégia válida. Para a maioria das pessoas, o mais importante é encontrar um horário e uma condição em que possam se exercitar com mais energia e consistência.",
+    "palavras_chave": ["jejum", "exercício", "gordura", "glicogênio", "balanço energético"]
+  },
+  {
+    "pergunta": "Tomar suco de laranja natural é tão bom quanto comer a fruta?",
+    "resposta": "Não, há uma grande diferença nutricional. Para fazer um copo de suco, você usa várias laranjas, concentrando o açúcar natural (frutose) e ingerindo uma carga glicêmica alta de uma vez, sem a mesma quantidade de fibras. Ao comer a fruta inteira, as fibras retardam a absorção do açúcar, promovem saciedade e alimentam a microbiota intestinal. O suco, mesmo natural, perde muitas das fibras (que ficam no bagaço) e algumas vitaminas são oxidadas. É muito mais fácil consumir 3 laranjas em 10 segundos na forma de suco do que comê-las. Para efeitos práticos de controle de açúcar no sangue e peso, o suco se assemelha mais a um refrigerante do que a uma fruta. A fruta inteira é sempre a opção superior.",
+    "palavras_chave": ["suco", "laranja", "fibra", "frutose", "carga glicêmica"]
+  },
+  {
+    "pergunta": "Pílulas de colágeno hidrolisado rejuvenescem a pele?",
+    "resposta": "Esta é uma área de pesquisa em evolução, mas as evidências ainda são limitadas e conflitantes. O colágeno hidrolisado é quebrado em pequenos peptídeos que, teoricamente, seriam mais facilmente absorvidos. Alguns estudos patrocinados pela indústria mostram uma melhora modesta na elasticidade e hidratação da pele. A hipótese é que esses peptídeos possam estimular os fibroblastos da pele a produzir mais colágeno próprio. No entanto, revisões independentes consideram as evidências insuficientes ou de baixa qualidade. O corpo quebra o colágeno ingerido em aminoácidos, que são usados onde o corpo precisar, não necessariamente na pele. Uma dieta equilibrada com proteína de qualidade e vitamina C (essencial para a síntese de colágeno) é provavelmente mais eficaz e barata.",
+    "palavras_chave": ["colágeno hidrolisado", "suplemento", "pele", "peptídeos", "aminoácidos"]
+  },
+  {
+    "pergunta": "Comer comida picante causa hemorroidas?",
+    "resposta": "A pimenta em si não causa hemorroidas, que são veias inflamadas e dilatadas no ânus e reto, geralmente resultantes de esforço crônico para evacuar, constipação ou gravidez. No entanto, a capsaicina da pimenta é eliminada intacta pelas fezes e pode irritar a região anal durante a evacuação. Para alguém que *já tem* hemorroidas, isso pode causar uma sensação de queimação intensa e piorar os sintomas. Portanto, a pimenta não é a causa da doença, mas pode ser um fator de irritação e desconforto para quem já sofre com o problema. Pessoas com hemorroidas sintomáticas frequentemente se beneficiam ao evitar alimentos muito picantes.",
+    "palavras_chave": ["pimenta", "hemorroida", "capsaicina", "irritação", "ânus"]
+  },
+  {
+    "pergunta": "Usar o mesmo shampoo por muito tempo 'acostuma' o cabelo?",
+    "resposta": "Não, o cabelo é tecido morto e não tem a capacidade de se 'acostumar' ou criar 'tolerância' a um produto. O que pode acontecer é um efeito de 'build-up', onde resíduos do próprio shampoo, condicionador ou de outros produtos se acumulam ao longo do tempo, deixando o cabelo pesado, sem vida e com menos capacidade de absorver ativos. Alternar entre shampoos com formulações diferentes (por exemplo, um mais nutritivo e outro mais purificante) pode ajudar a remover esses resíduos e dar uma sensação de 'novidade'. Mas se um shampoo funciona bem para você, não há necessidade biológica de trocá-lo periodicamente. A mudança é por uma questão de performance e sensação, não por uma adaptação fisiológica.",
+    "palavras_chave": ["shampoo", "cabelo", "build-up", "resíduo", "produto capilar"]
+  },
+  {
+    "pergunta": "Comer antes de dormir causa pesadelos?",
+    "resposta": "Não há uma ligação científica direta e consistente entre comer antes de dormir e ter pesadelos. No entanto, existem mecanismos indiretos que podem explicar a crença. Uma refeição muito pesada, gordurosa ou picante perto da hora de dormir pode causar indigestão, refluxo ou desconforto geral, que por sua vez pode levar a um sono mais agitado e fragmentado. Durante essa agitação, é mais provável que se lembre de sonhos vívidos ou desagradáveis. Além disso, o metabolismo e a atividade cerebral durante a digestão podem influenciar o conteúdo dos sonhos. Mas o alimento em si não 'causa' o pesadelo. A qualidade e o timing da refeição noturna afetam a qualidade do sono, que pode, sim, influenciar os sonhos.",
+    "palavras_chave": ["comer", "dormir", "pesadelo", "digestão", "sono agitado"]
+  },
+  {
+    "pergunta": "Pomada para estrias realmente as elimina?",
+    "resposta": "Infelizmente, nenhuma pomada ou creme é capaz de eliminar estrias completamente. As estrias verdadeiras (estrias albas, aquelas brancas e antigas) são cicatrizes na derme, a camada mais profunda da skin. Nenhum creme aplicado topicamente consegue penetrar até lá e refazer as fibras de colágeno e elastina que foram rompidas. O que os cremes podem fazer é melhorar a aparência das estrias *recentes* (avermelhadas ou roxas), hidratando a superfície e, em alguns casos, com ativos como o ácido retinóico, estimulando um pouco a produção de colágeno, tornando-as menos visíveis. Para resultados mais significativos, tratamentos dermatológicos como microagulhamento, laser e ácidos são necessários. Os cremes são, na melhor das hipóteses, coadjuvantes.",
+    "palavras_chave": ["pomada", "estria", "cicatriz", "colágeno", "derme"]
+  },
+  {
+    "pergunta": "Tomar café em excesso desidrata o corpo?",
+    "resposta": "Embora a cafeína tenha um leve efeito diurético, o consumo moderado de café não causa desidratação. A quantidade de água presente na xícara de café compensa e supera qualquer perda leve de líquido pelo efeito diurético. Estudos mostram que, para quem tem o hábito de consumir cafeína regularmente, o corpo desenvolve uma tolerância a esse efeito diurético, tornando-o ainda mais insignificante. Portanto, o café pode contar para a sua hidratação diária. Claro, o excesso de cafeína traz outros problemas, como ansiedade e insônia, mas a desidratação não é uma preocupação real para o consumidor habitual.",
+    "palavras_chave": ["café", "cafeína", "diurético", "hidratação", "tolerância"]
+  },
+  {
+    "pergunta": "Comer alimentos orgânicos é sempre mais nutritivo?",
+    "resposta": "Não necessariamente. Os alimentos orgânicos são cultivados sem pesticidas sintéticos e fertilizantes artificiais, o que é melhor para o meio ambiente e potencialmente reduz a ingestão de resíduos de agrotóxicos. No entanto, quando se trata de valor nutricional (vitaminas, minerais e antioxidantes), a diferença para os alimentos convencionais é geralmente pequena e inconsistente. O fator que mais influencia o valor nutricional de uma fruta ou verdura é a sua frescura, o solo onde foi plantada e o tempo entre a colheita e o consumo, não necessariamente o método de cultivo. A escolha por orgânicos é mais uma questão de redução de exposição a pesticidas e de filosofia de consumo do que de um ganho nutricional significativo.",
+    "palavras_chave": ["orgânico", "nutrientes", "pesticidas", "frescura", "valor nutricional"]
+  },
+  {
+    "pergunta": "Vacinas causam autismo?",
+    "resposta": "Não. Essa é uma das crenças mais perigosas e descreditadas da medicina moderna. O mito surgiu de um estudo fraudulento de 1998, publicado por Andrew Wakefield, que foi posteriormente retratado pela revista que o publicou, e o autor perdeu sua licença médica. Inúmeros estudos de larga escala, envolvendo milhões de crianças, falharam em encontrar qualquer ligação entre vacinas (incluindo a tríplice viral, que era a alvo do estudo falso) e o transtorno do espectro autista (TEA). O TEA tem fortes bases genéticas e seu diagnóstico geralmente coincide com a idade em que as vacinas são administradas, criando uma correlação espúria. A vacinação é uma das intervenções de saúde pública mais seguras e eficazes da história.",
+    "palavras_chave": ["vacina", "autismo", "andrew wakefield", "fraude", "transtorno espectro autista"]
+  },
+  {
+    "pergunta": "Usar muito o telefone causa 'chifres' no crânio?",
+    "resposta": "Essa notícia viralizou de forma sensacionalista, mas a realidade é bem menos dramática. Um estudo de imagem identificou que algumas pessoas têm um crescimento ósseo pequeno na base do crânio, chamado de protuberância occipital externa alargada. Esses crescimentos são reais, mas são pequenos e não palpáveis na maioria dos casos. A teoria de que seriam causados pela má postura ao usar o celular (a 'postura de texto') é apenas uma hipótese não comprovada. Essas protuberâncias podem se desenvolver ao longo de anos devido a tensões musculares crônicas, mas associá-las diretamente ao uso do telefone é um salto especulativo. E não, eles não são 'chifres', são apenas ossos.",
+    "palavras_chave": ["telefone", "postura", "crânio", "protuberância occipital", "má postura"]
+  },
+  {
+    "pergunta": "Comer gelo alivia a azia?",
+    "resposta": "Pelo contrário, pode piorar. A azia (doença do refluxo gastroesofágico) é causada pelo retorno do ácido do estômago para o esôfago. Beber ou comer algo muito frio, como gelo, pode causar uma contração temporária do esfíncter esofágico inferior (a 'válvula' que impede o retorno do ácido), potencialmente piorando o refluxo. Além disso, o gelo é água pura e não tem nenhuma propriedade antiácida. Estratégias muito mais eficazes incluem mastigar um pedaço de pão (que absorve o ácido), tomar um copo de leite (que neutraliza temporariamente) ou, para um alívio mais duradouro, usar um antiácido de farmácia. O gelo é, no máximo, uma distração para o desconforto.",
+    "palavras_chave": ["gelo", "azia", "refluxo", "esfíncter", "antiácido"]
+  },
+  {
+    "pergunta": "Pílulas de vitaminas podem substituir uma alimentação ruim?",
+    "resposta": "Absolutamente não. Os suplementos vitamínicos são chamados de 'suplementos' por uma razão: eles devem complementar uma dieta saudável, não substituí-la. Os alimentos integrais oferecem uma sinfonia de nutrientes – vitaminas, minerais, fibras, fitoquímicos e antioxidantes – que trabalham em sinergia de maneiras que uma pílula isolada nunca poderá replicar. Tomar um multivitamínico enquanto se consome uma dieta rica em processados e pobre em frutas, verduras e fibras é como colocar um curativo em um problema estrutural. As vitaminas sintéticas também podem não ser absorvidas tão eficientemente quanto as dos alimentos. Não existe pílula mágica que compense um estilo de vida e uma alimentação inadequados.",
+    "palavras_chave": ["vitaminas", "suplemento", "alimentação", "fitoquímicos", "fibra"]
+  },
+  {
+    "pergunta": "Pessoas com sangue doce são mais picadas por mosquitos?",
+    "resposta": "O tipo de sangue (A, B, O) não está diretamente relacionado ao 'açúcar no sangue'. O que atrai os mosquitos é uma combinação de fatores: o dióxido de carbono que exalamos, o ácido lático e outros compostos presentes no nosso suor, a temperatura corporal e, de fato, pessoas com tipo sanguíneo O tendem a ser mais atraentes para algumas espécies de mosquitos. A quantidade de açúcar no sangue (glicose) de uma pessoa saudável não varia o suficiente para tornar seu sangue mais 'doce' e, portanto, mais atraente. O mito provavelmente surge porque pessoas com diabetes descontrolado podem ter um hálito com odor adocicado (devido à cetoacidose), mas isso é uma condição específica e não a regra geral.",
+    "palavras_chave": ["sangue doce", "mosquito", "tipo sanguíneo", "dióxido de carbono", "ácido lático"]
+  },
+  {
+    "pergunta": "Comer a casca do ovo fortalece os ossos?",
+    "resposta": "A casca do ovo é composta principalmente de carbonato de cálcio, o mesmo mineral que compõe nossos ossos. No entanto, comer a casca do ovo não é uma forma segura ou eficaz de obter cálcio. As cascas podem estar contaminadas com bactérias como a Salmonella. Além disso, para que o corpo consiga absorver o cálcio da casca, ela precisaria ser moída em um pó extremamente fino, algo impraticável de se fazer em casa. Existem fontes de cálcio muito mais seguras, biodisponíveis e saborosas, como laticínios, vegetais verde-escuros (couve, brócolis), sardinha e amêndoas. A ideia é, literalmente, 'dura de roer' e desnecessária.",
+    "palavras_chave": ["casca de ovo", "cálcio", "ossos", "salmonella", "biodisponibilidade"]
+  },
+  {
+    "pergunta": "Cortar os cabelos na lua cheia faz eles crescerem mais fortes?",
+    "resposta": "Assim como o mito da lua crescente, não há nenhuma evidência científica de que as fases da lua influenciem no crescimento, na força ou na saúde dos fios. O crescimento do cabelo é regulado pelos folículos pilosos no couro cabeludo, que são influenciados por hormônios, genética, nutrição e saúde geral, e não pela gravidade lunar. A única maneira de o corte influenciar a 'força' é a remoção das pontas duplas, que evita que as pontas se partam e o cabelo pareça mais quebradiço. Mas isso é um benefício mecânico que ocorre independentemente da fase lunar. A crença é um resquício cultural, não um fato biológico.",
+    "palavras_chave": ["cabelo", "lua cheia", "crescimento", "pontas duplas", "folículo piloso"]
+  },
+  {
+    "pergunta": "Beber uma colher de azeite em jejum cura a prisão de ventre?",
+    "resposta": "Pode ajudar, mas não é uma 'cura'. O azeite de oliva atua como um lubrificante no intestino, facilitando a passagem das fezes. Ele também estimula a contração da vesícula biliar, liberando bile, que tem um efeito laxante natural. Portanto, para um caso leve de constipação, pode trazer alívio. No entanto, não resolve a causa subjacente do problema, que geralmente é uma dieta pobre em fibras, baixa ingestão de água e falta de atividade física. Usar o azeite como uma solução rápida sem mudar os hábitos de vida é como enxugar gelo. A solução duradoura para a prisão de ventre sempre envolverá aumentar o consumo de fibras, frutas, verduras e água.",
+    "palavras_chave": ["azeite", "prisão de ventre", "lubrificante", "bile", "fibras"]
+  },
+  {
+    "pergunta": "Pomada para dor muscular 'tira' a inflamação?",
+    "resposta": "A maioria das pomadas analgésicas de venda livre age por um mecanismo de 'contra-irritação'. Elas contêm substâncias como o mentol ou a cânfora, que criam uma sensação de frio ou calor na pele. Essa sensação forte 'distrai' o cérebro da dor mais profunda no músculo, aliviando temporariamente o sintoma. No entanto, elas não penetram suficientemente nos tecidos para reduzir significativamente a inflamação real (edema, vermelhidão, calor) de uma lesão muscular. Para um efeito anti-inflamatório real, são necessários medicamentos orais ou géis com anti-inflamatórios não esteroidais (como o ibuprofeno em gel), que têm uma penetração maior. As pomadas comuns são boas para o alívio sintomático superficial, mas não 'curam' a inflamação.",
+    "palavras_chave": ["pomada", "dor muscular", "contra-irritação", "mentol", "anti-inflamatório"]
+  },
+  {
+    "pergunta": "Comer inhame ou batata-doce aumenta a fertilidade?",
+    "resposta": "Esse mito ganhou força na internet, mas as evidências são anedóticas. A teoria é que esses tubérculos, ricos em betacaroteno (precursor da vitamina A) e outros nutrientes, poderiam melhorar a qualidade da ovulação. Embora uma dieta nutritiva seja fundamental para a saúde reprodutiva geral, não há estudos que comprovem que comer inhame ou batata-doce isoladamente cause um aumento mensurável na fertilidade. Eles são alimentos saudáveis e devem fazer parte de uma dieta balanceada, mas não são uma poção mágica para engravidar. A fertilidade é um processo complexo influenciado por uma miríade de fatores hormonais, anatômicos e de estilo de vida.",
+    "palavras_chave": ["inhame", "batata-doce", "fertilidade", "ovulação", "betacaroteno"]
+  },
+  {
+    "pergunta": "Fazer gargarejo com vinagre ou limão cura dor de garganta?",
+    "resposta": "Pelo contrário, pode piorar. A dor de garganta, muitas vezes, é acompanhada de inflamação e, às vezes, de pequenas feridas ou úlceras. O vinagre e o limão são extremamente ácidos. Fazer gargarejo com essas substâncias pode irritar ainda mais a mucosa já sensível, causando mais dor e atrasando a cicatrização. O que pode trazer alívio real são gargarejos com água morna e sal, que têm um leve efeito anti-séptico e ajudam a reduzir o inchaço (edema) da garganta, sem causar irritação química. Para uma infecção bacteriana, apenas antibióticos prescritos por um médico serão eficazes. Ácido em tecido inflamado é sempre uma má ideia.",
+    "palavras_chave": ["gargarejo", "vinagre", "limão", "dor de garganta", "irritação"]
+  },
+  {
+    "pergunta": "Usar espartilho ou cinta modeladora emagrece?",
+    "resposta": "Não, a cinta não queima gordura. Ela apenas comprime temporariamente a área, redistribuindo a gordura e os órgãos para dar uma silhueta mais lisa sob a roupa. Assim que a cinta é removida, tudo volta ao seu lugar. O uso prolongado e muito apertado pode, na verdade, ser prejudicial, causando problemas digestivos, dificuldade para respirar adequadamente e até enfraquecimento dos músculos abdominais, pois eles passam a depender da compressão externa para manter a postura. É uma solução estética ilusória e potencialmente perigosa. A única maneira de 'afinar' a cintura de forma permanente é através da perda de gordura corporal total e do fortalecimento do core.",
+    "palavras_chave": ["cinta", "espartilho", "emagrecer", "compressão", "músculos abdominais"]
+  },
+  {
+    "pergunta": "Comer alimentos ácidos 'acidifica' o sangue?",
+    "resposta": "Não, o pH do nosso sangue é rigidamente controlado pelos rins e pulmões dentro de uma faixa ligeiramente alcalina muito estreita (entre 7,35 e 7,45). É praticamente impossível alterar o pH sanguíneo através da dieta. O que pode acontecer é que a digestão de certos alimentos produza resíduos ácidos ou alcalinos que serão excretados na urina, alterando seu pH. É daí que surgiu a moda das 'dietas alcalinas'. No entanto, a urina ácida não significa que o sangue está ácido; significa apenas que os rins estão fazendo seu trabalho perfeitamente, excretando o excesso de ácido para manter o sangue em seu pH ideal. O corpo é um mestre na regulação do seu próprio equilíbrio.",
+    "palavras_chave": ["ph", "sangue", "ácido", "dieta alcalina", "rins"]
+  },
+  {
+    "pergunta": "Tomar banho com chá de camomila acalma a pele irritada?",
+    "resposta": "A camomila tem propriedades anti-inflamatórias e calmantes comprovadas quando aplicada topicamente. Portanto, este é um dos raros remédios caseiros com algum fundamento. Adicionar um chá de camomila concentrado e coado na água do banho pode, de fato, ajudar a acalmar irritações leves da pele, como as causadas por alergias, erupções cutâneas ou até mesmo a dermatite atópica. O efeito, no entanto, é suave e temporário. Para condições de pele mais sérias, não substitui o tratamento médico. Mas, diferentemente de muitos mitos, este tem um princípio ativo (o bisabolol) que justifica a prática, desde que a pessoa não seja alérgica à própria camomila.",
+    "palavras_chave": ["camomila", "banho", "pele irritada", "anti-inflamatório", "bisabolol"]
+  },
+  {
+    "pergunta": "Pessoas com osteoporose não devem fazer exercícios?",
+    "resposta": "É exatamente o oposto! O exercício físico é uma parte crucial do tratamento e do manejo da osteoporose. Os ossos respondem ao estresse mecânico ficando mais fortes. Exercícios com carga, como caminhada, dança e subir escadas, e exercícios de resistência (musculação) são especialmente benéficos para estimular a formação óssea. Claro, a atividade deve ser adaptada e supervisionada, evitando exercícios de alto impacto ou que envolvam risco de queda para fraturas. O mito de que pessoas com ossos frágeis devem ficar paradas é prejudicial, pois o sedentarismo acelera ainda mais a perda de massa óssea. Movimento seguro é remédio.",
+    "palavras_chave": ["osteoporose", "exercício", "osso", "carga", "musculação"]
+  },
+  {
+    "pergunta": "Comer melancia com semente faz mal e causa apendicite?",
+    "resposta": "Não. As sementes da melancia são inofensivas e, na verdade, comestíveis e nutritivas (ricas em fibras, magnésio e zinco). Elas passam intactas pelo sistema digestivo e são eliminadas nas fezes. A apendicite é causada pela obstrução do apêndice, geralmente por um pequeno pedaço de fezes endurecidas (chamado de fecalito) ou, mais raramente, por um parasita ou cálculo. A ideia de que sementes de frutas causam apendicite é um mito antigo e persistente, mas sem base em evidências. O apêndice tem uma abertura muito pequena, e é extremamente improvável que uma semente lisa e pequena consiga obstruí-lo.",
+    "palavras_chave": ["melancia", "semente", "apendicite", "apêndice", "fecalito"]
+  },
+  {
+    "pergunta": "Passar pasta de dente queima a pele e trata acnes?",
+    "resposta": "Esta é uma prática caseira perigosa. A pasta de dente contém ingredientes como flúor, lauril sulfato de sódio e triclosan, formulados para esmalte dental e não para a pele sensível do rosto. Aplicá-la sobre uma espinha pode causar uma reação de irritação e queimadura química conhecida como dermatite de contato, deixando a área vermelha, ressecada e descamando. Embora essa irritação possa, por acaso, secar um pouco a espinha, o dano à barreira cutânea é grande e pode piorar a inflamação e até levar a manchas e cicatrizes. Existem produtos específicos para acne, com ácido salicílico ou peróxido de benzoíla, que são muito mais seguros e eficazes.",
+    "palavras_chave": ["pasta de dente", "acne", "irritação", "dermatite", "barreira cutânea"]
+  },
+  {
+    "pergunta": "Beber chá de salsinha causa aborto?",
+    "resposta": "A salsinha (Petroselinum crispum) contém um óleo essencial chamado apiol, que, em doses *muito altas* (bem acima do que um chá caseiro conteria), pode estimular as contrações uterinas. Por causa dessa propriedade potencial, ela entrou no folclore como um 'abortivo'. No entanto, beber um chá de salsinha ocasionalmente, feito com as folhas frescas ou secas que se compra no supermercado, não contém apiol suficiente para representar um risco para a gravidez. O perigo real está no uso de *óleos essenciais* de salsinha, que são extremamente concentrados e nunca devem ser ingeridos, especialmente por gestantes. O mito é um exagero de uma propriedade fraca, mas levou a um tabu alimentar desnecessário em torno da salsinha comum.",
+    "palavras_chave": ["salsinha", "aborto", "apiol", "útero", "óleo essencial"]
+  },
+  {
+    "pergunta": "Tomar suco de beterraba 'aumenta o sangue' para tratar anemia?",
+    "resposta": "A beterraba é um alimento saudável, mas sua cor vermelha intensa engana. Ela não é uma fonte significativa de ferro. O ferro da beterraba é do tipo não-heme (de origem vegetal), que é menos absorvido pelo corpo do que o ferro heme (de origem animal). Além disso, ela não é particularmente rica nele. Comparando, 100g de beterraba crua tem cerca de 0,8mg de ferro, enquanto 100g de fígado de boi tem cerca de 5,8mg. A crença provavelmente surge da 'Doutrina das Assinaturas', uma teoria antiga que sugeria que os alimentos que se assemelham a uma parte do corpo seriam bons para ela. Para tratar a anemia, é melhor investir em carnes vermelhas, fígado, feijão e folhas verde-escuras, sempre combinados com uma fonte de vitamina C (como limão) para melhorar a absorção.",
+    "palavras_chave": ["beterraba", "anemia", "ferro", "ferro não-heme", "doutrina das assinaturas"]
+  },
+  {
+    "pergunta": "Cremes para 'firmar o seio' realmente funcionam?",
+    "resposta": "A flacidez dos seios (ptose mamária) é causada principalmente por fatores genéticos, flutuações de peso, gravidez e a perda natural de colágeno e elastina com a idade. Nenhum creme tópico tem o poder de reverter significativamente esse processo. Esses cremes podem, no máximo, hidratar a pele, dando uma aparência temporariamente mais suave e firme, mas não conseguem levantar estruturalmente o tecido mamário. Eles não fortalecem o ligamento de Cooper, que é a principal estrutura de sustentação do seio. A única maneira de levantar os seios de forma real é através da cirurgia plástica (mastopexia). Os cremes são, mais uma vez, uma resposta de marketing a uma insegurança muito comum.",
+    "palavras_chave": ["creme", "seio", "flacidez", "ptose mamária", "ligamento de cooper"]
+  },
+  {
+    "pergunta": "Comer alimentos com glutamato monossódico (ajinomoto) dá dor de cabeça?",
+    "resposta": "Este é o famoso 'Síndrome do Restaurante Chinês'. O glutamato monossódico (MSG) é um realçador de sabor amplamente utilizado. Estudos científicos controlados com placebo falharam consistentemente em demonstrar uma ligação causal entre o MSG e dores de cabeça ou outras reações em pessoas em geral. Quando administrado em cápsulas, sem que os participantes soubessem o que estavam tomando, não houve diferença nos sintomas entre quem tomou MSG e quem tomou placebo. É possível que uma minúscula fração da população tenha uma sensibilidade genuína, mas para a grande maioria, é um mito. A dor de cabeça após comer comida chinesa pode ser causada pelo alto teor de sódio, pelo álcool consumido junto ou simplesmente por se tratar de uma refeição grande e pesada.",
+    "palavras_chave": ["glutamato monossódico", "ajinomoto", "dor de cabeça", "placebo", "sódio"]
+  },
+  {
+    "pergunta": "Fazer exercício abdominal 'afina' a cintura?",
+    "resposta": "Como falamos antes sobre gordura localizada, fazer abdominais fortalece o músculo reto abdominal, mas não queima a gordura que está por cima dele. Pior ainda: o desenvolvimento excessivo dos músculos oblíquos (os das laterais) pode, na verdade, dar um aspecto *mais largo* à cintura, um efeito indesejado para muitas pessoas. Para 'afinar' a cintura, o foco deve ser na perda de gordura corporal total (através de déficit calórico e exercícios cardiovasculares) e no fortalecimento do transverso do abdômen, um músculo profundo que age como um 'corset' natural, puxando a barriga para dentro. Exercícios como a prancha são melhores para isso do que os abdominais tradicionais.",
+    "palavras_chave": ["abdominal", "cintura", "oblíquos", "transverso do abdômen", "prancha"]
+  },
+  {
+    "pergunta": "Tomar suco de limão com bicarbonato de sódio em jejum 'alcaliniza' e cura doenças?",
+    "resposta": "Esta é uma das receitas mais populares da moda 'detox' e 'alcalina'. Quando você mistura limão (ácido) com bicarbonato (alcalino), ocorre uma reação química que produz gás carbônico e citrato de sódio. O citrato de sódio é, de fato, alcalinizante e é usado medicinalmente para tratar condições como pedras nos rins. No entanto, beber essa mistura não vai 'alcalinizar' seu corpo como um todo, pois o pH sanguíneo é rigidamente controlado. Pode, no máximo, alterar o pH da urina. Quanto a 'curar doenças', não há evidência para tal afirmação. A mistura é essencialmente sal e água gaseificada caseira. Não é prejudicial para a maioria, mas também não é a panaceia que muitos pregam.",
+    "palavras_chave": ["limão", "bicarbonato", "alcalinizar", "citrato de sódio", "ph urina"]
+  },
+  {
+    "pergunta": "Comer carboidratos à noite engorda mais do que proteínas?",
+    "resposta": "Vamos reforçar este conceito crucial, pois é um dos mitos mais resistentes. Uma caloria é uma caloria, independentemente da hora ou do macronutriente. Se você mantiver o mesmo déficit calórico, o ganho de peso será o mesmo. A proteína tem um efeito térmico maior (gasta mais calorias na digestão) e promove mais saciedade, o que pode ajudar indiretamente no controle da fome. Mas, em termos de armazenamento de gordura, o corpo não tem um interruptor que diga 'são 20h, agora tudo vira gordura'. O que importa é o total de calorias ingeridas versus as calorias gastas em 24 horas. Um corpo em déficit calórico usará a energia dos carboidratos para funções vitais durante a noite, não a armazenará automaticamente.",
+    "palavras_chave": ["carboidrato", "proteína", "noite", "caloria", "balanço energético"]
+  },
+  {
+    "pergunta": "Pomada de arnica 'cura' tudo, de hematoma a dor muscular?",
+    "resposta": "A arnica é uma planta com propriedades anti-inflamatórias comprovadas quando seus extratos são aplicados topicamente. Ela é eficaz para reduzir o inchaço e a coloração de *hematomas* (contusões), pois ajuda na reabsorção do sangue extravasado. No entanto, sua eficácia para *dores musculares* profundas (como as causadas por exercício) é muito mais limitada, pois sua penetração na pele é baixa. Ela não 'cura' a lesão muscular, apenas pode oferecer um alívio leve e superficial. A fama de 'cura-tudo' é exagerada. Ela é uma boa opção para contusões e inchaços, mas para dores musculares significativas, outras terapias (como gelo, calor ou anti-inflamatórios mais potentes) são mais indicadas.",
+    "palavras_chave": ["arnica", "hematoma", "dor muscular", "anti-inflamatório", "contusão"]
+  },
+  {
+    "pergunta": "Comer alimentos crus é sempre mais saudável que cozidos?",
+    "resposta": "Não é uma regra absoluta. O cozimento, de fato, destrói algumas vitaminas termossensíveis, como a vitamina C e algumas do complexo B. No entanto, ele também *aumenta* a biodisponibilidade de outros nutrientes. Por exemplo, o licopeno do tomate (um potente antioxidante) é muito mais absorvível quando o tomate é cozido. O betacaroteno da cenoura também se torna mais disponível após o cozimento. O cozimento também quebra as fibras duras e os antinutrientes de alguns vegetais, como o espinafre e o brócolis, tornando seus minerais (como ferro e cálcio) mais acessíveis ao nosso corpo. Uma dieta ideal deve incluir uma mistura de alimentos crus e cozidos para maximizar a ingestão de todos os nutrientes.",
+    "palavras_chave": ["alimento cru", "cozimento", "biodisponibilidade", "licopeno", "antinutrientes"]
+  },
+  {
+    "pergunta": "Usar o mesmo anticoncepcional por muitos anos 'faz mal' e precisa ser trocado?",
+    "resposta": "Não há uma base científica para a crença de que se deve 'dar um tempo' ou trocar de pílula anticoncepcional periodicamente. Se uma mulher está se dando bem com um determinado anticoncepcional, sem efeitos colaterais significativos, e ele ainda atende às suas necessidades, não há razão para mudar. A troca é indicada apenas se surgirem efeitos colaterais indesejados, se houver mudança no perfil de saúde da mulher (como o desenvolvimento de enxaqueca com aura ou hiensão) ou se suas necessidades contraceptivas mudarem (por exemplo, querer uma pílula com menos hormônios). Trocar sem necessidade pode, na verdade, causar um desequilíbrio hormonal temporário e o retorno de efeitos colaterais que já haviam sido superados.",
+    "palavras_chave": ["anticoncepcional", "troca", "hormônios", "efeitos colaterais", "pílula"]
+  },
+  {
+    "pergunta": "Passar álcool na pele baixa a febre?",
+    "resposta": "Esta é uma prática caseira *perigosíssima*, especialmente em crianças. Passar álcool na pele causa um resfriamento rápido por evaporação, o que pode dar a falsa impressão de que a febre baixou. No entanto, esse resfriamento abrupto pode causar um choque térmico no corpo, levando a tremores, calafrios e até a uma convulsão febril. Além disso, o álcool pode ser absorvido pela pele (especialmente a das crianças, que é mais fina) e inalado, podendo causar intoxicação e hipoglicemia. A maneira segura de baixar a febre é usar medicamentos antitérmicos (como paracetamol ou ibuprofeno) prescritos pelo médico, compressas de água morna (nunca fria ou gelada) no tronco e membros, e manter a pessoa hidratada.",
+    "palavras_chave": ["álcool", "febre", "convulsão", "intoxicação", "antitérmico"]
+  }
+]

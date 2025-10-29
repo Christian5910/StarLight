@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "Quem inventou a lâmpada elétrica?",
+    "resposta": "Embora Thomas Edison seja frequentemente creditado pela invenção da lâmpada, a história é mais complicada. Humphry Davy demonstrou o princípio da lâmpada incandescente em 1802, mas Edison desenvolveu a primeira versão comercialmente viável em 1879. Sua lâmpada usava um filamento de carbono que brilhava por horas. A invenção transformou a vida cotidiana, permitindo que as pessoas trabalhassem e socializassem à noite. Porém, o impacto ambiental das lâmpadas antigas, com baixa eficiência energética, é algo que criticamos hoje. Sabia que Edison testou mais de 6.000 materiais para encontrar o filamento ideal?",
+    "palavras_chave": ["lâmpada", "edison", "incandescência", "eletricidade", "invenção"]
+  },
+  {
+    "pergunta": "Como o telefone mudou a comunicação?",
+    "resposta": "O telefone, patenteado por Alexander Graham Bell em 1876, revolucionou a forma como nos conectamos. Antes, mensagens demoravam dias por cartas ou telégrafos. Com o telefone, conversas em tempo real se tornaram possíveis, encurtando distâncias. Ele pavimentou o caminho para redes globais, mas também trouxe desafios, como a privacidade nas chamadas. Hoje, usamos smartphones, mas tudo começou com aquele aparelho simples. Sabia que a primeira frase transmitida por telefone foi 'Sr. Watson, venha aqui, quero vê-lo'?",
+    "palavras_chave": ["telefone", "bell", "comunicação", "tecnologia", "smartphone"]
+  },
+  {
+    "pergunta": "O que inspirou a criação da internet?",
+    "resposta": "A internet nasceu de um projeto militar dos EUA nos anos 1960, chamado ARPANET, que buscava criar uma rede de computadores resistente a falhas. A ideia era compartilhar dados entre universidades e centros de pesquisa. Com o tempo, isso evoluiu para a World Wide Web, criada por Tim Berners-Lee em 1989. A internet democratizou o acesso à informação, mas também trouxe questões como desinformação e privacidade. Sabia que o primeiro 'site' da web ainda está online?",
+    "palavras_chave": ["internet", "arpanet", "web", "berners-lee", "informação"]
+  },
+  {
+    "pergunta": "Por que o motor a vapor foi tão importante?",
+    "resposta": "O motor a vapor, aperfeiçoado por James Watt no final do século XVIII, foi o coração da Revolução Industrial. Ele movia máquinas, trens e navios, transformando a produção e o transporte. Antes, dependíamos de força humana ou animal. A inovação acelerou a urbanização, mas também trouxe poluição e desigualdades sociais. Sabia que os primeiros trens a vapor atingiam apenas 48 km/h, mas já eram considerados incrivelmente rápidos?",
+    "palavras_chave": ["motor", "vapor", "revolução industrial", "watt", "transporte"]
+  },
+  {
+    "pergunta": "Como funciona um painel solar?",
+    "resposta": "Painéis solares convertem luz solar em eletricidade usando células fotovoltaicas, geralmente feitas de silício. Quando a luz atinge essas células, ela excita elétrons, gerando corrente elétrica. É uma tecnologia limpa, mas depende de luz solar e tem custos iniciais altos. Ainda assim, é uma solução crucial contra mudanças climáticas. Sabia que o primeiro painel solar, criado em 1954 pela Bell Labs, tinha eficiência de apenas 6%?",
+    "palavras_chave": ["solar", "fotovoltaica", "energia", "silício", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é o código Morse?",
+    "resposta": "O código Morse, desenvolvido por Samuel Morse nos anos 1830, é um sistema de comunicação que usa pontos e traços para representar letras e números. Foi essencial para o telégrafo, permitindo mensagens rápidas a longas distâncias. Apesar de obsoleto hoje, é um marco na história da comunicação. Sabia que o famoso sinal 'SOS' (…---…) foi escolhido por ser simples de transmitir e reconhecer?",
+    "palavras_chave": ["morse", "telégrafo", "comunicação", "código", "sos"]
+  },
+  {
+    "pergunta": "Quem criou o primeiro computador programável?",
+    "resposta": "O primeiro computador programável foi o Z1, criado por Konrad Zuse na Alemanha, em 1938. Ele usava fitas perfuradas e relês mecânicos, sendo bem primitivo. Esse passo abriu portas para os computadores modernos, mas sua lentidão e tamanho mostram o quanto evoluímos. Sabia que o Z1 ocupava uma sala inteira e levava minutos para cálculos simples?",
+    "palavras_chave": ["computador", "zuse", "programação", "z1", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o GPS mudou nossas vidas?",
+    "resposta": "O GPS, desenvolvido pelo Departamento de Defesa dos EUA nos anos 1970, usa satélites para determinar localizações com precisão. Ele transformou navegação, logística e até aplicativos como Uber. Porém, nossa dependência dele levanta questões sobre privacidade e segurança. Sabia que o GPS foi liberado para uso civil apenas em 1983, após um acidente aéreo mostrar sua importância?",
+    "palavras_chave": ["gps", "navegação", "satélite", "localização", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a inteligência artificial?",
+    "resposta": "Inteligência artificial é quando computadores simulam habilidades humanas, como aprendizado ou tomada de decisão. Desde os anos 1950, com Alan Turing, ela evoluiu para assistentes virtuais e carros autônomos. É poderosa, mas há preocupações éticas, como viés em algoritmos. Sabia que o termo 'inteligência artificial' foi cunhado em uma conferência em 1956?",
+    "palavras_chave": ["inteligência artificial", "algoritmo", "turing", "ética", "tecnologia"]
+  },
+  {
+    "pergunta": "Por que a penicilina foi revolucionária?",
+    "resposta": "Descoberta por Alexander Fleming em 1928, a penicilina foi o primeiro antibiótico, salvando milhões de vidas ao tratar infecções bacterianas. Antes, uma simples ferida podia ser fatal. Sua produção em massa na Segunda Guerra foi um marco, mas o uso excessivo hoje gera resistência bacteriana. Sabia que a penicilina foi descoberta por acaso, quando Fleming notou mofo matando bactérias?",
+    "palavras_chave": ["penicilina", "antibiótico", "fleming", "medicina", "infecção"]
+  },
+  {
+    "pergunta": "Como a roda mudou a história?",
+    "resposta": "A roda, inventada por volta de 3500 a.C. na Mesopotâmia, transformou transporte e maquinaria. Carruagens, moinhos e engrenagens surgiram, facilitando comércio e agricultura. Sua simplicidade é genial, mas demorou séculos para ser usada em larga escala. Sabia que as primeiras rodas eram feitas de madeira maciça e não tinham eixos giratórios?",
+    "palavras_chave": ["roda", "transporte", "mesopotâmia", "invenção", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a impressão 3D?",
+    "resposta": "A impressão 3D cria objetos camada por camada a partir de modelos digitais, usando materiais como plástico ou metal. Surgiu nos anos 1980 e hoje é usada em medicina, aviação e até culinária. É revolucionária, mas há preocupações com armas impressas. Sabia que já imprimiram casas inteiras com impressoras 3D gigantes?",
+    "palavras_chave": ["impressão 3d", "tecnologia", "fabricação", "modelo digital", "inovação"]
+  },
+  {
+    "pergunta": "Como o rádio transformou a comunicação?",
+    "resposta": "O rádio, desenvolvido por Guglielmo Marconi no final do século XIX, permitiu transmitir som sem fios, conectando o mundo. Foi crucial em guerras, resgates e entretenimento. Hoje, parece simples, mas sua acessibilidade mudou culturas. Sabia que a primeira transmissão de rádio de Marconi, em 1895, enviou um sinal a apenas 1,6 km?",
+    "palavras_chave": ["rádio", "marconi", "comunicação", "transmissão", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é blockchain e para que serve?",
+    "resposta": "Blockchain é uma tecnologia de registro digital descentralizado, usada inicialmente no Bitcoin, em 2008. Cada 'bloco' armazena dados protegidos por criptografia, garantindo segurança e transparência. É usada em finanças, logística e até votação, mas consome muita energia. Sabia que o criador do Bitcoin, Satoshi Nakamoto, é um pseudônimo e ninguém sabe quem ele é?",
+    "palavras_chave": ["blockchain", "bitcoin", "criptografia", "descentralização", "tecnologia"]
+  },
+  {
+    "pergunta": "Por que o avião mudou o mundo?",
+    "resposta": "Os irmãos Wright voaram o primeiro avião em 1903, mudando o transporte para sempre. Viagens que levavam semanas agora duram horas, conectando culturas e economias. Mas o impacto ambiental da aviação é uma crítica atual. Sabia que o primeiro voo dos Wright durou apenas 12 segundos e percorreu 36 metros?",
+    "palavras_chave": ["avião", "wright", "transporte", "voo", "tecnologia"]
+  },
+  {
+    "pergunta": "Como funciona a realidade virtual?",
+    "resposta": "Realidade virtual (VR) usa óculos e sensores para criar ambientes digitais imersivos. Surgiu nos anos 1990, mas ficou popular com jogos e treinamentos. É incrível para simulações, mas pode causar náuseas e isolar usuários. Sabia que a NASA usou VR nos anos 1980 para treinar astronautas?",
+    "palavras_chave": ["realidade virtual", "impressão", "simulação", "tecnologia", "jogos"]
+  },
+  {
+    "pergunta": "O que é um transistor e por que importa?",
+    "resposta": "O transistor, inventado em 1947 pela Bell Labs, é um componente eletrônico que controla o fluxo de eletricidade. Ele tornou os computadores menores, mais rápidos e baratos, sendo a base da eletrônica moderna. Sem ele, não teríamos smartphones. Sabia que um chip moderno pode conter bilhões de transistores?",
+    "palavras_chave": ["transistor", "eletrônica", "computador", "chip", "tecnologia"]
+  },
+  {
+    "pergunta": "Como a fotografia mudou a sociedade?",
+    "resposta": "A fotografia, inventada por Joseph Niépce em 1826, permitiu capturar momentos com precisão. Revolucionou o jornalismo, a arte e até a ciência, mas também levantou questões sobre manipulação de imagens. Sabia que a primeira fotografia levou 8 horas para ser capturada e mostrava uma rua quase vazia?",
+    "palavras_chave": ["fotografia", "niépce", "imagem", "jornalismo", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a energia nuclear?",
+    "resposta": "Energia nuclear vem da fissão de átomos, como o urânio, liberando calor para gerar eletricidade. É eficiente e limpa em emissões de carbono, mas acidentes como Chernobyl mostram seus riscos. Foi usada pela primeira vez na década de 1950. Sabia que uma única tonelada de urânio pode gerar energia equivalente a milhões de toneladas de carvão?",
+    "palavras_chave": ["nuclear", "fissão", "energia", "urânio", "risco"]
+  },
+  {
+    "pergunta": "Por que o relógio mecânico foi tão importante?",
+    "resposta": "O relógio mecânico, desenvolvido na Europa medieval, trouxe precisão ao medir o tempo. Antes, usávamos relógios de sol ou água, que eram imprecisos. Ele organizou a vida urbana e a navegação, mas também intensificou a pressão por produtividade. Sabia que os primeiros relógios não tinham minutos, só horas?",
+    "palavras_chave": ["relógio", "mecânico", "tempo", "navegação", "produtividade"]
+  },
+  {
+    "pergunta": "Como a máquina de escrever impactou a escrita?",
+    "resposta": "A máquina de escrever, patenteada por Christopher Sholes em 1868, acelerou a produção de textos. Antes, tudo era escrito à mão, o que era lento. Ela profissionalizou a escrita e abriu portas para mulheres em escritórios. Sabia que o teclado QWERTY foi criado para evitar que as teclas travassem?",
+    "palavras_chave": ["máquina de escrever", "qwerty", "escrita", "sholes", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é o laser e para que serve?",
+    "resposta": "O laser, inventado em 1960 por Theodore Maiman, é uma luz concentrada e coerente. É usado em cirurgias, comunicações, leitores de DVD e até armas. Sua precisão é incrível, mas o alto custo limita algumas aplicações. Sabia que o termo 'laser' é um acrônimo para 'Light Amplification by Stimulated Emission of Radiation'?",
+    "palavras_chave": ["laser", "luz", "tecnologia", "maiman", "aplicação"]
+  },
+  {
+    "pergunta": "Como o ar-condicionado mudou a arquitetura?",
+    "resposta": "Inventado por Willis Carrier em 1902, o ar-condicionado permitiu controlar a temperatura interna, transformando a arquitetura. Prédios altos e shoppings se tornaram viáveis em climas quentes. Mas seu uso intensivo aumenta o consumo energético. Sabia que o primeiro ar-condicionado foi criado para controlar a umidade em uma gráfica?",
+    "palavras_chave": ["ar-condicionado", "carrier", "arquitetura", "energia", "clima"]
+  },
+  {
+    "pergunta": "O que é a biotecnologia?",
+    "resposta": "Biotecnologia usa organismos vivos ou seus componentes para criar produtos, como vacinas ou alimentos geneticamente modificados. Surgiu com a engenharia genética nos anos 1970 e hoje é essencial na medicina. Mas há debates éticos sobre manipulação genética. Sabia que a insulina para diabéticos é produzida por bactérias modificadas?",
+    "palavras_chave": ["biotecnologia", "genética", "medicina", "vacinas", "ética"]
+  },
+  {
+    "pergunta": "Como o micro-ondas facilitou a vida?",
+    "resposta": "Inventado por Percy Spencer em 1945, o forno de micro-ondas aquece alimentos usando ondas eletromagnéticas. Ele tornou o preparo de comida mais rápido, mudando hábitos domésticos. Porém, depende de embalagens específicas para segurança. Sabia que o micro-ondas foi descoberto por acaso quando Spencer notou uma barra de chocolate derretendo perto de um radar?",
+    "palavras_chave": ["micro-ondas", "spencer", "alimentos", "tecnologia", "cozinha"]
+  },
+  {
+    "pergunta": "Como a televisão mudou o entretenimento?",
+    "resposta": "A televisão, desenvolvida por Philo Farnsworth nos anos 1920, trouxe imagens em movimento para as casas, transformando o entretenimento. Antes, as pessoas dependiam de rádio ou cinema. A TV criou uma cultura de massa, mas também é criticada por promover consumismo. Séries como 'I Love Lucy' marcaram época. Sabia que a primeira transmissão de TV mostrava apenas uma linha simples em 1927?",
+    "palavras_chave": ["televisão", "farnsworth", "entretenimento", "cultura", "transmissão"]
+  },
+  {
+    "pergunta": "O que é a fibra óptica?",
+    "resposta": "Fibra óptica é uma tecnologia que transmite dados por pulsos de luz em fios de vidro ou plástico. Inventada nos anos 1970, ela revolucionou a internet e as telecomunicações por sua velocidade e alcance. Porém, sua instalação é cara, especialmente em áreas rurais. Sabia que um único cabo de fibra pode transmitir dados a 100 Gbps?",
+    "palavras_chave": ["fibra óptica", "telecomunicações", "internet", "luz", "tecnologia"]
+  },
+  {
+    "pergunta": "Por que a bússola foi tão importante?",
+    "resposta": "A bússola, usada na China por volta do século II, revolucionou a navegação ao indicar o norte magnético. Antes, marinheiros dependiam das estrelas, o que era arriscado em tempo nublado. Ela impulsionou a Era dos Descobrimentos, mas hoje o GPS a superou. Sabia que as primeiras bússolas usavam pedra imantada flutuando em água?",
+    "palavras_chave": ["bússola", "navegação", "magnetismo", "descobrimentos", "tecnologia"]
+  },
+  {
+    "pergunta": "Como funciona um drone?",
+    "resposta": "Drones são veículos aéreos não tripulados controlados remotamente ou por software. Usam hélices e sensores para voar, sendo aplicados em entregas, filmagens e até agricultura. Surgiram para uso militar, mas popularizaram-se. O desafio é regular seu uso para evitar invasão de privacidade. Sabia que o primeiro drone militar foi testado na Primeira Guerra Mundial?",
+    "palavras_chave": ["drone", "aéreo", "tecnologia", "sensores", "privacidade"]
+  },
+  {
+    "pergunta": "O que é o microchip e sua importância?",
+    "resposta": "O microchip, inventado em 1958 por Jack Kilby, é um circuito integrado que compacta milhares de componentes eletrônicos. Ele tornou computadores e dispositivos menores e mais poderosos. Sem microchips, não teríamos smartphones ou IoT. Mas sua produção gera resíduos tóxicos. Sabia que o primeiro microchip era do tamanho de uma unha?",
+    "palavras_chave": ["microchip", "circuito", "eletrônica", "kilby", "tecnologia"]
+  },
+  {
+    "pergunta": "Como a máquina a vapor impulsionou os trens?",
+    "resposta": "A máquina a vapor, adaptada por George Stephenson nos anos 1820, tornou os trens possíveis. Antes, transporte dependia de cavalos ou barcos. Trens conectaram cidades, aceleraram o comércio, mas também causaram impactos ambientais. Sabia que o primeiro trem, a Locomotion No. 1, transportou 450 passageiros em sua viagem inaugural?",
+    "palavras_chave": ["trem", "vapor", "stephenson", "transporte", "revolução"]
+  },
+  {
+    "pergunta": "O que é realidade aumentada?",
+    "resposta": "Realidade aumentada (AR) sobrepõe elementos digitais ao mundo real, usando dispositivos como smartphones ou óculos. Popularizada por jogos como Pokémon Go, também é usada em medicina e educação. É envolvente, mas pode distrair usuários em situações críticas. Sabia que a AR foi usada pela primeira vez em visores de caças nos anos 1990?",
+    "palavras_chave": ["realidade aumentada", "tecnologia", "jogos", "aplicação", "dispositivos"]
+  },
+  {
+    "pergunta": "Como o tear mecânico mudou a indústria?",
+    "resposta": "O tear mecânico, inventado por Edmund Cartwright em 1785, automatizou a produção de tecidos. Antes, a tecelagem era manual e lenta. Ele impulsionou a indústria têxtil, mas desempregou muitos artesãos, gerando protestos. Sabia que os luditas destruíam teares mecânicos em protesto contra a automação?",
+    "palavras_chave": ["tear", "cartwright", "têxtil", "automação", "luditas"]
+  },
+  {
+    "pergunta": "O que é um QR code?",
+    "resposta": "O QR code, criado pela Denso Wave em 1994 no Japão, é um código de barras bidimensional lido por câmeras. Armazena dados como links ou contatos, simplificando transações e acesso à informação. Sua popularidade explodiu na pandemia, mas depende de dispositivos digitais. Sabia que 'QR' significa 'Quick Response'?",
+    "palavras_chave": ["qr code", "tecnologia", "dados", "japão", "digital"]
+  },
+  {
+    "pergunta": "Por que a vacina foi um marco tecnológico?",
+    "resposta": "A vacina, iniciada com Edward Jenner em 1796 contra varíola, usa o sistema imunológico para prevenir doenças. Salvou bilhões de vidas, mas enfrenta resistência por desinformação. A tecnologia de mRNA, como na vacina da COVID-19, é um avanço recente. Sabia que Jenner testou sua vacina em uma criança de 8 anos?",
+    "palavras_chave": ["vacina", "jenner", "imunização", "mrna", "medicina"]
+  },
+  {
+    "pergunta": "Como o telégrafo mudou o mundo?",
+    "resposta": "O telégrafo, criado por Samuel Morse nos anos 1830, permitiu enviar mensagens instantâneas por fios elétricos. Ele conectou continentes, acelerou o comércio e a diplomacia, mas foi substituído pelo telefone. Sabia que a primeira mensagem telegráfica, em 1844, dizia 'O que Deus criou'?",
+    "palavras_chave": ["telégrafo", "morse", "comunicação", "eletricidade", "mensagem"]
+  },
+  {
+    "pergunta": "O que é a tecnologia 5G?",
+    "resposta": "5G é a quinta geração de redes móveis, lançada comercialmente em 2019. Oferece velocidades altíssimas e baixa latência, ideal para IoT e carros autônomos. Mas sua implantação é cara e há preocupações com privacidade. Sabia que o 5G pode ser até 100 vezes mais rápido que o 4G?",
+    "palavras_chave": ["5g", "rede", "tecnologia", "iot", "velocidade"]
+  },
+  {
+    "pergunta": "Como o elevador transformou as cidades?",
+    "resposta": "O elevador, popularizado por Elisha Otis em 1853, tornou arranha-céus possíveis. Antes, prédios altos eram inviáveis por causa das escadas. Ele mudou a arquitetura urbana, mas consome energia significativa. Sabia que o freio de segurança de Otis foi demonstrado ao cortar uma corda em público?",
+    "palavras_chave": ["elevador", "otis", "arquitetura", "arranha-céu", "segurança"]
+  },
+  {
+    "pergunta": "O que é a computação quântica?",
+    "resposta": "Computação quântica usa princípios da mecânica quântica, como superposição, para processar dados de forma extremamente rápida. Ainda em desenvolvimento, promete avanços em criptografia e medicina, mas é complexa e cara. Sabia que o Google anunciou 'supremacia quântica' em 2019, resolvendo um cálculo em minutos que levaria anos em computadores normais?",
+    "palavras_chave": ["quântica", "computação", "criptografia", "tecnologia", "superposição"]
+  },
+  {
+    "pergunta": "Como a geladeira mudou os hábitos alimentares?",
+    "resposta": "A geladeira, comercializada nos anos 1910, permitiu armazenar alimentos por mais tempo, reduzindo desperdício. Antes, as pessoas usavam caixas de gelo, que eram limitadas. Ela transformou cozinhas, mas aumentou o consumo energético. Sabia que as primeiras geladeiras usavam gases tóxicos como amoníaco?",
+    "palavras_chave": ["geladeira", "alimentos", "conservação", "energia", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de reconhecimento facial?",
+    "resposta": "Reconhecimento facial usa algoritmos para identificar pessoas por características faciais. É usado em segurança, smartphones e até marketing, mas levanta preocupações éticas sobre privacidade e viés racial. Surgiu nos anos 1960, mas ficou acessível recentemente. Sabia que alguns sistemas podem errar até 35% em rostos de pele escura?",
+    "palavras_chave": ["reconhecimento facial", "algoritmo", "privacidade", "segurança", "tecnologia"]
+  },
+  {
+    "pergunta": "Por que o carro elétrico é importante?",
+    "resposta": "Carros elétricos, popularizados pela Tesla, usam baterias em vez de combustíveis fósseis, reduzindo emissões. Embora existam desde o século XIX, só agora são viáveis por avanços em baterias. O desafio é o custo e a infraestrutura de recarga. Sabia que o primeiro carro elétrico atingia apenas 22 km/h em 1899?",
+    "palavras_chave": ["carro elétrico", "bateria", "sustentabilidade", "tesla", "emissões"]
+  },
+  {
+    "pergunta": "Como o fonógrafo revolucionou a música?",
+    "resposta": "O fonógrafo, inventado por Thomas Edison em 1877, foi o primeiro dispositivo a gravar e reproduzir som. Antes, música só era ao vivo. Ele criou a indústria fonográfica, mas os primeiros discos eram frágeis. Sabia que Edison gritou 'Mary Had a Little Lamb' na primeira gravação?",
+    "palavras_chave": ["fonógrafo", "edison", "música", "gravação", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de impressão a jato de tinta?",
+    "resposta": "Impressão a jato de tinta, popularizada nos anos 1980, usa pequenos jatos de tinta para criar imagens em papel. É acessível para uso doméstico, mas cartuchos são caros e poluentes. Revolucionou a impressão caseira. Sabia que a tecnologia foi inspirada em canetas-tinteiro?",
+    "palavras_chave": ["impressão", "jato de tinta", "tecnologia", "papel", "cartucho"]
+  },
+  {
+    "pergunta": "Como o submarino mudou a guerra naval?",
+    "resposta": "O submarino, usado militarmente desde a Primeira Guerra Mundial, permitiu ataques furtivos sob a água. O primeiro modelo funcional foi o Turtle, em 1776. Transformou estratégias navais, mas também aumentou riscos éticos em conflitos. Sabia que o Turtle tentou atacar um navio britânico, mas falhou?",
+    "palavras_chave": ["submarino", "guerra", "naval", "turtle", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de assistentes virtuais?",
+    "resposta": "Assistentes virtuais, como Siri e Alexa, usam IA para responder comandos de voz. Surgiram nos anos 2010 e facilitam tarefas diárias, mas coletam dados pessoais, gerando preocupações com privacidade. Sabia que o primeiro assistente, o IBM Shoebox, reconhecia apenas 16 palavras em 1961?",
+    "palavras_chave": ["assistente virtual", "inteligência artificial", "privacidade", "voz", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o cimento revolucionou a construção?",
+    "resposta": "O cimento moderno, patenteado por Joseph Aspdin em 1824, é a base do concreto, essencial para prédios e infraestrutura. Antes, construções usavam pedra ou madeira, limitando escala. Mas sua produção emite muito CO2. Sabia que os romanos já usavam um tipo de cimento vulcânico?",
+    "palavras_chave": ["cimento", "concreto", "construção", "aspdin", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de energia eólica?",
+    "resposta": "Energia eólica usa turbinas movidas pelo vento para gerar eletricidade. Popular desde os anos 1980, é renovável e limpa, mas depende de condições climáticas e pode afetar aves. Sabia que moinhos de vento para moer grãos existiam na Pérsia por volta do século IX?",
+    "palavras_chave": ["eólica", "turbina", "energia", "renovável", "vento"]
+  },
+  {
+    "pergunta": "Como a calculadora mudou os cálculos?",
+    "resposta": "A calculadora eletrônica, lançada comercialmente nos anos 1960, substituiu réguas de cálculo e contas manuais. Facilitou desde tarefas escolares até engenharia, mas tornou as pessoas menos habilidosas em cálculos mentais. Sabia que a primeira calculadora, a Pascalina de 1642, só fazia somas e subtrações?",
+    "palavras_chave": ["calculadora", "cálculo", "pascalina", "tecnologia", "eletrônica"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de CRISPR?",
+    "resposta": "CRISPR é uma ferramenta de edição genética que permite alterar o DNA com precisão. Desenvolvida nos anos 2010, é usada em medicina e agricultura, mas levanta questões éticas sobre 'bebês sob medida'. Sabia que o CRISPR foi inspirado em um mecanismo de defesa de bactérias contra vírus?",
+    "palavras_chave": ["crispr", "genética", "edição", "ética", "biotecnologia"]
+  },
+  {
+    "pergunta": "Como o cinema revolucionou a narrativa?",
+    "resposta": "O cinema, surgido no final do século XIX com os irmãos Lumière, trouxe histórias visuais para as massas. Antes, teatro e livros dominavam. Filmes como 'O Grande Roubo do Trem' moldaram a narrativa moderna, mas o alto custo de produção limita novos criadores. Sabia que a primeira exibição pública de cinema, em 1895, causou pânico ao mostrar um trem se aproximando?",
+    "palavras_chave": ["cinema", "lumière", "narrativa", "filme", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de satélites?",
+    "resposta": "Satélites são dispositivos orbitais que transmitem sinais para comunicação, GPS e observação terrestre. O Sputnik, lançado em 1957 pela URSS, foi o primeiro. Eles conectam o mundo, mas criam lixo espacial, um problema crescente. Sabia que mais de 27.000 objetos de detritos orbitam a Terra hoje?",
+    "palavras_chave": ["satélite", "sputnik", "comunicação", "espaço", "detritos"]
+  },
+  {
+    "pergunta": "Por que a imprensa de Gutenberg foi revolucionária?",
+    "resposta": "A imprensa de Johannes Gutenberg, criada por volta de 1440, usava tipos móveis para imprimir livros rapidamente. Antes, copiar textos era manual e demorado. Ela democratizou o conhecimento, mas também gerou conflitos religiosos com a disseminação de ideias. Sabia que a Bíblia de Gutenberg foi o primeiro livro impresso em massa?",
+    "palavras_chave": ["imprensa", "gutenberg", "livro", "conhecimento", "tipos móveis"]
+  },
+  {
+    "pergunta": "Como o radar mudou a guerra e a aviação?",
+    "resposta": "O radar, desenvolvido na década de 1930, usa ondas de rádio para detectar objetos, como aviões ou navios. Foi crucial na Segunda Guerra, como na Batalha da Inglaterra, e hoje guia voos comerciais. Mas sua precisão depende de manutenção constante. Sabia que o radar foi inspirado por estudos sobre ecos de ondas sonoras?",
+    "palavras_chave": ["radar", "guerra", "aviação", "detecção", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de LED?",
+    "resposta": "LED, ou diodo emissor de luz, converte eletricidade em luz com alta eficiência. Popularizado nos anos 2000, é usado em lâmpadas, telas e semáforos. Economiza energia, mas sua produção envolve materiais raros. Sabia que o primeiro LED, criado em 1962, emitia apenas luz vermelha fraca?",
+    "palavras_chave": ["led", "luz", "eficiência", "tecnologia", "energia"]
+  },
+  {
+    "pergunta": "Como o termômetro transformou a medicina?",
+    "resposta": "O termômetro, aperfeiçoado por Gabriel Fahrenheit no início do século XVIII, permitiu medir a temperatura corporal com precisão. Antes, médicos confiavam em palpação. Ele revolucionou diagnósticos, mas termômetros de mercúrio eram perigosos. Sabia que os primeiros termômetros levavam até 20 minutos para uma leitura?",
+    "palavras_chave": ["termômetro", "fahrenheit", "medicina", "diagnóstico", "temperatura"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de carros autônomos?",
+    "resposta": "Carros autônomos usam sensores, câmeras e IA para dirigir sem motorista. Empresas como Waymo lideram, mas acidentes levantam questões sobre segurança e ética. Podem reduzir acidentes, mas substituir motoristas preocupa. Sabia que o primeiro carro autônomo foi testado na década de 1980 pela Carnegie Mellon?",
+    "palavras_chave": ["carro autônomo", "inteligência artificial", "segurança", "waymo", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o estetoscópio mudou a medicina?",
+    "resposta": "Inventado por René Laennec em 1816, o estetoscópio permite ouvir sons internos do corpo, como coração e pulmões. Antes, médicos colocavam o ouvido diretamente no paciente, o que era incômodo. Ele melhorou diagnósticos, mas exige treinamento para interpretação. Sabia que Laennec criou o estetoscópio inspirado em um rolo de papel?",
+    "palavras_chave": ["estetoscópio", "laennec", "diagnóstico", "medicina", "som"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de blockchain além do Bitcoin?",
+    "resposta": "Além do Bitcoin, blockchain é usado para registros seguros e transparentes, como em contratos inteligentes, cadeias de suprimentos e até saúde. Sua descentralização reduz fraudes, mas consome energia. Sabia que a Etiópia usa blockchain para rastrear café desde a fazenda até o consumidor?",
+    "palavras_chave": ["blockchain", "contratos", "descentralização", "transparência", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o tear de Jacquard influenciou a computação?",
+    "resposta": "O tear de Jacquard, inventado por Joseph Jacquard em 1804, usava cartões perfurados para controlar padrões têxteis. Essa ideia inspirou os primeiros computadores, que usavam cartões para programar. Ele conecta moda e tecnologia, mas automatizou empregos manuais. Sabia que os cartões de Jacquard influenciaram diretamente o trabalho de Charles Babbage?",
+    "palavras_chave": ["tear jacquard", "cartões perfurados", "computação", "automação", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de realidade mista?",
+    "resposta": "Realidade mista combina realidade aumentada e virtual, permitindo interação entre objetos reais e digitais. Usada em jogos, educação e design, como no Microsoft HoloLens, é promissora, mas cara. Sabia que a realidade mista foi usada para planejar missões na Lua pela NASA?",
+    "palavras_chave": ["realidade mista", "hololens", "interação", "tecnologia", "design"]
+  },
+  {
+    "pergunta": "Como a dinamite mudou a construção?",
+    "resposta": "Inventada por Alfred Nobel em 1867, a dinamite tornou explosões controladas possíveis, facilitando construções como túneis e minas. Substituiu pólvora instável, mas seu uso em guerras gerou controvérsias. Sabia que Nobel criou o Prêmio Nobel para compensar o impacto negativo da dinamite?",
+    "palavras_chave": ["dinamite", "nobel", "construção", "explosivo", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de impressão digital?",
+    "resposta": "Impressão digital, popularizada nos anos 1990, imprime diretamente de arquivos digitais, sem placas físicas. É rápida e personalizável, ideal para pequenas tiragens, mas menos econômica em larga escala. Sabia que a primeira impressora digital foi a Xerox PARC, nos anos 1970?",
+    "palavras_chave": ["impressão digital", "xerox", "tecnologia", "personalização", "impressora"]
+  },
+  {
+    "pergunta": "Como o microscópio mudou a ciência?",
+    "resposta": "O microscópio, desenvolvido por Hans e Zacharias Jansen no século XVI, revelou o mundo microscópico, como células e bactérias. Revolucionou biologia e medicina, mas exigiu séculos para atingir alta precisão. Sabia que Robert Hooke usou um microscópio para descrever células em 1665?",
+    "palavras_chave": ["microscópio", "jansen", "células", "biologia", "ciência"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de energia geotérmica?",
+    "resposta": "Energia geotérmica usa o calor da Terra para gerar eletricidade ou aquecimento. Popular em países como Islândia, é renovável, mas limitada a regiões com atividade geotérmica. Sabia que a primeira usina geotérmica foi construída em 1904 na Itália?",
+    "palavras_chave": ["geotérmica", "energia", "renovável", "calor", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o fonógrafo evoluiu para o streaming?",
+    "resposta": "O fonógrafo de Edison, de 1877, evoluiu para toca-discos, fitas cassete, CDs e, finalmente, streaming, como Spotify. Cada etapa tornou a música mais acessível, mas o streaming levanta questões sobre royalties para artistas. Sabia que o streaming responde por mais de 80% da receita musical hoje?",
+    "palavras_chave": ["fonógrafo", "streaming", "música", "spotify", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de biometria?",
+    "resposta": "Biometria usa características únicas, como impressões digitais ou íris, para autenticação. Popular em smartphones e segurança, é prática, mas vulnerável a hackers. Surgiu nos anos 1970 com impressões digitais. Sabia que a biometria já foi usada para identificar eleitores em eleições?",
+    "palavras_chave": ["biometria", "autenticação", "segurança", "impressão digital", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o pára-quedas mudou a aviação?",
+    "resposta": "O pára-quedas, idealizado por Leonardo da Vinci e funcional no século XVIII, tornou a aviação mais segura. Permite saltos de emergência e resgates, mas sua eficácia depende de treinamento. Sabia que o primeiro salto de pára-quedas de um avião foi em 1912?",
+    "palavras_chave": ["pára-quedas", "aviação", "segurança", "salto", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de impressão a laser?",
+    "resposta": "Impressão a laser, desenvolvida pela Xerox nos anos 1970, usa toner e eletricidade estática para imprimir com alta qualidade. É rápida e precisa, mas consome mais energia que jato de tinta. Sabia que a primeira impressora a laser custava o equivalente a um carro novo?",
+    "palavras_chave": ["impressão laser", "xerox", "toner", "qualidade", "tecnologia"]
+  },
+  {
+    "pergunta": "Como a bússola digital funciona?",
+    "resposta": "A bússola digital, usada em smartphones, combina magnetômetros e sensores para indicar o norte. Diferente da bússola magnética, é integrada a GPS, mas suscetível a interferências eletromagnéticas. Sabia que bússolas digitais ajudam até em realidade aumentada para alinhar mapas?",
+    "palavras_chave": ["bússola digital", "magnetômetro", "gps", "smartphone", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de energia das ondas?",
+    "resposta": "Energia das ondas usa o movimento do mar para gerar eletricidade, com dispositivos como boias flutuantes. É renovável, mas ainda cara e limitada a regiões costeiras. Sabia que Portugal tem uma das primeiras usinas de ondas, desde 2008?",
+    "palavras_chave": ["energia das ondas", "renovável", "mar", "tecnologia", "eletricidade"]
+  },
+  {
+    "pergunta": "Como o telhado solar está mudando a arquitetura?",
+    "resposta": "Telhados solares, como os da Tesla, integram células fotovoltaicas em telhas, gerando energia sem alterar a estética. São promissores, mas caros e dependem de sol. Sabia que as primeiras telhas solares foram lançadas comercialmente em 2016?",
+    "palavras_chave": ["telhado solar", "fotovoltaica", "arquitetura", "energia", "tesla"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de holografia?",
+    "resposta": "Holografia cria imagens tridimensionais usando luz laser. Usada em entretenimento, medicina e segurança, é impressionante, mas exige equipamentos complexos. Sabia que o primeiro holograma, criado em 1947 por Dennis Gabor, era quase indistinto?",
+    "palavras_chave": ["holografia", "laser", "tridimensional", "tecnologia", "imagem"]
+  },
+  {
+    "pergunta": "Como o trator mudou a agricultura?",
+    "resposta": "O trator, introduzido no século XIX, mecanizou a agricultura, substituindo cavalos e arados manuais. Aumentou a produtividade, mas reduziu empregos rurais. Modelos como o Fordson foram icônicos. Sabia que os primeiros tratores a vapor eram tão pesados que afundavam no solo?",
+    "palavras_chave": ["trator", "agricultura", "mecanização", "produtividade", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de armazenamento em nuvem?",
+    "resposta": "Armazenamento em nuvem guarda dados em servidores remotos, acessíveis pela internet. Popularizado por empresas como Google e Amazon, facilita acesso, mas levanta preocupações com privacidade. Sabia que o conceito de nuvem surgiu nos anos 1960, mas só se popularizou nos 2000?",
+    "palavras_chave": ["nuvem", "armazenamento", "dados", "privacidade", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o GPS portátil mudou a navegação pessoal?",
+    "resposta": "O GPS portátil, popularizado nos anos 2000 por empresas como Garmin, tornou a navegação acessível a todos. Antes, mapas de papel eram a norma. Ele facilitou viagens e esportes ao ar livre, mas aumentou a dependência de tecnologia. Sabia que os primeiros GPS portáteis eram tão grandes que precisavam de mochilas para carregar?",
+    "palavras_chave": ["gps portátil", "navegação", "garmin", "tecnologia", "mapas"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de reconhecimento de voz?",
+    "resposta": "Reconhecimento de voz converte fala em texto usando algoritmos de IA. Usado em assistentes como Alexa, surgiu nos anos 1950, mas só ficou preciso recentemente. Facilita acessibilidade, mas falha em sotaques diversos. Sabia que o primeiro sistema, Audrey, reconhecia apenas dígitos falados?",
+    "palavras_chave": ["reconhecimento de voz", "inteligência artificial", "acessibilidade", "alexa", "tecnologia"]
+  },
+  {
+    "pergunta": "Como a máquina de costura transformou a moda?",
+    "resposta": "A máquina de costura, patenteada por Isaac Singer em 1851, acelerou a produção de roupas, tornando-as mais acessíveis. Antes, tudo era costurado à mão. Revolucionou a moda, mas levou à exploração em fábricas. Sabia que as primeiras máquinas de costura custavam o equivalente a um ano de salário?",
+    "palavras_chave": ["máquina de costura", "singer", "moda", "produção", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de energia solar concentrada?",
+    "resposta": "Energia solar concentrada usa espelhos para focar luz solar em um ponto, gerando calor para produzir eletricidade. Ideal para desertos, é eficiente, mas cara e limitada por localização. Sabia que a maior usina solar concentrada, em Marrocos, alimenta 1 milhão de casas?",
+    "palavras_chave": ["solar concentrada", "energia", "espelhos", "sustentabilidade", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o projetor mudou a educação e o entretenimento?",
+    "resposta": "Projetores, usados desde o século XIX com lanternas mágicas, exibem imagens em grandes superfícies. Modernizados nos anos 1990, transformaram aulas e cinemas, mas exigem ambientes escuros. Sabia que os primeiros projetores usavam lâmpadas a óleo para exibir slides pintados?",
+    "palavras_chave": ["projetor", "educação", "entretenimento", "imagens", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de impressão em braille?",
+    "resposta": "Impressão em braille, desenvolvida a partir do sistema de Louis Braille em 1824, cria textos táteis para cegos. Impressoras modernas automatizam o processo, aumentando acessibilidade, mas são caras. Sabia que Braille se inspirou em um código militar para leitura noturna?",
+    "palavras_chave": ["braille", "impressão", "acessibilidade", "cegos", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o metrô mudou as cidades?",
+    "resposta": "O metrô, inaugurado em Londres em 1863, revolucionou o transporte urbano, reduzindo engarrafamentos e conectando bairros. É eficiente, mas sua construção é cara e disruptiva. Sabia que o primeiro metrô usava trens a vapor, enchendo túneis de fumaça?",
+    "palavras_chave": ["metrô", "transporte", "urbano", "londres", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de realidade tátil?",
+    "resposta": "Realidade tátil usa dispositivos para simular sensações de toque, como vibrações ou pressão. Usada em jogos e medicina, melhora imersão, mas é complexa e cara. Sabia que luvas táteis permitem sentir objetos virtuais em simulações médicas?",
+    "palavras_chave": ["realidade tátil", "toque", "imersão", "tecnologia", "simulação"]
+  },
+  {
+    "pergunta": "Como a câmera digital mudou a fotografia?",
+    "resposta": "A câmera digital, comercializada nos anos 1990, eliminou a necessidade de filmes, permitindo fotos instantâneas. Democratizou a fotografia, mas reduziu a qualidade artesanal. Sabia que a primeira câmera digital, da Kodak em 1975, tinha apenas 0,01 megapixels?",
+    "palavras_chave": ["câmera digital", "fotografia", "kodak", "imagens", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de robôs cirúrgicos?",
+    "resposta": "Robôs cirúrgicos, como o Da Vinci, permitem operações precisas com braços mecânicos controlados por médicos. Usados desde os anos 2000, minimizam invasividade, mas são caros e exigem treinamento. Sabia que o Da Vinci já realizou mais de 10 milhões de cirurgias?",
+    "palavras_chave": ["robô cirúrgico", "da vinci", "medicina", "precisão", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o velocípede influenciou a bicicleta?",
+    "resposta": "O velocípede, criado por Pierre Michaux em 1860, foi o precursor da bicicleta, com pedais e rodas de madeira. Tornou o transporte individual acessível, mas era desconfortável. Sabia que os primeiros velocípedes eram chamados de 'chacoalha-ossos' por causa das vibrações?",
+    "palavras_chave": ["velocípede", "bicicleta", "transporte", "michaux", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de drones agrícolas?",
+    "resposta": "Drones agrícolas usam câmeras e sensores para monitorar plantações, aplicar pesticidas ou mapear solos. Reduzem custos e aumentam eficiência, mas dependem de operadores qualificados. Sabia que drones podem identificar pragas em uma planta específica em segundos?",
+    "palavras_chave": ["drone agrícola", "agricultura", "sensores", "eficiência", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o semáforo mudou o tráfego?",
+    "resposta": "O semáforo, introduzido em 1914 em Cleveland, EUA, organizou o tráfego urbano com luzes vermelhas, amarelas e verdes. Antes, policiais controlavam cruzamentos. É essencial, mas pode ser ineficiente em engarrafamentos. Sabia que o primeiro semáforo era operado manualmente?",
+    "palavras_chave": ["semáforo", "tráfego", "organização", "luzes", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de bioplásticos?",
+    "resposta": "Bioplásticos são feitos de materiais renováveis, como milho ou cana, em vez de petróleo. Surgiram nos anos 2000 para reduzir poluição, mas sua produção compete com agricultura de alimentos. Sabia que alguns bioplásticos se decompõem em meses no ambiente certo?",
+    "palavras_chave": ["bioplástico", "sustentabilidade", "poluição", "renovável", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o rádio FM melhorou o som?",
+    "resposta": "O rádio FM, desenvolvido por Edwin Armstrong em 1933, oferece som mais claro que o AM, com menos interferências. Transformou a transmissão musical, mas perdeu espaço para o streaming. Sabia que o FM foi inicialmente rejeitado por emissoras por causa de custos?",
+    "palavras_chave": ["rádio fm", "armstrong", "som", "transmissão", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de exoesqueletos?",
+    "resposta": "Exoesqueletos são estruturas robóticas vestíveis que aumentam força ou mobilidade. Usados em reabilitação e indústria, ajudam paraplégicos ou trabalhadores, mas são caros. Sabia que o primeiro exoesqueleto, nos anos 1960, era tão pesado que mal se movia?",
+    "palavras_chave": ["exoesqueleto", "robótica", "mobilidade", "reabilitação", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o arado mecânico mudou a agricultura?",
+    "resposta": "O arado mecânico, popularizado no século XIX, substituiu arados manuais, aumentando a eficiência na preparação do solo. Reduziu o trabalho humano, mas contribuiu para erosão do solo. Sabia que os primeiros arados mecânicos eram puxados por cavalos?",
+    "palavras_chave": ["arado mecânico", "agricultura", "eficiência", "solo", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de telas OLED?",
+    "resposta": "Telas OLED usam compostos orgânicos que emitem luz quando eletrificados, oferecendo cores vibrantes e baixo consumo. Usadas em TVs e smartphones, são caras, mas revolucionárias. Sabia que as primeiras telas OLED, dos anos 1980, duravam poucas horas?",
+    "palavras_chave": ["oled", "tela", "cores", "tecnologia", "smartphone"]
+  },
+  {
+    "pergunta": "Como o sextante melhorou a navegação?",
+    "resposta": "O sextante, aperfeiçoado no século XVIII, mediu ângulos entre estrelas e o horizonte, permitindo navegação precisa. Essencial na Era das Explorações, foi substituído pelo GPS. Sabia que o sextante ainda é usado em emergências marítimas?",
+    "palavras_chave": ["sextante", "navegação", "estrelas", "exploração", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de veículos voadores?",
+    "resposta": "Veículos voadores, como táxis aéreos da Lilium, combinam drones e aviação para transporte urbano. Em teste desde os anos 2010, prometem reduzir engarrafamentos, mas enfrentam desafios regulatórios. Sabia que o primeiro protótipo voador tripulado foi testado em 2016?",
+    "palavras_chave": ["veículo voador", "transporte", "drones", "regulação", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o toca-discos influenciou a música?",
+    "resposta": "O toca-discos, evolução do fonógrafo, popularizou a música gravada nos anos 1900. Permitia ouvir álbuns em casa, mas discos de vinil eram frágeis. Hoje, são itens de colecionador. Sabia que os primeiros discos giravam a 78 rotações por minuto?",
+    "palavras_chave": ["toca-discos", "música", "vinil", "gravação", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de redes neurais?",
+    "resposta": "Redes neurais são algoritmos de IA inspirados no cérebro humano, usados em reconhecimento de imagem e linguagem. Revolucionam áreas como medicina, mas requerem muito poder computacional. Sabia que as primeiras redes neurais, dos anos 1950, simulavam apenas alguns neurônios?",
+    "palavras_chave": ["redes neurais", "inteligência artificial", "algoritmo", "computação", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o guindaste mudou a construção?",
+    "resposta": "O guindaste, usado desde a Antiguidade e modernizado no século XIX, permite erguer cargas pesadas. Facilitou a construção de arranha-céus, mas exige operadores altamente treinados. Sabia que os gregos usavam guindastes movidos a roldanas para erguer templos?",
+    "palavras_chave": ["guindaste", "construção", "carga", "arranha-céu", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de sensores IoT?",
+    "resposta": "Sensores IoT (Internet das Coisas) conectam dispositivos à internet, monitorando dados como temperatura ou movimento. Usados em casas inteligentes e indústria, melhoram eficiência, mas vulneráveis a hackers. Sabia que há mais de 50 bilhões de dispositivos IoT no mundo?",
+    "palavras_chave": ["iot", "sensores", "conectividade", "eficiência", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o relógio de pulso mudou os hábitos?",
+    "resposta": "O relógio de pulso, popularizado na Primeira Guerra Mundial, trouxe praticidade ao medir o tempo. Antes, relógios de bolso eram comuns. Influenciou a pontualidade, mas smartwatches o reinventaram. Sabia que os primeiros relógios de pulso eram usados principalmente por mulheres como joias?",
+    "palavras_chave": ["relógio de pulso", "tempo", "smartwatch", "pontualidade", "tecnologia"]
+  }
+]

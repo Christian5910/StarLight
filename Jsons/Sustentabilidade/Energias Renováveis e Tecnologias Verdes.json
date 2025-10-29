@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "O que são energias renováveis?",
+    "resposta": "Energias renováveis são fontes de energia que se regeneram naturalmente em um curto período, como solar, eólica, hidrelétrica e biomassa. Diferente dos combustíveis fósseis, elas têm baixo impacto ambiental e não se esgotam. Por exemplo, a energia solar usa painéis fotovoltaicos para captar luz do sol e convertê-la em eletricidade. É uma solução cada vez mais acessível, mas depende de condições climáticas e investimento inicial. Sabia que o Brasil é um dos líderes mundiais em energia renovável, com cerca de 80% da sua matriz elétrica vindo de fontes como hidrelétricas e eólica?",
+    "palavras_chave": ["energia renovável", "solar", "eólica", "hidrelétrica", "biomassa"]
+  },
+  {
+    "pergunta": "Como funciona a energia solar fotovoltaica?",
+    "resposta": "A energia solar fotovoltaica transforma luz do sol em eletricidade usando painéis com células de silício. Quando os fótons da luz solar atingem essas células, liberam elétrons, gerando corrente elétrica. É uma tecnologia limpa, mas exige áreas grandes para instalações comerciais e baterias para armazenar energia à noite. No Brasil, ela cresce em residências e empresas. A análise crítica aqui é que, embora o custo tenha caído, a fabricação de painéis ainda consome energia e materiais. Sabia que a maior usina solar da América Latina está no Brasil, em Pirapora, Minas Gerais?",
+    "palavras_chave": ["solar", "fotovoltaica", "painéis", "silício", "usina"]
+  },
+  {
+    "pergunta": "Por que a energia eólica está crescendo tanto?",
+    "resposta": "A energia eólica usa a força do vento para girar turbinas que geram eletricidade. É limpa, eficiente e tem custo competitivo, especialmente em regiões ventosas como o Nordeste do Brasil. O crescimento se deve à tecnologia mais barata e à demanda por fontes sustentáveis. Porém, há desafios, como o impacto visual e sonoro das turbinas. Uma crítica é que a instalação em áreas remotas exige infraestrutura de transmissão. Sabia que o Brasil é o 7º maior produtor de energia eólica do mundo?",
+    "palavras_chave": ["eólica", "turbinas", "vento", "sustentabilidade", "nordeste"]
+  },
+  {
+    "pergunta": "O que é energia hidrelétrica e quais seus prós e contras?",
+    "resposta": "A energia hidrelétrica gera eletricidade a partir da força da água em movimento, como em rios ou represas. No Brasil, usinas como Itaipu são exemplos globais. É renovável e confiável, mas a construção de barragens pode desalojar comunidades e afetar ecossistemas. Uma análise crítica é que, embora seja limpa, os impactos ambientais exigem planejamento. Sabia que Itaipu já foi a maior usina hidrelétrica do mundo até a construção da Três Gargantas, na China?",
+    "palavras_chave": ["hidrelétrica", "itaipu", "barragens", "ecossistema", "energia"]
+  },
+  {
+    "pergunta": "Como a biomassa pode ser usada como energia renovável?",
+    "resposta": "A biomassa gera energia a partir de materiais orgânicos, como bagaço de cana, madeira ou resíduos agrícolas. No Brasil, o bagaço de cana é queimado em usinas para produzir eletricidade. É uma forma de reaproveitar resíduos, mas a queima pode liberar gases poluentes se não controlada. A crítica é que a biomassa depende de monoculturas, que podem competir com a produção de alimentos. Sabia que o Brasil usa biomassa para cerca de 9% da sua eletricidade?",
+    "palavras_chave": ["biomassa", "bagaço", "resíduos", "energia", "monocultura"]
+  },
+  {
+    "pergunta": "O que é energia geotérmica e por que é pouco usada no Brasil?",
+    "resposta": "A energia geotérmica aproveita o calor do interior da Terra para gerar eletricidade ou aquecimento. Países como Islândia usam isso com sucesso, mas no Brasil é pouco viável por falta de áreas com alta atividade geotérmica. A crítica é que os custos de exploração são altos e a tecnologia é complexa. Ainda assim, é uma fonte limpa e constante. Sabia que a Islândia obtém quase 30% da sua eletricidade de fontes geotérmicas?",
+    "palavras_chave": ["geotérmica", "calor", "terra", "energia", "islândia"]
+  },
+  {
+    "pergunta": "Como funcionam as turbinas eólicas offshore?",
+    "resposta": "Turbinas eólicas offshore são instaladas no mar, onde os ventos são mais fortes e constantes. Elas geram energia ao girar pás conectadas a geradores. São mais caras que as terrestres, mas produzem mais eletricidade. A crítica é que a manutenção no mar é desafiadora e pode impactar a vida marinha. No Brasil, projetos offshore estão começando no Nordeste. Sabia que a Dinamarca é líder mundial em eólica offshore, com parques que abastecem cidades inteiras?",
+    "palavras_chave": ["eólica", "offshore", "turbinas", "mar", "dinamarca"]
+  },
+  {
+    "pergunta": "Por que a energia solar térmica é diferente da fotovoltaica?",
+    "resposta": "A energia solar térmica usa o calor do sol para aquecer fluidos que geram vapor e movem turbinas, diferente da fotovoltaica, que converte luz diretamente em eletricidade. É usada em usinas de grande escala, mas menos comum em residências. A crítica é que exige grandes áreas e é menos eficiente em dias nublados. Sabia que a maior usina solar térmica do mundo, em Ivanpah, EUA, usa espelhos para concentrar a luz solar?",
+    "palavras_chave": ["solar", "térmica", "fotovoltaica", "usina", "espelhos"]
+  },
+  {
+    "pergunta": "O que são tecnologias verdes e como elas se relacionam com energias renováveis?",
+    "resposta": "Tecnologias verdes são inovações que reduzem o impacto ambiental, como painéis solares, turbinas eólicas ou carros elétricos. Elas complementam as energias renováveis ao otimizar seu uso, como baterias para armazenar energia solar. A crítica é que a produção dessas tecnologias pode gerar resíduos. Sabia que o mercado de tecnologias verdes deve crescer 10% ao ano até 2030, segundo estimativas globais?",
+    "palavras_chave": ["tecnologias verdes", "sustentabilidade", "baterias", "inovação", "resíduos"]
+  },
+  {
+    "pergunta": "Como as baterias de íon-lítio ajudam nas energias renováveis?",
+    "resposta": "As baterias de íon-lítio armazenam energia de fontes como solar e eólica, permitindo uso quando não há sol ou vento. São essenciais para carros elétricos e sistemas residenciais. A crítica é que a mineração de lítio e cobalto tem impactos ambientais e sociais. No Brasil, o uso cresce em projetos solares. Sabia que a Tesla é uma das líderes em baterias para energia renovável?",
+    "palavras_chave": ["baterias", "íon-lítio", "armazenamento", "tesla", "mineração"]
+  },
+  {
+    "pergunta": "O que é a energia das ondas e como ela funciona?",
+    "resposta": "A energia das ondas, ou maremotriz, captura o movimento das ondas do mar para gerar eletricidade usando dispositivos como boias ou turbinas submersas. É promissora em países com costas extensas, mas no Brasil ainda está em fase experimental. A crítica é que a instalação pode afetar ecossistemas marinhos. Sabia que Portugal tem um dos primeiros projetos comerciais de energia das ondas no mundo?",
+    "palavras_chave": ["maremotriz", "ondas", "turbinas", "mar", "portugal"]
+  },
+  {
+    "pergunta": "Por que o hidrogênio verde é considerado uma tecnologia do futuro?",
+    "resposta": "O hidrogênio verde é produzido usando energia renovável para separar água em hidrogênio e oxigênio. Pode ser usado como combustível limpo em indústrias e transportes. No Brasil, há projetos-piloto no Nordeste. A crítica é que a produção é cara e exige muita energia. Sabia que a Alemanha está investindo bilhões em hidrogênio verde para descarbonizar sua indústria?",
+    "palavras_chave": ["hidrogênio", "verde", "combustível", "descarbonização", "alemanha"]
+  },
+  {
+    "pergunta": "Como os telhados verdes ajudam na sustentabilidade energética?",
+    "resposta": "Telhados verdes são cobertos com vegetação, reduzindo a necessidade de ar-condicionado ao isolar prédios. Eles também absorvem CO2 e melhoram a eficiência energética. A crítica é que a instalação é cara e exige manutenção. No Brasil, estão crescendo em cidades como São Paulo. Sabia que a cidade de Copenhague planeja ter 20% dos telhados verdes até 2030?",
+    "palavras_chave": ["telhado verde", "sustentabilidade", "isolamento", "co2", "copenhague"]
+  },
+  {
+    "pergunta": "O que é eficiência energética e por que ela importa?",
+    "resposta": "Eficiência energética é usar menos energia para realizar a mesma tarefa, como lâmpadas LED ou eletrodomésticos modernos. Ela reduz a demanda por energia, complementando as renováveis. A crítica é que exige investimento inicial e conscientização. No Brasil, programas como o Procel incentivam isso. Sabia que a eficiência energética pode reduzir o consumo global de energia em até 30% até 2050?",
+    "palavras_chave": ["eficiência", "energia", "led", "procel", "consumo"]
+  },
+  {
+    "pergunta": "Como os carros elétricos contribuem para a transição energética?",
+    "resposta": "Carros elétricos usam baterias recarregáveis em vez de combustíveis fósseis, reduzindo emissões. Quando carregados com energia renovável, são ainda mais sustentáveis. A crítica é que a produção de baterias gera impacto ambiental. No Brasil, a adoção cresce lentamente. Sabia que a Noruega tem mais de 80% dos carros novos elétricos?",
+    "palavras_chave": ["carros elétricos", "baterias", "emissões", "sustentabilidade", "noruega"]
+  },
+  {
+    "pergunta": "O que é uma microrrede e como ela usa energias renováveis?",
+    "resposta": "Uma microrrede é um sistema local de energia que combina fontes renováveis, como solar e eólica, com baterias e geradores. Pode operar conectada ou isolada da rede principal, ideal para áreas remotas. A crítica é que exige tecnologia avançada e manutenção. No Brasil, há projetos em comunidades indígenas. Sabia que microrredes ajudaram Porto Rico após furacões?",
+    "palavras_chave": ["microrrede", "renováveis", "baterias", "comunidades", "porto rico"]
+  },
+  {
+    "pergunta": "Por que a energia solar é mais usada em áreas rurais?",
+    "resposta": "Em áreas rurais, a energia solar é prática por não depender de redes elétricas extensas. Painéis solares fornecem eletricidade para casas, escolas e irrigação. A crítica é que o acesso inicial pode ser caro para comunidades pobres. No Brasil, programas como Luz para Todos usam solar. Sabia que na Índia, milhões de casas rurais foram eletrificadas com energia solar?",
+    "palavras_chave": ["solar", "rural", "eletricidade", "luz para todos", "índia"]
+  },
+  {
+    "pergunta": "Como a energia eólica impacta a fauna local?",
+    "resposta": "A energia eólica é limpa, mas as turbinas podem afetar pássaros e morcegos, que colidem com as pás. Estudos buscam reduzir esses impactos com tecnologias como sensores. A crítica é que a localização dos parques eólicos precisa ser planejada com cuidado. No Brasil, o Nordeste monitora esses efeitos. Sabia que algumas turbinas desligam automaticamente quando detectam aves migratórias?",
+    "palavras_chave": ["eólica", "fauna", "turbinas", "pássaros", "sensores"]
+  },
+  {
+    "pergunta": "O que é captura de carbono e como ela ajuda as renováveis?",
+    "resposta": "Captura de carbono é uma tecnologia que armazena CO2 emitido por indústrias ou usinas, reduzindo emissões. Ela complementa renováveis ao tornar processos mais limpos. A crítica é que é cara e não substitui a transição para fontes renováveis. No Brasil, há testes em usinas de biomassa. Sabia que a Noruega armazena CO2 sob o fundo do mar?",
+    "palavras_chave": ["captura", "carbono", "emissões", "renováveis", "noruega"]
+  },
+  {
+    "pergunta": "Como a energia hidrelétrica de pequeno porte é diferente das grandes usinas?",
+    "resposta": "As pequenas centrais hidrelétricas (PCHs) geram menos energia que grandes usinas, mas têm menor impacto ambiental. Usam rios menores e evitam grandes barragens. A crítica é que ainda podem afetar ecossistemas locais. No Brasil, PCHs são comuns em áreas rurais. Sabia que a China tem milhares de PCHs para abastecer vilarejos?",
+    "palavras_chave": ["hidrelétrica", "pch", "barragens", "ecossistema", "china"]
+  },
+  {
+    "pergunta": "O que são edifícios de energia zero?",
+    "resposta": "Edifícios de energia zero produzem tanta energia quanto consomem, usando fontes renováveis como painéis solares e eficiência energética. São o futuro da construção sustentável. A crítica é que o custo inicial é alto, mas se paga a longo prazo. No Brasil, há exemplos em São Paulo. Sabia que a Califórnia exige que novos prédios sejam energia zero desde 2020?",
+    "palavras_chave": ["energia zero", "sustentabilidade", "construção", "solar", "califórnia"]
+  },
+  {
+    "pergunta": "Como a energia solar pode ser usada na agricultura?",
+    "resposta": "Na agricultura, a energia solar alimenta sistemas de irrigação, estufas e máquinas, reduzindo custos e emissões. Painéis podem ser instalados em áreas não cultivadas. A crítica é que exige investimento e treinamento. No Brasil, o semiárido usa solar para bombas d’água. Sabia que a Índia tem fazendas solares que combinam agricultura e energia?",
+    "palavras_chave": ["solar", "agricultura", "irrigação", "sustentabilidade", "índia"]
+  },
+  {
+    "pergunta": "Por que o biogás é uma solução sustentável?",
+    "resposta": "O biogás é produzido pela decomposição de resíduos orgânicos, como esterco ou lixo, e pode ser usado para eletricidade ou aquecimento. Reduz emissões e aproveita resíduos. A crítica é que a produção em larga escala exige infraestrutura. No Brasil, fazendas usam biogás. Sabia que a Alemanha tem mais de 9 mil usinas de biogás?",
+    "palavras_chave": ["biogás", "resíduos", "sustentabilidade", "eletricidade", "alemanha"]
+  },
+  {
+    "pergunta": "O que é a economia circular na energia renovável?",
+    "resposta": "A economia circular busca reutilizar e reciclar materiais em tecnologias de energia renovável, como painéis solares e turbinas. Reduz resíduos e custos. A crítica é que a reciclagem de baterias e painéis ainda é limitada. No Brasil, há iniciativas para reciclar pás eólicas. Sabia que a Europa tem leis exigindo reciclagem de painéis solares?",
+    "palavras_chave": ["economia circular", "reciclagem", "renováveis", "resíduos", "europa"]
+  },
+  {
+    "pergunta": "Como a inteligência artificial ajuda nas energias renováveis?",
+    "resposta": "A inteligência artificial otimiza o uso de energias renováveis, prevendo padrões climáticos para maximizar a produção solar e eólica. Também gerencia redes elétricas. A crítica é que exige dados e energia para rodar os sistemas. No Brasil, IA é usada em usinas eólicas. Sabia que o Google usa IA para reduzir o consumo energético de seus data centers em 40%?",
+    "palavras_chave": ["inteligência artificial", "renováveis", "previsão", "redes", "google"]
+  },
+  {
+    "pergunta": "Como a energia eólica pode ser integrada em áreas urbanas?",
+    "resposta": "A energia eólica urbana usa turbinas menores, como modelos verticais, instaladas em prédios ou postes para gerar eletricidade localmente. É ideal para complementar outras fontes renováveis, mas o vento em cidades é menos constante, o que limita a eficiência. A crítica é que o custo e o impacto estético ainda são barreiras. No Brasil, há projetos experimentais em São Paulo. Sabia que Rotterdam, na Holanda, tem turbinas eólicas integradas a designs de prédios modernos?",
+    "palavras_chave": ["eólica", "urbana", "turbinas", "sustentabilidade", "rotterdam"]
+  },
+  {
+    "pergunta": "O que é energia heliotérmica e como ela funciona?",
+    "resposta": "A energia heliotérmica, ou solar concentrada, usa espelhos para focar a luz solar e aquecer um fluido que gera vapor para turbinas. É eficiente em regiões ensolaradas, como desertos, mas exige grandes áreas e investimentos altos. A crítica é que a manutenção dos espelhos é complexa. No Brasil, há estudos no Nordeste. Sabia que a usina de Ouarzazate, no Marrocos, é uma das maiores heliotérmicas do mundo?",
+    "palavras_chave": ["heliotérmica", "solar", "espelhos", "usina", "marrocos"]
+  },
+  {
+    "pergunta": "Por que o armazenamento de energia é um desafio para renováveis?",
+    "resposta": "Fontes como solar e eólica dependem de condições climáticas, então armazenar energia para uso contínuo é essencial. Baterias de íon-lítio são comuns, mas caras e com impacto ambiental na produção. A crítica é que alternativas, como baterias de fluxo, ainda estão em desenvolvimento. No Brasil, o armazenamento cresce em projetos solares. Sabia que a Austrália tem a maior bateria do mundo para armazenar energia renovável?",
+    "palavras_chave": ["armazenamento", "baterias", "renováveis", "íon-lítio", "austrália"]
+  },
+  {
+    "pergunta": "Como a energia maremotriz aproveita as marés?",
+    "resposta": "A energia maremotriz usa o movimento das marés para girar turbinas submersas ou capturar energia com barreiras. É previsível, diferente da solar ou eólica, mas os custos de instalação são altos e pode afetar ecossistemas marinhos. No Brasil, o potencial é estudado no litoral norte. A crítica é que a tecnologia ainda é experimental. Sabia que a França tem uma usina maremotriz em operação desde 1966?",
+    "palavras_chave": ["maremotriz", "marés", "turbinas", "ecossistema", "frança"]
+  },
+  {
+    "pergunta": "O que é um parque eólico híbrido?",
+    "resposta": "Um parque eólico híbrido combina energia eólica com outras fontes, como solar ou biomassa, para maximizar a produção e estabilidade. No Brasil, há projetos que juntam eólica e solar no Nordeste. A crítica é que a integração exige planejamento complexo e investimentos. Sabia que a Índia está expandindo parques híbridos para abastecer áreas rurais?",
+    "palavras_chave": ["híbrido", "eólica", "solar", "integração", "índia"]
+  },
+  {
+    "pergunta": "Como os biocombustíveis se encaixam nas energias renováveis?",
+    "resposta": "Biocombustíveis, como etanol e biodiesel, são feitos de plantas ou resíduos e usados em transportes. No Brasil, o etanol de cana é um sucesso, reduzindo emissões em comparação com gasolina. A crítica é que a produção pode competir com terras agrícolas. Sabia que o Brasil é o segundo maior produtor de etanol do mundo, atrás apenas dos EUA?",
+    "palavras_chave": ["biocombustíveis", "etanol", "biodiesel", "cana", "emissões"]
+  },
+  {
+    "pergunta": "O que são redes inteligentes e como ajudam as renováveis?",
+    "resposta": "Redes inteligentes usam tecnologia para gerenciar a distribuição de energia de forma eficiente, integrando fontes renováveis como solar e eólica. Sensores e IA ajustam a oferta e demanda em tempo real. A crítica é que exige infraestrutura cara e cibersegurança. No Brasil, há testes em cidades como São Luiz do Paraitinga. Sabia que a Itália tem uma das redes inteligentes mais avançadas da Europa?",
+    "palavras_chave": ["redes inteligentes", "sustentabilidade", "tecnologia", "energia", "itália"]
+  },
+  {
+    "pergunta": "Por que a energia solar flutuante está ganhando espaço?",
+    "resposta": "A energia solar flutuante instala painéis em corpos d’água, como lagos e reservatórios, economizando terra e aumentando a eficiência por resfriamento natural. No Brasil, há projetos em reservatórios de hidrelétricas. A crítica é que pode afetar a fauna aquática. Sabia que a China tem a maior usina solar flutuante do mundo, com 150 MW?",
+    "palavras_chave": ["solar", "flutuante", "reservatórios", "eficiência", "china"]
+  },
+  {
+    "pergunta": "Como a energia eólica pode ser usada em pequena escala?",
+    "resposta": "Turbinas eólicas menores podem abastecer casas, fazendas ou pequenas comunidades, especialmente em áreas ventosas. São mais baratas, mas menos eficientes que grandes parques. No Brasil, são usadas em propriedades rurais no Sul. A crítica é que a manutenção ainda é um desafio. Sabia que turbinas eólicas residenciais podem ser tão pequenas quanto um ventilador de teto?",
+    "palavras_chave": ["eólica", "pequena escala", "turbinas", "rural", "manutenção"]
+  },
+  {
+    "pergunta": "O que é dessalinização movida a energia renovável?",
+    "resposta": "A dessalinização remove sal da água do mar para torná-la potável, e usar energia renovável, como solar ou eólica, reduz seu impacto ambiental. É vital em regiões áridas, mas o processo é caro e gera resíduos salinos. No Brasil, há projetos no Nordeste. Sabia que a Arábia Saudita usa energia solar para dessalinizar milhões de litros de água por dia?",
+    "palavras_chave": ["dessalinização", "renováveis", "água", "solar", "arábia saudita"]
+  },
+  {
+    "pergunta": "Como a energia renovável impacta a economia local?",
+    "resposta": "Energias renováveis criam empregos em instalação, manutenção e pesquisa, além de reduzir custos de energia a longo prazo. No Brasil, o setor eólico no Nordeste gerou milhares de empregos. A crítica é que a transição exige requalificação de trabalhadores de setores fósseis. Sabia que o setor renovável global emprega mais de 12 milhões de pessoas?",
+    "palavras_chave": ["economia", "empregos", "renováveis", "eólica", "transição"]
+  },
+  {
+    "pergunta": "O que é um telhado solar e como ele funciona?",
+    "resposta": "Telhados solares integram painéis fotovoltaicos diretamente nas telhas, gerando energia sem alterar a estética do prédio. São mais caros que painéis tradicionais, mas ideais para residências. A crítica é que a instalação exige mão de obra especializada. No Brasil, estão ganhando popularidade em casas de alto padrão. Sabia que a Tesla produz telhas solares que imitam telhados comuns?",
+    "palavras_chave": ["telhado solar", "fotovoltaica", "estética", "tesla", "instalação"]
+  },
+  {
+    "pergunta": "Por que a energia de biomassa é controversa?",
+    "resposta": "A biomassa é renovável, mas sua produção pode desmatar ou competir com culturas alimentares. No Brasil, o bagaço de cana é sustentável, mas madeira de florestas nativas não. A crítica é que o manejo inadequado pode anular benefícios ambientais. Sabia que a Suécia usa biomassa para aquecer cidades inteiras no inverno?",
+    "palavras_chave": ["biomassa", "desmatamento", "bagaço", "sustentabilidade", "suécia"]
+  },
+  {
+    "pergunta": "Como a energia renovável ajuda na luta contra mudanças climáticas?",
+    "resposta": "Energias renováveis reduzem emissões de CO2 ao substituir combustíveis fósseis. Solar, eólica e hidrelétrica têm pegada de carbono baixa. A crítica é que a transição global é lenta e depende de políticas públicas. No Brasil, a matriz renovável ajuda a mitigar emissões. Sabia que as renováveis evitaram 2 bilhões de toneladas de CO2 em 2022 globalmente?",
+    "palavras_chave": ["renováveis", "emissões", "clima", "co2", "transição"]
+  },
+  {
+    "pergunta": "O que são fazendas solares comunitárias?",
+    "resposta": "Fazendas solares comunitárias são usinas solares compartilhadas por um grupo, permitindo que pessoas sem espaço para painéis acessem energia limpa. No Brasil, estão crescendo em condomínios. A crítica é que a burocracia para conexão à rede pode atrasar projetos. Sabia que nos EUA, fazendas comunitárias abastecem milhares de casas?",
+    "palavras_chave": ["solar", "comunitária", "usina", "acesso", "eua"]
+  },
+  {
+    "pergunta": "Como os drones ajudam na manutenção de parques eólicos?",
+    "resposta": "Drones inspecionam pás de turbinas eólicas, identificando danos sem parar a operação. Usam câmeras e sensores para reduzir custos e riscos. A crítica é que a tecnologia exige treinamento e não substitui reparos manuais. No Brasil, drones são usados em parques no Nordeste. Sabia que drones podem reduzir o tempo de inspeção de turbinas em até 70%?",
+    "palavras_chave": ["drones", "eólica", "manutenção", "turbinas", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é energia de resíduos e como ela é gerada?",
+    "resposta": "Energia de resíduos converte lixo orgânico ou reciclável em eletricidade por incineração ou biogás. Reduz aterros e emissões, mas a incineração pode liberar poluentes se mal controlada. No Brasil, há projetos em aterros sanitários. A crítica é que depende de gestão eficiente de resíduos. Sabia que a Suíça gera energia a partir de 80% do seu lixo?",
+    "palavras_chave": ["resíduos", "biogás", "incineração", "aterros", "suíça"]
+  },
+  {
+    "pergunta": "Por que a energia solar é mais barata hoje?",
+    "resposta": "O custo da energia solar caiu devido a avanços na fabricação de painéis, maior escala de produção e políticas de incentivo. No Brasil, subsídios para instalações residenciais ajudaram. A crítica é que a dependência de importação de painéis pode limitar a redução de custos. Sabia que o preço dos painéis solares caiu 80% desde 2010?",
+    "palavras_chave": ["solar", "custo", "painéis", "incentivos", "importação"]
+  },
+  {
+    "pergunta": "Como a energia renovável pode ajudar comunidades isoladas?",
+    "resposta": "Energias renováveis, como solar e eólica, levam eletricidade a áreas sem rede, como comunidades indígenas no Brasil. São mais baratas que geradores a diesel a longo prazo. A crítica é que o acesso inicial exige investimento público. Sabia que o programa Luz para Todos já levou energia solar a 500 mil famílias no Brasil?",
+    "palavras_chave": ["renováveis", "comunidades", "solar", "luz para todos", "isoladas"]
+  },
+  {
+    "pergunta": "O que é o conceito de ‘net zero’ em energia?",
+    "resposta": "Net zero significa equilibrar as emissões de carbono com ações que as reduzem ou capturam, usando renováveis e eficiência energética. É meta de empresas e países. A crítica é que muitas promessas de net zero carecem de planos concretos. No Brasil, empresas adotam renováveis para isso. Sabia que o Reino Unido tem lei para alcançar net zero até 2050?",
+    "palavras_chave": ["net zero", "emissões", "renováveis", "carbono", "reino unido"]
+  },
+  {
+    "pergunta": "Como a energia eólica offshore pode crescer no Brasil?",
+    "resposta": "O Brasil tem grande potencial para eólica offshore no Nordeste, onde ventos fortes favorecem turbinas no mar. Projetos estão em fase de licenciamento. A crítica é que a regulação e os custos iniciais são desafios. Sabia que o Reino Unido gera 13% da sua eletricidade com eólica offshore?",
+    "palavras_chave": ["eólica", "offshore", "nordeste", "turbinas", "reino unido"]
+  },
+  {
+    "pergunta": "O que são materiais sustentáveis em tecnologias verdes?",
+    "resposta": "Materiais sustentáveis, como silício reciclado em painéis solares ou pás eólicas biodegradáveis, reduzem o impacto ambiental. A crítica é que a produção em escala ainda é limitada. No Brasil, há pesquisas para pás recicláveis. Sabia que a Dinamarca está testando pás eólicas 100% recicláveis?",
+    "palavras_chave": ["materiais", "sustentáveis", "reciclagem", "eólica", "dinamarca"]
+  },
+  {
+    "pergunta": "Como a energia hidrelétrica afeta rios e ecossistemas?",
+    "resposta": "Hidrelétricas alteram o fluxo de rios, afetando peixes, vegetação e comunidades ribeirinhas. Mitigações, como escadas para peixes, ajudam, mas não eliminam impactos. No Brasil, usinas como Belo Monte são criticadas por isso. A crítica é que o planejamento ambiental precisa melhorar. Sabia que algumas hidrelétricas usam tecnologia para monitorar a migração de peixes em tempo real?",
+    "palavras_chave": ["hidrelétrica", "ecossistema", "rios", "belo monte", "peixes"]
+  },
+  {
+    "pergunta": "O que é energia de hidrogênio e como ela é produzida?",
+    "resposta": "Energia de hidrogênio usa o gás como combustível limpo, produzido por eletrólise da água com energia renovável. É promissor para indústrias pesadas. A crítica é que a eficiência da eletrólise ainda é baixa. No Brasil, há projetos no porto de Pecém. Sabia que o Japão planeja uma ‘economia do hidrogênio’ até 2050?",
+    "palavras_chave": ["hidrogênio", "eletrólise", "renováveis", "indústria", "japão"]
+  },
+  {
+    "pergunta": "Como as políticas públicas incentivam energias renováveis?",
+    "resposta": "Políticas como subsídios, isenção de impostos e metas de emissões impulsionam renováveis. No Brasil, o Programa de Incentivo às Fontes Alternativas (Proinfa) foi um marco. A crítica é que a burocracia pode atrasar projetos. Sabia que a Alemanha triplicou sua capacidade renovável com incentivos desde 2000?",
+    "palavras_chave": ["políticas", "incentivos", "renováveis", "proinfa", "alemanha"]
+  },
+  {
+    "pergunta": "O que é um microgerador solar e como ele funciona?",
+    "resposta": "Um microgerador solar é um sistema pequeno de painéis solares, geralmente instalado em casas ou pequenos negócios, que gera eletricidade para consumo local. O excesso pode ser enviado à rede elétrica, reduzindo contas. No Brasil, é popular em residências urbanas. A crítica é que a instalação inicial exige investimento e regulamentação. Sabia que, no Brasil, quem instala microgeração pode receber créditos na conta de luz?",
+    "palavras_chave": ["microgerador", "solar", "eletricidade", "rede", "créditos"]
+  },
+  {
+    "pergunta": "Como a energia renovável pode reduzir a desigualdade energética?",
+    "resposta": "Energias renováveis, como solar e eólica, levam eletricidade a comunidades sem acesso à rede, como áreas rurais ou favelas. Projetos solares no Brasil, como os do programa Luz para Todos, são exemplos. A crítica é que o financiamento para essas comunidades ainda é limitado. Sabia que a ONU estima que 700 milhões de pessoas ainda vivem sem eletricidade no mundo?",
+    "palavras_chave": ["renováveis", "desigualdade", "solar", "luz para todos", "onu"]
+  },
+  {
+    "pergunta": "O que é a energia de biomassa de segunda geração?",
+    "resposta": "A biomassa de segunda geração usa resíduos não alimentares, como palha ou madeira de reflorestamento, para produzir energia ou biocombustíveis. É mais sustentável que a primeira geração, que compete com alimentos. No Brasil, há pesquisas com resíduos de cana. A crítica é que a tecnologia ainda é cara. Sabia que a Finlândia usa biomassa de segunda geração para aquecimento urbano?",
+    "palavras_chave": ["biomassa", "segunda geração", "resíduos", "biocombustíveis", "finlândia"]
+  },
+  {
+    "pergunta": "Por que a energia eólica é considerada intermitente?",
+    "resposta": "A energia eólica depende da velocidade e constância do vento, que variam, tornando-a intermitente. Baterias e redes inteligentes ajudam a estabilizar o fornecimento. No Brasil, o Nordeste aproveita ventos constantes. A crítica é que prever ventos com precisão ainda é desafiador. Sabia que a Dinamarca gera mais de 50% da sua eletricidade com eólica em dias ventosos?",
+    "palavras_chave": ["eólica", "intermitente", "baterias", "nordeste", "dinamarca"]
+  },
+  {
+    "pergunta": "Como as turbinas eólicas de eixo vertical diferem das tradicionais?",
+    "resposta": "Turbinas de eixo vertical giram em torno de um eixo perpendicular ao solo, captando vento de qualquer direção. São mais compactas e silenciosas, ideais para áreas urbanas, mas menos eficientes. No Brasil, são testadas em pequena escala. A crítica é que ainda não competem com as tradicionais. Sabia que essas turbinas foram inspiradas em moinhos persas antigos?",
+    "palavras_chave": ["eólica", "eixo vertical", "turbinas", "urbana", "moinhos"]
+  },
+  {
+    "pergunta": "O que é um sistema híbrido de energia renovável?",
+    "resposta": "Sistemas híbridos combinam fontes como solar, eólica e biomassa para garantir fornecimento contínuo. No Brasil, usinas solares e eólicas integradas são exemplos. A crítica é que a integração exige tecnologia avançada e manutenção. Sabia que a Austrália usa sistemas híbridos para abastecer ilhas remotas?",
+    "palavras_chave": ["híbrido", "renováveis", "solar", "eólica", "austrália"]
+  },
+  {
+    "pergunta": "Como a energia solar pode ser usada em transporte público?",
+    "resposta": "Energia solar pode alimentar estações de recarga para ônibus elétricos ou trens. No Brasil, há projetos em cidades como Curitiba. A crítica é que a infraestrutura para recarga é cara e depende de incentivos. Sabia que a cidade de Shenzhen, na China, tem uma frota de ônibus 100% elétrica alimentada por solar?",
+    "palavras_chave": ["solar", "transporte", "elétrico", "curitiba", "shenzhen"]
+  },
+  {
+    "pergunta": "O que é a pegada de carbono de uma tecnologia verde?",
+    "resposta": "A pegada de carbono mede as emissões de CO2 geradas na produção, uso e descarte de tecnologias verdes, como painéis solares. Apesar de serem limpas, a fabricação consome energia. No Brasil, há esforços para reduzir essa pegada. A crítica é que a mineração de materiais é um desafio. Sabia que painéis solares se ‘pagam’ ambientalmente em 1-2 anos?",
+    "palavras_chave": ["pegada", "carbono", "tecnologias verdes", "solar", "mineração"]
+  },
+  {
+    "pergunta": "Por que o Brasil é um líder em energia renovável?",
+    "resposta": "O Brasil lidera em renováveis por sua matriz elétrica, com 80% de fontes como hidrelétrica, eólica e biomassa, graças a recursos naturais abundantes. A crítica é que a dependência de hidrelétricas torna o sistema vulnerável a secas. Sabia que o Brasil é o segundo maior produtor de energia hidrelétrica do mundo, atrás da China?",
+    "palavras_chave": ["renováveis", "hidrelétrica", "brasil", "eólica", "secas"]
+  },
+  {
+    "pergunta": "Como a energia renovável impacta a segurança energética?",
+    "resposta": "Renováveis reduzem a dependência de combustíveis fósseis importados, aumentando a segurança energética. No Brasil, a eólica e solar diversificam a matriz. A crítica é que a intermitência exige backups confiáveis. Sabia que a Alemanha reduziu sua dependência de gás russo com renováveis após 2022?",
+    "palavras_chave": ["segurança", "renováveis", "eólica", "solar", "alemanha"]
+  },
+  {
+    "pergunta": "O que é energia de microalgas e como ela funciona?",
+    "resposta": "Microalgas produzem biocombustíveis ou biogás por meio de fotossíntese, capturando CO2. São cultivadas em tanques e podem gerar energia limpa. No Brasil, há pesquisas em universidades. A crítica é que a escala comercial ainda é inviável. Sabia que microalgas podem produzir até 10 vezes mais biocombustível por área que a soja?",
+    "palavras_chave": ["microalgas", "biocombustíveis", "biogás", "co2", "pesquisa"]
+  },
+  {
+    "pergunta": "Como os painéis solares bifaciais aumentam a eficiência?",
+    "resposta": "Painéis solares bifaciais captam luz dos dois lados, aproveitando reflexos do solo ou superfícies. São mais eficientes, mas mais caros. No Brasil, são usados em usinas solares. A crítica é que exigem superfícies refletivas específicas. Sabia que esses painéis podem gerar até 30% mais energia que os tradicionais?",
+    "palavras_chave": ["solar", "bifaciais", "eficiência", "painéis", "usina"]
+  },
+  {
+    "pergunta": "O que é o financiamento verde para energias renováveis?",
+    "resposta": "Financiamento verde oferece empréstimos ou incentivos para projetos de energia renovável, como usinas solares ou eólicas. No Brasil, o BNDES apoia esses projetos. A crítica é que o acesso é limitado para pequenas empresas. Sabia que o mercado global de financiamento verde ultrapassou 1 trilhão de dólares em 2023?",
+    "palavras_chave": ["financiamento", "verde", "renováveis", "bndes", "investimento"]
+  },
+  {
+    "pergunta": "Como a energia eólica pode ser usada na indústria?",
+    "resposta": "A indústria usa energia eólica para alimentar fábricas ou processos, reduzindo custos e emissões. No Brasil, indústrias no Nordeste compram energia de parques eólicos. A crítica é que a intermitência exige planejamento. Sabia que a Siemens usa eólica para 70% da energia de suas fábricas na Europa?",
+    "palavras_chave": ["eólica", "indústria", "emissões", "nordeste", "siemens"]
+  },
+  {
+    "pergunta": "O que é um telhado verde ativo?",
+    "resposta": "Telhados verdes ativos integram painéis solares ou turbinas eólicas à vegetação, combinando eficiência energética e sustentabilidade. São raros no Brasil, mas crescem na Europa. A crítica é que o custo e a manutenção são elevados. Sabia que Singapura tem prédios com telhados verdes ativos que geram energia e reduzem calor?",
+    "palavras_chave": ["telhado verde", "ativo", "solar", "sustentabilidade", "singapura"]
+  },
+  {
+    "pergunta": "Como a energia renovável pode apoiar a agricultura de precisão?",
+    "resposta": "Renováveis, como solar, alimentam sensores e drones na agricultura de precisão, otimizando irrigação e colheita. No Brasil, fazendas no Centro-Oeste usam isso. A crítica é que exige treinamento para agricultores. Sabia que a agricultura de precisão pode reduzir o uso de água em até 50%?",
+    "palavras_chave": ["renováveis", "agricultura", "precisão", "solar", "drones"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de concentração solar?",
+    "resposta": "A tecnologia de concentração solar usa espelhos ou lentes para focar a luz do sol, gerando calor para produzir eletricidade. É eficiente em áreas desérticas, mas cara. No Brasil, há estudos no semiárido. A crítica é que depende de condições climáticas ideais. Sabia que o Chile usa essa tecnologia em minas no deserto do Atacama?",
+    "palavras_chave": ["solar", "concentração", "espelhos", "deserto", "chile"]
+  },
+  {
+    "pergunta": "Como a energia hidrelétrica de fluxo livre funciona?",
+    "resposta": "Hidrelétricas de fluxo livre geram energia usando a corrente natural de rios, sem barragens, reduzindo impactos ambientais. São menos comuns no Brasil, mas ideais para rios menores. A crítica é que produzem menos energia. Sabia que a Noruega usa esse modelo em pequenos rios montanhosos?",
+    "palavras_chave": ["hidrelétrica", "fluxo livre", "rios", "impacto", "noruega"]
+  },
+  {
+    "pergunta": "O que é um sistema de armazenamento por gravidade?",
+    "resposta": "Armazenamento por gravidade usa energia renovável para elevar pesos, que, ao descer, geram eletricidade. É uma alternativa às baterias, mas ainda experimental. A crítica é que exige espaço e investimento. No Brasil, há estudos iniciais. Sabia que a Suíça testa esse sistema usando guindastes em montanhas?",
+    "palavras_chave": ["armazenamento", "gravidade", "renováveis", "baterias", "suíça"]
+  },
+  {
+    "pergunta": "Como as renováveis afetam o mercado de energia global?",
+    "resposta": "Renováveis reduzem preços de energia a longo prazo e diminuem a dependência de combustíveis fósseis. No Brasil, a eólica barateou eletricidade no Nordeste. A crítica é que a transição exige subsídios iniciais. Sabia que as renováveis representaram 30% da eletricidade global em 2024?",
+    "palavras_chave": ["renováveis", "mercado", "eólica", "preços", "global"]
+  },
+  {
+    "pergunta": "O que é a certificação de energia renovável?",
+    "resposta": "Certificações, como o REC, garantem que a energia vem de fontes renováveis, incentivando seu uso por empresas. No Brasil, indústrias compram RECs para metas sustentáveis. A crítica é que o sistema pode ser caro para pequenos negócios. Sabia que o Google usa RECs para ser 100% renovável desde 2017?",
+    "palavras_chave": ["certificação", "renováveis", "rec", "sustentabilidade", "google"]
+  },
+  {
+    "pergunta": "Como a energia solar térmica é usada em residências?",
+    "resposta": "A solar térmica aquece água para banhos ou aquecimento doméstico, usando coletores solares. No Brasil, é comum em casas de classe média. A crítica é que depende de sol e espaço para instalação. Sabia que Israel exige coletores solares em novas construções desde os anos 80?",
+    "palavras_chave": ["solar", "térmica", "residências", "coletores", "israel"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de turbinas eólicas flutuantes?",
+    "resposta": "Turbinas eólicas flutuantes são instaladas em águas profundas, ancoradas ao fundo do mar, permitindo explorar ventos offshore mais longe da costa. No Brasil, são estudadas no Nordeste. A crítica é que a tecnologia é cara e complexa. Sabia que a Escócia tem o primeiro parque eólico flutuante do mundo?",
+    "palavras_chave": ["eólica", "flutuante", "offshore", "turbinas", "escócia"]
+  },
+  {
+    "pergunta": "Como a energia renovável pode ser usada em desastres naturais?",
+    "resposta": "Renováveis, como painéis solares portáteis, fornecem energia em áreas atingidas por desastres, onde a rede colapsa. No Brasil, ONGs usam isso em enchentes. A crítica é que a logística de entrega é desafiadora. Sabia que o Haiti usou energia solar após o terremoto de 2010 para hospitais de campanha?",
+    "palavras_chave": ["renováveis", "desastres", "solar", "logística", "haiti"]
+  },
+  {
+    "pergunta": "O que é a economia de baixo carbono e como as renováveis ajudam?",
+    "resposta": "A economia de baixo carbono reduz emissões usando renováveis, eficiência energética e tecnologias verdes. No Brasil, a eólica e solar impulsionam isso. A crítica é que exige mudanças estruturais na indústria. Sabia que a União Europeia tem um plano para ser carbono neutro até 2050?",
+    "palavras_chave": ["baixo carbono", "renováveis", "emissões", "eólica", "união europeia"]
+  },
+  {
+    "pergunta": "O que é energia de gradiente salino e como ela funciona?",
+    "resposta": "A energia de gradiente salino, ou osmótica, gera eletricidade explorando a diferença de salinidade entre água doce e salgada, usando membranas especiais. É experimental e tem alto potencial em estuários. No Brasil, há estudos no Rio Amazonas. A crítica é que a tecnologia é cara e pouco desenvolvida. Sabia que a Noruega testou a primeira usina osmótica do mundo em 2009?",
+    "palavras_chave": ["osmótica", "salinidade", "membranas", "estuários", "noruega"]
+  },
+  {
+    "pergunta": "Como a energia renovável pode impulsionar o turismo sustentável?",
+    "resposta": "Hotéis e resorts usam energia solar ou eólica para reduzir custos e atrair turistas conscientes. No Brasil, pousadas no Pantanal adotam solar. A crítica é que o investimento inicial pode ser alto para pequenos negócios. Sabia que a Costa Rica usa renováveis para promover seu turismo ecológico?",
+    "palavras_chave": ["renováveis", "turismo", "solar", "sustentabilidade", "costa rica"]
+  },
+  {
+    "pergunta": "O que são bombas de calor movidas a renováveis?",
+    "resposta": "Bombas de calor usam energia renovável, como solar ou geotérmica, para aquecer ou resfriar edifícios, sendo mais eficientes que aquecedores tradicionais. No Brasil, são raras, mas crescem em climas frios do Sul. A crítica é que exigem instalação especializada. Sabia que a Suécia usa bombas de calor para 50% do aquecimento residencial?",
+    "palavras_chave": ["bombas de calor", "renováveis", "aquecimento", "eficiência", "suécia"]
+  },
+  {
+    "pergunta": "Por que a reciclagem de painéis solares é um desafio?",
+    "resposta": "Painéis solares contêm materiais como silício e metais que podem ser reciclados, mas o processo é caro e pouco desenvolvido. No Brasil, a reciclagem ainda é incipiente. A crítica é que, sem políticas específicas, os resíduos podem acumular. Sabia que a Europa recicla 80% dos painéis solares por lei?",
+    "palavras_chave": ["reciclagem", "solar", "painéis", "resíduos", "europa"]
+  },
+  {
+    "pergunta": "Como a energia eólica pode ser usada em ilhas?",
+    "resposta": "Ilhas usam turbinas eólicas para reduzir a dependência de diesel, que é caro e poluente. No Brasil, Fernando de Noronha tem projetos eólicos. A crítica é que a manutenção em áreas remotas é complexa. Sabia que as Ilhas Faroé, na Dinamarca, planejam ser 100% renováveis até 2030 com eólica?",
+    "palavras_chave": ["eólica", "ilhas", "turbinas", "diesel", "faroé"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de energia cinética em estradas?",
+    "resposta": "Energia cinética em estradas captura o movimento de veículos ou pedestres para gerar eletricidade, usando placas especiais. É experimental e pouco usada no Brasil. A crítica é que a eficiência ainda é baixa. Sabia que Londres testa calçadas que geram energia com o caminhar das pessoas?",
+    "palavras_chave": ["cinética", "estradas", "energia", "experimental", "londres"]
+  },
+  {
+    "pergunta": "Como a energia renovável pode melhorar a saúde pública?",
+    "resposta": "Renováveis reduzem a poluição do ar ao substituir combustíveis fósseis, diminuindo doenças respiratórias. No Brasil, o etanol de cana ajuda nisso. A crítica é que a transição precisa ser acelerada para impactos maiores. Sabia que a OMS estima que a poluição do ar causa 7 milhões de mortes por ano?",
+    "palavras_chave": ["renováveis", "saúde", "poluição", "etanol", "oms"]
+  },
+  {
+    "pergunta": "O que é um sistema de energia distribuída?",
+    "resposta": "Sistemas de energia distribuída geram eletricidade localmente, como painéis solares em casas, reduzindo perdas na transmissão. No Brasil, a microgeração solar é um exemplo. A crítica é que exige regulação para integração à rede. Sabia que a Alemanha tem 1,7 milhão de sistemas distribuídos solares?",
+    "palavras_chave": ["distribuída", "solar", "microgeração", "rede", "alemanha"]
+  },
+  {
+    "pergunta": "Como a energia hidrelétrica pode ser mais sustentável?",
+    "resposta": "Hidrelétricas podem ser mais sustentáveis com tecnologias como turbinas de baixo impacto e monitoramento ambiental. No Brasil, usinas menores adotam isso. A crítica é que grandes projetos ainda causam danos. Sabia que o Canadá usa hidrelétricas para 60% da sua eletricidade, com foco em sustentabilidade?",
+    "palavras_chave": ["hidrelétrica", "sustentabilidade", "turbinas", "impacto", "canadá"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de células de combustível?",
+    "resposta": "Células de combustível geram eletricidade combinando hidrogênio e oxigênio, emitindo apenas água. Usam renováveis para produzir hidrogênio verde. No Brasil, há testes em ônibus. A crítica é que a infraestrutura de hidrogênio é limitada. Sabia que o Japão tem mais de 300 mil casas com células de combustível?",
+    "palavras_chave": ["células de combustível", "hidrogênio", "verde", "ônibus", "japão"]
+  },
+  {
+    "pergunta": "Como a energia solar pode ser usada em escolas?",
+    "resposta": "Escolas usam painéis solares para reduzir custos de energia e ensinar sustentabilidade. No Brasil, escolas rurais no Nordeste adotam isso. A crítica é que o financiamento para instalação é limitado. Sabia que a Índia instalou painéis solares em 50 mil escolas rurais?",
+    "palavras_chave": ["solar", "escolas", "sustentabilidade", "rural", "índia"]
+  },
+  {
+    "pergunta": "O que é o impacto social das energias renováveis?",
+    "resposta": "Renováveis criam empregos, levam energia a comunidades carentes e reduzem custos a longo prazo. No Brasil, o setor eólico emprega milhares no Nordeste. A crítica é que a transição pode deslocar trabalhadores de setores fósseis. Sabia que o setor renovável global criou 5 milhões de empregos entre 2012 e 2022?",
+    "palavras_chave": ["social", "renováveis", "empregos", "eólica", "transição"]
+  },
+  {
+    "pergunta": "Como a energia eólica pode ser mais silenciosa?",
+    "resposta": "Novas tecnologias, como pás com bordas serrilhadas, reduzem o ruído das turbinas eólicas, minimizando impacto em comunidades. No Brasil, parques no Sul adotam isso. A crítica é que essas pás são mais caras. Sabia que a Holanda usa turbinas silenciosas perto de áreas residenciais?",
+    "palavras_chave": ["eólica", "silenciosa", "turbinas", "ruído", "holanda"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de energia térmica oceânica?",
+    "resposta": "A energia térmica oceânica (OTEC) usa a diferença de temperatura entre águas profundas e superficiais dos oceanos para gerar eletricidade. É promissora em ilhas tropicais, mas cara. No Brasil, há estudos no litoral nordestino. A crítica é que a tecnologia é complexa. Sabia que o Havaí tem uma planta-piloto de OTEC desde os anos 90?",
+    "palavras_chave": ["térmica", "oceânica", "otec", "oceanos", "havaí"]
+  },
+  {
+    "pergunta": "Como a energia renovável pode apoiar a indústria pesada?",
+    "resposta": "Renováveis, como hidrogênio verde e solar, alimentam indústrias como siderurgia e cimento, reduzindo emissões. No Brasil, há projetos com biomassa. A crítica é que a escala ainda é limitada. Sabia que a Austrália usa solar em minas de ferro para cortar emissões?",
+    "palavras_chave": ["renováveis", "indústria", "hidrogênio", "biomassa", "austrália"]
+  },
+  {
+    "pergunta": "O que é a certificação LEED e como ela se relaciona com renováveis?",
+    "resposta": "A certificação LEED avalia construções sustentáveis, incentivando o uso de renováveis como solar e eficiência energética. No Brasil, prédios em São Paulo buscam essa certificação. A crítica é que o processo é caro. Sabia que o Empire State Building tem certificação LEED com energia renovável?",
+    "palavras_chave": ["leed", "sustentabilidade", "renováveis", "construção", "empire state"]
+  },
+  {
+    "pergunta": "Como a energia solar pode ser usada em emergências médicas?",
+    "resposta": "Painéis solares portáteis alimentam equipamentos médicos em áreas sem energia, como em desastres. No Brasil, ONGs usam isso em comunidades isoladas. A crítica é que a logística de transporte é desafiadora. Sabia que Médicos Sem Fronteiras usa solar em hospitais de campanha na África?",
+    "palavras_chave": ["solar", "emergências", "médicas", "portáteis", "áfrica"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de armazenamento térmico?",
+    "resposta": "Armazenamento térmico guarda calor de fontes como energia solar para uso posterior, como em aquecimento. No Brasil, é pouco usado, mas cresce em usinas heliotérmicas. A crítica é que exige materiais caros. Sabia que a Espanha usa armazenamento térmico para gerar energia solar à noite?",
+    "palavras_chave": ["armazenamento", "térmico", "solar", "heliotérmica", "espanha"]
+  },
+  {
+    "pergunta": "Como a energia renovável pode reduzir custos em cidades?",
+    "resposta": "Cidades usam renováveis, como solar em prédios públicos, para cortar gastos com energia. No Brasil, Belo Horizonte testa isso. A crítica é que a infraestrutura inicial é cara. Sabia que Melbourne, na Austrália, usa 100% de energia renovável em seus edifícios municipais?",
+    "palavras_chave": ["renováveis", "cidades", "solar", "custos", "melbourne"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de energia eólica de alta altitude?",
+    "resposta": "Eólica de alta altitude usa pipas ou drones para captar ventos mais fortes em altitudes elevadas. É experimental e promete alta eficiência. No Brasil, há estudos iniciais. A crítica é que a tecnologia ainda é instável. Sabia que a empresa Makani, do Google, testou pipas eólicas nos EUA?",
+    "palavras_chave": ["eólica", "alta altitude", "pipas", "experimental", "makani"]
+  },
+  {
+    "pergunta": "Como a energia renovável pode ajudar na conservação de florestas?",
+    "resposta": "Renováveis substituem lenha e carvão, reduzindo desmatamento. No Brasil, projetos solares em comunidades amazônicas evitam corte de árvores. A crítica é que o acesso a essas tecnologias é limitado. Sabia que a Amazônia perdeu 11% de sua área entre 1985 e 2020 por desmatamento?",
+    "palavras_chave": ["renováveis", "florestas", "solar", "desmatamento", "amazônia"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de bioenergia com captura de carbono?",
+    "resposta": "Bioenergia com captura de carbono (BECCS) usa biomassa para gerar energia e captura o CO2 emitido, armazenando-o. É promissora para emissões negativas. No Brasil, há testes com biomassa de cana. A crítica é que exige alta tecnologia. Sabia que o Reino Unido tem uma usina BECCS em operação?",
+    "palavras_chave": ["bioenergia", "captura", "carbono", "beccs", "reino unido"]
+  },
+  {
+    "pergunta": "Como a energia eólica pode ser mais acessível financeiramente?",
+    "resposta": "Turbinas menores e modelos de leasing tornam a eólica mais acessível para comunidades e pequenos negócios. No Brasil, cooperativas no Sul adotam isso. A crítica é que a manutenção ainda é um custo significativo. Sabia que a Índia usa leasing de turbinas para fazendas eólicas comunitárias?",
+    "palavras_chave": ["eólica", "acessível", "leasing", "comunitária", "índia"]
+  },
+  {
+    "pergunta": "O que é a integração de renováveis em redes urbanas?",
+    "resposta": "Integração de renováveis em redes urbanas conecta fontes como solar e eólica à infraestrutura elétrica das cidades, usando redes inteligentes. No Brasil, cidades como Rio testam isso. A crítica é que exige modernização da rede. Sabia que Tóquio planeja integrar 50% de renováveis em sua rede até 2030?",
+    "palavras_chave": ["integração", "renováveis", "urbanas", "redes", "tóquio"]
+  },
+  {
+    "pergunta": "Como a educação sobre renováveis impulsiona sua adoção?",
+    "resposta": "Educação sobre renováveis aumenta a conscientização e incentiva o uso, como em programas escolares sobre energia solar. No Brasil, ONGs promovem isso em comunidades. A crítica é que falta escala em programas educacionais. Sabia que a Austrália incluiu renováveis no currículo escolar nacional?",
+    "palavras_chave": ["educação", "renováveis", "solar", "conscientização", "austrália"]
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "O que é um sistema operacional e qual é o seu papel em um computador?",
+    "resposta": "Um sistema operacional é como o maestro de uma orquestra: ele gerencia todos os recursos do computador, desde o hardware até os programas que você usa. Ele faz a ponte entre o usuário e os componentes físicos, como processador, memória e disco rígido, garantindo que tudo funcione em harmonia. Por exemplo, o Windows organiza seus arquivos, enquanto o Linux dá mais liberdade para personalização. Sem um sistema operacional, o computador seria só um monte de circuitos sem direção. Uma análise interessante é que sistemas como o Linux, por serem de código aberto, permitem que desenvolvedores estudem e modifiquem seu funcionamento, o que fomenta inovação. Sabia que o primeiro sistema operacional, o GM-NAA I/O, foi criado em 1956 para um computador da IBM?",
+    "palavras_chave": ["sistema operacional", "hardware", "software", "linux", "windows"]
+  },
+  {
+    "pergunta": "Por que o Linux é tão popular entre desenvolvedores?",
+    "resposta": "O Linux é um queridinho dos desenvolvedores porque é open source, ou seja, qualquer um pode olhar o código, mexer nele e adaptá-lo. Isso dá uma liberdade enorme para criar ferramentas personalizadas. Além disso, ele é super estável e roda bem em servidores, como os que sustentam a internet. Pense no GitHub ou na Amazon: muitos dos seus servidores usam Linux. A crítica aqui é que, apesar da flexibilidade, a curva de aprendizado pode assustar iniciantes. Sabia que o Linux foi criado por Linus Torvalds em 1991 como um projeto universitário, inspirado no Unix?",
+    "palavras_chave": ["linux", "open source", "desenvolvedores", "servidores", "unix"]
+  },
+  {
+    "pergunta": "O que diferencia uma linguagem de programação compilada de uma interpretada?",
+    "resposta": "Uma linguagem compilada, como C++, transforma o código em linguagem de máquina antes de executá-lo, criando um arquivo executável. Já uma interpretada, como Python, executa o código linha a linha, sem precisar de um arquivo pré-compilado. A compilada é mais rápida na execução, mas exige recompilação a cada mudança. A interpretada é mais flexível para testes rápidos, mas pode ser mais lenta. Por exemplo, jogos AAA usam C++ pela performance, enquanto Python brilha em scripts rápidos. A crítica é que escolher entre elas depende do projeto: velocidade ou agilidade? Sabia que o Python, apesar de interpretado, pode usar compiladores como PyPy para ficar mais rápido?",
+    "palavras_chave": ["compilada", "interpretada", "python", "c++", "performance"]
+  },
+  {
+    "pergunta": "Como o Python se tornou uma das linguagens mais populares do mundo?",
+    "resposta": "O Python conquistou o mundo pela sua simplicidade e versatilidade. Ele tem uma sintaxe clara, quase como escrever em inglês, o que facilita para iniciantes. Além disso, ele é usado em tudo: de ciência de dados, com bibliotecas como Pandas, até inteligência artificial, com TensorFlow. Empresas como Google e Netflix usam Python em seus sistemas. A crítica é que, por ser interpretado, ele pode ser lento para aplicações que exigem alta performance. Sabia que o Python foi criado por Guido van Rossum em 1989, inspirado por um programa de comédia britânico chamado Monty Python?",
+    "palavras_chave": ["python", "simplicidade", "ciência de dados", "inteligência artificial", "monty python"]
+  },
+  {
+    "pergunta": "O que é o conceito de 'open source' em software?",
+    "resposta": "Open source é quando o código-fonte de um software é público, permitindo que qualquer pessoa o estude, modifique ou distribua. É como uma receita de bolo compartilhada: você pode seguir, adaptar ou criar algo novo. Isso incentiva colaboração global, como no caso do Firefox ou do Linux. A crítica é que, às vezes, projetos open source podem sofrer com falta de suporte oficial. Sabia que o termo 'open source' foi criado em 1998, durante uma reunião para promover softwares livres após o sucesso do Netscape?",
+    "palavras_chave": ["open source", "código-fonte", "colaboração", "linux", "firefox"]
+  },
+  {
+    "pergunta": "Qual é a diferença entre um aplicativo nativo e um aplicativo web?",
+    "resposta": "Um aplicativo nativo é feito sob medida para uma plataforma, como o iOS ou Android, e roda diretamente no dispositivo, com acesso total aos recursos, como câmera ou GPS. Já um aplicativo web roda no navegador, como o Google Docs, e é mais fácil de acessar, mas depende de internet e tem limitações. Por exemplo, o Spotify tem um app nativo para melhor desempenho, mas também uma versão web. A crítica é que apps nativos são mais caros de desenvolver, enquanto apps web podem ser menos fluidos. Sabia que o primeiro aplicativo web amplamente usado foi o Hotmail, lançado em 1996?",
+    "palavras_chave": ["aplicativo nativo", "aplicativo web", "plataforma", "navegador", "hotmail"]
+  },
+  {
+    "pergunta": "O que faz o JavaScript ser essencial para a web moderna?",
+    "resposta": "O JavaScript é o coração da web interativa. Ele permite que sites sejam dinâmicos, com coisas como botões que respondem ao clique ou formulários que validam dados em tempo real. Pense no Gmail: ele atualiza sua caixa de entrada sem recarregar a página, graças ao JavaScript. Ele também é usado em servidores com Node.js. A crítica é que o JavaScript pode ser complicado de gerenciar em projetos grandes. Sabia que o JavaScript foi criado em apenas 10 dias por Brendan Eich em 1995, inicialmente chamado de Mocha?",
+    "palavras_chave": ["javascript", "web interativa", "node.js", "navegador", "mocha"]
+  },
+  {
+    "pergunta": "Por que o Windows é tão amplamente usado em computadores pessoais?",
+    "resposta": "O Windows domina porque é fácil de usar, compatível com quase tudo e vem pré-instalado na maioria dos PCs. Desde os anos 90, a Microsoft investiu em parcerias com fabricantes, garantindo que o Windows fosse o padrão. Ele suporta desde jogos até softwares corporativos, como o Microsoft Office. A crítica é que ele pode ser vulnerável a vírus e mais caro que alternativas como o Linux. Sabia que o Windows 95 foi um marco por introduzir o menu Iniciar, que ainda influencia o design hoje?",
+    "palavras_chave": ["windows", "compatibilidade", "microsoft", "menu iniciar", "pc"]
+  },
+  {
+    "pergunta": "O que é um compilador e como ele funciona?",
+    "resposta": "Um compilador é como um tradutor que converte o código que você escreve, em linguagens como C ou Java, em algo que o computador entende: linguagem de máquina. Ele analisa o código, verifica erros e gera um arquivo executável. Por exemplo, o GCC compila programas em C para rodar em diferentes sistemas. A crítica é que erros de compilação podem ser difíceis de debugar. Sabia que o primeiro compilador, chamado A-0, foi criado por Grace Hopper em 1952?",
+    "palavras_chave": ["compilador", "linguagem de máquina", "gcc", "código", "grace hopper"]
+  },
+  {
+    "pergunta": "O que é o conceito de versionamento de software, como o Git?",
+    "resposta": "Versionamento é como um diário do seu projeto: ele registra todas as mudanças no código, permitindo que você volte atrás, colabore com outros e acompanhe o progresso. O Git, criado por Linus Torvalds, é a ferramenta mais usada para isso, com plataformas como GitHub facilitando o trabalho em equipe. Por exemplo, times de desenvolvedores usam o Git para evitar conflitos em projetos grandes. A crítica é que o Git pode ser intimidante para iniciantes. Sabia que o Git foi criado em 2005 após um problema com outro sistema de versionamento que o Linux usava?",
+    "palavras_chave": ["versionamento", "git", "github", "colaboração", "linus torvalds"]
+  },
+  {
+    "pergunta": "Por que o C++ continua sendo usado em projetos de alta performance?",
+    "resposta": "O C++ é como um carro de corrida: rápido, mas exige um motorista habilidoso. Ele dá controle total sobre o hardware, o que é crucial para jogos, sistemas embarcados e softwares como o Adobe Photoshop. Ele é compilado, o que garante velocidade, mas sua complexidade pode levar a erros. A crítica é que linguagens mais modernas, como Rust, estão ganhando espaço por serem mais seguras. Sabia que o C++ foi criado por Bjarne Stroustrup em 1985 como uma evolução do C?",
+    "palavras_chave": ["c++", "performance", "jogos", "rust", "bjarne stroustrup"]
+  },
+  {
+    "pergunta": "O que é uma API e por que ela é tão importante?",
+    "resposta": "Uma API, ou Interface de Programação de Aplicativos, é como um garçom: ela leva pedidos de um sistema para outro e traz as respostas. Por exemplo, quando você usa o Google Maps em um app de delivery, é a API que conecta os dois. Ela permite que diferentes softwares conversem, economizando tempo e código. A crítica é que APIs mal projetadas podem ser difíceis de usar. Sabia que a primeira API pública amplamente usada foi a do eBay, lançada em 2000?",
+    "palavras_chave": ["api", "integração", "google maps", "sistemas", "ebay"]
+  },
+  {
+    "pergunta": "Como o macOS se diferencia do Windows em termos de design?",
+    "resposta": "O macOS, da Apple, foca em simplicidade e integração com o ecossistema da marca, como iPhones e iPads. Ele tem uma interface elegante e é otimizado para o hardware da Apple, garantindo fluidez. Já o Windows é mais universal, rodando em vários dispositivos, mas pode parecer menos polido. Por exemplo, o macOS é amado por designers por sua consistência visual. A crítica é que o macOS é menos flexível para customização. Sabia que o macOS original, lançado em 2001, foi baseado no NeXTSTEP, sistema criado por Steve Jobs?",
+    "palavras_chave": ["macos", "windows", "design", "apple", "nextstep"]
+  },
+  {
+    "pergunta": "O que é um banco de dados relacional e como ele funciona?",
+    "resposta": "Um banco de dados relacional organiza informações em tabelas, onde cada tabela tem colunas e linhas, como uma planilha. Essas tabelas se conectam por chaves, permitindo consultas complexas. Por exemplo, o MySQL é usado por sites como o WordPress para gerenciar posts e usuários. Ele é eficiente, mas pode ser lento em escala massiva, onde bancos NoSQL brilham. Sabia que o conceito de bancos relacionais foi proposto por Edgar Codd em 1970, revolucionando a gestão de dados?",
+    "palavras_chave": ["banco de dados", "relacional", "mysql", "tabelas", "edgar codd"]
+  },
+  {
+    "pergunta": "Por que o Java é tão usado em aplicações corporativas?",
+    "resposta": "O Java é como um canivete suíço para empresas: é robusto, portável e roda em qualquer sistema com a Máquina Virtual Java (JVM). Ele é usado em bancos, como o Santander, e em sistemas como o Android. Sua sintaxe é clara, mas pode ser verbosa, o que alguns criticam. A força do Java está na sua comunidade e bibliotecas. Sabia que o Java foi criado pela Sun Microsystems em 1995 e inicialmente pensado para TVs interativas?",
+    "palavras_chave": ["java", "corporativo", "jvm", "android", "sun microsystems"]
+  },
+  {
+    "pergunta": "O que é um framework de desenvolvimento e por que ele é útil?",
+    "resposta": "Um framework é como um kit de ferramentas que já traz soluções prontas para tarefas comuns no desenvolvimento de software. Por exemplo, o Django, para Python, facilita criar sites com login e banco de dados. Ele economiza tempo, mas pode limitar a criatividade se for muito rígido. A crítica é que frameworks podem ser complexos para iniciantes. Sabia que o Ruby on Rails, um framework famoso, inspirou o desenvolvimento do Twitter em 2006?",
+    "palavras_chave": ["framework", "django", "desenvolvimento", "ruby on rails", "twitter"]
+  },
+  {
+    "pergunta": "O que significa 'escalabilidade' em sistemas de software?",
+    "resposta": "Escalabilidade é a capacidade de um sistema crescer sem perder desempenho. Pense no Netflix: ele suporta milhões de usuários porque é escalável, com servidores que se adaptam à demanda. Sistemas escaláveis podem ser horizontais (mais máquinas) ou verticais (máquinas mais potentes). A crítica é que escalar exige planejamento caro. Sabia que o Google usa milhares de servidores para escalar seus serviços, como o YouTube?",
+    "palavras_chave": ["escalabilidade", "netflix", "servidores", "google", "desempenho"]
+  },
+  {
+    "pergunta": "Como o Node.js mudou o desenvolvimento web?",
+    "resposta": "O Node.js trouxe o JavaScript para o lado do servidor, permitindo que o mesmo código rode no navegador e no backend. Isso agilizou o desenvolvimento, como no caso do PayPal, que usa Node.js para transações rápidas. Ele é leve e assíncrono, mas pode ser difícil de gerenciar em sistemas complexos. Sabia que o Node.js, lançado em 2009 por Ryan Dahl, foi inspirado por sistemas de eventos como o Nginx?",
+    "palavras_chave": ["node.js", "javascript", "backend", "paypal", "eventos"]
+  },
+  {
+    "pergunta": "O que é a computação em nuvem e como ela usa sistemas operacionais?",
+    "resposta": "A computação em nuvem é como alugar computadores remotos para rodar seus programas, em vez de ter máquinas próprias. Plataformas como AWS usam sistemas operacionais como Linux para gerenciar servidores virtuais. Isso permite escalabilidade, como no caso do Dropbox. A crítica é que a nuvem pode ser cara e depende de internet. Sabia que a AWS, lançada em 2006, foi pioneira na popularização da nuvem?",
+    "palavras_chave": ["nuvem", "aws", "linux", "escalabilidade", "dropbox"]
+  },
+  {
+    "pergunta": "Por que o SQL é tão importante para bancos de dados?",
+    "resposta": "O SQL é a linguagem padrão para gerenciar bancos de dados relacionais, permitindo que você crie, consulte e manipule dados com comandos simples. Por exemplo, com SQL, o Facebook organiza bilhões de posts. Ele é poderoso, mas pode ser limitado para dados não estruturados. A crítica é que aprender SQL exige prática. Sabia que o SQL foi criado na IBM nos anos 70, inspirado por um artigo de Edgar Codd?",
+    "palavras_chave": ["sql", "banco de dados", "relacional", "facebook", "edgar codd"]
+  },
+  {
+    "pergunta": "O que é um contêiner, como o Docker, e para que serve?",
+    "resposta": "Um contêiner é como uma caixa que empacota um software com tudo que ele precisa para rodar: código, bibliotecas e configurações. O Docker torna isso fácil, garantindo que o programa funcione igual em qualquer máquina. Por exemplo, a Netflix usa Docker para deploy de serviços. A crítica é que gerenciar muitos contêineres pode ser complexo. Sabia que o Docker foi lançado em 2013 e revolucionou o deploy de aplicações?",
+    "palavras_chave": ["docker", "contêiner", "deploy", "netflix", "portabilidade"]
+  },
+  {
+    "pergunta": "Como o Rust está ganhando espaço entre linguagens de programação?",
+    "resposta": "O Rust é amado por combinar performance com segurança. Ele evita erros comuns, como falhas de memória, que são um problema em C++. Por isso, empresas como Mozilla e Microsoft o adotaram. Por exemplo, o Firefox usa Rust para partes críticas. A crítica é que ele tem uma curva de aprendizado alta. Sabia que o Rust foi eleito a linguagem mais amada por desenvolvedores no Stack Overflow por anos seguidos?",
+    "palavras_chave": ["rust", "segurança", "performance", "firefox", "mozilla"]
+  },
+  {
+    "pergunta": "O que é um sistema de arquivos e como ele funciona?",
+    "resposta": "Um sistema de arquivos é como uma biblioteca que organiza os dados no seu disco rígido. Ele decide como arquivos são armazenados, nomeados e acessados. Por exemplo, o NTFS, usado pelo Windows, suporta arquivos grandes e permissões. Já o ext4, comum no Linux, é rápido e confiável. A crítica é que sistemas diferentes podem ser incompatíveis. Sabia que o FAT32, usado em pendrives, foi criado pela Microsoft nos anos 90?",
+    "palavras_chave": ["sistema de arquivos", "ntfs", "ext4", "fat32", "armazenamento"]
+  },
+  {
+    "pergunta": "Por que o Android é baseado no Linux?",
+    "resposta": "O Android usa o Linux como base porque ele é open source, estável e flexível. O Google adaptou o kernel Linux para rodar em smartphones, aproveitando sua eficiência e segurança. Isso permite que o Android seja usado em dispositivos variados, de celulares a TVs. A crítica é que a fragmentação do Android complica atualizações. Sabia que o Android foi lançado em 2008 e hoje domina o mercado de smartphones?",
+    "palavras_chave": ["android", "linux", "smartphones", "google", "open source"]
+  },
+  {
+    "pergunta": "O que é um IDE e como ele ajuda programadores?",
+    "resposta": "Um IDE, ou Ambiente de Desenvolvimento Integrado, é como uma oficina completa para programadores. Ele reúne editor de código, depurador e ferramentas de teste em um só lugar. Por exemplo, o Visual Studio Code é leve e suporta várias linguagens. Ele ajuda a encontrar erros e autocompletar código. A crítica é que IDEs podem ser pesados em máquinas mais simples. Sabia que o primeiro IDE, o Turbo Pascal, foi lançado em 1983?",
+    "palavras_chave": ["ide", "visual studio code", "programação", "depurador", "turbo pascal"]
+  },
+  {
+    "pergunta": "O que é um microserviço e como ele é usado em software?",
+    "resposta": "Um microserviço é como dividir um grande projeto em várias peças menores e independentes, cada uma fazendo uma tarefa específica. Por exemplo, na Amazon, um microserviço pode cuidar só do carrinho de compras, enquanto outro gerencia os pagamentos. Eles se comunicam por APIs, o que torna o sistema mais flexível e fácil de escalar. A crítica é que gerenciar muitos microserviços pode complicar a manutenção. Sabia que o Netflix foi um dos pioneiros em adotar microserviços, começando em 2008, para suportar seu crescimento explosivo?",
+    "palavras_chave": ["microserviço", "api", "escalabilidade", "netflix", "amazon"]
+  },
+  {
+    "pergunta": "Por que o Go é tão usado em projetos de infraestrutura na nuvem?",
+    "resposta": "O Go, criado pelo Google, é adorado por sua simplicidade e eficiência. Ele compila rápido, é leve e ideal para sistemas que precisam de alta performance, como servidores na nuvem. Ferramentas como Docker e Kubernetes foram escritas em Go. A crítica é que ele pode ser limitado para projetos que exigem mais flexibilidade, como interfaces gráficas. Sabia que o Go, lançado em 2009, foi inspirado por linguagens como C, mas com foco em concorrência?",
+    "palavras_chave": ["go", "nuvem", "docker", "kubernetes", "performance"]
+  },
+  {
+    "pergunta": "O que é um algoritmo de hash e como ele é usado em software?",
+    "resposta": "Um algoritmo de hash é como uma máquina que transforma dados, como uma senha, em uma sequência única de caracteres. Ele é usado para proteger informações, como em bancos de dados, ou para verificar integridade de arquivos. Por exemplo, o SHA-256 é usado em criptomoedas como o Bitcoin. A crítica é que colisões, quando dados diferentes geram o mesmo hash, podem ser um problema. Sabia que o MD5, um algoritmo de hash antigo, foi considerado inseguro em 2004 por causa de vulnerabilidades?",
+    "palavras_chave": ["hash", "segurança", "sha-256", "bitcoin", "md5"]
+  },
+  {
+    "pergunta": "Como o PHP continua relevante para desenvolvimento web?",
+    "resposta": "O PHP ainda é relevante porque é fácil de aprender e suporta sistemas como o WordPress, que alimenta 40% da web. Ele é usado para criar sites dinâmicos, como blogs e e-commerces. Apesar de críticas por sua sintaxe inconsistente, melhorias recentes, como no PHP 8, trouxeram mais desempenho. Sabia que o PHP, criado por Rasmus Lerdorf em 1994, começou como um projeto pessoal para rastrear visitas no seu site?",
+    "palavras_chave": ["php", "wordpress", "web", "desempenho", "rasmus lerdorf"]
+  },
+  {
+    "pergunta": "O que é o conceito de multithreading em programação?",
+    "resposta": "Multithreading é como ter várias linhas de trabalho dentro de um programa, permitindo que ele faça várias coisas ao mesmo tempo. Por exemplo, um jogo pode usar uma thread para renderizar gráficos e outra para processar sons. É essencial para performance, mas pode causar erros se as threads não forem bem sincronizadas. A crítica é que debugá-las é um desafio. Sabia que o Java foi uma das primeiras linguagens a popularizar multithreading, nos anos 90?",
+    "palavras_chave": ["multithreading", "performance", "java", "sincronização", "threads"]
+  },
+  {
+    "pergunta": "Por que o MySQL é tão popular para bancos de dados?",
+    "resposta": "O MySQL é popular por ser gratuito, confiável e fácil de usar. Ele suporta sites como YouTube e Twitter, gerenciando grandes quantidades de dados com rapidez. Sua comunidade ativa e integração com linguagens como PHP o tornam ideal para web. A crítica é que ele pode não ser o melhor para dados não estruturados. Sabia que o MySQL foi criado na Suécia em 1995 e hoje pertence à Oracle?",
+    "palavras_chave": ["mysql", "banco de dados", "web", "oracle", "php"]
+  },
+  {
+    "pergunta": "O que é o conceito de DevOps e como ele usa software?",
+    "resposta": "DevOps é uma cultura que une desenvolvimento (Dev) e operações (Ops) para agilizar a entrega de software. Ferramentas como Jenkins e Docker ajudam a automatizar testes e deploys. Por exemplo, a Amazon usa DevOps para lançar atualizações várias vezes ao dia. A crítica é que implementar DevOps exige mudanças culturais profundas. Sabia que o termo DevOps surgiu em 2009, durante uma conferência chamada DevOpsDays na Bélgica?",
+    "palavras_chave": ["devops", "automação", "docker", "jenkins", "amazon"]
+  },
+  {
+    "pergunta": "Como o TypeScript melhora o desenvolvimento em JavaScript?",
+    "resposta": "O TypeScript é como um JavaScript com superpoderes: ele adiciona tipagem estática, o que ajuda a evitar erros antes de executar o código. É usado em projetos grandes, como o Angular, para tornar o código mais organizado e fácil de manter. A crítica é que ele adiciona uma camada extra de complexidade. Sabia que o TypeScript foi criado pela Microsoft em 2012 e é usado por 60% dos desenvolvedores JavaScript, segundo pesquisas recentes?",
+    "palavras_chave": ["typescript", "javascript", "tipagem", "angular", "microsoft"]
+  },
+  {
+    "pergunta": "O que é um sistema operacional de tempo real?",
+    "resposta": "Um sistema operacional de tempo real é projetado para responder a eventos em um tempo exato, sem atrasos. É usado em carros autônomos ou equipamentos médicos, onde milissegundos importam. Por exemplo, o FreeRTOS é popular em dispositivos IoT. A crítica é que esses sistemas são complexos de programar. Sabia que o primeiro sistema de tempo real, o RTOS, foi usado em missões Apollo da NASA nos anos 60?",
+    "palavras_chave": ["tempo real", "freertos", "iot", "nasa", "carros autônomos"]
+  },
+  {
+    "pergunta": "Por que o Ruby é conhecido pelo framework Rails?",
+    "resposta": "O Ruby ganhou fama pelo Ruby on Rails, um framework que simplifica criar aplicativos web robustos, como o Twitter nos seus primeiros anos. A linguagem é elegante e foca na produtividade do programador, com uma sintaxe quase poética. A crítica é que o Ruby pode ser mais lento que outras linguagens. Sabia que o Ruby foi criado por Yukihiro Matsumoto em 1995, com o lema 'fazer programadores felizes'?",
+    "palavras_chave": ["ruby", "rails", "web", "produtividade", "yukihiro matsumoto"]
+  },
+  {
+    "pergunta": "O que é um banco de dados NoSQL e quando usá-lo?",
+    "resposta": "Um banco NoSQL organiza dados de forma flexível, sem tabelas rígidas, ideal para dados não estruturados, como posts de redes sociais. O MongoDB, por exemplo, é usado pelo LinkedIn para gerenciar perfis. Ele é escalável, mas pode ser menos eficiente para consultas complexas. A crítica é que exige planejamento cuidadoso para consistência. Sabia que o termo NoSQL surgiu em 1998, mas só ganhou força com a web 2.0 nos anos 2000?",
+    "palavras_chave": ["nosql", "mongodb", "escalabilidade", "linkedin", "web 2.0"]
+  },
+  {
+    "pergunta": "Como o Kubernetes gerencia aplicações em contêineres?",
+    "resposta": "O Kubernetes é como um maestro que orquestra contêineres, como os do Docker, garantindo que eles rodem, escalem e se recuperem de falhas automaticamente. Empresas como Spotify usam Kubernetes para gerenciar milhares de serviços. Ele é poderoso, mas sua complexidade assusta iniciantes. Sabia que o Kubernetes foi criado pelo Google em 2014, baseado em sua experiência com sistemas internos como o Borg?",
+    "palavras_chave": ["kubernetes", "contêineres", "docker", "spotify", "google"]
+  },
+  {
+    "pergunta": "O que é programação orientada a objetos e por que ela é útil?",
+    "resposta": "Programação orientada a objetos (POO) organiza o código em 'objetos' que combinam dados e funções, como uma pessoa com nome e ações. Linguagens como Java e Python usam POO para criar sistemas modulares, como apps Android. Ela facilita manutenção, mas pode ser exagerada para projetos simples. Sabia que a POO foi popularizada pelo Smalltalk nos anos 70, influenciando linguagens modernas?",
+    "palavras_chave": ["poo", "java", "python", "modularidade", "smalltalk"]
+  },
+  {
+    "pergunta": "Por que o Visual Studio Code é tão popular entre desenvolvedores?",
+    "resposta": "O Visual Studio Code é um editor leve, gratuito e cheio de extensões que o tornam versátil para qualquer linguagem, de Python a JavaScript. Ele tem recursos como autocompletar e integração com Git. A crítica é que tantas extensões podem deixá-lo lento. Sabia que o VS Code, lançado pela Microsoft em 2015, é usado por mais de 70% dos desenvolvedores, segundo pesquisas do Stack Overflow?",
+    "palavras_chave": ["visual studio code", "editor", "extensões", "git", "microsoft"]
+  },
+  {
+    "pergunta": "O que é um sistema operacional embarcado?",
+    "resposta": "Um sistema operacional embarcado é projetado para dispositivos específicos, como roteadores ou smart TVs, com recursos limitados. Ele é leve e otimizado, como o FreeRTOS em sensores IoT. A crítica é que desenvolver para esses sistemas exige conhecimento profundo de hardware. Sabia que o Windows CE, lançado em 1996, foi um dos primeiros sistemas embarcados para dispositivos móveis?",
+    "palavras_chave": ["embarcado", "freertos", "iot", "hardware", "windows ce"]
+  },
+  {
+    "pergunta": "Como o Swift se tornou a linguagem principal para apps iOS?",
+    "resposta": "O Swift, criado pela Apple em 2014, é rápido, seguro e fácil de aprender, substituindo o Objective-C para desenvolver apps iOS, como os da App Store. Ele tem uma sintaxe clara e evita erros comuns, como falhas de memória. A crítica é que só funciona bem no ecossistema Apple. Sabia que o Swift foi tornado open source em 2015, permitindo seu uso em servidores Linux?",
+    "palavras_chave": ["swift", "ios", "apple", "open source", "objective-c"]
+  },
+  {
+    "pergunta": "O que é um depurador e como ele ajuda programadores?",
+    "resposta": "Um depurador é uma ferramenta que ajuda a encontrar e corrigir erros no código, como um detetive. Ele permite pausar a execução, inspecionar variáveis e seguir o fluxo do programa. Por exemplo, o GDB é usado para depurar programas em C. A crítica é que depuradores podem ser complexos para iniciantes. Sabia que o primeiro depurador, o DDT, foi criado nos anos 50 para computadores mainframe?",
+    "palavras_chave": ["depurador", "gdb", "erros", "programação", "ddt"]
+  },
+  {
+    "pergunta": "Por que o PostgreSQL é considerado um banco de dados robusto?",
+    "resposta": "O PostgreSQL é amado por sua confiabilidade, suporte a recursos avançados como JSON e extensibilidade. Ele é usado por empresas como Uber para gerenciar dados complexos. Comparado ao MySQL, ele lida melhor com consultas pesadas, mas pode ser mais difícil de configurar. Sabia que o PostgreSQL, lançado em 1986, começou como um projeto acadêmico na Universidade de Berkeley?",
+    "palavras_chave": ["postgresql", "banco de dados", "uber", "json", "berkeley"]
+  },
+  {
+    "pergunta": "O que é um sistema de controle de versão distribuído?",
+    "resposta": "Um sistema de controle de versão distribuído, como o Git, permite que cada desenvolvedor tenha uma cópia completa do projeto, facilitando o trabalho offline e a colaboração. Diferente de sistemas centralizados, como o SVN, ele é mais resiliente. A crítica é que exige aprendizado para gerenciar conflitos. Sabia que o Git foi inspirado pelo BitKeeper, usado no desenvolvimento do Linux até 2005?",
+    "palavras_chave": ["git", "controle de versão", "distribuído", "svn", "bitkeeper"]
+  },
+  {
+    "pergunta": "Como o Flutter facilita o desenvolvimento de aplicativos multiplataforma?",
+    "resposta": "O Flutter, criado pelo Google, permite criar apps para iOS, Android e web com um único código, usando a linguagem Dart. Ele é rápido e tem uma interface fluida, como no app do Alibaba. A crítica é que os apps podem ser maiores que os nativos. Sabia que o Flutter, lançado em 2017, ganhou popularidade por sua biblioteca de widgets personalizáveis?",
+    "palavras_chave": ["flutter", "dart", "multiplataforma", "alibaba", "widgets"]
+  },
+  {
+    "pergunta": "O que é um pipeline de CI/CD e por que ele é importante?",
+    "resposta": "Um pipeline de CI/CD (Integração Contínua/Entrega Contínua) automatiza testes e deploys de software, garantindo que o código esteja sempre pronto para produção. Ferramentas como Jenkins e GitHub Actions são usadas por empresas como Spotify. Ele reduz erros, mas configurar pipelines exige tempo. Sabia que o conceito de CI/CD foi popularizado pela Amazon nos anos 2000, com deploys diários?",
+    "palavras_chave": ["ci/cd", "jenkins", "github actions", "spotify", "automação"]
+  },
+  {
+    "pergunta": "Por que o R é usado em ciência de dados?",
+    "resposta": "O R é uma linguagem focada em estatística e visualização de dados, ideal para cientistas de dados. Ele tem bibliotecas como ggplot2 para gráficos incríveis e é usado em pesquisas acadêmicas e empresas como Airbnb. A crítica é que pode ser lento para grandes volumes de dados. Sabia que o R, lançado em 1993, foi inspirado pela linguagem S, criada na Bell Labs?",
+    "palavras_chave": ["r", "ciência de dados", "ggplot2", "airbnb", "estatística"]
+  },
+  {
+    "pergunta": "O que é um hypervisor e como ele é usado em virtualização?",
+    "resposta": "Um hypervisor é um software que cria e gerencia máquinas virtuais, permitindo que vários sistemas operacionais rodem na mesma máquina física. Por exemplo, o VMware é usado em data centers para hospedar servidores Linux e Windows. Ele é eficiente, mas consome recursos. Sabia que o conceito de virtualização começou nos anos 60 com o IBM CP-40?",
+    "palavras_chave": ["hypervisor", "virtualização", "vmware", "servidores", "ibm"]
+  },
+  {
+    "pergunta": "Como o Kotlin se tornou popular para desenvolvimento Android?",
+    "resposta": "O Kotlin, criado pela JetBrains, é uma linguagem moderna que substitui o Java em muitos projetos Android por ser mais concisa e segura. Ele é usado por apps como o Pinterest. O Google o adotou como linguagem preferida para Android em 2017. A crítica é que a migração de Java para Kotlin pode ser trabalhosa. Sabia que o Kotlin, lançado em 2011, foi inspirado por Scala e Groovy?",
+    "palavras_chave": ["kotlin", "android", "java", "pinterest", "jetbrains"]
+  },
+  {
+    "pergunta": "O que é um sistema de gerenciamento de pacotes e por que ele é útil?",
+    "resposta": "Um sistema de gerenciamento de pacotes, como o npm para JavaScript ou pip para Python, organiza e instala bibliotecas e dependências automaticamente. Ele facilita projetos como o desenvolvimento de um site com React. A crítica é que dependências podem introduzir vulnerabilidades. Sabia que o npm, lançado em 2010, é usado por mais de 11 milhões de desenvolvedores no mundo?",
+    "palavras_chave": ["gerenciador de pacotes", "npm", "pip", "react", "dependências"]
+  },
+  {
+    "pergunta": "O que é um sistema operacional de código aberto e quais são seus benefícios?",
+    "resposta": "Um sistema operacional de código aberto, como o Linux, tem seu código-fonte disponível para qualquer um modificar ou distribuir. Isso permite personalização, como no Ubuntu, usado em servidores e desktops. Benefícios incluem custo zero, segurança aprimorada pela revisão coletiva e flexibilidade. A crítica é que o suporte técnico pode ser limitado sem uma empresa por trás. Sabia que o Debian, um dos sistemas operacionais de código aberto mais antigos, foi lançado em 1993 e ainda é mantido por uma comunidade global?",
+    "palavras_chave": ["código aberto", "linux", "ubuntu", "debian", "segurança"]
+  },
+  {
+    "pergunta": "Como o C# é usado no desenvolvimento de jogos?",
+    "resposta": "O C# brilha no desenvolvimento de jogos por causa do Unity, um motor gráfico popular. Jogos como 'Among Us' foram feitos com C# no Unity, que é fácil de aprender e suporta múltiplas plataformas. Ele combina performance com uma sintaxe amigável, mas pode ser menos eficiente que C++ em projetos muito exigentes. Sabia que o C#, criado pela Microsoft em 2000, foi inspirado no Java, mas projetado para ser mais versátil?",
+    "palavras_chave": ["c#", "unity", "jogos", "microsoft", "among us"]
+  },
+  {
+    "pergunta": "O que é uma máquina virtual e como ela funciona?",
+    "resposta": "Uma máquina virtual é como um computador dentro de outro computador, criado por software como o VirtualBox. Ela roda um sistema operacional isolado, permitindo testar programas ou rodar sistemas diferentes, como Linux no Windows. É útil para desenvolvedores, mas consome muitos recursos. A crítica é que a performance nunca é tão boa quanto em hardware real. Sabia que a primeira máquina virtual comercial, o VMware, foi lançada em 1999?",
+    "palavras_chave": ["máquina virtual", "virtualbox", "vmware", "sistema operacional", "isolamento"]
+  },
+  {
+    "pergunta": "Por que o Bash é tão importante para administradores de sistemas?",
+    "resposta": "O Bash é uma ferramenta poderosa para administradores porque permite automatizar tarefas em sistemas Linux com scripts simples. Por exemplo, você pode criar um script para fazer backup de arquivos diariamente. Ele é direto, mas erros em scripts podem causar problemas graves. A crítica é que sua sintaxe pode ser confusa para iniciantes. Sabia que o Bash, lançado em 1989, foi criado por Brian Fox como um substituto para o Bourne Shell?",
+    "palavras_chave": ["bash", "linux", "scripts", "automação", "bourne shell"]
+  },
+  {
+    "pergunta": "O que é o conceito de garbage collection em linguagens de programação?",
+    "resposta": "Garbage collection é como um faxineiro automático que limpa a memória usada por um programa, liberando espaço de objetos que não são mais necessários. Linguagens como Java e Python usam isso para evitar vazamentos de memória. É prático, mas pode causar pausas no programa, afetando performance. A crítica é que o programador tem menos controle sobre a memória. Sabia que o garbage collection foi introduzido no Lisp nos anos 50?",
+    "palavras_chave": ["garbage collection", "java", "python", "memória", "lisp"]
+  },
+  {
+    "pergunta": "Como o React transformou o desenvolvimento de interfaces web?",
+    "resposta": "O React, criado pelo Facebook, revolucionou interfaces web por usar componentes reutilizáveis e um DOM virtual, que torna as páginas mais rápidas. Sites como o Instagram usam React para interfaces dinâmicas. A crítica é que ele exige aprendizado extra para gerenciar estado. Sabia que o React foi lançado em 2013 e hoje é uma das bibliotecas mais usadas, competindo com Vue e Angular?",
+    "palavras_chave": ["react", "interface", "facebook", "componentes", "dom virtual"]
+  },
+  {
+    "pergunta": "O que é um sistema de arquivos distribuído?",
+    "resposta": "Um sistema de arquivos distribuído armazena dados em vários computadores, funcionando como um único sistema. O Hadoop HDFS, por exemplo, é usado para big data, como no processamento de dados do Yahoo. Ele é escalável, mas configurar e manter pode ser complexo. Sabia que o conceito de sistemas distribuídos ganhou força nos anos 80 com o crescimento das redes?",
+    "palavras_chave": ["sistema distribuído", "hdfs", "big data", "yahoo", "escalabilidade"]
+  },
+  {
+    "pergunta": "Por que o Perl já foi tão popular e o que mudou?",
+    "resposta": "O Perl foi um gigante nos anos 90 por sua habilidade em manipular texto, ideal para scripts web e administração de sistemas. Ele foi usado em sites como a Amazon inicial. Porém, linguagens como Python, com sintaxe mais clara, ganharam espaço. A crítica é que o Perl pode ser difícil de ler. Sabia que o Perl, criado por Larry Wall em 1987, foi inspirado por ferramentas como awk e sed?",
+    "palavras_chave": ["perl", "scripts", "python", "amazon", "larry wall"]
+  },
+  {
+    "pergunta": "O que é um interpretador e como ele difere de um compilador?",
+    "resposta": "Um interpretador executa o código linha a linha, sem criar um arquivo executável, como o Python faz. Já um compilador traduz tudo de uma vez, como em C++. Interpretadores são ótimos para desenvolvimento rápido, mas mais lentos na execução. A crítica é que escolher entre eles depende do projeto. Sabia que o primeiro interpretador, para o BASIC, foi criado nos anos 60 por Dartmouth College?",
+    "palavras_chave": ["interpretador", "compilador", "python", "c++", "basic"]
+  },
+  {
+    "pergunta": "Como o Angular é usado para criar aplicações web?",
+    "resposta": "O Angular, mantido pelo Google, é um framework que organiza o desenvolvimento de aplicações web complexas com componentes reutilizáveis e TypeScript. Ele é usado por sites como o Google Cloud Console. É poderoso, mas tem uma curva de aprendizado alta. Sabia que o Angular, lançado em 2010, foi reescrito completamente em 2016 para ser mais rápido e modular?",
+    "palavras_chave": ["angular", "typescript", "google", "framework", "web"]
+  },
+  {
+    "pergunta": "O que é um sistema operacional móvel e como ele difere de um desktop?",
+    "resposta": "Um sistema operacional móvel, como Android ou iOS, é otimizado para dispositivos com telas sensíveis ao toque e recursos limitados, como bateria. Ele prioriza eficiência e interface simples, diferente de sistemas desktop, como Windows, que focam em multitarefa pesada. A crítica é que sistemas móveis podem ser restritivos. Sabia que o iOS, lançado em 2007, foi baseado no macOS?",
+    "palavras_chave": ["sistema operacional", "android", "ios", "mobile", "macos"]
+  },
+  {
+    "pergunta": "Por que o Haskell é considerado uma linguagem funcional?",
+    "resposta": "O Haskell é uma linguagem funcional porque foca em funções puras, sem efeitos colaterais, e usa conceitos como imutabilidade. É usado em finanças, como na Standard Chartered, para sistemas robustos. A crítica é que sua abordagem é difícil para quem vem de linguagens tradicionais. Sabia que o Haskell, lançado em 1990, foi nomeado em homenagem ao matemático Haskell Curry?",
+    "palavras_chave": ["haskell", "funcional", "imutabilidade", "finanças", "haskell curry"]
+  },
+  {
+    "pergunta": "O que é um sistema de gerenciamento de conteúdo (CMS) e como ele usa software?",
+    "resposta": "Um CMS, como o WordPress, é um software que facilita a criação e gerenciamento de sites sem precisar programar tudo do zero. Ele usa bancos de dados como MySQL para armazenar conteúdo e PHP para gerar páginas dinâmicas. A crítica é que CMSs podem ser alvos de hackers se não forem atualizados. Sabia que o WordPress, lançado em 2003, começou como uma ferramenta para blogs?",
+    "palavras_chave": ["cms", "wordpress", "mysql", "php", "sites"]
+  },
+  {
+    "pergunta": "Como o WebAssembly está mudando a web?",
+    "resposta": "O WebAssembly permite rodar código de alta performance, como C++ ou Rust, no navegador, quase tão rápido quanto nativo. É usado em jogos como os da Unity WebGL e ferramentas como o Figma. A crítica é que ainda exige conhecimento avançado para otimizar. Sabia que o WebAssembly, lançado em 2017, foi criado por uma colaboração entre Google, Microsoft e Mozilla?",
+    "palavras_chave": ["webassembly", "performance", "navegador", "unity", "figma"]
+  },
+  {
+    "pergunta": "O que é um sistema operacional bare-metal?",
+    "resposta": "Um sistema operacional bare-metal roda diretamente no hardware, sem camadas intermediárias, como em dispositivos IoT ou consoles de videogame. Ele é super eficiente, mas difícil de desenvolver. Por exemplo, o sistema do PlayStation usa uma abordagem bare-metal. Sabia que o MS-DOS, dos anos 80, era um exemplo de sistema bare-metal?",
+    "palavras_chave": ["bare-metal", "iot", "playstation", "ms-dos", "hardware"]
+  },
+  {
+    "pergunta": "Por que o SQL Server é usado em ambientes corporativos?",
+    "resposta": "O SQL Server, da Microsoft, é popular em empresas por sua integração com ferramentas como o Microsoft Azure e por suportar grandes volumes de dados com segurança. É usado por bancos e varejistas, como o Walmart. A crítica é que é caro e menos flexível que alternativas open source. Sabia que o SQL Server, lançado em 1989, foi inicialmente uma parceria com a Sybase?",
+    "palavras_chave": ["sql server", "microsoft", "azure", "corporativo", "sybase"]
+  },
+  {
+    "pergunta": "O que é um middleware e como ele funciona?",
+    "resposta": "Um middleware é como uma ponte que conecta diferentes partes de um sistema, como um aplicativo e um banco de dados. Por exemplo, o Express.js, usado com Node.js, gerencia requisições em servidores web. Ele simplifica a comunicação, mas pode adicionar complexidade. Sabia que o termo middleware surgiu nos anos 80 com sistemas distribuídos?",
+    "palavras_chave": ["middleware", "express.js", "node.js", "servidor", "comunicação"]
+  },
+  {
+    "pergunta": "Como o Dart é usado no desenvolvimento com Flutter?",
+    "resposta": "O Dart é a linguagem por trás do Flutter, framework do Google para apps multiplataforma. Ele é otimizado para interfaces rápidas e tem uma sintaxe clara, como no app do eBay. A crítica é que Dart é menos popular fora do Flutter. Sabia que o Dart, lançado em 2011, foi criado para substituir o JavaScript, mas não conseguiu esse objetivo?",
+    "palavras_chave": ["dart", "flutter", "multiplataforma", "google", "ebay"]
+  },
+  {
+    "pergunta": "O que é um sistema de build e por que ele é importante?",
+    "resposta": "Um sistema de build, como o Maven ou Gradle, automatiza a compilação, teste e empacotamento de software. Ele é essencial em projetos grandes, como apps Android no Gradle. Ele economiza tempo, mas configurar pode ser complicado. Sabia que o Make, um dos primeiros sistemas de build, foi criado em 1976 para projetos Unix?",
+    "palavras_chave": ["sistema de build", "maven", "gradle", "automação", "make"]
+  },
+  {
+    "pergunta": "Por que o Lua é usado em jogos e sistemas embarcados?",
+    "resposta": "O Lua é leve, rápido e fácil de embutir em outros programas, tornando-o ideal para jogos como 'World of Warcraft' e sistemas embarcados. Ele permite scripts personalizados sem sobrecarregar o sistema. A crítica é que não é ideal para projetos complexos. Sabia que o Lua, criado em 1993 no Brasil, tem o nome inspirado na palavra portuguesa para 'lua'?",
+    "palavras_chave": ["lua", "jogos", "embarcados", "scripts", "world of warcraft"]
+  },
+  {
+    "pergunta": "O que é um sistema operacional de rede (NOS)?",
+    "resposta": "Um sistema operacional de rede, como o Cisco IOS, gerencia dispositivos como roteadores e switches, controlando tráfego e segurança. Ele é otimizado para redes, diferente de sistemas gerais como Windows. A crítica é que pode ser caro e proprietário. Sabia que o primeiro NOS, o Novell NetWare, dominou redes nos anos 80?",
+    "palavras_chave": ["nos", "cisco ios", "redes", "roteadores", "netware"]
+  },
+  {
+    "pergunta": "Como o Vue.js se compara a outros frameworks como React?",
+    "resposta": "O Vue.js é um framework leve e fácil de aprender, ideal para interfaces web dinâmicas, como no site da Xiaomi. Comparado ao React, ele é menos verboso, mas tem uma comunidade menor. A crítica é que pode ser menos escalável para projetos gigantes. Sabia que o Vue.js, criado por Evan You em 2014, foi inspirado no Angular e React?",
+    "palavras_chave": ["vue.js", "react", "framework", "interface", "xiaomi"]
+  },
+  {
+    "pergunta": "O que é um banco de dados em memória e quando usá-lo?",
+    "resposta": "Um banco de dados em memória, como o Redis, armazena dados diretamente na RAM, tornando-o extremamente rápido. É usado em chats, como no WhatsApp, para respostas instantâneas. A crítica é que é caro e menos adequado para dados persistentes. Sabia que o Redis, lançado em 2009, é usado por empresas como Twitter para caching?",
+    "palavras_chave": ["banco em memória", "redis", "whatsapp", "caching", "ram"]
+  },
+  {
+    "pergunta": "Por que o Assembly ainda é usado em alguns projetos?",
+    "resposta": "O Assembly é usado em projetos que exigem controle total do hardware, como sistemas embarcados ou drivers. Ele é rápido, mas difícil de programar. Por exemplo, partes do kernel do Linux usam Assembly. A crítica é que é impraticável para projetos grandes. Sabia que o Assembly foi uma das primeiras linguagens, usada nos anos 40 em computadores como o ENIAC?",
+    "palavras_chave": ["assembly", "hardware", "linux", "embarcados", "eniac"]
+  },
+  {
+    "pergunta": "O que é um sistema de mensageria e como ele funciona?",
+    "resposta": "Um sistema de mensageria, como o RabbitMQ, permite que aplicativos troquem mensagens de forma assíncrona, como em filas de tarefas. Por exemplo, o LinkedIn usa mensageria para processar notificações. Ele é escalável, mas exige configuração cuidadosa. Sabia que o conceito de mensageria foi popularizado nos anos 80 com sistemas como o IBM MQ?",
+    "palavras_chave": ["mensageria", "rabbitmq", "linkedin", "assíncrono", "ibm mq"]
+  },
+  {
+    "pergunta": "O que é um kernel em um sistema operacional?",
+    "resposta": "O kernel é o coração de um sistema operacional, responsável por gerenciar a comunicação entre o hardware e o software. Ele cuida de coisas como memória, processos e dispositivos, como no Linux ou Windows. Por exemplo, o kernel Linux permite que seu computador execute vários programas ao mesmo tempo. A crítica é que um kernel mal projetado pode tornar o sistema instável. Sabia que o kernel do Linux, criado por Linus Torvalds, tem milhões de linhas de código contribuídas por desenvolvedores do mundo todo?",
+    "palavras_chave": ["kernel", "sistema operacional", "linux", "hardware", "processos"]
+  },
+  {
+    "pergunta": "Por que o Elixir é usado em aplicações web escaláveis?",
+    "resposta": "O Elixir é uma linguagem funcional que roda na máquina virtual Erlang, conhecida por sua alta concorrência e escalabilidade. É usada em sistemas como o WhatsApp para lidar com milhões de mensagens em tempo real. Sua sintaxe é clara, mas exige familiaridade com programação funcional. A crítica é que tem uma comunidade menor que Python. Sabia que o Elixir, criado por José Valim em 2011, foi inspirado pelo Ruby?",
+    "palavras_chave": ["elixir", "erlang", "escalabilidade", "whatsapp", "funcional"]
+  },
+  {
+    "pergunta": "O que é um teste unitário e por que ele é importante?",
+    "resposta": "Um teste unitário verifica se uma pequena parte do código, como uma função, funciona corretamente. Ferramentas como JUnit para Java ajudam a garantir que o código não quebre ao ser alterado. Por exemplo, o Google usa testes unitários para manter seus serviços estáveis. A crítica é que escrever testes exige tempo extra. Sabia que o conceito de testes unitários foi popularizado nos anos 90 pelo framework SUnit para Smalltalk?",
+    "palavras_chave": ["teste unitário", "junit", "google", "estabilidade", "sunit"]
+  },
+  {
+    "pergunta": "Como o GraphQL melhora a comunicação entre cliente e servidor?",
+    "resposta": "O GraphQL, criado pelo Facebook, permite que clientes peçam exatamente os dados que precisam, reduzindo desperdício. Por exemplo, no GitHub, ele agiliza a recuperação de dados de repositórios. Comparado ao REST, é mais flexível, mas exige mais planejamento no servidor. Sabia que o GraphQL, lançado em 2015, foi inspirado por APIs internas do Facebook?",
+    "palavras_chave": ["graphql", "api", "github", "rest", "facebook"]
+  },
+  {
+    "pergunta": "O que é um sistema operacional hibrido e como ele funciona?",
+    "resposta": "Um sistema operacional híbrido combina características de kernels monolíticos e microkernels, oferecendo eficiência e modularidade. O Windows NT, por exemplo, usa essa abordagem para ser robusto e flexível. Ele é usado em servidores e PCs, mas pode ser complexo de manter. Sabia que o Windows NT, lançado em 1993, foi a base para todas as versões modernas do Windows?",
+    "palavras_chave": ["híbrido", "windows nt", "kernel", "servidores", "modularidade"]
+  },
+  {
+    "pergunta": "Por que o MATLAB é usado em engenharia e ciência?",
+    "resposta": "O MATLAB é uma linguagem voltada para cálculos numéricos e visualizações, ideal para engenheiros e cientistas. É usado em simulações, como no design de aviões pela Boeing. Sua interface é intuitiva, mas o custo da licença é uma crítica comum. Sabia que o MATLAB, criado nos anos 70 por Cleve Moler, começou como uma ferramenta para ensinar álgebra linear?",
+    "palavras_chave": ["matlab", "engenharia", "simulações", "boeing", "álgebra linear"]
+  },
+  {
+    "pergunta": "O que é um ORM e como ele facilita o desenvolvimento?",
+    "resposta": "Um ORM, ou Mapeamento Objeto-Relacional, traduz dados de bancos relacionais para objetos em linguagens como Python ou Java. O Django ORM, por exemplo, simplifica o acesso a bancos de dados em sites como o Instagram. Ele reduz código repetitivo, mas pode ser lento em consultas complexas. Sabia que o Hibernate, um ORM para Java, foi lançado em 2001 e é usado por empresas como IBM?",
+    "palavras_chave": ["orm", "django", "hibernate", "instagram", "banco de dados"]
+  },
+  {
+    "pergunta": "Como o Rust garante segurança de memória?",
+    "resposta": "O Rust usa um sistema de propriedade e verificação em tempo de compilação para evitar erros como acesso inválido à memória. Isso o torna ideal para sistemas críticos, como o navegador Firefox. A crítica é que essas regras podem dificultar o aprendizado. Sabia que o Rust, criado pela Mozilla em 2010, foi inspirado por linguagens como C++ e Haskell?",
+    "palavras_chave": ["rust", "segurança", "memória", "firefox", "mozilla"]
+  },
+  {
+    "pergunta": "O que é um sistema de arquivos journaling?",
+    "resposta": "Um sistema de arquivos journaling, como o NTFS ou ext4, mantém um 'diário' das operações, o que ajuda a recuperar dados após falhas, como quedas de energia. É usado em sistemas como Windows e Linux. A crítica é que pode ser mais lento por causa do journaling. Sabia que o NTFS, introduzido em 1993, foi um dos primeiros a popularizar o journaling?",
+    "palavras_chave": ["journaling", "ntfs", "ext4", "recuperação", "sistema de arquivos"]
+  },
+  {
+    "pergunta": "Por que o Scala é usado em big data?",
+    "resposta": "O Scala combina programação funcional e orientada a objetos, sendo ideal para ferramentas de big data como o Apache Spark, usado pela Netflix. É conciso e escalável, mas sua complexidade pode assustar iniciantes. Sabia que o Scala, criado por Martin Odersky em 2004, roda na JVM, o que facilita sua integração com Java?",
+    "palavras_chave": ["scala", "big data", "spark", "netflix", "jvm"]
+  },
+  {
+    "pergunta": "O que é um sistema operacional monolítico?",
+    "resposta": "Um sistema operacional monolítico, como o Linux, tem um kernel grande que gerencia tudo: memória, processos e drivers. Ele é rápido, mas um erro no kernel pode travar o sistema. É usado em servidores e desktops. A crítica é que é menos modular que microkernels. Sabia que o Unix, dos anos 70, foi um dos primeiros sistemas monolíticos?",
+    "palavras_chave": ["monolítico", "linux", "kernel", "unix", "servidores"]
+  },
+  {
+    "pergunta": "Como o Deno está tentando substituir o Node.js?",
+    "resposta": "O Deno, criado por Ryan Dahl, o mesmo criador do Node.js, é uma alternativa que melhora a segurança e elimina o npm. Ele suporta TypeScript nativamente e é usado em projetos modernos. A crítica é que sua adoção ainda é pequena. Sabia que o Deno, lançado em 2020, foi projetado para corrigir falhas do Node.js, como a gestão de pacotes?",
+    "palavras_chave": ["deno", "node.js", "typescript", "segurança", "ryan dahl"]
+  },
+  {
+    "pergunta": "O que é um banco de dados orientado a documentos?",
+    "resposta": "Um banco de dados orientado a documentos, como o MongoDB, armazena dados em documentos flexíveis, como JSON, ideal para aplicações web como o LinkedIn. Ele é escalável, mas pode ser menos eficiente para relações complexas. Sabia que o MongoDB, lançado em 2009, foi inspirado pela necessidade de bancos mais ágeis para a web 2.0?",
+    "palavras_chave": ["banco de dados", "mongodb", "documentos", "linkedin", "web 2.0"]
+  },
+  {
+    "pergunta": "Por que o Objective-C foi importante para o iOS?",
+    "resposta": "O Objective-C foi a base para os primeiros apps iOS, como o primeiro iPhone em 2007, por sua integração com o framework Cocoa da Apple. Ele é poderoso, mas foi substituído pelo Swift por ser mais complexo. Sabia que o Objective-C, criado nos anos 80, foi inspirado pelo Smalltalk e usado pela NeXT, empresa de Steve Jobs?",
+    "palavras_chave": ["objective-c", "ios", "apple", "swift", "smalltalk"]
+  },
+  {
+    "pergunta": "O que é um sistema operacional baseado em microkernel?",
+    "resposta": "Um sistema operacional baseado em microkernel, como o QNX, mantém o kernel pequeno, delegando funções como drivers a módulos separados. Isso aumenta a estabilidade, mas pode ser mais lento. É usado em carros e dispositivos médicos. Sabia que o QNX, lançado nos anos 80, é usado em milhões de carros, como os da Tesla?",
+    "palavras_chave": ["microkernel", "qnx", "estabilidade", "tesla", "carros"]
+  },
+  {
+    "pergunta": "Como o Jenkins automatiza o desenvolvimento de software?",
+    "resposta": "O Jenkins é uma ferramenta de automação que gerencia pipelines de CI/CD, executando testes e deploys automaticamente. É usado por empresas como Netflix para agilizar lançamentos. A crítica é que sua interface pode ser pouco amigável. Sabia que o Jenkins, lançado em 2011, surgiu como um fork do Hudson, criado pela Sun Microsystems?",
+    "palavras_chave": ["jenkins", "ci/cd", "automação", "netflix", "hudson"]
+  },
+  {
+    "pergunta": "O que é um sistema de versionamento centralizado?",
+    "resposta": "Um sistema de versionamento centralizado, como o SVN, armazena o código em um servidor central, diferente do Git, que é distribuído. Ele é simples, mas menos flexível para colaboração offline. A crítica é que depende de conectividade. Sabia que o SVN, lançado em 2000, foi amplamente usado antes do Git se popularizar?",
+    "palavras_chave": ["versionamento", "svn", "git", "servidor", "colaboração"]
+  },
+  {
+    "pergunta": "Por que o Julia é usado em computação científica?",
+    "resposta": "O Julia é uma linguagem rápida e fácil de usar para cálculos numéricos, rivalizando com MATLAB e Python. É usada em pesquisas, como na NASA, para simulações complexas. A crítica é que sua comunidade ainda é pequena. Sabia que o Julia, lançado em 2012, foi criado para combinar a velocidade do C com a simplicidade do Python?",
+    "palavras_chave": ["julia", "computação científica", "nasa", "matlab", "python"]
+  },
+  {
+    "pergunta": "O que é um sistema operacional para servidores?",
+    "resposta": "Um sistema operacional para servidores, como o Ubuntu Server ou Windows Server, é otimizado para gerenciar redes, bancos de dados e sites. Ele prioriza estabilidade e segurança, como no caso da AWS. A crítica é que exige configuração especializada. Sabia que o Red Hat Enterprise Linux, lançado em 2000, é um dos mais usados em servidores corporativos?",
+    "palavras_chave": ["servidores", "ubuntu server", "windows server", "aws", "red hat"]
+  },
+  {
+    "pergunta": "Como o Sublime Text é usado por desenvolvedores?",
+    "resposta": "O Sublime Text é um editor de código leve e rápido, amado por sua simplicidade e suporte a plugins. Desenvolvedores o usam para editar Python, JavaScript e mais. A crítica é que não é tão completo quanto IDEs como o VS Code. Sabia que o Sublime Text, lançado em 2008, é conhecido por sua função de edição múltipla, que permite alterar várias linhas ao mesmo tempo?",
+    "palavras_chave": ["sublime text", "editor", "python", "javascript", "plugins"]
+  },
+  {
+    "pergunta": "O que é um banco de dados de chave-valor?",
+    "resposta": "Um banco de dados de chave-valor, como o Redis, armazena dados em pares simples, como um dicionário, ideal para caching rápido, como no Twitter. Ele é extremamente rápido, mas limitado para consultas complexas. Sabia que o DynamoDB, da AWS, lançado em 2012, é um exemplo de banco chave-valor usado por grandes empresas?",
+    "palavras_chave": ["chave-valor", "redis", "dynamodb", "twitter", "caching"]
+  },
+  {
+    "pergunta": "Por que o Groovy é usado com o Gradle?",
+    "resposta": "O Groovy é uma linguagem dinâmica que roda na JVM, usada no Gradle para criar scripts de build flexíveis. Ele simplifica a automação de projetos Android e Java. A crítica é que é menos popular que outras linguagens. Sabia que o Groovy, lançado em 2003, foi criado para ser uma alternativa mais simples ao Java?",
+    "palavras_chave": ["groovy", "gradle", "jvm", "build", "java"]
+  },
+  {
+    "pergunta": "O que é um sistema operacional de contêineres?",
+    "resposta": "Um sistema operacional de contêineres, como o CoreOS, é leve e projetado para rodar contêineres, como Docker, em ambientes de nuvem. Ele é minimalista, mas exige conhecimento técnico. Sabia que o CoreOS, lançado em 2013, foi adquirido pela Red Hat em 2018 para fortalecer sua oferta em nuvem?",
+    "palavras_chave": ["contêineres", "coreos", "docker", "nuvem", "red hat"]
+  },
+  {
+    "pergunta": "Como o Apache é usado em servidores web?",
+    "resposta": "O Apache é um software de servidor web que hospeda sites, gerenciando requisições HTTP. Ele é usado por milhões de sites, como o Wikipedia. É flexível e gratuito, mas pode ser menos performático que o Nginx em alta carga. Sabia que o Apache, lançado em 1995, foi o servidor web dominante por décadas?",
+    "palavras_chave": ["apache", "servidor web", "http", "wikipedia", "nginx"]
+  },
+  {
+    "pergunta": "O que é um sistema operacional modular e por que ele é útil?",
+    "resposta": "Um sistema operacional modular, como o FreeBSD, permite adicionar ou remover componentes, como drivers, sem reiniciar. Isso o torna flexível para servidores e dispositivos embarcados. A crítica é que exige configuração técnica. Sabia que o FreeBSD, lançado em 1993, é usado em produtos como o PlayStation 4?",
+    "palavras_chave": ["modular", "freebsd", "servidores", "playstation", "flexibilidade"]
+  }
+]

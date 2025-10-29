@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "Qual foi o impacto do álbum 'Sgt. Pepper's Lonely Hearts Club Band' dos Beatles na história do rock?",
+    "resposta": "Olha, o 'Sgt. Pepper', lançado em 1967, é um marco porque trouxe o rock para um nível de experimentação nunca visto antes. Ele não é só um álbum, é uma obra conceitual que mistura rock, psicodelia, música indiana e até elementos orquestrais. Os Beatles romperam as barreiras do que o rock podia ser, influenciando bandas a pensarem fora da caixinha. A crítica o considera um divisor de águas, e até hoje ele é referência em produção musical. Sabia que o álbum foi gravado em 700 horas, algo absurdo para a época?",
+    "palavras_chave": ["beatles", "sgt pepper", "psicodelia", "álbum conceitual", "produção musical"]
+  },
+  {
+    "pergunta": "Por que Jimi Hendrix é considerado um dos maiores guitarristas da história do rock?",
+    "resposta": "Jimi Hendrix revolucionou a guitarra elétrica como ninguém. Ele transformou o instrumento em uma extensão da sua expressão, usando técnicas como feedback, distorção e bends que ninguém tinha explorado tão profundamente. Álbuns como 'Are You Experienced' mostram sua genialidade. Além disso, ele misturava blues, rock e psicodelia de forma única. A crítica sempre destaca sua performance em Woodstock, em 1969, como um momento icônico. Sabia que Hendrix era autodidata e aprendeu a tocar guitarra sem nunca ter uma aula formal?",
+    "palavras_chave": ["jimi hendrix", "guitarra elétrica", "psicodelia", "woodstock", "blues"]
+  },
+  {
+    "pergunta": "Como o punk rock dos Sex Pistols mudou a cena musical dos anos 1970?",
+    "resposta": "Os Sex Pistols, com seu som cru e atitude rebelde, viraram o rock de cabeça pra baixo. Em 1977, com o álbum 'Never Mind the Bollocks', eles trouxeram o punk rock ao mainstream, desafiando o rock progressivo, que era superelaborado. Letras como as de 'God Save the Queen' criticavam a sociedade britânica de forma direta. O impacto foi tão grande que inspirou bandas como The Clash e Ramones. Sabia que o single 'God Save the Queen' foi banido pela BBC por ser considerado ofensivo?",
+    "palavras_chave": ["sex pistols", "punk rock", "never mind the bollocks", "rebeldia", "god save the queen"]
+  },
+  {
+    "pergunta": "O que tornou o Led Zeppelin tão influente no rock dos anos 1970?",
+    "resposta": "O Led Zeppelin é uma lenda porque misturou rock com blues, folk e até elementos orientais, criando um som épico e pesado. Álbuns como 'Led Zeppelin IV', com 'Stairway to Heaven', são hinos do rock. Eles elevaram o padrão de virtuosismo, com Robert Plant nos vocais e Jimmy Page na guitarra. A crítica aponta que eles abriram caminho para o heavy metal. Sabia que 'Stairway to Heaven' nunca foi lançada como single, mas é uma das músicas mais tocadas em rádios?",
+    "palavras_chave": ["led zeppelin", "stairway to heaven", "blues", "heavy metal", "jimmy page"]
+  },
+  {
+    "pergunta": "Qual foi o papel do festival de Woodstock na consolidação do rock como movimento cultural?",
+    "resposta": "Woodstock, em 1969, foi mais que um festival: foi o símbolo da contracultura. Com apresentações de lendas como Hendrix, The Who e Santana, ele reuniu quase meio milhão de pessoas em um momento de paz, amor e música. O rock ganhou status de voz da juventude, misturando política e arte. A crítica vê Woodstock como o auge da era hippie. Sabia que o festival foi um caos logístico, com chuva, falta de comida, mas mesmo assim é lembrado como um marco histórico?",
+    "palavras_chave": ["woodstock", "contracultura", "festival", "hippie", "jimi hendrix"]
+  },
+  {
+    "pergunta": "Como o Pink Floyd revolucionou o rock progressivo com 'Dark Side of the Moon'?",
+    "resposta": "O 'Dark Side of the Moon', de 1973, é uma obra-prima do Pink Floyd que levou o rock progressivo a outro patamar. Ele combina letras filosóficas sobre tempo, loucura e morte com sons experimentais, como sintetizadores e efeitos de estúdio. O álbum é um dos mais vendidos da história, e sua produção impecável influenciou gerações. A crítica elogia sua coesão. Sabia que ele ficou nas paradas da Billboard por mais de 900 semanas?",
+    "palavras_chave": ["pink floyd", "dark side of the moon", "rock progressivo", "sintetizadores", "billboard"]
+  },
+  {
+    "pergunta": "Por que o Nirvana é visto como o símbolo do grunge dos anos 1990?",
+    "resposta": "O Nirvana, liderado por Kurt Cobain, trouxe o grunge de Seattle para o mundo com o álbum 'Nevermind', de 1991. A música 'Smells Like Teen Spirit' virou um hino geracional, com seu som cru e letras angustiadas. Eles desafiaram o glam rock dos anos 80, trazendo autenticidade. A crítica destaca que o Nirvana abriu espaço para bandas como Pearl Jam. Sabia que 'Nevermind' desbancou Michael Jackson do topo das paradas?",
+    "palavras_chave": ["nirvana", "grunge", "nevermind", "kurt cobain", "smells like teen spirit"]
+  },
+  {
+    "pergunta": "Como o Queen se destacou no rock com sua versatilidade musical?",
+    "resposta": "O Queen é único porque misturava rock, ópera, glam e até música clássica, como em 'Bohemian Rhapsody'. Freddie Mercury era um gênio nos vocais, e Brian May trouxe riffs inesquecíveis. Álbuns como 'A Night at the Opera' mostram essa versatilidade. A crítica ama como eles nunca se limitaram a um gênero. Sabia que 'Bohemian Rhapsody' levou três semanas pra ser gravada, com mais de 180 overdubs vocais?",
+    "palavras_chave": ["queen", "bohemian rhapsody", "freddie mercury", "versatilidade", "a night at the opera"]
+  },
+  {
+    "pergunta": "O que fez do álbum 'The Wall' do Pink Floyd um marco cultural?",
+    "resposta": "Lançado em 1979, 'The Wall' é um álbum conceitual que conta a história de Pink, um roqueiro que se isola do mundo. Com letras profundas e uma mistura de rock, orquestra e efeitos sonoros, ele aborda alienação e traumas. A crítica o vê como uma ópera rock. O filme baseado no álbum também é icônico. Sabia que Roger Waters se inspirou em sua própria vida para criar a história?",
+    "palavras_chave": ["pink floyd", "the wall", "ópera rock", "alienação", "roger waters"]
+  },
+  {
+    "pergunta": "Como o The Who contribuiu para o conceito de ópera rock?",
+    "resposta": "O The Who foi pioneiro na ópera rock com 'Tommy', de 1969, que conta a história de um garoto cego, surdo e mudo. A banda combinou narrativa complexa com rock energético, influenciando o gênero. Pete Townshend, o compositor, trouxe letras introspectivas. A crítica elogia a inovação. Sabia que 'Tommy' virou filme e musical na Broadway?",
+    "palavras_chave": ["the who", "tommy", "ópera rock", "pete townshend", "narrativa"]
+  },
+  {
+    "pergunta": "Por que 'Back in Black' do AC/DC é um clássico do hard rock?",
+    "resposta": "Lançado em 1980, 'Back in Black' é um marco do hard rock por seus riffs poderosos e a voz marcante de Brian Johnson, que assumiu após a morte de Bon Scott. Músicas como 'Hells Bells' e a faixa-título são hinos. O álbum é um dos mais vendidos da história. A crítica destaca sua energia crua. Sabia que ele foi gravado nas Bahamas em apenas sete semanas?",
+    "palavras_chave": ["ac/dc", "back in black", "hard rock", "brian johnson", "riffs"]
+  },
+  {
+    "pergunta": "Qual foi a influência de Bob Dylan no rock dos anos 1960?",
+    "resposta": "Bob Dylan trouxe poesia e engajamento político ao rock. Quando eletrificou seu som em 1965, com 'Like a Rolling Stone', chocou os fãs folk, mas abriu caminho para o folk rock. Suas letras profundas influenciaram bandas como os Beatles. A crítica o vê como um poeta do rock. Sabia que ele ganhou o Nobel de Literatura em 2016 por suas letras?",
+    "palavras_chave": ["bob dylan", "folk rock", "like a rolling stone", "letras", "nobel"]
+  },
+  {
+    "pergunta": "Como o Black Sabbath criou o heavy metal?",
+    "resposta": "O Black Sabbath, com seu álbum de estreia em 1970, trouxe um som sombrio, com riffs pesados de Tony Iommi e letras sobre ocultismo e guerra. Músicas como 'Paranoid' definiram o heavy metal. A crítica aponta que eles deram o tom para bandas como Metallica. Sabia que Iommi perdeu as pontas dos dedos e criou um som único usando próteses?",
+    "palavras_chave": ["black sabbath", "heavy metal", "paranoid", "tony iommi", "riffs"]
+  },
+  {
+    "pergunta": "O que tornou 'Pet Sounds' dos Beach Boys um marco no rock?",
+    "resposta": "Lançado em 1966, 'Pet Sounds' é uma revolução por sua produção sofisticada e letras introspectivas, algo raro no rock da época. Brian Wilson usou instrumentos incomuns, como theremin, e criou harmonias complexas. A crítica o compara a 'Sgt. Pepper'. Sabia que Paul McCartney disse que 'Pet Sounds' inspirou os Beatles a criar algo tão grandioso?",
+    "palavras_chave": ["beach boys", "pet sounds", "brian wilson", "harmonias", "produção"]
+  },
+  {
+    "pergunta": "Por que David Bowie é chamado de 'camaleão' do rock?",
+    "resposta": "David Bowie ganhou esse apelido por reinventar sua música e imagem constantemente. De Ziggy Stardust, com seu glam rock, ao experimentalismo de 'Low', ele nunca ficou preso a um estilo. Sua habilidade de misturar rock, eletrônica e teatro é lendária. A crítica o vê como um ícone cultural. Sabia que Bowie pintava o rosto com um raio para shows de Ziggy Stardust?",
+    "palavras_chave": ["david bowie", "ziggy stardust", "glam rock", "reinvenção", "low"]
+  },
+  {
+    "pergunta": "Como o The Doors trouxe poesia ao rock psicodélico?",
+    "resposta": "O The Doors, liderado por Jim Morrison, misturou rock psicodélico com letras poéticas e sombrias. Músicas como 'Light My Fire' combinam órgão hipnótico e vocais intensos. Morrison se inspirava em poetas como Rimbaud, o que deu profundidade à banda. A crítica ama sua aura mística. Sabia que Morrison foi preso por comportamento no palco?",
+    "palavras_chave": ["the doors", "jim morrison", "psicodelia", "poesia", "light my fire"]
+  },
+  {
+    "pergunta": "O que fez do Metallica uma força no thrash metal dos anos 1980?",
+    "resposta": "O Metallica definiu o thrash metal com álbuns como 'Master of Puppets', de 1986, trazendo velocidade, riffs complexos e letras sobre guerra e sociedade. James Hetfield e Lars Ulrich criaram um som agressivo, mas acessível. A crítica elogia sua energia ao vivo. Sabia que 'Master of Puppets' é considerado um dos melhores álbuns de metal de todos os tempos?",
+    "palavras_chave": ["metallica", "thrash metal", "master of puppets", "riffs", "james hetfield"]
+  },
+  {
+    "pergunta": "Como o Velvet Underground influenciou o rock alternativo?",
+    "resposta": "O Velvet Underground, com Lou Reed, trouxe um som cru e experimental em álbuns como 'The Velvet Underground & Nico', de 1967. Suas letras sobre temas urbanos e tabus, como drogas, inspiraram o rock alternativo. A crítica os vê como precursores do punk. Sabia que o álbum com a banana de Andy Warhol na capa vendeu pouco, mas é um clássico cult?",
+    "palavras_chave": ["velvet underground", "lou reed", "rock alternativo", "andy warhol", "experimental"]
+  },
+  {
+    "pergunta": "Por que 'Abbey Road' dos Beatles é tão celebrado pelos fãs de rock?",
+    "resposta": "Lançado em 1969, 'Abbey Road' é um dos álbuns mais amados dos Beatles por sua mistura de estilos, de baladas como 'Something' a medleys complexos. A produção de George Martin é impecável, e a capa com a faixa de pedestres virou ícone. A crítica o chama de obra-prima. Sabia que a foto da capa foi tirada em apenas 10 minutos?",
+    "palavras_chave": ["beatles", "abbey road", "george martin", "medley", "capa icônica"]
+  },
+  {
+    "pergunta": "Como o Aerosmith se reinventou nos anos 1980?",
+    "resposta": "Nos anos 70, o Aerosmith era conhecido pelo hard rock de 'Dream On'. Após problemas com drogas, eles voltaram nos anos 80 com 'Permanent Vacation', misturando rock com pop. A parceria com Run-D.M.C. em 'Walk This Way' foi revolucionária. A crítica elogia sua resiliência. Sabia que essa colaboração foi um marco no crossover entre rock e hip-hop?",
+    "palavras_chave": ["aerosmith", "walk this way", "hard rock", "reinvenção", "run-dmc"]
+  },
+  {
+    "pergunta": "O que tornou o Guns N' Roses tão impactante com 'Appetite for Destruction'?",
+    "resposta": "Lançado em 1987, 'Appetite for Destruction' trouxe um som cru, com riffs de Slash e a voz marcante de Axl Rose. Músicas como 'Sweet Child O’ Mine' misturam hard rock e baladas. O álbum revitalizou o rock nos anos 80. A crítica o vê como um clássico. Sabia que ele demorou a estourar, mas virou um dos mais vendidos da história?",
+    "palavras_chave": ["guns n roses", "appetite for destruction", "hard rock", "slash", "sweet child o mine"]
+  },
+  {
+    "pergunta": "Como o The Clash expandiu os limites do punk rock?",
+    "resposta": "O The Clash misturou punk com reggae, ska e rockabilly em álbuns como 'London Calling', de 1979. Suas letras políticas, como em 'Clampdown', abordavam desigualdade e rebeldia. A crítica os chama de 'a única banda que importa'. Sabia que 'London Calling' foi eleito o melhor álbum dos anos 80 pela Rolling Stone, mesmo sendo de 1979?",
+    "palavras_chave": ["the clash", "london calling", "punk rock", "reggae", "política"]
+  },
+  {
+    "pergunta": "Por que o Deep Purple é considerado um pioneiro do heavy metal?",
+    "resposta": "O Deep Purple, com álbuns como 'Machine Head' de 1972, trouxe riffs pesados e solos virtuosos, como em 'Smoke on the Water'. A voz de Ian Gillan e o órgão de Jon Lord criaram um som único. A crítica os vê como pais do heavy metal, junto com o Black Sabbath. Sabia que 'Smoke on the Water' foi inspirada por um incêndio real em um cassino?",
+    "palavras_chave": ["deep purple", "heavy metal", "smoke on the water", "machine head", "riffs"]
+  },
+  {
+    "pergunta": "Como o REM influenciou o rock alternativo dos anos 1980?",
+    "resposta": "O REM, com álbuns como 'Murmur' de 1983, trouxe um som melódico e introspectivo, com letras enigmáticas de Michael Stipe. Eles ajudaram a definir o rock alternativo, influenciando bandas como Nirvana. A crítica elogia sua autenticidade. Sabia que o REM começou tocando em igrejas e bares pequenos na Geórgia?",
+    "palavras_chave": ["rem", "rock alternativo", "murmur", "michael stipe", "melodia"]
+  },
+  {
+    "pergunta": "O que fez de 'Born to Run' de Bruce Springsteen um clássico do rock?",
+    "resposta": "Lançado em 1975, 'Born to Run' captura a energia da juventude americana com letras poéticas e um som grandioso. Bruce Springsteen mistura rock, soul e histórias de trabalhadores comuns. A crítica o vê como um hino da classe trabalhadora. Sabia que Springsteen quase faliu gravando esse álbum, mas ele o lançou ao estrelato?",
+    "palavras_chave": ["bruce springsteen", "born to run", "rock clássico", "classe trabalhadora", "soul"]
+  },
+  {
+    "pergunta": "Como o Rolling Stones influenciou a atitude rebelde do rock?",
+    "resposta": "Os Rolling Stones, desde os anos 60, trouxeram uma vibe mais crua e rebelde pro rock, diferente da imagem mais polida dos Beatles. Com músicas como 'Satisfaction', eles cantavam sobre insatisfação e desejo com uma energia visceral. Mick Jagger e Keith Richards criaram um estilo que misturava blues e rock, inspirando a atitude 'bad boy' de várias bandas. A crítica sempre destaca o impacto cultural deles. Sabia que 'Satisfaction' foi escrita depois que Richards acordou com o riff na cabeça e gravou numa fita cassete?",
+    "palavras_chave": ["rolling stones", "satisfaction", "rebeldia", "mick jagger", "blues rock"]
+  },
+  {
+    "pergunta": "O que fez de 'Hotel California' dos Eagles um marco do rock dos anos 1970?",
+    "resposta": "Lançada em 1976, 'Hotel California' é um clássico por sua letra misteriosa e o solo de guitarra épico de Joe Walsh e Don Felder. A música mistura rock com elementos de folk e fala sobre excessos e ilusões da fama. O álbum homônimo é um dos mais vendidos da história. A crítica vê a faixa como um retrato da decadência americana. Sabia que os Eagles nunca explicaram o significado exato da letra, deixando fãs teorizando até hoje?",
+    "palavras_chave": ["eagles", "hotel california", "rock clássico", "guitarra", "decadência"]
+  },
+  {
+    "pergunta": "Por que o Radiohead é tão importante para o rock experimental dos anos 1990?",
+    "resposta": "O Radiohead, com álbuns como 'OK Computer' de 1997, trouxe o rock pra um terreno mais experimental, misturando eletrônica, letras distópicas e texturas sonoras complexas. Thom Yorke e cia desafiaram o formato tradicional do rock, influenciando o indie e o alternativo. A crítica considera 'OK Computer' um dos melhores álbuns de todos os tempos. Sabia que eles lançaram 'In Rainbows' em 2007 com um modelo 'pague o que quiser' online?",
+    "palavras_chave": ["radiohead", "ok computer", "rock experimental", "thom yorke", "eletrônica"]
+  },
+  {
+    "pergunta": "Como o The Kinks influenciou o rock britânico dos anos 1960?",
+    "resposta": "Os The Kinks, com músicas como 'You Really Got Me', trouxeram riffs pesados e uma energia que pavimentaram o caminho pro hard rock. As letras de Ray Davies capturavam a vida cotidiana britânica com humor e ironia, algo inovador na época. A crítica os vê como pioneiros do rock britânico. Sabia que o riff de 'You Really Got Me' foi gravado com uma guitarra rasgada pra criar aquele som cru?",
+    "palavras_chave": ["the kinks", "you really got me", "rock britânico", "ray davies", "riffs"]
+  },
+  {
+    "pergunta": "O que tornou 'Nevermind' do Nirvana tão revolucionário?",
+    "resposta": "Lançado em 1991, 'Nevermind' não só popularizou o grunge, mas mudou a cara do rock nos anos 90. A combinação de melodias pop com a crueza punk de Kurt Cobain, como em 'Come As You Are', conectou uma geração. O álbum trouxe autenticidade contra o excesso dos anos 80. A crítica o chama de divisor de águas. Sabia que o bebê da capa, Spencer Elden, processou a banda anos depois por uso de imagem?",
+    "palavras_chave": ["nirvana", "nevermind", "grunge", "kurt cobain", "autenticidade"]
+  },
+  {
+    "pergunta": "Como o U2 usou o rock para abordar temas políticos?",
+    "resposta": "O U2, liderado por Bono, sempre misturou rock com mensagens políticas e espirituais. Álbuns como 'The Joshua Tree', de 1987, com faixas como 'With or Without You', falam de amor, mas também de desigualdade e conflitos globais. A crítica elogia a capacidade deles de unir emoção e ativismo. Sabia que Bono foi indicado ao Nobel da Paz por seu trabalho humanitário?",
+    "palavras_chave": ["u2", "the joshua tree", "política", "bono", "ativismo"]
+  },
+  {
+    "pergunta": "Por que 'Rumours' do Fleetwood Mac é um clássico do rock?",
+    "resposta": "Lançado em 1977, 'Rumours' é um marco por suas melodias cativantes e letras pessoais sobre rompimentos e tensões internas da banda. Músicas como 'Go Your Own Way' refletem os dramas amorosos de Stevie Nicks e Lindsey Buckingham. A crítica ama sua honestidade emocional. Sabia que o álbum foi gravado em meio a brigas e divórcios entre os membros da banda?",
+    "palavras_chave": ["fleetwood mac", "rumours", "stevie nicks", "emoção", "go your own way"]
+  },
+  {
+    "pergunta": "Como o The Ramones definiu o punk rock americano?",
+    "resposta": "Os Ramones, com seu som rápido e simples, como em 'Blitzkrieg Bop', criaram o punk rock americano nos anos 70. Suas músicas de dois minutos, com letras diretas, influenciaram o DIY do punk. A crítica os vê como pioneiros do gênero nos EUA. Sabia que eles nunca tiveram um grande hit, mas são cultuados até hoje?",
+    "palavras_chave": ["ramones", "punk rock", "blitzkrieg bop", "diy", "simplicidade"]
+  },
+  {
+    "pergunta": "O que fez de 'Exile on Main St.' dos Rolling Stones um álbum tão único?",
+    "resposta": "Lançado em 1972, 'Exile on Main St.' é um álbum duplo que mistura rock, blues, gospel e country de forma crua. Gravado em um porão na França, ele captura a essência caótica dos Stones. A crítica o considera um dos melhores álbuns de rock da história. Sabia que o álbum foi feito enquanto a banda fugia de impostos no Reino Unido?",
+    "palavras_chave": ["rolling stones", "exile on main st", "blues", "caos", "frança"]
+  },
+  {
+    "pergunta": "Como o Pearl Jam se destacou no grunge dos anos 1990?",
+    "resposta": "O Pearl Jam, com 'Ten' de 1991, trouxe um som mais melódico e emocional pro grunge, com a voz poderosa de Eddie Vedder. Músicas como 'Alive' falam de superação e dor. Eles se mantiveram fiéis à autenticidade, rejeitando o estrelato. A crítica elogia sua longevidade. Sabia que eles boicotaram a Ticketmaster nos anos 90 por preços abusivos?",
+    "palavras_chave": ["pearl jam", "ten", "grunge", "eddie vedder", "autenticidade"]
+  },
+  {
+    "pergunta": "Por que o The Stooges é considerado precursor do punk rock?",
+    "resposta": "O The Stooges, liderado por Iggy Pop, trouxe um som agressivo e cru em álbuns como 'Raw Power' de 1973. Suas performances caóticas e letras provocadoras inspiraram o punk. A crítica vê Iggy como um ícone da rebeldia. Sabia que Iggy Pop se jogava na plateia e se cortava no palco, chocando o público da época?",
+    "palavras_chave": ["the stooges", "iggy pop", "raw power", "punk rock", "rebeldia"]
+  },
+  {
+    "pergunta": "Como o Red Hot Chili Peppers misturou funk e rock?",
+    "resposta": "O Red Hot Chili Peppers criou um som único nos anos 80, misturando funk, punk e rock. Álbuns como 'Blood Sugar Sex Magik', de 1991, com 'Under the Bridge', mostram essa fusão. A energia de Anthony Kiedis e os riffs de John Frusciante são marcantes. A crítica elogia sua inovação. Sabia que Flea, o baixista, é considerado um dos melhores do rock?",
+    "palavras_chave": ["red hot chili peppers", "funk rock", "blood sugar sex magik", "flea", "under the bridge"]
+  },
+  {
+    "pergunta": "O que tornou 'Led Zeppelin II' tão influente no hard rock?",
+    "resposta": "Lançado em 1969, 'Led Zeppelin II' consolidou o som pesado da banda com faixas como 'Whole Lotta Love'. Os riffs de Jimmy Page e a voz de Robert Plant criaram um modelo pro hard rock. A crítica o vê como um pilar do gênero. Sabia que o riff de 'Whole Lotta Love' foi acusado de plágio, mas a banda venceu a disputa judicial?",
+    "palavras_chave": ["led zeppelin", "whole lotta love", "hard rock", "jimmy page", "riffs"]
+  },
+  {
+    "pergunta": "Como o The Smiths influenciou o rock indie dos anos 1980?",
+    "resposta": "O The Smiths, com Morrissey e Johnny Marr, trouxe letras melancólicas e melodias jangly em álbuns como 'The Queen Is Dead'. Eles inspiraram o indie rock com sua estética introspectiva. A crítica ama a química entre os dois. Sabia que Morrissey escrevia letras no mesmo dia em que eram gravadas, muitas vezes improvisando?",
+    "palavras_chave": ["the smiths", "indie rock", "morrissey", "johnny marr", "the queen is dead"]
+  },
+  {
+    "pergunta": "Por que 'Axis: Bold as Love' de Jimi Hendrix é tão celebrado?",
+    "resposta": "Lançado em 1967, 'Axis: Bold as Love' mostra Hendrix explorando ainda mais a psicodelia, com faixas como 'Little Wing'. Ele mistura blues, rock e experimentação com maestria. A crítica o vê como um marco da guitarra elétrica. Sabia que Hendrix gravou o álbum em poucas semanas, mesmo sob pressão da gravadora?",
+    "palavras_chave": ["jimi hendrix", "axis bold as love", "psicodelia", "little wing", "guitarra"]
+  },
+  {
+    "pergunta": "Como o R.E.M. ajudou a popularizar o college rock?",
+    "resposta": "O R.E.M., com seu som melódico e letras poéticas, foi pioneiro do college rock nos anos 80. Álbuns como 'Document', com 'It’s the End of the World', ganharam as rádios universitárias americanas. A crítica elogia sua autenticidade. Sabia que eles começaram como uma banda de garagem em Athens, Geórgia?",
+    "palavras_chave": ["rem", "college rock", "document", "autenticidade", "athens"]
+  },
+  {
+    "pergunta": "O que fez de 'Appetite for Destruction' do Guns N' Roses um sucesso global?",
+    "resposta": "Lançado em 1987, 'Appetite for Destruction' trouxe um rock cru e energético, com hits como 'Paradise City'. A combinação de riffs de Slash e a atitude de Axl Rose conquistou o mundo. A crítica o vê como um marco do hard rock. Sabia que o álbum quase não decolou até a MTV tocar 'Sweet Child O’ Mine' sem parar?",
+    "palavras_chave": ["guns n roses", "appetite for destruction", "hard rock", "slash", "paradise city"]
+  },
+  {
+    "pergunta": "Como o Soundgarden contribuiu para o grunge?",
+    "resposta": "O Soundgarden, com Chris Cornell, trouxe um som mais pesado e sombrio pro grunge, com álbuns como 'Badmotorfinger' de 1991. Músicas como 'Black Hole Sun' misturam riffs pesados e melodias. A crítica elogia a voz única de Cornell. Sabia que Cornell compôs 'Black Hole Sun' em 15 minutos enquanto dirigia?",
+    "palavras_chave": ["soundgarden", "grunge", "black hole sun", "chris cornell", "badmotorfinger"]
+  },
+  {
+    "pergunta": "Por que 'Achtung Baby' do U2 marcou uma virada na carreira da banda?",
+    "resposta": "Lançado em 1991, 'Achtung Baby' viu o U2 abandonando o som épico dos anos 80 por algo mais experimental, com influências de dance e eletrônica. Hits como 'One' mostram vulnerabilidade. A crítica o considera um divisor de águas. Sabia que a banda quase terminou durante as gravações por desentendimentos?",
+    "palavras_chave": ["u2", "achtung baby", "experimental", "one", "reinvenção"]
+  },
+  {
+    "pergunta": "Como o The Police misturou rock com reggae?",
+    "resposta": "O The Police, liderado por Sting, trouxe uma fusão única de rock, reggae e punk em álbuns como 'Synchronicity'. Músicas como 'Every Breath You Take' são melódicas, mas com grooves de reggae. A crítica elogia a sofisticação deles. Sabia que Sting era professor antes de se tornar músico?",
+    "palavras_chave": ["the police", "reggae rock", "synchronicity", "sting", "every breath you take"]
+  },
+  {
+    "pergunta": "O que tornou 'Highway to Hell' do AC/DC um clássico?",
+    "resposta": "Lançado em 1979, 'Highway to Hell' é puro hard rock, com riffs contagiantes e a voz crua de Bon Scott. A faixa-título é um hino atemporal. A crítica vê o álbum como o auge da era Bon Scott. Sabia que foi o último álbum com ele antes de sua morte em 1980?",
+    "palavras_chave": ["ac/dc", "highway to hell", "hard rock", "bon scott", "riffs"]
+  },
+  {
+    "pergunta": "Como o Joy Division influenciou o pós-punk?",
+    "resposta": "O Joy Division, com 'Unknown Pleasures' de 1979, trouxe um som sombrio e atmosférico, com baixo pulsante e letras introspectivas de Ian Curtis. Eles definiram o pós-punk, influenciando bandas como The Cure. A crítica ama sua intensidade emocional. Sabia que a capa do álbum foi inspirada em uma onda de rádio estelar?",
+    "palavras_chave": ["joy division", "pós-punk", "unknown pleasures", "ian curtis", "atmosfera"]
+  },
+  {
+    "pergunta": "Por que 'Born in the U.S.A.' de Bruce Springsteen é tão icônico?",
+    "resposta": "Lançado em 1984, 'Born in the U.S.A.' mistura rock com letras sobre a classe trabalhadora americana. A faixa-título, muitas vezes mal interpretada como patriótica, critica a guerra do Vietnã. A crítica elogia sua honestidade. Sabia que Ronald Reagan tentou usar a música em sua campanha, mas Springsteen recusou?",
+    "palavras_chave": ["bruce springsteen", "born in the usa", "rock clássico", "classe trabalhadora", "crítica social"]
+  },
+  {
+    "pergunta": "Como o Talking Heads trouxe inovação ao rock dos anos 1980?",
+    "resposta": "O Talking Heads, com David Byrne, misturou punk, funk e world music em álbuns como 'Remain in Light'. Faixas como 'Once in a Lifetime' têm ritmos complexos e letras surreais. A crítica os vê como pioneiros do art rock. Sabia que eles colaboraram com Brian Eno, que revolucionou a produção do álbum?",
+    "palavras_chave": ["talking heads", "remain in light", "art rock", "david byrne", "brian eno"]
+  },
+  {
+    "pergunta": "O que fez de 'Are You Experienced' de Jimi Hendrix um divisor de águas?",
+    "resposta": "Lançado em 1967, 'Are You Experienced' apresentou Hendrix ao mundo com faixas como 'Purple Haze'. Sua mistura de blues, psicodelia e improvisação na guitarra mudou o rock. A crítica o chama de revolucionário. Sabia que Hendrix tocava a guitarra de cabeça pra baixo por ser canhoto?",
+    "palavras_chave": ["jimi hendrix", "are you experienced", "psicodelia", "purple haze", "guitarra"]
+  },
+  {
+    "pergunta": "Como o Creedence Clearwater Revival trouxe o som do sul dos EUA para o rock?",
+    "resposta": "O Creedence, liderado por John Fogerty, trouxe o swamp rock, misturando rock com blues e country, como em 'Proud Mary'. Suas letras evocam o sul americano, mesmo sendo da Califórnia. Álbuns como 'Cosmo’s Factory' são clássicos dos anos 70. A crítica ama sua autenticidade. Sabia que 'Fortunate Son' foi um hino de protesto contra a Guerra do Vietnã?",
+    "palavras_chave": ["creedence", "swamp rock", "proud mary", "john fogerty", "protesto"]
+  },
+  {
+    "pergunta": "Por que 'Thriller' de Michael Jackson influenciou o rock dos anos 1980?",
+    "resposta": "Embora Michael Jackson seja pop, 'Thriller', de 1982, trouxe elementos de rock, como o solo de Eddie Van Halen em 'Beat It'. O álbum misturou gêneros e popularizou clipes épicos, influenciando bandas de rock a investir em vídeos. A crítica o vê como um marco cultural. Sabia que 'Thriller' é o álbum mais vendido de todos os tempos?",
+    "palavras_chave": ["michael jackson", "thriller", "beat it", "clipes", "crossover"]
+  },
+  {
+    "pergunta": "Como o The Cure definiu o rock gótico dos anos 1980?",
+    "resposta": "O The Cure, com Robert Smith, trouxe o rock gótico com álbuns como 'Disintegration', de 1989. Suas letras melancólicas e sons atmosféricos, como em 'Lovesong', criaram um estilo único. A crítica elogia sua influência no emo e indie. Sabia que Robert Smith usava maquiagem e cabelo bagunçado pra criar a estética gótica?",
+    "palavras_chave": ["the cure", "rock gótico", "disintegration", "robert smith", "lovesong"]
+  },
+  {
+    "pergunta": "O que fez de 'Revolver' dos Beatles um marco no rock psicodélico?",
+    "resposta": "Lançado em 1966, 'Revolver' marcou a transição dos Beatles para o psicodélico, com faixas como 'Tomorrow Never Knows', que usa loops e efeitos experimentais. A produção de George Martin elevou o rock a um nível artístico. A crítica o considera revolucionário. Sabia que John Lennon se inspirou em experiências com LSD para compor a faixa principal?",
+    "palavras_chave": ["beatles", "revolver", "psicodelia", "tomorrow never knows", "george martin"]
+  },
+  {
+    "pergunta": "Como o Van Halen revolucionou o hard rock nos anos 1970?",
+    "resposta": "O Van Halen, com Eddie Van Halen, trouxe virtuosismo à guitarra com técnicas como o tapping, em faixas como 'Eruption'. O álbum de estreia, de 1978, com 'Runnin’ with the Devil', é um clássico do hard rock. A crítica ama sua energia. Sabia que Eddie construiu sua guitarra 'Frankenstrat' com peças improvisadas?",
+    "palavras_chave": ["van halen", "hard rock", "eruption", "eddie van halen", "tapping"]
+  },
+  {
+    "pergunta": "Por que 'London Calling' do The Clash é tão aclamado?",
+    "resposta": "Lançado em 1979, 'London Calling' é um álbum duplo que mistura punk, reggae e rockabilly, com letras políticas como na faixa-título. O The Clash mostrou que o punk podia ser sofisticado. A crítica o vê como um dos maiores álbuns da história. Sabia que a capa imita o design de um álbum de Elvis Presley?",
+    "palavras_chave": ["the clash", "london calling", "punk", "reggae", "política"]
+  },
+  {
+    "pergunta": "Como o Foo Fighters manteve o rock relevante nos anos 1990 e 2000?",
+    "resposta": "O Foo Fighters, liderado por Dave Grohl, trouxe um rock acessível e emocional após o grunge, com álbuns como 'The Colour and the Shape'. Hits como 'Everlong' combinam energia e melodia. A crítica elogia sua consistência. Sabia que Dave Grohl gravou o primeiro álbum sozinho, tocando todos os instrumentos?",
+    "palavras_chave": ["foo fighters", "dave grohl", "everlong", "rock alternativo", "melodia"]
+  },
+  {
+    "pergunta": "O que tornou 'Paranoid' do Black Sabbath um pilar do heavy metal?",
+    "resposta": "Lançado em 1970, 'Paranoid' trouxe riffs pesados e letras sombrias, como na faixa-título e 'Iron Man'. A banda consolidou o heavy metal com um som que influenciou Metallica e outros. A crítica o vê como essencial. Sabia que o álbum foi gravado em apenas dois dias?",
+    "palavras_chave": ["black sabbath", "paranoid", "heavy metal", "riffs", "iron man"]
+  },
+  {
+    "pergunta": "Como o Blondie misturou punk e new wave nos anos 1970?",
+    "resposta": "O Blondie, com Debbie Harry, combinou punk com pop e new wave em álbuns como 'Parallel Lines', de 1978. Hits como 'Heart of Glass' têm batidas dançantes e atitude punk. A crítica elogia sua versatilidade. Sabia que 'Heart of Glass' começou como uma música reggae antes de virar disco?",
+    "palavras_chave": ["blondie", "new wave", "parallel lines", "debbie harry", "heart of glass"]
+  },
+  {
+    "pergunta": "Por que 'Physical Graffiti' do Led Zeppelin é tão celebrado?",
+    "resposta": "Lançado em 1975, 'Physical Graffiti' é um álbum duplo que mostra a versatilidade do Led Zeppelin, com faixas pesadas como 'Kashmir' e acústicas como 'Bron-Yr-Aur'. A crítica o vê como um auge criativo. Sabia que 'Kashmir' foi inspirada por uma viagem de Robert Plant ao Marrocos, mas sem nunca visitar a região de Caxemira?",
+    "palavras_chave": ["led zeppelin", "physical graffiti", "kashmir", "versatilidade", "robert plant"]
+  },
+  {
+    "pergunta": "Como o Rage Against the Machine usou o rock para protestar?",
+    "resposta": "O Rage Against the Machine misturou rap e metal em álbuns como o de estreia, de 1992, com 'Killing in the Name'. As letras de Zack de la Rocha abordam racismo e capitalismo. A crítica elogia seu impacto político. Sabia que a banda tocou em protestos reais, como na convenção democrata de 2000?",
+    "palavras_chave": ["rage against the machine", "rap metal", "protesto", "zack de la rocha", "killing in the name"]
+  },
+  {
+    "pergunta": "O que fez de 'Rubber Soul' dos Beatles um marco no rock?",
+    "resposta": "Lançado em 1965, 'Rubber Soul' marcou uma evolução dos Beatles, com letras mais maduras e sons inovadores, como o sitar em 'Norwegian Wood'. A crítica o vê como o início do rock como arte. Sabia que o título é uma brincadeira com a expressão 'plastic soul', criticando o soul comercial?",
+    "palavras_chave": ["beatles", "rubber soul", "norwegian wood", "sitar", "maturidade"]
+  },
+  {
+    "pergunta": "Como o Smashing Pumpkins se destacou no rock alternativo?",
+    "resposta": "O Smashing Pumpkins, com Billy Corgan, trouxe um som introspectivo e épico em álbuns como 'Siamese Dream', de 1993. Hits como 'Today' misturam melancolia e energia. A crítica elogia sua produção grandiosa. Sabia que Corgan gravou quase todas as partes de guitarra e baixo sozinho no estúdio?",
+    "palavras_chave": ["smashing pumpkins", "siamese dream", "rock alternativo", "billy corgan", "today"]
+  },
+  {
+    "pergunta": "Por que 'Hysteria' do Def Leppard é um clássico do rock dos anos 1980?",
+    "resposta": "Lançado em 1987, 'Hysteria' trouxe um som polido, com hits como 'Pour Some Sugar on Me'. A produção de Mutt Lange e os vocais de Joe Elliott definiram o hair metal. A crítica ama sua acessibilidade. Sabia que o baterista Rick Allen tocou com um braço só após um acidente?",
+    "palavras_chave": ["def leppard", "hysteria", "hair metal", "rick allen", "pour some sugar"]
+  },
+  {
+    "pergunta": "Como o The Band influenciou o rock com raízes americanas?",
+    "resposta": "O The Band, com álbuns como 'Music from Big Pink', de 1968, trouxe um som que misturava rock, folk e country, como em 'The Weight'. Suas letras evocam a América rural. A crítica os vê como pioneiros do Americana. Sabia que eles foram a banda de apoio de Bob Dylan na sua fase elétrica?",
+    "palavras_chave": ["the band", "music from big pink", "americana", "the weight", "bob dylan"]
+  },
+  {
+    "pergunta": "O que tornou 'Master of Puppets' do Metallica tão icônico?",
+    "resposta": "Lançado em 1986, 'Master of Puppets' é um marco do thrash metal, com riffs complexos e letras sobre controle e vício. A faixa-título é um hino do gênero. A crítica elogia sua intensidade. Sabia que foi o último álbum com o baixista Cliff Burton, que morreu em um acidente meses depois?",
+    "palavras_chave": ["metallica", "master of puppets", "thrash metal", "cliff burton", "riffs"]
+  },
+  {
+    "pergunta": "Como o Pixies influenciou o rock alternativo dos anos 1980?",
+    "resposta": "O Pixies, com 'Doolittle' de 1989, trouxe um som dinâmico, alternando entre calmo e explosivo, como em 'Monkey Gone to Heaven'. Eles inspiraram bandas como Nirvana. A crítica ama sua originalidade. Sabia que Kurt Cobain admitiu que 'Smells Like Teen Spirit' foi inspirada no estilo do Pixies?",
+    "palavras_chave": ["pixies", "doolittle", "rock alternativo", "kurt cobain", "dinâmica"]
+  },
+  {
+    "pergunta": "Por que 'Electric Ladyland' de Jimi Hendrix é tão reverenciado?",
+    "resposta": "Lançado em 1968, 'Electric Ladyland' é um álbum duplo que mostra Hendrix no auge, com faixas como 'All Along the Watchtower'. Ele mistura psicodelia, blues e funk. A crítica o vê como um marco experimental. Sabia que Hendrix produziu o álbum e até desenhou o estúdio onde foi gravado?",
+    "palavras_chave": ["jimi hendrix", "electric ladyland", "psicodelia", "all along the watchtower", "produção"]
+  },
+  {
+    "pergunta": "Como o Aerosmith se manteve relevante nos anos 1990?",
+    "resposta": "O Aerosmith voltou ao topo nos anos 90 com álbuns como 'Get a Grip', de 1993, e hits como 'Cryin’'. Eles adotaram um som mais pop, com baladas épicas, mantendo o hard rock. A crítica elogia sua reinvenção. Sabia que os clipes com Alicia Silverstone ajudaram a atrair uma nova geração de fãs?",
+    "palavras_chave": ["aerosmith", "get a grip", "hard rock", "cryin", "clipes"]
+  },
+  {
+    "pergunta": "O que fez de 'Harvest' de Neil Young um clássico do rock?",
+    "resposta": "Lançado em 1972, 'Harvest' trouxe o folk rock de Neil Young com letras introspectivas, como em 'Heart of Gold'. O álbum é simples, mas emocional, conectando gerações. A crítica o vê como um marco do gênero. Sabia que Young gravou o álbum com uma fratura nas costas, usando um colete ortopédico?",
+    "palavras_chave": ["neil young", "harvest", "folk rock", "heart of gold", "introspecção"]
+  },
+  {
+    "pergunta": "Como o Depeche Mode influenciou o rock eletrônico?",
+    "resposta": "O Depeche Mode, com álbuns como 'Violator', de 1990, misturou rock com sintetizadores, como em 'Personal Jesus'. Eles trouxeram o eletrônico para o mainstream, influenciando o rock alternativo. A crítica elogia sua inovação. Sabia que 'Personal Jesus' inspirou covers de Johnny Cash e Marilyn Manson?",
+    "palavras_chave": ["depeche mode", "violator", "rock eletrônico", "personal jesus", "sintetizadores"]
+  },
+  {
+    "pergunta": "Por que 'Who’s Next' do The Who é tão importante?",
+    "resposta": "Lançado em 1971, 'Who’s Next' trouxe um som poderoso com sintetizadores, como em 'Baba O’Riley'. Pete Townshend explorou temas de rebeldia e espiritualidade. A crítica o considera um clássico do rock. Sabia que o álbum nasceu de um projeto de ópera rock abandonado chamado 'Lifehouse'?",
+    "palavras_chave": ["the who", "who’s next", "baba o’riley", "sintetizadores", "pete townshend"]
+  },
+  {
+    "pergunta": "Como o Green Day revitalizou o punk rock nos anos 1990?",
+    "resposta": "O Green Day, com 'Dookie' de 1994, trouxe o punk rock de volta ao mainstream com músicas como 'Basket Case'. Suas letras sobre juventude e rebeldia conectaram uma nova geração. A crítica elogia sua energia. Sabia que 'Dookie' vendeu mais de 20 milhões de cópias no mundo?",
+    "palavras_chave": ["green day", "dookie", "punk rock", "basket case", "juventude"]
+  },
+  {
+    "pergunta": "O que tornou 'Ziggy Stardust' de David Bowie tão icônico?",
+    "resposta": "Lançado em 1972, 'The Rise and Fall of Ziggy Stardust' é um álbum conceitual sobre um rockstar alienígena. Bowie mistura glam rock e teatro, com faixas como 'Starman'. A crítica o vê como um marco cultural. Sabia que Bowie criou o personagem Ziggy inspirado em um músico real, Vince Taylor?",
+    "palavras_chave": ["david bowie", "ziggy stardust", "glam rock", "starman", "conceitual"]
+  },
+  {
+    "pergunta": "Como o Linkin Park misturou nu-metal e rock alternativo?",
+    "resposta": "O Linkin Park, com 'Hybrid Theory' de 2000, combinou nu-metal, rap e rock alternativo em hits como 'In the End'. A voz de Chester Bennington e os riffs de Mike Shinoda criaram um som emocional. A crítica elogia sua inovação. Sabia que 'Hybrid Theory' é um dos álbuns de estreia mais vendidos do século XXI?",
+    "palavras_chave": ["linkin park", "hybrid theory", "nu-metal", "in the end", "chester bennington"]
+  },
+  {
+    "pergunta": "Como o The Eagles of Death Metal contribuiu para o rock de garagem?",
+    "resposta": "O Eagles of Death Metal, liderado por Jesse Hughes e Josh Homme, trouxe um som cru e divertido com álbuns como 'Peace, Love, Death Metal', de 2004. Músicas como 'I Only Want You' misturam garage rock com humor e energia. A crítica elogia sua atitude despretensiosa. Sabia que, apesar do nome, a banda não toca death metal, mas sim um rock leve inspirado nos anos 70?",
+    "palavras_chave": ["eagles of death metal", "garage rock", "josh homme", "peace love death metal", "humor"]
+  },
+  {
+    "pergunta": "Por que 'Ten' do Pearl Jam é considerado um marco do grunge?",
+    "resposta": "Lançado em 1991, 'Ten' trouxe o grunge ao mainstream com faixas como 'Jeremy' e 'Porch'. A voz emotiva de Eddie Vedder e os riffs de Mike McCready capturam angústia e energia. A crítica vê o álbum como definidor do gênero. Sabia que 'Ten' levou quase um ano para alcançar o topo das paradas?",
+    "palavras_chave": ["pearl jam", "ten", "grunge", "eddie vedder", "jeremy"]
+  },
+  {
+    "pergunta": "Como o Roxy Music influenciou o glam rock dos anos 1970?",
+    "resposta": "O Roxy Music, com Brian Eno e Bryan Ferry, trouxe sofisticação ao glam rock com álbuns como 'For Your Pleasure', de 1973. Músicas como 'Do the Strand' misturam art rock e glamour. A crítica elogia sua inovação estética. Sabia que Brian Eno saiu da banda após o segundo álbum por divergências criativas?",
+    "palavras_chave": ["roxy music", "glam rock", "brian eno", "bryan ferry", "for your pleasure"]
+  },
+  {
+    "pergunta": "O que tornou 'Houses of the Holy' do Led Zeppelin tão diversificado?",
+    "resposta": "Lançado em 1973, 'Houses of the Holy' mostra o Led Zeppelin explorando funk, reggae e baladas, como em 'The Ocean' e 'No Quarter'. A banda expandiu o hard rock com experimentação. A crítica ama sua versatilidade. Sabia que a capa, com crianças em uma praia, foi inspirada em um livro de ficção científica?",
+    "palavras_chave": ["led zeppelin", "houses of the holy", "versatilidade", "no quarter", "experimentação"]
+  },
+  {
+    "pergunta": "Como o Nine Inch Nails trouxe o industrial para o rock?",
+    "resposta": "O Nine Inch Nails, liderado por Trent Reznor, misturou rock com sons industriais em álbuns como 'The Downward Spiral', de 1994. Faixas como 'Closer' combinam eletrônica e angústia. A crítica o vê como pioneiro do industrial rock. Sabia que Reznor gravou o álbum em uma casa onde um crime famoso aconteceu?",
+    "palavras_chave": ["nine inch nails", "industrial rock", "the downward spiral", "trent reznor", "closer"]
+  },
+  {
+    "pergunta": "Por que 'Dookie' do Green Day é um marco do punk pop?",
+    "resposta": "Lançado em 1994, 'Dookie' trouxe o punk pop ao mainstream com hits como 'When I Come Around'. Billie Joe Armstrong escreveu letras sobre tédio e juventude com energia contagiante. A crítica elogia sua acessibilidade. Sabia que o álbum foi gravado em apenas três semanas?",
+    "palavras_chave": ["green day", "dookie", "punk pop", "billie joe armstrong", "when i come around"]
+  },
+  {
+    "pergunta": "Como o The White Stripes revitalizou o rock nos anos 2000?",
+    "resposta": "O The White Stripes, com Jack e Meg White, trouxe um som minimalista e cru com 'White Blood Cells', de 2001. Hits como 'Fell in Love with a Girl' resgataram o garage rock. A crítica ama sua autenticidade. Sabia que Jack e Meg se apresentavam como irmãos, mas eram ex-marido e esposa?",
+    "palavras_chave": ["white stripes", "garage rock", "white blood cells", "jack white", "minimalismo"]
+  },
+  {
+    "pergunta": "O que fez de 'Backspacer' do Pearl Jam um retorno às raízes?",
+    "resposta": "Lançado em 2009, 'Backspacer' trouxe o Pearl Jam de volta a um som mais direto e otimista, com faixas como 'The Fixer'. Após álbuns experimentais, eles resgataram o espírito do grunge. A crítica elogia sua energia. Sabia que o álbum foi lançado de forma independente, sem grande gravadora?",
+    "palavras_chave": ["pearl jam", "backspacer", "grunge", "the fixer", "independente"]
+  },
+  {
+    "pergunta": "Como o Arcade Fire trouxe emoção ao indie rock?",
+    "resposta": "O Arcade Fire, com 'Funeral' de 2004, trouxe letras emocionais e arranjos grandiosos, como em 'Wake Up'. A banda mistura rock com orquestrações épicas. A crítica os vê como ícones do indie. Sabia que o álbum foi inspirado por perdas pessoais dos membros da banda?",
+    "palavras_chave": ["arcade fire", "funeral", "indie rock", "wake up", "emoção"]
+  },
+  {
+    "pergunta": "Por que 'Use Your Illusion' do Guns N’ Roses é tão ambicioso?",
+    "resposta": "Lançado em 1991, 'Use Your Illusion I e II' são álbuns duplos com faixas como 'November Rain', que misturam hard rock, baladas e épicos. A crítica elogia sua grandiosidade, apesar das tensões internas. Sabia que o clipe de 'November Rain' custou mais de um milhão de dólares?",
+    "palavras_chave": ["guns n roses", "use your illusion", "november rain", "hard rock", "grandiosidade"]
+  },
+  {
+    "pergunta": "Como o Sonic Youth influenciou o noise rock?",
+    "resposta": "O Sonic Youth, com álbuns como 'Daydream Nation', de 1988, trouxe experimentação com guitarras dissonantes e letras poéticas. Eles inspiraram o rock alternativo e o grunge. A crítica ama sua inovação. Sabia que eles usavam afinações alternativas e até chaves de fenda nas guitarras?",
+    "palavras_chave": ["sonic youth", "daydream nation", "noise rock", "experimentação", "guitarras"]
+  },
+  {
+    "pergunta": "O que tornou 'Blood on the Tracks' de Bob Dylan tão pessoal?",
+    "resposta": "Lançado em 1975, 'Blood on the Tracks' é um dos álbuns mais pessoais de Bob Dylan, com faixas como 'Tangled Up in Blue' sobre amor e perda. A crítica o vê como um marco do folk rock. Sabia que Dylan negou que o álbum fosse sobre seu divórcio, mas muitos fãs discordam?",
+    "palavras_chave": ["bob dylan", "blood on the tracks", "folk rock", "tangled up in blue", "pessoal"]
+  },
+  {
+    "pergunta": "Como o Muse trouxe teatralidade ao rock dos anos 2000?",
+    "resposta": "O Muse, com álbuns como 'Absolution', de 2003, trouxe um rock grandioso com letras apocalípticas e vocais dramáticos de Matt Bellamy. Faixas como 'Hysteria' são épicas. A crítica elogia sua energia ao vivo. Sabia que Bellamy é inspirado por música clássica, como Rachmaninoff?",
+    "palavras_chave": ["muse", "absolution", "hysteria", "teatralidade", "matt bellamy"]
+  },
+  {
+    "pergunta": "Por que 'Machine Head' do Deep Purple é um clássico do hard rock?",
+    "resposta": "Lançado em 1972, 'Machine Head' trouxe hinos como 'Highway Star' e 'Smoke on the Water'. O som pesado e os solos de Ritchie Blackmore definiram o hard rock. A crítica o vê como essencial. Sabia que o álbum foi gravado em um hotel na Suíça após um incêndio no local original?",
+    "palavras_chave": ["deep purple", "machine head", "hard rock", "smoke on the water", "ritchie blackmore"]
+  },
+  {
+    "pergunta": "Como o The Strokes revitalizou o rock no início dos anos 2000?",
+    "resposta": "O The Strokes, com 'Is This It', de 2001, trouxe um som garage rock com atitude nova-iorquina. Faixas como 'Last Nite' resgataram a simplicidade do rock. A crítica os vê como líderes do revival pós-punk. Sabia que a capa do álbum foi censurada nos EUA por ser considerada explícita?",
+    "palavras_chave": ["the strokes", "is this it", "garage rock", "last nite", "pós-punk"]
+  },
+  {
+    "pergunta": "O que fez de 'Bridge Over Troubled Water' de Simon & Garfunkel um marco?",
+    "resposta": "Lançado em 1970, 'Bridge Over Troubled Water' mistura folk rock com letras emocionais, como na faixa-título. A harmonia de Paul Simon e Art Garfunkel é icônica. A crítica o vê como um clássico atemporal. Sabia que a dupla se separou logo após o sucesso do álbum?",
+    "palavras_chave": ["simon & garfunkel", "bridge over troubled water", "folk rock", "harmonia", "separação"]
+  },
+  {
+    "pergunta": "Como o System of a Down trouxe temas políticos ao nu-metal?",
+    "resposta": "O System of a Down, com álbuns como 'Toxicity', de 2001, misturou nu-metal com letras sobre guerra e injustiça, como em 'Chop Suey!'. A crítica elogia sua intensidade política. Sabia que a banda tem raízes armênias e defende causas como o reconhecimento do genocídio armênio?",
+    "palavras_chave": ["system of a down", "toxicity", "nu-metal", "chop suey", "política"]
+  },
+  {
+    "pergunta": "Por que 'Darkness on the Edge of Town' de Bruce Springsteen é tão poderoso?",
+    "resposta": "Lançado em 1978, 'Darkness on the Edge of Town' explora a luta da classe trabalhadora com faixas como 'Badlands'. O som cru e as letras de Springsteen são viscerais. A crítica o vê como um marco emocional. Sabia que o álbum foi gravado após uma batalha legal que quase acabou com sua carreira?",
+    "palavras_chave": ["bruce springsteen", "darkness on the edge", "badlands", "classe trabalhadora", "emoção"]
+  },
+  {
+    "pergunta": "Como o My Chemical Romance definiu o emo dos anos 2000?",
+    "resposta": "O My Chemical Romance, com 'The Black Parade', de 2006, trouxe o emo ao mainstream com um álbum conceitual sobre morte e redenção. Faixas como 'Welcome to the Black Parade' são teatrais. A crítica elogia sua narrativa. Sabia que o álbum foi inspirado em óperas rock como 'The Wall'?",
+    "palavras_chave": ["my chemical romance", "the black parade", "emo", "conceitual", "welcome to the black parade"]
+  },
+  {
+    "pergunta": "O que tornou 'Aftermath' dos Rolling Stones um marco?",
+    "resposta": "Lançado em 1966, 'Aftermath' foi o primeiro álbum dos Rolling Stones com composições originais de Jagger e Richards, como 'Paint It Black'. Ele mistura rock e psicodelia. A crítica o vê como um passo à maturidade. Sabia que 'Paint It Black' usa sitar, inspirado pelos Beatles?",
+    "palavras_chave": ["rolling stones", "aftermath", "paint it black", "psicodelia", "jagger richards"]
+  },
+  {
+    "pergunta": "Como o Coldplay evoluiu do rock alternativo para o mainstream?",
+    "resposta": "O Coldplay, com 'Parachutes' em 2000, começou com um som introspectivo, como em 'Yellow'. Com o tempo, álbuns como 'A Rush of Blood to the Head' adicionaram grandiosidade. A crítica elogia sua adaptação. Sabia que Chris Martin escreveu 'Yellow' inspirado por uma noite estrelada?",
+    "palavras_chave": ["coldplay", "parachutes", "yellow", "rock alternativo", "mainstream"]
+  },
+  {
+    "pergunta": "Por que 'Ride the Lightning' do Metallica é tão influente?",
+    "resposta": "Lançado em 1984, 'Ride the Lightning' trouxe o Metallica ao topo do thrash metal com faixas como 'Fade to Black'. O álbum combina velocidade e melodia. A crítica o vê como um marco do gênero. Sabia que a faixa-título foi inspirada em um romance de Stephen King?",
+    "palavras_chave": ["metallica", "ride the lightning", "thrash metal", "fade to black", "melodia"]
+  },
+  {
+    "pergunta": "Como o The Killers trouxe o pós-punk para os anos 2000?",
+    "resposta": "O The Killers, com 'Hot Fuss', de 2004, trouxe um som inspirado no pós-punk e new wave, com hits como 'Mr. Brightside'. Brandon Flowers criou hinos dançantes e emotivos. A crítica elogia sua energia. Sabia que 'Mr. Brightside' continua sendo um dos maiores hits ao vivo da banda?",
+    "palavras_chave": ["the killers", "hot fuss", "pós-punk", "mr brightside", "brandon flowers"]
+  },
+  {
+    "pergunta": "O que fez de 'Harvest Moon' de Neil Young um retorno triunfal?",
+    "resposta": "Lançado em 1992, 'Harvest Moon' trouxe Neil Young de volta ao folk rock com faixas como a faixa-título, cheia de romantismo e simplicidade. A crítica o vê como uma continuação de 'Harvest'. Sabia que Young usou a mesma banda de apoio de 'Harvest', 20 anos depois?",
+    "palavras_chave": ["neil young", "harvest moon", "folk rock", "romantismo", "simplicidade"]
+  },
+  {
+    "pergunta": "Como o Queens of the Stone Age redefiniu o stoner rock?",
+    "resposta": "O Queens of the Stone Age, liderado por Josh Homme, trouxe um som pesado e melódico com 'Songs for the Deaf', de 2002. Faixas como 'No One Knows' misturam riffs e grooves. A crítica elogia sua originalidade. Sabia que Dave Grohl tocou bateria no álbum como convidado?",
+    "palavras_chave": ["queens of the stone age", "stoner rock", "songs for the deaf", "josh homme", "no one knows"]
+  }
+]

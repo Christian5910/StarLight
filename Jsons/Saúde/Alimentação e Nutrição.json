@@ -1,0 +1,597 @@
+[
+  {
+    "pergunta": "O que são macronutrientes e por que são importantes?",
+    "resposta": "Os macronutrientes são os componentes principais da nossa alimentação, necessários em grandes quantidades para fornecer energia e manter as funções vitais do corpo. Eles são três: os carboidratos, que são a nossa principal fonte de energia; as proteínas, fundamentais para construir e reparar tecidos, como músculos e órgãos; e as gorduras, que, além de serem uma reserva energética, são essenciais para a absorção de vitaminas e para a saúde hormonal. Um prato equilibrado contém uma proporção inteligente dos três. Sabia que, ao contrário do que se pensa, dietas com muito pouco carboidrato podem levar a fadiga e mau humor, pois o cérebro prefere a glicose dos carboidratos como combustível?",
+    "palavras_chave": ["carboidratos", "proteínas", "gorduras", "energia", "dieta equilibrada"]
+  },
+  {
+    "pergunta": "Para que servem as vitaminas e os minerais?",
+    "resposta": "Eles são os micronutrientes, necessários em pequenas quantidades, mas com funções gigantescas. Atuam como cofatores em praticamente todos os processos bioquímicos do corpo. Por exemplo, o ferro carrega oxigênio no sangue, o cálcio fortalece ossos e dentes, e a vitamina C é crucial para o sistema imunológico e para a saúde da pele. Uma deficiência de vitaminas, mesmo que leve, pode causar cansaço, queda de cabelo e baixa imunidade. Sabia que a vitamina D, apelidada de 'vitamina do sol', na verdade funciona mais como um hormônio no nosso corpo e é difícil de obter em quantidades suficientes apenas pela alimentação?",
+    "palavras_chave": ["micronutrientes", "vitaminas", "minerais", "deficiência nutricional", "saúde"]
+  },
+  {
+    "pergunta": "O que é a Dieta Mediterrânea e por que é tão elogiada?",
+    "resposta": "Mais do que uma dieta, é um padrão alimentar inspirado nos hábitos dos países banhados pelo Mar Mediterrâneo. Ela é baseada no consumo abundante de frutas, verduras, legumes, grãos integrais, oleaginosas e azeite de oliva; peixes e frutos do mar com frequência; consumo moderado de aves, ovos e laticínios; e baixa ingestão de carne vermelha e doces. É elogiada porque inúmeros estudos associam esse padrão a uma vida mais longa, com menor risco de doenças cardíacas, derrames, diabetes tipo 2 e declínio cognitivo. A combinação de gorduras boas, fibras e antioxidantes é a chave do sucesso. Sabia que o azeite de oliva extravirgem, estrela da dieta, é rico em polifenóis, compostos com potente ação anti-inflamatória?",
+    "palavras_chave": ["dieta mediterrânea", "azeite de oliva", "padrão alimentar", "doenças crônicas", "longevidade"]
+  },
+  {
+    "pergunta": "Comer carboidrato à noite engorda?",
+    "resposta": "Esse é um mito muito persistente. O que realmente determina o ganho ou perda de peso é o balanço energético total ao longo do dia — se você consome mais calorias do que gasta. Não há evidência científica robusta de que o horário em que se come carboidrato influencie diretamente no acúmulo de gordura. O que pode acontecer é que, à noite, as pessoas tendem a ser mais sedentárias e, por vezes, a escolher carboidratos refinados em excesso, como pão branco e doces. A qualidade do carboidrato (preferir os integrais) e a quantidade total são muito mais importantes do que o relógio. Sabia que uma pequena porção de carboidrato complexo, como batata-doce, no jantar pode até ajudar na produção de serotonina, melhorando a qualidade do sono?",
+    "palavras_chave": ["carboidratos", "mito", "ganho de peso", "balanço energético", "horário das refeições"]
+  },
+  {
+    "pergunta": "O que são alimentos probióticos e prebióticos?",
+    "resposta": "Eles são os grandes aliados da nossa saúde intestinal. Os probióticos são alimentos que contêm micro-organismos vivos benéficos, como os lactobacilos. Eles ajudam a povoar nossa flora intestinal, melhorando a digestão e a imunidade. Exemplos são iogurte natural, kefir e chucrute. Já os prebióticos são as 'fibras' que servem de alimento para esses micro-organismos bons. Eles estão presentes em alimentos como alho, cebola, banana verde e aveia. Consumi-los em conjunto, o que se chama de simbiótico, é a estratégia mais poderosa para manter um intestino saudável. Sabia que cerca de 70% do nosso sistema imunológico está localizado no intestino? Por isso, cuidar dele com probióticos e prebióticos é fundamental.",
+    "palavras_chave": ["probióticos", "prebióticos", "saúde intestinal", "flora bacteriana", "imunidade"]
+  },
+  {
+    "pergunta": "O glúten faz mal para todo mundo?",
+    "resposta": "Não, o glúten só é realmente prejudicial para um grupo específico de pessoas. Ele é uma proteína presente no trigo, centeio e cevada. Para quem tem doença celíaca, uma condição autoimune, o glúten desencadeia uma reação inflamatória grave no intestino. Há também pessoas com sensibilidade não celíaca ao glúten, que podem ter sintomas como inchaço e dor. No entanto, para a grande maioria da população, o glúten é inofensivo e cortá-lo da dieta sem necessidade pode levar a deficiências nutricionais, já que muitos produtos integrais com glúten são fontes importantes de fibras e vitaminas do complexo B. Sabia que a moda 'gluten-free' fez com que muitas pessoas trocassem pães integrais por opções industrializadas sem glúten, que muitas vezes são mais pobres em nutrientes e ricas em açúcar e gordura?",
+    "palavras_chave": ["glúten", "doença celíaca", "sensibilidade", "mito", "dieta sem glúten"]
+  },
+  {
+    "pergunta": "Qual a diferença entre gordura saturada e insaturada?",
+    "resposta": "A diferença está na estrutura química, o que define como elas se comportam no nosso corpo e impactam a saúde. As gorduras insaturadas, geralmente líquidas em temperatura ambiente, são consideradas 'gorduras boas'. Elas ajudam a reduzir o colesterol ruim (LDL) e a aumentar o bom (HDL). Estão no azeite, abacate, castanhas e peixes gordurosos. Já as gorduras saturadas, sólidas em temperatura ambiente, estão presentes principalmente em alimentos de origem animal, como carne vermelha gordurosa, manteiga e queijos amarelos. Seu consumo excessivo está associado ao aumento do colesterol LDL e ao maior risco de doenças cardíacas. A chave, mais uma vez, é o equilíbrio e a preferência pelas fontes insaturadas. Sabia que o coco e o azeite de dendê são exceções no reino vegetal, pois são ricos em gorduras saturadas?",
+    "palavras_chave": ["gordura saturada", "gordura insaturada", "colesterol", "saúde cardiovascular", "azeite"]
+  },
+  {
+    "pergunta": "O que é o Índice Glicêmico dos alimentos?",
+    "resposta": "O Índice Glicêmico, ou IG, é uma escala que classifica os carboidratos de 0 a 100 com base na velocidade com que eles elevam o nível de glicose no sangue após serem consumidos. Alimentos com IG alto, como pão branco e açúcar, são digeridos rapidamente, causando um pico de glicose e, consequentemente, de insulina no sangue. Já os alimentos com IG baixo, como a maioria das frutas, legumes e grãos integrais, são digeridos lentamente, fornecendo energia de forma constante e promovendo maior saciedade. Controlar o IG da dieta é uma estratégia importante, especialmente para diabéticos e para quem busca manter o peso. Sabia que a forma de preparo altera o IG? Cozinhar demais um macarrão, por exemplo, aumenta seu índice glicêmico.",
+    "palavras_chave": ["índice glicêmico", "glicose", "insulina", "carboidratos", "saciedade"]
+  },
+  {
+    "pergunta": "Beber água durante a refeição faz mal?",
+    "resposta": "Essa é outra crença popular sem grande embasamento científico. Beber uma quantidade moderada de água durante as refeições não 'dilui o suco gástrico' a ponto de atrapalhar significativamente a digestão. O estômago é perfeitamente capaz de ajustar sua acidez. No entanto, beber litros de líquido de uma vez pode, sim, acelerar o esvaziamento gástrico, dando uma sensação de inchaço e, para algumas pessoas, desconforto. O principal cuidado é com o que se bebe: refrigerantes e sucos muito açucarados adicionam calorias vazias à refeição. A recomendação mais sensata é beber com moderação e priorizar a água. Sabia que a sensação de sede muitas vezes é confundida com fome? Beber um copo de água antes da refeição pode ajudar a controlar o apetite.",
+    "palavras_chave": ["água", "digestão", "refeições", "mito", "suco gástrico"]
+  },
+  {
+    "pergunta": "O que são alimentos orgânicos?",
+    "resposta": "Alimentos orgânicos são aqueles produzidos sem o uso de agrotóxicos sintéticos, fertilizantes químicos, organismos geneticamente modificados (transgênicos) ou drogas veterinárias, como antibióticos e hormônios. O cultivo prioriza técnicas que respeitam o meio ambiente, como a rotação de culturas e o controle biológico de pragas. A principal vantagem do consumo de orgânicos é a redução da exposição a resíduos de pesticidas, o que é especialmente importante para grávidas e crianças. Eles também costumam ter um sabor mais acentuado. No entanto, o preço ainda é uma barreira para muitos. Sabia que, do ponto de vista nutricional, os estudos são conflitantes, mas alguns apontam que orgânicos podem ter teores um pouco mais elevados de certos antioxidantes?",
+    "palavras_chave": ["orgânicos", "agrotóxicos", "transgênicos", "meio ambiente", "produção sustentável"]
+  },
+  {
+    "pergunta": "Por que precisamos de fibras na alimentação?",
+    "resposta": "As fibras são componentes dos vegetais que nosso corpo não consegue digerir. Elas são divididas em dois tipos: as solúveis, que formam um gel no intestino e ajudam a controlar o colesterol e o açúcar no sangue; e as insolúveis, que aumentam o bolo fecal e aceleram o trânsito intestinal, prevenindo a constipação. Além de regular o intestino, as fibras promovem uma enorme sensação de saciedade, ajudando no controle do peso. Elas também servem de alimento para as bactérias benéficas do nosso intestino. A recomendação é consumir cerca de 25 a 30 gramas por dia, o que se alcança com uma dieta rica em frutas, verduras, legumes e grãos integrais. Sabia que a falta de fibras na dieta moderna é considerada um dos fatores para o aumento de problemas como a síndrome do intestino irritável e diverticulite?",
+    "palavras_chave": ["fibras", "intestino", "saciedade", "colesterol", "grãos integrais"]
+  },
+  {
+    "pergunta": "O ovo é um vilão ou um mocinho da saúde?",
+    "resposta": "O ovo passou por uma grande reabilitação científica. No passado, era visto como um vilão devido ao seu colesterol. Hoje se sabe que, para a maioria das pessoas, o colesterol da dieta tem um impacto menor no colesterol sanguíneo do que as gorduras saturadas e trans. O ovo é, na verdade, um alimento extremamente nutritivo: é uma fonte de proteína de alto valor biológico, contém vitaminas A, D, E e B12, colina (importante para o cérebro) e antioxidantes. O consumo de até um ovo por dia é considerado seguro e benéfico para a maioria dos adultos saudáveis. Sabia que a cor da gema varia de acordo com a alimentação da galinha? Galinhas que comem milho e pastagem tendem a produzir gemas mais alaranjadas, ricas em carotenoides.",
+    "palavras_chave": ["ovo", "colesterol", "proteína", "nutrientes", "mito"]
+  },
+  {
+    "pergunta": "O que é 'comer intuitivamente'?",
+    "resposta": "O Comer Intuitivo é uma filosofia alimentar que convida você a se reconectar com os sinais internos de fome e saciedade do seu corpo, em vez de seguir regras rígidas de dietas. É sobre confiar no seu corpo para lhe dizer o que, quando e quanto comer, sem culpa ou julgamento. Envolve honrar a fome, sentir a saciedade, descobrir a satisfação de comer e lidar com as emoções sem usar a comida. Não é uma 'dieta para emagrecer', mas sim uma abordagem anti-dieta que promove a paz com a comida e a imagem corporal. Críticos argumentam que, em um ambiente com tantos alimentos ultraprocessados, pode ser difícil confiar apenas na intuição. Sabia que estudos mostram que praticantes do comer intuitivo tendem a ter um peso mais estável e menor risco de transtornos alimentares?",
+    "palavras_chave": ["comer intuitivo", "fome", "saciedade", "paz com a comida", "anti-dieta"]
+  },
+  {
+    "pergunta": "Qual a importância do café da manhã?",
+    "resposta": "O café da manhã é frequentemente chamado de 'a refeição mais importante do dia', mas a ciência atual é mais nuanceada. Para algumas pessoas, especialmente crianças e adolescentes, um café da manhã nutritivo está associado a melhor concentração, desempenho escolar e controle do apetite durante o dia. Ele quebra o jejum noturno e repõe os estoques de glicose. No entanto, o jejum intermitente popularizou a ideia de pular essa refeição, e para muitos adultos isso não traz prejuízos se a alimentação no resto do dia for equilibrada. A verdade é que isso é individual. O mais importante não é pular ou não, mas sim a qualidade do que se come quando se decide comer. Sabia que em muitas culturas o café da manhã é uma refeição salgada, com ovos e vegetais, enquanto no Brasil somos fortemente influenciados pelo padrão doce, com pão e café com leite?",
+    "palavras_chave": ["café da manhã", "jejum", "energia", "concentração", "hábitos alimentares"]
+  },
+  {
+    "pergunta": "O que são os famosos 'superalimentos'?",
+    "resposta": "'Superalimento' é mais um termo de marketing do que uma classificação científica. Ele é usado para se referir a alimentos com alta densidade de nutrientes, ou seja, que concentram vitaminas, minerais, antioxidantes e compostos bioativos em porções relativamente pequenas. Exemplos são a chia, a quinoa, o açaí, as blueberries e a cúrcuma. Embora sejam realmente nutritivos, é um erro achar que um único alimento sozinho terá um efeito milagroso na saúde. O segredo está na dieta como um todo. Muitos alimentos comuns, como o feijão e o brócolis, são tão 'super' quanto os exóticos e bem mais baratos. Sabia que a moda dos superalimentos pode ter um impacto ambiental negativo, com a superexploração de algumas plantas em seus países de origem?",
+    "palavras_chave": ["superalimentos", "antioxidantes", "marketing", "densidade nutricional", "dieta balanceada"]
+  },
+  {
+    "pergunta": "Adoçante é melhor que açúcar?",
+    "resposta": "A resposta não é preto no branco. Os adoçantes, ou edulcorantes, são substâncias que adoçam com pouca ou nenhuma caloria. Eles podem ser uma ferramenta útil para diabéticos e para quem quer reduzir o consumo de calorias. No entanto, seu uso é controverso. Alguns estudos em animais associam certos adoçantes artificiais a alterações na microbiota intestinal e aumento do desejo por doces. A longo prazo, a estratégia mais saudável é educar o paladar para apreciar o sabor natural dos alimentos, reduzindo a doçura geral da dieta. Trocar refrigerante comum por diet é um passo, mas a água ainda é a melhor opção. Sabia que a stévia é um adoçante natural extraído de uma planta, e que o xilitol, outro adoçante natural, pode ajudar a prevenir cáries?",
+    "palavras_chave": ["adoçante", "açúcar", "edulcorantes", "diabetes", "paladar"]
+  },
+  {
+    "pergunta": "O leite faz bem para os adultos?",
+    "resposta": "O leite é um alimento muito nutritivo, rico em cálcio, proteínas e vitaminas. Para crianças em crescimento, seus benefícios para a saúde óssea são amplamente reconhecidos. Para os adultos, a história é mais complexa. Muitos adultos, especialmente de ascendência asiática e africana, desenvolvem intolerância à lactose, o açúcar do leite, o que causa desconforto digestivo. Além disso, alguns estudos observacionais associam um consumo muito alto de leite a certos riscos, mas as evidências não são conclusivas. Para adultos que toleram bem, o leite pode ser parte de uma dieta equilibrada, mas não é um alimento essencial, pois o cálcio e as proteínas podem ser obtidos de outras fontes, como vegetais verde-escuros e leguminosas. Sabia que a capacidade de digerir lactose na idade adulta é uma mutação genética que surgiu há poucos milhares de anos em populações que domesticaram gado?",
+    "palavras_chave": ["leite", "lactose", "cálcio", "intolerância", "nutrientes"]
+  },
+  {
+    "pergunta": "O que é compulsão alimentar?",
+    "resposta": "A compulsão alimentar é um transtorno psicológico caracterizado pela ingestão de uma grande quantidade de comida em um curto espaço de tempo, acompanhada por uma sensação de perda de controle. A pessoa come mesmo sem fome física e continua até se sentir desconfortavelmente cheia, muitas vezes com sentimentos intensos de vergonha, culpa e angústia depois. Diferente de um simples 'exagero' em uma festa, a compulsão é um comportamento recorrente que causa sofrimento. Ela está frequentemente ligada a questões emocionais, como ansiedade e depressão. O tratamento envolve acompanhamento psicológico e, muitas vezes, nutricional. Sabia que a compulsão alimentar é o transtorno alimentar mais comum nos Estados Unidos, afetando mais pessoas que a anorexia e a bulimia juntas?",
+    "palavras_chave": ["compulsão alimentar", "transtorno alimentar", "perda de controle", "saúde mental", "emoções"]
+  },
+  {
+    "pergunta": "Para que serve o potássio e em quais alimentos encontro?",
+    "resposta": "O potássio é um mineral essencial que atua como um eletrólito no nosso corpo. Sua principal função é ajudar no funcionamento adequado dos nervos e músculos, incluindo o coração. Ele também é crucial para manter o equilíbrio de fluidos no corpo e contrapor os efeitos do sódio, ajudando a controlar a pressão arterial. Uma deficiência de potássio pode causar fraqueza muscular, cãibras e arritmias cardíacas. Boas fontes incluem bananas (a mais famosa), batata-doce, abacate, espinafre, feijão preto e iogurte. Sabia que cozinhar os vegetais em muita água pode fazer com que o potássio 'vaze' para a água do cozimento? Por isso, prefira cozinhá-los no vapor para preservar melhor esse mineral.",
+    "palavras_chave": ["potássio", "eletrólito", "pressão arterial", "músculos", "banana"]
+  },
+  {
+    "pergunta": "O que são alimentos inflamatórios e anti-inflamatórios?",
+    "resposta": "A inflamação é uma resposta natural do corpo a uma agressão, mas quando se torna crônica, pode levar a doenças. Certos alimentos podem promover esse estado de inflamação de baixo grau: os principais são os ultraprocessados, ricos em açúcar refinado, gordura trans, óleos vegetais refinados e aditivos. Já a dieta anti-inflamatória é rica em alimentos que combatem esse processo: peixes gordurosos (ômega-3), azeite de oliva extravirgem, frutas vermelhas, vegetais verde-escuros, cúrcuma e gengibre. Adotar esse padrão alimentar não é sobre um alimento milagroso, mas sobre um conjunto de hábitos que protegem o corpo. Sabia que a curcumina, o composto ativo da cúrcuma, tem uma potente ação anti-inflamatória, mas sua absorção é muito aumentada quando consumida com uma pitada de pimenta-preta?",
+    "palavras_chave": ["inflamação", "anti-inflamatório", "ultraprocessados", "ômega-3", "dieta"]
+  },
+  {
+    "pergunta": "Fazer várias pequenas refeições ao dia acelera o metabolismo?",
+    "resposta": "A ideia de que comer de 3 em 3 horas 'acelera o metabolismo' é um conceito muito difundido, mas a ciência atual não dá tanto suporte a ele. O processo de digestão gasta um pouquinho de energia (efeito térmico dos alimentos), mas o total gasto em 24 horas é praticamente o mesmo se você comer as mesmas calorias em duas ou seis refeições. Para algumas pessoas, comer com mais frequência ajuda a controlar a fome e a evitar exageros nas refeições principais. Para outras, é apenas um incômodo. A melhor frequência é a que se adequa ao seu estilo de vida, horários e sensação de fome e saciedade. Sabia que atletas de alto rendimento realmente se beneficiam de refeições mais frequentes para manter um fluxo constante de energia e nutrientes para os músculos?",
+    "palavras_chave": ["frequência de refeições", "metabolismo", "fome", "saciedade", "calorias"]
+  },
+  {
+    "pergunta": "O sal do Himalaia é melhor que o sal marinho comum?",
+    "resposta": "Em termos nutricionais básicos, não há uma diferença significativa. Ambos são compostos principalmente por cloreto de sódio. A cor rosa do sal do Himalaia vem de traços de minerais como ferro, cálcio, potássio e magnésio, mas a quantidade desses minerais é tão ínfima que não representa um benefício prático para a saúde. A grande vantagem do sal rosa e de outros sais gourmet é que eles são menos refinados e não contêm aditivos, como o antiumectante presente no sal de cozinha refinado. No final, o que importa para a saúde é controlar a quantidade total de sódio na dieta, independentemente do tipo de sal. Sabia que o sal do Himalaia, na verdade, é extraído de uma mina no Paquistão, a centenas de quilômetros da cordilheira do Himalaia?",
+    "palavras_chave": ["sal do himalaia", "sódio", "minerais", "cloreto de sódio", "mito"]
+  },
+  {
+    "pergunta": "O que é o colesterol HDL e LDL?",
+    "resposta": "Eles são as lipoproteínas que transportam o colesterol pelo sangue. O LDL é frequentemente chamado de 'colesterol ruim' porque leva o colesterol do fígado para as artérias. Se estiver em excesso, pode se acumular nas paredes arteriais, formando placas que estreitam os vasos (aterosclerose), aumentando o risco de infartos e AVCs. Já o HDL, o 'colesterol bom', faz o caminho inverso: remove o colesterol das artérias e o leva de volta ao fígado para ser eliminado. Por isso, o ideal é ter níveis baixos de LDL e altos de HDL. A dieta rica em fibras e gorduras boas ajuda nesse equilíbrio. Sabia que o próprio colesterol não é um vilão? Ele é uma molécula vital para a produção de hormônios e para a estrutura das nossas células.",
+    "palavras_chave": ["colesterol hdl", "colesterol ldl", "aterosclerose", "gordura", "saúde do coração"]
+  },
+  {
+    "pergunta": "O que significa 'caloria vazia'?",
+    "resposta": "O termo 'caloria vazia' se refere a alimentos que fornecem uma grande quantidade de energia (calorias) mas pouquíssimos, ou nenhum, nutriente benéfico, como vitaminas, minerais, fibras ou proteínas. Os campeões em calorias vazias são os refrigerantes, os sucos de caixinha açucarados, doces, bolachas recheadas, salgadinhos de pacote e bebidas alcoólicas. Consumir esses alimentos regularmente pode levar ao ganho de peso sem que as necessidades nutricionais do corpo sejam atendidas, podendo resultar em deficiências mesmo em uma pessoa com sobrepeso. A estratégia é priorizar alimentos com 'alta densidade nutricional'. Sabia que uma lata de refrigerante comum pode ter até 40 gramas de açúcar, o que equivale a 10 sachês de café?",
+    "palavras_chave": ["caloria vazia", "açúcar", "nutrientes", "alimentos ultraprocessados", "densidade nutricional"]
+  },
+  {
+    "pergunta": "O que é e para que serve a vitamina B12?",
+    "resposta": "A vitamina B12 é uma vitamina hidrossolúvel crucial para a formação das nossas células vermelhas do sangue, para o funcionamento saudável do sistema nervoso e para a síntese de DNA. Sua deficiência é séria e pode causar anemia megaloblástica, fadiga extrema, formigamento nas mãos e pés, e até problemas de memória e depressão. A B12 é quase exclusivamente encontrada em alimentos de origem animal: carne, frango, peixe, ovos e laticínios. Por isso, vegetarianos estritos e veganos precisam suplementá-la obrigatoriamente. A absorção da B12 diminui com a idade e em pessoas com certas condições gastrointestinais. Sabia que as plantas não produzem B12? A vitamina é, na verdade, sintetizada por bactérias no solo, e os animais a incorporam ao comer plantas com resquícios desse solo — algo raro na agricultura moderna e higienizada.",
+    "palavras_chave": ["vitamina b12", "anemia", "sistema nervoso", "veganismo", "suplementação"]
+  },
+  {
+    "pergunta": "O chá-verde realmente ajuda a emagrecer?",
+    "resposta": "O chá-verde contém compostos chamados catequinas, sendo a mais estudada a EGCG, e cafeína. Juntos, eles podem ter um leve efeito termogênico, ou seja, aumentam ligeiramente o gasto energético e a oxidação de gorduras. No entanto, é crucial ter expectativas realistas: o efeito é modesto e sozinho não causa uma perda de peso significativa. Beber chá-verde pode ser um coadjuvante em um estilo de vida saudável que inclui dieta equilibrada e exercícios, mas não é uma poção mágica. Além disso, o excesso pode causar irritação no estômago e insônia devido à cafeína. Sabia que para obter uma quantidade significativa de EGCG, você precisaria beber várias xícaras de chá-verde por dia? Os extratos concentrados em cápsulas são uma alternativa, mas devem ser usados com cautela.",
+    "palavras_chave": ["chá-verde", "emagrecimento", "termogênese", "egcg", "cafeína"]
+  },
+  {
+    "pergunta": "O que é a dieta 'low carb'?",
+    "resposta": "A dieta low carb, ou 'baixa em carboidratos', é um padrão alimentar que restringe a ingestão de carboidratos, como açúcares, massas, pães e arroz, e prioriza o consumo de proteínas e gorduras. Existem diferentes graus, desde uma redução moderada até a cetogênica, que é muito restritiva. A lógica é que, ao reduzir os carboidratos, o corpo é forçado a queimar gordura como combustível. Ela pode ser eficaz para perda de peso a curto prazo e para o controle do açúcar no sangue em diabéticos. No entanto, é criticada por ser difícil de manter a longo prazo e, se mal planejada, pode ser pobre em fibras e certas vitaminas. Sabia que os vegetais também contêm carboidratos? Em uma low carb bem-feita, o foco é cortar os carboidratos refinados, mas manter uma boa quantidade de vegetais folhosos e low carb, como abobrinha e brócolis.",
+    "palavras_chave": ["dieta low carb", "carboidratos", "emagrecimento", "cetose", "restrição"]
+  },
+  {
+    "pergunta": "O que é o magnésio e por que é importante?",
+    "resposta": "O magnésio é um mineral envolvido em mais de 300 reações bioquímicas no nosso corpo. Ele é essencial para a produção de energia, contração e relaxamento muscular, funcionamento normal dos nervos, ritmo cardíaco estável e saúde dos ossos. Sintomas de deficiência podem incluir cãibras musculares, fadiga, irritabilidade e insônia. É um nutriente subestimado, mas muito importante. Boas fontes alimentares incluem sementes (abóbora e girassol), castanhas (amêndoas e castanha-do-pará), espinafre, feijão preto e abacate. O estresse e uma dieta rica em alimentos processados podem esgotar os níveis de magnésio no corpo. Sabia que o chocolate amargo com 70% ou mais de cacau é uma fonte surpreendentemente boa de magnésio?",
+    "palavras_chave": ["magnésio", "mineral", "energia", "músculos", "ossos"]
+  },
+  {
+    "pergunta": "Comer abacaxi depois da refeição ajuda na digestão?",
+    "resposta": "Há um fundo de verdade nisso! O abacaxi contém uma enzima chamada bromelina, que ajuda a quebrar as proteínas dos alimentos, facilitando sua digestão. Por isso, comer uma fatia de abacaxi como sobremesa pode, de fato, proporcionar uma sensação de digestão mais leve, especialmente após uma refeição rica em carnes. No entanto, o efeito é suave e não substitui uma digestão adequada pelo próprio sistema gastrointestinal. A bromelina é tão eficaz que é extraída e usada comercialmente como amaciante de carnes. Vale notar que a maior concentração da enzima está no miolo mais duro da fruta. Sabia que a bromelina do abacaxi também tem propriedades anti-inflamatórias e é usada em suplementos para tratar inchaços e dores musculares?",
+    "palavras_chave": ["abacaxi", "bromelina", "digestão", "enzima", "proteínas"]
+  },
+  {
+    "pergunta": "O que é 'Mindful Eating' ou 'Comer Consciente'?",
+    "resposta": "O Mindful Eating, ou Comer Consciente, é a prática de trazer a atenção plena para a experiência de comer. É sobre estar totalmente presente durante a refeição: perceber as cores, os cheiros, os sabores e as texturas da comida, além de notar os sinais de fome e saciedade do corpo. O objetivo é comer com intenção e atenção, sem julgamento. Isso ajuda a romper com o piloto automático — aquele comer na frente da TV ou por pura ansiedade — e promove uma relação mais saudável com a comida. Não se trata do que comer, mas de *como* comer. É um convite a desacelerar e a saborear cada garfada. Sabia que estudos mostram que praticar o comer consciente pode reduzir significativamente a compulsão alimentar e o comer emocional?",
+    "palavras_chave": ["mindful eating", "comer consciente", "atenção plena", "fome", "saciedade"]
+  },
+  {
+    "pergunta": "O que são alimentos funcionais?",
+    "resposta": "Alimentos funcionais são aqueles que, além de suas funções nutricionais básicas, produzem efeitos metabólicos benéficos à saúde quando consumidos como parte da dieta habitual. Eles contêm compostos bioativos que podem reduzir o risco de doenças crônicas. Exemplos incluem a soja com suas isoflavonas (que ajudam na saúde óssea), o tomate com licopeno (associado à prevenção do câncer de próstata) e a aveia com betaglucana (que auxilia no controle do colesterol). É importante lembrar que esses alimentos devem ser consumidos regularmente e como parte de um estilo de vida saudável. Sabia que o termo 'alimento funcional' foi cunhado no Japão na década de 1980, sendo o primeiro país a estabelecer uma categoria regulatória específica para esses produtos?",
+    "palavras_chave": ["alimentos funcionais", "compostos bioativos", "saúde", "doenças crônicas", "prevenção"]
+  },
+  {
+    "pergunta": "Por que sentimos desejo por doces?",
+    "resposta": "O desejo por doces tem bases biológicas e psicológicas. Biologicamente, nosso cérebro é programado para buscar fontes rápidas de energia, e o sabor doce sinaliza calorias disponíveis. O açúcar estimula a liberação de dopamina, um neurotransmissor associado ao prazer, criando uma sensação de recompensa. Psicologicamente, muitas vezes associamos doces a conforto, celebrações ou recompensas da infância. Fatores como restrição calórica severa, privação de sono e estresse também podem intensificar esses desejos. Sabia que estudos mostram que o açúcar pode ter efeitos viciantes no cérebro, semelhantes, embora mais leves, aos de algumas drogas?",
+    "palavras_chave": ["desejo por doces", "açúcar", "dopamina", "psicológico", "biológico"]
+  },
+  {
+    "pergunta": "O que é a dieta DASH e para quem é indicada?",
+    "resposta": "A dieta DASH (Dietary Approaches to Stop Hypertension) foi desenvolvida especificamente para ajudar no controle e prevenção da hipertensão arterial. Ela é rica em frutas, vegetais, grãos integrais e laticínios com baixo teor de gordura, e inclui peixes, aves, feijões, nozes e sementes. É pobre em gorduras saturadas, colesterol, gordura total e doces. A chave do sucesso está na redução do sódio e no aumento de nutrientes como potássio, cálcio e magnésio, que ajudam a controlar a pressão arterial. Embora criada para hipertensos, é considerada uma das dietas mais saudáveis para a população em geral. Sabia que em estudos clínicos, a dieta DASH foi capaz de reduzir a pressão arterial em apenas duas semanas?",
+    "palavras_chave": ["dieta dash", "hipertensão", "pressão arterial", "sódio", "potássio"]
+  },
+  {
+    "pergunta": "O que são antinutrientes e eles são perigosos?",
+    "resposta": "Antinutrientes são compostos naturais presentes em muitos alimentos vegetais, especialmente grãos e leguminosas, que podem interferir na absorção de nutrientes. Os principais são o ácido fítico (encontrado em farelos e feijões), que pode se ligar a minerais como ferro e zinco; e os taninos (presentes no chá e café), que podem reduzir a absorção de ferro. No entanto, em uma dieta equilibrada e diversificada, eles não representam um risco para a saúde. Muitos alimentos que contêm antinutrientes são extremamente nutritivos. Técnicas de preparo como demolhar, germinar e cozinhar reduzem significativamente seus teores. Sabia que pesquisas recentes sugerem que alguns 'antinutrientes', como o ácido fítico, podem ter efeitos benéficos, como propriedades antioxidantes e anticancerígenas?",
+    "palavras_chave": ["antinutrientes", "ácido fítico", "taninos", "absorção", "alimentos vegetais"]
+  },
+  {
+    "pergunta": "Qual a diferença entre fome física e fome emocional?",
+    "resposta": "A fome física é uma necessidade biológica. Ela surge gradualmente, no estômago, e pode ser satisfeita com qualquer alimento. Após comer, vem a sensação de saciedade. Já a fome emocional é desencadeada por sentimentos como tédio, estresse, tristeza ou ansiedade. Ela surge subitamente e geralmente cria desejo por um alimento específico e confortante, como doces ou salgadinhos. Mesmo após comer, a sensação de satisfação não é completa, podendo vir seguida de culpa. Reconhecer essa diferença é o primeiro passo para desenvolver uma relação mais saudável com a comida. Sabia que manter um 'diário alimentar emocional', anotando o que come e como se sente, pode ajudar a identificar os gatilhos da fome emocional?",
+    "palavras_chave": ["fome física", "fome emocional", "gatilhos", "emoções", "consciência alimentar"]
+  },
+  {
+    "pergunta": "O que é resistência à insulina?",
+    "resposta": "A resistência à insulina é uma condição na qual as células do corpo não respondem adequadamente à insulina, um hormônio que permite que a glicose entre nas células para ser usada como energia. Como compensação, o pâncreas produz mais insulina para tentar manter os níveis de glicose no sangue normais. Com o tempo, porém, o pâncreas pode não conseguir acompanhar a demanda, levando ao pré-diabetes e, eventualmente, ao diabetes tipo 2. Fatores de risco incluem sobrepeso, especialmente com acúmulo de gordura abdominal, sedentarismo e dieta rica em carboidratos refinados. Sabia que a resistência à insulina é frequentemente assintomática por muitos anos, sendo detectada apenas através de exames de sangue?",
+    "palavras_chave": ["resistência à insulina", "glicose", "diabetes", "pré-diabetes", "hormônio"]
+  },
+  {
+    "pergunta": "O que são os tão falados ômega-3, 6 e 9?",
+    "resposta": "São tipos de gorduras poli-insaturadas (ômega-3 e 6) e monoinsaturadas (ômega-9). O ômega-3, encontrado em peixes gordurosos, linhaça e chia, é anti-inflamatório e crucial para a saúde do cérebro e do coração. O ômega-6, presente em óleos vegetais como soja e milho, também é essencial, mas em excesso pode promover inflamação. O grande problema da dieta moderna é a desproporção entre ômega-6 e ômega-3. Já o ômega-9, encontrado no azeite e abacate, não é 'essencial' porque o corpo pode produzi-lo, mas é benéfico. O equilíbrio é a chave. Sabia que nossos ancestrais caçadores-coletores consumiam uma proporção de ômega-6 para ômega-3 de cerca de 1:1, enquanto na dieta ocidental moderna essa proporção pode chegar a 20:1?",
+    "palavras_chave": ["ômega-3", "ômega-6", "ômega-9", "gorduras", "inflamação"]
+  },
+  {
+    "pergunta": "O que é 'Clean Eating'?",
+    "resposta": "O 'Clean Eating' ou 'Comer Limpo' é uma filosofia alimentar que prega o consumo de alimentos em sua forma mais natural e integral possível, minimamente processados. Envolve priorizar frutas, verduras, legumes, grãos integrais, proteínas magras e gorduras saudáveis, evitando ao máximo alimentos ultraprocessados, refinados e com aditivos artificiais. Não é uma dieta com regras rígidas, mas sim uma abordagem de estilo de vida. Uma crítica a essa tendência é que ela pode, para algumas pessoas, se tornar uma obsessão não saudável, conhecida como ortorexia. Sabia que o conceito de 'comer limpo' pode ser culturalmente excludente e economicamente inacessível para muitas populações, que dependem de alimentos processados por questões de custo e praticidade?",
+    "palavras_chave": ["clean eating", "alimentos naturais", "ultraprocessados", "filosofia alimentar", "ortorexia"]
+  },
+  {
+    "pergunta": "O que é a gordura trans e por que é tão prejudicial?",
+    "resposta": "A gordura trans é um tipo de gordura artificial criada pelo processo de hidrogenação de óleos vegetais, que os torna sólidos e mais estáveis, aumentando o prazo de validade dos produtos. Ela é duplamente prejudicial: não só aumenta o colesterol 'ruim' (LDL) como também reduz o colesterol 'bom' (HDL). Isso a torna particularmente perigosa para a saúde cardiovascular, aumentando significativamente o risco de infartos e AVCs. Por esses motivos, muitos países, incluindo o Brasil, implementaram restrições severas ou a proibição de seu uso em alimentos. Sabia que pequenas quantidades de gordura trans natural podem ser encontradas na carne e no leite de ruminantes, mas o grande vilão da saúde pública sempre foi a gordura trans industrial?",
+    "palavras_chave": ["gordura trans", "hidrogenação", "colesterol", "doenças cardiovasculares", "ultraprocessados"]
+  },
+  {
+    "pergunta": "O que é síndrome do intestino irritável e como a dieta ajuda?",
+    "resposta": "A Síndrome do Intestino Irritável (SII) é um distúrbio funcional crônico do trato gastrointestinal, caracterizado por dor abdominal, inchaço, gases e alterações no hábito intestinal (diarreia e/ou constipação). A dieta é uma ferramenta fundamental no manejo dos sintomas. Uma abordagem comum é a dieta low FODMAP, que envolve a restrição temporária de carboidratos fermentáveis de cadeia curta (como lactose, frutose e alguns adoçantes), que podem piorar os sintomas em pessoas sensíveis. É crucial que essa dieta seja feita com acompanhamento de um nutricionista. Sabia que o estresse é um dos principais gatilhos para os sintomas da SII, e que técnicas de relaxamento, como meditação, podem ser tão importantes quanto a dieta no controle da condição?",
+    "palavras_chave": ["intestino irritável", "fodmap", "dieta", "sintomas", "trato gastrointestinal"]
+  },
+  {
+    "pergunta": "O que são fitonutrientes?",
+    "resposta": "Fitonutrientes, ou fitoquímicos, são compostos bioativos produzidos pelas plantas para se protegerem de ameaças como insetos e radiação UV. Quando nós os consumimos, eles exercem potentes efeitos antioxidantes e anti-inflamatórios no nosso corpo. Eles são os responsáveis pelas cores vibrantes de frutas e vegetais. Exemplos incluem o licopeno (vermelho do tomate), betacaroteno (laranja da cenoura), antocianinas (roxo da uva e da berinjela) e flavonoides (presentes em chás e cacau). Uma dieta colorida é a melhor forma de garantir uma ampla variedade desses compostos protetores. Sabia que existem mais de 25.000 fitonutrientes diferentes identificados nos alimentos que comemos?",
+    "palavras_chave": ["fitonutrientes", "fitoquímicos", "antioxidantes", "cores dos alimentos", "plantas"]
+  },
+  {
+    "pergunta": "O café é bom ou ruim para a saúde?",
+    "resposta": "O café, consumido com moderação (até 3-4 xícaras por dia para a maioria dos adultos), é geralmente considerado benéfico para a saúde. Ele é rico em antioxidantes e está associado a um menor risco de doenças como Parkinson, Alzheimer, diabetes tipo 2 e algumas doenças hepáticas. A cafeína pode melhorar o estado de alerta, a concentração e o desempenho físico. No entanto, o excesso pode causar ansiedade, insônia, palpitações e irritabilidade. A forma de preparo também importa: o café coado é mais seguro do que o não coado (como o café turco), que pode aumentar o colesterol. Sabia que os grãos de café torrado claro (light roast) preservam mais cafeína, enquanto os torrados escuros (dark roast) desenvolvem mais compostos antioxidantes?",
+    "palavras_chave": ["café", "cafeína", "antioxidantes", "saúde", "moderação"]
+  },
+  {
+    "pergunta": "O que é 'Volume Alimentar' e como ele ajuda no emagrecimento?",
+    "resposta": "O conceito de volume alimentar, ou 'Volumetrics', é baseado na ideia de que as pessoas tendem a comer um volume similar de comida todos os dias, independentemente das calorias. A estratégia é priorizar alimentos com baixa densidade energética, ou seja, que têm poucas calorias em um grande volume. Esses alimentos, como sopas à base de caldo, saladas, frutas e vegetais, são ricos em água e fibras. Eles enchem o estômago, promovem saciedade e ajudam a controlar a fome, permitindo que você consuma menos calorias sem sentir que está comendo menos. É uma abordagem mais psicológica e sustentável para a perda de peso. Sabia que um estudo mostrou que as pessoas comem aproximadamente o mesmo peso de comida por dia, variando muito pouco, mas a diferença calórica entre uma dieta de fast-food e uma baseada em vegetais pode ser enorme?",
+    "palavras_chave": ["volume alimentar", "densidade energética", "saciedade", "emagrecimento", "fibras"]
+  },
+  {
+    "pergunta": "O que é a Dieta Flexitariana?",
+    "resposta": "A dieta flexitariana é um estilo de alimentação predominantemente vegetariano, mas que permite o consumo ocasional e consciente de carne e outros produtos de origem animal. O termo é uma combinação de 'flexível' e 'vegetariano'. A base da dieta são frutas, vegetais, grãos integrais e proteínas vegetais (feijões, lentilhas, tofu). A carne não é o centro do prato, mas sim um complemento esporádico. Esse padrão oferece muitos dos benefícios para a saúde e o meio ambiente de uma dieta vegetariana, sem a rigidez que pode ser difícil para algumas pessoas manterem. Sabia que um relatório da ONU sugeriu que a adoção de dietas flexitarianas em escala global poderia reduzir as emissões de gases de efeito estufa do setor agrícola em até 52%?",
+    "palavras_chave": ["dieta flexitariana", "vegetariano", "flexível", "proteínas vegetais", "meio ambiente"]
+  },
+  {
+    "pergunta": "O que é o metabolismo basal e como calculá-lo?",
+    "resposta": "O metabolismo basal, ou taxa metabólica basal (TMB), é a quantidade mínima de energia que seu corpo precisa para manter suas funções vitais em repouso completo, como respirar, circular sangue e manter a temperatura corporal. Ele representa cerca de 60-75% do gasto calórico total diário. A TMB é influenciada por fatores como idade, sexo (homens geralmente têm TMB mais alta), composição corporal (músculo queima mais calorias que gordura) e genética. Existem fórmulas para estimá-la, como as equações de Harris-Benedict, mas exames como a calorimetria indireta fornecem uma medida mais precisa. Sabia que dietas muito restritivas por longos períodos podem fazer com que o corpo diminua seu metabolismo basal como um mecanismo de defesa para conservar energia?",
+    "palavras_chave": ["metabolismo basal", "taxa metabólica", "energia", "calorias", "repouso"]
+  },
+  {
+    "pergunta": "O que são edamame e qual seu valor nutricional?",
+    "resposta": "Edamame é o nome japonês para a soja verde, colhida antes de amadurecer e endurecer. Ele é consumido cozido, geralmente ainda na vagem, como um aperitivo. Do ponto de vista nutricional, é uma estrela: é uma proteína completa de origem vegetal (contém todos os aminoácidos essenciais), rica em fibras, vitaminas (como K e folato) e minerais (como manganês e potássio). Também contém isoflavonas, compostos com efeitos benéficos na saúde, embora seu consumo deva ser moderado em pessoas com certas condições hormonais. É um lanche nutritivo e uma excelente alternativa proteica para vegetarianos. Sabia que o edamame é um dos poucos vegetais que fornece todos os nove aminoácidos essenciais que nosso corpo não pode produzir?",
+    "palavras_chave": ["edamame", "soja verde", "proteína vegetal", "aminoácidos", "isoflavonas"]
+  },
+  {
+    "pergunta": "O que é e para que serve o Zinco?",
+    "resposta": "O zinco é um mineral traço essencial que atua como cofator em mais de 300 enzimas envolvidas no metabolismo, na digestão, na função nervosa e em muitos outros processos. Ele é crucial para o funcionamento do sistema imunológico, para a cicatrização de feridas, para a síntese de proteínas e DNA, e para o crescimento e desenvolvimento. A deficiência de zinco pode causar perda de apetite, queda de cabelo, diarreia e maior susceptibilidade a infecções. Boas fontes incluem ostras (a melhor fonte), carne vermelha, frango, feijões, nozes e sementes. Sabia que o zinco é tão importante para o paladar e o olfato que uma deficiência pode realmente levar a uma diminuição da capacidade de saborear os alimentos?",
+    "palavras_chave": ["zinco", "mineral", "sistema imunológico", "enzimas", "cicatrização"]
+  },
+  {
+    "pergunta": "O que é 'Diet Cycling' ou 'Efeito Sanfona'?",
+    "resposta": "Conhecido popularmente como 'efeito sanfona', o Diet Cycling é o ciclo repetitivo de perda e recuperação de peso, comum em quem faz dietas muito restritivas. O corpo interpreta a privação calórica severa como uma ameaça e responde diminuindo o metabolismo e aumentando os hormônios da fome. Quando a dieta termina (o que é quase inevitável), a pessoa não só recupera o peso perdido, mas muitas vezes ganha um pouco mais, pois o metabolismo agora está mais lento. Esse ciclo é fisicamente e psicologicamente desgastante. A solução não é uma 'dieta', mas uma mudança sustentável no estilo de vida. Sabia que estudos mostram que o efeito sanfona recorrente pode ser mais prejudicial para a saúde cardiovascular do que manter um peso estável, mesmo que um pouco acima do ideal?",
+    "palavras_chave": ["efeito sanfona", "diet cycling", "metabolismo", "dieta restritiva", "peso"]
+  },
+  {
+    "pergunta": "O que são alimentos fermentados?",
+    "resposta": "Alimentos fermentados são aqueles que passaram por um processo de fermentação controlada, no qual micro-organismos como bactérias e leveduras convertem os carboidratos dos alimentos em álcool ou ácidos. Esse processo age como um conservante natural e confere aos alimentos um sabor único. Exemplos incluem iogurte, kefir, chucrute, kimchi, kombucha e missô. Além de serem fontes de probióticos (quando não pasteurizados), a fermentação pode aumentar a biodisponibilidade de nutrientes e criar novas substâncias benéficas. Eles são um pilar das dietas tradicionais em todo o mundo. Sabia que antes da refrigeração, a fermentação era um dos métodos mais importantes para preservar alimentos e garantir sua disponibilidade durante o inverno?",
+    "palavras_chave": ["alimentos fermentados", "fermentação", "probióticos", "conservação", "tradição"]
+  },
+  {
+    "pergunta": "O que é a Dieta Nórdica?",
+    "resposta": "Inspirada nos hábitos alimentares dos países nórdicos (Dinamarca, Finlândia, Islândia, Noruega e Suécia), a Dieta Nórdica é um padrão alimentar que prioriza alimentos locais, sazonais e sustentáveis. Seus pilares são: frutas vermelhas, vegetais de raiz (como beterraba e cenoura), repolho, peixes gordurosos (salmão, arenque), grãos integrais (centeio, cevada, aveia) e oleaginosas. Ela se assemelha à Dieta Mediterrânea em seus benefícios para a saúde cardíaca e controle de peso, mas adapta os ingredientes ao clima e à cultura do norte da Europa. Sabia que a Dieta Nórdica foi formalmente desenvolvida em 2004 por um grupo de chefs e nutricionistas como uma resposta aos crescentes problemas de saúde e para promover uma identidade culinária regional sustentável?",
+    "palavras_chave": ["dieta nórdica", "alimentos locais", "sazonal", "peixes", "grãos integrais"]
+  },
+  {
+    "pergunta": "O que é a TPM alimentar? Existe?",
+    "resposta": "Sim, as alterações no apetite e nos desejos durante o período pré-menstrual são reais e têm base hormonal. A queda nos níveis de estrogênio e progesterona pode afetar os neurotransmissores serotonina e dopamina, levando a um aumento do desejo por carboidratos e doces, que temporariamente aumentam a sensação de bem-estar. Além disso, o corpo pode reter mais líquidos, causando inchaço, e o metabolismo pode aumentar ligeiramente, elevando a fome. Estratégias para lidar com isso incluem: não brigar com a fome, garantir ingestão adequada de magnésio (presente no chocolate amargo!) e manter o consumo de fibras e proteínas para estabilizar o açúcar no sangue. Sabia que o magnésio, que ajuda a relaxar a musculatura e a melhorar o humor, costuma estar em níveis mais baixos durante a TPM?",
+    "palavras_chave": ["tpm", "desejos", "hormônios", "ciclo menstrual", "apetite"]
+  },
+  {
+    "pergunta": "O que é o Selênio e por que é importante?",
+    "resposta": "O selênio é um mineral traço essencial que funciona principalmente como um antioxidante, protegendo as células dos danos causados pelos radicais livres. Ele é um componente crucial de enzimas antioxidantes e é vital para a saúde da tireoide, o metabolismo e a função imunológica. A deficiência de selênio é rara, mas pode estar associada a problemas cardíacos e fraqueza muscular. A castanha-do-pará é a fonte mais potente – apenas uma ou duas unidades por dia são suficientes para atender às necessidades. Outras fontes incluem frutos do mar, carnes e ovos. Sabia que o conteúdo de selênio na castanha-do-pará depende diretamente do solo em que a árvore cresceu, podendo variar enormemente?",
+    "palavras_chave": ["selênio", "antioxidante", "tireoide", "castanha-do-pará", "mineral"]
+  },
+  {
+    "pergunta": "O que é Segurança Alimentar?",
+    "resposta": "Segurança Alimentar é um conceito que vai além de não passar fome. Segundo a FAO (Organização das Nações Unidas para a Alimentação e Agricultura), ela existe quando todas as pessoas, em todos os momentos, têm acesso físico, social e econômico a alimentos seguros, nutritivos e em quantidade suficiente para atender suas necessidades e preferências alimentares, para uma vida ativa e saudável. Ela se apoia em quatro pilares: disponibilidade (oferta), acesso (condições de obter o alimento), utilização (qualidade nutricional e sanitária) e estabilidade (acesso constante). É um direito humano básico. Sabia que o Brasil saiu do Mapa da Fome da ONU em 2014, mas, infelizmente, voltou a entrar em 2018 devido a crises econômicas e cortes em políticas sociais?",
+    "palavras_chave": ["segurança alimentar", "fome", "acesso", "nutrição", "direito humano"]
+  },
+  {
+    "pergunta": "O que é 'Gordura no Fígado' ou Esteatose Hepática?",
+    "resposta": "A Esteatose Hepática, popularmente conhecida como 'gordura no fígado', é o acúmulo excessivo de triglicerídeos nas células do fígado. Pode ser classificada em Doença Hepática Alcoólica (causada pelo consumo de álcool) e Doença Hepática Gordurosa Não Alcoólica (DHGNA), esta última associada à resistência à insulina, síndrome metabólica e obesidade. Em seus estágios iniciais, é reversível com mudanças no estilo de vida, mas pode evoluir para inflamação (esteatohepatite), cirrose e até câncer de fígado. A principal estratégia de tratamento é a perda de peso através de dieta e exercícios. Sabia que a DHGNA já é a principal causa de doença hepática crônica no mundo, afetando cerca de 25% da população global, e está fortemente ligada ao consumo de frutose presente em refrigerantes e sucos industrializados?",
+    "palavras_chave": ["gordura no fígado", "esteatose hepática", "resistência à insulina", "obesidade", "frutose"]
+  },
+  {
+    "pergunta": "O que são Alimentos Integrais?",
+    "resposta": "Alimentos integrais são aqueles que não passaram por um processo de refino, mantendo todas as partes comestíveis do grão original: o farelo (camada externa rica em fibras), o endosperma (parte intermediária com carboidratos e proteínas) e o gérmen (núcleo rico em vitaminas, minerais e gorduras boas). Por isso, eles são nutricionalmente superiores aos seus equivalentes refinados. Por exemplo, o arroz integral tem mais fibras, vitaminas do complexo B e minerais do que o arroz branco. As fibras ajudam a controlar o açúcar no sangue, a promover saciedade e a regular o intestino. Sabia que o processo de refino do trigo para fazer farinha branca remove mais de 20 vitaminas, minerais e fibras, sendo que apenas algumas (como ferro e ácido fólico) são adicionadas de volta no processo de 'enriquecimento'?",
+    "palavras_chave": ["alimentos integrais", "grãos", "fibras", "refinados", "nutrientes"]
+  },
+  {
+    "pergunta": "O que é a Dieta MIND?",
+    "resposta": "A dieta MIND é uma abordagem alimentar híbrida que combina elementos da dieta Mediterrânea e da dieta DASH, com foco específico na saúde do cérebro e na prevenção de doenças neurodegenerativas, como o Alzheimer. O acrônimo MIND significa 'Mediterranean-DASH Intervention for Neurodegenerative Delay'. Ela incentiva o consumo de 10 grupos de alimentos: vegetais verdes folhosos, outros vegetais, nozes, frutas vermelhas, feijões, grãos integrais, peixe, aves, azeite de oliva e vinho (com moderação). E desencoraja o consumo de carne vermelha, manteiga/margarina, queijo, doces e frituras/comida rápida. Sabia que estudos observacionais mostraram que aderir rigorosamente à dieta MIND estava associado a uma redução de até 53% no risco de desenvolver Alzheimer?",
+    "palavras_chave": ["dieta mind", "cérebro", "alzheimer", "mediterrânea", "dash"]
+  },
+  {
+    "pergunta": "O que é Síndrome Metabólica?",
+    "resposta": "A Síndrome Metabólica não é uma doença única, mas um conjunto de fatores de risco metabólicos que aumentam significativamente a chance de desenvolver doenças cardíacas, derrames e diabetes tipo 2. Uma pessoa é diagnosticada com síndrome metabólica quando apresenta pelo menos três dos seguintes cinco critérios: 1) Obesidade abdominal (cintura aumentada); 2) Pressão arterial elevada; 3) Glicemia de jejum elevada; 4) Triglicerídeos elevados; 5) Colesterol HDL ('bom') baixo. A causa central é a resistência à insulina. O tratamento é focado em mudanças agressivas no estilo de vida: perda de peso, dieta saudável e atividade física regular. Sabia que a simples medida da circunferência da cintura é um dos indicadores mais fortes de risco para síndrome metabólica? Para mulheres, o risco aumenta com cintura >88 cm, e para homens, >102 cm.",
+    "palavras_chave": ["síndrome metabólica", "resistência à insulina", "obesidade abdominal", "doenças cardíacas", "fatores de risco"]
+  },
+  {
+    "pergunta": "O que é 'Alimentação Plant-Based'?",
+    "resposta": "A Alimentação Plant-Based, ou baseada em plantas, é um padrão alimentar que prioriza os alimentos de origem vegetal. Isso não significa necessariamente ser vegano ou vegetariano. Pode incluir pequenas quantidades de produtos animais, mas estes não são o foco principal do prato. A base é composta por frutas, verduras, legumes, grãos integrais, leguminosas, nozes e sementes. A filosofia por trás disso é tanto de saúde (essas dietas são ricas em fibras e antioxidantes) quanto ambiental (a produção de plantas geralmente tem um impacto ecológico menor do que a de animais). É uma forma flexível e acessível de se aproximar de uma alimentação mais saudável e sustentável. Sabia que o termo 'plant-based' foi cunhado pelo bioquímico T. Colin Campbell, autor do 'The China Study', para descrever uma dieta com pouco ou nenhum alimento de origem animal?",
+    "palavras_chave": ["plant-based", "baseado em plantas", "vegetal", "flexível", "sustentável"]
+  },
+  {
+    "pergunta": "O que é e para que serve a Vitamina K?",
+    "resposta": "A vitamina K é uma vitamina lipossolúvel essencial, conhecida principalmente por seu papel na coagulação sanguínea – o 'K' vem da palavra alemã 'Koagulation'. Sem ela, mesmo um pequeno corte poderia causar um sangramento incontrolável. Além disso, a vitamina K é fundamental para a saúde dos ossos, pois ajuda a ativar a osteocalcina, uma proteína que liga o cálcio à matriz óssea. Existem duas formas principais: K1 (filoquinona), encontrada em vegetais folhosos verde-escuros como espinafre e couve; e K2 (menaquinona), produzida por bactérias e encontrada em alimentos fermentados e em menores quantidades em carnes e queijos. Sabia que recém-nascidos recebem uma injeção de vitamina K ao nascer para prevenir uma doença hemorrágica rara, pois eles nascem com estoques muito baixos da vitamina?",
+    "palavras_chave": ["vitamina k", "coagulação", "ossos", "vegetais folhosos", "osteocalcina"]
+  },
+  {
+    "pergunta": "O que é ortorexia nervosa?",
+    "resposta": "A ortorexia nervosa é um transtorno alimentar caracterizado por uma obsessão patológica por comer de forma 'correta' ou 'pura'. A pessoa fica tão focada na qualidade e no valor nutricional dos alimentos que isso se torna o centro de sua vida, causando ansiedade extrema, isolamento social e prejuízos à saúde. Diferente da anorexia, o foco não é na quantidade, mas na qualidade percebida do alimento. Ela pode levar a restrições alimentares severas, desnutrição e sofrimento psicológico. O tratamento envolve terapia para restaurar uma relação saudável com a comida. Sabia que o termo 'ortorexia' foi cunhado em 1997 pelo médico americano Steven Bratman, que percebeu esse comportamento em si mesmo e em seus pacientes?",
+    "palavras_chave": ["ortorexia", "transtorno alimentar", "obsessão", "comida saudável", "ansiedade"]
+  },
+  {
+    "pergunta": "O que são alimentos alcalinos e a dieta alcalina funciona?",
+    "resposta": "A teoria por trás da dieta alcalina é que certos alimentos podem afetar o pH do sangue, tornando-o mais alcalino e supostamente prevenindo doenças. Alimentos 'alcalinizantes' seriam frutas, verduras e legumes, enquanto carnes, grãos e laticínios seriam 'acidificantes'. No entanto, essa premissa é um mito científico: nosso corpo regula rigidamente o pH do sangue entre 7,35 e 7,45, independentemente da dieta. Apesar disso, a dieta pode ser benéfica simplesmente porque incentiva o consumo de muitos vegetais e a redução de alimentos processados. Sabia que o estômago é naturalmente extremamente ácido (pH ~1,5-3,5) para digerir os alimentos, e qualquer alimento que entra lá é 'acidificado', independentemente de sua natureza original?",
+    "palavras_chave": ["dieta alcalina", "ph", "mito", "vegetais", "regulação corporal"]
+  },
+  {
+    "pergunta": "O que é o método BLW para introdução alimentar?",
+    "resposta": "BLW significa 'Baby-Led Weaning' ou Desmame Guiado pelo Bebê. É uma abordagem de introdução alimentar onde se oferece ao bebê, a partir dos 6 meses, alimentos em pedaços macios e formatos adequados para que ele mesmo os leve à boca, em vez de papinhas amassadas. O bebê participa das refeições em família e tem controle sobre o que e quanto comer. Os defensores argumentam que isso desenvolve habilidades motoras, promove uma relação saudável com a comida e permite que o bebê regule sua fome e saciedade. É crucial que os alimentos sejam preparados de forma segura para evitar engasgos. Sabia que estudos mostram que bebês que seguem o BLW não têm maior risco de engasgo do que bebês alimentados com papinhas, desde que os alimentos sejam oferecidos de forma adequada e sob supervisão?",
+    "palavras_chave": ["blw", "introdução alimentar", "bebê", "autonomia", "alimentos sólidos"]
+  },
+  {
+    "pergunta": "O que são os radicais livres e antioxidantes?",
+    "resposta": "Radicais livres são moléculas instáveis produzidas naturalmente pelo metabolismo do corpo e em resposta a fatores externos como poluição e radiação UV. Elas danificam as células em um processo chamado estresse oxidativo, que está ligado ao envelhecimento e a doenças. Os antioxidantes são moléculas que doam elétrons para neutralizar os radicais livres, impedindo esse dano. Nosso corpo produz alguns antioxidantes, mas também os obtemos da dieta, principalmente de frutas, vegetais, chás e especiarias. O equilíbrio entre radicais livres e antioxidantes é crucial para a saúde. Sabia que o exercício físico intenso aumenta temporariamente a produção de radicais livres, mas, em contrapartida, também estimula as defesas antioxidantes do corpo, tornando-o mais resistente a longo prazo?",
+    "palavras_chave": ["radicais livres", "antioxidantes", "estresse oxidativo", "envelhecimento", "frutas"]
+  },
+  {
+    "pergunta": "O que é a dieta cetogênica e como funciona?",
+    "resposta": "A dieta cetogênica é um regime muito baixo em carboidratos (geralmente menos de 50g por dia) e rico em gorduras, com proteína moderada. Ao privar o corpo de glicose (sua fonte preferida de energia), ele é forçado a entrar em um estado metabólico chamado cetose, onde o fígado converte gordura em cetonas para abastecer o cérebro e outros órgãos. Originalmente desenvolvida para tratar epilepsia infantil refratária, tornou-se popular para perda de peso. Pode causar efeitos colaterais iniciais como 'keto flu' (fadiga, dor de cabeça) e requer cuidados com a hidratação e eletrólitos. Sabia que a dieta cetogênica médica para epilepsia é muito mais restritiva do que as versões populares para perda de peso, com proporções específicas de gordura para carboidrato+proteína?",
+    "palavras_chave": ["dieta cetogênica", "cetose", "carboidratos", "gordura", "perda de peso"]
+  },
+  {
+    "pergunta": "O que é o índice de saciedade dos alimentos?",
+    "resposta": "O índice de saciedade é uma medida de quão bem um alimento satisfaz a fome e reduz a ingestão calórica nas refeições subsequentes. Alimentos com alto índice de saciedade geralmente são ricos em proteínas, fibras e água, e têm baixa densidade energética. Por exemplo, batata cozida, aveia, maçãs, peixe e lentilhas são conhecidos por promoverem muita saciedade. Já alimentos como croissants, bolos e sorvetes têm baixo índice de saciedade. Escolher alimentos mais saciantes é uma estratégia inteligente para controlar o peso sem passar fome. Sabia que um estudo australiano de 1995 criou uma escala de saciedade, onde os participantes classificaram diferentes alimentos, e a batata cozida ficou no topo, sendo quase 7 vezes mais saciante que o croissant?",
+    "palavras_chave": ["índice de saciedade", "fome", "proteínas", "fibras", "controle de peso"]
+  },
+  {
+    "pergunta": "O que são os taninos presentes no vinho e no chá?",
+    "resposta": "Os taninos são compostos polifenólicos naturais encontrados em plantas, responsáveis pela sensação de adstringência e amargor no vinho tinto, chá preto, chocolate amargo e algumas frutas. Eles têm a propriedade de se ligar a proteínas e outras moléculas. No corpo, podem atuar como antioxidantes, mas também podem reduzir a absorção de ferro não-heme (o ferro de fontes vegetais) quando consumidos em grandes quantidades junto com as refeições. No vinho, contribuem para a estrutura e complexidade. Sabia que a sensação de 'amarrar' a boca ao tomar um vinho tinto jovem ou um chá muito forte é causada pelos taninos se ligando às proteínas da nossa saliva, tornando-a menos lubrificante?",
+    "palavras_chave": ["taninos", "adstringência", "antioxidantes", "ferro", "vinho"]
+  },
+  {
+    "pergunta": "O que é a Dieta do Tipo Sanguíneo?",
+    "resposta": "Criada pelo naturopata Peter D'Adamo, a dieta do tipo sanguíneo propõe que pessoas com diferentes tipos sanguíneos (O, A, B, AB) devem seguir dietas específicas para otimizar a saúde e prevenir doenças. Por exemplo, tipo O seria o 'caçador', devendo comer muita carne; tipo A, o 'agrícola', seria vegetariano. No entanto, essa dieta não tem embasamento científico. Estudos rigorosos não encontraram qualquer correlação entre tipo sanguíneo e resposta a padrões alimentares. Qualquer benefício percebido provavelmente vem do simples fato de a dieta incentivar a ingestão de alimentos frescos e reduzir processados. Sabia que uma grande revisão sistemática publicada em 2013 analisou 16 estudos e concluiu que não há evidências para apoiar as alegações da dieta do tipo sanguíneo?",
+    "palavras_chave": ["dieta tipo sanguíneo", "mito", "evidência científica", "naturopatia", "padrão alimentar"]
+  },
+  {
+    "pergunta": "O que é a relação intestino-cérebro?",
+    "resposta": "A relação intestino-cérebro é uma via de comunicação bidirecional entre o sistema gastrointestinal e o sistema nervoso central, frequentemente chamada de 'eixo cérebro-intestino'. Ela envolve conexões neurais (como o nervo vago), hormonais e imunológicas. A microbiota intestinal (nossas bactérias intestinais) desempenha um papel crucial nessa comunicação, produzindo neurotransmissores que afetam o humor, como a serotonina (cerca de 90% é produzida no intestino). Isso explica por que o estresse pode causar dor de barriga e, inversamente, problemas intestinais podem afetar a saúde mental. Sabia que o termo 'segundo cérebro' para o intestino se deve ao seu sistema nervoso entérico, que contém milhões de neurônios e pode operar de forma relativamente independente do cérebro?",
+    "palavras_chave": ["intestino-cérebro", "microbiota", "sistema nervoso", "humor", "serotonina"]
+  },
+  {
+    "pergunta": "O que é o Jejum Intermitente?",
+    "resposta": "O Jejum Intermitente (JI) não é uma dieta que diz *o que* comer, mas *quando* comer. É um padrão alimentar que alterna períodos de jejum com períodos de alimentação. Os métodos mais comuns são o 16/8 (jejum de 16 horas e janela de alimentação de 8 horas) e o 5:2 (comer normalmente 5 dias e reduzir drasticamente as calorias em 2 dias). Os benefícios propostos incluem perda de peso, melhora da sensibilidade à insulina e autofagia (processo de 'limpeza' celular). No entanto, não é para todos e pode ser perigoso para pessoas com certas condições de saúde. Sabia que a autofagia, um dos mecanismos estudados no JI, rendeu o Prêmio Nobel de Medicina de 2016 ao cientista japonês Yoshinori Ohsumi?",
+    "palavras_chave": ["jejum intermitente", "janela alimentar", "autofagia", "insulina", "padrão alimentar"]
+  },
+  {
+    "pergunta": "O que são os FODMAPs?",
+    "resposta": "FODMAP é um acrônimo para Fermentable Oligosaccharides, Disaccharides, Monosaccharides And Polyols. São um grupo de carboidratos de cadeia curta e álcoois de açúcar que são mal absorvidos no intestino delgado. Eles puxam água para o intestino e são rapidamente fermentados pelas bactérias intestinais, produzindo gases. Em pessoas sensíveis, como aquelas com Síndrome do Intestino Irritável (SII), isso pode causar inchaço, dor abdominal, gases e alterações no hábito intestinal. A dieta low FODMAP é uma estratégia de eliminação temporária seguida de reintrodução para identificar os gatilhos individuais. Sabia que alimentos como cebola, alho, maçã, melancia, feijão, leite e adoçantes como xilitol e sorbitol são ricos em FODMAPs?",
+    "palavras_chave": ["fodmap", "intestino irritável", "fermentação", "carboidratos", "inchaço"]
+  },
+  {
+    "pergunta": "O que é a Psyllium e para que serve?",
+    "resposta": "A Psyllium é uma fibra solúvel derivada das sementes da planta Plantago ovata. Quando em contato com a água, ela forma um gel volumoso e viscoso. No trato digestivo, esse gel ajuda a amolecer as fezes, aliviando a constipação, e também pode ajudar a regular a diarréia ao absorver o excesso de água. Além disso, ela retarda o esvaziamento gástrico, promovendo saciedade e ajudando no controle do açúcar e do colesterol no sangue. É um suplemento fibroso muito versátil e geralmente bem tolerado. Sabia que a psyllium é o ingrediente fibroso principal de muitos laxantes famosos vendidos em farmácias, como o Metamucil?",
+    "palavras_chave": ["psyllium", "fibra solúvel", "constipação", "colesterol", "saciedade"]
+  },
+  {
+    "pergunta": "O que é a dieta paleolítica?",
+    "resposta": "A dieta paleolítica, ou 'dieta paleo', tenta imitar o que os nossos ancestrais caçadores-coletores supostamente comiam antes do advento da agricultura. Ela é baseada em carnes magras, peixes, frutos do mar, frutas, vegetais, nozes e sementes. Exclui grãos (trigo, arroz, milho), laticínios, leguminosas (feijão, amendoim), açúcar refinado e alimentos processados. A lógica é que nosso corpo não estaria geneticamente adaptado aos alimentos da agricultura moderna. Críticos apontam que é difícil saber exatamente o que os humanos paleolíticos comiam, que suas dietas variavam muito conforme a região, e que a exclusão de grãos integrais e leguminosas pode ser desnecessária. Sabia que estudos mostram que a dieta paleo pode levar a melhorias a curto prazo em marcadores metabólicos, mas sua sustentabilidade a longo prazo é questionada devido às suas restrições?",
+    "palavras_chave": ["dieta paleo", "paleolítica", "caçadores-coletores", "grãos", "restrição"]
+  },
+  {
+    "pergunta": "O que é a Creatina e quem deve suplementar?",
+    "resposta": "A creatina é um composto naturalmente encontrado nas células musculares, onde ajuda a produzir energia durante exercícios de alta intensidade ou levantamento de peso. A suplementação com creatina monoidratada aumenta as reservas de fosfocreatina nos músculos, permitindo que você faça mais repetições ou se recupere mais rapidamente entre séries. É um dos suplementos mais estudados e considerados seguros. É mais benéfica para atletas de força e potência (como halterofilistas e velocistas) do que para atletas de endurance. A 'fase de carga' não é mais considerada obrigatória. Sabia que cerca de 95% da creatina do corpo está armazenada nos músculos esqueléticos, e que metade da nossa necessidade diária é obtida pela dieta (carne vermelha e peixe) e a outra metade é sintetizada pelo fígado, rins e pâncreas?",
+    "palavras_chave": ["creatina", "suplemento", "musculação", "energia", "força"]
+  },
+  {
+    "pergunta": "O que é o Cacau e quais seus benefícios?",
+    "resposta": "O cacau em pó puro (não confundir com chocolate em pó adoçado) é obtido a partir das sementes fermentadas e torradas do fruto do cacaueiro. Ele é extremamente rico em flavonoides, um tipo de antioxidante com potentes efeitos anti-inflamatórios. Seus benefícios incluem melhora do fluxo sanguíneo e da pressão arterial, redução do risco de doenças cardíacas, proteção da pele contra danos UV e possíveis melhorias na função cerebral. Quanto mais alto o teor de cacau no chocolate, maior o benefício. O chocolate amargo com 70% ou mais de cacau é a melhor opção. Sabia que os astecas consideravam o cacau tão valioso que usavam os grãos como moeda?",
+    "palavras_chave": ["cacau", "flavonoides", "antioxidante", "chocolate amargo", "coração"]
+  },
+  {
+    "pergunta": "O que é a Dieta Low FODMAP?",
+    "resposta": "A Dieta Low FODMAP é uma estratégia terapêutica de três fases desenvolvida para pessoas com Síndrome do Intestino Irritável (SII) e outros distúrbios funcionis intestinais. Na primeira fase (eliminação), todos os alimentos ricos em FODMAPs são retirados da dieta por 2 a 6 semanas. Na segunda fase (reintrodução), os grupos de FODMAPs são reintroduzidos sistematicamente, um de cada vez, para identificar quais são os gatilhos individuais. Na terceira fase (personalização), a pessoa adota uma dieta adaptada à sua tolerância pessoal. É crucial que essa dieta seja feita com orientação de um nutricionista para evitar restrições desnecessárias. Sabia que a dieta low FODMAP é eficaz em cerca de 75% das pessoas com SII, proporcionando alívio significativo dos sintomas?",
+    "palavras_chave": ["low fodmap", "sii", "eliminação", "reintrodução", "dieta terapêutica"]
+  },
+  {
+    "pergunta": "O que é a Quinoa e por que é um grão tão especial?",
+    "resposta": "A quinoa é frequentemente tratada como um grão, mas na verdade é uma semente da planta Chenopodium quinoa, parente do espinafre. O que a torna nutricionalmente excepcional é que ela é uma proteína completa, contendo todos os nove aminoácidos essenciais que nosso corpo não pode produzir, o que é raro no reino vegetal. Além disso, é rica em fibras, magnésio, ferro e não contém glúten. Seu sabor suave e versatilidade na cozinha a tornaram um alimento popular em todo o mundo. Sabia que a NASA considerou a quinoa como uma cultura ideal para ser cultivada no espaço, devido ao seu valor nutricional excepcional e eficiência?",
+    "palavras_chave": ["quinoa", "proteína completa", "aminoácidos", "sem glúten", "superalimento"]
+  },
+  {
+    "pergunta": "O que é a Dieta da Zona?",
+    "resposta": "Criada pelo bioquímico Barry Sears, a Dieta da Zona propõe uma distribuição específica de macronutrientes em cada refeição: 40% das calorias de carboidratos, 30% de proteínas e 30% de gorduras. O objetivo é controlar os níveis de insulina e de eicosanoides (moléculas sinalizadoras) para reduzir a inflamação e otimizar a função hormonal e mental. Ela enfatiza carboidratos de baixo índice glicêmico, proteínas magras e gorduras monoinsaturadas. Críticos argumentam que a ciência por trás da proporção 40-30-30 não é sólida e que a dieta pode ser complexa de seguir. Sabia que a Dieta da Zona ganhou popularidade nos anos 90 e foi adotada por várias celebridades, sendo uma das precursoras das dietas que focam no controle hormonal?",
+    "palavras_chave": ["dieta da zona", "macronutrientes", "insulina", "proporção", "barry sears"]
+  },
+  {
+    "pergunta": "O que é a Spirulina?",
+    "resposta": "A Spirulina é uma cianobactéria, muitas vezes chamada de alga azul-esverdeada, que é consumida como um suplemento alimentar devido ao seu perfil nutricional impressionante. Ela é extremamente rica em proteínas (cerca de 60-70% do seu peso seco) e contém todos os aminoácidos essenciais. Também é uma boa fonte de vitaminas do complexo B, ferro, cobre e antioxidantes como a ficocianina, que dá sua cor característica. É geralmente consumida em pó adicionada a sucos ou smoothies. Sabia que a NASA e a Agência Espacial Europeia estudaram a spirulina como um potencial alimento para ser cultivado durante missões espaciais de longa duração, devido à sua eficiência na conversão de energia e alto valor nutricional?",
+    "palavras_chave": ["spirulina", "alga", "proteína", "suplemento", "antioxidante"]
+  },
+  {
+    "pergunta": "O que é a Dieta Atkins?",
+    "resposta": "A Dieta Atkins, criada pelo cardiologista Robert Atkins na década de 1970, foi uma das primeiras dietas low carb a se tornar popular. Ela é dividida em fases. A fase inicial é extremamente restritiva em carboidratos (apenas 20g por dia), forçando o corpo a entrar em cetose. Nas fases seguintes, os carboidratos são gradualmente reintroduzidos até encontrar um nível de 'manutenção' onde a pessoa não ganha peso. A dieta foi revolucionária por permitir o consumo liberal de gordura e proteína, desafiando as diretrizes nutricionais da época. Críticas incluem seu potencial para aumentar o consumo de gorduras saturadas e a falta de ênfase na qualidade dos alimentos. Sabia que o livro 'Dr. Atkins' Diet Revolution' vendeu mais de 15 milhões de cópias em todo o mundo, tornando-se um fenômeno cultural?",
+    "palavras_chave": ["dieta atkins", "low carb", "cetose", "fases", "robert atkins"]
+  },
+  {
+    "pergunta": "O que são os Fitoestrógenos?",
+    "resposta": "Fitoestrógenos são compostos naturais de plantas que têm uma estrutura química semelhante ao estrogênio humano. Eles podem se ligar aos receptores de estrogênio no corpo e ter um efeito estrogênico fraco ou, em alguns casos, bloquear os efeitos do estrogênio mais forte. As principais fontes são a soja e seus derivados (tofu, edamame, missô), linhaça e grão-de-bico. Seu consumo é frequentemente associado ao alívio dos sintomas da menopausa e à redução do risco de certos cânceres hormônio-dependentes. No entanto, seus efeitos são complexos e podem variar dependendo do indivíduo e da quantidade consumida. Sabia que a lignana, um tipo de fitoestrógeno presente na linhaça, é convertida em compostos com atividade estrogênica pelas bactérias do nosso intestino?",
+    "palavras_chave": ["fitoestrógenos", "soja", "estrogênio", "menopausa", "linhaça"]
+  },
+  {
+    "pergunta": "O que é a Dieta dos Pontos?",
+    "resposta": "A Dieta dos Pontos é um sistema de controle de peso que atribui um valor em pontos a todos os alimentos, baseado em seu conteúdo calórico, gordura saturada, açúcar e proteína. A pessoa tem um orçamento diário de pontos para 'gastar' como quiser. A grande vantagem é a flexibilidade: não há alimentos proibidos, o que pode reduzir a sensação de privação. Versões modernas, como o Vigilantes do Peso, também atribuem pontos zero a frutas e a maioria dos vegetais, incentivando seu consumo. A desvantagem é que o sistema pode não ensinar diretamente sobre qualidade nutricional, focando principalmente na quantidade. Sabia que o programa Vigilantes do Peso (Weight Watchers), que popularizou a dieta dos pontos, foi fundado em 1963 por Jean Nidetch, uma dona de casa de Nova York que começou reunindo amigas em sua sala de estar para discutir perda de peso?",
+    "palavras_chave": ["dieta dos pontos", "vigilantes do peso", "flexibilidade", "controle", "orçamento"]
+  },
+  {
+    "pergunta": "O que é o Resveratrol?",
+    "resposta": "O resveratrol é um polifenol antioxidante encontrado principalmente na casca das uvas vermelhas, no vinho tinto, em amendoins e em algumas bagas. Ele ganhou fama devido à 'Paradoxo Francês' - a observação de que os franceses, apesar de uma dieta rica em gordura saturada, têm baixa incidência de doenças cardíacas, possivelmente devido ao consumo moderado de vinho tinto. Estudos em laboratório mostraram que o resveratrol pode ativar genes ligados à longevidade e ter efeitos anti-inflamatórios. No entanto, a dosagem obtida pela dieta é muito menor do que a usada em estudos, e suplementos de resveratrol têm mostrado resultados inconsistentes em humanos. Sabia que as plantas produzem resveratrol como uma defensa natural contra estresses como infecções fúngicas e radiação UV?",
+    "palavras_chave": ["resveratrol", "antioxidante", "vinho tinto", "longevidade", "polifenol"]
+  },
+  {
+    "pergunta": "O que é a Dieta da Sopas?",
+    "resposta": "A Dieta da Sopa é geralmente uma dieta de curto prazo e muito baixa em calorias, que tem como base o consumo de uma sopa específica, frequentemente à base de repolho, por um período de 7 a 10 dias. Promete uma rápida perda de peso. A sopa em si pode ser nutritiva (rica em vegetais), mas a dieta como um todo é extremamente restritiva, monótona e insustentável. A perda de peso é principalmente de água e massa muscular, e o peso é rapidamente recuperado assim que a dieta termina ('efeito sanfona'). Não é recomendada por nutricionistas, que preferem abordagens mais equilibradas. Sabia que a 'Dieta da Sopa do Repolho' original supostamente foi desenvolvida em um hospital para pacientes cardíacos que precisavam perder peso rapidamente antes de uma cirurgia, mas não há evidências concretas para essa origem?",
+    "palavras_chave": ["dieta da sopa", "repolho", "restritiva", "efeito sanfona", "curto prazo"]
+  },
+  {
+    "pergunta": "O que é a Curcumina?",
+    "resposta": "A curcumina é o principal composto bioativo da cúrcuma (açafrão-da-terra), responsável por sua cor amarela vibrante e pela maioria de seus efeitos medicinais. É um potente anti-inflamatório e antioxidante, com estudos mostrando benefícios que rivalizam com alguns medicamentos anti-inflamatórios, mas sem os efeitos colaterais. No entanto, a curcumina é pobremente absorvida pela corrente sanguínea. Para aumentar sua biodisponibilidade, é frequentemente consumida com pimenta-preta (que contém piperina) e com uma fonte de gordura. Sabia que a piperina da pimenta-preta pode aumentar a absorção da curcumina em incríveis 2.000%?",
+    "palavras_chave": ["curcumina", "cúrcuma", "anti-inflamatório", "biodisponibilidade", "piperina"]
+  },
+  {
+    "pergunta": "O que é a Dieta do DNA?",
+    "resposta": "A Dieta do DNA, ou Nutrigenética, é uma abordagem personalizada que usa informações do teste genético de uma pessoa para fazer recomendações nutricionais. A ideia é que variações genéticas específicas podem influenciar como metabolizamos nutrientes, nossa sensibilidade à cafeína, intolerância à lactose, predisposição à doença celíaca, etc. Por exemplo, alguém com uma variante genética que reduz o metabolismo da cafeína pode ser aconselhado a consumir menos café. Embora seja um campo promissor, ainda está em seus estágios iniciais e a maioria das recomendações dietéticas baseadas apenas no DNA ainda não é suficientemente robusta. Sabia que, atualmente, fatores como idade, sexo, nível de atividade física e preferências alimentares ainda são considerados muito mais importantes do que a genética para a maioria das recomendações dietéticas personalizadas?",
+    "palavras_chave": ["dieta do dna", "nutrigenética", "personalizada", "genética", "teste"]
+  },
+  {
+    "pergunta": "O que é o Óleo de Coco?",
+    "resposta": "O óleo de coco é uma gordura extraída da polpa do coco. Ele é único porque é composto principalmente por triglicerídeos de cadeia média (TCM), que são metabolizados de forma diferente das outras gorduras: são absorvidos rapidamente e podem ser usados como fonte rápida de energia. Ele foi amplamente promovido como um 'superalimento', mas essa fama é controversa. Apesar dos TCMs, ele é extremamente rico em gordura saturada (cerca de 90%), que em excesso pode aumentar o colesterol LDL. O consenso atual é usá-lo com moderação, como parte de uma dieta equilibrada, e não como uma poção milagrosa. Sabia que o óleo de coco é sólido em temperatura ambiente em climas temperados, mas líquido em climas tropicais?",
+    "palavras_chave": ["óleo de coco", "tcm", "gordura saturada", "moderação", "controvérsia"]
+  },
+  {
+    "pergunta": "O que é a Dieta da Lua?",
+    "resposta": "A Dieta da Lua é uma crença popular que sugere que os ciclos lunares influenciam os fluidos corporais, assim como influenciam as marés. De acordo com essa teoria, fazer jejum ou uma dieta líquida nas fases de mudança da lua (a cada 7 dias) facilitaria a desintoxicação e a perda de peso. Não há qualquer base científica para essa afirmação. Qualquer perda de peso observada seria simplesmente devido à restrição calórica temporária do jejum, e não à influência da lua. É considerada uma dieta da moda sem credibilidade. Sabia que essa dieta surgiu na década de 1920 e foi popularizada por um jornal argentino, mas nunca foi submetida a testes científicos rigorosos?",
+    "palavras_chave": ["dieta da lua", "mito", "ciclos lunares", "jejum", "desintoxicação"]
+  },
+  {
+    "pergunta": "O que é o Kombucha?",
+    "resposta": "O Kombucha é uma bebida fermentada e ligeiramente gasosa feita a partir de chá adoçado (preto ou verde) e uma cultura simbiótica de bactérias e leveduras, conhecida como 'SCOBY' ou 'cogumelo do kombucha'. O processo de fermentação produz ácidos orgânicos, enzimas e probióticos. Tem um sabor agridoce e efervescente característico. Os proponentes alegam benefícios como melhora da digestão, aumento da energia e desintoxicação, mas as evidências científicas em humanos ainda são limitadas. É importante comprar de fontes confiáveis ou preparar com higiene rigorosa, pois a fermentação caseira pode levar à contaminação. Sabia que acredita-se que o kombucha tenha se originado na China há mais de 2.000 anos e era conhecido como o 'chá da imortalidade'?",
+    "palavras_chave": ["kombucha", "fermentado", "scoby", "probióticos", "chá"]
+  },
+  {
+    "pergunta": "O que é a Dieta da Proteína?",
+    "resposta": "A Dieta da Proteína, também conhecida como Dieta de Protein Power ou simplesmente dieta hiperproteica, é um padrão alimentar que enfatiza o consumo elevado de proteínas (carne, peixe, ovos, laticínios) enquanto restringe severamente os carboidratos. A lógica é semelhante a outras dietas low carb: ao reduzir os carboidratos, o corpo queima gordura para obter energia. As proteínas também promovem uma grande saciedade. No entanto, dietas com excesso de proteína por longos períodos podem sobrecarregar os rins em pessoas predispostas e podem ser pobres em fibras e certas vitaminas se não forem bem planejadas. Sabia que a dieta Dukan é uma versão muito famosa e estruturada de uma dieta hiperproteica, dividida em fases específicas?",
+    "palavras_chave": ["dieta da proteína", "hiperproteica", "low carb", "saciedade", "rim"]
+  },
+  {
+    "pergunta": "O que são alimentos ultraprocessados e por que são prejudiciais?",
+    "resposta": "Os alimentos ultraprocessados são formulações industriais feitas inteiramente ou majoritariamente de substâncias extraídas de alimentos (óleos, gorduras, açúcar, amido, proteínas), derivadas de constituintes de alimentos (gorduras hidrogenadas, amido modificado) ou sintetizadas em laboratório (corantes, aromatizantes, realçadores de sabor). Eles são tipicamente pobres em fibras, vitaminas e minerais, e ricos em açúcar, gordura não saudável e sódio. Seu consumo regular está fortemente associado ao aumento do risco de obesidade, diabetes, doenças cardiovasculares e alguns tipos de câncer. A regra de ouro é: desembale menos e descasque mais. Sabia que o sistema de classificação de alimentos NOVA, desenvolvido no Brasil, foi pioneiro em categorizar os alimentos pelo seu grau de processamento, e é usado mundialmente por pesquisadores?",
+    "palavras_chave": ["ultraprocessados", "nova", "aditivos", "doenças crônicas", "processamento industrial"]
+  },
+  {
+    "pergunta": "O que é a dieta low fat e ela ainda é recomendada?",
+    "resposta": "A dieta low fat (baixa em gordura) foi muito popular nas décadas de 1980 e 1990, baseada na ideia de que, como a gordura tem mais calorias por grama, reduzi-la seria a melhor forma de perder peso e prevenir doenças cardíacas. No entanto, essa abordagem simplista falhou em distinguir entre tipos de gordura. Muitos produtos 'low fat' eram carregados de açúcar para compensar o sabor. A ciência moderna mostrou que a qualidade da gordura é mais importante que a quantidade. Gorduras insaturadas (azeite, abacate, nozes) são benéficas. A recomendação atual é substituir gorduras saturadas por insaturadas, não simplesmente cortar toda a gordura. Sabia que o estudo Women's Health Initiative, um dos maiores já feitos, não encontrou redução no risco de doenças cardíacas ou câncer em mulheres que seguiram uma dieta low fat?",
+    "palavras_chave": ["dieta low fat", "gordura", "qualidade", "açúcar", "mito"]
+  },
+  {
+    "pergunta": "O que é o Índice de Massa Corporal (IMC) e quais suas limitações?",
+    "resposta": "O IMC é uma medida simples que relaciona o peso e a altura de uma pessoa (peso em kg / altura em m²). Ele classifica os indivíduos em baixo peso, peso normal, sobrepeso e obesidade. É útil para estudos populacionais, mas tem sérias limitações individuais. O IMC não distingue entre massa muscular e massa gorda. Um atleta musculoso pode ser classificado como 'sobrepeso' mesmo com pouca gordura corporal. Também não considera a distribuição da gordura (a gordura abdominal é mais perigosa). Por isso, deve ser interpretado com cautela e sempre em conjunto com outras medidas, como a circunferência da cintura. Sabia que o IMC foi desenvolvido pelo estatístico belga Adolphe Quetelet por volta de 1830, para descrever o 'homem médio', e não para diagnosticar obesidade?",
+    "palavras_chave": ["imc", "índice massa corporal", "limitações", "massa muscular", "cintura"]
+  },
+  {
+    "pergunta": "O que é a Dieta Dukan?",
+    "resposta": "A Dieta Dukan, criada pelo médico francês Pierre Dukan, é uma dieta hiperproteica dividida em quatro fases: 1) Ataque (só proteínas puras); 2) Cruzeiro (proteínas + vegetais alternados); 3) Consolidação (reintrodução gradual de outros alimentos); 4) Estabilização (regras para a vida toda, incluindo um dia de proteína pura por semana). A dieta promove rápida perda de peso inicial devido à diurese e restrição calórica severa. No entanto, é criticada por ser extremamente restritiva, monótona, potencialmente perigosa para a saúde renal e cardíaca a longo prazo, e difícil de sustentar. Sabia que Pierre Dukan foi radiado da ordem dos médicos na França em 2014 por promover a dieta comercialmente, quebrando o código de ética médica?",
+    "palavras_chave": ["dieta dukan", "hiperproteica", "fases", "restritiva", "pierre dukan"]
+  },
+  {
+    "pergunta": "O que é o Colágeno e a suplementação funciona?",
+    "resposta": "O colágeno é a proteína mais abundante no nosso corpo, formando a estrutura da pele, ossos, tendões, ligamentos e cartilagens. Com a idade, sua produção diminui. A suplementação com colágeno hidrolisado (quebrado em pedaços menores para facilitar a absorção) tornou-se popular para melhorar a saúde da pele e das articulações. A ciência é promissora: alguns estudos mostram que pode melhorar a elasticidade da pele, reduzir rugas e aliviar dores articulares em atletas e pessoas com osteoartrite. No entanto, é crucial lembrar que o colágeno é uma proteína incompleta (falta o aminoácido triptofano) e que uma dieta geralmente rica em proteínas e vitamina C (que auxilia na síntese de colágeno) é fundamental. Sabia que quando você consome colágeno, ele não vai diretamente para sua pele; ele é quebrado em aminoácidos que seu corpo usa como 'tijolos' para produzir seu próprio colágeno onde é necessário?",
+    "palavras_chave": ["colágeno", "proteína", "pele", "articulações", "suplemento"]
+  },
+  {
+    "pergunta": "O que é a Dieta do Mediterrâneo?",
+    "resposta": "A Dieta do Mediterrâneo é um padrão alimentar tradicional dos países que margeiam o Mar Mediterrâneo, como Grécia, Itália e Espanha. Ela não é uma 'dieta' prescritiva, mas um estilo de vida. Sua base é o consumo abundante de azeite de oliva extravirgem (a principal fonte de gordura), frutas, vegetais, grãos integrais, leguminosas, nozes e sementes. Inclui consumo moderado de peixe, aves, laticínios (queijo e iogurte) e vinho tinto (com as refeições), e baixo consumo de carne vermelha e doces. É considerada uma das dietas mais saudáveis do mundo, com fortes evidências de proteção contra doenças cardíacas, derrames, diabetes e declínio cognitivo. Sabia que o estudo 'Seven Countries Study', iniciado nos anos 1950, foi fundamental para revelar as baixas taxas de doenças cardíacas nas populações do Mediterrâneo e associá-las à sua dieta?",
+    "palavras_chave": ["dieta mediterrânea", "azeite", "padrão alimentar", "longevidade", "sete países"]
+  },
+  {
+    "pergunta": "O que é a Vitamina D e por que é tão especial?",
+    "resposta": "A Vitamina D é única porque funciona mais como um hormônio do que como uma vitamina. Nossa principal fonte não é a comida, mas a síntese na pele através da exposição aos raios UVB do sol. Ela é essencial para a absorção de cálcio e a saúde óssea, mas também desempenha papéis cruciais no sistema imunológico, na função muscular e na prevenção de doenças. A deficiência de vitamina D é muito comum, especialmente em países com pouco sol, em pessoas de pele mais escura e em quem passa muito tempo em ambientes fechados. Poucos alimentos são fontes naturais significativas (peixes gordurosos, gema de ovo). A suplementação é frequentemente necessária. Sabia que estima-se que cerca de 1 bilhão de pessoas em todo o mundo tenham deficiência ou insuficiência de vitamina D?",
+    "palavras_chave": ["vitamina d", "sol", "hormônio", "ossos", "imunidade"]
+  },
+  {
+    "pergunta": "O que é a Dieta da Proteína?",
+    "resposta": "A Dieta da Proteína, também conhecida como Dieta de Protein Power ou simplesmente dieta hiperproteica, é um padrão alimentar que enfatiza o consumo elevado de proteínas (carne, peixe, ovos, laticínios) enquanto restringe severamente os carboidratos. A lógica é semelhante a outras dietas low carb: ao reduzir os carboidratos, o corpo queima gordura para obter energia. As proteínas também promovem uma grande saciedade. No entanto, dietas com excesso de proteína por longos períodos podem sobrecarregar os rins em pessoas predispostas e podem ser pobres em fibras e certas vitaminas se não forem bem planejadas. Sabia que a dieta Dukan é uma versão muito famosa e estruturada de uma dieta hiperproteica, dividida em fases específicas?",
+    "palavras_chave": ["dieta da proteína", "hiperproteica", "low carb", "saciedade", "rim"]
+  },
+  {
+    "pergunta": "O que é o Cálcio e onde encontrá-lo além do leite?",
+    "resposta": "O cálcio é o mineral mais abundante no corpo, vital para a saúde dos ossos e dentes, contração muscular, função nervosa e coagulação sanguínea. Embora os laticínios sejam fontes famosas, muitas pessoas não os toleram ou não os consomem. Felizmente, existem excelentes fontes vegetais de cálcio: vegetais de folhas verde-escuras (couve, espinafre, brócolis), sardinhas e salmão enlatados (com espinhas), tofu coagulado com cálcio, amêndoas, feijão branco e figos secos. A absorção do cálcio é otimizada pela presença de vitamina D. Sabia que alguns vegetais como o espinafre e a acelga são ricos em cálcio, mas também em oxalatos, que podem reduzir sua absorção? A couve, por outro lado, tem baixo teor de oxalatos e é uma fonte excelente.",
+    "palavras_chave": ["cálcio", "ossos", "fontes vegetais", "absorção", "vitamina d"]
+  },
+  {
+    "pergunta": "O que é a Dieta do Ovo Cozido?",
+    "resposta": "A Dieta do Ovo Cozido é uma dieta da moda de curto prazo que promete rápida perda de peso ao fazer do ovo cozido o alimento central da maioria das refeições. Geralmente é muito baixa em calorias e carboidratos. Enquanto os ovos são nutritivos, basear a dieta quase que exclusivamente neles é extremamente restritivo, monótono e nutricionalmente desequilibrado, podendo levar a deficiências de fibras, vitaminas e outros nutrientes. A perda de peso é temporária e o peso é rapidamente recuperado. É um exemplo clássico de uma 'dieta milagre' insustentável. Sabia que variações dessa dieta circulam na internet há décadas, sempre ressurgindo com novos nomes, mas com a mesma premissa problemática?",
+    "palavras_chave": ["dieta ovo cozido", "restritiva", "moda", "insustentável", "monótona"]
+  },
+  {
+    "pergunta": "O que é o Ferro Heme e Não-Heme?",
+    "resposta": "O ferro na dieta vem em duas formas. O ferro heme é encontrado em alimentos de origem animal (carne vermelha, aves, peixe) e é altamente biodisponível, sendo absorvido a uma taxa de cerca de 15-35%. O ferro não-heme é encontrado em alimentos vegetais (feijão, lentilha, espinafre, tofu) e em alimentos fortificados. Sua absorção é menor, variando de 2 a 20%. A absorção do ferro não-heme pode ser significativamente aumentada quando consumido junto com uma fonte de vitamina C (como suco de laranja, pimentão ou brócolis). Por outro lado, taninos (chá, café) e cálcio podem inibir sua absorção. Sabia que a deficiência de ferro é a deficiência nutricional mais comum no mundo, sendo a principal causa de anemia?",
+    "palavras_chave": ["ferro heme", "ferro não-heme", "absorção", "vitamina c", "anemia"]
+  },
+  {
+    "pergunta": "O que é a Dieta da Sopa?",
+    "resposta": "A Dieta da Sopa é geralmente uma dieta de curto prazo e muito baixa em calorias, que tem como base o consumo de uma sopa específica, frequentemente à base de repolho, por um período de 7 a 10 dias. Promete uma rápida perda de peso. A sopa em si pode ser nutritiva (rica em vegetais), mas a dieta como um todo é extremamente restritiva, monótona e insustentável. A perda de peso é principalmente de água e massa muscular, e o peso é rapidamente recuperado assim que a dieta termina ('efeito sanfona'). Não é recomendada por nutricionistas, que preferem abordagens mais equilibradas. Sabia que a 'Dieta da Sopa do Repolho' original supostamente foi desenvolvida em um hospital para pacientes cardíacos que precisavam perder peso rapidamente antes de uma cirurgia, mas não há evidências concretas para essa origem?",
+    "palavras_chave": ["dieta da sopa", "repolho", "restritiva", "efeito sanfona", "curto prazo"]
+  },
+  {
+    "pergunta": "O que é o Óleo de Prímula?",
+    "resposta": "O óleo de prímula é extraído das sementes da planta Oenothera biennis. Ele é rico em ácido gama-linolênico (GLA), um tipo de ácido graxo ômega-6 com propriedades anti-inflamatórias. É mais conhecido por seu uso popular para aliviar os sintomas da TPM, como irritabilidade, inchaço e sensibilidade mamária, e sintomas da menopausa. Também é usado para condições de pele como eczema. No entanto, as evidências científicas sobre sua eficácia são mistas e geralmente modestas. Pode interagir com alguns medicamentos, então é importante consultar um médico antes de suplementar. Sabia que a prímula é uma flor nativa da América do Norte, também conhecida como 'Evening Primrose' porque suas flores amarelas se abrem ao entardecer?",
+    "palavras_chave": ["óleo de prímula", "gla", "tpm", "anti-inflamatório", "suplemento"]
+  },
+  {
+    "pergunta": "O que é a Dieta da USP?",
+    "resposta": "A chamada 'Dieta da USP' é uma dieta muito restritiva e de baixíssimas calorias que circula na internet há anos, alegando ser da Universidade de São Paulo. É importante esclarecer: a USP nunca endossou ou criou essa dieta. Ela é um plano alimentar perigoso, que promete uma perda de peso drástica (até 10kg em um mês) através de um cardápio desbalanceado e insustentável. Dietas assim podem causar fadiga, tonturas, perda de massa muscular, deficiências nutricionais e o temido efeito sanfona. É um exemplo de desinformação nutricional que se espalha online. Sabia que a Pró-Reitoria de Cultura e Extensão Universitária da USP já emitiu uma nota oficial desmentindo qualquer vínculo da universidade com essa dieta?",
+    "palavras_chave": ["dieta usp", "mito", "restritiva", "perigosa", "desinformação"]
+  },
+  {
+    "pergunta": "O que é o Óleo de Cártamo?",
+    "resposta": "O óleo de cártamo é extraído das sementes da planta Carthamus tinctorius. Existem dois tipos principais: um rico em ácido linoleico (ômega-6) e outro rico em ácido oleico (ômega-9, semelhante ao azeite). O óleo de cártamo com alto teor de ácido oleico é estável para cozinhar em altas temperaturas. Suplementos concentrados de óleo de cártamo (geralmente do tipo rico em ácido linoleico) foram popularizados para 'queimar gordura', mas as evidências são fracas e inconsistentes. Como qualquer óleo, ele é calórico e deve ser usado com moderação. Sabia que a planta do cártamo é cultivada há séculos, originalmente por seus pigmentos florais que eram usados para tingir tecidos de amarelo e vermelho-alaranjado?",
+    "palavras_chave": ["óleo de cártamo", "ômega-6", "ômega-9", "suplemento", "cozinhar"]
+  },
+  {
+    "pergunta": "O que é a Dieta da Lua?",
+    "resposta": "A Dieta da Lua é uma crença popular que sugere que os ciclos lunares influenciam os fluidos corporais, assim como influenciam as marés. De acordo com essa teoria, fazer jejum ou uma dieta líquida nas fases de mudança da lua (a cada 7 dias) facilitaria a desintoxicação e a perda de peso. Não há qualquer base científica para essa afirmação. Qualquer perda de peso observada seria simplesmente devido à restrição calórica temporária do jejum, e não à influência da lua. É considerada uma dieta da moda sem credibilidade. Sabia que essa dieta surgiu na década de 1920 e foi popularizada por um jornal argentino, mas nunca foi submetida a testes científicos rigorosos?",
+    "palavras_chave": ["dieta da lua", "mito", "ciclos lunares", "jejum", "desintoxicação"]
+  },
+  {
+    "pergunta": "O que é o Chá de Hibisco?",
+    "resposta": "O chá de hibisco é uma infusão feita das flores secas do Hibiscus sabdariffa, conhecido por sua cor vermelha vibrante e sabor azedo. Ele é rico em antioxidantes, como as antocianinas. Estudos preliminares, principalmente em animais e em pequena escala com humanos, sugerem que ele pode ter um efeito modesto na redução da pressão arterial e no colesterol. É uma bebida refrescante e sem calorias quando consumida sem açúcar. No entanto, é importante vê-lo como um complemento a um estilo de vida saudável, e não como uma solução milagrosa. Pessoas que tomam medicamentos para pressão arterial devem consultar um médico, pois pode potencializar o efeito. Sabia que a parte da planta de hibisco usada para o chá é na verdade o cálice (a estrutura que sustenta a pétala), e não a pétala em si?",
+    "palavras_chave": ["chá de hibisco", "antocianinas", "pressão arterial", "antioxidante", "infusão"]
+  },
+  {
+    "pergunta": "O que é a Dieta do Suco?",
+    "resposta": "A Dieta do Suco, ou 'juice cleanse', envolve consumir apenas sucos de frutas e vegetais frescos por um período, geralmente de alguns dias a uma semana. Os defensores alegam que isso 'desintoxica' o corpo e dá um 'reset' ao sistema digestivo. No entanto, do ponto de vista científico, nosso fígado e rins são perfeitamente capazes de desintoxicar o corpo sem a necessidade de dietas radicais. Essas dietas são extremamente pobres em proteínas, gorduras saudáveis e fibras (se o suco for coado), podendo causar fadiga, dor de cabeça e perda de massa muscular. O alto teor de açúcar dos sucos (mesmo naturais) pode sobrecarregar o pâncreas. Sabia que ao fazer suco, você remove a fibra da fruta ou legume, concentrando o açúcar e fazendo com que ele seja absorvido muito mais rapidamente na corrente sanguínea, sem a saciedade que a fibra proporcionaria?",
+    "palavras_chave": ["dieta do suco", "juice cleanse", "desintoxicação", "açúcar", "fibra"]
+  },
+  {
+    "pergunta": "O que é o Açúcar Mascavo?",
+    "resposta": "O açúcar mascavo é um açúcar menos refinado do que o branco. Ele retém parte do melaço da cana-de-açúcar, o que lhe confere a cor marrom, um sabor mais complexo (ligeiramente de caramelo) e uma pequena quantidade de minerais, como cálcio, ferro e potássio. No entanto, é um erro pensar que ele é uma opção 'saudável'. Nutricionalmente, ele é muito similar ao açúcar branco: suas calorias e efeito no açúcar no sangue são praticamente os mesmos. A quantidade de minerais extra é insignificante em uma porção normal. A recomendação continua sendo limitar o consumo de *todo* tipo de açúcar adicionado. Sabia que a diferença entre o açúcar mascavo claro e o escuro é simplesmente a quantidade de melaço que foi adicionada de volta após o refinamento?",
+    "palavras_chave": ["açúcar mascavo", "melaço", "refinado", "minerais", "calorias"]
+  },
+  {
+    "pergunta": "O que é a Dieta do Genótipo?",
+    "resposta": "A Dieta do Genótipo, criada pelo Dr. Peter D'Adamo (o mesmo da dieta do tipo sanguíneo), propõe que as pessoas se encaixam em seis 'genótipos' (Caçador, Coletor, Professor, Explorador, Guerreiro e Nômade) baseados em características físicas, histórico familiar e personalidade. Cada genótipo teria uma dieta e estilo de vida ideais para prevenir doenças e otimizar a saúde. Por exemplo, o 'Caçador' seria alto e magro e se daria bem com uma dieta rica em proteínas. Assim como a dieta do tipo sanguíneo, essa abordagem carece totalmente de evidências científicas robustas e é considerada pseudociência pela comunidade médica e nutricional mainstream. Sabia que essa dieta é um exemplo de 'one-size-fits-all' disfarçado de personalização, usando categorias amplas e subjetivas?",
+    "palavras_chave": ["dieta do genótipo", "peter d'adamo", "pseudociência", "genótipos", "personalização"]
+  },
+  {
+    "pergunta": "O que é o Vinagre de Maçã?",
+    "resposta": "O vinagre de maçã é feito a partir da fermentação do suco de maçã. Ele contém ácido acético, que é creditado por muitos de seus supostos benefícios, como ajudar no controle do açúcar no sangue ao melhorar a sensibilidade à insulina e aumentar a saciedade. Estudos pequenos mostram efeitos modestos, mas as evidências não são fortes o suficiente para recomendações generalizadas. É crucial diluí-lo em água, pois o consumo puro pode danificar o esmalte dos dentes e o revestimento do esôfago. Ele é um tempero saboroso, mas não uma poção mágica. Sabia que o componente turvo e sedimentado no fundo de uma garrafa de vinagre de maçã não filtrado é chamado de 'mãe do vinagre', uma colônia de bactérias e leveduras benéficas formadas durante a fermentação?",
+    "palavras_chave": ["vinagre de maçã", "ácido acético", "açúcar no sangue", "saciedade", "fermentação"]
+  },
+  {
+    "pergunta": "O que é a Dieta da Zona Azul?",
+    "resposta": "As 'Zonas Azuis' são cinco regiões do mundo identificadas pelo pesquisador Dan Buettner onde as pessoas vivem significativamente mais e com melhor saúde: Okinawa (Japão), Sardenha (Itália), Nicoya (Costa Rica), Icária (Grécia) e Loma Linda (Califórnia). A 'Dieta da Zona Azul' não é uma dieta prescritiva, mas um padrão observado nessas populações. Seus pilares são: dieta predominantemente vegetal, com ênfase em feijões, grãos integrais, nozes e vegetais; consumo moderado de peixe; carne vermelha apenas ocasionalmente; e ingestão calórica consciente (especialmente em Okinawa, com o princípio 'Hara Hachi Bu' - comer até 80% cheio). O estilo de vida (atividade física natural, forte senso de comunidade, propósito de vida) é tão importante quanto a dieta. Sabia que os adventistas de Loma Linda, uma das Zonas Azuis, vivem em média 10 anos a mais do que outros americanos, atribuído em parte à sua dieta vegetariana e estilo de vida sem tabaco ou álcool?",
+    "palavras_chave": ["zona azul", "longevidade", "dan buettner", "plant-based", "estilo de vida"]
+  },
+  {
+    "pergunta": "O que é o Óleo de Canola?",
+    "resposta": "O óleo de canola é derivado da semente da planta de colza, que foi desenvolvida no Canadá através de técnicas de reprodução convencionais para reduzir dois componentes indesejados: o ácido erúcico (tóxico em altas doses) e os glucosinolatos (que dão um sabor amargo). O nome 'canola' vem de 'Canadian oil, low acid'. Ele é rico em gorduras monoinsaturadas (semelhante ao azeite) e tem uma boa proporção de ômega-3 para ômega-6. É uma opção versátil e econômica para cozinhar, com sabor neutro e alto ponto de fumaça. Apesar de mitos online, é considerado seguro e saudável pela maioria das agências regulatórias. Sabia que a colza original era cultivada há milhares de anos, mas seu óleo era usado principalmente para lamparinas, não para consumo, devido ao seu sabor forte e conteúdo de ácido erúcico?",
+    "palavras_chave": ["óleo de canola", "colza", "monoinsaturada", "ômega-3", "cozinhar"]
+  },
+  {
+    "pergunta": "O que é a Dieta da Proteína?",
+    "resposta": "A Dieta da Proteína, também conhecida como Dieta de Protein Power ou simplesmente dieta hiperproteica, é um padrão alimentar que enfatiza o consumo elevado de proteínas (carne, peixe, ovos, laticínios) enquanto restringe severamente os carboidratos. A lógica é semelhante a outras dietas low carb: ao reduzir os carboidratos, o corpo queima gordura para obter energia. As proteínas também promovem uma grande saciedade. No entanto, dietas com excesso de proteína por longos períodos podem sobrecarregar os rins em pessoas predispostas e podem ser pobres em fibras e certas vitaminas se não forem bem planejadas. Sabia que a dieta Dukan é uma versão muito famosa e estruturada de uma dieta hiperproteica, dividida em fases específicas?",
+    "palavras_chave": ["dieta da proteína", "hiperproteica", "low carb", "saciedade", "rim"]
+  },
+  {
+    "pergunta": "O que é o Chá Matcha?",
+    "resposta": "O matcha é um tipo especial de chá verde em pó, produzido no Japão a partir de folhas de tencha que são sombreadas antes da colheita para aumentar o teor de clorofila e aminoácidos. Como você consome a folha inteira em pó (dissolvida em água ou leite), e não uma infusão, a concentração de antioxidantes, cafeína e L-teanina (um aminoácido calmante) é muito maior do que no chá verde comum. A L-teanina modera o efeito da cafeína, proporcionando uma energia mais tranquila e focada, sem o nervosismo. É um ingrediente versátil usado em lattes, smoothies e sobremesas. Sabia que o preparo tradicional do matcha é uma cerimônia cultural japonesa (chanoyu) que é uma prática meditativa focada na presença e no apreço estético?",
+    "palavras_chave": ["matcha", "chá verde", "antioxidantes", "l-teanina", "cafeína"]
+  },
+  {
+    "pergunta": "O que é a Dieta do Carboidrato?",
+    "resposta": "A 'Dieta do Carboidrato' é um termo genérico que pode se referir a duas abordagens opostas: 1) Dietas de *alto* carboidrato, como algumas dietas vegetarianas ou para atletas de endurance, que usam carboidratos como principal fonte de energia; ou 2) Dietas de *baixo* carboidrato (low carb), como Atkins e Keto, que restringem os carboidratos para forçar o corpo a queimar gordura. A confusão no termo ilustra um ponto importante: não existe uma única 'dieta do carboidrato'. A qualidade (carboidratos integrais vs. refinados) e a quantidade devem ser adaptadas aos objetivos, nível de atividade e saúde metabólica de cada pessoa. Sabia que o cérebro consome cerca de 120g de glicose por dia, que pode vir diretamente dos carboidratos da dieta ou ser produzida pelo fígado a partir de outras fontes, como proteínas?",
+    "palavras_chave": ["dieta carboidrato", "alto carboidrato", "baixo carboidrato", "qualidade", "energia"]
+  },
+  {
+    "pergunta": "O que é o Açúcar de Coco?",
+    "resposta": "O açúcar de coco é derivado da seiva das flores do coqueiro. Ele tem ganhado popularidade como uma 'alternativa mais saudável' ao açúcar branco porque contém pequenas quantidades de nutrientes, como minerais (potássio, zinco, ferro) e fibras (inulina), e tem um índice glicêmico um pouco mais baixo. No entanto, nutricionalmente, ele ainda é predominantemente sacarose (o mesmo açúcar de mesa) e suas calorias são muito similares. As quantidades de nutrientes extras são mínimas em uma porção típica. Portanto, ele continua sendo um açúcar adicionado e deve ser usado com moderação, não como um alimento 'saudável'. Sabia que o sabor do açúcar de coco é levemente caramelado, semelhante ao açúcar mascavo, e ele funciona bem em receitas como um substituto direto do açúcar comum?",
+    "palavras_chave": ["açúcar de coco", "seiva", "índice glicêmico", "nutrientes", "moderação"]
+  },
+  {
+    "pergunta": "O que é a Dieta da Clareza Mental?",
+    "resposta": "Não é uma dieta específica, mas um conceito que se refere a padrões alimentares que podem otimizar a função cerebral. Ele se concentra em alimentos que reduzem a inflamação, fornecem energia constante e fornecem nutrientes essenciais para os neurônios. Isso inclui: peixes gordurosos (ômega-3), mirtilos e outras frutas vermelhas (antioxidantes), nozes e sementes (vitamina E), vegetais de folhas verdes (folato, vitamina K) e grãos integrais (energia de liberação lenta). Ao mesmo tempo, evita alimentos que podem prejudicar o cérebro, como açúcar refinado, gordura trans e ultraprocessados, que podem causar 'nevoeiro mental'. Sabia que o cérebro é composto por quase 60% de gordura, e que o DHA, um tipo de ômega-3, é um dos componentes estruturais mais importantes das células cerebrais?",
+    "palavras_chave": ["clareza mental", "cérebro", "ômega-3", "antioxidantes", "nevoeiro mental"]
+  },
+  {
+    "pergunta": "O que é o Pão Sírio Integral?",
+    "resposta": "O pão sírio, também conhecido como pão pita, é um pão achatado originário do Oriente Médio. A versão integral é feita com farinha de trigo integral, o que a torna uma opção mais nutritiva do que a versão com farinha branca. Ele é uma boa fonte de fibras, vitaminas do complexo B e minerais como ferro e magnésio. Por ser fino e 'oco' (formando um bolso quando assado), é uma opção versátil para sanduíches, podendo ajudar no controle de porções. Comparado a um pão de forma comum, geralmente tem menos calorias por unidade. Sabia que o 'bolso' característico do pão sírio se forma quando o vapor d'água no interior da massa se expande rapidamente durante o cozimento em forno muito quente, separando as duas camadas do pão?",
+    "palavras_chave": ["pão sírio", "integral", "fibras", "pão pita", "oriente médio"]
+  },
+  {
+    "pergunta": "O que é a Dieta da Fertilidade?",
+    "resposta": "A Dieta da Fertilidade é um padrão alimentar focado em melhorar a saúde reprodutiva tanto em homens quanto em mulheres. Baseia-se em pesquisas, como as do estudo 'Nurses' Health Study', e enfatiza: gorduras insaturadas (azeite, abacate), proteínas vegetais (feijão, lentilha), grãos integrais, laticínios integrais (em vez de desnatados) e uma abundância de frutas e vegetais. Ela desencoraja gorduras trans e carnes vermelhas/processadas em excesso. O objetivo é reduzir a inflamação e melhorar a sensibilidade à insulina, fatores que influenciam a ovulação e a qualidade do esperma. É importante lembrar que a dieta é uma parte do quebra-cabeça, junto com peso saudável e estilo de vida. Sabia que a suplementação com ácido fólico é uma das recomendações mais importantes e bem estabelecidas para mulheres que planejam engravidar, para prevenir defeitos do tubo neural no bebê?",
+    "palavras_chave": ["dieta fertilidade", "reprodução", "ovulação", "ácido fólico", "gordura insaturada"]
+  }
+]

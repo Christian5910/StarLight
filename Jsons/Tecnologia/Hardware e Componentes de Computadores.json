@@ -1,0 +1,497 @@
+[
+  {
+    "pergunta": "O que é a placa-mãe e por que ela é considerada o coração do computador?",
+    "resposta": "A placa-mãe é o principal circuito de um computador, responsável por conectar e permitir a comunicação entre todos os componentes: processador, memória, armazenamento e periféricos. É nela que estão os barramentos, slots e chips que coordenam o funcionamento geral da máquina. Sem ela, nada se comunica. Sabia que o termo 'motherboard' vem justamente da ideia de que ela é a 'mãe' de todas as outras placas do sistema?",
+    "palavras_chave": ["placa-mãe", "componentes", "circuito", "conexão", "hardware"]
+  },
+  {
+    "pergunta": "Qual é a função do processador e por que ele é chamado de 'cérebro' do computador?",
+    "resposta": "O processador, ou CPU, é o componente responsável por executar as instruções dos programas. Ele interpreta comandos, faz cálculos e toma decisões lógicas em altíssima velocidade. É chamado de 'cérebro' porque coordena as demais partes do sistema e determina o desempenho geral. Sabia que o primeiro microprocessador comercial, o Intel 4004, tinha apenas 2.300 transistores, enquanto os chips atuais passam dos 100 bilhões?",
+    "palavras_chave": ["processador", "cpu", "transistor", "desempenho", "instruções"]
+  },
+  {
+    "pergunta": "O que diferencia a memória RAM do armazenamento interno?",
+    "resposta": "A memória RAM é usada temporariamente enquanto o computador está ligado, armazenando dados que estão sendo processados naquele momento. Já o armazenamento interno, como um SSD ou HD, guarda os arquivos de forma permanente. A RAM é rápida, mas volátil — tudo nela se perde quando o sistema é desligado. Sabia que um aumento na RAM pode melhorar o desempenho mesmo sem trocar o processador?",
+    "palavras_chave": ["memória ram", "armazenamento", "ssd", "hd", "desempenho"]
+  },
+  {
+    "pergunta": "Por que os SSDs são mais rápidos que os HDs tradicionais?",
+    "resposta": "Os SSDs não têm partes móveis, ao contrário dos HDs, que dependem de discos giratórios e cabeças mecânicas de leitura. Essa diferença faz com que os SSDs acessem dados instantaneamente, reduzindo o tempo de inicialização e carregamento de programas. Além disso, consomem menos energia e são mais resistentes a impactos. Sabia que a tecnologia dos SSDs se baseia em chips de memória flash, semelhantes aos usados em pen drives?",
+    "palavras_chave": ["ssd", "hd", "armazenamento", "memória flash", "velocidade"]
+  },
+  {
+    "pergunta": "O que é uma GPU e por que ela é importante para jogos e inteligência artificial?",
+    "resposta": "A GPU, ou unidade de processamento gráfico, é especializada em cálculos paralelos, ideais para renderizar imagens complexas e treinar modelos de IA. Enquanto a CPU foca em tarefas sequenciais, a GPU executa milhares de operações simultaneamente. Sabia que as GPUs modernas da NVIDIA e AMD são usadas não só em jogos, mas também em pesquisa científica e simulações 3D?",
+    "palavras_chave": ["gpu", "gráficos", "paralelismo", "nvidia", "inteligência artificial"]
+  },
+  {
+    "pergunta": "Qual a função da fonte de alimentação em um computador?",
+    "resposta": "A fonte de alimentação converte a energia elétrica da tomada em tensões adequadas para cada componente do computador. Além de distribuir energia, ela protege contra picos e quedas de tensão. Uma fonte de má qualidade pode comprometer todo o sistema. Sabia que existem fontes com certificação 80 Plus, que garantem eficiência energética superior a 80%?",
+    "palavras_chave": ["fonte de alimentação", "energia", "eficiência", "proteção", "hardware"]
+  },
+  {
+    "pergunta": "O que é o chipset e qual seu papel na placa-mãe?",
+    "resposta": "O chipset é um conjunto de circuitos que controla a comunicação entre o processador, a memória e outros dispositivos. Ele define muitos recursos da placa-mãe, como suporte a tipos de memória, portas USB e número de slots PCIe. Sabia que o termo vem da junção de 'chip' com 'set', ou seja, 'conjunto de chips'?",
+    "palavras_chave": ["chipset", "placa-mãe", "comunicação", "hardware", "controlador"]
+  },
+  {
+    "pergunta": "Por que a refrigeração é essencial para o funcionamento dos componentes?",
+    "resposta": "Os componentes eletrônicos geram calor enquanto funcionam, e o excesso pode reduzir o desempenho ou até causar danos permanentes. Por isso, ventoinhas, dissipadores e sistemas de refrigeração líquida são usados para manter temperaturas seguras. Sabia que alguns PCs gamers utilizam refrigeração a água com tubos iluminados apenas por estética, além da eficiência?",
+    "palavras_chave": ["refrigeração", "temperatura", "ventoinha", "dissipador", "hardware"]
+  },
+  {
+    "pergunta": "O que é overclock e quais são seus riscos?",
+    "resposta": "Overclock é a prática de aumentar a frequência de operação de um processador ou GPU além do padrão de fábrica, buscando mais desempenho. Apesar de oferecer ganhos, pode gerar instabilidade e superaquecimento se não houver refrigeração adequada. Sabia que algumas placas-mãe modernas têm perfis automáticos de overclock para usuários iniciantes?",
+    "palavras_chave": ["overclock", "desempenho", "processador", "temperatura", "risco"]
+  },
+  {
+    "pergunta": "Qual a diferença entre USB 2.0, 3.0 e 3.2?",
+    "resposta": "As versões do USB indicam a velocidade máxima de transferência de dados. O USB 2.0 atinge até 480 Mbps, o 3.0 chega a 5 Gbps e o 3.2 pode ultrapassar 20 Gbps. Além disso, as portas 3.0 geralmente são azuis, facilitando a identificação. Sabia que o USB-C é reversível e pode transmitir vídeo, dados e energia ao mesmo tempo?",
+    "palavras_chave": ["usb", "transferência", "dados", "conexão", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é um barramento PCI Express e para que ele serve?",
+    "resposta": "O PCI Express, ou PCIe, é o principal tipo de slot usado para conectar placas de vídeo, SSDs e outros componentes à placa-mãe. Ele permite transferências de dados extremamente rápidas e pode operar com diferentes larguras de banda, chamadas de 'lanes'. Sabia que o padrão PCIe 5.0 pode atingir velocidades de até 32 gigatransfers por segundo?",
+    "palavras_chave": ["pcie", "barramento", "placa de vídeo", "armazenamento", "velocidade"]
+  },
+  {
+    "pergunta": "Qual é a função da BIOS e como ela influencia o funcionamento do computador?",
+    "resposta": "A BIOS é o sistema básico que inicia o computador, testando e configurando o hardware antes de carregar o sistema operacional. Hoje, ela vem sendo substituída pela UEFI, que oferece interface gráfica e suporte a discos maiores. Sabia que a BIOS original era armazenada em chips de memória apenas de leitura, por isso o nome Basic Input Output System?",
+    "palavras_chave": ["bios", "uefi", "sistema", "hardware", "inicialização"]
+  },
+  {
+    "pergunta": "Por que a memória cache é importante para o desempenho da CPU?",
+    "resposta": "A cache é uma memória ultrarrápida localizada dentro do processador. Ela armazena dados usados com frequência, reduzindo o tempo de acesso e aumentando a eficiência do sistema. Existem diferentes níveis (L1, L2, L3) que equilibram velocidade e capacidade. Sabia que a cache L1 pode ser até 100 vezes mais rápida que a RAM comum?",
+    "palavras_chave": ["memória cache", "cpu", "velocidade", "desempenho", "armazenamento"]
+  },
+  {
+    "pergunta": "O que é um slot de expansão e por que ele é útil?",
+    "resposta": "Slots de expansão permitem adicionar novos recursos ao computador, como placas de vídeo, som, rede ou captura. Essa modularidade é o que torna os desktops tão versáteis e personalizáveis. Sabia que, nos anos 90, era comum instalar placas de fax-modem nesses slots para acessar a internet discada?",
+    "palavras_chave": ["slot", "expansão", "placa", "computador", "personalização"]
+  },
+  {
+    "pergunta": "Qual é o papel do cooler do processador?",
+    "resposta": "O cooler dissipa o calor gerado pela CPU, evitando o superaquecimento. Ele combina um dissipador de metal com uma ventoinha que circula o ar. Um bom cooler garante estabilidade e prolonga a vida útil do processador. Sabia que existem coolers a ar e também modelos com refrigeração líquida para usuários exigentes?",
+    "palavras_chave": ["cooler", "processador", "temperatura", "refrigeração", "dissipador"]
+  },
+  {
+    "pergunta": "O que significa TDP em processadores e placas de vídeo?",
+    "resposta": "TDP, ou Thermal Design Power, indica a quantidade máxima de calor que um componente pode gerar e que precisa ser dissipada. Esse valor ajuda a escolher a refrigeração ideal. Sabia que o TDP não mede consumo exato de energia, mas sim a carga térmica típica durante uso intenso?",
+    "palavras_chave": ["tdp", "calor", "energia", "refrigeração", "processador"]
+  },
+  {
+    "pergunta": "Por que notebooks têm limitações de hardware em relação a desktops?",
+    "resposta": "Notebooks priorizam portabilidade e eficiência energética, o que exige componentes menores e com menor consumo de energia. Isso reduz o desempenho máximo e dificulta upgrades. Sabia que alguns modelos gamer modernos conseguem rivalizar com desktops graças à refrigeração avançada e GPUs móveis potentes?",
+    "palavras_chave": ["notebook", "desempenho", "portabilidade", "energia", "hardware"]
+  },
+  {
+    "pergunta": "O que é um drive óptico e por que ele caiu em desuso?",
+    "resposta": "O drive óptico lê e grava CDs, DVDs e Blu-rays usando laser. Ele foi essencial por décadas para instalação de softwares e reprodução de mídia, mas perdeu espaço para downloads e pendrives. Sabia que o primeiro CD comercial foi lançado em 1982 e prometia qualidade superior às fitas cassete?",
+    "palavras_chave": ["drive óptico", "cd", "dvd", "mídia", "armazenamento"]
+  },
+  {
+    "pergunta": "Como funcionam os sensores térmicos dentro de um computador?",
+    "resposta": "Os sensores térmicos monitoram a temperatura de componentes como CPU, GPU e placa-mãe. Eles enviam dados para o sistema ajustar ventoinhas automaticamente e evitar superaquecimento. Sabia que alguns PCs podem até reduzir a frequência do processador para proteger o hardware em casos críticos?",
+    "palavras_chave": ["sensor", "temperatura", "cpu", "proteção", "hardware"]
+  },
+  {
+    "pergunta": "O que é a memória ROM e como ela se diferencia da RAM?",
+    "resposta": "A memória ROM é um tipo de armazenamento permanente que contém instruções essenciais para o funcionamento inicial do computador, como o firmware. Diferente da RAM, ela não perde os dados quando o sistema é desligado. Sabia que o termo ROM vem de 'Read-Only Memory', ou seja, memória apenas para leitura?",
+    "palavras_chave": ["rom", "memória", "firmware", "armazenamento", "hardware"]
+  },
+  {
+    "pergunta": "Qual é a diferença entre processadores de 32 bits e 64 bits?",
+    "resposta": "A principal diferença está na quantidade de dados que o processador pode manipular por ciclo e na quantidade máxima de memória que ele pode endereçar. Processadores de 64 bits suportam muito mais memória e são mais rápidos em tarefas complexas. Sabia que o Windows XP foi um dos primeiros sistemas amplamente usados com versão 64 bits?",
+    "palavras_chave": ["processador", "bits", "memória", "desempenho", "arquitetura"]
+  },
+  {
+    "pergunta": "O que é um soquete de processador?",
+    "resposta": "O soquete é o encaixe físico na placa-mãe onde o processador é instalado. Ele define a compatibilidade entre CPU e placa-mãe, variando conforme o fabricante e a geração do chip. Sabia que Intel e AMD usam padrões diferentes de soquete e isso impede a troca direta entre suas CPUs?",
+    "palavras_chave": ["soquete", "processador", "placa-mãe", "compatibilidade", "cpu"]
+  },
+  {
+    "pergunta": "Como a velocidade do barramento influencia o desempenho do computador?",
+    "resposta": "O barramento é o canal de comunicação entre os componentes do sistema. Quanto maior sua velocidade, mais rapidamente dados circulam entre CPU, memória e dispositivos. Sabia que o barramento frontal, conhecido como FSB, foi substituído em arquiteturas modernas pelo controlador de memória integrado ao processador?",
+    "palavras_chave": ["barramento", "velocidade", "comunicação", "cpu", "memória"]
+  },
+  {
+    "pergunta": "O que significa o termo 'clock' em um processador?",
+    "resposta": "O clock representa a frequência com que o processador executa ciclos de instrução por segundo. Ele é medido em gigahertz (GHz). Embora importante, não é o único fator de desempenho, já que a arquitetura do chip também influencia. Sabia que um processador de 3 GHz realiza cerca de 3 bilhões de ciclos por segundo?",
+    "palavras_chave": ["clock", "frequência", "processador", "desempenho", "ghz"]
+  },
+  {
+    "pergunta": "O que são núcleos e threads em um processador?",
+    "resposta": "Os núcleos são unidades físicas que executam tarefas, enquanto as threads são linhas de execução lógica que podem ser processadas simultaneamente. Mais núcleos e threads significam maior capacidade de multitarefa. Sabia que a tecnologia Hyper-Threading da Intel permite que um núcleo processe duas threads ao mesmo tempo?",
+    "palavras_chave": ["núcleos", "threads", "processador", "multitarefa", "hyper-threading"]
+  },
+  {
+    "pergunta": "Por que as memórias DDR evoluíram tanto ao longo dos anos?",
+    "resposta": "Cada geração de memória DDR (Double Data Rate) trouxe ganhos de velocidade e eficiência energética. As DDR4 e DDR5, por exemplo, têm maior largura de banda e operam com menos consumo de energia. Sabia que a DDR5 pode atingir até 8.400 MT/s, o dobro da geração anterior?",
+    "palavras_chave": ["ddr", "memória", "velocidade", "eficiência", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é um módulo de memória e como ele se encaixa na placa-mãe?",
+    "resposta": "O módulo de memória é um pequeno circuito impresso com chips de RAM que se encaixa em slots específicos na placa-mãe. Ele é responsável por armazenar dados temporariamente enquanto o sistema está em uso. Sabia que os módulos de notebook são menores e chamados de SO-DIMM?",
+    "palavras_chave": ["módulo", "memória", "ram", "placa-mãe", "so-dimm"]
+  },
+  {
+    "pergunta": "O que faz uma placa de som dedicada?",
+    "resposta": "Uma placa de som dedicada processa áudio de forma independente, oferecendo maior qualidade e menos ruído do que os chips integrados. Ela é usada por profissionais de música e gamers exigentes. Sabia que as primeiras Sound Blaster, lançadas nos anos 80, revolucionaram o áudio em PCs?",
+    "palavras_chave": ["placa de som", "áudio", "hardware", "qualidade", "pc"]
+  },
+  {
+    "pergunta": "O que é uma placa de rede e qual sua função?",
+    "resposta": "A placa de rede conecta o computador à internet ou a outras máquinas por meio de cabos ou conexões sem fio. Ela traduz dados digitais em sinais elétricos ou de rádio. Sabia que as primeiras redes Ethernet operavam a apenas 10 Mbps, enquanto hoje passamos facilmente dos 10 Gbps?",
+    "palavras_chave": ["placa de rede", "ethernet", "internet", "conexão", "wifi"]
+  },
+  {
+    "pergunta": "Como funciona um cooler líquido?",
+    "resposta": "O cooler líquido usa um fluido refrigerante que circula por tubos, absorvendo o calor da CPU e transferindo-o para um radiador. Ele é mais eficiente e silencioso que sistemas a ar. Sabia que há modelos com iluminação RGB apenas para fins estéticos?",
+    "palavras_chave": ["cooler", "líquido", "refrigeração", "cpu", "radiador"]
+  },
+  {
+    "pergunta": "O que é thermal throttling e por que ele ocorre?",
+    "resposta": "Thermal throttling é o mecanismo de redução automática de desempenho quando a temperatura do processador ou GPU ultrapassa o limite seguro. Isso protege o hardware de danos. Sabia que alguns notebooks ultrafinos enfrentam throttling com mais frequência por terem menos espaço para dissipação de calor?",
+    "palavras_chave": ["throttling", "temperatura", "proteção", "cpu", "desempenho"]
+  },
+  {
+    "pergunta": "Como funcionam os cabos SATA e NVMe nos dispositivos de armazenamento?",
+    "resposta": "Os cabos SATA conectam HDs e SSDs de forma tradicional, limitados a 6 Gbps. Já os SSDs NVMe usam o barramento PCIe, alcançando velocidades muito superiores. Sabia que o NVMe pode ser até 10 vezes mais rápido que o SATA convencional?",
+    "palavras_chave": ["sata", "nvme", "armazenamento", "ssd", "velocidade"]
+  },
+  {
+    "pergunta": "O que é RAID e por que ele é usado em servidores?",
+    "resposta": "RAID é uma tecnologia que combina vários discos rígidos para aumentar desempenho ou segurança dos dados. Existem diferentes níveis, como RAID 0 (velocidade) e RAID 1 (espelhamento). Sabia que data centers usam RAID 10, que combina desempenho e redundância ao mesmo tempo?",
+    "palavras_chave": ["raid", "armazenamento", "servidor", "segurança", "desempenho"]
+  },
+  {
+    "pergunta": "O que significa o termo 'latência' em memórias RAM?",
+    "resposta": "Latência é o tempo que a memória leva para responder a um comando. Menor latência significa respostas mais rápidas e maior eficiência geral. Sabia que nas memórias DDR, a latência é indicada por números como CL16 ou CL22?",
+    "palavras_chave": ["latência", "memória ram", "velocidade", "eficiência", "desempenho"]
+  },
+  {
+    "pergunta": "O que é o chipset gráfico integrado?",
+    "resposta": "O chipset gráfico integrado é um processador de vídeo embutido no próprio processador ou na placa-mãe. Ele permite exibir imagens sem precisar de uma placa de vídeo dedicada. Sabia que os chips gráficos da Intel são chamados de Iris ou UHD Graphics?",
+    "palavras_chave": ["gráficos integrados", "gpu", "processador", "imagem", "hardware"]
+  },
+  {
+    "pergunta": "Como funcionam os conectores M.2 para SSDs modernos?",
+    "resposta": "O conector M.2 é um padrão compacto que permite instalar SSDs diretamente na placa-mãe, sem cabos. Ele suporta interfaces SATA e NVMe, dependendo do modelo. Sabia que o formato M.2 foi criado pensando em notebooks ultrafinos e depois se popularizou em desktops?",
+    "palavras_chave": ["m.2", "ssd", "armazenamento", "nvme", "placa-mãe"]
+  },
+  {
+    "pergunta": "O que é a pasta térmica e por que ela é necessária?",
+    "resposta": "A pasta térmica é uma substância aplicada entre o processador e o dissipador de calor. Ela preenche pequenas imperfeições, garantindo melhor condução térmica. Sabia que existem pastas à base de prata e até de cerâmica, cada uma com desempenho diferente?",
+    "palavras_chave": ["pasta térmica", "processador", "refrigeração", "dissipador", "calor"]
+  },
+  {
+    "pergunta": "O que é o BIOS beep e para que ele serve?",
+    "resposta": "O BIOS beep é um som emitido durante a inicialização do sistema, usado para indicar falhas ou confirmações de hardware. Cada sequência de bipes representa um erro específico. Sabia que esse sistema de códigos é usado desde os primeiros PCs IBM dos anos 80?",
+    "palavras_chave": ["bios", "beep", "erro", "hardware", "inicialização"]
+  },
+  {
+    "pergunta": "Como funciona a comunicação entre CPU e GPU em jogos?",
+    "resposta": "A CPU processa a lógica e a física do jogo, enquanto a GPU cuida dos gráficos. Elas trocam dados constantemente para renderizar as cenas em tempo real. Sabia que gargalos ocorrem quando uma é muito mais rápida que a outra, limitando o desempenho?",
+    "palavras_chave": ["cpu", "gpu", "jogos", "renderização", "desempenho"]
+  },
+  {
+    "pergunta": "Por que é importante ter uma boa ventilação dentro do gabinete?",
+    "resposta": "Um bom fluxo de ar evita o acúmulo de calor e garante a longevidade dos componentes. O posicionamento das ventoinhas faz diferença: as frontais puxam ar frio, as traseiras expulsam o quente. Sabia que há gabinetes com design otimizado para pressão de ar positiva?",
+    "palavras_chave": ["gabinete", "ventilação", "temperatura", "fluxo de ar", "hardware"]
+  },
+  {
+    "pergunta": "O que é um hub USB e como ele amplia as conexões?",
+    "resposta": "Um hub USB é um dispositivo que multiplica uma porta USB em várias. Ele é útil quando o computador tem poucas entradas disponíveis. Sabia que existem hubs com alimentação própria para carregar dispositivos mais potentes?",
+    "palavras_chave": ["hub usb", "conexão", "dispositivo", "energia", "porta"]
+  },
+  {
+    "pergunta": "Como os LEDs RGB se tornaram tão populares em PCs?",
+    "resposta": "Os LEDs RGB permitem personalizar a iluminação de componentes e criar efeitos visuais impressionantes. Embora sejam estéticos, também ajudam na identificação de zonas internas. Sabia que o padrão ARGB permite controlar cada cor individualmente via software?",
+    "palavras_chave": ["rgb", "led", "iluminação", "hardware", "personalização"]
+  },
+  {
+    "pergunta": "O que é o dual channel nas memórias RAM?",
+    "resposta": "O modo dual channel permite que dois módulos de memória trabalhem juntos, dobrando a largura de banda entre RAM e processador. Isso melhora o desempenho em várias tarefas. Sabia que, para funcionar, os módulos precisam ser idênticos em capacidade e frequência?",
+    "palavras_chave": ["dual channel", "memória ram", "desempenho", "largura de banda", "processador"]
+  },
+  {
+    "pergunta": "Como o hardware evoluiu para suportar realidade virtual?",
+    "resposta": "Com a realidade virtual, GPUs ganharam mais poder e processadores precisaram lidar com latências baixíssimas. Sensores e câmeras também se tornaram essenciais. Sabia que o Oculus Rift, lançado em 2016, impulsionou uma corrida por otimização de hardware gráfico?",
+    "palavras_chave": ["realidade virtual", "gpu", "processador", "latência", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é um gabinete e por que seu design é importante?",
+    "resposta": "O gabinete abriga e protege todos os componentes do computador, além de auxiliar na ventilação e organização dos cabos. Um bom design melhora o fluxo de ar e reduz o acúmulo de poeira. Sabia que há gabinetes com filtros magnéticos removíveis para facilitar a limpeza?",
+    "palavras_chave": ["gabinete", "ventilação", "hardware", "design", "proteção"]
+  },
+  {
+    "pergunta": "O que é o formato ATX e por que ele é tão comum em placas-mãe?",
+    "resposta": "O padrão ATX define o tamanho, posição dos conectores e disposição dos componentes da placa-mãe. Criado pela Intel em 1995, ele se tornou o mais popular por equilibrar espaço e compatibilidade. Sabia que existem variações menores, como microATX e mini-ITX, voltadas para PCs compactos?",
+    "palavras_chave": ["atx", "placa-mãe", "padrão", "compatibilidade", "formato"]
+  },
+  {
+    "pergunta": "O que diferencia uma memória ECC de uma memória comum?",
+    "resposta": "A memória ECC (Error-Correcting Code) detecta e corrige automaticamente pequenos erros de dados, garantindo estabilidade em servidores e estações críticas. Sabia que, por esse motivo, ela é usada em data centers e não costuma aparecer em PCs domésticos?",
+    "palavras_chave": ["memória ecc", "erro", "servidor", "estabilidade", "dados"]
+  },
+  {
+    "pergunta": "Como funciona a arquitetura ARM usada em smartphones?",
+    "resposta": "A arquitetura ARM é baseada em instruções simplificadas, o que torna seus processadores mais eficientes em energia — ideal para dispositivos móveis. Eles sacrificam um pouco de desempenho bruto, mas ganham em autonomia. Sabia que a Apple usa chips ARM próprios, chamados de Apple Silicon, desde 2020?",
+    "palavras_chave": ["arm", "processador", "arquitetura", "energia", "apple"]
+  },
+  {
+    "pergunta": "O que é um transistor e qual seu papel dentro do processador?",
+    "resposta": "O transistor funciona como uma pequena chave elétrica que controla o fluxo de corrente. Bilhões deles compõem um processador, formando circuitos lógicos e de memória. Sabia que o primeiro transistor, criado em 1947, media quase um centímetro, enquanto hoje são menores que vírus?",
+    "palavras_chave": ["transistor", "processador", "circuito", "eletrônica", "computador"]
+  },
+  {
+    "pergunta": "Como funciona a comunicação entre hardware e software?",
+    "resposta": "O hardware executa instruções que o software envia por meio do sistema operacional e de drivers específicos. É uma relação simbiótica: sem software, o hardware é inerte; sem hardware, o software não tem onde rodar. Sabia que o termo 'driver' vem justamente de 'controlador' em inglês?",
+    "palavras_chave": ["hardware", "software", "drivers", "sistema operacional", "comunicação"]
+  },
+  {
+    "pergunta": "O que são os nanômetros nos processadores modernos?",
+    "resposta": "Os nanômetros medem o tamanho dos transistores em um chip. Quanto menores, mais unidades cabem, aumentando desempenho e eficiência. Sabia que chips de 3 nm já estão em produção e têm trilhões de transistores microscópicos?",
+    "palavras_chave": ["nanômetros", "processador", "transistor", "eficiência", "tecnologia"]
+  },
+  {
+    "pergunta": "Por que alguns computadores têm duas placas de vídeo?",
+    "resposta": "Ter duas placas de vídeo, em configurações como SLI ou CrossFire, permite dividir o processamento gráfico e aumentar o desempenho. Hoje, essa prática é rara por conta da evolução das GPUs únicas. Sabia que jogos modernos geralmente não otimizam mais o uso de múltiplas placas?",
+    "palavras_chave": ["placa de vídeo", "gpu", "sli", "crossfire", "desempenho"]
+  },
+  {
+    "pergunta": "O que é o barramento de memória?",
+    "resposta": "O barramento de memória é o canal que conecta a memória RAM ao processador. Ele determina a largura de banda — ou seja, quantos dados podem ser transferidos por segundo. Sabia que a largura do barramento é medida em bits, e quanto maior, mais rápida é a comunicação?",
+    "palavras_chave": ["barramento", "memória", "largura de banda", "processador", "dados"]
+  },
+  {
+    "pergunta": "Por que a GPU tem memória dedicada?",
+    "resposta": "A memória dedicada da GPU, chamada VRAM, armazena texturas, imagens e informações gráficas. Isso evita sobrecarregar a RAM do sistema e garante melhor desempenho visual. Sabia que as GPUs mais potentes chegam a ter mais VRAM do que muitos notebooks têm de memória RAM?",
+    "palavras_chave": ["gpu", "vram", "gráficos", "desempenho", "memória"]
+  },
+  {
+    "pergunta": "O que é um controlador de memória?",
+    "resposta": "O controlador de memória gerencia a leitura e escrita de dados entre o processador e a RAM. Ele determina quantos canais podem ser usados e qual a velocidade suportada. Sabia que nos processadores modernos esse controlador já vem embutido dentro da CPU?",
+    "palavras_chave": ["controlador", "memória", "cpu", "dados", "hardware"]
+  },
+  {
+    "pergunta": "Como a miniaturização dos componentes impactou a computação?",
+    "resposta": "Com a redução do tamanho dos transistores e circuitos, os chips se tornaram mais poderosos e eficientes, permitindo dispositivos menores e mais rápidos. Sabia que o primeiro computador ocupava uma sala inteira e pesava toneladas?",
+    "palavras_chave": ["miniaturização", "transistor", "tecnologia", "eficiência", "computador"]
+  },
+  {
+    "pergunta": "O que é uma controladora RAID?",
+    "resposta": "A controladora RAID é um chip ou placa responsável por gerenciar discos rígidos em arranjos RAID, garantindo desempenho e redundância. Sabia que há controladoras integradas em placas-mãe e versões dedicadas para servidores?",
+    "palavras_chave": ["raid", "armazenamento", "controladora", "servidor", "hardware"]
+  },
+  {
+    "pergunta": "O que é um dispositivo periférico?",
+    "resposta": "Periféricos são dispositivos externos que ampliam as funções do computador, como teclado, mouse, impressora ou monitor. Eles podem ser de entrada, saída ou ambos. Sabia que o termo vem do grego 'peripheria', que significa 'em torno de algo'?",
+    "palavras_chave": ["periférico", "entrada", "saída", "dispositivo", "computador"]
+  },
+  {
+    "pergunta": "Por que o armazenamento em nuvem não substitui totalmente o hardware físico?",
+    "resposta": "Apesar da praticidade, a nuvem depende de servidores físicos em data centers e de conexões estáveis. Ela complementa o hardware local, mas não o substitui por completo. Sabia que grandes provedores como Amazon e Google mantêm milhares de servidores espalhados pelo mundo?",
+    "palavras_chave": ["nuvem", "armazenamento", "servidor", "hardware", "internet"]
+  },
+  {
+    "pergunta": "O que é um BIOS Flashback?",
+    "resposta": "É um recurso que permite atualizar o BIOS da placa-mãe mesmo sem um processador instalado. Ideal para resolver incompatibilidades com novos chips. Sabia que algumas placas têm um botão dedicado apenas para esse processo?",
+    "palavras_chave": ["bios", "atualização", "placa-mãe", "firmware", "compatibilidade"]
+  },
+  {
+    "pergunta": "O que são os conectores Molex e SATA da fonte de energia?",
+    "resposta": "Os cabos Molex foram amplamente usados para alimentar HDs e ventoinhas antigas, enquanto os conectores SATA são padrão nos dispositivos modernos. Sabia que o Molex surgiu na década de 1960 e ainda é usado em equipamentos industriais?",
+    "palavras_chave": ["molex", "sata", "energia", "fonte", "conectores"]
+  },
+  {
+    "pergunta": "Como funciona o armazenamento em estado sólido?",
+    "resposta": "O armazenamento em estado sólido usa chips de memória flash para guardar dados, sem partes móveis. Isso garante rapidez e resistência a choques. Sabia que os SSDs modernos usam células NAND que podem armazenar vários bits por célula?",
+    "palavras_chave": ["ssd", "memória flash", "armazenamento", "nand", "velocidade"]
+  },
+  {
+    "pergunta": "O que é a placa de expansão Thunderbolt?",
+    "resposta": "É uma placa que adiciona suporte à interface Thunderbolt, permitindo transferências de dados ultrarrápidas, vídeo e energia por um único cabo. Sabia que a tecnologia foi criada pela Intel em parceria com a Apple?",
+    "palavras_chave": ["thunderbolt", "interface", "transferência", "intel", "apple"]
+  },
+  {
+    "pergunta": "Como funciona a comunicação entre RAM e CPU?",
+    "resposta": "A RAM envia e recebe dados da CPU em ciclos extremamente rápidos. A velocidade dessa comunicação depende da frequência da memória e da largura do barramento. Sabia que a latência influencia tanto quanto a velocidade nominal da RAM?",
+    "palavras_chave": ["ram", "cpu", "barramento", "frequência", "latência"]
+  },
+  {
+    "pergunta": "Por que a eletricidade estática pode danificar componentes?",
+    "resposta": "A descarga eletrostática libera uma corrente súbita capaz de queimar circuitos sensíveis. Por isso, técnicos usam pulseiras aterradas ao manusear hardware. Sabia que uma faísca imperceptível ao toque já é suficiente para destruir um chip?",
+    "palavras_chave": ["eletricidade estática", "danos", "componentes", "proteção", "hardware"]
+  },
+  {
+    "pergunta": "O que são os conectores frontais do gabinete?",
+    "resposta": "São os cabos que ligam botões, LEDs e portas USB do painel frontal do gabinete à placa-mãe. Sabia que cada conector precisa ser posicionado corretamente, pois um erro pode impedir o computador de ligar?",
+    "palavras_chave": ["gabinete", "placa-mãe", "usb", "conector", "painel frontal"]
+  },
+  {
+    "pergunta": "O que é o POST e qual sua função no boot do sistema?",
+    "resposta": "POST (Power-On Self Test) é o processo em que o BIOS verifica se todos os componentes essenciais estão funcionando antes de iniciar o sistema operacional. Sabia que, se houver falha, ele emite bipes ou mensagens de erro na tela?",
+    "palavras_chave": ["post", "bios", "inicialização", "hardware", "teste"]
+  },
+  {
+    "pergunta": "Por que os cabos de dados precisam ser blindados?",
+    "resposta": "A blindagem evita interferências eletromagnéticas que podem corromper dados. Isso é crucial em cabos longos ou ambientes com muitos equipamentos elétricos. Sabia que os cabos HDMI de alta qualidade possuem múltiplas camadas de proteção?",
+    "palavras_chave": ["blindagem", "cabos", "interferência", "dados", "proteção"]
+  },
+  {
+    "pergunta": "Como o hardware de um computador influencia a velocidade da internet?",
+    "resposta": "A velocidade real da conexão depende também da placa de rede, do tipo de cabo e do roteador. Um hardware antigo pode limitar a taxa máxima suportada. Sabia que portas Ethernet antigas de 100 Mbps travam a conexão mesmo com planos de 1 Gbps?",
+    "palavras_chave": ["internet", "placa de rede", "ethernet", "velocidade", "hardware"]
+  },
+  {
+    "pergunta": "O que é um backplate em placas-mãe e GPUs?",
+    "resposta": "O backplate é uma placa metálica na parte traseira do hardware que serve para reforço estrutural e ajuda na dissipação térmica. Sabia que, além de útil, ele também é usado como elemento estético em modelos premium?",
+    "palavras_chave": ["backplate", "gpu", "placa-mãe", "refrigeração", "estrutura"]
+  },
+  {
+    "pergunta": "O que é uma interface PCI Express?",
+    "resposta": "A interface PCI Express, ou PCIe, é o padrão moderno de conexão usado para placas de vídeo, SSDs NVMe e outros componentes de alta velocidade. Ela substituiu o antigo PCI e oferece comunicação ponto a ponto, mais rápida e eficiente. Sabia que cada nova geração do PCIe praticamente dobra a largura de banda da anterior?",
+    "palavras_chave": ["pcie", "interface", "conexão", "desempenho", "hardware"]
+  },
+  {
+    "pergunta": "Como funciona o cache do processador?",
+    "resposta": "O cache é uma memória ultrarrápida dentro da CPU que guarda dados usados com frequência, evitando buscas demoradas na RAM. Ele é dividido em níveis (L1, L2, L3), cada um maior e mais lento que o anterior. Sabia que um bom gerenciamento de cache pode aumentar o desempenho sem mudar o clock do processador?",
+    "palavras_chave": ["cache", "processador", "memória", "desempenho", "cpu"]
+  },
+  {
+    "pergunta": "O que é overclock e quais os riscos dessa prática?",
+    "resposta": "Overclock é o ato de aumentar a frequência de operação de componentes, como CPU ou GPU, para obter mais desempenho. Embora traga ganhos, ele pode elevar a temperatura e reduzir a vida útil do hardware se não houver refrigeração adequada. Sabia que muitos gamers usam watercooler justamente para manter a estabilidade durante o overclock?",
+    "palavras_chave": ["overclock", "cpu", "gpu", "desempenho", "temperatura"]
+  },
+  {
+    "pergunta": "Qual é a função da BIOS e do UEFI?",
+    "resposta": "A BIOS e o UEFI são firmwares responsáveis por iniciar o hardware e carregar o sistema operacional. O UEFI é a evolução da BIOS, oferecendo interface gráfica, suporte a discos maiores e inicialização mais rápida. Sabia que o UEFI pode até se conectar à internet para atualizações automáticas?",
+    "palavras_chave": ["bios", "uefi", "firmware", "sistema", "inicialização"]
+  },
+  {
+    "pergunta": "O que são os núcleos de um processador?",
+    "resposta": "Os núcleos são unidades independentes de processamento dentro da CPU, capazes de executar tarefas simultaneamente. Quanto mais núcleos, maior a capacidade de multitarefa. Sabia que alguns chips modernos ultrapassam 60 núcleos em servidores de alto desempenho?",
+    "palavras_chave": ["núcleo", "cpu", "processador", "multitarefa", "desempenho"]
+  },
+  {
+    "pergunta": "Por que os notebooks usam processadores diferentes dos desktops?",
+    "resposta": "Os processadores de notebooks são projetados para economizar energia e gerar menos calor, sacrificando um pouco de potência. Já os de desktop priorizam desempenho máximo. Sabia que a Intel identifica essas versões móveis com a letra 'U' no nome do chip?",
+    "palavras_chave": ["notebook", "processador", "energia", "desempenho", "intel"]
+  },
+  {
+    "pergunta": "O que é uma GPU integrada?",
+    "resposta": "Uma GPU integrada é um chip gráfico embutido no processador, usado para tarefas básicas como vídeos, navegadores e aplicativos leves. Ela compartilha a memória RAM com o sistema. Sabia que os processadores AMD com gráficos integrados são chamados de APUs?",
+    "palavras_chave": ["gpu", "gráficos", "processador", "integrado", "aplicações"]
+  },
+  {
+    "pergunta": "O que diferencia um SSD NVMe de um SSD SATA?",
+    "resposta": "Os SSDs NVMe usam a interface PCIe, que oferece velocidades muito superiores às do SATA. Enquanto o SATA atinge cerca de 500 MB/s, o NVMe ultrapassa 7000 MB/s. Sabia que essa diferença faz o sistema iniciar em segundos?",
+    "palavras_chave": ["ssd", "nvme", "sata", "velocidade", "armazenamento"]
+  },
+  {
+    "pergunta": "Como o sistema de refrigeração líquida funciona?",
+    "resposta": "A refrigeração líquida usa um fluido que circula por tubos e radiadores para dissipar o calor do processador ou GPU. Ela é mais silenciosa e eficiente que o ar. Sabia que há modelos selados prontos para instalação, chamados AIO (All In One)?",
+    "palavras_chave": ["refrigeração", "líquido", "processador", "gpu", "temperatura"]
+  },
+  {
+    "pergunta": "Por que a pasta térmica é essencial na montagem de um computador?",
+    "resposta": "A pasta térmica preenche as microimperfeições entre o processador e o dissipador, garantindo melhor transferência de calor. Sem ela, o chip pode superaquecer rapidamente. Sabia que uma camada em excesso também prejudica a refrigeração?",
+    "palavras_chave": ["pasta térmica", "processador", "refrigeração", "calor", "dissipador"]
+  },
+  {
+    "pergunta": "O que é um chipset e qual sua importância?",
+    "resposta": "O chipset é o conjunto de circuitos que controla a comunicação entre o processador, memória e periféricos. Ele define recursos como número de portas USB e suporte a overclock. Sabia que antigamente o chipset era dividido entre 'northbridge' e 'southbridge'?",
+    "palavras_chave": ["chipset", "placa-mãe", "processador", "comunicação", "hardware"]
+  },
+  {
+    "pergunta": "Como funciona a placa de som de um computador?",
+    "resposta": "A placa de som converte sinais digitais em analógicos (e vice-versa) para gerar o áudio que ouvimos. Hoje, ela já vem integrada na placa-mãe, mas há versões dedicadas para profissionais. Sabia que as primeiras placas de som surgiram nos anos 1980, com jogos em mente?",
+    "palavras_chave": ["placa de som", "áudio", "digital", "analógico", "computador"]
+  },
+  {
+    "pergunta": "O que é o clock de um processador?",
+    "resposta": "O clock indica quantas operações o processador executa por segundo, medido em gigahertz (GHz). Mais clock geralmente significa mais velocidade, mas depende também da arquitetura. Sabia que um chip de 3 GHz realiza 3 bilhões de ciclos por segundo?",
+    "palavras_chave": ["clock", "processador", "ghz", "velocidade", "cpu"]
+  },
+  {
+    "pergunta": "Por que a RAM é chamada de memória volátil?",
+    "resposta": "A RAM é volátil porque perde todos os dados quando o computador é desligado. Ela serve apenas para armazenamento temporário durante o uso. Sabia que a SRAM e a DRAM são os dois tipos mais comuns de RAM, com velocidades diferentes?",
+    "palavras_chave": ["ram", "memória", "volátil", "dados", "computador"]
+  },
+  {
+    "pergunta": "Como o barramento USB evoluiu ao longo do tempo?",
+    "resposta": "O USB passou por várias versões, aumentando velocidade e capacidade de energia. Do USB 1.0 ao 4.0, a taxa de transferência saltou de 12 Mbps para 40 Gbps. Sabia que o padrão USB-C é reversível e pode até transmitir vídeo e energia ao mesmo tempo?",
+    "palavras_chave": ["usb", "barramento", "transferência", "padrão", "conexão"]
+  },
+  {
+    "pergunta": "O que é um processador gráfico dedicado?",
+    "resposta": "É uma GPU separada da CPU, com sua própria memória e circuitos otimizados para cálculos visuais. Isso garante desempenho superior em jogos e renderizações. Sabia que as GPUs também são usadas em inteligência artificial e mineração de criptomoedas?",
+    "palavras_chave": ["gpu", "gráficos", "desempenho", "renderização", "hardware"]
+  },
+  {
+    "pergunta": "Qual é a diferença entre DDR4 e DDR5?",
+    "resposta": "A DDR5 é a nova geração de memória RAM, oferecendo maior largura de banda, eficiência e capacidade por módulo. Sabia que ela trabalha com frequências que ultrapassam facilmente os 6000 MHz, enquanto a DDR4 raramente passa de 3600 MHz?",
+    "palavras_chave": ["ddr5", "ddr4", "memória", "ram", "frequência"]
+  },
+  {
+    "pergunta": "O que faz um dissipador de calor?",
+    "resposta": "O dissipador absorve e espalha o calor gerado pelos componentes, geralmente com ajuda de ventoinhas. Sem ele, o hardware poderia queimar em minutos. Sabia que alguns dissipadores são feitos de cobre puro por sua excelente condutividade térmica?",
+    "palavras_chave": ["dissipador", "calor", "refrigeração", "cobre", "hardware"]
+  },
+  {
+    "pergunta": "Por que o formato M.2 revolucionou o armazenamento?",
+    "resposta": "O M.2 permitiu SSDs ultracompactos, conectados diretamente à placa-mãe sem cabos. Isso economizou espaço e aumentou a velocidade. Sabia que o M.2 também pode ser usado para Wi-Fi e Bluetooth, não apenas para armazenamento?",
+    "palavras_chave": ["m.2", "ssd", "armazenamento", "placa-mãe", "formato"]
+  },
+  {
+    "pergunta": "O que é uma placa controladora de rede?",
+    "resposta": "A placa de rede conecta o computador à internet ou a redes locais, via cabo ou sem fio. Ela traduz sinais elétricos em pacotes de dados digitais. Sabia que as versões modernas suportam até 10 Gigabits por segundo?",
+    "palavras_chave": ["placa de rede", "internet", "conexão", "dados", "rede"]
+  },
+  {
+    "pergunta": "Como os sensores térmicos ajudam a proteger o computador?",
+    "resposta": "Esses sensores monitoram a temperatura interna e enviam sinais para ajustar ventoinhas ou desligar o sistema em caso de superaquecimento. Sabia que processadores modernos têm dezenas de sensores espalhados pelo chip?",
+    "palavras_chave": ["sensor térmico", "temperatura", "proteção", "hardware", "ventoinha"]
+  },
+  {
+    "pergunta": "Por que as fontes de energia têm certificação 80 Plus?",
+    "resposta": "Essa certificação garante que a fonte converte energia com alta eficiência, desperdiçando menos eletricidade em forma de calor. Sabia que há diferentes níveis — Bronze, Gold, Platinum e Titanium — que indicam a eficiência da fonte?",
+    "palavras_chave": ["fonte", "energia", "eficiência", "80 plus", "certificação"]
+  },
+  {
+    "pergunta": "O que é um sistema de refrigeração passiva?",
+    "resposta": "É um método que dispensa ventoinhas, usando apenas dissipadores e convecção natural do ar para resfriar o hardware. É silencioso e confiável, mas limitado a componentes de baixo calor. Sabia que alguns notebooks ultrafinos usam esse sistema?",
+    "palavras_chave": ["refrigeração", "passiva", "dissipador", "calor", "silêncio"]
+  },
+  {
+    "pergunta": "Como o hardware influencia o desempenho em jogos?",
+    "resposta": "O desempenho em jogos depende principalmente da GPU, da CPU e da velocidade da memória. Um equilíbrio entre esses elementos evita gargalos. Sabia que muitos games modernos são limitados mais pelo processador do que pela placa de vídeo?",
+    "palavras_chave": ["jogos", "gpu", "cpu", "desempenho", "hardware"]
+  },
+  {
+    "pergunta": "O que é uma ventoinha PWM?",
+    "resposta": "A ventoinha PWM permite controlar a velocidade automaticamente conforme a temperatura do sistema. Isso reduz o ruído e aumenta a eficiência. Sabia que PWM significa 'Pulse Width Modulation' ou modulação por largura de pulso?",
+    "palavras_chave": ["ventoinha", "pwm", "temperatura", "controle", "refrigeração"]
+  },
+  {
+    "pergunta": "Como a arquitetura RISC se diferencia da CISC?",
+    "resposta": "A arquitetura RISC usa instruções simples e rápidas, enquanto a CISC usa instruções complexas e versáteis. RISC é mais eficiente em chips modernos, como os ARM. Sabia que o termo RISC significa 'Reduced Instruction Set Computer'?",
+    "palavras_chave": ["risc", "cisc", "arquitetura", "processador", "instruções"]
+  },
+  {
+    "pergunta": "O que é um controlador de ventoinha?",
+    "resposta": "É um dispositivo que permite ajustar manualmente ou automaticamente a velocidade das ventoinhas do computador, equilibrando refrigeração e ruído. Sabia que há controladores integrados na própria placa-mãe?",
+    "palavras_chave": ["controlador", "ventoinha", "refrigeração", "hardware", "ruído"]
+  },
+  {
+    "pergunta": "Por que o cabo de energia do computador tem filtro EMI?",
+    "resposta": "O filtro EMI reduz interferências eletromagnéticas que podem afetar o funcionamento dos componentes. Ele protege tanto o computador quanto outros aparelhos próximos. Sabia que EMI significa 'Interferência Eletromagnética'?",
+    "palavras_chave": ["emi", "energia", "interferência", "proteção", "hardware"]
+  },
+  {
+    "pergunta": "O que é um servidor blade?",
+    "resposta": "Um servidor blade é um tipo de servidor modular, compacto e de alta densidade, usado em data centers. Vários blades compartilham a mesma fonte e refrigeração. Sabia que esse design economiza espaço e energia em larga escala?",
+    "palavras_chave": ["servidor", "blade", "data center", "energia", "modular"]
+  }
+]

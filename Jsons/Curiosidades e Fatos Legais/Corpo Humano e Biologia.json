@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "Por que bocejamos?",
+    "resposta": "Bocejar é uma reação fascinante do nosso corpo, e os cientistas ainda não têm uma resposta definitiva, mas há boas pistas. Basicamente, o bocejo ajuda a regular a temperatura do cérebro, trazendo ar fresco e aumentando o fluxo sanguíneo. Quando estamos cansados, entediados ou até vendo alguém bocejar, o cérebro pode disparar esse reflexo. Um exemplo? Imagine que você está numa aula longa e sente aquele bocejo vindo – é o seu cérebro pedindo um ‘refresh’! A análise crítica aqui é que, apesar de parecer simples, o bocejo também pode ter uma função social em grupos, como sincronizar estados de alerta em animais. Sabia que até cachorros bocejam ao ver humanos bocejando, mostrando uma conexão emocional?",
+    "palavras_chave": ["bocejo", "cérebro", "temperatura", "reflexo", "sincronia"]
+  },
+  {
+    "pergunta": "Como o corpo humano produz energia?",
+    "resposta": "Nosso corpo é como uma usina de energia! Tudo começa com a comida que ingerimos, que é quebrada em moléculas menores, como glicose. Dentro das células, nas mitocôndrias – as ‘usinas’ celulares –, a glicose é convertida em ATP, a moeda energética do corpo, por meio da respiração celular. Pense num sanduíche: os carboidratos do pão viram combustível, enquanto as proteínas e gorduras ajudam em outras funções. Criticamente, esse processo é incrivelmente eficiente, mas depende de oxigênio e nutrientes. Se faltar algum, sentimos cansaço. Sabia que uma única célula pode conter milhares de mitocôndrias, trabalhando sem parar para te manter ativo?",
+    "palavras_chave": ["energia", "mitocôndrias", "glicose", "atp", "respiração celular"]
+  },
+  {
+    "pergunta": "Por que algumas pessoas têm sardas?",
+    "resposta": "Sardas são como pequenas pinceladas na pele, e elas aparecem por causa da melanina, o pigmento que dá cor à pele. Em pessoas com sardas, a melanina se concentra em pontos específicos, especialmente quando expostas ao sol. Isso é mais comum em peles claras e tem uma base genética. Por exemplo, alguém com sardas pode notar que elas ‘acendem’ no verão! A análise crítica é que sardas não são só estética: elas mostram como a pele reage ao sol para se proteger. Sabia que sardas podem desaparecer com a idade, já que a produção de melanina muda ao longo da vida?",
+    "palavras_chave": ["sardas", "melanina", "pele", "genética", "sol"]
+  },
+  {
+    "pergunta": "O que causa o soluço?",
+    "resposta": "Soluço é aquele ‘hic’ chato que parece surgir do nada! Ele acontece por uma contração involuntária do diafragma, o músculo que separa o peito do abdômen e ajuda na respiração. Quando ele se contrai rápido, a glote fecha, produzindo o som clássico. Pode ser desencadeado por comer rápido, engolir ar ou até mudanças de temperatura no estômago. Criticamente, o soluço é um reflexo que não tem uma função clara hoje, mas pode ser um resquício evolutivo. Sabia que bebês no útero já têm soluços, possivelmente para treinar os músculos respiratórios?",
+    "palavras_chave": ["soluço", "diafragma", "reflexo", "respiração", "glote"]
+  },
+  {
+    "pergunta": "Por que sentimos arrepios?",
+    "resposta": "Arrepios são como um eco dos nossos antepassados peludos! Eles acontecem quando pequenos músculos na base dos pelos (os músculos piloeretores) se contraem, geralmente por frio ou emoções fortes, como medo ou empolgação. Isso fazia os pelos dos nossos ancestrais se eriçarem, ajudando a reter calor ou parecer maior diante de predadores. Hoje, é mais uma curiosidade biológica. Por exemplo, ouvir uma música emocionante pode disparar arrepios! Criticamente, é um lembrete de como nosso corpo carrega traços evolutivos. Sabia que até pinguins têm arrepios para se aquecer?",
+    "palavras_chave": ["arrepios", "músculos piloeretores", "evolução", "calor", "emoção"]
+  },
+  {
+    "pergunta": "Como o corpo sabe quando está na hora de dormir?",
+    "resposta": "Nosso corpo tem um relógio interno incrível, chamado ritmo circadiano. Ele é controlado por uma região no cérebro chamada hipotálamo, que responde à luz e à escuridão. Quando anoitece, o corpo libera melatonina, um hormônio que sinaliza ‘hora de descansar’. Por exemplo, se você fica no celular até tarde, a luz azul pode bagunçar esse sinal. Criticamente, o ritmo circadiano é essencial para a saúde, e desregulá-lo pode afetar o humor e a energia. Sabia que pessoas cegas ainda têm ritmo circadiano, mesmo sem perceber a luz?",
+    "palavras_chave": ["ritmo circadiano", "melatonina", "hipotálamo", "sono", "luz"]
+  },
+  {
+    "pergunta": "Por que o estômago ronca quando estamos com fome?",
+    "resposta": "Aquele barulhinho no estômago, chamado borborigmo, é o som do seu sistema digestivo trabalhando! Quando está vazio, o estômago e os intestinos continuam se contraindo para ‘limpar a casa’ e se preparar para a próxima refeição. Esses movimentos, junto com gases e líquidos, criam os roncos. Imagine um cano com água e ar se mexendo – é mais ou menos isso! Criticamente, o ronco não é só fome, mas um sinal de que o sistema digestivo está ativo. Sabia que comer algo pequeno, como uma fruta, pode acalmar esses barulhos rapidinho?",
+    "palavras_chave": ["borborigmo", "estômago", "digestão", "fome", "intestino"]
+  },
+  {
+    "pergunta": "O que faz o coração bater sem parar?",
+    "resposta": "O coração é como um motor incansável, e quem comanda seus batimentos é o sistema nervoso autônomo, junto com um grupo de células especiais chamado nodo sinoatrial. Essas células geram impulsos elétricos que fazem o coração contrair ritmicamente, bombeando sangue. Pense nele como um maestro regendo uma orquestra sem pausas! Criticamente, o coração não depende do cérebro para bater, o que o torna autônomo. Sabia que o coração de um adulto bate cerca de 100 mil vezes por dia, mesmo sem você perceber?",
+    "palavras_chave": ["coração", "nodo sinoatrial", "impulsos elétricos", "batimento", "sangue"]
+  },
+  {
+    "pergunta": "Por que suamos quando está quente?",
+    "resposta": "Suor é o ar-condicionado natural do corpo! Quando a temperatura sobe, glândulas sudoríparas liberam água na pele, que evapora e tira calor do corpo, resfriando você. É como se seu corpo ‘jogasse água’ para se refrescar. Por exemplo, numa corrida num dia quente, o suor é o que impede superaquecimento. Criticamente, suar também elimina toxinas, mas sua função principal é térmica. Sabia que humanos são dos poucos mamíferos que suam tanto, o que nos ajudou a caçar na savana há milhões de anos?",
+    "palavras_chave": ["suor", "glândulas sudoríparas", "termorregulação", "calor", "evaporação"]
+  },
+  {
+    "pergunta": "Como o corpo repara ossos quebrados?",
+    "resposta": "Quebrar um osso é chato, mas o corpo é um mestre em consertos! Quando um osso fratura, o corpo forma um coágulo de sangue no local, que vira uma base para novas células. Depois, células especiais chamadas osteoblastos constroem um ‘calo ósseo’ temporário, que endurece e vira osso novo. Pense num pedreiro reconstruindo uma parede! Criticamente, o processo depende de boa nutrição, como cálcio e vitamina D. Sabia que ossos podem ficar até mais fortes após uma fratura bem curada?",
+    "palavras_chave": ["osso", "fratura", "osteoblastos", "calo ósseo", "cálcio"]
+  },
+  {
+    "pergunta": "Por que temos sobrancelhas?",
+    "resposta": "Sobrancelhas são mais do que estilo! Elas protegem os olhos, desviando suor, chuva e poeira que poderiam irritá-los. Além disso, têm um papel social: ajudam a expressar emoções, como surpresa ou raiva, facilitando a comunicação. Imagine tentar ‘fazer cara de bravo’ sem sobrancelhas – é bem mais difícil! Criticamente, elas são um traço evolutivo que combina função prática e interação social. Sabia que sobrancelhas são únicas como impressões digitais, variando de pessoa para pessoa?",
+    "palavras_chave": ["sobrancelhas", "proteção", "expressão facial", "evolução", "comunicação"]
+  },
+  {
+    "pergunta": "O que é o reflexo de espirrar?",
+    "resposta": "Espirrar é como um alarme de segurança do corpo! Quando algo irrita o nariz, como poeira ou pólen, nervos sensoriais disparam um sinal ao cérebro, que ativa um reflexo: uma grande expiração de ar para expulsar o intruso. É tão rápido que você não controla! Por exemplo, alergias ou resfriados aumentam os espirros. Criticamente, é uma defesa essencial, mas pode espalhar germes. Sabia que um espirro pode lançar gotículas a mais de 100 km/h?",
+    "palavras_chave": ["espirro", "reflexo", "nariz", "defesa", "germes"]
+  },
+  {
+    "pergunta": "Por que temos unhas nos dedos?",
+    "resposta": "As unhas são como ferramentas naturais! Elas protegem as pontas dos dedos, que são cheias de nervos, e ajudam em tarefas como coçar ou segurar objetos pequenos. Feitas de queratina, são uma versão endurecida da pele. Pense em tentar abrir uma lata sem unhas – bem mais difícil! Criticamente, unhas também mostram sinais de saúde: mudanças na cor podem indicar problemas. Sabia que as unhas crescem cerca de 3 mm por mês, mais rápido nas mãos do que nos pés?",
+    "palavras_chave": ["unhas", "queratina", "proteção", "dedos", "saúde"]
+  },
+  {
+    "pergunta": "Como o corpo combate infecções?",
+    "resposta": "Nosso sistema imunológico é como um exército interno! Quando um vírus ou bactéria invade, glóbulos brancos, como linfócitos, identificam o inimigo e produzem anticorpos para atacá-lo. É como um jogo de estratégia: o corpo aprende e se adapta. Por exemplo, vacinas ‘treinam’ esse exército para agir mais rápido. Criticamente, o sistema imunológico precisa de equilíbrio – se for hiperativo, pode causar alergias. Sabia que o corpo ‘lembra’ infecções passadas, às vezes por décadas?",
+    "palavras_chave": ["sistema imunológico", "anticorpos", "glóbulos brancos", "infecção", "vacinas"]
+  },
+  {
+    "pergunta": "Por que sentimos cócegas?",
+    "resposta": "Cócegas são um mistério divertido! Elas acontecem quando nervos sensoriais na pele detectam toques leves, ativando uma reação que mistura reflexo e emoção. É como se o cérebro interpretasse o toque como uma possível ameaça, mas também como algo inofensivo, daí o riso. Por exemplo, cócegas são mais fortes em áreas sensíveis, como a barriga. Criticamente, não conseguimos fazer cócegas em nós mesmos porque o cérebro prevê o toque. Sabia que cócegas podem ter evoluído para fortalecer laços sociais em grupos?",
+    "palavras_chave": ["cócegas", "nervos", "reflexo", "riso", "laços sociais"]
+  },
+  {
+    "pergunta": "O que faz o fígado no nosso corpo?",
+    "resposta": "O fígado é um verdadeiro faz-tudo! Ele filtra toxinas do sangue, produz bile para digerir gorduras, armazena nutrientes e ajuda a regular o açúcar no sangue. Pense nele como uma central de processamento que mantém o corpo equilibrado. Por exemplo, após uma refeição gordurosa, o fígado entra em ação para quebrar as gorduras. Criticamente, ele é vital, mas pode se sobrecarregar com excesso de álcool ou má alimentação. Sabia que o fígado pode se regenerar, mesmo após perder até 75% de seu tecido?",
+    "palavras_chave": ["fígado", "bile", "toxinas", "nutrientes", "regeneração"]
+  },
+  {
+    "pergunta": "Por que os olhos lacrimejam quando cortamos cebola?",
+    "resposta": "Cortar cebola é como ativar uma armadilha química! A cebola libera um composto chamado óxido de enxofre, que se mistura com a umidade dos olhos e forma um ácido leve, irritando-os. O cérebro responde produzindo lágrimas para ‘lavar’ o irritante. Criticamente, é uma defesa natural, mas bem incômoda! Por exemplo, cortar cebolas na geladeira reduz o efeito, pois o frio diminui a liberação do gás. Sabia que algumas cebolas geneticamente modificadas não fazem chorar?",
+    "palavras_chave": ["lágrimas", "cebola", "óxido de enxofre", "irritação", "olhos"]
+  },
+  {
+    "pergunta": "Como os músculos crescem?",
+    "resposta": "Músculos crescem como resposta ao esforço! Quando você faz exercícios, como levantar pesos, as fibras musculares sofrem microlesões. O corpo repara essas lesões, aumentando o tamanho e a força das fibras com novas proteínas. É como reconstruir uma ponte para ser mais forte. Por exemplo, treinos regulares com boa alimentação turbinam esse processo. Criticamente, descanso é tão importante quanto o exercício, pois é quando o reparo acontece. Sabia que músculos podem crescer até 50% mais com treino consistente?",
+    "palavras_chave": ["músculos", "microlesões", "proteínas", "treino", "crescimento"]
+  },
+  {
+    "pergunta": "Por que temos cílios?",
+    "resposta": "Cílios são como guardiões dos olhos! Eles formam uma barreira que impede poeira, insetos e partículas de entrarem, além de ajudar a manter a umidade ocular. Cada cílio é pequeno, mas juntos são super eficazes. Por exemplo, num dia ventoso, eles evitam que sujeira irrite seus olhos. Criticamente, cílios também têm função estética, destacando expressões faciais. Sabia que cílios caem e crescem de novo a cada 6 a 10 semanas, como uma renovação constante?",
+    "palavras_chave": ["cílios", "proteção", "olhos", "poeira", "expressão"]
+  },
+  {
+    "pergunta": "O que é o sistema nervoso central?",
+    "resposta": "O sistema nervoso central é o ‘quartel-general’ do corpo, formado pelo cérebro e pela medula espinhal. Ele processa informações, toma decisões e envia comandos para o resto do corpo, como mover um braço ou sentir dor. Pense nele como o processador de um computador, coordenando tudo! Criticamente, ele é super protegido por ossos e líquidos, mas lesões podem ser graves. Sabia que o cérebro tem cerca de 86 bilhões de neurônios, cada um fazendo milhares de conexões?",
+    "palavras_chave": ["sistema nervoso", "cérebro", "medula espinhal", "neurônios", "coordenação"]
+  },
+  {
+    "pergunta": "Por que sentimos dor?",
+    "resposta": "Dor é como um alarme do corpo! Ela acontece quando receptores nervosos, chamados nociceptores, detectam algo errado, como calor, pressão ou lesão, e enviam sinais ao cérebro. Por exemplo, tocar uma panela quente faz você puxar a mão na hora! Criticamente, a dor nos protege, mas dores crônicas podem ser um desafio médico. Sabia que algumas pessoas nascem sem sentir dor, uma condição rara chamada analgesia congênita, que pode ser perigosa?",
+    "palavras_chave": ["dor", "nociceptores", "nervos", "proteção", "cérebro"]
+  },
+  {
+    "pergunta": "Como o corpo regula a temperatura?",
+    "resposta": "Nosso corpo mantém a temperatura por volta de 37°C, como um termostato natural! O hipotálamo, no cérebro, monitora o calor e ativa mecanismos como suor para esfriar ou tremores para aquecer. Por exemplo, numa febre, o corpo ‘aumenta o termostato’ para combater infecções. Criticamente, esse equilíbrio é vital, e extremos podem ser perigosos. Sabia que humanos podem sobreviver a temperaturas corporais entre 35°C e 40°C, mas fora disso é arriscado?",
+    "palavras_chave": ["termorregulação", "hipotálamo", "suor", "tremores", "temperatura"]
+  },
+  {
+    "pergunta": "Por que o cabelo fica branco com a idade?",
+    "resposta": "Cabelos brancos aparecem porque os folículos capilares param de produzir melanina, o pigmento que dá cor. Com o tempo, as células responsáveis, chamadas melanócitos, se desgastam ou morrem. Por exemplo, estresse ou genética podem acelerar isso. Criticamente, é um processo natural, mas reflete o envelhecimento celular. Sabia que algumas pessoas podem ter fios brancos desde a adolescência devido a fatores genéticos?",
+    "palavras_chave": ["cabelo branco", "melanina", "melanócitos", "envelhecimento", "genética"]
+  },
+  {
+    "pergunta": "O que são as papilas gustativas?",
+    "resposta": "Papilas gustativas são pequenos sensores na língua que detectam sabores: doce, salgado, azedo, amargo e umami. Elas têm células receptoras que mandam sinais ao cérebro, criando a experiência do gosto. Por exemplo, quando você come chocolate, as papilas identificam o doce e o umami. Criticamente, o paladar trabalha junto com o olfato para formar o sabor completo. Sabia que temos cerca de 10 mil papilas gustativas, mas elas se renovam a cada duas semanas?",
+    "palavras_chave": ["papilas gustativas", "sabor", "língua", "receptores", "paladar"]
+  },
+  {
+    "pergunta": "Por que o sangue é vermelho?",
+    "resposta": "O sangue é vermelho por causa da hemoglobina, uma proteína nos glóbulos vermelhos que transporta oxigênio. Ela contém ferro, que, ao se ligar ao oxigênio, dá a cor vermelha brilhante. Quando o sangue perde oxigênio, fica mais escuro. Por exemplo, veias parecem azuis, mas é só um truque da luz na pele! Criticamente, a hemoglobina é essencial para a vida. Sabia que alguns animais, como caranguejos-ferradura, têm sangue azul por causa de um composto chamado hemocianina?",
+    "palavras_chave": ["sangue", "hemoglobina", "oxigênio", "ferro", "cor"]
+  },
+  {
+    "pergunta": "Por que sentimos fome?",
+    "resposta": "A fome é o jeito do corpo gritar: ‘preciso de combustível’! Quando o estômago está vazio ou os níveis de açúcar no sangue caem, o hormônio grelina é liberado, enviando sinais ao cérebro para te deixar com vontade de comer. É como um lembrete biológico para manter a energia. Por exemplo, se você pula o café da manhã, logo sente aquele vazio no estômago. Criticamente, a fome também pode ser influenciada por emoções ou hábitos, não só por necessidade física. Sabia que o cérebro leva cerca de 20 minutos para registrar que o estômago está cheio?",
+    "palavras_chave": ["fome", "grelina", "estômago", "cérebro", "energia"]
+  },
+  {
+    "pergunta": "Como os rins filtram o sangue?",
+    "resposta": "Os rins são como filtros de alta performance! Eles processam cerca de 120 a 150 litros de sangue por dia, removendo toxinas, excesso de água e sais, que viram urina. Cada rim tem milhões de néfrons, unidades minúsculas que fazem esse trabalho. Pense neles como peneiras microscópicas. Criticamente, os rins também regulam o equilíbrio de eletrólitos e a pressão arterial. Sabia que um rim saudável pode filtrar todo o sangue do corpo cerca de 12 vezes por hora?",
+    "palavras_chave": ["rins", "néfrons", "filtração", "sangue", "urina"]
+  },
+  {
+    "pergunta": "Por que o corpo produz muco?",
+    "resposta": "O muco é como um guarda-costas pegajoso! Ele é produzido por membranas no nariz, garganta e pulmões para capturar poeira, bactérias e outros invasores antes que cheguem aos pulmões. Por exemplo, durante um resfriado, o corpo aumenta a produção de muco para expulsar vírus. Criticamente, o muco é essencial para proteger as vias respiratórias, mas em excesso pode ser desconfortável. Sabia que o corpo produz cerca de 1 a 2 litros de muco por dia, mesmo quando você está saudável?",
+    "palavras_chave": ["muco", "proteção", "vias respiratórias", "bactérias", "resfriado"]
+  },
+  {
+    "pergunta": "O que é o reflexo de engasgar?",
+    "resposta": "O reflexo de engasgar é uma defesa rápida do corpo para proteger as vias aéreas. Quando algo, como comida ou água, vai para o ‘caminho errado’, a glote se fecha e os músculos da garganta se contraem, causando tosse para expulsar o intruso. Por exemplo, engolir um gole de água rápido demais pode disparar isso. Criticamente, é um mecanismo vital, mas pode ser perigoso se algo realmente obstruir a traqueia. Sabia que bebês têm esse reflexo mais forte para evitar engasgos com leite?",
+    "palavras_chave": ["engasgar", "reflexo", "glote", "tosse", "vias aéreas"]
+  },
+  {
+    "pergunta": "Por que temos sonhos?",
+    "resposta": "Sonhos são como um playground do cérebro! Durante o sono REM, o cérebro processa emoções, memórias e experiências, criando histórias muitas vezes malucas. Por exemplo, um sonho pode misturar seu dia no trabalho com algo surreal, como voar. A ciência sugere que sonhar ajuda a consolidar memórias e resolver problemas emocionais. Criticamente, nem todos os sonhos têm um ‘significado’, mas refletem a atividade cerebral. Sabia que você pode sonhar até 6 vezes por noite, mesmo que não lembre?",
+    "palavras_chave": ["sonhos", "sono rem", "cérebro", "memórias", "emoções"]
+  },
+  {
+    "pergunta": "Como o corpo mantém o equilíbrio?",
+    "resposta": "O equilíbrio é uma dança entre o cérebro, os olhos e o ouvido interno! O sistema vestibular, no ouvido, detecta movimentos e gravidade, enquanto os olhos e músculos enviam informações sobre posição. Por exemplo, quando você anda de bicicleta, tudo isso trabalha junto para te manter firme. Criticamente, problemas no ouvido interno, como labirintite, podem atrapalhar esse sistema. Sabia que flamingos conseguem ficar em uma perna só por causa de um sistema de equilíbrio super apurado?",
+    "palavras_chave": ["equilíbrio", "sistema vestibular", "ouvido interno", "cérebro", "movimento"]
+  },
+  {
+    "pergunta": "Por que a pele fica enrugada na água?",
+    "resposta": "A pele enrugada na água é mais do que um efeito curioso! Quando ficamos muito tempo submersos, o sistema nervoso faz os vasos sanguíneos da pele se contraírem, reduzindo o volume dos dedos e causando rugas. É como se a pele ‘encolhesse’ temporariamente. Criticamente, isso pode ter evoluído para melhorar a aderência em superfícies molhadas, como segurar objetos escorregadios. Sabia que esse efeito só acontece nas mãos e nos pés, onde a pele é mais espessa?",
+    "palavras_chave": ["pele", "rugas", "sistema nervoso", "aderência", "água"]
+  },
+  {
+    "pergunta": "O que é a adrenalina e como ela age?",
+    "resposta": "Adrenalina é como o botão de ‘turbo’ do corpo! Produzida pelas glândulas adrenais, ela é liberada em situações de estresse ou perigo, acelerando o coração, aumentando a força muscular e aguçando os sentidos. Por exemplo, quando você leva um susto, a adrenalina te prepara para lutar ou fugir. Criticamente, ela é essencial para sobrevivência, mas em excesso pode causar ansiedade. Sabia que a adrenalina pode fazer você levantar pesos incríveis em emergências, como histórias de mães erguendo carros para salvar filhos?",
+    "palavras_chave": ["adrenalina", "estresse", "glândulas adrenais", "coração", "força"]
+  },
+  {
+    "pergunta": "Por que o nariz escorre quando choramos?",
+    "resposta": "Quando choramos, o nariz escorre porque as lágrimas estão conectadas ao sistema nasal! As glândulas lacrimais produzem lágrimas, que drenam parcialmente pelo canal nasolacrimal, ligado ao nariz. Por isso, chorar muito faz o nariz ‘pingar’. Criticamente, isso mostra como o corpo recicla fluidos de forma eficiente. Por exemplo, fungar enquanto chora é super comum! Sabia que o muco no nariz durante o choro ajuda a proteger as vias aéreas de irritações?",
+    "palavras_chave": ["lágrimas", "nariz", "canal nasolacrimal", "choro", "muco"]
+  },
+  {
+    "pergunta": "Como os dentes são formados?",
+    "resposta": "Os dentes são como pequenas obras-primas! Eles começam a se formar ainda no útero, com células especiais criando esmalte, dentina e polpa. O esmalte é a camada externa duríssima, enquanto a dentina dá suporte e a polpa contém nervos. Por exemplo, os dentes de leite já estão ‘prontos’ antes do nascimento. Criticamente, a saúde dental depende de cuidados desde cedo, como evitar açúcar excessivo. Sabia que o esmalte dental é a substância mais dura do corpo humano?",
+    "palavras_chave": ["dentes", "esmalte", "dentina", "polpa", "formação"]
+  },
+  {
+    "pergunta": "Por que o corpo precisa de oxigênio?",
+    "resposta": "Oxigênio é o combustível da vida! Ele é usado nas células para quebrar glicose e produzir energia na forma de ATP, num processo chamado respiração celular. Sem oxigênio, as células não conseguem funcionar, e órgãos como o cérebro sofrem em minutos. Por exemplo, quando você corre, respira mais rápido para suprir a demanda. Criticamente, o oxigênio é essencial para quase todos os organismos complexos. Sabia que o corpo humano contém cerca de 0,2% de oxigênio por peso, mas sem ele não sobrevivemos minutos?",
+    "palavras_chave": ["oxigênio", "respiração celular", "atp", "energia", "células"]
+  },
+  {
+    "pergunta": "O que causa câimbras musculares?",
+    "resposta": "Câimbras são como um ‘curto-circuito’ nos músculos! Elas acontecem quando um músculo se contrai involuntariamente, muitas vezes por desidratação, falta de eletrólitos (como potássio) ou fadiga. Por exemplo, correr sem se hidratar pode disparar uma câimbra na panturrilha. Criticamente, alongamentos e boa nutrição ajudam a prevenir. Sabia que câimbras noturnas são mais comuns em idosos, mas podem afetar qualquer um se houver desequilíbrio eletrolítico?",
+    "palavras_chave": ["câimbras", "músculos", "desidratação", "eletrólitos", "fadiga"]
+  },
+  {
+    "pergunta": "Por que temos impressões digitais?",
+    "resposta": "Impressões digitais são como um carimbo único! Elas se formam no útero e ajudam a melhorar a aderência das mãos, além de aumentar a sensibilidade ao tato. Cada padrão é exclusivo, até em gêmeos idênticos. Por exemplo, ao segurar um copo, as ranhuras das impressões evitam que ele escorregue. Criticamente, elas também são usadas em identificação forense. Sabia que coalas também têm impressões digitais, quase indistinguíveis das humanas?",
+    "palavras_chave": ["impressões digitais", "aderência", "tato", "identificação", "padrão"]
+  },
+  {
+    "pergunta": "Como o corpo usa vitaminas?",
+    "resposta": "Vitaminas são como ajudantes invisíveis! Cada uma tem um papel: a vitamina C fortalece o sistema imunológico, a D ajuda na absorção de cálcio, e a B dá energia. Elas vêm da comida e agem como coenzimas em reações químicas no corpo. Por exemplo, comer laranjas fornece vitamina C para cicatrização. Criticamente, o excesso de algumas vitaminas pode ser prejudicial. Sabia que a vitamina A, em doses altas, pode causar toxicidade, mas em níveis normais é essencial para a visão?",
+    "palavras_chave": ["vitaminas", "sistema imunológico", "cálcio", "energia", "coenzimas"]
+  },
+  {
+    "pergunta": "Por que o corpo trem quando está com frio?",
+    "resposta": "Tremores são o jeito do corpo de se aquecer! Quando a temperatura cai, o hipotálamo detecta e faz os músculos se contraírem rapidamente, gerando calor. É como ligar um aquecedor interno. Por exemplo, bater o queixo no frio é um tipo de tremor. Criticamente, esse mecanismo é vital para manter os 37°C do corpo. Sabia que recém-nascidos têm um tipo especial de gordura marrom que queima calorias para gerar calor sem tremores?",
+    "palavras_chave": ["tremores", "hipotálamo", "calor", "frio", "gordura marrom"]
+  },
+  {
+    "pergunta": "O que é o sistema linfático?",
+    "resposta": "O sistema linfático é como uma rede de esgoto do corpo! Ele coleta fluidos extras dos tecidos, filtra toxinas e ajuda o sistema imunológico. Os vasos linfáticos transportam linfa, um líquido com glóbulos brancos, e os linfonodos agem como ‘postos de controle’. Por exemplo, quando você está com infecção, os linfonodos podem inchar. Criticamente, ele complementa o sistema circulatório. Sabia que o sistema linfático não tem uma ‘bomba’ como o coração, dependendo de movimentos musculares para funcionar?",
+    "palavras_chave": ["sistema linfático", "linfa", "linfonodos", "imunidade", "fluidos"]
+  },
+  {
+    "pergunta": "Por que a voz muda na puberdade?",
+    "resposta": "A mudança da voz na puberdade é como uma reforma nas cordas vocais! Nos meninos, o aumento de testosterona faz a laringe crescer, engrossando as cordas vocais e deixando a voz mais grave. Nas meninas, a mudança é mais sutil, mas também acontece. Por exemplo, a ‘quebra’ da voz é comum em adolescentes. Criticamente, é um sinal de maturação hormonal. Sabia que a voz pode continuar mudando levemente até os 20 anos em algumas pessoas?",
+    "palavras_chave": ["voz", "puberdade", "cordas vocais", "testosterona", "laringe"]
+  },
+  {
+    "pergunta": "Como o corpo cicatriza feridas?",
+    "resposta": "Cicatrizar é como uma obra de reparo do corpo! Primeiro, o sangue forma um coágulo para estancar o sangramento. Depois, células imunes limpam a área, e fibroblastos produzem colágeno para ‘costurar’ o tecido. Por exemplo, um corte na pele vira uma crosta em poucos dias. Criticamente, boa nutrição acelera o processo, enquanto infecções podem atrasar. Sabia que algumas pessoas formam cicatrizes queloides, que crescem além do ferimento original?",
+    "palavras_chave": ["cicatriz", "coágulo", "colágeno", "fibroblastos", "ferida"]
+  },
+  {
+    "pergunta": "Por que temos cílios nas pálpebras inferiores?",
+    "resposta": "Os cílios nas pálpebras inferiores são como uma rede extra de proteção! Eles ajudam a bloquear poeira, insetos e suor que poderiam irritar os olhos, complementando os cílios superiores. Por exemplo, em um dia de vento, eles evitam que partículas cheguem ao olho. Criticamente, também têm função estética, realçando o olhar. Sabia que os cílios inferiores são mais curtos, mas tão eficazes quanto os superiores na proteção?",
+    "palavras_chave": ["cílios inferiores", "proteção", "olhos", "poeira", "estética"]
+  },
+  {
+    "pergunta": "O que é o reflexo de vômito?",
+    "resposta": "O reflexo de vômito é como um botão de emergência! Ele é acionado quando o estômago ou a garganta detectam algo perigoso, como comida estragada ou toxinas, expulsando tudo pela boca. O cérebro coordena músculos do estômago e diafragma para isso. Por exemplo, comer algo azedo pode disparar o reflexo. Criticamente, é uma defesa contra intoxicação, mas pode ser incômodo. Sabia que esse reflexo é mais forte em crianças para protegê-las de engolir objetos estranhos?",
+    "palavras_chave": ["vômito", "reflexo", "estômago", "toxinas", "defesa"]
+  },
+  {
+    "pergunta": "Por que o corpo precisa de água?",
+    "resposta": "Água é o ingrediente principal da vida! Cerca de 60% do corpo humano é água, usada para transportar nutrientes, regular temperatura, lubrificar articulações e eliminar toxinas. Por exemplo, sem água, a digestão trava e você sente cansaço. Criticamente, mesmo uma desidratação leve pode afetar o foco e a energia. Sabia que o cérebro é 75% água, e a falta dela pode causar dores de cabeça?",
+    "palavras_chave": ["água", "desidratação", "nutrientes", "temperatura", "cérebro"]
+  },
+  {
+    "pergunta": "Como o corpo produz anticorpos?",
+    "resposta": "Anticorpos são como soldados personalizados do sistema imunológico! Células chamadas linfócitos B detectam invasores, como vírus, e criam anticorpos específicos para neutralizá-los. É como fabricar uma chave para uma fechadura única. Por exemplo, após uma vacina, o corpo ‘treina’ para produzir anticorpos mais rápido. Criticamente, esse processo é a base da imunidade. Sabia que o corpo pode ‘lembrar’ anticorpos por anos, até décadas, após uma infecção?",
+    "palavras_chave": ["anticorpos", "linfócitos b", "imunidade", "vírus", "vacina"]
+  },
+  {
+    "pergunta": "Por que sentimos tontura ao girar rápido?",
+    "resposta": "Tontura ao girar vem do sistema vestibular no ouvido interno! Ele tem canais cheios de fluido que detectam movimento. Girar rápido ‘bagunça’ esse fluido, confundindo o cérebro sobre sua posição. Por exemplo, após rodar numa brincadeira, o mundo parece girar! Criticamente, o cérebro precisa de tempo para recalibrar. Sabia que astronautas treinam em centrífugas para se acostumar com tonturas em missões espaciais?",
+    "palavras_chave": ["tontura", "sistema vestibular", "ouvido interno", "movimento", "cérebro"]
+  },
+  {
+    "pergunta": "O que é o apêndice e para que serve?",
+    "resposta": "O apêndice é um pequeno tubo no intestino grosso, e por muito tempo achavam que ele não servia para nada! Hoje, sabemos que ele pode armazenar bactérias boas, ajudando a repovoar o intestino após infecções. Por exemplo, em casos de diarreia, ele atua como um ‘backup’. Criticamente, sua função é secundária, e muitas pessoas vivem bem sem ele. Sabia que o apêndice pode ter sido mais importante em nossos ancestrais, que comiam mais plantas fibrosas?",
+    "palavras_chave": ["apêndice", "intestino", "bactérias", "infecção", "evolução"]
+  },
+  {
+    "pergunta": "Por que o corpo forma calos na pele?",
+    "resposta": "Calos são como armaduras naturais da pele! Quando uma área, como a palma da mão, sofre pressão ou atrito constante, a pele engrossa, formando uma camada de células mortas para se proteger. Por exemplo, tocar violão pode criar calos nos dedos. Criticamente, calos são úteis, mas podem rachar se ficarem muito secos. Sabia que calos nos pés ajudaram nossos ancestrais a caminhar longas distâncias descalços?",
+    "palavras_chave": ["calos", "pele", "atrito", "proteção", "células mortas"]
+  },
+  {
+    "pergunta": "Por que o coração acelera quando estamos com medo?",
+    "resposta": "Quando você sente medo, o corpo entra em modo de alerta total! O sistema nervoso simpático libera adrenalina, que faz o coração bater mais rápido para bombear sangue aos músculos, preparando você para correr ou reagir. Por exemplo, ao ouvir um barulho estranho à noite, seu coração dispara antes mesmo de você pensar! Criticamente, essa resposta é essencial para a sobrevivência, mas pode ser exagerada em casos de ansiedade. Sabia que o coração pode chegar a 200 batimentos por minuto em situações de pânico extremo?",
+    "palavras_chave": ["coração", "adrenalina", "medo", "sistema nervoso", "batimentos"]
+  },
+  {
+    "pergunta": "Como o corpo regula o açúcar no sangue?",
+    "resposta": "O corpo mantém o açúcar no sangue equilibrado como um malabarista! O pâncreas libera dois hormônios principais: insulina, que reduz o açúcar ao levá-lo para as células, e glucagon, que aumenta liberando açúcar armazenado. Por exemplo, depois de comer um doce, a insulina entra em ação para evitar picos. Criticamente, desequilíbrios, como no diabetes, podem causar problemas sérios. Sabia que o fígado armazena glicose suficiente para manter o corpo funcionando por cerca de 24 horas sem comida?",
+    "palavras_chave": ["açúcar", "insulina", "glucagon", "pâncreas", "fígado"]
+  },
+  {
+    "pergunta": "Por que temos pelos no corpo?",
+    "resposta": "Os pelos são como um legado dos nossos ancestrais! Eles ajudam a regular a temperatura, protegendo do frio ou do sol, e aumentam a sensibilidade ao tato. Por exemplo, os pelos dos braços arrepiam para reter calor. Hoje, temos menos pelos, mas eles ainda têm função sensorial. Criticamente, pelos em áreas como axilas também ajudam a reduzir atrito. Sabia que humanos nascem com cerca de 5 milhões de folículos pilosos, mas muitos são quase invisíveis?",
+    "palavras_chave": ["pelos", "temperatura", "sensibilidade", "folículos", "evolução"]
+  },
+  {
+    "pergunta": "O que causa o rubor no rosto?",
+    "resposta": "Ficar vermelho é o corpo mostrando emoção na pele! Quando você fica envergonhado ou animado, o sistema nervoso faz os vasos sanguíneos do rosto se dilatarem, aumentando o fluxo de sangue e dando aquela cor rosada. Por exemplo, uma apresentação em público pode disparar o rubor. Criticamente, é uma reação involuntária ligada à comunicação social. Sabia que o rubor é mais visível em pessoas de pele clara, mas acontece em todos os tons de pele?",
+    "palavras_chave": ["rubor", "vasos sanguíneos", "emoção", "rosto", "sistema nervoso"]
+  },
+  {
+    "pergunta": "Como o corpo detecta odores?",
+    "resposta": "O nariz é um detetive químico! No topo das narinas, o epitélio olfativo tem milhões de receptores que captam moléculas de odor no ar. Esses sinais vão ao cérebro, que identifica o cheiro. Por exemplo, o aroma de pão fresco pode te deixar com fome instantaneamente! Criticamente, o olfato está ligado à memória e às emoções. Sabia que humanos podem distinguir mais de 1 trilhão de odores diferentes?",
+    "palavras_chave": ["olfato", "receptores", "nariz", "memória", "cheiro"]
+  },
+  {
+    "pergunta": "Por que os ossos são tão fortes?",
+    "resposta": "Os ossos são como vigas de aço biológicas! Eles são feitos de colágeno, que dá flexibilidade, e minerais como cálcio, que dão dureza. Essa combinação os torna leves, mas resistentes. Por exemplo, o fêmur pode suportar até 1 tonelada de pressão! Criticamente, os ossos estão sempre se renovando, mas precisam de nutrientes como vitamina D. Sabia que o osso mais forte do corpo, o fêmur, é mais resistente que concreto?",
+    "palavras_chave": ["ossos", "colágeno", "cálcio", "fêmur", "força"]
+  },
+  {
+    "pergunta": "O que faz o pâncreas no corpo?",
+    "resposta": "O pâncreas é um multitasker! Ele produz insulina e glucagon para regular o açúcar no sangue e enzimas digestivas que ajudam a quebrar carboidratos, proteínas e gorduras no intestino. Por exemplo, após uma refeição, as enzimas do pâncreas ajudam a digerir o alimento. Criticamente, problemas no pâncreas, como pancreatite, afetam digestão e glicemia. Sabia que o pâncreas também libera bicarbonato para neutralizar o ácido do estômago?",
+    "palavras_chave": ["pâncreas", "insulina", "enzimas", "digestão", "glicemia"]
+  },
+  {
+    "pergunta": "Por que o corpo precisa de sono?",
+    "resposta": "Sono é como um reset para o corpo e a mente! Durante o sono, o cérebro organiza memórias, o corpo repara tecidos e o sistema imunológico se fortalece. Por exemplo, uma boa noite de sono melhora o foco no dia seguinte. Criticamente, a falta de sono pode afetar tudo, do humor à saúde cardíaca. Sabia que dormir menos de 6 horas por noite aumenta o risco de várias doenças, como diabetes?",
+    "palavras_chave": ["sono", "cérebro", "reparação", "imunidade", "memória"]
+  },
+  {
+    "pergunta": "Como o corpo produz calor?",
+    "resposta": "O corpo é uma fornalha natural! Ele gera calor principalmente pela atividade metabólica nas células, especialmente nas mitocôndrias, onde a glicose é queimada para criar energia. Músculos e o fígado são grandes produtores de calor. Por exemplo, tremores no frio são uma forma de gerar calor extra. Criticamente, manter os 37°C é essencial para o funcionamento dos órgãos. Sabia que comer alimentos ricos em calorias, como nozes, pode aumentar a produção de calor do corpo?",
+    "palavras_chave": ["calor", "mitocôndrias", "metabolismo", "músculos", "temperatura"]
+  },
+  {
+    "pergunta": "Por que temos rugas na pele com a idade?",
+    "resposta": "Rugas são como marcas do tempo na pele! Com a idade, a produção de colágeno e elastina, que mantêm a pele firme, diminui, e a pele perde hidratação. Fatores como sol e fumo aceleram isso. Por exemplo, rugas ao redor dos olhos aparecem porque a pele ali é mais fina. Criticamente, rugas são naturais, mas refletem o envelhecimento celular. Sabia que proteger a pele com protetor solar pode atrasar o aparecimento de rugas?",
+    "palavras_chave": ["rugas", "colágeno", "elastina", "envelhecimento", "pele"]
+  },
+  {
+    "pergunta": "O que é o reflexo de esticamento?",
+    "resposta": "O reflexo de esticamento é como um guarda-costas muscular! Quando um músculo é esticado rápido, como no teste do martelo no joelho, receptores sensoriais disparam um sinal à medula espinhal, que faz o músculo contrair para evitar lesões. Por exemplo, isso te ajuda a não cair ao tropeçar. Criticamente, é uma proteção automática do corpo. Sabia que esse reflexo é tão rápido que leva menos de 50 milissegundos para acontecer?",
+    "palavras_chave": ["reflexo", "músculo", "medula espinhal", "esticamento", "proteção"]
+  },
+  {
+    "pergunta": "Por que o estômago não digere a si mesmo?",
+    "resposta": "O estômago é como um super-herói resistente! Ele produz ácidos e enzimas poderosos para digerir comida, mas uma camada de muco protetora reveste suas paredes, impedindo que se autodigira. Por exemplo, quando você come carne, o ácido clorídrico ataca a comida, mas não o estômago. Criticamente, úlceras surgem quando essa proteção falha. Sabia que o estômago renova sua camada de muco a cada poucos dias para se manter seguro?",
+    "palavras_chave": ["estômago", "muco", "ácido clorídrico", "digestão", "úlceras"]
+  },
+  {
+    "pergunta": "Como o corpo armazena gordura?",
+    "resposta": "Gordura é como o banco de energia do corpo! Quando você consome mais calorias do que precisa, o excesso é convertido em triglicerídeos e armazenado em células adiposas. Por exemplo, comer um bolo grande pode aumentar esse estoque. Criticamente, a gordura é essencial para energia de longo prazo e proteção de órgãos, mas em excesso pode causar problemas. Sabia que o corpo humano pode armazenar energia suficiente para sobreviver semanas sem comida?",
+    "palavras_chave": ["gordura", "triglicerídeos", "células adiposas", "energia", "calorias"]
+  },
+  {
+    "pergunta": "Por que sentimos sede?",
+    "resposta": "Sede é o corpo pedindo água com urgência! Quando os níveis de água ou eletrólitos caem, o cérebro detecta a mudança e ativa a sensação de sede, geralmente na garganta. Por exemplo, após uma corrida, você sente aquela vontade de tomar água gelada. Criticamente, a sede é um sinal vital para evitar desidratação. Sabia que o corpo pode perder até 2% de água antes de você sentir sede, então é bom se hidratar antes?",
+    "palavras_chave": ["sede", "água", "desidratação", "cérebro", "eletrólitos"]
+  },
+  {
+    "pergunta": "O que são as glândulas endócrinas?",
+    "resposta": "As glândulas endócrinas são como maestros químicos! Elas liberam hormônios diretamente no sangue para regular funções como crescimento, metabolismo e humor. Incluem a tireoide, adrenais e hipófise. Por exemplo, a tireoide controla quão rápido seu corpo queima energia. Criticamente, desequilíbrios hormonais podem afetar todo o corpo. Sabia que a hipófise, do tamanho de uma ervilha, é chamada de ‘glândula mestra’ por controlar outras glândulas?",
+    "palavras_chave": ["glândulas endócrinas", "hormônios", "tireoide", "hipófise", "metabolismo"]
+  },
+  {
+    "pergunta": "Por que temos cílios nas narinas?",
+    "resposta": "Os cílios nas narinas são como filtros naturais! Eles capturam poeira, pólen e partículas antes que cheguem aos pulmões, protegendo as vias respiratórias. Por exemplo, em um dia de vento, eles evitam que sujeira entre no nariz. Criticamente, também ajudam a manter a umidade nasal. Sabia que esses cílios se movem em ondas coordenadas para empurrar o muco para fora do nariz?",
+    "palavras_chave": ["cílios nasais", "filtro", "nariz", "muco", "proteção"]
+  },
+  {
+    "pergunta": "Como o corpo elimina toxinas?",
+    "resposta": "O corpo é uma máquina de desintoxicação! O fígado quebra toxinas em compostos inofensivos, os rins filtram resíduos para a urina, e os pulmões expelem dióxido de carbono. Por exemplo, após tomar um remédio, o fígado processa seus componentes. Criticamente, uma boa hidratação ajuda esses órgãos a trabalharem melhor. Sabia que a pele também elimina toxinas pelo suor, embora em menor quantidade?",
+    "palavras_chave": ["toxinas", "fígado", "rins", "pulmões", "suor"]
+  },
+  {
+    "pergunta": "Por que o cabelo cresce mais rápido no verão?",
+    "resposta": "O cabelo cresce mais rápido no verão por causa do calor e da maior exposição à luz solar, que estimulam a circulação no couro cabeludo e aceleram o ciclo de crescimento dos folículos. Por exemplo, você pode notar o cabelo mais longo após meses de calor. Criticamente, é uma resposta sazonal ligada ao metabolismo. Sabia que o cabelo cresce em média 1 cm por mês, mas no verão pode chegar a 1,5 cm?",
+    "palavras_chave": ["cabelo", "crescimento", "verão", "folículos", "circulação"]
+  },
+  {
+    "pergunta": "O que é o reflexo pupilar?",
+    "resposta": "O reflexo pupilar é como uma cortina automática dos olhos! Quando a luz é forte, a pupila se contrai para limitar a entrada de luz; no escuro, ela se dilata para captar mais. Isso é controlado pelo sistema nervoso autônomo. Por exemplo, ao sair de um cinema escuro para o sol, suas pupilas ajustam rápido. Criticamente, é uma proteção essencial para a retina. Sabia que médicos testam esse reflexo para avaliar a saúde do cérebro?",
+    "palavras_chave": ["reflexo pupilar", "pupila", "luz", "sistema nervoso", "retina"]
+  },
+  {
+    "pergunta": "Por que o corpo precisa de ferro?",
+    "resposta": "Ferro é como o entregador de oxigênio do corpo! Ele é essencial para a hemoglobina, que carrega oxigênio no sangue para as células. Sem ferro, você pode sentir cansaço ou anemia. Por exemplo, comer carne vermelha ou espinafre fornece ferro. Criticamente, o corpo recicla ferro dos glóbulos vermelhos velhos. Sabia que cerca de 70% do ferro do corpo está nos glóbulos vermelhos?",
+    "palavras_chave": ["ferro", "hemoglobina", "oxigênio", "anemia", "sangue"]
+  },
+  {
+    "pergunta": "Como o corpo repara células danificadas?",
+    "resposta": "O corpo é um mestre em reparos celulares! Quando uma célula é danificada, ela pode ativar mecanismos para consertar seu DNA ou, se o dano for grande, se autodestruir (apoptose) para evitar problemas. Por exemplo, após uma queimadura solar, a pele substitui células mortas. Criticamente, esse processo é vital para prevenir doenças como câncer. Sabia que o corpo substitui bilhões de células por dia, como uma renovação constante?",
+    "palavras_chave": ["células", "reparação", "dna", "apoptose", "pele"]
+  },
+  {
+    "pergunta": "Por que o nariz fica entupido com resfriado?",
+    "resposta": "Quando você pega um resfriado, o nariz entope porque o corpo está lutando contra o vírus! O sistema imunológico inflama as mucosas nasais, aumentando a produção de muco para capturar e expulsar o invasor. Por exemplo, um nariz escorrendo é o corpo tentando ‘lavar’ o vírus. Criticamente, isso é eficaz, mas pode ser bem incômodo. Sabia que um resfriado comum pode produzir até 1 litro de muco por dia?",
+    "palavras_chave": ["resfriado", "muco", "nariz", "inflamação", "vírus"]
+  },
+  {
+    "pergunta": "O que é a tireoide e o que ela faz?",
+    "resposta": "A tireoide é uma glândula no pescoço que funciona como um termostato metabólico! Ela produz hormônios, como a tiroxina, que controlam o ritmo do metabolismo, afetando energia, peso e até batimentos cardíacos. Por exemplo, uma tireoide hiperativa pode causar emagrecimento rápido. Criticamente, desequilíbrios na tireoide afetam todo o corpo. Sabia que a tireoide precisa de iodo, encontrado em sal iodado, para funcionar direito?",
+    "palavras_chave": ["tireoide", "hormônios", "metabolismo", "tiroxina", "iodo"]
+  },
+  {
+    "pergunta": "Por que o corpo forma hematomas?",
+    "resposta": "Hematomas são como manchas de guerra do corpo! Eles surgem quando pequenos vasos sanguíneos (capilares) se rompem sob a pele, geralmente por uma pancada, deixando o sangue vazar e formar aquela marca roxa. O corpo reabsorve o sangue com o tempo. Por exemplo, bater o joelho na mesa pode causar um hematoma. Criticamente, hematomas são normais, mas frequentes podem indicar problemas. Sabia que a cor do hematoma muda (de roxo a verde) conforme o sangue é quebrado?",
+    "palavras_chave": ["hematoma", "vasos sanguíneos", "sangue", "pele", "pancada"]
+  },
+  {
+    "pergunta": "Como o corpo usa o colesterol?",
+    "resposta": "Colesterol é como um material de construção versátil! Ele é usado para formar membranas celulares, produzir hormônios (como estrogênio) e ajudar na digestão de gorduras com a bile. O fígado produz a maior parte, mas alimentos como ovos também fornecem. Criticamente, o excesso de colesterol ‘ruim’ (LDL) pode entupir artérias. Sabia que o corpo recicla colesterol, reutilizando-o em diferentes funções ao longo da vida?",
+    "palavras_chave": ["colesterol", "hormônios", "membranas celulares", "fígado", "bile"]
+  },
+  {
+    "pergunta": "Por que sentimos formigamento nos membros?",
+    "resposta": "O formigamento, aquela sensação de ‘agulhas’ na pele, acontece quando um nervo é comprimido ou não recebe sangue suficiente, atrapalhando os sinais ao cérebro. Por exemplo, dormir com o braço sob o corpo pode causar isso. O cérebro interpreta a falta de sinal como um zumbido estranho. Criticamente, é geralmente inofensivo, mas formigamentos frequentes podem indicar problemas nervosos. Sabia que cruzar as pernas por muito tempo pode ‘adormecer’ o pé pelo mesmo motivo?",
+    "palavras_chave": ["formigamento", "nervos", "compressão", "sangue", "cérebro"]
+  },
+  {
+    "pergunta": "Como o corpo regula a pressão arterial?",
+    "resposta": "A pressão arterial é controlada como uma dança precisa! O coração, rins e vasos sanguíneos trabalham juntos, regulados pelo sistema nervoso e hormônios como a angiotensina. Por exemplo, quando você se levanta rápido, o corpo ajusta a pressão para evitar tontura. Criticamente, estresse ou má alimentação podem desregular esse sistema. Sabia que o corpo monitora a pressão arterial a cada batimento, ajustando-a em milissegundos?",
+    "palavras_chave": ["pressão arterial", "coração", "rins", "hormônios", "sistema nervoso"]
+  },
+  {
+    "pergunta": "Por que o corpo produz lágrimas emocionais?",
+    "resposta": "Lágrimas emocionais são como uma válvula de escape do coração! Quando sentimos emoções intensas, como tristeza ou alegria, o cérebro ativa as glândulas lacrimais via sistema nervoso. Elas liberam lágrimas que contêm hormônios de estresse, ajudando a aliviar a tensão. Por exemplo, chorar num filme triste pode te fazer sentir mais leve. Criticamente, chorar é uma forma de comunicação social única em humanos. Sabia que lágrimas emocionais têm uma composição química diferente das lágrimas de irritação?",
+    "palavras_chave": ["lágrimas", "emoção", "glândulas lacrimais", "estresse", "comunicação"]
+  },
+  {
+    "pergunta": "O que é o sistema digestivo e como funciona?",
+    "resposta": "O sistema digestivo é como uma linha de produção! Ele começa na boca, onde a comida é mastigada e misturada com saliva, passa pelo estômago, que a quebra com ácidos, e segue para os intestinos, onde nutrientes são absorvidos. Por exemplo, um sanduíche é transformado em energia em poucas horas. Criticamente, bactérias intestinais ajudam na digestão e na saúde geral. Sabia que o intestino delgado tem cerca de 6 metros de comprimento?",
+    "palavras_chave": ["sistema digestivo", "estômago", "intestinos", "nutrientes", "bactérias"]
+  },
+  {
+    "pergunta": "Por que o corpo precisa de cálcio?",
+    "resposta": "Cálcio é como o cimento do corpo! Ele fortalece ossos e dentes, ajuda na contração muscular e na coagulação do sangue. Por exemplo, beber leite fornece cálcio para ossos fortes. Criticamente, a falta de cálcio pode levar a ossos frágeis ou cãibras. Sabia que o corpo armazena 99% do cálcio nos ossos, usando-os como um ‘banco’ para liberar quando necessário?",
+    "palavras_chave": ["cálcio", "ossos", "músculos", "coagulação", "dentes"]
+  },
+  {
+    "pergunta": "Como o corpo detecta a dor de cabeça?",
+    "resposta": "A dor de cabeça é como um alarme interno! Ela ocorre quando receptores de dor no cérebro, vasos sanguíneos ou músculos da cabeça são ativados por estresse, desidratação ou tensão. Por exemplo, ficar horas na frente do computador pode causar uma cefaleia tensional. Criticamente, o cérebro em si não sente dor, mas as estruturas ao redor sim. Sabia que enxaquecas podem ser desencadeadas por mudanças no clima ou até cheiros fortes?",
+    "palavras_chave": ["dor de cabeça", "receptores", "estresse", "desidratação", "enxaqueca"]
+  },
+  {
+    "pergunta": "Por que os olhos piscam automaticamente?",
+    "resposta": "Piscar é como um limpador de para-brisa dos olhos! O reflexo automático mantém a superfície ocular úmida, protegida de poeira e germes, e espalha lágrimas para evitar ressecamento. Por exemplo, você pisca mais ao olhar para uma tela por muito tempo. Criticamente, piscar também dá um microdescanso ao cérebro. Sabia que piscamos cerca de 15 a 20 vezes por minuto, quase sem perceber?",
+    "palavras_chave": ["piscar", "olhos", "lágrimas", "reflexo", "proteção"]
+  },
+  {
+    "pergunta": "O que é o baço e qual sua função?",
+    "resposta": "O baço é como um ajudante discreto! Ele filtra o sangue, removendo glóbulos vermelhos velhos e ajudando o sistema imunológico a combater infecções. Também armazena células sanguíneas para emergências. Por exemplo, em uma infecção, o baço pode inchar ao trabalhar mais. Criticamente, o corpo vive sem ele, mas fica mais vulnerável. Sabia que o baço pode liberar sangue extra durante atividades intensas, como uma corrida?",
+    "palavras_chave": ["baço", "sangue", "imunidade", "filtro", "infecção"]
+  },
+  {
+    "pergunta": "Por que temos umbigo?",
+    "resposta": "O umbigo é como uma cicatriz com história! Ele marca o local onde o cordão umbilical conectava o bebê à placenta, fornecendo nutrientes no útero. Após o nascimento, o cordão é cortado, e o que resta cicatriza, formando o umbigo. Criticamente, é um traço universal em mamíferos placentários. Sabia que o formato do umbigo (para dentro ou para fora) depende de como a pele cicatriza e não da genética?",
+    "palavras_chave": ["umbigo", "cordão umbilical", "placenta", "cicatriz", "nascimento"]
+  },
+  {
+    "pergunta": "Como o corpo reage ao calor extremo?",
+    "resposta": "No calor extremo, o corpo entra em ação para se resfriar! Ele aumenta o suor para evaporar e perder calor, e os vasos sanguíneos da pele se dilatam para liberar calor. Por exemplo, numa onda de calor, você pode suar litros por dia. Criticamente, se o corpo não conseguir se resfriar, pode sofrer insolação. Sabia que o corpo pode produzir até 2 litros de suor por hora em condições extremas?",
+    "palavras_chave": ["calor", "suor", "vasos sanguíneos", "termorregulação", "insolação"]
+  },
+  {
+    "pergunta": "Por que o corpo precisa de proteínas?",
+    "resposta": "Proteínas são como os tijolos da vida! Elas formam músculos, enzimas, hormônios e anticorpos, além de ajudar na reparação de tecidos. Por exemplo, comer frango ou feijão fornece aminoácidos para construir proteínas. Criticamente, sem proteínas, o corpo não consegue crescer ou se recuperar. Sabia que cerca de 20% do peso do corpo humano é feito de proteínas?",
+    "palavras_chave": ["proteínas", "aminoácidos", "músculos", "enzimas", "reparação"]
+  },
+  {
+    "pergunta": "O que causa espasmos musculares?",
+    "resposta": "Espasmos musculares são como contrações surpresa! Eles ocorrem quando um músculo se contrai sem comando, muitas vezes por desidratação, falta de minerais como magnésio ou overuse. Por exemplo, uma cãibra na perna após uma corrida longa é um espasmo. Criticamente, alongamentos e hidratação ajudam a prevenir. Sabia que espasmos podem acontecer até durante o sono, chamados de espasmos noturnos?",
+    "palavras_chave": ["espasmos", "músculos", "desidratação", "magnésio", "cãibra"]
+  },
+  {
+    "pergunta": "Por que a pele bronzeia ao sol?",
+    "resposta": "O bronzeado é a defesa da pele contra o sol! Quando exposta aos raios UV, a pele produz mais melanina, o pigmento que a escurece, para proteger o DNA celular. Por exemplo, passar um dia na praia deixa a pele mais escura. Criticamente, o bronzeado é temporário, mas a exposição excessiva pode causar danos. Sabia que a melanina também protege contra queimaduras solares, mas não totalmente?",
+    "palavras_chave": ["bronzeado", "melanina", "raios uv", "pele", "proteção"]
+  },
+  {
+    "pergunta": "Como o corpo mantém o equilíbrio de água?",
+    "resposta": "O corpo equilibra a água como um mestre de logística! Os rins filtram o excesso de água ou a retêm, enquanto hormônios como o antidiurético (ADH) regulam a urina. Por exemplo, se você bebe muita água, urina mais para manter o equilíbrio. Criticamente, a desidratação ou excesso de água pode desregular isso. Sabia que o corpo perde cerca de 2,5 litros de água por dia através de urina, suor e respiração?",
+    "palavras_chave": ["água", "rins", "hormônio antidiurético", "equilíbrio", "urina"]
+  },
+  {
+    "pergunta": "Por que o corpo precisa de magnésio?",
+    "resposta": "Magnésio é como um ajudante multitarefa! Ele auxilia em mais de 300 reações químicas, incluindo contração muscular, produção de energia e saúde óssea. Por exemplo, comer amêndoas ou espinafre fornece magnésio. Criticamente, a falta dele pode causar cãibras ou fadiga. Sabia que o magnésio também ajuda a regular o sono, por isso é chamado de ‘mineral do relaxamento’?",
+    "palavras_chave": ["magnésio", "músculos", "energia", "ossos", "sono"]
+  },
+  {
+    "pergunta": "O que é a medula óssea e o que ela faz?",
+    "resposta": "A medula óssea é como uma fábrica de células sanguíneas! Localizada dentro dos ossos, ela produz glóbulos vermelhos, brancos e plaquetas, essenciais para oxigênio, imunidade e coagulação. Por exemplo, após uma hemorragia, a medula acelera a produção de sangue. Criticamente, doenças como leucemia afetam essa função. Sabia que a medula óssea produz cerca de 500 bilhões de células sanguíneas por dia?",
+    "palavras_chave": ["medula óssea", "células sanguíneas", "ossos", "imunidade", "coagulação"]
+  },
+  {
+    "pergunta": "Por que os dentes ficam sensíveis?",
+    "resposta": "Dentes sensíveis são como um alarme de proteção! A sensibilidade ocorre quando a dentina, a camada sob o esmalte, fica exposta, deixando nervos mais vulneráveis a frio, calor ou açúcar. Por exemplo, tomar um sorvete pode causar aquela dorzinha. Criticamente, escovar forte ou cáries podem piorar isso. Sabia que a dentina tem milhares de túbulos microscópicos que conectam os nervos ao exterior?",
+    "palavras_chave": ["dentes", "dentina", "sensibilidade", "esmalte", "nervos"]
+  },
+  {
+    "pergunta": "Como o corpo controla o ritmo respiratório?",
+    "resposta": "A respiração é como uma sinfonia automática! O cérebro, no bulbo raquidiano, monitora os níveis de dióxido de carbono no sangue e ajusta a frequência respiratória. Por exemplo, durante uma corrida, você respira mais rápido para suprir o oxigênio. Criticamente, isso é tão automático que continua até durante o sono. Sabia que você respira cerca de 20 mil vezes por dia, sem nem pensar?",
+    "palavras_chave": ["respiração", "cérebro", "dióxido de carbono", "oxigênio", "bulbo"]
+  },
+  {
+    "pergunta": "Por que o corpo forma cicatrizes?",
+    "resposta": "Cicatrizes são como assinaturas da cura! Quando a pele é cortada, o corpo produz colágeno para fechar a ferida, formando uma nova camada que é diferente da pele original. Por exemplo, um corte profundo deixa uma marca visível. Criticamente, cicatrizes mostram a eficiência da cura, mas podem ser esticadas ou dolorosas. Sabia que algumas pessoas formam cicatrizes hipertróficas, que são mais grossas devido a excesso de colágeno?",
+    "palavras_chave": ["cicatrizes", "colágeno", "cura", "pele", "ferida"]
+  },
+  {
+    "pergunta": "O que causa o ronco ao dormir?",
+    "resposta": "O ronco é como um concerto noturno indesejado! Ele acontece quando o ar passa por vias aéreas estreitadas, fazendo tecidos como a úvula vibrarem. Por exemplo, dormir de barriga para cima pode piorar o ronco. Criticamente, pode ser um sinal de apneia do sono, que exige atenção. Sabia que cerca de 40% dos adultos roncam ocasionalmente, mas roncos altos podem indicar problemas de saúde?",
+    "palavras_chave": ["ronco", "vias aéreas", "úvula", "sono", "apneia"]
+  },
+  {
+    "pergunta": "Por que o corpo precisa de vitamina D?",
+    "resposta": "Vitamina D é como o sol em forma de nutriente! Ela ajuda o corpo a absorver cálcio, fortalecer ossos e apoiar o sistema imunológico. O corpo a produz quando a pele é exposta ao sol ou a obtém de alimentos como peixes. Criticamente, a falta dela pode causar fraqueza óssea. Sabia que cerca de 1 bilhão de pessoas no mundo têm deficiência de vitamina D, especialmente em regiões com pouco sol?",
+    "palavras_chave": ["vitamina d", "cálcio", "ossos", "sol", "imunidade"]
+  },
+  {
+    "pergunta": "Como o corpo reage a alergias?",
+    "resposta": "Alergias são como uma reação exagerada do corpo! O sistema imunológico confunde algo inofensivo, como pólen, com um invasor, liberando histamina, que causa espirros, coceira ou inchaço. Por exemplo, uma alergia a gatos pode fazer seus olhos lacrimejarem. Criticamente, alergias variam de leves a graves, como anafilaxia. Sabia que o número de pessoas com alergias está aumentando, possivelmente devido a mudanças ambientais?",
+    "palavras_chave": ["alergias", "histamina", "sistema imunológico", "pólen", "anafilaxia"]
+  },
+  {
+    "pergunta": "Por que o corpo produz adrenalina em situações de perigo?",
+    "resposta": "Adrenalina é como um superpoder temporário! Em situações de perigo, as glândulas adrenais a liberam, acelerando o coração, dilatando pupilas e enviando mais sangue aos músculos. Por exemplo, ao escapar de um cachorro bravo, você corre mais rápido graças a ela. Criticamente, é uma resposta de ‘lutar ou fugir’ essencial para a sobrevivência. Sabia que a adrenalina também pode melhorar a memória de eventos estressantes?",
+    "palavras_chave": ["adrenalina", "perigo", "glândulas adrenais", "coração", "memória"]
+  },
+  {
+    "pergunta": "O que é o líquido sinovial nas articulações?",
+    "resposta": "O líquido sinovial é como um lubrificante natural! Ele fica nas articulações, reduzindo o atrito entre os ossos e permitindo movimentos suaves. Por exemplo, ao dobrar o joelho, ele impede que os ossos ‘ranjam’. Criticamente, a falta dele pode causar rigidez, como na artrite. Sabia que o líquido sinovial também leva nutrientes aos ossos, que não têm vasos sanguíneos diretos?",
+    "palavras_chave": ["líquido sinovial", "articulações", "atrito", "movimento", "artrite"]
+  },
+  {
+    "pergunta": "Por que o corpo precisa de fibras?",
+    "resposta": "Fibras são como varredores do sistema digestivo! Elas ajudam a regular o intestino, previnem constipação e alimentam bactérias boas. Por exemplo, comer aveia ou frutas mantém a digestão fluindo. Criticamente, fibras também ajudam a controlar o açúcar e o colesterol no sangue. Sabia que comer 25 a 30 gramas de fibras por dia pode reduzir o risco de doenças cardíacas?",
+    "palavras_chave": ["fibras", "digestão", "intestino", "bactérias", "colesterol"]
+  }
+]

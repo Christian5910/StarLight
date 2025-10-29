@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "Por que o céu parece azul durante o dia?",
+    "resposta": "O céu parece azul por causa de um fenômeno chamado dispersão de Rayleigh. Quando a luz do Sol entra na atmosfera, ela é composta por todas as cores do espectro. As moléculas de ar espalham mais a luz de comprimento de onda curto, como o azul, do que a luz vermelha, que tem onda mais longa. Então, quando você olha pro céu, vê essa luz azul espalhada em todas as direções. À noite, sem a luz solar, o céu fica escuro. Curiosamente, isso também explica por que o pôr do sol é vermelho: com o Sol baixo, a luz passa por mais atmosfera, e o vermelho predomina. Sabia que em planetas com atmosferas diferentes, como Marte, o céu pode parecer vermelho ou alaranjado por causa de poeira?",
+    "palavras_chave": ["dispersão", "luz", "atmosfera", "rayleigh", "espectro"]
+  },
+  {
+    "pergunta": "O que é a teoria da relatividade de Einstein?",
+    "resposta": "A teoria da relatividade, criada por Albert Einstein, é um marco na física que explica como espaço e tempo interagem. Ela tem duas partes: a relatividade especial, que lida com objetos em movimento constante, e a relatividade geral, que inclui a gravidade. A ideia central é que tempo e espaço não são fixos: o tempo pode passar mais devagar perto de objetos muito massivos, como buracos negros, e a gravidade é a curvatura do espaço-tempo. Um exemplo famoso é o GPS: sem ajustes baseados na relatividade, ele seria impreciso. A teoria revolucionou nossa visão do universo, mas também levanta questões sobre como aplicá-la em escalas quânticas. Sabia que Einstein ganhou o Nobel em 1921 não pela relatividade, mas pelo efeito fotoelétrico?",
+    "palavras_chave": ["relatividade", "einstein", "espaço-tempo", "gravidade", "gps"]
+  },
+  {
+    "pergunta": "Como funcionam os buracos negros?",
+    "resposta": "Buracos negros são regiões do espaço onde a gravidade é tão intensa que nada, nem mesmo a luz, escapa. Eles se formam quando uma estrela massiva colapsa após esgotar seu combustível. No centro, há uma singularidade, um ponto de densidade quase infinita. Ao redor, o horizonte de eventos marca o limite além do qual nada retorna. Eles intrigam cientistas porque desafiam as leis conhecidas da física. Por exemplo, o que acontece com a informação dentro de um buraco negro? Essa é uma questão aberta. Sabia que o primeiro buraco negro foi detectado indiretamente em 1971, na constelação de Cygnus, chamado Cygnus X-1?",
+    "palavras_chave": ["buraco negro", "gravidade", "singularidade", "horizonte de eventos", "cygnus x-1"]
+  },
+  {
+    "pergunta": "Por que objetos caem na mesma velocidade, independente da massa?",
+    "resposta": "Isso acontece por causa da equivalência entre massa inercial e gravitacional, um princípio descrito por Galileo e formalizado por Newton. Na ausência de resistência do ar, todos os objetos caem com a mesma aceleração, porque a força gravitacional é proporcional à massa, mas a resistência ao movimento (inércia) também é. Então, as massas se cancelam na equação. Um exemplo clássico é o experimento de Apollo 15 na Lua, onde uma pena e um martelo caíram juntos. Isso desafia nossa intuição, mas mostra a universalidade da gravidade. Sabia que Einstein usou esse princípio como base para a relatividade geral?",
+    "palavras_chave": ["gravidade", "massa", "aceleração", "galileo", "relatividade"]
+  },
+  {
+    "pergunta": "O que é a energia escura?",
+    "resposta": "Energia escura é uma força misteriosa que acelera a expansão do universo. Descoberta nos anos 1990, quando astrônomos notaram que galáxias distantes se afastavam mais rápido do que o esperado, ela representa cerca de 68% do universo. Não sabemos exatamente o que é – pode ser uma propriedade do espaço ou um campo desconhecido. Ela desafia a física porque não interage com matéria ou luz de forma direta. Um exemplo do impacto é que, sem ela, o universo poderia colapsar sobre si mesmo. Sabia que a descoberta da energia escura rendeu o Nobel de Física em 2011?",
+    "palavras_chave": ["energia escura", "expansão", "universo", "cosmologia", "nobel"]
+  },
+  {
+    "pergunta": "Como os ímãs funcionam?",
+    "resposta": "Ímãs funcionam porque os elétrons em certos materiais, como ferro, alinham seus spins, criando um campo magnético. Esse campo atrai ou repele outros ímãs ou objetos metálicos. O magnetismo vem de forças quânticas, mas podemos observá-lo em ação, como em bússolas, que se alinham com o campo magnético da Terra. A física por trás é complexa, envolvendo eletromagnetismo, e ainda há debates sobre como unificar isso com a relatividade. Ímãs são cruciais em tecnologias como motores e ressonâncias magnéticas. Sabia que o campo magnético da Terra inverte periodicamente, a cada centenas de milhares de anos?",
+    "palavras_chave": ["magnetismo", "ímã", "campo magnético", "elétrons", "bússola"]
+  },
+  {
+    "pergunta": "O que é o princípio da incerteza de Heisenberg?",
+    "resposta": "O princípio da incerteza, proposto por Werner Heisenberg em 1927, diz que não podemos medir simultaneamente com precisão a posição e a velocidade de uma partícula, como um elétron. Quanto mais sabemos sobre uma, menos sabemos sobre a outra. Isso não é falha de medição, mas uma propriedade fundamental da mecânica quântica. Ele mudou nossa visão do universo, mostrando que, em escalas subatômicas, a realidade é probabilística. Um exemplo é a difração de elétrons, que se comportam como ondas. Sabia que esse princípio inspirou debates filosóficos sobre determinismo e realidade?",
+    "palavras_chave": ["incerteza", "heisenberg", "quântica", "posição", "velocidade"]
+  },
+  {
+    "pergunta": "Por que o som não viaja no vácuo?",
+    "resposta": "O som é uma onda mecânica que precisa de um meio, como ar, água ou sólidos, para se propagar. Ele é criado pela vibração de partículas, que colidem e transmitem energia. No vácuo, como o espaço, não há partículas para vibrar, então o som não se propaga. Isso explica por que explosões em filmes espaciais, como Star Wars, são cientificamente incorretas – você não ouviria nada! É uma prova de como a física molda nossa percepção. Sabia que, na Lua, astronautas se comunicam por rádio porque não há ar para transmitir som?",
+    "palavras_chave": ["som", "vácuo", "onda mecânica", "vibração", "espaço"]
+  },
+  {
+    "pergunta": "O que é a fusão nuclear?",
+    "resposta": "Fusão nuclear é o processo onde núcleos atômicos leves, como hidrogênio, se combinam para formar núcleos mais pesados, liberando energia. É o que alimenta o Sol e as estrelas. Na Terra, tentamos replicar isso em reatores experimentais, como o ITER, para gerar energia limpa. O desafio é manter temperaturas altíssimas e controlar o plasma. Se dominada, a fusão poderia resolver a crise energética, mas ainda enfrentamos barreiras tecnológicas. Sabia que a fusão no Sol ocorre a 15 milhões de graus Celsius?",
+    "palavras_chave": ["fusão", "nuclear", "energia", "sol", "plasma"]
+  },
+  {
+    "pergunta": "Como a gravidade afeta o tempo?",
+    "resposta": "De acordo com a relatividade geral de Einstein, a gravidade pode desacelerar o tempo. Quanto mais forte o campo gravitacional, mais lento o tempo passa. Isso é chamado de dilatação temporal gravitacional. Um exemplo prático é nos satélites de GPS: seus relógios, em órbita onde a gravidade é mais fraca, correm um pouco mais rápido que na Terra. Isso desafia nossa intuição, mas foi comprovado experimentalmente. Sabia que, perto de um buraco negro, o tempo pode praticamente parar para um observador externo?",
+    "palavras_chave": ["gravidade", "tempo", "relatividade", "dilatação", "gps"]
+  },
+  {
+    "pergunta": "O que é a matéria escura?",
+    "resposta": "Matéria escura é uma substância invisível que compõe cerca de 27% do universo. Ela não emite nem reflete luz, mas sabemos que existe porque sua gravidade afeta galáxias e a expansão do universo. Por exemplo, galáxias giram mais rápido do que deveriam, considerando apenas a matéria visível. A matéria escura é um mistério: pode ser composta de partículas desconhecidas. Sua descoberta desafia a física padrão. Sabia que experimentos como o Large Hadron Collider buscam partículas que poderiam ser matéria escura?",
+    "palavras_chave": ["matéria escura", "gravidade", "galáxias", "universo", "partículas"]
+  },
+  {
+    "pergunta": "Por que a luz se curva perto de objetos massivos?",
+    "resposta": "A luz se curva porque objetos massivos, como estrelas ou buracos negros, deformam o espaço-tempo, conforme a relatividade geral de Einstein. A luz segue o caminho mais curto nesse espaço curvo, chamado de geodésica, o que parece uma curvatura para nós. Isso foi comprovado em 1919, durante um eclipse solar, quando a luz de estrelas distantes foi observada se curvando ao passar pelo Sol. É uma prova impressionante da relatividade. Sabia que esse efeito, chamado lente gravitacional, ajuda astrônomos a estudar galáxias distantes?",
+    "palavras_chave": ["luz", "gravidade", "espaço-tempo", "lente gravitacional", "einstein"]
+  },
+  {
+    "pergunta": "O que é o efeito Doppler na física?",
+    "resposta": "O efeito Doppler descreve a mudança na frequência de uma onda quando a fonte ou o observador se movem. Um exemplo clássico é o som de uma ambulância: quando ela se aproxima, o som é mais agudo; quando se afasta, fica mais grave. Isso acontece porque as ondas sonoras são comprimidas ou esticadas. Na astronomia, o efeito ajuda a medir a velocidade de estrelas e galáxias. Ele revolucionou nosso entendimento do universo em expansão. Sabia que o desvio para o vermelho da luz de galáxias distantes foi key para descobrir a expansão do universo?",
+    "palavras_chave": ["doppler", "frequência", "ondas", "astronomia", "expansão"]
+  },
+  {
+    "pergunta": "Como funciona um laser?",
+    "resposta": "Um laser produz luz intensa e focada por meio da emissão estimulada de fótons. Átomos em um material, como um gás ou cristal, são excitados por energia, emitindo luz em uma única frequência, que é amplificada em uma cavidade óptica. Isso cria um feixe coerente, usado em tudo, de cirurgias a leitores de DVD. A precisão do laser é revolucionária, mas exige materiais e condições específicas. Sabia que o primeiro laser funcional foi construído em 1960, usando um rubi sintético?",
+    "palavras_chave": ["laser", "fótons", "emissão estimulada", "luz", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é entropia na física?",
+    "resposta": "Entropia é uma medida de desordem em um sistema, segundo a segunda lei da termodinâmica. Sistemas tendem a evoluir para estados mais desordenados com o tempo. Por exemplo, um copo de água quente esfria porque o calor se dispersa, aumentando a entropia do ambiente. É um conceito chave para entender processos irreversíveis, como o envelhecimento do universo. A entropia desafia ideias de ordem natural. Sabia que alguns cientistas acreditam que a entropia pode explicar por que o tempo só flui em uma direção?",
+    "palavras_chave": ["entropia", "termodinâmica", "desordem", "calor", "tempo"]
+  },
+  {
+    "pergunta": "Por que o arco-íris tem sete cores?",
+    "resposta": "O arco-íris tem sete cores porque a luz branca do Sol é dispersada em diferentes comprimentos de onda ao passar por gotas de chuva, que agem como prismas. Cada cor – vermelho, laranja, amarelo, verde, azul, índigo e violeta – corresponde a um comprimento de onda específico. Isaac Newton dividiu o espectro em sete cores por convenção, inspirado em ideias musicais. A dispersão é um fenômeno óptico fascinante, mas depende de condições específicas, como chuva e sol. Sabia que arco-íris duplos existem, e o secundário tem as cores invertidas?",
+    "palavras_chave": ["arco-íris", "dispersão", "luz", "newton", "óptica"]
+  },
+  {
+    "pergunta": "O que é a constante de Planck e por que ela é importante?",
+    "resposta": "A constante de Planck, proposta por Max Planck, é um número fundamental na mecânica quântica, com valor de cerca de 6,626 x 10^-34 joule-segundo. Ela define a escala de energia em processos quânticos, como a emissão de luz por átomos. Sem ela, não entenderíamos fenômenos como o efeito fotoelétrico ou a radiação de corpo negro. É a base da física moderna, mas também mostra como o universo é granular em escalas minúsculas. Sabia que Planck achava que sua constante era apenas um truque matemático no início?",
+    "palavras_chave": ["planck", "quântica", "constante", "energia", "fótons"]
+  },
+  {
+    "pergunta": "Como a eletricidade é gerada em usinas hidrelétricas?",
+    "resposta": "Usinas hidrelétricas geram eletricidade usando a energia cinética da água em movimento. A água represada em um reservatório flui por turbinas, que giram e acionam geradores eletromagnéticos. Esses geradores convertem o movimento em eletricidade, baseada no princípio do eletromagnetismo descrito por Faraday. É uma fonte limpa, mas a construção de barragens pode impactar ecossistemas. Sabia que a Usina de Itaipu, no Brasil, é uma das maiores do mundo, fornecendo energia para milhões de pessoas?",
+    "palavras_chave": ["hidrelétrica", "eletricidade", "turbina", "eletromagnetismo", "itaipu"]
+  },
+  {
+    "pergunta": "O que é o modelo padrão da física de partículas?",
+    "resposta": "O modelo padrão é a teoria que explica como as partículas fundamentais, como quarks e elétrons, interagem por meio de forças como eletromagnetismo e a força nuclear forte. Ele organiza as partículas em famílias e descreve como elas trocam forças via partículas mensageiras, como o bóson de Higgs. É incrivelmente preciso, mas não inclui a gravidade ou a matéria escura. O bóson de Higgs, descoberto em 2012, confirmou o modelo. Sabia que o modelo padrão prevê a existência de antimatéria, que foi confirmada experimentalmente?",
+    "palavras_chave": ["modelo padrão", "partículas", "higgs", "forças", "antimatéria"]
+  },
+  {
+    "pergunta": "Por que os planetas orbitam o Sol em elipses?",
+    "resposta": "Os planetas orbitam o Sol em elipses por causa das leis de Kepler, baseadas na gravidade de Newton. A elipse surge porque a força gravitacional diminui com a distância, criando um equilíbrio entre a velocidade do planeta e a atração do Sol. Isso foi revolucionário, pois antes se pensava que órbitas eram circulares perfeitas. Um exemplo é a órbita da Terra, que é levemente elíptica, afetando as estações. Sabia que a excentricidade da órbita de Mercúrio ajudou a confirmar a relatividade geral?",
+    "palavras_chave": ["órbita", "elipse", "kepler", "gravidade", "newton"]
+  },
+  {
+    "pergunta": "O que é supercondutividade?",
+    "resposta": "Supercondutividade é quando certos materiais, a temperaturas muito baixas, conduzem eletricidade sem resistência, ou seja, sem perda de energia. Descoberta em 1911 por Heike Kamerlingh Onnes, ela ocorre porque elétrons formam pares que se movem sem colisões. É usada em trens maglev e máquinas de ressonância magnética, mas exige resfriamento extremo. O desafio é criar supercondutores a temperaturas mais altas. Sabia que supercondutores podem fazer objetos levitarem devido ao efeito Meissner?",
+    "palavras_chave": ["supercondutividade", "eletricidade", "resistência", "levitação", "meissner"]
+  },
+  {
+    "pergunta": "Como as ondas gravitacionais foram detectadas?",
+    "resposta": "Ondas gravitacionais, previstas por Einstein, são ondulações no espaço-tempo causadas por eventos massivos, como a fusão de buracos negros. Elas foram detectadas em 2015 pelo LIGO, um observatório que usa lasers para medir mudanças minúsculas em distâncias causadas por essas ondas. A descoberta confirmou a relatividade geral e abriu uma nova era na astronomia. É incrível porque nos permite 'ouvir' o universo. Sabia que a primeira onda gravitacional detectada veio de dois buracos negros colidindo a 1,3 bilhão de anos-luz?",
+    "palavras_chave": ["ondas gravitacionais", "ligo", "espaço-tempo", "buracos negros", "einstein"]
+  },
+  {
+    "pergunta": "O que é o efeito fotoelétrico?",
+    "resposta": "O efeito fotoelétrico ocorre quando a luz atinge um material e ejeta elétrons, gerando corrente elétrica. Descoberto por Einstein em 1905, ele mostrou que a luz se comporta como partículas (fótons) com energia definida. Isso foi crucial para a mecânica quântica e é usado em painéis solares e sensores de câmeras. A descoberta desafiou a visão clássica da luz como onda. Sabia que Einstein ganhou o Nobel por explicar esse efeito, não pela relatividade?",
+    "palavras_chave": ["fotoelétrico", "fótons", "elétrons", "einstein", "quântica"]
+  },
+  {
+    "pergunta": "Por que o gelo flutua na água?",
+    "resposta": "O gelo flutua porque é menos denso que a água líquida. Quando a água congela, as moléculas formam uma estrutura cristalina com espaços vazios, reduzindo a densidade. Isso é uma propriedade única da água, essencial para a vida, pois lagos congelam na superfície, protegendo a vida aquática abaixo. A física da densidade explica isso de forma elegante. Sabia que, sem essa propriedade, os oceanos poderiam congelar completamente, dificultando a vida na Terra?",
+    "palavras_chave": ["gelo", "densidade", "água", "flutuação", "vida"]
+  },
+  {
+    "pergunta": "O que é o Big Bang?",
+    "resposta": "O Big Bang é a teoria que explica a origem do universo, há cerca de 13,8 bilhões de anos. Tudo começou com uma explosão de um ponto extremamente quente e denso, que se expandiu, formando espaço, tempo, matéria e energia. Evidências como a radiação cósmica de fundo e a expansão das galáxias apoiam a teoria. Ela levanta questões sobre o que havia antes do Big Bang, um mistério ainda sem resposta. Sabia que a radiação cósmica de fundo é como um 'eco' do Big Bang, detectado em 1965?",
+    "palavras_chave": ["big bang", "universo", "expansão", "radiação", "cosmologia"]
+  },
+  {
+    "pergunta": "O que é a constante de Hubble?",
+    "resposta": "A constante de Hubble mede a taxa de expansão do universo, indicando quão rápido as galáxias se afastam umas das outras. Edwin Hubble, nos anos 1920, descobriu que galáxias distantes se movem mais rápido, sugerindo um universo em expansão. O valor atual, cerca de 70 km/s por megaparsec, é refinado por observatórios como o Hubble Space Telescope. A constante levanta questões sobre o destino do universo: expansão eterna ou colapso? Sabia que discrepâncias recentes no valor da constante podem indicar nova física?",
+    "palavras_chave": ["hubble", "expansão", "universo", "galáxias", "cosmologia"]
+  },
+  {
+    "pergunta": "Por que aviões voam?",
+    "resposta": "Aviões voam devido ao princípio de Bernoulli: as asas, com formato aerodinâmico, fazem o ar passar mais rápido por cima, reduzindo a pressão e criando sustentação. Motores fornecem o impulso para vencer o arrasto. É um equilíbrio perfeito entre forças, descrito pela física de fluidos. Um exemplo é o Boeing 747, que usa esse princípio para carregar toneladas. A engenhosidade das asas ainda surpreende. Sabia que pássaros inspiraram os primeiros designs de aviões, como os de Leonardo da Vinci?",
+    "palavras_chave": ["sustentação", "bernoulli", "asas", "fluido", "avião"]
+  },
+  {
+    "pergunta": "O que é o paradoxo do gato de Schrödinger?",
+    "resposta": "O paradoxo do gato de Schrödinger é um experimento mental proposto por Erwin Schrödinger em 1935 para ilustrar a estranheza da mecânica quântica. Um gato numa caixa, com um mecanismo que pode ou não liberá-lo, está em um estado de superposição – vivo e morto ao mesmo tempo – até ser observado. Isso mostra como a observação afeta a realidade quântica. É mais filosofia que prática, mas fascina. Sabia que o paradoxo foi criado para criticar a interpretação de Copenhague?",
+    "palavras_chave": ["schrödinger", "quântica", "superposição", "paradoxo", "observação"]
+  },
+  {
+    "pergunta": "Como funcionam os painéis solares?",
+    "resposta": "Painéis solares convertem luz solar em eletricidade usando o efeito fotoelétrico. Células fotovoltaicas, feitas de silício, absorvem fótons, que excitam elétrons, gerando corrente elétrica. Essa tecnologia é limpa, mas depende de luz solar e eficiência dos materiais. Por exemplo, painéis modernos convertem cerca de 20% da luz em energia. O desafio é melhorar a eficiência e reduzir custos. Sabia que o primeiro painel solar prático foi desenvolvido em 1954 pela Bell Labs?",
+    "palavras_chave": ["solar", "fotovoltaico", "elétrons", "energia", "silício"]
+  },
+  {
+    "pergunta": "O que é a radiação de fundo cósmico?",
+    "resposta": "A radiação de fundo cósmico é a luz remanescente do Big Bang, uma espécie de 'eco' do universo primordial. Descoberta em 1965 por Penzias e Wilson, ela tem uma temperatura de cerca de 2,7 Kelvin e está espalhada por todo o cosmos. Estudá-la ajuda a entender a formação do universo, mas também levanta questões sobre sua homogeneidade. Sabia que essa radiação foi prevista por George Gamow nos anos 1940, antes de ser detectada?",
+    "palavras_chave": ["radiação", "big bang", "cósmico", "kelvin", "universo"]
+  },
+  {
+    "pergunta": "Por que o tempo parece passar mais rápido em grandes altitudes?",
+    "resposta": "O tempo passa mais rápido em grandes altitudes devido à dilatação temporal gravitacional, descrita pela relatividade geral de Einstein. Em locais com gravidade mais fraca, como montanhas ou órbitas, o tempo flui ligeiramente mais rápido que ao nível do mar. Isso foi comprovado com relógios atômicos em aviões. É um efeito minúsculo, mas crucial para sistemas como o GPS. Sabia que astronautas na Estação Espacial Internacional envelhecem um pouquinho mais devagar que na Terra?",
+    "palavras_chave": ["relatividade", "tempo", "gravidade", "dilatação", "gps"]
+  },
+  {
+    "pergunta": "O que é a força nuclear forte?",
+    "resposta": "A força nuclear forte é a força que mantém prótons e nêutrons juntos no núcleo atômico, superando a repulsão elétrica entre prótons. Atuando em distâncias minúsculas, é mediada por partículas chamadas glúons, segundo a cromodinâmica quântica. Sem ela, átomos não existiriam. É incrivelmente poderosa, mas limitada a escalas subatômicas. Sabia que essa força é cerca de 100 vezes mais forte que o eletromagnetismo, mas só atua em distâncias de femtômetros?",
+    "palavras_chave": ["nuclear", "força", "glúons", "átomo", "cromodinâmica"]
+  },
+  {
+    "pergunta": "Como a termodinâmica explica o calor dos motores?",
+    "resposta": "A termodinâmica estuda como energia, calor e trabalho interagem. Em motores, como os de carros, o combustível queima, liberando energia térmica que se converte em movimento. A primeira lei da termodinâmica garante a conservação de energia, mas a segunda lei limita a eficiência, já que parte do calor é perdida. Por exemplo, motores a combustão convertem apenas cerca de 30% da energia em trabalho. Isso molda o design de máquinas. Sabia que a termodinâmica inspirou a revolução industrial com máquinas a vapor?",
+    "palavras_chave": ["termodinâmica", "calor", "motor", "energia", "eficiência"]
+  },
+  {
+    "pergunta": "O que são ondas eletromagnéticas?",
+    "resposta": "Ondas eletromagnéticas são vibrações de campos elétricos e magnéticos que se propagam, como luz, rádio ou raios X. Descritas por Maxwell no século XIX, elas não precisam de um meio, viajando até no vácuo. Cada tipo tem um comprimento de onda diferente, afetando sua aplicação, como micro-ondas em fornos. Sua descoberta unificou eletricidade e magnetismo. Sabia que a luz visível é apenas uma pequena fração do espectro eletromagnético?",
+    "palavras_chave": ["eletromagnética", "ondas", "luz", "maxwell", "espectro"]
+  },
+  {
+    "pergunta": "Por que planetas gasosos têm anéis?",
+    "resposta": "Planetas gasosos, como Saturno, têm anéis formados por partículas de gelo e rocha orbitando devido à gravidade. Essas partículas podem ser restos de luas destruídas ou material que não formou luas. A gravidade e a rotação do planeta mantêm os anéis estáveis, mas colisões internas os moldam. Os anéis de Saturno são os mais famosos, visíveis até com telescópios pequenos. Sabia que os anéis de Saturno podem desaparecer em milhões de anos devido à chuva de partículas na atmosfera?",
+    "palavras_chave": ["anéis", "planeta", "saturno", "gravidade", "luas"]
+  },
+  {
+    "pergunta": "O que é o princípio de Arquimedes?",
+    "resposta": "O princípio de Arquimedes diz que um objeto imerso em um fluido sofre uma força de empuxo igual ao peso do fluido deslocado. É por isso que barcos flutuam: o volume de água deslocada gera empuxo suficiente para contrabalançar o peso. Esse princípio é usado em submarinos e balões. É uma ideia simples, mas revolucionária para a engenharia naval. Sabia que Arquimedes teria gritado 'Eureka!' ao descobrir isso enquanto tomava banho?",
+    "palavras_chave": ["arquimedes", "empuxo", "fluido", "flutuação", "barco"]
+  },
+  {
+    "pergunta": "Como os raios X funcionam?",
+    "resposta": "Raios X são ondas eletromagnéticas de alta energia que penetram materiais leves, como tecidos, mas são bloqueados por materiais densos, como ossos. Descobertos por Wilhelm Röntgen em 1895, eles são gerados em tubos que aceleram elétrons contra um alvo metálico. Usados em medicina, revelam fraturas, mas requerem cuidado por causa da radiação. Sua descoberta mudou a medicina diagnóstica. Sabia que Röntgen ganhou o primeiro Nobel de Física em 1901 por isso?",
+    "palavras_chave": ["raios x", "eletromagnética", "röntgen", "medicina", "radiação"]
+  },
+  {
+    "pergunta": "O que é o efeito Coriolis?",
+    "resposta": "O efeito Coriolis é uma força aparente causada pela rotação da Terra, que desvia o movimento de objetos, como ventos e correntes oceânicas. No hemisfério norte, a deflexão é à direita; no sul, à esquerda. Isso molda padrões climáticos, como furacões. É um efeito sutil, mas essencial para meteorologia. Sabia que o efeito Coriolis não influencia a direção da água em ralos, apesar do mito popular?",
+    "palavras_chave": ["coriolis", "rotação", "terra", "ventos", "meteorologia"]
+  },
+  {
+    "pergunta": "Por que estrelas brilham?",
+    "resposta": "Estrelas brilham porque a fusão nuclear em seus núcleos converte hidrogênio em hélio, liberando energia na forma de luz e calor. No Sol, por exemplo, milhões de toneladas de matéria são convertidas em energia por segundo, segundo E=mc². A cor da estrela depende de sua temperatura: estrelas mais quentes são azuis, mais frias são vermelhas. Isso nos ajuda a entender sua composição. Sabia que o Sol converte 4 milhões de toneladas de massa em energia a cada segundo?",
+    "palavras_chave": ["estrela", "fusão", "luz", "energia", "sol"]
+  },
+  {
+    "pergunta": "O que é a dualidade onda-partícula?",
+    "resposta": "A dualidade onda-partícula é um conceito quântico que diz que partículas, como elétrons ou fótons, podem se comportar como ondas ou partículas, dependendo de como são observadas. Por exemplo, no experimento da dupla fenda, elétrons criam padrões de interferência como ondas, mas são detectados como partículas. Isso desafia nossa visão clássica da realidade. Sabia que essa dualidade foi confirmada até com moléculas grandes, como fulerenos?",
+    "palavras_chave": ["dualidade", "quântica", "onda", "partícula", "fenda"]
+  },
+  {
+    "pergunta": "Como funciona a levitação magnética?",
+    "resposta": "A levitação magnética, ou maglev, usa campos magnéticos para suspender objetos, como trens, sem contato físico. Ímãs opostos se repelem, ou supercondutores criam levitação pelo efeito Meissner. Isso reduz o atrito, permitindo velocidades altíssimas, como nos trens maglev do Japão. A tecnologia é cara, mas revolucionária. Sabia que o trem maglev de Xangai atinge 431 km/h em operação comercial?",
+    "palavras_chave": ["maglev", "levitação", "ímãs", "supercondutor", "trem"]
+  },
+  {
+    "pergunta": "O que é a lei de conservação de energia?",
+    "resposta": "A lei de conservação de energia diz que a energia total de um sistema isolado permanece constante, apenas se transformando. Por exemplo, em uma montanha-russa, a energia potencial no topo vira energia cinética na descida. Essa lei é fundamental na física e engenharia, mas não explica perdas por calor em sistemas reais. Sabia que essa lei foi formulada no século XIX por cientistas como Joule e Mayer?",
+    "palavras_chave": ["energia", "conservação", "potencial", "cinética", "joule"]
+  },
+  {
+    "pergunta": "Por que o céu noturno é escuro?",
+    "resposta": "O céu noturno é escuro devido ao paradoxo de Olbers. Se o universo fosse infinito, estático e cheio de estrelas, todas as linhas de visão terminariam em uma estrela, tornando o céu brilhante. Mas o universo é finito em idade e está em expansão, então a luz de estrelas distantes não nos alcança ou é desviada para o vermelho. Isso revela a natureza dinâmica do cosmos. Sabia que a expansão do universo foi confirmada por esse paradoxo?",
+    "palavras_chave": ["olbers", "expansão", "universo", "estrelas", "noite"]
+  },
+  {
+    "pergunta": "O que é o bóson de Higgs?",
+    "resposta": "O bóson de Higgs é uma partícula que dá massa a outras partículas através do campo de Higgs, segundo o modelo padrão. Descoberto em 2012 no CERN, ele explica por que partículas como elétrons têm massa, enquanto fótons não. É como se partículas 'nadassem' em um campo viscoso. A descoberta foi um marco, mas ainda há perguntas sobre suas interações. Sabia que o bóson de Higgs foi apelidado de 'partícula de Deus' por causa de sua importância?",
+    "palavras_chave": ["higgs", "massa", "partícula", "cern", "campo"]
+  },
+  {
+    "pergunta": "Como a refração da luz cria ilusões ópticas?",
+    "resposta": "A refração ocorre quando a luz muda de velocidade ao passar de um meio para outro, como do ar para a água, dobrando sua trajetória. Isso cria ilusões, como um canudo que parece torto em um copo d’água. Na atmosfera, a refração causa miragens, como poças falsas no asfalto quente. É um fenômeno simples, mas com aplicações em lentes e telescópios. Sabia que a refração atmosférica faz o Sol parecer acima do horizonte mesmo após o pôr do sol?",
+    "palavras_chave": ["refração", "luz", "ilusão", "atmosfera", "lentes"]
+  },
+  {
+    "pergunta": "O que é a física de plasmas?",
+    "resposta": "A física de plasmas estuda o quarto estado da matéria, onde gases ionizados formam um plasma de partículas carregadas. É o estado mais comum no universo, presente em estrelas e auroras. Na Terra, plasmas são usados em lâmpadas fluorescentes e reatores de fusão. Controlar plasmas é um desafio por sua instabilidade. Sabia que 99% da matéria visível do universo, como o Sol, é plasma?",
+    "palavras_chave": ["plasma", "ionização", "estrelas", "fusão", "aurora"]
+  },
+  {
+    "pergunta": "Por que a Lua afeta as marés?",
+    "resposta": "A Lua afeta as marés por causa de sua gravidade, que puxa a água dos oceanos, criando protuberâncias. A rotação da Terra faz essas protuberâncias se moverem, gerando marés altas e baixas. A força gravitacional da Lua é pequena, mas suficiente para mover massas d’água. O Sol também contribui, mas menos. Sabia que marés extremas, chamadas de sizígia, ocorrem quando Sol, Lua e Terra estão alinhados?",
+    "palavras_chave": ["marés", "lua", "gravidade", "oceanos", "sizígia"]
+  },
+  {
+    "pergunta": "O que é o princípio de exclusão de Pauli?",
+    "resposta": "O princípio de exclusão de Pauli diz que duas partículas idênticas, como elétrons, não podem ocupar o mesmo estado quântico simultaneamente. Isso explica a estrutura dos átomos: elétrons ocupam diferentes orbitais, formando camadas. Sem esse princípio, a matéria colapsaria. É crucial para química e física de sólidos. Sabia que esse princípio explica por que estrelas anãs brancas resistem ao colapso gravitacional?",
+    "palavras_chave": ["pauli", "quântica", "elétrons", "átomo", "exclusão"]
+  },
+  {
+    "pergunta": "Como funciona um acelerador de partículas?",
+    "resposta": "Um acelerador de partículas usa campos elétricos e magnéticos para acelerar partículas, como prótons, a velocidades próximas à da luz, e colidi-las. Isso revela partículas menores, como quarks, e testa teorias como o modelo padrão. O Large Hadron Collider (LHC) é o maior exemplo, descobrindo o bóson de Higgs. É caro, mas revolucionário. Sabia que o LHC tem 27 km de comprimento e opera a temperaturas mais frias que o espaço?",
+    "palavras_chave": ["acelerador", "partículas", "lhc", "colisão", "higgs"]
+  },
+  {
+    "pergunta": "O que é a constante gravitacional?",
+    "resposta": "A constante gravitacional, ou G, é um valor fundamental que mede a força da gravidade entre dois objetos, conforme a lei de Newton. Seu valor é cerca de 6,674 x 10^-11 m³ kg^-1 s^-2. Ela permite calcular a atração entre planetas ou estrelas. Apesar de precisa, é difícil de medir com exatidão. Sabia que Henry Cavendish mediu G em 1798 usando uma balança de torção, um experimento genial para a época?",
+    "palavras_chave": ["gravidade", "constante", "newton", "cavendish", "força"]
+  },
+  {
+    "pergunta": "O que é o efeito túnel na física quântica?",
+    "resposta": "O efeito túnel é um fenômeno quântico onde uma partícula, como um elétron, atravessa uma barreira de energia que, classicamente, não deveria ultrapassar. Isso ocorre porque, na mecânica quântica, partículas têm propriedades de onda, permitindo uma probabilidade de 'tunelar' pela barreira. É essencial em tecnologias como microchips e microscópios de tunelamento. O fenômeno desafia nossa intuição clássica. Sabia que o efeito túnel é crucial para a fusão nuclear no Sol, permitindo reações a temperaturas mais baixas?",
+    "palavras_chave": ["túnel", "quântica", "partícula", "barreira", "fusão"]
+  },
+  {
+    "pergunta": "Por que os foguetes precisam de estágios?",
+    "resposta": "Foguetes usam estágios para maximizar eficiência. Cada estágio tem seu próprio combustível e motor, sendo descartado quando esvazia, reduzindo o peso. Isso permite que o foguete alcance a velocidade necessária para escapar da gravidade terrestre, como os 11,2 km/s para órbita. O Saturn V, que levou humanos à Lua, tinha três estágios. O desafio é o custo e o impacto ambiental dos detritos. Sabia que alguns foguetes modernos, como os da SpaceX, reutilizam estágios para reduzir custos?",
+    "palavras_chave": ["foguete", "estágios", "órbita", "gravidade", "spacex"]
+  },
+  {
+    "pergunta": "O que é a constante de Boltzmann?",
+    "resposta": "A constante de Boltzmann, cerca de 1,38 x 10^-23 J/K, relaciona a energia térmica de partículas à temperatura, sendo fundamental na termodinâmica e na física estatística. Ela aparece em equações que descrevem o comportamento de gases, como a distribuição de velocidades de moléculas. É uma ponte entre o micro e o macro. Ludwig Boltzmann a desenvolveu estudando entropia. Sabia que Boltzmann enfrentou resistência por sua visão estatística da física no século XIX?",
+    "palavras_chave": ["boltzmann", "termodinâmica", "energia", "entropia", "gases"]
+  },
+  {
+    "pergunta": "Como a luz polarizada funciona?",
+    "resposta": "Luz polarizada é luz cujas ondas vibram em uma única direção, ao contrário da luz comum, que vibra em todas. Filtros polarizadores, como em óculos de sol, bloqueiam certas orientações, reduzindo reflexos. É usada em tecnologias como telas LCD e fotografia. A polarização revela propriedades da luz que desafiam a física clássica. Sabia que alguns animais, como abelhas, usam luz polarizada para navegar mesmo em dias nublados?",
+    "palavras_chave": ["polarização", "luz", "filtro", "óculos", "navegação"]
+  },
+  {
+    "pergunta": "O que é a teoria das cordas?",
+    "resposta": "A teoria das cordas propõe que as partículas fundamentais não são pontos, mas minúsculas 'cordas' unidimensionais que vibram em diferentes frequências. Essas vibrações determinam as propriedades das partículas, como massa e carga. A teoria tenta unificar relatividade geral e mecânica quântica, mas exige dimensões extras, além das quatro que percebemos. É fascinante, mas ainda não testada experimentalmente. Sabia que a teoria sugere até 11 dimensões no universo?",
+    "palavras_chave": ["cordas", "quântica", "dimensões", "partículas", "relatividade"]
+  },
+  {
+    "pergunta": "Por que o vácuo não é completamente vazio?",
+    "resposta": "Na mecânica quântica, o vácuo não é vazio, mas cheio de flutuações quânticas, onde partículas e antipartículas aparecem e desaparecem rapidamente devido ao princípio da incerteza. Essas flutuações têm energia mensurável, como no efeito Casimir, onde placas próximas sentem uma força. Isso desafia nossa ideia de 'nada'. Sabia que essas flutuações podem estar ligadas à energia escura que acelera o universo?",
+    "palavras_chave": ["vácuo", "quântica", "flutuações", "casimir", "energia"]
+  },
+  {
+    "pergunta": "Como funcionam os relógios atômicos?",
+    "resposta": "Relógios atômicos medem o tempo com precisão usando vibrações de átomos, como o césio-133, que oscila a uma frequência fixa. Um exemplo é o relógio de césio, que perde apenas um segundo a cada milhões de anos. Eles são essenciais para GPS e telecomunicações, mas exigem tecnologia avançada. A precisão desafia nossa percepção do tempo. Sabia que os relógios atômicos confirmaram a dilatação temporal prevista por Einstein?",
+    "palavras_chave": ["relógio", "atômico", "césio", "tempo", "gps"]
+  },
+  {
+    "pergunta": "O que é a força eletromagnética?",
+    "resposta": "A força eletromagnética é uma das quatro forças fundamentais, unificando eletricidade e magnetismo. Ela governa interações entre partículas carregadas, como elétrons, e é responsável por fenômenos como luz e eletricidade. Descrita por Maxwell, é usada em tudo, de motores a Wi-Fi. Sua força é imensa, mas diminui com a distância. Sabia que a força eletromagnética é 10^36 vezes mais forte que a gravidade?",
+    "palavras_chave": ["eletromagnética", "força", "maxwell", "elétrons", "luz"]
+  },
+  {
+    "pergunta": "Por que o Sol não explode como uma bomba?",
+    "resposta": "O Sol não explode porque a fusão nuclear em seu núcleo é equilibrada pela gravidade. A fusão de hidrogênio em hélio libera energia, criando pressão que impede o colapso gravitacional. É um equilíbrio delicado, mantido há 4,6 bilhões de anos. Quando o combustível acabar, o Sol se tornará uma gigante vermelha. Sabia que estrelas mais massivas que o Sol podem explodir como supernovas?",
+    "palavras_chave": ["sol", "fusão", "gravidade", "equilíbrio", "supernova"]
+  },
+  {
+    "pergunta": "O que é a constante de estrutura fina?",
+    "resposta": "A constante de estrutura fina, com valor de cerca de 1/137, mede a força da interação eletromagnética entre partículas, como elétrons e fótons. É um número sem dimensão, crucial na mecânica quântica, e aparece em cálculos de espectros atômicos. Sua origem ainda intriga físicos. Sabia que alguns acreditam que esse valor pode variar em diferentes partes do universo?",
+    "palavras_chave": ["constante", "eletromagnética", "quântica", "fótons", "átomo"]
+  },
+  {
+    "pergunta": "Como os auroras boreais são formadas?",
+    "resposta": "Auroras boreais surgem quando partículas carregadas do vento solar colidem com moléculas na atmosfera terrestre, especialmente nitrogênio e oxigênio, em altitudes de 100 a 300 km. Essas colisões emitem luz, criando espetáculos coloridos nos polos. O campo magnético da Terra guia as partículas. É um fenômeno lindo, mas depende de atividade solar. Sabia que auroras também ocorrem em planetas como Júpiter e Saturno?",
+    "palavras_chave": ["aurora", "solar", "atmosfera", "magnético", "luz"]
+  },
+  {
+    "pergunta": "O que é o princípio de Mach?",
+    "resposta": "O princípio de Mach sugere que a inércia de um objeto depende da distribuição de matéria no universo. Proposto por Ernst Mach, implica que o movimento de um corpo é relativo a todo o cosmos. Influenciou Einstein na relatividade geral, mas é mais filosófico que testável. O conceito desafia ideias sobre movimento absoluto. Sabia que Mach também inspirou o termo 'número Mach' para velocidades supersônicas?",
+    "palavras_chave": ["mach", "inércia", "relatividade", "universo", "movimento"]
+  },
+  {
+    "pergunta": "Por que a luz viaja a 299.792.458 m/s?",
+    "resposta": "A velocidade da luz, 299.792.458 m/s, é uma constante fundamental definida pelas propriedades do vácuo, como a permeabilidade magnética e a permissividade elétrica. Na relatividade especial, é o limite máximo de velocidade no universo. Essa constância molda a física moderna, mas por que esse valor exato permanece um mistério. Sabia que a velocidade da luz foi medida com precisão pela primeira vez por Ole Rømer em 1676, observando Júpiter?",
+    "palavras_chave": ["luz", "velocidade", "vácuo", "relatividade", "rømer"]
+  },
+  {
+    "pergunta": "O que é a radiação Hawking?",
+    "resposta": "A radiação Hawking é uma emissão teórica de partículas por buracos negros, proposta por Stephen Hawking em 1974. Devido a flutuações quânticas perto do horizonte de eventos, partículas podem escapar, fazendo o buraco negro perder massa. Isso sugere que buracos negros podem evaporar. É um marco na união de relatividade e quântica. Sabia que a radiação Hawking é tão fraca que ainda não foi detectada experimentalmente?",
+    "palavras_chave": ["hawking", "radiação", "buraco negro", "quântica", "evaporação"]
+  },
+  {
+    "pergunta": "Como os semicondutores revolucionaram a tecnologia?",
+    "resposta": "Semicondutores, como o silício, conduzem eletricidade sob certas condições, permitindo o controle preciso de correntes. São a base de transistores e microchips, usados em computadores, smartphones e mais. A miniaturização, como na Lei de Moore, dobrou a capacidade de chips por décadas. O desafio é o limite físico da miniaturização. Sabia que o primeiro transistor, criado em 1947, era do tamanho de uma moeda, enquanto hoje cabem bilhões em um chip?",
+    "palavras_chave": ["semicondutor", "transistor", "microchip", "tecnologia", "silício"]
+  },
+  {
+    "pergunta": "O que é o efeito Magnus?",
+    "resposta": "O efeito Magnus ocorre quando um objeto girando em um fluido, como uma bola de futebol, cria uma diferença de pressão que altera sua trajetória. É por isso que chutes com efeito fazem curvas. Usado em esportes e engenharia, como hélices de navios, o efeito é um exemplo elegante da física de fluidos. Sabia que o efeito Magnus também é usado em turbinas eólicas experimentais?",
+    "palavras_chave": ["magnus", "fluido", "pressão", "trajetória", "esporte"]
+  },
+  {
+    "pergunta": "Por que o universo é isotrópico?",
+    "resposta": "O universo é isotrópico, ou seja, parece uniforme em todas as direções, devido à expansão homogênea após o Big Bang. A radiação cósmica de fundo é quase idêntica em todo o céu, confirmando isso. A isotropia sugere que não há um 'centro' do universo, mas pequenas variações desafiam modelos cosmológicos. Sabia que a isotropia foi uma evidência chave para a teoria do Big Bang?",
+    "palavras_chave": ["isotropia", "universo", "big bang", "radiação", "expansão"]
+  },
+  {
+    "pergunta": "O que é a força nuclear fraca?",
+    "resposta": "A força nuclear fraca é responsável por processos como a desintegração beta, onde um nêutron se transforma em um próton, emitindo um elétron. Atua em escalas subatômicas e é crucial para a fusão no Sol. É muito mais fraca que a força forte, mas essencial para a física de partículas. Sabia que a força fraca viola a simetria de paridade, algo inesperado até os anos 1950?",
+    "palavras_chave": ["nuclear", "fraca", "desintegração", "partículas", "fusão"]
+  },
+  {
+    "pergunta": "Como os telescópios espaciais enxergam tão longe?",
+    "resposta": "Telescópios espaciais, como o Hubble ou o James Webb, enxergam longe porque estão fora da atmosfera terrestre, que distorce e bloqueia luz. Eles captam luz de galáxias distantes, algumas a bilhões de anos-luz, usando espelhos precisos e sensores. Isso revela a história do universo, mas exige tecnologia avançada. Sabia que o James Webb pode ver galáxias formadas apenas 200 milhões de anos após o Big Bang?",
+    "palavras_chave": ["telescópio", "espaço", "luz", "galáxias", "webb"]
+  },
+  {
+    "pergunta": "O que é o efeito Zeeman?",
+    "resposta": "O efeito Zeeman ocorre quando um campo magnético divide linhas espectrais de átomos, revelando informações sobre sua energia. Descoberto por Pieter Zeeman em 1896, é usado em astronomia para medir campos magnéticos de estrelas. É um exemplo de como a física quântica explica fenômenos observáveis. Sabia que Zeeman ganhou o Nobel de Física em 1902 por essa descoberta?",
+    "palavras_chave": ["zeeman", "espectro", "magnético", "átomos", "astronomia"]
+  },
+  {
+    "pergunta": "Por que objetos quentes emitem luz?",
+    "resposta": "Objetos quentes emitem luz porque seus átomos vibram com a energia térmica, liberando fótons. Isso é chamado de radiação de corpo negro. A cor da luz depende da temperatura: objetos mais quentes emitem luz azul, enquanto os mais frios, vermelho. É a base de lâmpadas incandescentes e da astronomia. Sabia que a lei de Planck, que explica isso, foi o início da mecânica quântica?",
+    "palavras_chave": ["radiação", "corpo negro", "fótons", "temperatura", "planck"]
+  },
+  {
+    "pergunta": "O que é a constante cosmológica?",
+    "resposta": "A constante cosmológica, proposta por Einstein, é uma forma de energia que acelera a expansão do universo, semelhante à energia escura. Introduzida para manter um universo estático, foi descartada e depois retomada com evidências modernas. Sua natureza é um mistério, desafiando a cosmologia. Sabia que Einstein chamou a constante cosmológica de seu 'maior erro', mas ela voltou a ser relevante?",
+    "palavras_chave": ["cosmológica", "energia escura", "expansão", "einstein", "universo"]
+  },
+  {
+    "pergunta": "Como funciona a ressonância magnética?",
+    "resposta": "A ressonância magnética (MRI) usa campos magnéticos e ondas de rádio para criar imagens detalhadas do corpo. Núcleos de hidrogênio nos tecidos alinham-se com o campo magnético, e pulsos de rádio os excitam, emitindo sinais captados para formar imagens. É crucial na medicina, mas caro. Sabia que a MRI foi inspirada por experimentos de física nuclear nos anos 1940?",
+    "palavras_chave": ["ressonância", "magnética", "hidrogênio", "imagem", "medicina"]
+  },
+  {
+    "pergunta": "O que é o princípio holográfico?",
+    "resposta": "O princípio holográfico sugere que todas as informações de um volume do espaço, como um buraco negro, podem ser codificadas em sua superfície. Proposto por Gerard 't Hooft e Leonard Susskind, ele conecta gravidade e teoria quântica, sugerindo que o universo pode ser como um holograma. É uma ideia revolucionária, mas difícil de testar. Sabia que o princípio foi inspirado por estudos sobre a entropia de buracos negros?",
+    "palavras_chave": ["holográfico", "buraco negro", "entropia", "quântica", "universo"]
+  },
+  {
+    "pergunta": "Por que a água ferve a 100°C?",
+    "resposta": "A água ferve a 100°C na pressão atmosférica padrão porque, nessa temperatura, suas moléculas ganham energia suficiente para superar as forças intermoleculares e passar para o estado gasoso. A pressão afeta o ponto de ebulição: em altitudes mais altas, onde a pressão é menor, a água ferve a temperaturas mais baixas. Isso é termodinâmica em ação. Sabia que, no topo do Everest, a água ferve a cerca de 70°C?",
+    "palavras_chave": ["ebulição", "água", "pressão", "termodinâmica", "temperatura"]
+  },
+  {
+    "pergunta": "O que é o efeito fotoacústico?",
+    "resposta": "O efeito fotoacústico ocorre quando a luz, ao ser absorvida por um material, gera calor, que provoca expansão e cria ondas sonoras. Usado em imagens médicas, como tomografia fotoacústica, permite visualizar tecidos profundos. É uma combinação fascinante de óptica e acústica, mas exige lasers precisos. A técnica está revolucionando diagnósticos. Sabia que Alexander Graham Bell, inventor do telefone, descobriu esse efeito em 1880?",
+    "palavras_chave": ["fotoacústico", "luz", "som", "imagem", "bell"]
+  },
+  {
+    "pergunta": "Por que o céu de Marte é avermelhado?",
+    "resposta": "O céu de Marte parece avermelhado devido à poeira rica em óxido de ferro (ferrugem) na atmosfera. Essa poeira espalha a luz vermelha com mais eficiência, ao contrário da dispersão de Rayleigh na Terra, que favorece o azul. Fotos da Curiosity mostram esse tom. A composição atmosférica desafia comparações diretas com a Terra. Sabia que, durante tempestades de poeira, o céu marciano pode ficar quase opaco?",
+    "palavras_chave": ["marte", "atmosfera", "poeira", "luz", "vermelho"]
+  },
+  {
+    "pergunta": "O que é a constante de Avogadro?",
+    "resposta": "A constante de Avogadro, cerca de 6,022 x 10^23 por mol, define o número de partículas (átomos, moléculas) em um mol de uma substância. É fundamental na química e física para calcular massas molares e reações. Amedeo Avogadro a inspirou ao estudar gases. Sua precisão molda experimentos modernos. Sabia que a constante foi medida com precisão usando cristais de silício no século XXI?",
+    "palavras_chave": ["avogadro", "mol", "partículas", "química", "gases"]
+  },
+  {
+    "pergunta": "Como os micro-ondas aquecem alimentos?",
+    "resposta": "Micro-ondas aquecem alimentos emitindo ondas eletromagnéticas que fazem as moléculas de água vibrarem, gerando calor por fricção. A frequência de 2,45 GHz é ideal para excitar água. Isso é eficiente, mas pode aquecer desigualmente. A tecnologia é um exemplo prático de eletromagnetismo. Sabia que o forno de micro-ondas foi inventado acidentalmente em 1945, quando Percy Spencer notou que um chocolate derreteu perto de um radar?",
+    "palavras_chave": ["micro-ondas", "eletromagnética", "água", "calor", "spencer"]
+  },
+  {
+    "pergunta": "O que é o princípio de Bernoulli?",
+    "resposta": "O princípio de Bernoulli diz que, em um fluido em movimento, a pressão diminui quando a velocidade aumenta. Isso explica a sustentação de aviões, onde o ar flui mais rápido sobre as asas, reduzindo a pressão e levantando a aeronave. É um pilar da dinâmica de fluidos, mas exige condições específicas. Sabia que esse princípio também explica por que cortinas voam em direção a janelas abertas?",
+    "palavras_chave": ["bernoulli", "fluido", "pressão", "sustentação", "asas"]
+  },
+  {
+    "pergunta": "Por que os cometas têm caudas brilhantes?",
+    "resposta": "Cometas têm caudas brilhantes porque, ao se aproximarem do Sol, o calor vaporiza seus gelos, liberando poeira e gases. A pressão da radiação solar e o vento solar empurram esse material, formando caudas de poeira (branca) e de íons (azulada). O cometa Halley é um exemplo famoso. A cauda revela a interação do cometa com o Sol. Sabia que as caudas podem se estender por milhões de quilômetros?",
+    "palavras_chave": ["cometa", "cauda", "sol", "gases", "halley"]
+  },
+  {
+    "pergunta": "O que é a lei de Ohm?",
+    "resposta": "A lei de Ohm, formulada por Georg Ohm, diz que a corrente elétrica em um condutor é proporcional à voltagem e inversamente proporcional à resistência (V = IR). É a base da eletricidade, usada em circuitos simples, como lâmpadas. Sua simplicidade é poderosa, mas não se aplica a todos os materiais. Sabia que Ohm enfrentou resistência acadêmica por sua descoberta no século XIX?",
+    "palavras_chave": ["ohm", "corrente", "voltagem", "resistência", "circuito"]
+  },
+  {
+    "pergunta": "Como os pulsares foram descobertos?",
+    "resposta": "Pulsares são estrelas de nêutrons que giram rapidamente, emitindo feixes de rádio como faróis. Foram descobertos em 1967 por Jocelyn Bell Burnell, que notou sinais regulares em um radiotelescópio. Eles revelam a física extrema de estrelas colapsadas, mas sua descoberta foi inicialmente confundida com sinais alienígenas. Sabia que o Nobel de Física de 1974 foi dado ao supervisor de Bell, não a ela, gerando controvérsia?",
+    "palavras_chave": ["pulsar", "nêutrons", "rádio", "bell", "estrela"]
+  },
+  {
+    "pergunta": "O que é a entropia do buraco negro?",
+    "resposta": "A entropia de um buraco negro, proposta por Jacob Bekenstein, mede a desordem associada à informação dentro dele, proporcional à área de seu horizonte de eventos. Isso conecta termodinâmica e gravidade, sugerindo que buracos negros têm temperatura. É um conceito revolucionário, mas difícil de testar. Sabia que Stephen Hawking usou essa ideia para prever a radiação Hawking?",
+    "palavras_chave": ["entropia", "buraco negro", "bekenstein", "horizonte", "hawking"]
+  },
+  {
+    "pergunta": "Por que a luz se refrata em um prisma?",
+    "resposta": "A luz se refrata em um prisma porque muda de velocidade ao passar do ar para o vidro, dobrando sua trajetória. Cada cor tem um comprimento de onda diferente, refratando em ângulos distintos, o que cria o espectro colorido. Isaac Newton usou prismas para estudar a luz. Esse fenômeno é essencial em óptica. Sabia que prismas são usados em espectroscópios para analisar a composição de estrelas?",
+    "palavras_chave": ["refração", "prisma", "luz", "espectro", "newton"]
+  },
+  {
+    "pergunta": "O que é o efeito Compton?",
+    "resposta": "O efeito Compton ocorre quando fótons de alta energia, como raios X, colidem com elétrons, perdendo energia e mudando de comprimento de onda. Descoberto por Arthur Compton em 1923, confirma que a luz tem propriedades de partícula. É usado em diagnósticos médicos e astronomia. O efeito foi um marco na física quântica. Sabia que Compton ganhou o Nobel de Física em 1927 por essa descoberta?",
+    "palavras_chave": ["compton", "fótons", "elétrons", "quântica", "raios x"]
+  },
+  {
+    "pergunta": "Como os ventos solares afetam a Terra?",
+    "resposta": "Ventos solares são fluxos de partículas carregadas do Sol que interagem com o campo magnético da Terra, criando auroras e, às vezes, interferindo em satélites e redes elétricas. A magnetosfera terrestre nos protege, mas tempestades solares intensas podem causar danos. É um exemplo da conexão Terra-Sol. Sabia que uma tempestade solar em 1859, o Evento Carrington, causou falhas em telégrafos?",
+    "palavras_chave": ["ventos solares", "magnetosfera", "auroras", "sol", "carrington"]
+  },
+  {
+    "pergunta": "O que é o princípio de equivalência?",
+    "resposta": "O princípio de equivalência, base da relatividade geral de Einstein, diz que os efeitos da gravidade são indistinguíveis de uma aceleração uniforme. Por exemplo, dentro de um elevador acelerando no espaço, você sentiria o mesmo que na gravidade terrestre. É um conceito fundamental, mas levanta questões sobre escalas quânticas. Sabia que esse princípio foi testado com precisão usando satélites como o Gravity Probe B?",
+    "palavras_chave": ["equivalência", "relatividade", "gravidade", "aceleração", "einstein"]
+  },
+  {
+    "pergunta": "Por que as estrelas pulsam?",
+    "resposta": "Algumas estrelas, como as Cefeidas, pulsam porque suas camadas externas se expandem e contraem devido a desequilíbrios entre gravidade e pressão interna. Essas pulsações mudam seu brilho, sendo usadas para medir distâncias cósmicas. Henrietta Leavitt descobriu essa relação em 1912. A pulsação revela a física estelar. Sabia que as Cefeidas foram cruciais para provar que a Via Láctea não é o único universo?",
+    "palavras_chave": ["cefeidas", "pulsação", "estrelas", "leavitt", "distância"]
+  },
+  {
+    "pergunta": "O que é o momento angular?",
+    "resposta": "O momento angular mede a quantidade de rotação de um objeto, dependendo de sua massa, velocidade e distância do eixo de rotação. É conservado em sistemas isolados, como patinadores que giram mais rápido ao recolher os braços. Usado em física planetária e mecânica, é um conceito elegante. Sabia que o momento angular explica por que os planetas orbitam o Sol em elipses?",
+    "palavras_chave": ["momento angular", "rotação", "conservação", "órbita", "planeta"]
+  },
+  {
+    "pergunta": "Como funcionam os detectores de partículas?",
+    "resposta": "Detectores de partículas, como os do CERN, registram o movimento e energia de partículas subatômicas após colisões em aceleradores. Usam sensores, como câmaras de bolhas ou detectores de silício, para captar traços de partículas. São essenciais para descobertas como o bóson de Higgs, mas exigem tecnologia complexa. Sabia que os detectores do LHC processam dados equivalentes a 1 bilhão de colisões por segundo?",
+    "palavras_chave": ["detectores", "partículas", "lhc", "colisão", "higgs"]
+  },
+  {
+    "pergunta": "O que é a lei de Snell?",
+    "resposta": "A lei de Snell descreve como a luz se refrata ao passar entre meios diferentes, como ar e água. Ela relaciona os ângulos de incidência e refração com os índices de refração dos meios. É usada em lentes e fibras ópticas, mas depende de meios transparentes. Sabia que essa lei foi formulada por Willebrord Snellius no século XVII, mas Ibn Sahl a descreveu no século X?",
+    "palavras_chave": ["snell", "refração", "luz", "índice", "lentes"]
+  },
+  {
+    "pergunta": "Por que o espaço é tão frio?",
+    "resposta": "O espaço é frio, cerca de 2,7 Kelvin, porque é um vácuo com pouca matéria para conduzir calor. A radiação cósmica de fundo, resquício do Big Bang, define essa temperatura. Objetos no espaço perdem calor por radiação, não por condução. Isso desafia nossa intuição terrestre. Sabia que, perto de estrelas, o espaço pode atingir milhões de graus?",
+    "palavras_chave": ["espaço", "temperatura", "vácuo", "radiação", "kelvin"]
+  },
+  {
+    "pergunta": "O que é o efeito Doppler relativístico?",
+    "resposta": "O efeito Doppler relativístico é a mudança na frequência da luz emitida por uma fonte que se move a velocidades próximas à da luz. Diferente do Doppler clássico, ele inclui a dilatação do tempo da relatividade especial. É observado em objetos como quasares. O efeito revela a física extrema do cosmos. Sabia que esse efeito foi usado para medir velocidades de galáxias a milhões de anos-luz?",
+    "palavras_chave": ["doppler", "relatividade", "luz", "quasares", "velocidade"]
+  },
+  {
+    "pergunta": "Como a física explica os relâmpagos?",
+    "resposta": "Relâmpagos ocorrem quando cargas elétricas acumuladas em nuvens se descarregam, criando uma corrente que aquece o ar a cerca de 30.000°C, causando expansão e trovões. A eletricidade atmosférica é complexa, envolvendo física de plasmas. É um fenômeno poderoso, mas difícil de prever. Sabia que um relâmpago pode carregar energia suficiente para alimentar uma casa por dias?",
+    "palavras_chave": ["relâmpago", "eletricidade", "plasma", "trovão", "atmosfera"]
+  },
+  {
+    "pergunta": "O que é a constante de Stefan-Boltzmann?",
+    "resposta": "A constante de Stefan-Boltzmann, cerca de 5,67 x 10^-8 W/m²K⁴, relaciona a energia radiada por um corpo negro à sua temperatura. É usada para calcular a emissão de estrelas ou fornos industriais. A lei mostra como a temperatura afeta a radiação, um pilar da astrofísica. Sabia que Josef Stefan descobriu isso estudando lâmpadas incandescentes no século XIX?",
+    "palavras_chave": ["stefan-boltzmann", "radiação", "temperatura", "corpo negro", "astrofísica"]
+  },
+  {
+    "pergunta": "Por que os planetas têm atmosferas diferentes?",
+    "resposta": "Planetas têm atmosferas diferentes devido à sua massa, distância do Sol e composição. Planetas massivos, como Júpiter, retêm gases leves como hidrogênio, enquanto planetas menores, como Marte, perdem gases por baixa gravidade. Processos geológicos, como vulcões, também moldam atmosferas. É um equilíbrio complexo. Sabia que Vênus tem uma atmosfera tão densa que sua pressão é 92 vezes a da Terra?",
+    "palavras_chave": ["atmosfera", "planeta", "gravidade", "gases", "vênus"]
+  },
+  {
+    "pergunta": "O que é a teoria do caos na física?",
+    "resposta": "A teoria do caos estuda sistemas onde pequenas mudanças nas condições iniciais levam a resultados muito diferentes, como no clima. É descrita por equações não lineares, como no efeito borboleta. Apesar do nome, o caos tem padrões previsíveis em longo prazo. É fascinante, mas limita previsões exatas. Sabia que o conceito do efeito borboleta veio de simulações meteorológicas de Edward Lorenz em 1963?",
+    "palavras_chave": ["caos", "borboleta", "clima", "não linear", "lorenz"]
+  },
+  {
+    "pergunta": "Como os neutrinos interagem com a matéria?",
+    "resposta": "Neutrinos são partículas subatômicas que interagem muito pouco com a matéria, passando por planetas inteiros sem colisões. Produzidos em reações nucleares, como no Sol, são detectados em experimentos subterrâneos, como o Super-Kamiokande. Sua elusividade desafia a física de partículas. Sabia que neutrinos podem mudar de 'sabor' enquanto viajam, um fenômeno chamado oscilação?",
+    "palavras_chave": ["neutrinos", "partículas", "interação", "oscilação", "sol"]
+  },
+  {
+    "pergunta": "O que é a lei de Hubble-Lemaître?",
+    "resposta": "A lei de Hubble-Lemaître diz que galáxias distantes se afastam de nós a uma velocidade proporcional à sua distância, evidenciando a expansão do universo. Georges Lemaître propôs a ideia antes de Edwin Hubble, que a confirmou com observações. É a base da cosmologia moderna, mas levanta questões sobre o destino do universo. Sabia que Lemaître, um padre, também sugeriu o Big Bang em 1927?",
+    "palavras_chave": ["hubble-lemaître", "expansão", "galáxias", "big bang", "cosmologia"]
+  }
+]

@@ -1,0 +1,507 @@
+[
+  {
+    "pergunta": "Qual é o animal mais rápido do mundo?",
+    "resposta": "O título de animal mais rápido do mundo vai para o falcão-peregrino. Durante o mergulho de caça, ele pode atingir mais de 300 km/h! Esse recorde impressionante é possível graças ao formato aerodinâmico do corpo e à força das asas. Sabia que o formato do capacete de pilotos de caça foi inspirado nesse pássaro?",
+    "palavras_chave": ["falcão-peregrino", "velocidade", "aerodinâmica", "animais", "recorde"]
+  },
+  {
+    "pergunta": "Qual é a montanha mais alta da Terra?",
+    "resposta": "O Monte Everest, com seus 8.848,86 metros de altitude, é a montanha mais alta do planeta. Localizado entre o Nepal e o Tibete, ele atrai alpinistas do mundo inteiro, muitos dos quais enfrentam riscos extremos para alcançar o topo. Sabia que o Everest cresce cerca de 4 milímetros por ano por causa do movimento das placas tectônicas?",
+    "palavras_chave": ["everest", "montanha", "nepal", "altitude", "tectônica"]
+  },
+  {
+    "pergunta": "Qual é o lugar mais frio do mundo?",
+    "resposta": "A Antártida é o local mais frio do planeta, e a temperatura mais baixa já registrada foi de incríveis -89,2°C, na Estação Vostok, em 1983. O ar seco e a altitude elevada contribuem para esse frio extremo. Sabia que o gelo da Antártida guarda bolhas de ar com o clima da Terra de centenas de milhares de anos atrás?",
+    "palavras_chave": ["antártida", "temperatura", "frio", "clima", "vostok"]
+  },
+  {
+    "pergunta": "Qual é o deserto mais quente do planeta?",
+    "resposta": "O Deserto do Lút, no Irã, é considerado o lugar mais quente da Terra. Satélites da NASA já registraram ali temperaturas de superfície acima de 80°C! Essa área é praticamente sem vida, e o calor é tão intenso que o solo parece derreter. Sabia que, apesar disso, microrganismos resistentes foram encontrados ali?",
+    "palavras_chave": ["deserto", "calor", "irã", "nasa", "microrganismos"]
+  },
+  {
+    "pergunta": "Qual é o maior oceano do mundo?",
+    "resposta": "O Oceano Pacífico é o maior de todos, cobrindo mais de 160 milhões de km² — quase metade de toda a superfície de água da Terra. Ele é tão vasto que poderia conter todos os continentes dentro dele. Sabia que a Fossa das Marianas, o ponto mais profundo do planeta, também fica no Pacífico?",
+    "palavras_chave": ["oceano pacífico", "fossa das marianas", "geografia", "água", "profundidade"]
+  },
+  {
+    "pergunta": "Qual é o país com a maior população do mundo?",
+    "resposta": "A Índia é atualmente o país mais populoso do planeta, com mais de 1,4 bilhão de habitantes. Essa enorme população traz tanto desafios quanto oportunidades — desde o trânsito caótico até a força jovem da economia. Sabia que a Índia é também o país com o maior número de filmes produzidos por ano?",
+    "palavras_chave": ["índia", "população", "demografia", "cinema", "sociedade"]
+  },
+  {
+    "pergunta": "Qual é o rio mais longo do mundo?",
+    "resposta": "Durante muito tempo, acreditava-se que o rio Nilo, na África, era o mais longo. Mas estudos recentes apontam que o Rio Amazonas, no Brasil, pode ser ainda maior, com cerca de 7.100 km! Sabia que ele é também o rio com o maior volume de água do planeta?",
+    "palavras_chave": ["rio amazonas", "nilo", "comprimento", "água", "brasil"]
+  },
+  {
+    "pergunta": "Qual é o edifício mais alto já construído?",
+    "resposta": "O Burj Khalifa, em Dubai, detém o recorde de edifício mais alto do mundo, com 828 metros. A construção levou seis anos e envolveu engenheiros do mundo todo. Sabia que o prédio consome tanta energia que precisa de sistemas de refrigeração quase contínuos por causa do calor do deserto?",
+    "palavras_chave": ["burj khalifa", "dubai", "arquitetura", "engenharia", "arranha-céu"]
+  },
+  {
+    "pergunta": "Qual é o maior animal do mundo?",
+    "resposta": "A baleia-azul é o maior animal já registrado, podendo ultrapassar 30 metros de comprimento e pesar mais de 150 toneladas! Mesmo sendo gigantesca, alimenta-se de minúsculos crustáceos chamados krill. Sabia que o coração de uma baleia-azul é do tamanho de um carro pequeno?",
+    "palavras_chave": ["baleia-azul", "animais", "biologia", "oceano", "krill"]
+  },
+  {
+    "pergunta": "Qual é a floresta mais extensa do planeta?",
+    "resposta": "A Floresta Amazônica é a maior floresta tropical do mundo, cobrindo cerca de 5,5 milhões de km² e espalhando-se por nove países. Ela abriga uma biodiversidade impressionante e é essencial para o equilíbrio climático. Sabia que a Amazônia produz parte das próprias chuvas que a mantêm viva?",
+    "palavras_chave": ["floresta amazônica", "biodiversidade", "chuva", "brasil", "clima"]
+  },
+  {
+    "pergunta": "Qual é a cidade mais populosa do mundo?",
+    "resposta": "Tóquio, no Japão, é considerada a cidade mais populosa, com uma área metropolitana que ultrapassa 37 milhões de habitantes. A cidade combina tradição milenar e tecnologia futurista. Sabia que Tóquio tem um dos sistemas de metrô mais pontuais do planeta?",
+    "palavras_chave": ["tóquio", "população", "japão", "urbanização", "tecnologia"]
+  },
+  {
+    "pergunta": "Qual é o ponto mais profundo dos oceanos?",
+    "resposta": "A Fossa das Marianas, localizada no Oceano Pacífico, chega a quase 11 mil metros de profundidade! A pressão lá embaixo é mais de mil vezes maior que a da superfície. Sabia que apenas alguns veículos submersíveis conseguiram chegar ao fundo desse abismo?",
+    "palavras_chave": ["fossa das marianas", "profundidade", "oceano", "pressão", "exploração"]
+  },
+  {
+    "pergunta": "Qual é o maior deserto do mundo?",
+    "resposta": "Muita gente acha que é o Saara, mas o maior deserto do mundo é, na verdade, a Antártida! Mesmo coberta de gelo, ela é considerada um deserto porque quase não chove lá. Sabia que o Saara vem logo em seguida, ocupando uma área equivalente aos Estados Unidos?",
+    "palavras_chave": ["antártida", "saara", "deserto", "clima", "precipitação"]
+  },
+  {
+    "pergunta": "Qual é o maior vulcão do sistema solar?",
+    "resposta": "O Monte Olimpo, em Marte, é o maior vulcão conhecido, com 22 km de altura — quase três vezes o Everest! Ele é tão largo que uma pessoa no topo nem veria a borda, por causa da curvatura do planeta. Sabia que ele está inativo há milhões de anos?",
+    "palavras_chave": ["monte olimpo", "marte", "vulcão", "sistema solar", "astronomia"]
+  },
+  {
+    "pergunta": "Qual é o lago mais profundo do mundo?",
+    "resposta": "O Lago Baikal, na Rússia, é o mais profundo do planeta, com mais de 1.600 metros. Ele contém cerca de 20% de toda a água doce não congelada da Terra. Sabia que ele é também um dos lagos mais antigos, com cerca de 25 milhões de anos?",
+    "palavras_chave": ["lago baikal", "rússia", "água doce", "profundidade", "geologia"]
+  },
+  {
+    "pergunta": "Qual é o maior país do mundo em extensão territorial?",
+    "resposta": "A Rússia é o maior país do mundo, ocupando mais de 17 milhões de km², o que representa cerca de um oitavo de todas as terras habitáveis da Terra. Sabia que o país abrange 11 fusos horários diferentes?",
+    "palavras_chave": ["rússia", "território", "geografia", "fuso horário", "continente"]
+  },
+  {
+    "pergunta": "Qual é o menor país do mundo?",
+    "resposta": "O Vaticano é o menor país do planeta, com apenas 0,44 km². Mesmo pequeno, é o centro da Igreja Católica e abriga a famosa Basílica de São Pedro e a Capela Sistina. Sabia que o Vaticano tem sua própria moeda e correio?",
+    "palavras_chave": ["vaticano", "igreja católica", "roma", "território", "história"]
+  },
+  {
+    "pergunta": "Qual é o ponto mais seco da Terra?",
+    "resposta": "O Deserto do Atacama, no Chile, é considerado o lugar mais seco do planeta. Em algumas áreas, nunca foi registrada uma gota de chuva! Sabia que cientistas usam o Atacama como cenário de testes para robôs que serão enviados a Marte?",
+    "palavras_chave": ["atacama", "chile", "deserto", "clima", "marte"]
+  },
+  {
+    "pergunta": "Qual é o maior mamífero terrestre?",
+    "resposta": "O elefante-africano é o maior mamífero terrestre, podendo pesar até 6 toneladas. Ele é conhecido por sua inteligência, memória e fortes laços sociais. Sabia que seus ouvidos enormes ajudam a regular a temperatura do corpo?",
+    "palavras_chave": ["elefante-africano", "mamífero", "terra", "biologia", "temperatura"]
+  },
+  {
+    "pergunta": "Qual é o animal mais venenoso do mundo?",
+    "resposta": "A vespa-do-mar, uma espécie de água-viva encontrada nas águas da Austrália, é considerada o animal mais venenoso do planeta. Seu veneno pode matar em minutos. Sabia que ela é quase invisível na água, o que a torna ainda mais perigosa?",
+    "palavras_chave": ["vespa-do-mar", "veneno", "austrália", "biologia", "perigo"]
+  },
+  {
+    "pergunta": "Qual é o maior inseto já registrado?",
+    "resposta": "O fasmídeo gigante de Bornéu é considerado o maior inseto do mundo, podendo ultrapassar 60 centímetros de comprimento! Ele se camufla entre galhos e folhas para se proteger. Sabia que ele ficou conhecido como 'inseto-graveto' por causa da aparência?",
+    "palavras_chave": ["inseto", "fasmídeo", "bornéu", "camuflagem", "biologia"]
+  },
+  {
+    "pergunta": "Qual é o país com mais fusos horários?",
+    "resposta": "A França detém o recorde de maior número de fusos horários, com 12 no total! Isso acontece porque o país ainda possui territórios ultramarinos espalhados pelo mundo. Sabia que isso faz com que o dia comece e termine em regiões francesas diferentes?",
+    "palavras_chave": ["frança", "fuso horário", "territórios", "geografia", "recorde"]
+  },
+  {
+    "pergunta": "Qual é o menor mamífero do mundo?",
+    "resposta": "O morcego-nariz-de-porco da Tailândia é o menor mamífero conhecido. Ele mede cerca de 3 centímetros e pesa menos que uma moeda. Sabia que ele é tão leve que consegue pairar como um beija-flor?",
+    "palavras_chave": ["morcego", "mamífero", "tailândia", "biologia", "leveza"]
+  },
+  {
+    "pergunta": "Qual é a fruta mais pesada já registrada?",
+    "resposta": "A jaca detém o recorde entre as frutas, podendo chegar a pesar mais de 50 kg! Originária da Ásia, ela é muito popular no Brasil. Sabia que a jaca é da mesma família da amoreira?",
+    "palavras_chave": ["jaca", "fruta", "peso", "brasil", "botânica"]
+  },
+  {
+    "pergunta": "Qual é o maior peixe do mundo?",
+    "resposta": "O tubarão-baleia é o maior peixe conhecido, podendo atingir até 18 metros de comprimento. Apesar do tamanho, ele é dócil e se alimenta de plâncton. Sabia que alguns mergulhadores já conseguiram nadar ao lado deles sem risco?",
+    "palavras_chave": ["tubarão-baleia", "peixe", "oceano", "plâncton", "mergulho"]
+  },
+  {
+    "pergunta": "Qual é a maior cachoeira do mundo?",
+    "resposta": "A Cachoeira Angel, na Venezuela, é a mais alta do mundo, com uma queda livre de 979 metros. Ela recebeu esse nome em homenagem ao piloto Jimmy Angel, que a sobrevoou pela primeira vez. Sabia que a água evapora parcialmente antes mesmo de chegar ao solo, por causa da altura?",
+    "palavras_chave": ["cachoeira angel", "venezuela", "altura", "natureza", "turismo"]
+  },
+  {
+    "pergunta": "Qual é o maior cânion do planeta?",
+    "resposta": "O Grand Canyon, nos Estados Unidos, é o cânion mais famoso e um dos maiores do mundo, com até 1,6 km de profundidade e mais de 400 km de extensão. Suas camadas revelam milhões de anos de história geológica. Sabia que há cânions submarinos ainda maiores, escondidos sob os oceanos?",
+    "palavras_chave": ["grand canyon", "geologia", "erosão", "estados unidos", "natureza"]
+  },
+  {
+    "pergunta": "Qual é o maior ser vivo da Terra?",
+    "resposta": "Surpreendentemente, o maior ser vivo não é um animal, mas um fungo! O Armillaria ostoyae, que vive no Oregon (EUA), cobre cerca de 9 km² de floresta. Sabia que ele é apelidado de 'fungo assassino' porque se espalha matando árvores ao redor?",
+    "palavras_chave": ["fungo", "armillaria", "oregon", "biologia", "recorde"]
+  },
+  {
+    "pergunta": "Qual é o edifício mais inclinado do mundo?",
+    "resposta": "Embora a Torre de Pisa seja a mais famosa, o recorde de inclinação vai para o Capital Gate, em Abu Dhabi, que se inclina 18 graus — mais que quatro vezes a Torre de Pisa! Sabia que a inclinação é proposital, criada com engenharia moderna e segura?",
+    "palavras_chave": ["capital gate", "abu dhabi", "torre", "engenharia", "arquitetura"]
+  },
+  {
+    "pergunta": "Qual é a maior estrutura feita por animais?",
+    "resposta": "A Grande Barreira de Corais, na Austrália, é a maior estrutura biológica do planeta, construída por minúsculos corais ao longo de milhões de anos. Ela é visível até do espaço! Sabia que esse ecossistema está ameaçado pelo aquecimento global?",
+    "palavras_chave": ["barreira de corais", "austrália", "ecossistema", "oceanos", "biodiversidade"]
+  },
+  {
+    "pergunta": "Qual é o maior cruzeiro do mundo?",
+    "resposta": "O 'Icon of the Seas', lançado em 2024, é o maior navio de cruzeiro já construído. Ele tem mais de 360 metros de comprimento e capacidade para quase 10 mil pessoas, contando passageiros e tripulantes. Sabia que ele é maior que o Titanic em todas as dimensões?",
+    "palavras_chave": ["cruzeiro", "navio", "icon of the seas", "titanic", "engenharia"]
+  },
+  {
+    "pergunta": "Qual é o livro mais vendido da história?",
+    "resposta": "A Bíblia é o livro mais vendido e distribuído do mundo, com bilhões de cópias impressas em centenas de idiomas. Além de seu valor religioso, é uma das obras literárias mais influentes da humanidade. Sabia que ela é traduzida até mesmo para línguas indígenas e de sinais?",
+    "palavras_chave": ["bíblia", "livro", "tradução", "história", "literatura"]
+  },
+  {
+    "pergunta": "Qual é o alimento mais caro do mundo?",
+    "resposta": "Entre os alimentos mais caros, destaca-se o caviar Almas, feito de ovas de esturjão albino iraniano, custando milhares de dólares por quilo. Sabia que ele é vendido em latas banhadas a ouro de 24 quilates?",
+    "palavras_chave": ["caviar", "luxo", "alimentação", "ouro", "esturjão"]
+  },
+  {
+    "pergunta": "Qual é o maior avião já construído?",
+    "resposta": "O Antonov An-225 Mriya, de origem ucraniana, foi o maior avião já feito, com 88 metros de envergadura. Ele foi criado para transportar cargas gigantes, como foguetes. Sabia que seu nome significa 'sonho' em ucraniano?",
+    "palavras_chave": ["antonov an-225", "avião", "ucrânia", "engenharia", "transporte"]
+  },
+  {
+    "pergunta": "Qual é o maior diamante já encontrado?",
+    "resposta": "O diamante Cullinan é o maior já descoberto, pesando 3.106 quilates. Foi encontrado na África do Sul em 1905 e cortado em várias pedras, algumas das quais fazem parte das joias da coroa britânica. Sabia que o maior fragmento está no cetro do rei da Inglaterra?",
+    "palavras_chave": ["diamante", "cullinan", "joias", "áfrica do sul", "britânia"]
+  },
+  {
+    "pergunta": "Qual é o maior estádio do mundo?",
+    "resposta": "O Estádio Rungrado 1º de Maio, na Coreia do Norte, é o maior do mundo em capacidade, comportando cerca de 150 mil pessoas. Sabia que ele é usado não só para esportes, mas também para eventos políticos e desfiles militares?",
+    "palavras_chave": ["estádio", "coreia do norte", "futebol", "esporte", "arquitetura"]
+  },
+  {
+    "pergunta": "Qual é o maior arranha-céu residencial do mundo?",
+    "resposta": "O Central Park Tower, em Nova York, é o prédio residencial mais alto do mundo, com 472 metros de altura. Sabia que alguns apartamentos ali custam mais de 100 milhões de dólares?",
+    "palavras_chave": ["central park tower", "nova york", "arranha-céu", "residência", "luxo"]
+  },
+  {
+    "pergunta": "Qual é o maior terremoto já registrado?",
+    "resposta": "O maior terremoto já registrado ocorreu no Chile, em 1960, com magnitude 9,5. O abalo foi tão forte que causou tsunamis que chegaram até o Japão e as Filipinas. Sabia que o evento alterou até o eixo da Terra em alguns centímetros?",
+    "palavras_chave": ["terremoto", "chile", "tsunami", "geologia", "magnitude"]
+  },
+  {
+    "pergunta": "Qual é o vulcão mais ativo do mundo?",
+    "resposta": "O Kīlauea, no Havaí, é um dos vulcões mais ativos do planeta, com erupções frequentes desde 1983. Sabia que ele é considerado sagrado pelos povos nativos havaianos?",
+    "palavras_chave": ["kīlauea", "havaí", "vulcão", "erupção", "geologia"]
+  },
+  {
+    "pergunta": "Qual é o maior iceberg já registrado?",
+    "resposta": "O iceberg B-15, que se desprendeu da Antártida no ano 2000, era tão grande que media cerca de 11 mil km² — quase o tamanho da Jamaica! Sabia que pedaços dele ainda flutuavam no oceano anos depois?",
+    "palavras_chave": ["iceberg", "antártida", "oceano", "gelo", "clima"]
+  },
+  {
+    "pergunta": "Qual é o maior lago artificial do mundo?",
+    "resposta": "O Lago Volta, em Gana, é o maior lago artificial do planeta em extensão. Ele foi criado após a construção da represa de Akosombo, nos anos 1960. Sabia que comunidades inteiras precisaram ser realocadas para a sua formação?",
+    "palavras_chave": ["lago volta", "gana", "represa", "energia", "hidrelétrica"]
+  },
+  {
+    "pergunta": "Qual é o recorde de temperatura mais alta já registrada?",
+    "resposta": "A temperatura mais alta oficialmente registrada foi de 56,7°C, em Furnace Creek, no Vale da Morte (EUA), em 1913. Sabia que o local recebeu esse nome justamente por ser um dos mais inóspitos da Terra?",
+    "palavras_chave": ["temperatura", "vale da morte", "calor", "clima", "recorde"]
+  },
+  {
+    "pergunta": "Qual é a maior ilha do mundo?",
+    "resposta": "A Groenlândia é a maior ilha do planeta, com mais de 2 milhões de km². Apesar do nome, ela é coberta quase totalmente por gelo. Sabia que o nome 'terra verde' veio de uma estratégia dos vikings para atrair colonos?",
+    "palavras_chave": ["groenlândia", "ilha", "gelo", "vikings", "geografia"]
+  },
+  {
+    "pergunta": "Qual é a maior ponte do mundo?",
+    "resposta": "A Ponte Danyang–Kunshan, na China, é a mais longa do planeta, com mais de 164 km! Ela faz parte da linha de trem de alta velocidade entre Pequim e Xangai. Sabia que sua construção envolveu mais de 10 mil trabalhadores?",
+    "palavras_chave": ["ponte", "china", "engenharia", "trem", "infraestrutura"]
+  },
+  {
+    "pergunta": "Qual é o maior animal terrestre já extinto?",
+    "resposta": "O Argentinosaurus, um dinossauro herbívoro que viveu há cerca de 90 milhões de anos, é considerado o maior animal terrestre já conhecido, podendo ultrapassar 30 metros de comprimento. Sabia que seu fêmur media mais de 2 metros?",
+    "palavras_chave": ["argentinosaurus", "dinossauro", "fóssil", "pré-história", "paleontologia"]
+  },
+  {
+    "pergunta": "Qual é o país com a maior área de floresta tropical?",
+    "resposta": "O Brasil lidera com a maior extensão de floresta tropical, graças à Amazônia. Essa cobertura vegetal é essencial para a regulação climática global. Sabia que cerca de 60% da Amazônia está em território brasileiro?",
+    "palavras_chave": ["brasil", "amazônia", "floresta", "meio ambiente", "ecologia"]
+  },
+  {
+    "pergunta": "Qual é a cidade mais alta do mundo?",
+    "resposta": "La Rinconada, no Peru, é a cidade mais alta do planeta, localizada a 5.100 metros de altitude. Sabia que ela é uma cidade mineradora e que o ar lá é tão rarefeito que muitos moradores sofrem com falta de oxigênio?",
+    "palavras_chave": ["la rinconada", "peru", "altitude", "mineração", "cordilheira"]
+  },
+  {
+    "pergunta": "Qual é o maior desfiladeiro submarino conhecido?",
+    "resposta": "O Cânion de Zhemchug, no Mar de Bering, é o maior cânion submarino já descoberto. Ele é mais profundo que o Grand Canyon! Sabia que a fauna local inclui baleias e criaturas bioluminescentes?",
+    "palavras_chave": ["cânion", "mar de bering", "submarino", "oceano", "biologia marinha"]
+  },
+  {
+    "pergunta": "Qual é o maior país formado apenas por ilhas?",
+    "resposta": "A Indonésia é o maior arquipélago do mundo, com mais de 17 mil ilhas! Sabia que o país é tão extenso que ocupa três fusos horários diferentes?",
+    "palavras_chave": ["indonésia", "arquipélago", "ilhas", "geografia", "fuso horário"]
+  },
+  {
+    "pergunta": "Qual é o menor vulcão do mundo?",
+    "resposta": "O Monte Taal, nas Filipinas, é considerado o menor vulcão ativo do planeta, com cerca de 311 metros. Sabia que ele fica dentro de um lago, que por sua vez está dentro de uma cratera maior?",
+    "palavras_chave": ["monte taal", "vulcão", "filipinas", "lago", "geologia"]
+  },
+  {
+    "pergunta": "Qual é o ser humano mais alto já registrado?",
+    "resposta": "O homem mais alto já registrado foi Robert Wadlow, dos Estados Unidos, que chegou a incríveis 2,72 metros de altura! Ele sofria de uma condição chamada gigantismo, causada por excesso de hormônio do crescimento. Sabia que ele precisou de sapatos feitos sob medida com mais de 47 cm de comprimento?",
+    "palavras_chave": ["robert wadlow", "gigantismo", "altura", "recorde", "fisiologia"]
+  },
+  {
+    "pergunta": "Quem foi a pessoa mais velha do mundo?",
+    "resposta": "A francesa Jeanne Calment é reconhecida como a pessoa mais velha já documentada, vivendo até os 122 anos e 164 dias. Ela nasceu em 1875 e viveu o suficiente para ver a invenção da televisão e da internet. Sabia que ela conheceu pessoalmente o pintor Vincent van Gogh?",
+    "palavras_chave": ["jeanne calment", "longevidade", "idade", "história", "vida"]
+  },
+  {
+    "pergunta": "Qual é o menor pássaro do mundo?",
+    "resposta": "O colibri-abelha, encontrado em Cuba, é o menor pássaro do planeta. Mede cerca de 5 cm e pesa menos de 2 gramas! Sabia que ele bate as asas mais de 80 vezes por segundo?",
+    "palavras_chave": ["colibri", "pássaro", "cuba", "biologia", "voo"]
+  },
+  {
+    "pergunta": "Qual é o carro mais rápido do mundo?",
+    "resposta": "O Bugatti Chiron Super Sport 300+ quebrou o recorde de velocidade para carros de produção, atingindo 490 km/h em testes. Sabia que o carro é tão potente que precisa de pneus especialmente reforçados para não se desfazer em alta velocidade?",
+    "palavras_chave": ["bugatti", "velocidade", "automóvel", "engenharia", "recorde"]
+  },
+  {
+    "pergunta": "Qual é o planeta mais quente do sistema solar?",
+    "resposta": "Vênus é o planeta mais quente, com temperaturas que chegam a 475°C. Apesar de Mercúrio estar mais próximo do Sol, Vênus retém mais calor por causa de sua atmosfera densa de dióxido de carbono. Sabia que chove ácido sulfúrico lá?",
+    "palavras_chave": ["vênus", "planeta", "temperatura", "sistema solar", "atmosfera"]
+  },
+  {
+    "pergunta": "Qual é o menor país em população?",
+    "resposta": "O Vaticano é também o menor país em população, com cerca de 800 habitantes. Sabia que praticamente todos os moradores são membros do clero ou funcionários da Santa Sé?",
+    "palavras_chave": ["vaticano", "população", "igreja", "demografia", "roma"]
+  },
+  {
+    "pergunta": "Qual é o maior número primo conhecido?",
+    "resposta": "O maior número primo conhecido tem milhões de dígitos e foi descoberto por meio do projeto colaborativo GIMPS, que usa computadores de voluntários. Sabia que números primos gigantes são usados em sistemas de criptografia digital?",
+    "palavras_chave": ["número primo", "matemática", "gimps", "criptografia", "recorde"]
+  },
+  {
+    "pergunta": "Qual é o maior animal voador que já existiu?",
+    "resposta": "O Quetzalcoatlus, um pterossauro do período Cretáceo, é o maior animal voador conhecido. Tinha uma envergadura de até 12 metros! Sabia que ele pesava o mesmo que um leão adulto?",
+    "palavras_chave": ["quetzalcoatlus", "pterossauro", "voo", "pré-história", "fóssil"]
+  },
+  {
+    "pergunta": "Qual é o recorde de mergulho mais profundo sem equipamento?",
+    "resposta": "O mergulhador Herbert Nitsch atingiu 214 metros de profundidade em apneia, ou seja, sem tanques de oxigênio. Sabia que ele é conhecido como 'o homem-peixe' por sua impressionante capacidade pulmonar?",
+    "palavras_chave": ["mergulho", "apneia", "recorde", "herbert nitsch", "profundidade"]
+  },
+  {
+    "pergunta": "Qual é o maior animal terrestre já registrado vivo?",
+    "resposta": "O elefante-africano macho, conhecido como Jumbo, pesava mais de 10 toneladas e viveu no século XIX. Ele ficou famoso por inspirar o termo 'jumbo' para designar coisas grandes. Sabia que sua história inspirou até personagens de desenhos animados?",
+    "palavras_chave": ["elefante", "jumbo", "mamífero", "recorde", "história"]
+  },
+  {
+    "pergunta": "Qual é a torre mais alta já construída inteiramente de madeira?",
+    "resposta": "A torre Mjøstårnet, na Noruega, é o prédio de madeira mais alto do mundo, com 85 metros de altura. Sabia que ela foi construída com madeira engenheirada, um material sustentável e resistente ao fogo?",
+    "palavras_chave": ["madeira", "noruega", "engenharia", "sustentabilidade", "arquitetura"]
+  },
+  {
+    "pergunta": "Qual é o maior recorde de frio já registrado fora da Terra?",
+    "resposta": "A Lua de Plutão, chamada Tritão, tem temperaturas próximas a -235°C, sendo um dos lugares mais frios conhecidos do sistema solar. Sabia que lá o nitrogênio congela e forma geleiras?",
+    "palavras_chave": ["tritão", "plutão", "frio", "astronomia", "sistema solar"]
+  },
+  {
+    "pergunta": "Qual é o maior meteoro já encontrado na Terra?",
+    "resposta": "O meteorito Hoba, na Namíbia, é o maior já encontrado intacto. Pesa cerca de 60 toneladas e nunca foi movido do local onde caiu. Sabia que ele é feito quase totalmente de ferro e níquel?",
+    "palavras_chave": ["meteorito", "hoba", "namíbia", "astronomia", "ferro"]
+  },
+  {
+    "pergunta": "Qual é o maior mamífero marinho predador?",
+    "resposta": "A orca, ou baleia-assassina, é o maior predador marinho entre os mamíferos. Apesar do nome, ela pertence à família dos golfinhos. Sabia que as orcas têm dialetos próprios de comunicação entre grupos?",
+    "palavras_chave": ["orca", "mamífero", "predador", "oceano", "comunicação"]
+  },
+  {
+    "pergunta": "Qual é o animal mais resistente do mundo?",
+    "resposta": "O tardígrado, também chamado de urso-d'água, é um microrganismo capaz de sobreviver a temperaturas extremas, radiação e até ao vácuo do espaço! Sabia que eles podem entrar em um estado de animação suspensa por décadas?",
+    "palavras_chave": ["tardígrado", "microrganismo", "resistência", "biologia", "sobrevivência"]
+  },
+  {
+    "pergunta": "Qual é o ser humano mais rápido do mundo?",
+    "resposta": "Usain Bolt, da Jamaica, é o homem mais rápido da história, com 9,58 segundos nos 100 metros rasos. Sabia que esse recorde foi estabelecido em 2009 e ainda não foi superado?",
+    "palavras_chave": ["usain bolt", "velocidade", "atletismo", "esporte", "recorde"]
+  },
+  {
+    "pergunta": "Qual é o lugar habitado mais frio do planeta?",
+    "resposta": "O vilarejo de Oymyakon, na Sibéria, é o local habitado mais frio do mundo, com temperaturas que podem chegar a -60°C. Sabia que os carros lá ficam ligados o tempo todo para não congelarem?",
+    "palavras_chave": ["oymyakon", "sibéria", "frio", "habitação", "temperatura"]
+  },
+  {
+    "pergunta": "Qual é o ser humano mais baixo já registrado?",
+    "resposta": "Chandra Bahadur Dangi, do Nepal, foi o homem mais baixo já medido oficialmente, com apenas 54,6 centímetros. Sabia que ele ganhou reconhecimento mundial e usou sua fama para valorizar sua cultura local?",
+    "palavras_chave": ["chandra dangi", "nepal", "altura", "recorde", "fisiologia"]
+  },
+  {
+    "pergunta": "Qual é a maior biblioteca do mundo?",
+    "resposta": "A Biblioteca do Congresso, em Washington D.C., é a maior do planeta, com mais de 170 milhões de itens no acervo. Sabia que ela possui gravações sonoras raras e até partituras originais de compositores clássicos?",
+    "palavras_chave": ["biblioteca", "congresso", "livros", "história", "conhecimento"]
+  },
+  {
+    "pergunta": "Qual é o país mais alto do mundo em média de altitude?",
+    "resposta": "O Butão é o país com maior altitude média, com montanhas que dominam quase todo o território. Sabia que o Butão mede o progresso nacional pelo índice de Felicidade Interna Bruta, e não pelo PIB?",
+    "palavras_chave": ["butão", "himalaia", "altitude", "felicidade", "geografia"]
+  },
+  {
+    "pergunta": "Qual é o maior robô já construído?",
+    "resposta": "O robô Gundam RX-78, no Japão, tem 18 metros de altura e pode se mover parcialmente. Sabia que ele foi inspirado em um anime dos anos 1970 e se tornou uma atração turística real?",
+    "palavras_chave": ["robô", "gundam", "japão", "tecnologia", "animação"]
+  },
+  {
+    "pergunta": "Qual é o país mais novo do mundo?",
+    "resposta": "O Sudão do Sul é o país mais novo, tendo conquistado a independência em 2011. Sabia que sua bandeira simboliza esperança e união após décadas de conflitos?",
+    "palavras_chave": ["sudão do sul", "independência", "país", "história", "geopolítica"]
+  },
+  {
+    "pergunta": "Qual é o maior instrumento musical do mundo?",
+    "resposta": "O maior órgão do mundo está em Atlantic City, nos Estados Unidos, e tem mais de 33 mil tubos! Sabia que apenas uma pequena parte dele funciona completamente hoje, por causa da complexidade das restaurações?",
+    "palavras_chave": ["órgão", "música", "atlantic city", "instrumento", "arte"]
+  },
+  {
+    "pergunta": "Qual é o maior parque nacional do planeta?",
+    "resposta": "O Parque Nacional do Nordeste da Groenlândia é o maior do mundo, com mais de 972 mil km². Sabia que ele é maior que a soma da França e da Espanha?",
+    "palavras_chave": ["parque nacional", "groenlândia", "natureza", "conservação", "ecologia"]
+  },
+  {
+    "pergunta": "Qual é o recorde de voo mais longo de um avião comercial?",
+    "resposta": "O voo mais longo em operação é o da Singapore Airlines, entre Cingapura e Nova York, durando cerca de 18 horas e cobrindo mais de 15 mil km. Sabia que o avião é adaptado especialmente para conforto e eficiência energética?",
+    "palavras_chave": ["avião", "singapore airlines", "voo", "distância", "transporte"]
+  },
+  {
+    "pergunta": "Qual é o rio mais longo do mundo?",
+    "resposta": "O rio Nilo, na África, é tradicionalmente considerado o mais longo do mundo, com cerca de 6.650 km, embora estudos recentes indiquem que o Amazonas pode ser ainda maior! Sabia que ele atravessa 11 países?",
+    "palavras_chave": ["nilo", "rio", "africa", "geografia", "hidrografia"]
+  },
+  {
+    "pergunta": "Qual é o maior vulcão da Terra?",
+    "resposta": "O Mauna Loa, no Havaí, é o maior vulcão do planeta em volume e área. Ele cobre metade da ilha! Sabia que ele ainda é ativo e tem erupções periódicas desde o século XIX?",
+    "palavras_chave": ["mauna loa", "vulcão", "havaí", "geologia", "atividade vulcânica"]
+  },
+  {
+    "pergunta": "Qual é o animal mais rápido do mundo?",
+    "resposta": "O falcão-peregrino é o animal mais rápido do planeta, podendo atingir mais de 380 km/h em mergulho. Sabia que ele usa a velocidade para caçar outras aves no ar?",
+    "palavras_chave": ["falcão", "velocidade", "ave", "biologia", "predador"]
+  },
+  {
+    "pergunta": "Qual é o deserto mais seco do planeta?",
+    "resposta": "O Deserto do Atacama, no Chile, é o mais seco do mundo — há áreas que não recebem chuva há séculos! Sabia que cientistas estudam o Atacama para entender como seria a vida em Marte?",
+    "palavras_chave": ["atacama", "chile", "deserto", "clima", "marte"]
+  },
+  {
+    "pergunta": "Qual é a montanha mais alta do mundo?",
+    "resposta": "O Monte Everest, com 8.848 metros, é o ponto mais alto da Terra. Sabia que a montanha continua crescendo lentamente por causa do movimento das placas tectônicas?",
+    "palavras_chave": ["everest", "montanha", "himalaia", "altitude", "geologia"]
+  },
+  {
+    "pergunta": "Qual é o lago mais profundo do mundo?",
+    "resposta": "O Lago Baikal, na Rússia, é o mais profundo, com mais de 1.600 metros. Ele também contém cerca de 20% da água doce não congelada do planeta. Sabia que sua água é tão pura que se pode ver a 40 metros de profundidade?",
+    "palavras_chave": ["baikal", "rússia", "lago", "profundidade", "água doce"]
+  },
+  {
+    "pergunta": "Qual é o recorde de queda livre mais alta já feita por um humano?",
+    "resposta": "Em 2012, Felix Baumgartner saltou da estratosfera, a mais de 39 km de altura, quebrando a barreira do som durante a queda! Sabia que ele viajou em uma cápsula semelhante a um pequeno foguete?",
+    "palavras_chave": ["felix baumgartner", "queda livre", "recorde", "física", "aventura"]
+  },
+  {
+    "pergunta": "Qual é o maior oceano da Terra?",
+    "resposta": "O Oceano Pacífico é o maior, cobrindo mais de 30% da superfície do planeta. Sabia que ele é tão grande que poderia conter todos os continentes juntos?",
+    "palavras_chave": ["oceano pacífico", "geografia", "mar", "planeta", "hidrografia"]
+  },
+  {
+    "pergunta": "Qual é o menor mamífero do mundo?",
+    "resposta": "O morcego-nariz-de-porco-de-Kitti, da Tailândia, é o menor mamífero conhecido — pesa menos de 2 gramas! Sabia que ele cabe dentro de uma colher de chá?",
+    "palavras_chave": ["morcego", "mamífero", "tailândia", "biologia", "tamanho"]
+  },
+  {
+    "pergunta": "Qual é o país com mais fusos horários?",
+    "resposta": "A França, incluindo seus territórios ultramarinos, é o país com mais fusos horários — ao todo, 12! Sabia que isso acontece por causa de suas ilhas espalhadas pelo mundo?",
+    "palavras_chave": ["frança", "fuso horário", "territórios", "geografia", "curiosidade"]
+  },
+  {
+    "pergunta": "Qual é o maior edifício do mundo?",
+    "resposta": "O Burj Khalifa, em Dubai, é o edifício mais alto do planeta, com 828 metros. Sabia que sua ponta pode balançar até 1,5 metro por causa do vento?",
+    "palavras_chave": ["burj khalifa", "dubai", "edifício", "engenharia", "arquitetura"]
+  },
+  {
+    "pergunta": "Qual é o maior recorde de velocidade em uma bicicleta?",
+    "resposta": "A ciclista Denise Mueller-Korenek atingiu 296 km/h em uma bicicleta especial puxada por um carro para reduzir a resistência do ar! Sabia que ela quebrou o recorde anterior feito por um homem?",
+    "palavras_chave": ["bicicleta", "recorde", "denise mueller", "velocidade", "esporte"]
+  },
+  {
+    "pergunta": "Qual é o maior recorde de temperatura já registrado na Terra?",
+    "resposta": "A temperatura mais alta já registrada foi de 56,7°C, no Vale da Morte, Califórnia. Sabia que o local é tão quente que os pneus dos carros podem derreter no asfalto?",
+    "palavras_chave": ["vale da morte", "temperatura", "califórnia", "clima", "recorde"]
+  },
+  {
+    "pergunta": "Qual é o maior animal que já existiu?",
+    "resposta": "A baleia-azul é o maior animal conhecido da história da Terra, chegando a 30 metros de comprimento e 180 toneladas. Sabia que seu coração é do tamanho de um carro pequeno?",
+    "palavras_chave": ["baleia azul", "animal", "biologia", "oceano", "recorde"]
+  },
+  {
+    "pergunta": "Qual é a maior floresta tropical do planeta?",
+    "resposta": "A Floresta Amazônica é a maior do mundo, cobrindo nove países da América do Sul. Sabia que ela produz cerca de 20% do oxigênio da atmosfera terrestre?",
+    "palavras_chave": ["amazônia", "floresta", "ecossistema", "natureza", "oxigênio"]
+  },
+  {
+    "pergunta": "Qual é o recorde de salto mais alto feito por um ser humano?",
+    "resposta": "O recorde mundial de salto em altura é de 2,45 metros, estabelecido por Javier Sotomayor em 1993. Sabia que esse recorde permanece imbatível há mais de 30 anos?",
+    "palavras_chave": ["salto em altura", "javier sotomayor", "atletismo", "recorde", "esporte"]
+  },
+  {
+    "pergunta": "Qual é a maior ilha do mundo?",
+    "resposta": "A Groenlândia é a maior ilha do planeta, com mais de 2 milhões de km². Sabia que 80% dela é coberta por gelo?",
+    "palavras_chave": ["groenlândia", "ilha", "geografia", "gelo", "território"]
+  },
+  {
+    "pergunta": "Qual é o maior peixe do mundo?",
+    "resposta": "O tubarão-baleia é o maior peixe conhecido, chegando a 18 metros de comprimento. Sabia que ele é inofensivo e se alimenta de plâncton?",
+    "palavras_chave": ["tubarão-baleia", "peixe", "oceano", "biologia", "recorde"]
+  },
+  {
+    "pergunta": "Qual é o maior desfiladeiro do mundo?",
+    "resposta": "O Grand Canyon, nos Estados Unidos, é o maior e mais famoso desfiladeiro do planeta. Sabia que ele tem até 1,6 km de profundidade e se formou ao longo de milhões de anos?",
+    "palavras_chave": ["grand canyon", "geologia", "erosão", "natureza", "geografia"]
+  },
+  {
+    "pergunta": "Qual é a maior estrutura viva da Terra?",
+    "resposta": "A Grande Barreira de Corais, na Austrália, é a maior estrutura viva do planeta. Sabia que ela é visível até do espaço?",
+    "palavras_chave": ["grande barreira de corais", "austrália", "ecossistema", "oceano", "biologia"]
+  },
+  {
+    "pergunta": "Qual é o maior diamante já encontrado?",
+    "resposta": "O diamante Cullinan, descoberto na África do Sul, pesava mais de 3.100 quilates antes de ser cortado. Sabia que partes dele estão nas joias da coroa britânica?",
+    "palavras_chave": ["cullinan", "diamante", "africa do sul", "joias", "mineração"]
+  },
+  {
+    "pergunta": "Qual é a ponte mais longa do mundo?",
+    "resposta": "A ponte Danyang–Kunshan, na China, é a mais longa do mundo, com 164 km! Sabia que ela faz parte de uma linha de trem de alta velocidade?",
+    "palavras_chave": ["ponte", "china", "engenharia", "infraestrutura", "recorde"]
+  },
+  {
+    "pergunta": "Qual é o maior deserto do mundo?",
+    "resposta": "A Antártica é o maior deserto do planeta — sim, mesmo coberta de gelo, ela é considerada um deserto por ser extremamente seca. Sabia que algumas áreas lá nunca viram neve cair?",
+    "palavras_chave": ["antártica", "deserto", "gelo", "clima", "curiosidade"]
+  },
+  {
+    "pergunta": "Qual é o maior estádio do mundo em capacidade?",
+    "resposta": "O Estádio Rungrado 1º de Maio, na Coreia do Norte, é o maior do mundo, com capacidade para mais de 150 mil pessoas. Sabia que ele é usado tanto para esportes quanto para desfiles militares?",
+    "palavras_chave": ["estádio", "coreia do norte", "esporte", "arquitetura", "recorde"]
+  },
+  {
+    "pergunta": "Qual é o maior recorde de leitura rápida do mundo?",
+    "resposta": "Howard Berg, dos EUA, é considerado o leitor mais rápido do mundo, com velocidade de mais de 25.000 palavras por minuto! Sabia que ele também ensina técnicas para melhorar a compreensão e memória?",
+    "palavras_chave": ["leitura rápida", "howard berg", "memória", "aprendizado", "recorde"]
+  },
+  {
+    "pergunta": "Qual é o maior continente da Terra?",
+    "resposta": "A Ásia é o maior continente, ocupando cerca de 30% das terras emersas do planeta. Sabia que nela vivem mais de 4,5 bilhões de pessoas?",
+    "palavras_chave": ["ásia", "continente", "população", "geografia", "planeta"]
+  }
+]

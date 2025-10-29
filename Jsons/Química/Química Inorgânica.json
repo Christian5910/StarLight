@@ -1,0 +1,497 @@
+[
+  {
+    "pergunta": "O que é a Química Inorgânica e o que ela estuda?",
+    "resposta": "A Química Inorgânica é o ramo da química que foca no estudo dos compostos que, em geral, não possuem cadeias de carbono e hidrogênio, que são a base da química orgânica. Ela investiga a estrutura, propriedades e reatividade de todos os elementos da tabela periódica e seus compostos, incluindo metais, minerais, ácidos, bases e sais. Um exemplo clássico é o estudo do cloreto de sódio, o nosso sal de cozinha. A análise crítica mostra que, apesar da divisão histórica entre orgânica e inorgânica, essa fronteira é porosa, como nos compostos organometálicos. Sabia que a Química Inorgânica é fundamental para o desenvolvimento de novos materiais, como os semicondutores dos seus dispositivos eletrônicos?",
+    "palavras_chave": ["compostos inorgânicos", "tabela periódica", "metais", "reações", "materiais"]
+  },
+  {
+    "pergunta": "Por que a Tabela Periódica é organizada da forma que conhecemos?",
+    "resposta": "A Tabela Periódica não é organizada aleatoriamente; ela é um mapa que reflete a periodicidade das propriedades dos elementos. Os elementos são dispostos em ordem crescente de número atômico, e aqueles com propriedades químicas semelhantes ficam na mesma coluna, chamada de grupo ou família. Essa organização foi proposta principalmente por Dmitri Mendeleev, que teve a genialidade de deixar espaços vazios para elementos ainda não descobertos, prevendo inclusive suas propriedades. Por exemplo, todos os elementos do grupo 1, os metais alcalinos, são extremamente reativos com a água. Sabia que o elemento mais recente a ser batizado na tabela foi a Oganésson, em homenagem ao físico russo Yuri Oganessian?",
+    "palavras_chave": ["elementos", "número atômico", "periodicidade", "grupos", "mendeleev"]
+  },
+  {
+    "pergunta": "O que são ligações iônicas e como elas se formam?",
+    "resposta": "A ligação iônica é uma das principais forças que mantém os átomos unidos nos compostos inorgânicos. Ela ocorre através da transferência de elétrons, geralmente entre um metal, que tende a doar elétrons, e um ametal, que tende a recebê-los. O metal se transforma em um cátion, carregado positivamente, e o ametal vira um ânion, carregado negativamente. A atração eletrostática entre esses íons com cargas opostas é o que chamamos de ligação iônica. O cloreto de sódio é o exemplo mais didático: o sódio doa um elétron para o cloro. Sabia que os cristais formados por ligações iônicas, como o sal-gema, têm geralmente formatos geométricos bem definidos devido ao arranjo regular dos íons?",
+    "palavras_chave": ["transferência de elétrons", "cátion", "ânion", "compostos iônicos", "eletrostatica"]
+  },
+  {
+    "pergunta": "Como funcionam as ligações covalentes?",
+    "resposta": "Diferente da ligação iônica, a ligação covalente acontece quando dois átomos compartilham um ou mais pares de elétrons para alcançarem a estabilidade. Esse tipo de ligação é predominante entre ametais. Pense no gás oxigênio que respiramos, O₂. Cada átomo de oxigênio precisa de dois elétrons para ficar estável, então eles compartilham dois pares de elétrons, formando uma ligação dupla. A ligação covalente pode ser polar, se o compartilhamento não for igualitário, como na água, ou apolar, quando é igualitário, como no gás metano. Sabia que o diamante, a substância mais dura conhecida, é uma gigantesca rede de átomos de carbono interligados por ligações covalentes extremamente fortes?",
+    "palavras_chave": ["compartilhamento", "elétrons", "ametais", "moléculas", "polaridade"]
+  },
+  {
+    "pergunta": "O que são as Ligações Metálicas e por que os metais conduzem eletricidade?",
+    "resposta": "A ligação metálica é o 'cola' que mantém os átomos de um metal unidos. Imagine um arranjo ordenado de cátions, que são os átomos do metal que perderam elétrons. Em volta desses cátions, há uma 'nuvem' ou 'mar' de elétrons que estão deslocalizados, ou seja, não pertencem a nenhum átomo específico e se movem livremente por toda a estrutura do metal. É exatamente essa mobilidade dos elétrons que permite que os metais conduzam tão bem a eletricidade e o calor. Quando você aplica uma diferença de potencial, esses elétrons livres se movem ordenadamente, gerando a corrente elétrica. Sabia que o ouro é um condutor tão eficiente e resistente à corrosão que é usado em contatos elétricos de naves espaciais e componentes eletrônicos de alta precisão?",
+    "palavras_chave": ["elétrons livres", "cátions", "condutividade", "nuvem eletrônica", "metais"]
+  },
+  {
+    "pergunta": "O que define se uma substância é um ácido ou uma base?",
+    "resposta": "Existem algumas teorias para definir ácidos e bases. A mais comum, de Arrhenius, diz que ácido é uma substância que, em água, libera íons H+, enquanto a base libera íons OH-. Já a teoria de Brønsted-Lowry é mais abrangente: ácido é quem doa um próton, e base é quem recebe. Um exemplo prático é o ácido clorídrico do suco gástrico, um ácido forte, e o hidróxido de sódio da soda cáustica, uma base forte. A análise crítica mostra que nenhuma teoria é perfeita para todos os casos, mas a de Brønsted-Lowry é mais versátil. Sabia que a escala de pH que usamos para medir acidez foi concebida pelo químico dinamarquês Søren Sørensen para controlar a qualidade da cerveja durante sua produção?",
+    "palavras_chave": ["próton", "ph", "arrhenius", "brønsted-lowry", "neutralização"]
+  },
+  {
+    "pergunta": "O que são as Reações de Oxirredução?",
+    "resposta": "As reações de oxirredução, ou redox, são processos onde ocorre transferência de elétrons entre as espécies químicas. Elas são duplas: uma substância sofre oxidação, que é a perda de elétrons, e outra sofre redução, que é o ganho desses elétrons. Um exemplo cotidiano é a ferrugem: o ferro metálico é oxidado pelo oxigênio do ar. A análise crítica revela que essas reações são a base das pilhas e baterias, onde a transferência controlada de elétrons gera energia elétrica. Sabia que a respiração celular, processo vital para nós, é uma complexa reação de oxirredução onde nosso 'combustível' é a glicose e o 'comburente' é o oxigênio?",
+    "palavras_chave": ["oxidação", "redução", "elétrons", "pilhas", "ferrugem"]
+  },
+  {
+    "pergunta": "Para que servem os Catalisadores?",
+    "resposta": "Catalisadores são substâncias incríveis que aceleram uma reação química sem serem consumidos no processo. Eles funcionam oferecendo um 'caminho alternativo' para a reação acontecer, um caminho que requer menos energia para ser iniciado, a chamada energia de ativação. Pense neles como facilitadores. Na indústria automotiva, o catalisador do carro transforma gases tóxicos, como o monóxido de carbono, em substâncias menos nocivas, como o dióxido de carbono. Uma observação importante é que os catalisadores são específicos, ou seja, cada reação geralmente requer seu próprio catalisador. Sabia que as enzimas do nosso corpo são catalisadores biológicos fantásticos, permitindo que reações vitais ocorram em frações de segundo e em condições amenas de temperatura?",
+    "palavras_chave": ["energia de ativação", "velocidade", "reação", "enzimas", "cinética"]
+  },
+  {
+    "pergunta": "O que são Sais e onde os encontramos no dia a dia?",
+    "resposta": "Quimicamente, os sais são compostos iônicos resultantes da reação entre um ácido e uma base, num processo chamado neutralização. Eles são formados por cátions de uma base e ânions de um ácido. O mais conhecido é o cloreto de sódio, nosso sal de cozinha. Mas existem muitos outros: o carbonato de cálcio é o principal componente do mármore e das cascas de ovo; o bicarbonato de sódio é usado em fermentos e antiácidos; e o nitrato de potássio é um componente da pólvora. Sabia que o sulfato de cálcio di-hidratado é o famoso gesso, amplamente utilizado na construção civil e ortopedia?",
+    "palavras_chave": ["neutralização", "compostos iônicos", "cloreto de sódio", "cátion", "ânion"]
+  },
+  {
+    "pergunta": "O que são os Óxidos?",
+    "resposta": "Óxidos são compostos binários formados por oxigênio e outro elemento. Eles são surpreendentemente diversos em seu comportamento. Temos os óxidos ácidos, como o CO₂, que em água forma um ácido fraco; os óxidos básicos, como o CaO, que reagem com água formando bases; e os óxidos anfóteros, como o Al₂O₃, que podem se comportar como ácido ou base. O óxido de ferro III, a ferrugem, é um exemplo de óxido básico. Sabia que o peróxido de hidrogênio, a água oxigenada, é um tipo especial de óxido que possui oxigênio numa forma altamente reativa, sendo um poderoso agente branqueador e antisséptico?",
+    "palavras_chave": ["oxigênio", "binários", "ácidos", "básicos", "anfóteros"]
+  },
+  {
+    "pergunta": "O que são as Funções Inorgânicas?",
+    "resposta": "As funções inorgânicas são grupos de compostos inorgânicos que compartilham propriedades químicas semelhantes. É uma forma de organizar e prever o comportamento de milhares de substâncias. As quatro principais funções são: Ácidos, Bases, Sais e Óxidos. Por exemplo, todo ácido em água tem sabor azedo e conduz corrente elétrica. Já as bases tendem a ter sabor adstringente e ser escorregadias ao tato, como o sabão. Classificar um composto em uma função ajuda a prever como ele vai reagir. Sabia que a Química Inorgânica lida com um número muito maior de elementos do que a Orgânica, mas as funções servem justamente para simplificar esse estudo?",
+    "palavras_chave": ["funções", "ácidos", "bases", "sais", "óxidos"]
+  },
+  {
+    "pergunta": "Como a Eletronegatividade influencia as ligações químicas?",
+    "resposta": "A eletronegatividade é a 'força de atração' que um átomo exerce sobre os elétrons de uma ligação. É como um cabo de guerra pelos elétrons. Ela é crucial para determinar o tipo de ligação que se formará. Se a diferença de eletronegatividade entre dois átomos for grande, como entre sódio e cloro, a ligação será iônica. Se for pequena ou zero, como entre dois átomos de oxigênio, a ligação será covalente. E se for intermediária, como entre oxigênio e hidrogênio na água, a ligação será covalente polar. Sabia que o flúor é o elemento mais eletronegativo da tabela periódica, tornando-o um oxidante extremamente poderoso?",
+    "palavras_chave": ["eletronegatividade", "ligaçao iônica", "ligaçao covalente", "polar", "átomo"]
+  },
+  {
+    "pergunta": "O que é a Regra do Octeto?",
+    "resposta": "A Regra do Octeto é uma 'regra prática' que diz que os átomos tendem a ganhar, perder ou compartilhar elétrons de modo a ficarem com oito elétrons na sua camada de valência, adquirindo assim uma configuração eletrônica estável, semelhante à dos gases nobres. É por isso que o sódio doa um elétron e o cloro recebe um. No entanto, é importante fazer uma análise crítica: a Regra do Octeto tem várias exceções. Alguns átomos, como o hidrogênio, ficam estáveis com dois elétrons. Outros, como o fósforo e o enxofre, podem expandir o octeto. Sabia que o primeiro a propor uma ideia semelhante à regra do octeto foi Gilbert N. Lewis, que a representou com os seus famosos diagramas de pontos?",
+    "palavras_chave": ["elétrons", "camada de valência", "estabilidade", "gases nobres", "exceções"]
+  },
+  {
+    "pergunta": "O que são Compostos de Coordenação?",
+    "resposta": "Também conhecidos como complexos, os compostos de coordenação são estruturas formadas por um átomo ou íon central metálico, cercado por um conjunto de moléculas ou íons chamados de ligantes. A ligação entre o metal e o ligante é uma ligação covalente coordenada, onde o par de elétrons é doado apenas pelo ligante. Um exemplo belíssimo é o íon complexo [Fe(CN)₆]⁴⁻, presente no azul da Prússia, um pigmento histórico. Esses compostos são essenciais na natureza: a hemoglobina do nosso sangue é um complexo de ferro, e a clorofila das plantas é um complexo de magnésio. Sabia que a química de coordenação foi pioneiramente estudada por Alfred Werner, que ganhou o Prêmio Nobel de Química em 1913 por seu trabalho?",
+    "palavras_chave": ["complexos", "íon central", "ligantes", "ligaçao coordenada", "alfred werner"]
+  },
+  {
+    "pergunta": "Como funciona uma Pilha Eletroquímica?",
+    "resposta": "Uma pilha é um dispositivo que transforma energia química em energia elétrica através de uma reação espontânea de oxirredução. Ela é composta por dois eletrodos mergulhados em soluções eletrolíticas. O ânodo é onde ocorre a oxidação, e é o polo negativo. O cátodo é onde ocorre a redução, e é o polo positivo. Os elétrons 'saem' do ânodo, percorrem o circuito externo realizando trabalho, e 'entram' no cátodo. A pilha de Daniel, com eletrodos de zinco e cobre, é um exemplo clássico. Sabia que a primeira pilha da história foi construída por Alessandro Volta em 1800, empilhando discos de zinco e cobre separados por tecido embebido em salmoura, e por isso o nome 'pilha'?",
+    "palavras_chave": ["eletrodos", "ânodo", "cátodo", "oxirredução", "volta"]
+  },
+  {
+    "pergunta": "O que é Eletrólise?",
+    "resposta": "A eletrólise é o processo inverso ao de uma pilha. Enquanto a pilha usa uma reação espontânea para gerar eletricidade, a eletrólise usa energia elétrica para forçar uma reação não espontânea de oxirredução a acontecer. É como 'empurrar os elétrons contra a vontade' do sistema. Ela tem inúmeras aplicações industriais, como a obtenção de metais puros a partir de seus minérios. Por exemplo, o alumínio é obtido pela eletrólise da bauxita fundida. Também é usada no niquelagem e cromagem de peças. Sabia que a eletrólise da água é um processo simples que a decompõe em gás hidrogênio e gás oxigênio?",
+    "palavras_chave": ["eletrólise", "não espontânea", "eletricidade", "reação", "aplicações industriais"]
+  },
+  {
+    "pergunta": "O que são os Gases Nobres e por que são estáveis?",
+    "resposta": "Os gases nobres são uma família especial, o Grupo 18 da Tabela Periódica. Eles incluem o hélio, neônio, argônio, criptônio, xenônio e radônio. A característica marcante deles é a sua extrema estabilidade e baixíssima reatividade. Por muito tempo, acreditou-se que eles não formavam compostos, daí o nome 'nobres', numa analogia aos metais nobres que não reagem facilmente. Essa estabilidade vem do fato de possuírem a camada de valência completa: dois elétrons no caso do hélio, e oito para os demais. Sabia que, contrariando a crença inicial, em 1962 Neil Bartlett sintetizou o primeiro composto de gás nobre, o hexafluoroplatinato de xenônio, abrindo um novo campo de pesquisa?",
+    "palavras_chave": ["estabilidade", "grupo 18", "reatividade", "camada completa", "néon"]
+  },
+  {
+    "pergunta": "O que são Metais Alcalinos e por que são tão reativos?",
+    "resposta": "Os metais alcalinos são os elementos do Grupo 1 da Tabela Periódica: lítio, sódio, potássio, rubídio, césio e frâncio. Eles são metais macios, de baixa densidade e incrivelmente reativos. A razão para essa reatividade explosiva é que eles possuem apenas um elétron na camada de valência. Eles 'querem' doar esse elétron para ficarem com a configuração de um gás nobre. Essa doação é tão favorável que reagem violentamente com a água, por exemplo, liberando hidrogênio e podendo até incendiar. Por isso, são armazenados em querosene ou óleo. Sabia que o frâncio, o mais pesado e raro dos alcalinos, é tão radioativo que praticamente não existe na natureza e seus compostos nunca foram isolados em quantidades visíveis?",
+    "palavras_chave": ["grupo 1", "reatividade", "um elétron", "sódio", "lítio"]
+  },
+  {
+    "pergunta": "O que são Metais Alcalino-Terrosos?",
+    "resposta": "Os metais alcalino-terrosos ocupam o Grupo 2 da Tabela Periódica. São eles: berílio, magnésio, cálcio, estrôncio, bário e rádio. Eles são um pouco menos reativos que os alcalinos, mas ainda assim são bastante reativos. Eles possuem dois elétrons na camada de valência, que tendem a perder, formando cátions com carga +2. O magnésio é essencial para a vida, fazendo parte da clorofila. O cálcio é um componente fundamental de ossos e conchas, na forma de carbonato de cálcio. O estrôncio é usado em fogos de artifício para dar a cor vermelha. Sabia que o rádio, descoberto por Marie Curie, é radioativo e sua luminescência no escuro já foi usada para pintar mostradores de relógios, uma prática perigosa abandonada hoje?",
+    "palavras_chave": ["grupo 2", "dois elétrons", "cálcio", "magnésio", "reatividade"]
+  },
+  {
+    "pergunta": "O que são os Halogênios?",
+    "resposta": "Os halogênios são os elementos do Grupo 17: flúor, cloro, bromo, iodo e astato. O nome vem do grego e significa 'formador de sal', e eles são ametais extremamente reativos. Eles possuem sete elétrons na camada de valência, então tendem a ganhar um elétron para completar o octeto, formando ânions com carga -1. O flúor é o mais reativo de todos. O cloro é um gás amarelo-esverdeado usado para purificar água. O bromo é um dos únicos dois elementos líquidos à temperatura ambiente. O iodo é um sólido escuro que sublima, formando um vapor violeta. Sabia que a deficiência de iodo na dieta pode levar ao bócio, um aumento da glândula tireoide, motivo pelo qual o sal de cozinha é frequentemente iodado?",
+    "palavras_chave": ["grupo 17", "sete elétrons", "ametais", "cloro", "flúor"]
+  },
+  {
+    "pergunta": "O que são os Metais de Transição?",
+    "resposta": "Os metais de transição são aqueles localizados no bloco d da Tabela Periódica, dos grupos 3 ao 12. Eles incluem elementos bem conhecidos como ferro, cobre, ouro, prata e níquel. O que os torna especiais é o preenchimento progressivo dos orbitais d, o que lconfere propriedades únicas: geralmente são bons condutores, têm altos pontos de fusão e, uma característica marcante, frequentemente formam compostos coloridos. O sulfato de cobre é azul, o dicromato de potássio é laranja. Essa coloração vem da absorção de luz durante transições de elétrons nos orbitais d. Sabia que o ouro é um metal de transição tão maleável que pode ser batido em folhas tão finas que se tornam semi-transparentes, chamadas de ouro batido?",
+    "palavras_chave": ["bloco d", "orbitais", "compostos coloridos", "ferro", "cobre"]
+  },
+  {
+    "pergunta": "O que é o Número de Oxidação?",
+    "resposta": "O número de oxidação, ou NOX, é um valor hipotético que representa a carga que um átomo teria se todos os seus ligantes fossem removidos, junto com os pares de elétrons da ligação. É uma ferramenta contábil essencial para balancear equações de oxirredução e entender a química dos elementos. Em uma substância simples, como o O₂, o NOX é zero. No íon sódio, Na+, é +1. No íon cloreto, Cl-, é -1. A soma dos NOX de todos os átomos em um composto neutro deve ser zero, e em um íon, deve ser igual à carga do íon. Sabia que o maior número de oxidação conhecido para qualquer elemento é +9, observado no íon tetraóxido de irídio, um feito recente e notável da química?",
+    "palavras_chave": ["nox", "carga", "oxirredução", "balanceamento", "íon"]
+  },
+  {
+    "pergunta": "O que é a Geometria Molecular?",
+    "resposta": "A geometria molecular descreve a forma tridimensional como os átomos estão dispostos em uma molécula. Ela não é aleatória; é determinada pela Teoria da Repulsão dos Pares Eletrônicos da Camada de Valência. Segundo essa teoria, os pares de elétrons, sejam eles ligantes ou não ligantes, ao redor do átomo central se repelem e se posicionam o mais longe possível uns dos outros. Isso define formas como linear, angular, trigonal plana, tetraédrica, piramidal e bipirâmide trigonal. A geometria é crucial porque define propriedades como a polaridade da molécula. Sabia que a forma angular da molécula de água é a responsável por ela ser uma molécula polar, o que explica por que ela é um solvente universal tão eficiente?",
+    "palavras_chave": ["geometria", "repulsão", "átomo central", "polaridade", "vsepr"]
+  },
+  {
+    "pergunta": "O que são as Propriedades Periódicas?",
+    "resposta": "As propriedades periódicas são aquelas que variam de forma previsível e repetitiva ao longo dos períodos e grupos da Tabela Periódica. Elas estão intimamente ligadas à configuração eletrônica dos elementos. As principais são: raio atômico, energia de ionização, afinidade eletrônica e eletronegatividade. Por exemplo, o raio atômico geralmente aumenta de cima para baixo em um grupo e diminui da esquerda para a direita em um período. Já a eletronegatividade faz o oposto. Entender essas tendências permite prever o comportamento químico de um elemento. Sabia que o césio, no canto inferior esquerdo da tabela, é o elemento com maior raio atômico e menor energia de ionização, tornando-o um dos mais reativos?",
+    "palavras_chave": ["propriedades", "tendências", "raio atômico", "energia de ionização", "configuração eletrônica"]
+  },
+  {
+    "pergunta": "O que é um Complexo Ativado?",
+    "resposta": "O complexo ativado, ou estado de transição, é uma configuração extremamente instável e de alta energia que os reagentes assumem no exato momento em que estão se transformando em produtos. É o ponto mais alto da 'colina de energia' que uma reação química precisa ultrapassar. Pense nele como um arranjo intermediário onde as ligações antigas estão enfraquecendo, mas as novas ligações ainda não se formaram completamente. Ele não pode ser isolado ou observado diretamente devido à sua vida curta. A energia necessária para alcançar esse estado é a energia de ativação. Sabia que os catalisadores funcionam justamente fornecendo um caminho de reação alternativo que tem um complexo ativado de energia mais baixa, facilitando a ocorrência da reação?",
+    "palavras_chave": ["estado de transição", "energia de ativação", "instável", "reação", "caminho alternativo"]
+  },
+  {
+    "pergunta": "O que são as reações de dupla-troca e quando elas ocorrem?",
+    "resposta": "As reações de dupla-troca são aquelas em que dois compostos iônicos em solução aquosa 'trocam' seus íons, formando dois novos compostos. Para que essa reação realmente aconteça e não seja apenas uma troca teórica, é necessário que um dos produtos formados seja pouco solúvel, formando um precipitado, ou um gás, ou uma substância molecular fraca, como a água. Um exemplo clássico é a reação entre nitrato de prata e cloreto de sódio, que forma um precipitado branco de cloreto de prata. Sabia que a formação de cálculos renais de oxalato de cálcio é um exemplo indesejado de uma reação de dupla-troca ocorrendo dentro do nosso corpo?",
+    "palavras_chave": ["precipitado", "solução aquosa", "troca de íons", "solubilidade", "produtos"]
+  },
+  {
+    "pergunta": "O que é a Lei de Hess e para que ela serve?",
+    "resposta": "A Lei de Hess é um princípio fundamental da Termoquímica que afirma: 'A variação de entalpia de uma reação química depende apenas dos estados inicial e final do sistema, sendo independente do caminho percorrido.' Em termos práticos, isso significa que se uma reação pode ocorrer em várias etapas, a soma das variações de entalpia de cada etapa será igual à variação de entalpia da reação global. É como subir uma montanha: não importa se você vai por um caminho direto ou cheio de zigue-zagues, o desnível total será o mesmo. Sabia que Germain Hess, o químico suíço-russo que formulou essa lei, fez suas descobertas importantes enquanto dava aulas na Universidade de São Petersburgo?",
+    "palavras_chave": ["termoquímica", "entalpia", "variação energética", "etapas", "estado final"]
+  },
+  {
+    "pergunta": "O que são os estados de oxidação anômalos?",
+    "resposta": "Os estados de oxidação anômalos, ou não usuais, são aqueles que um elemento apresenta em certos compostos e que fogem à tendência mais comum observada na Tabela Periódica. Geralmente ocorrem quando o elemento está ligado a átomos muito eletronegativos, como oxigênio ou flúor, que forçam o elemento a 'ceder' mais elétrons do que normalmente faria. Um exemplo famoso é o enxofre no ácido perssulfúrico, que tem NOX +6, ou o oxigênio nos peróxidos, com NOX -1, em vez do usual -2. Sabia que o flúor, por ser o elemento mais eletronegativo, é o único que sempre apresenta número de oxidação negativo, geralmente -1?",
+    "palavras_chave": ["nox", "eletronegatividade", "incomum", "compostos", "tendência"]
+  },
+  {
+    "pergunta": "Como funcionam as ligações de hidrogênio?",
+    "resposta": "A ligação de hidrogênio é uma força intermolecular especial, significativamente mais forte que as forças de dipolo-dipolo comuns, mas mais fraca que uma ligação covalente ou iônica. Ela ocorre quando um átomo de hidrogênio, que está covalentemente ligado a um átomo pequeno e muito eletronegativo como flúor, oxigênio ou nitrogênio, é atraído por um par de elétrons isolados de outro átomo eletronegativo. É essa ligação que explica propriedades anômalas da água, como seu alto ponto de ebulição. Sabia que a dupla hélice do DNA é mantida unida por pontes de hidrogênio entre as bases nitrogenadas, e que é justamente a quebra dessas ligações que ocorre na desnaturação do DNA?",
+    "palavras_chave": ["força intermolecular", "hidrogênio", "eletronegatividade", "água", "dna"]
+  },
+  {
+    "pergunta": "O que são os coloides e como eles diferem de soluções e suspensões?",
+    "resposta": "Coloides são sistemas intermediários entre soluções verdadeiras e suspensões. Num coloide, as partículas da substância dispersa têm tamanho entre 1 e 1000 nanômetros, sendo pequenas demais para serem vistas a olho nu, mas grandes o suficiente para espalhar a luz, o que chamamos de Efeito Tyndall. Enquanto em uma solução as partículas são moléculas ou íons e em uma suspensão são grandes e se sedimentam, nos coloides as partículas ficam dispersas de forma estável. Exemplos comuns são o leite, a maionese e a neblina. Sabia que o céu azul é um exemplo natural do Efeito Tyndall? As moléculas de ar espalham preferencialmente a luz azul, dando a cor ao céu durante o dia.",
+    "palavras_chave": ["coloides", "efeito tyndall", "dispersão", "partículas", "soluções"]
+  },
+  {
+    "pergunta": "O que é o Efeito Fotoelétrico e qual sua relação com a Química?",
+    "resposta": "O Efeito Fotoelétrico é a emissão de elétrons por um material, geralmente metálico, quando exposto à luz. Embora seja um fenômeno fundamental da Física Quântica, ele tem profundas implicações na Química, particularmente na compreensão da estrutura atômica e no desenvolvimento da Espectroscopia. A explicação de Einstein para esse efeito, que lhe rendeu o Nobel, mostrou que a luz se comporta como partícula, o fóton, e que a energia é quantizada. Isso ajudou a entender como os elétrons nos átomos absorvem e emitem energia. Sabia que os sensores de portas automáticas e as células fotovoltaicas, que convertem luz solar em eletricidade, são aplicações práticas diretas do efeito fotoelétrico?",
+    "palavras_chave": ["elétrons", "fóton", "quantização", "metais", "espectroscopia"]
+  },
+  {
+    "pergunta": "O que é a Eletroquímica Analítica?",
+    "resposta": "A Eletroquímica Analítica é um ramo da química analítica que utiliza fenômenos elétricos para identificar e quantificar espécies químicas. Ela se baseia na medição de grandezas como potencial, corrente, carga ou resistência em sistemas eletroquímicos. Técnicas como a potenciometria, usada em medidores de pH, a voltametria e a condutometria são exemplos. A grande vantagem é a alta sensibilidade e a capacidade de analisar amostras complexas, como fluidos biológicos. Sabia que o bafômetro, dispositivo usado para dosar o etanol no ar expirado, é um instrumento de eletroquímica analítica que mede a corrente gerada pela oxidação do álcool?",
+    "palavras_chave": ["análise", "potencial", "corrente", "sensibilidade", "bafômetro"]
+  },
+  {
+    "pergunta": "O que são os compostos intersticiais?",
+    "resposta": "Compostos intersticiais são uma classe de materiais formados quando átomos pequenos, como hidrogênio, boro, carbono ou nitrogênio, se alojam nos interstícios, ou seja, nos 'espaços vazios' entre os átomos de uma rede cristalina metálica. O metal hospedeiro geralmente é um metal de transição. Esses compostos mantêm muitas propriedades metálicas, como brilho e condutividade elétrica, mas tornam-se muito mais duros e frágeis. O aço, uma liga de ferro e carbono, é o exemplo mais importante e ubíquo de composto intersticial. Sabia que os hidretos metálicos, usados para armazenar hidrogênio de forma segura em células combustíveis, são exemplos de compostos intersticiais?",
+    "palavras_chave": ["interstícios", "rede cristalina", "metal", "dureza", "aço"]
+  },
+  {
+    "pergunta": "O que é a Química Bioinorgânica?",
+    "resposta": "A Química Bioinorgânica é um campo fascinante que estuda o papel dos elementos inorgânicos nos processos biológicos. Ela investiga como íons metálicos e outros elementos são incorporados, transportados e utilizados pelos seres vivos. Exemplos notáveis incluem o ferro na hemoglobina, que transporta oxigênio; o magnésio no centro da clorofila, essencial para a fotossíntese; o zinco em diversas enzimas; e o cálcio na estrutura de ossos e dentes. Sabia que o cobalto é um componente central da vitamina B12, sendo absolutamente essencial para a nossa saúde, e sua deficiência pode causar anemia perniciosa?",
+    "palavras_chave": ["bioinorgânica", "metais biológicos", "enzimas", "hemoglobina", "processos biológicos"]
+  },
+  {
+    "pergunta": "O que são os ácidos de Lewis?",
+    "resposta": "Segundo a definição mais abrangente de Gilbert N. Lewis, um ácido é qualquer espécie química que pode aceitar um par de elétrons para formar uma ligação covalente coordenada. Diferente da teoria de Brønsted-Lowry, que se foca em prótons, a teoria de Lewis não envolve necessariamente a transferência de H+. Um íon metálico positivo, como o Al³⁺, é um ácido de Lewis típico, pois tem orbitais vazios que podem receber um par de elétrons. Já a amônia, com seu par de elétrons isolado, é uma base de Lewis. Sabia que o cloreto de alumínio, AlCl₃, é um ácido de Lewis extremamente importante e é usado como catalisador em reações industriais, como a alquilação de Friedel-Crafts?",
+    "palavras_chave": ["par de elétrons", "aceptor", "ligaçao coordenada", "gilbert lewis", "catalisador"]
+  },
+  {
+    "pergunta": "O que é a Química do Estado Sólido?",
+    "resposta": "A Química do Estado Sólido, ou Química de Sólidos, é a área que estuda a síntese, estrutura, propriedades e aplicações de materiais sólidos. Ela vai além da simples composição química, focando na how the atoms are arranged in the solid—the crystal structure—and how this arrangement affects properties like electrical conductivity, magnetism, and mechanical strength. Materiais como cerâmicas, semicondutores, supercondutores e zeólitas são objetos de estudo desta área. Sabia que os LEDs, que revolucionaram a iluminação, são um produto direto do avanço da química do estado sólido, envolvendo a criação de semicondutores com 'band gaps' específicos que emitem luz de cores definidas?",
+    "palavras_chave": ["sólidos", "estrutura cristalina", "materiais", "semicondutores", "propriedades"]
+  },
+  {
+    "pergunta": "O que são as zeólitas e para que servem?",
+    "resposta": "Zeólitas são minerais aluminossilicatos microporosos, caracterizados por uma estrutura cristalina com cavidades e canais de tamanhos muito precisos. Elas são como 'peneiras moleculares' naturais ou sintéticas. Sua aplicação é vastíssima: são usadas como catalisadores na indústria petroquímica para craqueamento do petróleo, como trocadores iônicos em amaciantes de água, e como adsorventes para purificação de gases e líquidos. A análise crítica mostra que a capacidade de 'escolher' quais moléculas entram e saem de seus poros é a chave de sua utilidade. Sabia que as zeólitas sintéticas são componentes cruciais nas lavadoras de roupas, onde atuam no amaciante, sequestrando íons de cálcio e magnésio da água dura, permitindo que o sabão faça mais espuma?",
+    "palavras_chave": ["zeólitas", "aluminossilicatos", "peneiras moleculares", "catalisadores", "adsorventes"]
+  },
+  {
+    "pergunta": "O que é o Efeito do Íon Comum?",
+    "resposta": "O Efeito do Íon Comum é uma consequência do Princípio de Le Chatelier que ocorre em equilíbrios iônicos. Ele descreve a diminuição da solubilidade de um sal pouco solúvel quando adicionamos à solução outro sal que tenha um íon em comum com ele. Por exemplo, a solubilidade do cloreto de prata é muito menor em uma solução de cloreto de sódio do que em água pura. Isso acontece porque a adição do íon cloreto comum desloca o equilíbrio de dissolução do AgCl no sentido de formar mais precipitado. Sabia que esse efeito é explorado na purificação do sal de cozinha, onde a adição de íons cálcio precipita impurezas como sulfato na forma de sulfato de cálcio, que é menos solúvel?",
+    "palavras_chave": ["solubilidade", "equilíbrio iônico", "le chatelier", "precipitação", "sal pouco solúvel"]
+  },
+  {
+    "pergunta": "O que são os compostos organometálicos?",
+    "resposta": "Os compostos organometálicos são moléculas que contêm pelo menos uma ligação direta entre um átomo de metal de transição e um átomo de carbono de um grupo orgânico. Eles são a ponte entre a química orgânica e a inorgânica. Um exemplo clássico é o pentacarbonila de ferro, Fe(CO)₅. Esses compostos são extraordinariamente importantes na catálise homogênea, onde o catalisador e os reagentes estão na mesma fase. Sabia que os catalisadores de Ziegler-Natta, usados para produzir polietileno e polipropileno em escala industrial — os plásticos mais comuns do mundo — são baseados em compostos organometálicos de titânio e alumínio?",
+    "palavras_chave": ["organometálicos", "ligaçao metal-carbono", "catálise homogênea", "transição", "ziegler-natta"]
+  },
+  {
+    "pergunta": "O que é a Química Verde?",
+    "resposta": "A Química Verde, ou Química Sustentável, é uma filosofia e uma prática que busca projetar produtos e processos químicos que reduzam ou eliminem o uso e a geração de substâncias perigosas. Ela é guiada por 12 princípios, que incluem a prevenção de resíduos, o design de produtos e processos mais seguros, o uso de fontes renováveis e a minimização do consumo energético. Não se trata de uma área da química, mas de uma nova maneira de pensar e fazer química. Sabia que o desenvolvimento de solventes 'verdes', como o dióxido de carbono supercrítico, que substitui solventes orgânicos tóxicos na extração de cafeína do café, é um triunfo da Química Verde?",
+    "palavras_chave": ["sustentabilidade", "prevenção", "solventes verdes", "processos", "12 princípios"]
+  },
+  {
+    "pergunta": "O que é a Química Supramolecular?",
+    "resposta": "A Química Supramolecular é a 'química além da molécula'. Ela estuda as entidades complexas formadas pela associação de duas ou mais moléculas através de ligações não covalentes, como ligações de hidrogênio, forças de van der Waals, interações π-π e efeitos hidrofóbicos. É a química das interações moleculares. Sistemas hospedeiro-hóspede, como os ciclodextrinas que encapsulam moléculas, são exemplos clássicos. Sabia que a capacidade do nosso DNA de se auto-replicar e de ser 'lido' pelas enzimas é um fenômeno supramolecular complexo e altamente específico, governado pelo reconhecimento molecular entre as bases?",
+    "palavras_chave": ["supramolecular", "ligaçao não covalente", "reconhecimento molecular", "hospedeiro-hóspede", "auto-organização"]
+  },
+  {
+    "pergunta": "O que são os materiais cerâmicos?",
+    "resposta": "Materiais cerâmicos são compostos inorgânicos, não metálicos, geralmente obtidos através de tratamento térmico em altas temperaturas. Eles podem ser cristalinos ou parcialmente cristalinos. Tradicionalmente, incluem a argila, a porcelana e o vidro. Modernamente, a classe se expandiu para incluir cerâmicas avançadas com propriedades especiais, como a alumina, usada em implantes ortopédicos por sua biocompatibilidade, a zirconia, usada como joia sintética, e os supercondutores de alta temperatura. Sabia que os tijolos do ônibus espacial, que protegem a nave do intenso calor da reentrada na atmosfera, são feitos de uma cerâmica avançada de sílica extremamente porosa e com baixa condutividade térmica?",
+    "palavras_chave": ["cerâmicas", "inorgânicos", "altas temperaturas", "materiais avançados", "biocompatibilidade"]
+  },
+  {
+    "pergunta": "O que é a Química Nuclear e como ela difere da Química 'comum'?",
+    "resposta": "A Química Nuclear é o ramo que estuda as reações que envolvem mudanças no núcleo atômico, em contraste com a química 'comum' que lida com reações que envolvem os elétrons da periferia do átomo. Enquanto as reações químicas comuns liberam ou absorvem da ordem de eV a centenas de kJ/mol, as reações nucleares envolvem energias milhões de vezes maiores. A Química Nuclear lida com fenômenos como radioatividade, fissão nuclear, fusão nuclear e a síntese de novos elementos. Sabia que os elementos mais pesados que o urânio na Tabela Periódica, chamados de elementos transurânicos, não são encontrados na natureza e só podem ser sintetizados em aceleradores de partículas através de reações nucleares?",
+    "palavras_chave": ["núcleo atômico", "radioatividade", "fissão", "fusão", "elementos transurânicos"]
+  },
+  {
+    "pergunta": "O que é a Química Computacional?",
+    "resposta": "A Química Computacional é uma área que utiliza simulações computacionais, baseadas em leis da física química, para resolver problemas químicos. Ela permite prever estruturas moleculares, energias de reação, espectros e propriedades de materiais sem a necessidade de realizar o experimento no laboratório. Utiliza desde métodos simples baseados na mecânica clássica até métodos quânticos sofisticados, como a Teoria do Funcional da Densidade. É uma ferramenta indispensável para o desenvolvimento de novos fármacos e materiais. Sabia que o prêmio Nobel de Química de 2013 foi concedido a Martin Karplus, Michael Levitt e Arieh Warshel pelo desenvolvimento de modelos multiescala para sistemas químicos complexos, unindo a física quântica e a clássica?",
+    "palavras_chave": ["computacional", "simulações", "métodos quânticos", "previsão", "modelagem"]
+  },
+  {
+    "pergunta": "O que são os líquidos iônicos?",
+    "resposta": "Líquidos iônicos são sais que são líquidos em temperaturas relativamente baixas, geralmente abaixo de 100°C. Diferente dos sais comuns, que são sólidos e têm pontos de fusão altíssimos, os líquidos iônicos são formados por íons grandes e assimétricos, que impedem uma empacotamento eficiente, mantendo-se líquidos. Eles possuem propriedades notáveis: pressão de vapor desprezível, não são inflamáveis, são bons condutores elétricos e podem ser 'desenhados' para tarefas específicas. Sabia que os líquidos iônicos são apelidados de 'solventes projetáveis' e são pesquisados como substitutos ecológicos para solventes orgânicos voláteis em processos industriais?",
+    "palavras_chave": ["líquidos iônicos", "sais", "baixa temperatura", "solventes", "pressão de vapor"]
+  },
+  {
+    "pergunta": "O que é a Química de Coordenação e quem foi seu pioneiro?",
+    "resposta": "A Química de Coordenação é o ramo que estuda os compostos de coordenação, aqueles que possuem um íon metálico central ligado a um conjunto de moléculas ou íons chamados ligantes. O grande pioneiro e arquiteto desta área foi o químico suíço Alfred Werner. No final do século XIX, ele propôs uma teoria revolucionária para explicar a estrutura e a isomeria de compostos como o cloreto de cobalto amoniacal, introduzindo os conceitos de número de coordenação e geometria ao redor do metal. Sabia que Alfred Werner recebeu o Prêmio Nobel de Química de 1913 especificamente por seu trabalho sobre a ligação dos átomos em moléculas, que lançou as bases da química de coordenação moderna?",
+    "palavras_chave": ["coordenação", "alfred werner", "ligantes", "número de coordenação", "isomeria"]
+  },
+  {
+    "pergunta": "O que são os fulerenos?",
+    "resposta": "Fulerenos são uma das formas alotrópicas do carbono, descobertas em 1985. A molécula mais famosa é o C60, que tem um formato icosaédrico truncado, assemelhando-se a uma bola de futebol. É uma gaiola oca composta por 60 átomos de carbono, organizados em pentágonos e hexágonos. Eles são a base da nanquímica e abriram um novo campo de pesquisa em materiais de carbono. Por serem ocos, podem encapsular outros átomos no seu interior, formando os chamados endohedral fullerenes. Sabia que a descoberta dos fulerenos valeu o Prêmio Nobel de Química de 1996 para Robert Curl, Harold Kroto e Richard Smalley, e seu nome é uma homenagem ao arquiteto Buckminster Fuller, famoso por suas cúpulas geodésicas?",
+    "palavras_chave": ["fulerenos", "carbono", "alótropos", "c60", "nanotecnologia"]
+  },
+  {
+    "pergunta": "O que é a Química de Ácidos e Bases de Lux-Flood?",
+    "resposta": "A definição de ácido e base de Lux-Flood é especialmente útil na Química de Sólidos e no estudo de óxidos em altas temperaturas. Nessa definição, um ácido é um aceitador de íons óxido, e uma base é um doador de íons óxido. Por exemplo, na reação entre a sílica e a cal para formar silicato de cálcio, a sílica age como um ácido de Lux-Flood, aceitando o íon O²⁻ da cal, que atua como base. Essa definição é poderosa para entender reações em metalurgia e na formação de escórias. Sabia que essa definição é fundamental para a indústria do vidro, onde a sílica é o ácido principal e os óxidos metálicos atuam como bases para modificar as propriedades do material fundido?",
+    "palavras_chave": ["lux-flood", "íon óxido", "aceitador", "doador", "sólidos"]
+  },
+  {
+    "pergunta": "O que é a Química dos Materiais?",
+    "resposta": "A Química dos Materiais é um campo interdisciplinar que foca no design, síntese e caracterização de materiais com propriedades específicas e funcionais. Ela une a química inorgânica, orgânica e do estado sólido para criar novos materiais. O químico de materiais não pergunta apenas 'o que é este material?', mas 'como posso fazer um material que tenha esta propriedade desejada?'. Ele trabalha com polímeros, cerâmicas, compósitos e materiais nanoestruturados. Sabia que as telas de OLED dos smartphones modernos são um produto da química de materiais, envolvendo a criação de camadas de moléculas orgânicas que emitem luz quando uma corrente elétrica é aplicada?",
+    "palavras_chave": ["materiais", "design", "síntese", "propriedades", "funcional"]
+  },
+  {
+    "pergunta": "O que é o Princípio de Le Chatelier e como ele se aplica?",
+    "resposta": "O Princípio de Le Chatelier é uma ferramenta mental poderosa que nos ajuda a prever como um sistema em equilíbrio químico responde a mudanças externas. Ele diz o seguinte: 'Se uma perturbação for aplicada a um sistema em equilíbrio, o sistema se ajustará de modo a contrapor essa perturbação e estabelecer um novo equilíbrio.' As principais perturbações são: mudança na concentração, na pressão (para gases) e na temperatura. Por exemplo, se você aumentar a concentração de um reagente, o sistema 'contra-ataca' consumindo mais desse reagente, deslocando o equilíbrio no sentido dos produtos. Sabia que na produção industrial da amônia pelo Processo Haber-Bosch, altas pressões são usadas justamente para deslocar o equilíbrio no sentido do produto, maximizando o rendimento?",
+    "palavras_chave": ["equilíbrio químico", "perturbação", "deslocamento", "concentração", "pressão"]
+  },
+  {
+    "pergunta": "O que são as constantes de equilíbrio Kc e Kp?",
+    "resposta": "Kc e Kp são números que quantificam a posição de um equilíbrio químico, nos dizendo se, no equilíbrio, temos mais produtos ou mais reagentes. O Kc é a constante de equilíbrio em termos de concentração molar, enquanto o Kp é usado quando trabalhamos com pressões parciais de gases. Ambas são calculadas a partir de uma expressão que tem as concentrações (ou pressões) dos produtos no numerador e dos reagentes no denominador, cada um elevado ao seu coeficiente estequiométrico. Se K for muito maior que 1, o equilíbrio favorece os produtos. Se for muito menor que 1, favorece os reagentes. Sabia que o valor de K depende apenas da temperatura? Para uma dada reação, mudar concentrações ou pressões não altera o K, apenas a posição do equilíbrio.",
+    "palavras_chave": ["constante de equilíbrio", "kc", "kp", "concentração", "pressão parcial"]
+  },
+  {
+    "pergunta": "O que é e como se calcula o pH de uma solução?",
+    "resposta": "O pH é uma escala logarítmica que mede a acidez ou basicidade de uma solução aquosa. Ele é definido como o logaritmo negativo da concentração de íons hidrônio: pH = -log[H₃O⁺]. Isso significa que cada unidade de pH representa uma mudança de dez vezes na concentração de H₃O⁺. Uma solução é neutra quando pH = 7 (a 25°C), ácida quando pH < 7 e básica quando pH > 7. Para ácidos fortes, o cálculo é direto. Para ácidos fracos, precisamos usar a constante de dissociação Ka. Sabia que a escala de pH foi criada pelo bioquímico dinamarquês Søren Sørensen em 1909 enquanto trabalhava na produção de cerveja na Carlsberg, precisando controlar com precisão a acidez do mosto?",
+    "palavras_chave": ["ph", "acidez", "logaritmo", "hidrônio", "escala"]
+  },
+  {
+    "pergunta": "O que são as Soluções Tampão e como elas funcionam?",
+    "resposta": "Soluções tampão são sistemas notáveis que resistem a mudanças bruscas de pH quando pequenas quantidades de ácido ou base são adicionadas. Elas são formadas por um par conjugado ácido-base fraco, geralmente um ácido fraco e seu sal, ou uma base fraca e seu sal. Quando você adiciona um ácido forte, a base do tampão reage com ele. Quando adiciona uma base forte, o ácido do tampão reage com ela. Dessa forma, a concentração de H₃O⁺ se mantém relativamente constante. Um exemplo biológico crucial é o tampão bicarbonato no nosso sangue. Sabia que sem o sistema tampão do sangue, o pH cairia perigosamente cada vez que nossas células produzissem CO₂ como resíduo metabólico, o que poderia ser fatal?",
+    "palavras_chave": ["tampão", "ph constante", "par conjugado", "ácido fraco", "resistência"]
+  },
+  {
+    "pergunta": "O que é o Produto de Solubilidade (Kps)?",
+    "resposta": "O Produto de Solubilidade, representado por Kps, é a constante de equilíbrio para a dissolução de um composto iônico pouco solúvel em água. Para um sal genérico AₓBᵧ, que se dissocia em xA e yB, o Kps é expresso como [A]ˣ[B]ʸ. Quanto menor o valor do Kps, menos solúvel é o composto. O Kps nos permite prever se vai ocorrer precipitação quando misturamos soluções: se o produto iônico for maior que o Kps, o sal precipita. Se for menor, permanece dissolvido. Sabia que o cálculo do Kps é fundamental no tratamento de água, para controlar a precipitação de sais que formam as 'pedras' nas tubulações, como o carbonato de cálcio?",
+    "palavras_chave": ["kps", "solubilidade", "precipitação", "produto iônico", "sal pouco solúvel"]
+  },
+  {
+    "pergunta": "O que é a Eletrólise em Série?",
+    "resposta": "A eletrólise em série é uma configuração onde múltiplas cubas eletrolíticas são conectadas uma após a outra, de modo que a mesma corrente elétrica passa por todas elas sequencialmente. Isso é particularmente útil para processos industriais onde se deseja obter mais de um produto ao mesmo tempo ou para fins didáticos, demonstrando diferentes reações. De acordo com as Leis de Faraday, a massa de substância produzida em cada eletrodo é diretamente proporcional à sua massa equivalente. Sabia que na indústria de galvanoplastia, às vezes se usa eletrólise em série para revestir diferentes peças metálicas simultaneamente, economizando energia?",
+    "palavras_chave": ["eletrólise", "série", "corrente", "leis de faraday", "cubas"]
+  },
+  {
+    "pergunta": "O que são os Compostos de Inclusão?",
+    "resposta": "Compostos de inclusão, ou clatratos, são estruturas curiosas onde uma espécie química fica fisicamente aprisionada dentro da estrutura cristalina ou da cavidade de outra molécula, sem que haja uma ligação química propriamente dita entre elas. A molécula 'hospedeira' forma uma gaiola que encapsula a molécula 'hóspede'. Exemplos clássicos são os hidratos de gás, onde moléculas de gás como metano ficam presas em gaiolas de moléculas de água congelada. Sabia que existem enormes depósitos naturais de hidratos de metano no fundo do oceano e no permafrost, que são considerados uma potencial fonte de energia futura, mas cuja exploração é arriscada devido ao seu potencial de liberar metano, um gás do efeito estufa?",
+    "palavras_chave": ["compostos de inclusão", "clatratos", "hospedeiro-hóspede", "gaiola", "hidratos de gás"]
+  },
+  {
+    "pergunta": "O que é a Química dos Não-Metais?",
+    "resposta": "A Química dos Não-Metais estuda os elementos que não apresentam características metálicas, localizados principalmente no lado direito da Tabela Periódica. Eles são geralmente maus condutores de calor e eletricidade, podem ser sólidos, líquidos ou gasosos à temperatura ambiente, e tendem a formar ânions ou ligações covalentes. Esta área investiga o comportamento de elementos como hidrogênio, carbono, nitrogênio, oxigênio, fósforo, enxofre e os halogênios. Sua química é extremamente diversa e essencial para a vida. Sabia que o nitrogênio, apesar de constituir 78% do ar que respiramos, é quimicamente inerte na forma de N₂, e o processo de 'fixação' desse nitrogênio para formar compostos úteis é um dos grandes desafios e conquistas da química industrial?",
+    "palavras_chave": ["não-metais", "ametais", "ligação covalente", "ânions", "diversidade"]
+  },
+  {
+    "pergunta": "O que são os Peróxidos e Superóxidos?",
+    "resposta": "Peróxidos e superóxidos são tipos especiais de óxidos que contêm oxigênio em estados de oxidação incomuns. Nos peróxidos, como a água oxigenada, o oxigênio tem NOX -1 e forma a união O-O. Já nos superóxidos, como o superóxido de potássio, o oxigênio tem NOX -1/2. Ambos são agentes oxidantes fortes e instáveis. Os superóxidos, em particular, reagem violentamente com água. Sabia que o superóxido de potássio é usado em máscaras de respiração de equipamentos de bombeiro e em submarinos, pois reage com o CO₂ exalado, consumindo-o e liberando oxigênio para respiração?",
+    "palavras_chave": ["peróxidos", "superóxidos", "nox incomum", "oxidantes", "instáveis"]
+  },
+  {
+    "pergunta": "O que é a Química dos Lantanídeos e Actinídeos?",
+    "resposta": "Os lantanídeos e actinídeos formam as duas linhas de elementos que ficam separadas na parte inferior da Tabela Periódica, conhecidos como Terras-Raras e Elementos Radioativos, respectivamente. Os lantanídeos (número atômico 57 a 71) são metais com propriedades muito semelhantes entre si, devido ao preenchimento da camada 4f. Já os actinídeos (89 a 103) incluem elementos naturais radioativos, como o urânio e o tório, e elementos sintéticos. A química desses elementos é complexa devido aos efeitos da contração lantanídica e da radioatividade. Sabia que os lantanídeos são chamados de 'terras-raras' não porque sejam necessariamente raros, mas porque são difíceis de separar uns dos outros devido à sua semelhança química extrema?",
+    "palavras_chave": ["lantanídeos", "actinídeos", "terras-raras", "radioativos", "contração lantanídica"]
+  },
+  {
+    "pergunta": "O que é a Química dos Complexos de Transferência de Carga?",
+    "resposta": "Complexos de transferência de carga são um tipo especial de composto de coordenação onde ocorre a transferência de um elétron de um ligante para o metal, ou vice-versa, quando o complexo absorve luz. Essa transferência gera bandas de absorção muito intensas no espectro, o que explica as cores vibrantes de muitos complexos. Diferente das transições d-d, que são proibidas e dão cores fracas, as transições de transferência de carga são permitidas e produzem cores fortes. Sabia que a intensa cor azul do azul da Prússia, um dos pigmentos mais antigos, vem de uma transição de transferência de carga entre os íons ferro II e ferro III em sua estrutura?",
+    "palavras_chave": ["transferência de carga", "complexos", "absorção de luz", "cor intensa", "elétron"]
+  },
+  {
+    "pergunta": "O que é a Espectroscopia de Absorção Atômica?",
+    "resposta": "A Espectroscopia de Absorção Atômica é uma técnica analítica poderosa usada para quantificar elementos metálicos específicos em uma amostra. O princípio é simples: a amostra é atomizada em uma chama ou forno, e uma luz com comprimento de onda característico do elemento que se quer dosar é passada através dela. Os átomos no estado fundamental absorvem essa luz. A quantidade de luz absorvida é diretamente proporcional à concentração do elemento na amostra. É uma técnica extremamente sensível e seletiva. Sabia que a EAA é amplamente usada para monitorar traços de metais pesados tóxicos, como chumbo e cádmio, em amostras ambientais e alimentos?",
+    "palavras_chave": ["espectroscopia", "absorção atômica", "quantificação", "metais", "análise"]
+  },
+  {
+    "pergunta": "O que é a Química dos Semicondutores?",
+    "resposta": "A Química dos Semicondutores estuda materiais que possuem condutividade elétrica intermediária entre condutores e isolantes. Sua característica fundamental é a existência de um 'band gap' - uma pequena faixa de energia proibida entre a banda de valência (cheia) e a banda de condução (vazia). A condutividade pode ser drasticamente alterada pela adição de impurezas, um processo chamado dopagem. Silício e germânio são semicondutores intrínsecos clássicos. Sabia que toda a revolução da eletrônica, dos transistores aos chips de computador, é baseada na nossa capacidade de controlar precisamente a química de dopagem do silício, criando regiões tipo-p e tipo-n?",
+    "palavras_chave": ["semicondutores", "band gap", "dopagem", "silício", "condutividade"]
+  },
+  {
+    "pergunta": "O que são os Compostos Intermetálicos?",
+    "resposta": "Compostos intermetálicos são materiais formados por dois ou mais metais que se combinam em proporções definidas, formando uma estrutura cristalina distinta da de qualquer um dos metais puros. Eles não seguem as regras comuns de valência da química iônica. Exemplos incluem o bronze (cobre e estanho) e o latão (cobre e zinco). Muitos compostos intermetálicos exibem propriedades especiais, como alta resistência mecânica e ponto de fusão. Sabia que a liga Ni₃Al, um composto intermetálico de níquel e alumínio, é a base das superligas usadas nas pás das turbinas de aviões a jato, suportando temperaturas extremas onde metais comuns derreteriam?",
+    "palavras_chave": ["intermetálicos", "ligas", "metais", "estrutura cristalina", "propriedades especiais"]
+  },
+  {
+    "pergunta": "O que é a Química dos Materiais Porosos?",
+    "resposta": "A Química dos Materiais Porosos estuda sólidos que possuem uma rede de poros e canais em escala nanométrica. Esses materiais têm uma área superficial interna colossal, o que os torna excelentes para aplicações como catálise, separação e armazenamento de gases. As zeólitas são os materiais porosos naturais mais conhecidos, mas a química moderna sintetizou uma gama impressionante de materiais porosos, como as estruturas metal-orgânicas. Sabia que um único grama de um MOF (Metal-Organic Framework) altamente poroso pode ter uma área superficial interna equivalente à de um campo de futebol?",
+    "palavras_chave": ["materiais porosos", "área superficial", "zeólitas", "mof", "catálise"]
+  },
+  {
+    "pergunta": "O que é a Química dos Precursores Cerâmicos?",
+    "resposta": "Esta área envolve o uso de compostos moleculares, geralmente organometálicos, que podem ser processados em formas complexas na fase líquida ou gasosa e depois convertidos em cerâmicas através de tratamento térmico. Essa rota, conhecida como Rota dos Precursores, permite obter cerâmicas de alta pureza e com formas que seriam impossíveis pelos métodos tradicionais de sinterização de pós. Sabia que as fibras de carbeto de silício, usadas em compósitos de alta resistência para aeroespacial, são produzidas através da fiação de um polímero precursor que contém silício, que depois é pirolisado (queimado sem oxigênio) para se transformar na cerâmica final?",
+    "palavras_chave": ["precursores cerâmicos", "rota molecular", "organometálicos", "pirolise", "fibras"]
+  },
+  {
+    "pergunta": "O que é a Química dos Hidretos?",
+    "resposta": "Hidretos são compostos do hidrogênio com outros elementos, onde o hidrogênio geralmente tem estado de oxidação -1. Eles são classificados em três tipos principais: hidretos iônicos ou salinos (formados com metais alcalinos e alcalino-terrosos, como NaH), hidretos covalentes (formados com ametais, como CH₄) e hidretos metálicos ou intersticiais (onde o hidrogênio ocupa espaços vazios na rede de um metal de transição). Sabia que os hidretos iônicos, como o hidreto de lítio, são bases extremamente fortes e agentes redutores poderosos, e reagem violentamente com a água liberando gás hidrogênio?",
+    "palavras_chave": ["hidretos", "hidrogênio", "iônicos", "covalentes", "intersticiais"]
+  },
+  {
+    "pergunta": "O que é a Química dos Poliácidos e Polibases?",
+    "resposta": "Poliácidos e polibases são espécies químicas que possuem mais de um sítio ácido ou básico por molécula. Eles podem doar ou aceitar múltiplos prótons. Um exemplo clássico é o ácido sulfúrico, que é um diácido forte na primeira dissociação e um ácido fraco na segunda. A química desses sistemas é mais complexa porque envolve constantes de equilíbrio sequenciais. O cálculo do pH de suas soluções requer o tratamento de equilíbrios múltiplos. Sabia que muitos aminoácidos, os blocos de construção das proteínas, são moléculas anfóteras que podem atuar tanto como poliácidos quanto como polibases, dependendo do pH do meio?",
+    "palavras_chave": ["poliácidos", "polibases", "múltiplos sítios", "dissociação sequencial", "equilíbrio"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos de Enxofre?",
+    "resposta": "A Química dos Compostos de Enxofre é vasta e diversa, explorando os vários estados de oxidação que este elemento pode assumir, de -2 a +6. Inclui desde o sulfeto de hidrogênio, com seu cheiro de ovo podre, até o ácido sulfúrico, um dos produtos químicos mais importantes da indústria. O enxofre forma cadeias (catenação) e anéis (S₈), e seus compostos intermediários, como os sulfitos e os tiossulfatos, têm propriedades redox interessantes. Sabia que o tiossulfato de sódio é o 'antídoto' usado para envenenamento por cianeto? Ele se liga ao cianeto formando tiocianato, que é muito menos tóxico.",
+    "palavras_chave": ["enxofre", "estados de oxidação", "catenação", "sulfeto", "ácido sulfúrico"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos de Fósforo?",
+    "resposta": "O fósforo, um não-metal do grupo 15, apresenta uma química rica e essencial para a vida. Sua forma mais comum é o fósforo branco, uma molécula tetraédrica de P₄, que é altamente reativa e pirofórica. Na forma de fosfatos, o fósforo é um componente crucial do DNA, RNA e ATP. A química do fósforo inclui os fosfinas, os ácidos fosfóricos e os fosfatos condensados. Sabia que a 'batalha' pelo fósforo nos ecossistemas aquáticos é tão importante que ele é frequentemente o nutriente limitante para o crescimento de algas, e seu controle é vital para evitar a eutrofização?",
+    "palavras_chave": ["fósforo", "fosfatos", "grupo 15", "atp", "eutrofização"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos de Boro?",
+    "resposta": "A Química do Boro é fascinante porque este elemento, um metaloide, é eletropositivo e forma ligações covalentes, resultando em estruturas e ligações únicas. O boro é famoso por seus hidretos, os boranos, que possuem ligações de três centros e dois elétrons, uma exceção clássica à regra do octeto. O boro também forma ácidos de Lewis fortes, como o trifluoreto de boro, e compostos icosaédricos complexos. Sabia que o boro, na forma de ácido bórico, é usado como um inseticida leve e como um retardante de chama, e suas soluções aquosas diluídas são um colírio suave?",
+    "palavras_chave": ["boro", "boranos", "ligaçao três centros", "ácido de lewis", "eletropositivo"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos de Silício?",
+    "resposta": "A Química do Silício, o elemento fundamental da Terra e da tecnologia moderna, é dominada pelo estado de oxidação +4. Sua química é baseada em ligações fortes com o oxigênio, formando a sílica e os silicatos, que constituem a maior parte da crosta terrestre. Diferente do carbono, o silício não forma ligações duplas fortes com o oxigênio ou consigo mesmo facilmente. A química organosilícica, no entanto, produz compostos como os silicones, que são polímeros inorgânicos com uma ampla gama de aplicações. Sabia que a areia da praia é composta principalmente de dióxido de silício, e que o vidro comum é produzido pelo aquecimento dessa areia com carbonato de cálcio e sódio?",
+    "palavras_chave": ["silício", "silicatos", "sílica", "silicones", "crosta terrestre"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos de Nitrogênio?",
+    "resposta": "O nitrogênio é um elemento de vital importância, formando 78% da atmosfera como N₂, uma molécula incrivelmente estável devido à sua ligação tripla. Sua química envolve a 'quebra' dessa ligação para formar compostos úteis, como a amônia e os nitratos. O nitrogênio apresenta uma ampla gama de estados de oxidação, de -3 na amônia a +5 nos nitratos. Seus óxidos, como o NO e o NO₂, são importantes poluentes e também moléculas de sinalização biológica. Sabia que o óxido nítrico, NO, um gás simples, foi eleito a 'Molécula do Ano' em 1992 após a descoberta de seu papel crucial como mensageiro no sistema cardiovascular, relaxando os vasos sanguíneos?",
+    "palavras_chave": ["nitrogênio", "amônia", "nitratos", "óxidos de nitrogênio", "fixação"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos de Oxigênio?",
+    "resposta": "O oxigênio é o elemento mais abundante na crosta terrestre e é fundamental para a respiração e a combustão. Sua química é dominada por sua alta eletronegatividade, que o leva a formar o ânion O²⁻ em compostos iônicos e a participar de ligações covalentes polares em uma infinidade de moléculas. Além da água e dos óxidos comuns, o oxigênio forma espécies reativas como o ozônio e os radicais superóxido. Sabia que o ozônio na estratosfera nos protege da radiação UV, mas ao nível do solo é um poluente perigoso que irrita o sistema respiratório, mostrando como o contexto é crucial na química ambiental?",
+    "palavras_chave": ["oxigênio", "eletronegatividade", "óxidos", "ozônio", "radicais"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos de Halogênios?",
+    "resposta": "Os halogênios, do grupo 17, são ametais altamente reativos que formam uma gama impressionante de compostos. Sua química inclui os haletos iônicos, como o NaCl, os inter-halogênios, como o ClF₃, e os oxiácidos, como o ácido clórico. A reatividade diminui do flúor para o iodo, mas a diversidade de compostos aumenta. Os compostos de halogênio são usados em tudo, desde desinfetantes e plásticos até medicamentos. Sabia que o teflon, o revestimento antiaderente das panelas, é um polímero do tetrafluoretileno, e sua inércia química extrema se deve às fortes ligações carbono-flúor que protegem a cadeia carbonada?",
+    "palavras_chave": ["halogênios", "haletos", "inter-halogênios", "oxiácidos", "reatividade"]
+  },
+  {
+    "pergunta": "O que é a Química de Superfície e por que ela é importante?",
+    "resposta": "A Química de Superfície é o ramo que estuda os fenômenos químicos que ocorrem nas interfaces entre diferentes fases, como sólido-gás, sólido-líquido ou líquido-gás. Nessas interfaces, os átomos ou moléculas têm um ambiente diferente daqueles no interior do material, o que confere propriedades especiais. Esta área é crucial para entender processos como catálise heterogênea, corrosão, adsorção e coloides. Sabia que os conversores catalíticos dos carros são um exemplo clássico de aplicação da química de superfície, onde metais nobres como platina e ródio, dispersos em uma superfície porosa, catalisam a transformação de gases poluentes em substâncias menos nocivas?",
+    "palavras_chave": ["superfície", "interface", "adsorção", "catálise heterogênea", "fenômenos interfacial"]
+  },
+  {
+    "pergunta": "O que são os materiais piezoelétricos e como funcionam?",
+    "resposta": "Materiais piezoelétricos são cristais que geram uma diferença de potencial elétrico quando submetidos a uma pressão mecânica, e vice-versa: se deformam quando uma voltagem é aplicada. Este efeito ocorre em materiais que não possuem centro de simetria em sua estrutura cristalina, como o quartzo e a turmalina. Quando comprimidos, a distribuição de cargas positivas e negativas se desloca, criando uma polarização elétrica. Sabia que os isqueiros elétricos utilizam um cristal piezoelétrico que, quando pressionado, gera uma faísca elétrica suficiente para inflamar o gás?",
+    "palavras_chave": ["piezoelétricos", "pressão mecânica", "voltagem", "cristais", "polarização"]
+  },
+  {
+    "pergunta": "O que é a Química dos Sol-Gel?",
+    "resposta": "O processo Sol-Gel é uma rota química versátil para a produção de materiais cerâmicos e vítreos a partir de precursores em solução. Ele envolve a transformação de um 'sol' (dispersão coloidal de partículas sólidas em líquido) em um 'gel' (rede tridimensional contínua imersa em um solvente). Este método permite um controle preciso da composição e da microestrutura do material final em baixas temperaturas. Sabia que revestimentos anti-reflexo em lentes de óculos e películas especiais para janelas são frequentemente produzidos pela técnica Sol-Gel, que permite depositar filmes finos e homogêneos?",
+    "palavras_chave": ["sol-gel", "precursores", "cerâmicos", "gel", "filmes finos"]
+  },
+  {
+    "pergunta": "O que são os materiais termoelétricos?",
+    "resposta": "Materiais termoelétricos são aqueles que podem converter diretamente calor em eletricidade (efeito Seebeck) ou usar eletricidade para bombear calor (efeito Peltier). Eles são tipicamente semicondutores com baixa condutividade térmica, mas alta condutividade elétrica. A eficiência de conversão é medida pela figura de mérito ZT. Aplicações incluem geração de energia em naves espaciais e refrigeração portátil sem partes móveis. Sabia que as sondas Voyager, lançadas nos anos 70, ainda geram eletricidade para seus instrumentos usando geradores termoelétricos de radioisótopos, que convertem o calor do decaimento do plutônio-238 em energia elétrica?",
+    "palavras_chave": ["termoelétricos", "efeito seebeck", "efeito peltier", "conversão de calor", "semicondutores"]
+  },
+  {
+    "pergunta": "O que é a Química dos Materiais Luminescentes?",
+    "resposta": "Esta área estuda materiais que emitem luz quando excitados por alguma forma de energia - um fenômeno chamado luminescência. Dependendo da fonte de excitação, temos fosforescência (persiste após remover a excitação), fluorescência (cessa imediatamente), quimioluminescência (energia de reação química) e eletroluminescência (campo elétrico). Muitos desses materiais são compostos inorgânicos dopados com íons de terras-raras. Sabia que a tinta luminosa dos ponteiros de relógios antigos usava rádio ou trítio, mas hoje em dia utiliza-se materiais fosforescentes não radioativos, como o sulfeto de zinco dopado com cobre?",
+    "palavras_chave": ["luminescentes", "fosforescência", "fluorescência", "terras-raras", "emissão de luz"]
+  },
+  {
+    "pergunta": "O que são os materiais com memória de forma?",
+    "resposta": "Materiais com memória de forma são ligas metálicas, como as de níquel-titânio (Nitinol), que 'lembram' de sua forma original e podem retornar a ela após serem deformados, quando aquecidos acima de uma temperatura crítica. Este efeito surge de uma transformação de fase martensítica reversível no estado sólido. Na fase martensita, o material é macio e fácil de deformar. Ao ser aquecido, transforma-se em austenita e recupera sua forma original. Sabia que stents coronários são feitos de Nitinol? Eles são inseridos comprimidos no vaso sanguíneo e, ao atingirem a temperatura do corpo, expandem para a forma programada, desobstruindo a artéria.",
+    "palavras_chave": ["memória de forma", "nitinol", "transformação de fase", "martensita", "austenita"]
+  },
+  {
+    "pergunta": "O que é a Química dos Hidroxiapatitas?",
+    "resposta": "A hidroxiapatita é um mineral de fosfato de cálcio com fórmula Ca₁₀(PO₄)₆(OH)₂, que é o principal componente inorgânico dos ossos e dentes dos vertebrados. Sua química é de grande interesse na área de biomateriais, pois é biocompatível e osteocondutiva - ou seja, o osso consegue crescer sobre ela. Materiais sintéticos à base de hidroxiapatita são usados em enxertos ósseos, implantes dentários e como revestimento para próteses metálicas. Sabia que a hidroxiapatita é também usada em algumas pastas de dente sensível? Ela ajuda a remineralizar micro-fissuras no esmalte dentário, reduzindo a sensibilidade.",
+    "palavras_chave": ["hidroxiapatita", "fosfato de cálcio", "ossos", "biomateriais", "remineralização"]
+  },
+  {
+    "pergunta": "O que é a Química dos Sais Fundidos?",
+    "resposta": "A Química dos Sais Fundidos estuda reações e processos que ocorrem em sais no estado líquido, em altas temperaturas. Estes meios reacionais oferecem condições únicas: são bons condutores iônicos, têm amplas janelas de estabilidade eletroquímica e podem dissolver óxidos refratários. Aplicações incluem a produção de metais reativos como o alumínio (pelo processo Hall-Héroult), lítio e sódio, e reatores nucleares de sal fundido. Sabia que alguns reatores nucleares de nova geração usam fluoretos fundidos como refrigerante e combina-se o combustível nuclear diretamente com o sal, criando um sistema mais seguro e eficiente?",
+    "palavras_chave": ["sais fundidos", "altas temperaturas", "eletrólise", "condutores iônicos", "processo hall-héroult"]
+  },
+  {
+    "pergunta": "O que são os materiais fotocrômicos?",
+    "resposta": "Materiais fotocrômicos são aqueles que mudam reversivelmente de cor quando expostos à luz, particularmente à radiação UV. Este fenômeno ocorre devido a uma reação fotoquímica que altera a estrutura eletrônica do material, modificando seu espectro de absorção. Os compostos inorgânicos mais conhecidos com essa propriedade são os óxidos de tungstênio e os vidros dopados com haletos de prata. Sabia que os óculos que escurecem automaticamente ao sol contêm milhões de cristais minúsculos de haletos de prata embutidos no vidro? Quando a luz UV os atinge, eles escurecem, e na ausência de UV, retornam ao estado transparente.",
+    "palavras_chave": ["fotocrômicos", "mudança de cor", "luz uv", "reversível", "haletos de prata"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos de Intercalação?",
+    "resposta": "Compostos de intercalação são formados quando átomos, íons ou moléculas são inseridos (intercalados) entre as camadas de um material hospedeiro lamellar, como a grafite, sem destruir significativamente sua estrutura. O hospedeiro expande perpendicularmente às camadas para acomodar as espécies intercaladas. Estes compostos têm propriedades eletrônicas interessantes e são a base das baterias de íon-lítio. Sabia que as baterias recarregáveis de íon-lítio funcionam graças à intercalação reversível de íons lítio entre as camadas de grafite no ânodo e em óxidos de metal de transição no cátodo?",
+    "palavras_chave": ["intercalação", "grafite", "lamellar", "íon-lítio", "baterias"]
+  },
+  {
+    "pergunta": "O que é a Química dos Nanomateriais Inorgânicos?",
+    "resposta": "A Química dos Nanomateriais Inorgânicos foca na síntese, caracterização e aplicação de partículas inorgânicas com dimensões na escala de 1 a 100 nanômetros. Nesta escala, os materiais exibem propriedades radicalmente diferentes das suas contrapartes macroscópicas, devido aos efeitos quânticos e à enorme razão superfície/volume. Pontos quânticos semicondutores, nanopartículas metálicas e nanofios são exemplos. Sabia que as nanopartículas de ouro, que são vermelhas ou roxas (e não douradas), são usadas em testes de gravidez caseiros? Sua cor intensa e facilidade de funcionalização as tornam excelentes marcadores visuais.",
+    "palavras_chave": ["nanomateriais", "nanopartículas", "escala nanométrica", "pontos quânticos", "propriedades quânticas"]
+  },
+  {
+    "pergunta": "O que são os materiais magnetocalóricos?",
+    "resposta": "Materiais magnetocalóricos são aqueles que aquecem quando magnetizados e esfriam quando desmagnetizados - um efeito conhecido como efeito magnetocalórico. Este fenômeno ocorre porque a aplicação de um campo magnético externo alinha os spins magnéticos dos átomos, diminuindo a desordem magnética do sistema e, consequentemente, sua entropia. Para compensar, a entropia da rede vibracional aumenta, aquecendo o material. Sabia que a refrigeração magnetocalórica é uma tecnologia emergente que pode substituir os compressores de gás tradicionais em geladeiras, sendo mais silenciosa, eficiente e sem o uso de gases nocivos ao meio ambiente?",
+    "palavras_chave": ["magnetocalóricos", "campo magnético", "entropia", "refrigeração", "spins"]
+  },
+  {
+    "pergunta": "O que é a Química dos Supercondutores?",
+    "resposta": "A Química dos Supercondutores investiga materiais que, abaixo de uma temperatura crítica, perdem completamente sua resistência elétrica e expulsam campos magnéticos de seu interior (efeito Meissner). Enquanto os primeiros supercondutores eram elementos e ligas metálicas simples, os supercondutores de alta temperatura críticas são óxidos cerâmicos complexos, como os cupratos de ítrio-bário-cobre. A síntese controlada desses materiais é um grande desafio químico. Sabia que os supercondutores são usados em máquinas de ressonância magnética hospitalares? Os eletroímãs que geram os campos magnéticos intensíssimos são feitos de fios supercondutores resfriados com hélio líquido.",
+    "palavras_chave": ["supercondutores", "resistência zero", "efeito meissner", "cupratos", "temperatura crítica"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos de Alta Pressão?",
+    "resposta": "Esta área estuda a síntese e o comportamento de materiais sob pressões extremamente altas, que podem variar de milhares a milhões de vezes a pressão atmosférica. Sob essas condições, os átomos são forçados a se rearranjar em estruturas cristalinas mais densas, muitas vezes com propriedades radicalmente novas. Esta química é explorada usando células de bigorna de diamante, que podem comprimir minúsculas amostras entre as pontas de dois diamantes. Sabia que sob pressões extremas, até mesmo o gás nobre xenônio pode formar compostos, como o difluoreto de xenônio, desafiando a velha noção de que gases nobres são completamente inertes?",
+    "palavras_chave": ["alta pressão", "célula de bigorna", "estruturas densas", "diamante", "xenônio"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos de Cálculo de Estrutura Eletrônica?",
+    "resposta": "Esta é uma área da química teórica que usa métodos da mecânica quântica para calcular a estrutura eletrônica de átomos, moléculas e sólidos. Através de cálculos computacionais, é possível prever propriedades como geometria molecular, energias de ligação, espectros vibracionais e reatividade química sem realizar experimentos. Métodos como a Teoria do Funcional da Densidade revolucionaram este campo. Sabia que os cálculos de estrutura eletrônica foram cruciais para entender a supercondutividade em materiais complexos e para o desenvolvimento de novos fármacos e catalisadores, economizando anos de trabalho experimental por tentativa e erro?",
+    "palavras_chave": ["cálculo teórico", "estrutura eletrônica", "mecânica quântica", "dft", "previsão"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos de Armazenamento de Hidrogênio?",
+    "resposta": "Esta área pesquisa materiais que podem armazenar hidrogênio de forma segura e eficiente para uso em células combustíveis. Existem três abordagens principais: armazenamento como gás comprimido, como líquido criogênico, e a mais promissora quimicamente - em hidretos metálicos ou químicos. Nestes, o hidrogênio é absorvido na estrutura do material e liberado sob aquecimento. O desafio é encontrar materiais com alta capacidade de armazenamento e baixa temperatura de operação. Sabia que alguns hidretos complexos, como o borohidreto de sódio, podem armazenar uma quantidade enorme de hidrogênio por peso, mas liberá-lo de forma controlada ainda é um desafio para aplicações práticas em veículos?",
+    "palavras_chave": ["armazenamento de hidrogênio", "hidretos", "células combustíveis", "absorção", "liberação"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos para Captura de CO₂?",
+    "resposta": "Esta é uma área de pesquisa crítica para mitigar as mudanças climáticas, focada no desenvolvimento de materiais que possam capturar seletivamente o dióxido de carbono de misturas gasosas, como os gases de exaustão de usinas termelétricas. Os materiais estudados incluem aminas sólidas, óxidos metálicos, zeólitas e estruturas metal-orgânicas. Estes materiais adsorvem química ou fisicamente o CO₂, que depois pode ser liberado e armazenado. Sabia que as aminas, compostos orgânicos derivados da amônia, são usadas em soluções aquosas para lavar o CO₂ de correntes gasosas há décadas, mas o desenvolvimento de materiais sólidos é mais recente e promissor por consumir menos energia?",
+    "palavras_chave": ["captura de co₂", "aminas", "adsorção", "mudanças climáticas", "sequestro"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos para Fotossíntese Artificial?",
+    "resposta": "A Fotossíntese Artificial visa replicar quimicamente o processo natural da fotossíntese, usando a luz solar para converter dióxido de carbono e água em combustíveis, como metanol ou hidrogênio. O desafio é desenvolver catalisadores eficientes, estáveis e de baixo custo baseados em elementos abundantes, que possam realizar as reações de oxidação da água e redução do CO₂. Complexos de rutênio e óxidos semicondutores são sistemas promissores. Sabia que um dos 'Santo Graal' da química sustentável é desenvolver um sistema integrado que use apenas luz solar, água e ar para produzir combustíveis líquidos, fechando o ciclo do carbono de forma renovável?",
+    "palavras_chave": ["fotossíntese artificial", "luz solar", "combustíveis solares", "catalisadores", "rutênio"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos Autorregenerativos?",
+    "resposta": "Materiais autorregenerativos são aqueles capazes de reparar automaticamente danos, como trincas ou arranhões, sem intervenção externa. Na química inorgânica, isso pode ser alcançado através de microcápsulas contendo precursores de cura incorporadas no material, que se rompem quando o dano ocorre, liberando agentes de cura. Outra abordagem usa materiais com ligações reversíveis. Sabia que pesquisadores estão desenvolvendo concretos autorregenerativos que contêm bactérias ou esporos inativos em microcápsulas? Quando surgem fissuras e a água entra, as bactérias são ativadas e precipitam carbonato de cálcio, selando a trinca automaticamente.",
+    "palavras_chave": ["autorregenerativos", "reparo automático", "microcápsulas", "ligações reversíveis", "concreto"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos para Eletrônica Molecular?",
+    "resposta": "A Eletrônica Molecular é um campo visionário que busca usar moléculas individuais ou conjuntos moleculares como componentes eletrônicos, como diodos, transistores ou fios. Compostos de coordenação com metais de transição, que podem existir em múltiplos estados de oxidação, são particularmente interessantes para esta aplicação. O desafio é entender e controlar o transporte eletrônico através de moléculas e conectar essas 'moléculas-funcionais' ao mundo macroscópico. Sabia que já foram demonstrados transistores de uma única molécula em laboratório, mas a fabricação em larga escala e a estabilidade ainda são obstáculos enormes para a comercialização desta tecnologia?",
+    "palavras_chave": ["eletrônica molecular", "transporte eletrônico", "moléculas individuais", "transistores moleculares", "conexão molecular"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos para Spintrônica?",
+    "resposta": "A Spintrônica, ou eletrônica de spin, é uma tecnologia emergente que explora não apenas a carga do elétron (como na eletrônica tradicional), mas também sua propriedade quântica intrínseca chamada 'spin'. Materiais ferromagnéticos e antiferromagnéticos são essenciais para esta área. A spintrônica já é usada em cabeças de leitura de discos rígidos e memórias MRAM. Sabia que a válvula de spin de efeito túnel, uma estrutura de multicamadas magnéticas, é o componente central dos sensores mais sensíveis usados hoje em dia, e sua descoberta rendeu o Prêmio Nobel de Física de 2007 a Albert Fert e Peter Grünberg?",
+    "palavras_chave": ["spintrônica", "spin do elétron", "materiais magnéticos", "válvula de spin", "mram"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos para Catálise Assimétrica?",
+    "resposta": "A Catálise Assimétrica é uma área sofisticada que busca produzir moléculas quirais - aquelas que existem em formas de imagem espelhada não sobreponíveis - de forma seletiva, produzindo preferencialmente um dos enantiômeros. Na química inorgânica, isso é frequentemente alcançado com complexos metálicos quirais, onde o metal atua como sítio ativo e os ligantes quirais ao seu redor criam um ambiente estereosseletivo. Sabia que a produção em escala industrial do anti-inflamatório Naproxen é feita usando um processo catalítico assimétrico que evita a produção do enantiômero tóxico, demonstrando o enorme impacto econômico e de saúde desta área da química?",
+    "palavras_chave": ["catálise assimétrica", "quiralidade", "enantiômeros", "complexos metálicos", "estereosseletividade"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos com Propriedades Múltiplas (Multiferroicos)?",
+    "resposta": "Materiais multiferroicos exibem duas ou mais propriedades ferroicas primárias simultaneamente - tipicamente ferroeletricidade, ferromagnetismo ou ferroelasticidade. A coexistência de ordem elétrica e magnética nesses materiais é rara e fascinante, permitindo o acoplamento entre polarização elétrica e magnetização. Isso significa que você pode controlar as propriedades magnéticas com um campo elétrico e vice-versa. Sabia que os materiais multiferroicos são candidatos promissores para a próxima geração de memórias de computador, onde bits poderiam ser escritos com baixo consumo de energia (usando campo elétrico) e lidos magneticamente?",
+    "palavras_chave": ["multiferroicos", "ferroelétricos", "ferromagnéticos", "acoplamento", "memórias"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos para Sensoriamento Químico?",
+    "resposta": "Esta área desenvolve materiais que mudam suas propriedades físicas ou químicas de forma detectável na presença de um analito específico. Sensores químicos inorgânicos podem ser baseados em mudanças de condutividade (como nos sensores de gás de óxidos metálicos), cor (indicadores), luminescência ou massa. Eles são cruciais para monitoramento ambiental, diagnóstico médico e segurança. Sabia que os sensores de monóxido de carbono domésticos contêm um gel de sílica dopado com paládio que, ao reagir com o CO, muda de cor de preto para marrom, fornecendo um aviso visual barato e eficaz deste gás letal e inodoro?",
+    "palavras_chave": ["sensoriamento", "analito", "detecção", "sensores de gás", "mudança de propriedade"]
+  },
+  {
+    "pergunta": "O que é a Química dos Compostos para Aplicações Biomédicas?",
+    "resposta": "Esta área interdisciplinar projeta materiais inorgânicos para uso em medicina, incluindo diagnóstico por imagem (agentes de contraste), terapia (liberação controlada de fármacos, terapia fotodinâmica) e engenharia de tecidos (arcabouços para crescimento celular). Nanopartículas de óxido de ferro para ressonância magnética, pontos quânticos para imageamento e hidroxiapatita para implantes são exemplos. Sabia que nanopartículas de ouro estão sendo investigadas para terapia contra o câncer? Elas podem ser funcionalizadas para se ligar a células cancerosas e, quando irradiadas com luz infravermelha, aquecem-se seletivamente, destruindo o tumor sem danificar tecidos saudáveis.",
+    "palavras_chave": ["biomédica", "nanopartículas", "agentes de contraste", "liberação controlada", "terapia"]
+  }
+]

@@ -1,0 +1,622 @@
+[
+  {
+    "pergunta": "Por que o sabão remove a gordura das mãos?",
+    "resposta": "O sabão consegue tirar a gordura porque ele tem uma estrutura química com duas partes: uma que se liga à água e outra que se liga à gordura. Quando você ensaboa as mãos, essas moléculas formam pequenas esferas chamadas micelas, que envolvem a sujeira oleosa e permitem que ela seja levada pela água. Sabia que esse mesmo princípio é usado em detergentes e até na limpeza de manchas de óleo em mares e rios?",
+    "palavras_chave": ["sabão", "gordura", "micelas", "detergente", "limpeza"]
+  },
+  {
+    "pergunta": "Como o fermento faz o bolo crescer?",
+    "resposta": "O fermento libera gás carbônico durante o aquecimento, formando bolhas que expandem a massa e a deixam fofa. No caso do fermento químico, ocorre uma reação entre um ácido e uma base; já o fermento biológico usa fungos que fermentam açúcares. Sabia que o gás que infla o pão é o mesmo usado nos refrigerantes?",
+    "palavras_chave": ["fermento", "reação química", "gás carbônico", "bolo", "fermentação"]
+  },
+  {
+    "pergunta": "Por que o ferro enferruja?",
+    "resposta": "A ferrugem é o resultado da reação do ferro com o oxigênio e a umidade do ar. Esse processo, chamado oxidação, forma óxidos de ferro avermelhados. É um exemplo clássico de corrosão, que pode ser evitada com tintas protetoras ou galvanização. Sabia que a estátua da Liberdade também se oxidou, mas o cobre dela ficou esverdeado em vez de enferrujar?",
+    "palavras_chave": ["ferrugem", "oxidação", "ferro", "corrosão", "proteção"]
+  },
+  {
+    "pergunta": "Por que sentimos ardência ao cortar cebola?",
+    "resposta": "Quando cortamos a cebola, rompemos células que liberam uma enzima. Essa enzima reage com compostos sulfurados, formando uma substância volátil que irrita os olhos e causa lágrimas. O curioso é que essa substância é solúvel em água, por isso cortar a cebola debaixo d’água reduz o efeito. Sabia que cientistas já criaram uma variedade de cebola que não faz chorar?",
+    "palavras_chave": ["cebola", "enzimas", "enxofre", "irritação", "lágrimas"]
+  },
+  {
+    "pergunta": "Por que o refrigerante é gasoso?",
+    "resposta": "O gás carbônico é dissolvido sob alta pressão dentro da garrafa ou lata. Quando abrimos, a pressão diminui e o gás escapa em forma de bolhas. Essa carbonatação dá a sensação refrescante típica dessas bebidas. Sabia que, em temperaturas mais altas, o gás sai mais rápido, por isso o refrigerante 'sem gás' ocorre mais facilmente quando ele esquenta?",
+    "palavras_chave": ["refrigerante", "gás carbônico", "pressão", "carbonatação", "bolhas"]
+  },
+  {
+    "pergunta": "Por que o sal derrete o gelo nas estradas?",
+    "resposta": "O sal diminui o ponto de congelamento da água, ou seja, impede que ela congele facilmente. Assim, ele transforma o gelo em uma mistura de água e salmoura, que permanece líquida mesmo em temperaturas abaixo de zero. Sabia que esse processo é usado em aeroportos e rodovias no inverno, mas pode corroer os carros?",
+    "palavras_chave": ["sal", "gelo", "congelamento", "ponto de fusão", "estradas"]
+  },
+  {
+    "pergunta": "Por que o leite talha quando estraga?",
+    "resposta": "O leite talha porque as bactérias transformam a lactose em ácido lático, o que reduz o pH e faz as proteínas se agruparem, formando grumos. Esse é o mesmo princípio usado na produção de queijos e iogurtes, só que de forma controlada. Sabia que o leite pasteurizado é aquecido para eliminar essas bactérias e aumentar sua durabilidade?",
+    "palavras_chave": ["leite", "ácido lático", "bactérias", "proteínas", "fermentação"]
+  },
+  {
+    "pergunta": "Por que o esmalte de unha tem cheiro forte?",
+    "resposta": "O cheiro vem de solventes orgânicos, como a acetona e o tolueno, usados para dissolver e espalhar os componentes do esmalte. Quando secam, esses solventes evaporam e deixam o verniz fixo. Sabia que as versões '3-free' e '5-free' de esmaltes são formuladas sem algumas dessas substâncias para reduzir alergias?",
+    "palavras_chave": ["esmalte", "solventes", "acetona", "tolueno", "evaporação"]
+  },
+  {
+    "pergunta": "Por que o café tem gosto amargo?",
+    "resposta": "O sabor amargo vem principalmente de compostos como a cafeína e os ácidos clorogênicos, que se transformam durante a torra dos grãos. Quanto mais torrado o café, mais amargo ele fica. Sabia que existem mais de 800 compostos aromáticos diferentes em uma xícara de café?",
+    "palavras_chave": ["café", "amargor", "cafeína", "torra", "compostos orgânicos"]
+  },
+  {
+    "pergunta": "Por que a prata escurece com o tempo?",
+    "resposta": "A prata reage com o enxofre presente no ar, formando sulfeto de prata, que tem cor escura. Esse processo é chamado de oxidação superficial, embora não envolva oxigênio diretamente. Sabia que um simples polidor com bicarbonato pode reverter essa reação e devolver o brilho original?",
+    "palavras_chave": ["prata", "enxofre", "sulfeto", "oxidação", "limpeza"]
+  },
+  {
+    "pergunta": "Por que a carne muda de cor quando cozida?",
+    "resposta": "A cor muda porque as proteínas, especialmente a mioglobina, se desnaturam com o calor, alterando sua estrutura e cor. Esse processo é irreversível e também muda o sabor e a textura. Sabia que carnes curadas, como o presunto, usam nitrato para manter a cor rosada mesmo após o cozimento?",
+    "palavras_chave": ["carne", "mioglobina", "proteínas", "cozimento", "desnaturação"]
+  },
+  {
+    "pergunta": "Como funciona o desodorante antitranspirante?",
+    "resposta": "Os antitranspirantes contêm sais de alumínio que formam uma camada temporária sobre os poros, reduzindo a liberação de suor. Já os desodorantes comuns apenas neutralizam o odor. Sabia que o suor em si não tem cheiro — o mau odor vem da ação das bactérias na pele?",
+    "palavras_chave": ["desodorante", "alumínio", "suor", "bactérias", "odor"]
+  },
+  {
+    "pergunta": "Por que o vinagre é usado na limpeza doméstica?",
+    "resposta": "O vinagre contém ácido acético, que dissolve sujeiras, gorduras e até depósitos de calcário. É uma alternativa natural aos produtos químicos fortes. Sabia que o vinagre foi usado como desinfetante desde a Roma Antiga?",
+    "palavras_chave": ["vinagre", "ácido acético", "limpeza", "gordura", "desinfetante"]
+  },
+  {
+    "pergunta": "Por que o chocolate derrete na boca?",
+    "resposta": "O chocolate contém manteiga de cacau, que tem ponto de fusão em torno de 34 °C — bem próximo da temperatura do corpo humano. Por isso ele se mantém sólido em temperatura ambiente, mas derrete suavemente na boca. Sabia que a textura do chocolate depende da forma cristalina da gordura durante a temperagem?",
+    "palavras_chave": ["chocolate", "manteiga de cacau", "ponto de fusão", "temperatura", "textura"]
+  },
+  {
+    "pergunta": "Como o filtro solar protege a pele?",
+    "resposta": "Os filtros solares têm substâncias que absorvem ou refletem a radiação ultravioleta, impedindo que ela danifique o DNA das células da pele. Existem filtros químicos e físicos, e o FPS indica o tempo de proteção. Sabia que o dióxido de titânio é um dos ingredientes mais usados nos filtros físicos?",
+    "palavras_chave": ["filtro solar", "radiação", "ultravioleta", "proteção", "fps"]
+  },
+  {
+    "pergunta": "Por que a água oxigenada clareia o cabelo?",
+    "resposta": "A água oxigenada libera oxigênio ativo, que quebra os pigmentos de melanina nos fios de cabelo. Esse processo é uma oxidação, e pode deixar os fios mais frágeis. Sabia que o mesmo princípio é usado no branqueamento de tecidos e papel?",
+    "palavras_chave": ["água oxigenada", "oxidação", "melanina", "clareamento", "cabelos"]
+  },
+  {
+    "pergunta": "Por que o gelo flutua na água?",
+    "resposta": "Quando congela, a água forma uma estrutura cristalina menos densa, o que faz o gelo ocupar mais volume e flutuar. Essa propriedade é vital para a vida aquática, pois o gelo forma uma camada isolante nos lagos. Sabia que a água é uma das poucas substâncias que se expande ao congelar?",
+    "palavras_chave": ["gelo", "densidade", "água", "estrutura", "flutuação"]
+  },
+  {
+    "pergunta": "Como o detergente limpa a louça engordurada?",
+    "resposta": "O detergente atua como um sabão: suas moléculas têm uma parte hidrofílica e outra hidrofóbica. A parte hidrofóbica se liga à gordura e a hidrofílica à água, formando micelas que arrastam a sujeira. Sabia que existem detergentes biodegradáveis que se decompõem mais facilmente no meio ambiente?",
+    "palavras_chave": ["detergente", "gordura", "micelas", "limpeza", "biodegradável"]
+  },
+  {
+    "pergunta": "Por que a banana escurece depois de cortada?",
+    "resposta": "O escurecimento ocorre por uma reação de oxidação das enzimas que atuam sobre compostos fenólicos presentes na fruta. O ar acelera essa reação, por isso o limão, que é ácido, ajuda a retardá-la. Sabia que esse mesmo processo acontece em maçãs e batatas?",
+    "palavras_chave": ["banana", "oxidação", "enzimas", "frutas", "escurecimento"]
+  },
+  {
+    "pergunta": "Por que o gelo seco produz fumaça?",
+    "resposta": "O gelo seco é dióxido de carbono sólido, que passa diretamente do estado sólido para o gasoso — um processo chamado sublimação. Quando entra em contato com o ar úmido, forma aquela névoa branca típica. Sabia que ele é usado em efeitos especiais de shows e filmes?",
+    "palavras_chave": ["gelo seco", "dióxido de carbono", "sublimação", "névoa", "efeitos"]
+  },
+  {
+    "pergunta": "Por que o perfume evapora rapidamente?",
+    "resposta": "Os perfumes são feitos de substâncias voláteis, ou seja, que evaporam facilmente, liberando as fragrâncias no ar. A evaporação é mais rápida em locais quentes. Sabia que a fixação do perfume depende dos óleos e da proporção de álcool na fórmula?",
+    "palavras_chave": ["perfume", "evaporação", "volatilidade", "álcool", "fragrância"]
+  },
+  {
+    "pergunta": "Como a química está presente nas roupas?",
+    "resposta": "Os tecidos são compostos de polímeros naturais ou sintéticos, como algodão, nylon e poliéster. Além disso, corantes e amaciantes envolvem várias reações químicas. Sabia que o poliéster é derivado do petróleo e pode levar centenas de anos para se decompor?",
+    "palavras_chave": ["tecidos", "polímeros", "poliéster", "corantes", "roupas"]
+  },
+  {
+    "pergunta": "Por que o salmoura conserva alimentos?",
+    "resposta": "A alta concentração de sal retira a água dos micro-organismos por osmose, impedindo seu crescimento. Isso preserva o alimento por mais tempo. Sabia que essa técnica de conservação é usada desde a Antiguidade para carnes e peixes?",
+    "palavras_chave": ["sal", "conservação", "osmose", "micro-organismos", "alimentos"]
+  },
+  {
+    "pergunta": "Como a química explica o efeito efervescente dos comprimidos?",
+    "resposta": "A efervescência vem da reação entre um ácido e uma base, geralmente ácido cítrico e bicarbonato de sódio, que liberam gás carbônico ao reagirem com a água. Esse gás ajuda a dissolver o comprimido mais rápido. Sabia que esse mesmo princípio está por trás das bebidas gaseificadas instantâneas?",
+    "palavras_chave": ["efervescência", "ácido", "base", "bicarbonato", "gás carbônico"]
+  },
+  {
+    "pergunta": "Por que o álcool em gel elimina germes?",
+    "resposta": "O álcool etílico, geralmente a 70%, desorganiza a membrana lipídica e desnatura proteínas dos micro-organismos, levando à sua morte. A concentração é crucial: muito baixa não é eficaz, muito alta evapora rápido demais. Sabia que o álcool em gel foi popularizado durante epidemias de gripe antes da COVID-19?",
+    "palavras_chave": ["álcool", "antisséptico", "micro-organismos", "proteínas", "higiene"]
+  },
+  {
+    "pergunta": "Por que os fogos de artifício têm cores diferentes?",
+    "resposta": "As cores vêm dos sais metálicos que, ao serem aquecidos, emitem luz em diferentes comprimentos de onda. O cobre dá azul, o estrôncio dá vermelho e o sódio dá amarelo. Sabia que esse mesmo princípio é usado em testes de chama nos laboratórios?",
+    "palavras_chave": ["fogos", "sais metálicos", "emissão de luz", "cores", "combustão"]
+  },
+  {
+    "pergunta": "Por que colocamos limão no peixe antes de cozinhar?",
+    "resposta": "O suco de limão contém ácido cítrico, que reage com compostos de cheiro forte, como a trimetilamina, presente em peixes. Essa reação neutraliza o odor e também altera levemente a textura da carne. Sabia que o ácido do limão chega a 'cozinhar' o peixe em pratos como o ceviche, sem usar calor?",
+    "palavras_chave": ["limão", "ácido cítrico", "peixe", "reação química", "odor"]
+  },
+  {
+    "pergunta": "Por que o detergente faz espuma?",
+    "resposta": "A espuma se forma porque as moléculas de detergente reduzem a tensão superficial da água, aprisionando ar em pequenas bolhas. Apesar de parecer essencial, a espuma tem pouca relação com o poder de limpeza. Sabia que a espuma é mais uma consequência estética do que um sinal de eficiência?",
+    "palavras_chave": ["detergente", "tensão superficial", "espuma", "bolhas", "limpeza"]
+  },
+  {
+    "pergunta": "Como os corantes artificiais dão cor aos alimentos?",
+    "resposta": "Os corantes artificiais são moléculas que absorvem certas faixas de luz e refletem outras, criando a percepção de cor. Eles se ligam quimicamente aos ingredientes, garantindo tonalidades intensas e estáveis. Sabia que os primeiros corantes eram extraídos de insetos e plantas, como o cochonilha e o açafrão?",
+    "palavras_chave": ["corantes", "alimentos", "absorção de luz", "moléculas", "pigmentos"]
+  },
+  {
+    "pergunta": "Por que o óleo e a água não se misturam?",
+    "resposta": "A água é polar e o óleo é apolar, ou seja, suas moléculas não têm afinidade. Essa diferença de polaridade impede que se misturem naturalmente. Sabia que os emulsificantes, como a lecitina presente na gema do ovo, conseguem unir essas duas substâncias?",
+    "palavras_chave": ["óleo", "água", "polaridade", "emulsão", "lecitina"]
+  },
+  {
+    "pergunta": "Por que os alimentos ficam crocantes quando fritos?",
+    "resposta": "Durante a fritura, a alta temperatura do óleo provoca a evaporação da água e reações químicas de escurecimento, como a reação de Maillard. Isso forma uma crosta crocante e saborosa. Sabia que a reação de Maillard é a mesma responsável pela cor dourada do pão e do café torrado?",
+    "palavras_chave": ["fritura", "reação de maillard", "crocância", "óleo", "temperatura"]
+  },
+  {
+    "pergunta": "Como o bicarbonato de sódio limpa superfícies?",
+    "resposta": "O bicarbonato é uma base leve que neutraliza ácidos e reage com sujeiras gordurosas, facilitando a remoção. Ele também age como abrasivo suave. Sabia que o bicarbonato foi descoberto no século XIX e usado inicialmente na produção de pães?",
+    "palavras_chave": ["bicarbonato", "base", "limpeza", "reação", "neutralização"]
+  },
+  {
+    "pergunta": "Por que o leite com chocolate se separa depois de um tempo?",
+    "resposta": "As partículas de cacau não se dissolvem totalmente na água do leite, apenas se dispersam. Com o tempo, a gravidade faz com que elas se depositem no fundo. Sabia que os estabilizantes usados em achocolatados comerciais evitam essa separação?",
+    "palavras_chave": ["leite", "cacau", "dispersão", "estabilizantes", "sedimentação"]
+  },
+  {
+    "pergunta": "Como o micro-ondas aquece os alimentos?",
+    "resposta": "O forno micro-ondas emite ondas eletromagnéticas que fazem as moléculas de água vibrar, gerando calor por fricção. Esse calor se espalha e aquece o alimento de dentro para fora. Sabia que a descoberta do micro-ondas aconteceu por acaso, quando um engenheiro percebeu que uma barra de chocolate derretia perto de um radar?",
+    "palavras_chave": ["micro-ondas", "aquecimento", "moléculas de água", "radiação", "fricção"]
+  },
+  {
+    "pergunta": "Por que o vinagre borbulha quando misturado com bicarbonato?",
+    "resposta": "Quando o ácido acético do vinagre reage com o bicarbonato de sódio, forma-se gás carbônico, água e acetato de sódio. As bolhas visíveis são o gás sendo liberado. Sabia que essa mistura é usada em vulcões de brinquedo em feiras de ciências?",
+    "palavras_chave": ["vinagre", "bicarbonato", "reação química", "gás carbônico", "ácido-base"]
+  },
+  {
+    "pergunta": "Por que a manteiga queima mais rápido que o óleo?",
+    "resposta": "A manteiga contém água e proteínas que queimam em temperaturas mais baixas, ao contrário do óleo, que é quase só gordura pura. Sabia que a manteiga clarificada, usada na culinária indiana, remove essas impurezas e suporta mais calor?",
+    "palavras_chave": ["manteiga", "óleo", "ponto de fumaça", "gordura", "cozimento"]
+  },
+  {
+    "pergunta": "Por que o papel queima mais rápido que a madeira?",
+    "resposta": "O papel tem uma estrutura mais fina e contém oxigênio suficiente para reagir rapidamente, enquanto a madeira tem densidade maior e queima de forma mais lenta. Sabia que o papel é feito basicamente de celulose, o mesmo polímero presente na madeira?",
+    "palavras_chave": ["papel", "madeira", "combustão", "celulose", "oxigênio"]
+  },
+  {
+    "pergunta": "Como o sabão em pó clareia as roupas?",
+    "resposta": "Além dos tensoativos que removem a sujeira, o sabão em pó contém agentes branqueadores que liberam oxigênio ativo. Esse oxigênio oxida as manchas e realça o branco. Sabia que os 'branqueadores ópticos' refletem luz azul, fazendo o tecido parecer ainda mais limpo?",
+    "palavras_chave": ["sabão em pó", "oxigênio ativo", "branqueamento", "tensoativos", "roupas"]
+  },
+  {
+    "pergunta": "Por que o ferro esquenta quando é ligado na tomada?",
+    "resposta": "A corrente elétrica encontra resistência no fio condutor do ferro, convertendo energia elétrica em calor — é o chamado efeito Joule. Sabia que esse mesmo princípio é usado em chuveiros elétricos e torradeiras?",
+    "palavras_chave": ["ferro elétrico", "efeito joule", "resistência", "calor", "energia elétrica"]
+  },
+  {
+    "pergunta": "Como os antissépticos bucais eliminam bactérias?",
+    "resposta": "Eles contêm substâncias como álcool, clorexidina e óleos essenciais, que danificam a membrana celular das bactérias e impedem sua reprodução. Sabia que o uso excessivo pode alterar o equilíbrio da flora bucal natural?",
+    "palavras_chave": ["antisséptico", "bactérias", "álcool", "clorexidina", "boca"]
+  },
+  {
+    "pergunta": "Por que o vidro é transparente?",
+    "resposta": "O vidro é formado por uma rede amorfa de sílica que não absorve luz visível, permitindo sua passagem. A transparência depende da pureza e da ausência de cristais. Sabia que pequenas impurezas metálicas podem colorir o vidro naturalmente?",
+    "palavras_chave": ["vidro", "sílica", "transparência", "luz", "impurezas"]
+  },
+  {
+    "pergunta": "Como a química explica o efeito das pilhas?",
+    "resposta": "As pilhas funcionam por meio de reações de oxirredução: em um polo, ocorre oxidação e, no outro, redução. O fluxo de elétrons gerado é o que alimenta os aparelhos. Sabia que as pilhas alcalinas duram mais porque usam hidróxido de potássio no lugar do ácido?",
+    "palavras_chave": ["pilha", "oxirredução", "elétrons", "reação química", "energia"]
+  },
+  {
+    "pergunta": "Por que o leite derrama fácil quando ferve?",
+    "resposta": "Quando o leite esquenta, forma-se uma película de proteínas na superfície. O vapor não consegue escapar, empurra essa camada e faz o leite transbordar. Sabia que o uso de colheres de madeira ajuda a reduzir o problema, porque quebra a tensão superficial?",
+    "palavras_chave": ["leite", "fervura", "proteínas", "vapor", "transbordar"]
+  },
+  {
+    "pergunta": "Por que os refrigerantes 'diet' têm menos calorias?",
+    "resposta": "Eles substituem o açúcar por adoçantes artificiais, como o aspartame ou a sucralose, que são muito mais doces em pequenas quantidades. Sabia que o primeiro adoçante foi descoberto acidentalmente por um químico que esqueceu de lavar as mãos depois de um experimento?",
+    "palavras_chave": ["adoçantes", "refrigerantes", "aspartame", "sucralose", "calorias"]
+  },
+  {
+    "pergunta": "Como o creme dental ajuda a proteger os dentes?",
+    "resposta": "O creme dental contém flúor, que reage com o esmalte do dente formando uma camada mais resistente à corrosão por ácidos. Além disso, os abrasivos removem a placa bacteriana. Sabia que o flúor começou a ser adicionado às pastas nos anos 1950?",
+    "palavras_chave": ["creme dental", "flúor", "esmalte", "ácidos", "proteção"]
+  },
+  {
+    "pergunta": "Por que o vinho envelhece bem em barris de carvalho?",
+    "resposta": "Durante o envelhecimento, o vinho reage com compostos do carvalho, como taninos e lignina, que alteram o sabor e o aroma. O contato com pequenas quantidades de oxigênio também ajuda na maturação. Sabia que o tipo de madeira influencia diretamente o perfil sensorial do vinho?",
+    "palavras_chave": ["vinho", "taninos", "envelhecimento", "carvalho", "aroma"]
+  },
+  {
+    "pergunta": "Por que usamos gelo e sal para fazer sorvete artesanal?",
+    "resposta": "O sal reduz o ponto de congelamento da água, fazendo o gelo ficar mais frio que 0 °C. Isso permite que o creme congele gradualmente e ganhe textura cremosa. Sabia que esse método era usado antes da invenção das geladeiras?",
+    "palavras_chave": ["sorvete", "sal", "gelo", "congelamento", "temperatura"]
+  },
+  {
+    "pergunta": "Por que o cloro é usado para tratar piscinas?",
+    "resposta": "O cloro reage com a água, formando ácido hipocloroso, que destrói micro-organismos e oxida impurezas. Sabia que o excesso de cloro pode causar irritação porque forma compostos chamados cloraminas?",
+    "palavras_chave": ["cloro", "piscina", "desinfecção", "ácido hipocloroso", "micro-organismos"]
+  },
+  {
+    "pergunta": "Como os plásticos são moldados em diferentes formas?",
+    "resposta": "Os plásticos são formados por polímeros que amolecem com o calor e podem ser moldados. Quando esfriam, mantêm a nova forma. Sabia que o plástico mais antigo, a baquelite, foi inventado em 1907 e ainda é usado em tomadas e botões?",
+    "palavras_chave": ["plástico", "polímeros", "moldagem", "termoplástico", "baquelite"]
+  },
+  {
+    "pergunta": "Por que as pilhas vazam com o tempo?",
+    "resposta": "Com o tempo, os reagentes internos se degradam e o eletrólito pode corroer a carcaça, vazando para fora. Esse líquido é geralmente uma substância alcalina. Sabia que é perigoso jogar pilhas comuns no lixo comum por causa desses resíduos?",
+    "palavras_chave": ["pilhas", "vazamento", "eletrólito", "corrosão", "resíduos"]
+  },
+  {
+    "pergunta": "Por que os sabões líquidos são menos agressivos à pele?",
+    "resposta": "Eles costumam ter pH mais próximo ao da pele e incluem substâncias hidratantes, como glicerina. Sabia que o sabão em barra, por ser mais alcalino, pode retirar a camada protetora natural da pele?",
+    "palavras_chave": ["sabão líquido", "ph", "pele", "hidratação", "glicerina"]
+  },
+  {
+    "pergunta": "Como os chicletes mantêm o sabor por tanto tempo?",
+    "resposta": "O sabor vem de óleos essenciais e açúcares que ficam presos na base elástica do chiclete. Como essa base não se dissolve na saliva, o sabor é liberado aos poucos. Sabia que o primeiro chiclete moderno foi feito com resina natural de árvores tropicais?",
+    "palavras_chave": ["chiclete", "óleos essenciais", "açúcar", "resina", "sabor"]
+  },
+  {
+    "pergunta": "Por que o feijão cozinha mais rápido na panela de pressão?",
+    "resposta": "A pressão aumenta a temperatura de ebulição da água, permitindo que o alimento cozinhe mais rapidamente. Sabia que a panela de pressão reduz o tempo de cozimento em até 70% comparado a uma panela comum?",
+    "palavras_chave": ["panela de pressão", "temperatura", "pressão", "cozimento", "água"]
+  },
+  {
+    "pergunta": "Por que a massa de pão precisa descansar antes de assar?",
+    "resposta": "Durante o descanso, o fermento biológico transforma açúcares em gás carbônico e álcool, expandindo a massa e tornando-a mais leve. Esse processo é a fermentação. Sabia que o aroma do pão fresco vem, em parte, do álcool liberado e depois evaporado no forno?",
+    "palavras_chave": ["pão", "fermentação", "gás carbônico", "fermento", "açúcares"]
+  },
+  {
+    "pergunta": "Como o detergente lava roupas coloridas sem desbotar?",
+    "resposta": "Detergentes para roupas coloridas contêm agentes de limpeza mais suaves e inibidores de transferência de cor, que impedem os corantes de migrarem entre tecidos. Sabia que alguns têm enzimas específicas para remover manchas sem atacar as fibras?",
+    "palavras_chave": ["detergente", "roupas coloridas", "enzimas", "corantes", "limpeza"]
+  },
+  {
+    "pergunta": "Por que os metais conduzem eletricidade?",
+    "resposta": "Os metais possuem elétrons livres que se movem facilmente entre os átomos, permitindo o fluxo de corrente elétrica. Essa característica é chamada de condutividade. Sabia que o cobre é o metal mais usado em fios elétricos justamente por causa disso?",
+    "palavras_chave": ["metais", "elétrons", "condutividade", "cobre", "corrente elétrica"]
+  },
+  {
+    "pergunta": "Por que a chama do fogão é azul?",
+    "resposta": "A cor azul indica uma combustão completa do gás, com boa proporção de oxigênio. Isso significa que o gás está queimando de forma eficiente. Sabia que uma chama amarela pode indicar falta de oxigênio e produção de monóxido de carbono?",
+    "palavras_chave": ["combustão", "gás", "oxigênio", "chama azul", "eficiência"]
+  },
+  {
+    "pergunta": "Por que o sabonete antibacteriano não deve ser usado em excesso?",
+    "resposta": "O uso excessivo pode eliminar bactérias benéficas da pele e favorecer a resistência microbiana. Quimicamente, ele contém triclosan ou outros agentes antimicrobianos que nem sempre são necessários. Sabia que a Anvisa já restringiu o uso de algumas dessas substâncias em cosméticos?",
+    "palavras_chave": ["sabonete", "bactérias", "triclosan", "pele", "resistência"]
+  },
+  {
+    "pergunta": "Por que o esmalte descasca facilmente em água quente?",
+    "resposta": "O calor dilata as camadas do esmalte e enfraquece a adesão entre o verniz e a unha. Além disso, a água quente acelera a evaporação dos solventes. Sabia que aplicar base e top coat ajuda a formar uma camada mais estável?",
+    "palavras_chave": ["esmalte", "evaporação", "solvente", "calor", "aderência"]
+  },
+  {
+    "pergunta": "Como o amaciante deixa as roupas mais macias?",
+    "resposta": "O amaciante contém compostos catiônicos que neutralizam a carga elétrica das fibras, reduzindo o atrito e deixando o tecido mais agradável ao toque. Sabia que o perfume do amaciante vem de microcápsulas que se rompem com o movimento das roupas?",
+    "palavras_chave": ["amaciante", "cargas elétricas", "fibras", "maciez", "microcápsulas"]
+  },
+  {
+    "pergunta": "Por que o arroz fica grudento quando passa do ponto?",
+    "resposta": "Ao cozinhar demais, o amido do arroz se solta e se gelatiniza, formando uma camada pegajosa. Sabia que o arroz japonês é propositalmente preparado assim, porque essa textura ajuda a moldar o sushi?",
+    "palavras_chave": ["arroz", "amido", "gelatinização", "cozimento", "textura"]
+  },
+  {
+    "pergunta": "Como o álcool combustível é produzido?",
+    "resposta": "Ele é obtido pela fermentação de açúcares da cana-de-açúcar, produzindo etanol. Depois, o álcool é purificado por destilação. Sabia que o Brasil foi pioneiro em usar etanol em larga escala nos carros desde os anos 1970?",
+    "palavras_chave": ["etanol", "fermentação", "açúcar", "cana-de-açúcar", "biocombustível"]
+  },
+  {
+    "pergunta": "Por que o sangue tem cor vermelha?",
+    "resposta": "A cor vem da hemoglobina, uma proteína que contém ferro. Quando o ferro se liga ao oxigênio, forma-se o complexo que dá o tom vermelho vivo. Sabia que o sangue de alguns animais marinhos é azul porque usa cobre em vez de ferro?",
+    "palavras_chave": ["sangue", "hemoglobina", "ferro", "oxigênio", "cor"]
+  },
+  {
+    "pergunta": "Por que o sabão artesanal é mais suave que o industrial?",
+    "resposta": "O sabão artesanal costuma manter a glicerina natural do processo de saponificação, o que ajuda a hidratar a pele. Já os sabões industriais removem parte dela para outros usos. Sabia que o sabão caseiro é um dos produtos químicos mais antigos da humanidade?",
+    "palavras_chave": ["sabão artesanal", "glicerina", "saponificação", "hidratação", "pele"]
+  },
+  {
+    "pergunta": "Como os cremes hidratantes agem na pele?",
+    "resposta": "Eles formam uma barreira que reduz a perda de água e contêm substâncias que atraem umidade, como a ureia e o ácido hialurônico. Sabia que alguns hidratantes incluem lipídios semelhantes aos da pele para reforçar a proteção natural?",
+    "palavras_chave": ["hidratante", "pele", "umidade", "ureia", "ácido hialurônico"]
+  },
+  {
+    "pergunta": "Por que o café coado tem sabor diferente do espresso?",
+    "resposta": "No espresso, a água passa sob alta pressão, extraindo mais óleos e compostos aromáticos. No coado, a extração é mais lenta e suave, resultando em sabor menos intenso. Sabia que a pressão do espresso chega a 9 atmosferas?",
+    "palavras_chave": ["café", "espresso", "extração", "pressão", "aroma"]
+  },
+  {
+    "pergunta": "Por que o leite condensado é tão doce?",
+    "resposta": "O excesso de açúcar no leite condensado atua como conservante natural, reduzindo a atividade da água e impedindo o crescimento de micro-organismos. Sabia que o leite condensado foi criado originalmente para facilitar o transporte de leite em missões militares?",
+    "palavras_chave": ["leite condensado", "açúcar", "conservante", "micro-organismos", "doçura"]
+  },
+  {
+    "pergunta": "Como funciona o desodorante roll-on?",
+    "resposta": "O roll-on tem uma esfera que libera uma fina camada de solução antitranspirante, geralmente à base de sais de alumínio. Sabia que a forma líquida facilita a absorção, mas seca mais devagar que o aerossol?",
+    "palavras_chave": ["desodorante", "roll-on", "alumínio", "suor", "absorção"]
+  },
+  {
+    "pergunta": "Por que o sabão faz bolhas de sabão coloridas?",
+    "resposta": "As cores surgem da interferência da luz refletida nas duas superfícies da fina película de sabão. Dependendo da espessura, diferentes cores aparecem. Sabia que esse mesmo fenômeno acontece nas poças de óleo na rua?",
+    "palavras_chave": ["bolhas de sabão", "luz", "interferência", "cor", "reflexão"]
+  },
+  {
+    "pergunta": "Como os desinfetantes eliminam vírus e bactérias?",
+    "resposta": "Eles contêm agentes oxidantes, como o hipoclorito, que destroem proteínas e lipídios das membranas dos micro-organismos. Sabia que a diluição correta é essencial para a eficácia e segurança do produto?",
+    "palavras_chave": ["desinfetante", "hipoclorito", "oxidação", "vírus", "bactérias"]
+  },
+  {
+    "pergunta": "Por que as panelas de ferro enferrujam menos quando são usadas frequentemente?",
+    "resposta": "O uso frequente cria uma camada protetora de óxidos estáveis e gordura carbonizada, que impede a corrosão direta. Sabia que essa camada é chamada de 'cura' e melhora até o sabor dos alimentos?",
+    "palavras_chave": ["ferro", "panelas", "oxidação", "proteção", "corrosão"]
+  },
+  {
+    "pergunta": "Por que o sabão em pó cheira diferente depois de lavado?",
+    "resposta": "Durante a lavagem, as moléculas aromáticas do sabão se fixam nas fibras e são liberadas gradualmente quando a roupa seca. Sabia que os perfumes de sabão são projetados para resistir à água quente e ao sabão alcalino?",
+    "palavras_chave": ["sabão em pó", "perfume", "aroma", "fibras", "lavagem"]
+  },
+  {
+    "pergunta": "Por que os espelhos embaçam depois do banho?",
+    "resposta": "O vapor quente do chuveiro condensa em pequenas gotículas na superfície fria do espelho. É uma mudança física, não química. Sabia que aplicar uma fina camada de sabão ou creme dental pode evitar o embaçamento?",
+    "palavras_chave": ["espelho", "condensação", "vapor", "temperatura", "embaçamento"]
+  },
+  {
+    "pergunta": "Como os adesivos grudam nas superfícies?",
+    "resposta": "Os adesivos têm polímeros que formam ligações intermoleculares com o material de contato. Quando secam, criam uma camada sólida que une as superfícies. Sabia que os primeiros adesivos modernos foram inspirados na cola produzida por mexilhões marinhos?",
+    "palavras_chave": ["adesivo", "polímeros", "ligações", "superfície", "cola"]
+  },
+  {
+    "pergunta": "Por que o arroz integral é mais nutritivo que o branco?",
+    "resposta": "O arroz integral mantém o farelo e o germe, que contêm fibras, vitaminas e minerais. No arroz branco, esses componentes são removidos no polimento. Sabia que o arroz integral também contém mais gordura boa, por isso estraga mais rápido?",
+    "palavras_chave": ["arroz integral", "nutrientes", "fibras", "vitaminas", "farelo"]
+  },
+  {
+    "pergunta": "Por que o mel não estraga facilmente?",
+    "resposta": "O mel tem baixa atividade de água e alto teor de açúcar, o que impede o crescimento de micro-organismos. Além disso, contém substâncias com leve ação antibacteriana. Sabia que amostras de mel foram encontradas intactas em tumbas egípcias de mais de 3 mil anos?",
+    "palavras_chave": ["mel", "açúcar", "atividade de água", "conservação", "antibacteriano"]
+  },
+  {
+    "pergunta": "Por que o leite desnatado é mais ralo que o integral?",
+    "resposta": "A retirada da gordura reduz a viscosidade e a sensação de cremosidade do leite. Essa gordura é o que dá corpo e sabor. Sabia que, para compensar, algumas marcas adicionam espessantes como a goma guar?",
+    "palavras_chave": ["leite desnatado", "gordura", "viscosidade", "espessante", "cremosidade"]
+  },
+  {
+    "pergunta": "Por que os vidros de carros têm uma leve coloração esverdeada?",
+    "resposta": "Essa cor vem de pequenas quantidades de óxido de ferro presentes na areia usada para fabricar o vidro. Sabia que vidros automotivos modernos também têm filtros que bloqueiam raios ultravioleta?",
+    "palavras_chave": ["vidro", "óxido de ferro", "coloração", "automóvel", "proteção"]
+  },
+  {
+    "pergunta": "Como o sabão de coco é diferente dos outros sabões?",
+    "resposta": "Ele é feito com óleo de coco, rico em ácidos graxos que produzem uma espuma mais densa e limpam bem sem agredir a pele. Sabia que ele é biodegradável e muito usado em produtos ecológicos?",
+    "palavras_chave": ["sabão de coco", "ácidos graxos", "limpeza", "biodegradável", "pele"]
+  },
+  {
+    "pergunta": "Por que o feijão muda de cor depois de cozido?",
+    "resposta": "Durante o cozimento, os pigmentos naturais e o ferro das panelas podem reagir, alterando o tom do feijão. Sabia que o pH da água também influencia, deixando-o mais escuro quando é alcalina?",
+    "palavras_chave": ["feijão", "pigmentos", "cozimento", "ph", "cor"]
+  },
+  {
+    "pergunta": "Por que a pipoca estoura no micro-ondas?",
+    "resposta": "Cada grão de milho contém um pouco de água dentro. Quando aquecido, o vapor se acumula até a pressão interna romper a casca, transformando o amido em espuma expandida. Sabia que o tipo de milho usado para pipoca tem a casca mais dura justamente para reter o vapor?",
+    "palavras_chave": ["pipoca", "micro-ondas", "pressão", "amido", "vapor"]
+  },
+  {
+    "pergunta": "Por que a maçã fica marrom depois de cortada?",
+    "resposta": "A cor escura surge por causa da oxidação de compostos fenólicos em contato com o ar, mediada por enzimas. Sabia que o suco de limão, por ser ácido, inibe essa reação e mantém a fruta clara por mais tempo?",
+    "palavras_chave": ["maçã", "oxidação", "enzimas", "fenóis", "limão"]
+  },
+  {
+    "pergunta": "Como o filtro de barro purifica a água?",
+    "resposta": "A cerâmica porosa retém partículas sólidas, e o carvão ativado adsorve impurezas e odores. Sabia que essa tecnologia é brasileira e reconhecida por sua eficiência em regiões sem tratamento de água?",
+    "palavras_chave": ["filtro de barro", "carvão ativado", "purificação", "água", "cerâmica"]
+  },
+  {
+    "pergunta": "Por que o sabão de roupa forma menos espuma em água dura?",
+    "resposta": "A água dura contém íons de cálcio e magnésio que reagem com o sabão, formando resíduos insolúveis que reduzem a espuma. Sabia que o uso de detergentes sintéticos resolveu esse problema, pois eles não formam esses sais?",
+    "palavras_chave": ["água dura", "sabão", "íons", "espuma", "detergente"]
+  },
+  {
+    "pergunta": "Como o vinagre ajuda a eliminar odores na cozinha?",
+    "resposta": "O ácido acético reage com compostos básicos e neutraliza moléculas voláteis responsáveis pelos cheiros. Sabia que ele também tem leve ação antibacteriana e pode substituir desinfetantes em alguns casos?",
+    "palavras_chave": ["vinagre", "ácido acético", "odor", "neutralização", "cozinha"]
+  },
+  {
+    "pergunta": "Por que o açúcar carameliza quando aquecido?",
+    "resposta": "Ao aquecer o açúcar, as moléculas se quebram e formam compostos de cor escura e sabor intenso — é a caramelização. Sabia que pequenas variações de temperatura mudam completamente o sabor do caramelo?",
+    "palavras_chave": ["açúcar", "caramelização", "aquecimento", "reação química", "sabor"]
+  },
+  {
+    "pergunta": "Como o shampoo limpa o cabelo?",
+    "resposta": "O shampoo contém tensoativos que envolvem a gordura e a sujeira, permitindo que sejam removidas com a água. Sabia que os shampoos sem sulfato usam agentes mais suaves para evitar o ressecamento dos fios?",
+    "palavras_chave": ["shampoo", "tensoativos", "limpeza", "gordura", "cabelo"]
+  },
+  {
+    "pergunta": "Por que a gasolina tem cheiro forte?",
+    "resposta": "O cheiro vem de compostos aromáticos, como o benzeno e o tolueno, que são voláteis e evaporam facilmente. Sabia que, por serem tóxicos, a quantidade desses compostos na gasolina é rigidamente controlada?",
+    "palavras_chave": ["gasolina", "benzeno", "tolueno", "volatilidade", "odor"]
+  },
+  {
+    "pergunta": "Por que o refrigerante perde o gás depois de aberto?",
+    "resposta": "Ao abrir a garrafa, a pressão interna diminui e o dióxido de carbono dissolvido começa a escapar. Sabia que guardar o refrigerante bem fechado e em baixa temperatura ajuda a manter o gás por mais tempo?",
+    "palavras_chave": ["refrigerante", "pressão", "gás carbônico", "carbonatação", "evaporação"]
+  },
+  {
+    "pergunta": "Como o desengordurante age na limpeza da cozinha?",
+    "resposta": "Ele contém substâncias alcalinas que quebram moléculas de gordura em compostos solúveis em água. Sabia que esse processo se chama saponificação e é o mesmo usado para fabricar sabão?",
+    "palavras_chave": ["desengordurante", "gordura", "alcalino", "saponificação", "limpeza"]
+  },
+  {
+    "pergunta": "Por que o chocolate branco é diferente do preto?",
+    "resposta": "O chocolate branco é feito apenas com manteiga de cacau, leite e açúcar, sem as partículas de cacau que dão cor e sabor ao chocolate escuro. Sabia que ele só começou a ser produzido comercialmente na década de 1930?",
+    "palavras_chave": ["chocolate branco", "cacau", "manteiga de cacau", "açúcar", "diferença"]
+  },
+  {
+    "pergunta": "Como os desinfetantes têm cheiro de limpeza?",
+    "resposta": "Além dos agentes químicos, os desinfetantes recebem fragrâncias sintéticas que mascaram odores desagradáveis e transmitem sensação de frescor. Sabia que algumas fragrâncias também ajudam na identificação de marcas?",
+    "palavras_chave": ["desinfetante", "fragrância", "odor", "limpeza", "compostos aromáticos"]
+  },
+  {
+    "pergunta": "Por que o papel alumínio tem dois lados diferentes?",
+    "resposta": "Durante a fabricação, o alumínio é laminado em pares; o lado que fica em contato com os rolos de polimento se torna brilhante, e o outro fica fosco. Sabia que ambos refletem o calor da mesma forma, então não há lado 'certo' para usar?",
+    "palavras_chave": ["papel alumínio", "alumínio", "reflexão", "calor", "laminação"]
+  },
+  {
+    "pergunta": "Por que os perfumes mudam de cheiro na pele?",
+    "resposta": "A composição química da pele, como pH e oleosidade, altera a forma como os componentes voláteis evaporam. Sabia que por isso o mesmo perfume pode cheirar diferente em pessoas distintas?",
+    "palavras_chave": ["perfume", "pele", "ph", "volatilidade", "aroma"]
+  },
+  {
+    "pergunta": "Como o detergente ecológico difere do comum?",
+    "resposta": "O detergente ecológico usa tensoativos biodegradáveis e evita fosfatos, reduzindo o impacto ambiental. Sabia que esses fosfatos eram os principais responsáveis pela poluição de rios nas décadas passadas?",
+    "palavras_chave": ["detergente ecológico", "biodegradável", "tensoativos", "fosfatos", "meio ambiente"]
+  },
+  {
+    "pergunta": "Por que o pão francês tem casca crocante?",
+    "resposta": "Durante o cozimento, o vapor d’água reage com os açúcares da superfície, promovendo a caramelização e a reação de Maillard, que formam a crosta dourada. Sabia que assar com vapor é o segredo para manter a casca crocante e o miolo macio?",
+    "palavras_chave": ["pão francês", "reação de maillard", "caramelização", "vapor", "crosta"]
+  },
+  {
+    "pergunta": "Por que o sabão líquido para roupas é mais concentrado hoje em dia?",
+    "resposta": "Com o avanço da formulação química, os fabricantes conseguiram reduzir a água e aumentar a eficiência dos tensoativos. Sabia que isso diminui o volume de embalagens e ajuda na sustentabilidade?",
+    "palavras_chave": ["sabão líquido", "tensoativos", "concentração", "sustentabilidade", "eficiência"]
+  },
+  {
+    "pergunta": "Como os protetores de tela de celular resistem a riscos?",
+    "resposta": "Eles são feitos de vidro temperado ou polímeros tratados quimicamente para aumentar a dureza superficial. Sabia que o vidro temperado passa por um processo de aquecimento e resfriamento rápido que o torna até cinco vezes mais resistente?",
+    "palavras_chave": ["vidro temperado", "proteção", "polímeros", "celular", "resistência"]
+  },
+  {
+    "pergunta": "Por que o sal grosso é usado para churrasco?",
+    "resposta": "Os cristais grandes dissolvem lentamente, temperando a carne de forma gradual e mantendo a suculência. Sabia que o sal também ajuda a formar a crosta dourada pela desidratação superficial da carne?",
+    "palavras_chave": ["sal grosso", "churrasco", "carne", "cristais", "temperar"]
+  },
+  {
+    "pergunta": "Por que o iogurte é ácido?",
+    "resposta": "As bactérias fermentam a lactose, produzindo ácido lático, que dá o sabor azedinho e ajuda a conservar o produto. Sabia que esse processo é semelhante ao da produção de queijos e coalhadas?",
+    "palavras_chave": ["iogurte", "fermentação", "ácido lático", "bactérias", "lactose"]
+  },
+  {
+    "pergunta": "Por que o detergente remove manchas de óleo nas roupas?",
+    "resposta": "Os tensoativos presentes quebram as moléculas de gordura em partículas menores que se dispersam na água. Sabia que alguns detergentes contêm enzimas que também degradam proteínas e amidos?",
+    "palavras_chave": ["detergente", "manchas", "tensoativos", "gordura", "enzimas"]
+  },
+  {
+    "pergunta": "Como os repelentes afastam os mosquitos?",
+    "resposta": "Eles contêm substâncias como DEET ou citronela, que interferem nos sensores químicos do inseto, impedindo que ele reconheça o cheiro humano. Sabia que a citronela é uma planta usada há séculos em regiões tropicais como repelente natural?",
+    "palavras_chave": ["repelente", "mosquito", "deet", "citronela", "odor"]
+  },
+  {
+    "pergunta": "Por que o vinho tinto mancha com facilidade?",
+    "resposta": "O vinho contém pigmentos chamados antocianinas, que se ligam fortemente às fibras dos tecidos. Sabia que vinagre ou bicarbonato ajudam a remover a mancha porque alteram o pH e desfazem essa ligação?",
+    "palavras_chave": ["vinho", "antocianinas", "mancha", "ph", "tecido"]
+  },
+  {
+    "pergunta": "Por que os alimentos enlatados duram tanto?",
+    "resposta": "Eles são aquecidos e selados sem contato com o ar, impedindo a ação de micro-organismos. Sabia que o método de conservação por enlatamento foi criado no século XIX para alimentar exércitos em campanha?",
+    "palavras_chave": ["conservação", "enlatados", "micro-organismos", "calor", "esterilização"]
+  },
+  {
+    "pergunta": "Como as pilhas recarregáveis diferem das comuns?",
+    "resposta": "As recarregáveis permitem a reversão da reação química por meio da passagem de corrente elétrica, restaurando os reagentes. Sabia que elas reduzem o lixo eletrônico, mas exigem descarte correto após muitos ciclos?",
+    "palavras_chave": ["pilhas", "recarregáveis", "reação química", "elétrons", "energia"]
+  },
+  {
+    "pergunta": "Por que os desinfetantes à base de álcool funcionam melhor com 70%?",
+    "resposta": "Essa concentração equilibra evaporação e penetração celular, garantindo a desnaturação eficaz das proteínas dos micro-organismos. Sabia que concentrações mais altas evaporam tão rápido que não dão tempo de agir?",
+    "palavras_chave": ["álcool", "desinfetante", "micro-organismos", "desnaturação", "concentração"]
+  },
+  {
+    "pergunta": "Por que a gordura endurece quando esfria?",
+    "resposta": "Ao diminuir a temperatura, as moléculas de gordura saturada se organizam em cristais, tornando-se sólidas. Sabia que óleos vegetais ricos em gorduras insaturadas permanecem líquidos mesmo frios?",
+    "palavras_chave": ["gordura", "cristalização", "temperatura", "saturação", "óleo"]
+  },
+  {
+    "pergunta": "Como o amido de milho engrossa molhos?",
+    "resposta": "O calor faz as moléculas de amido absorverem água e se expandirem, formando uma rede gelatinosa. Sabia que o ponto certo de cozimento impede que o molho fique empelotado?",
+    "palavras_chave": ["amido de milho", "gelatinização", "molho", "calor", "espessamento"]
+  },
+  {
+    "pergunta": "Por que o sabão caseiro pode ser feito com óleo usado?",
+    "resposta": "O óleo reage com a soda cáustica em um processo chamado saponificação, formando sabão e glicerina. Sabia que isso é uma ótima forma de reciclar óleo e evitar a poluição da água?",
+    "palavras_chave": ["sabão caseiro", "saponificação", "óleo usado", "reciclagem", "soda cáustica"]
+  },
+  {
+    "pergunta": "Por que o detergente não deve ser usado para lavar frutas?",
+    "resposta": "Os tensoativos podem deixar resíduos químicos que não são seguros para consumo. Sabia que a melhor forma é usar uma solução de vinagre e bicarbonato para limpar as frutas?",
+    "palavras_chave": ["frutas", "detergente", "resíduos", "vinagre", "bicarbonato"]
+  },
+  {
+    "pergunta": "Como o creme de barbear facilita o ato de raspar?",
+    "resposta": "Ele contém substâncias lubrificantes e hidratantes que reduzem o atrito entre a lâmina e a pele. Sabia que o pH levemente alcalino ajuda a amolecer os pelos para um corte mais suave?",
+    "palavras_chave": ["creme de barbear", "lubrificação", "ph", "hidratação", "pelos"]
+  },
+  {
+    "pergunta": "Por que o refrigerante diet tem sabor diferente do comum?",
+    "resposta": "Os adoçantes artificiais têm estrutura química distinta do açúcar e estimulam de forma diferente as papilas gustativas. Sabia que alguns adoçantes deixam sabor residual justamente por causa dessa diferença molecular?",
+    "palavras_chave": ["refrigerante diet", "adoçante", "açúcar", "sabor", "moléculas"]
+  },
+  {
+    "pergunta": "Por que o arroz-doce engrossa ao esfriar?",
+    "resposta": "O amido gelatinizado forma uma rede que aprisiona a água; ao esfriar, essa estrutura se solidifica parcialmente, deixando o doce mais firme. Sabia que adicionar um pouco de gordura ajuda a manter a textura cremosa?",
+    "palavras_chave": ["arroz-doce", "amido", "gelatinização", "textura", "temperatura"]
+  },
+  {
+    "pergunta": "Por que a manteiga fica rançosa com o tempo?",
+    "resposta": "A gordura reage com o oxigênio do ar, formando compostos que alteram o cheiro e o sabor — é a oxidação. Sabia que guardar em local escuro e frio retarda esse processo?",
+    "palavras_chave": ["manteiga", "oxidação", "rancificação", "gordura", "oxigênio"]
+  },
+  {
+    "pergunta": "Como a química explica o sabor da comida grelhada?",
+    "resposta": "O calor intenso provoca a reação de Maillard entre aminoácidos e açúcares, formando compostos aromáticos e de cor dourada. Sabia que essa mesma reação acontece no pão e no café torrado?",
+    "palavras_chave": ["grelhado", "reação de maillard", "açúcares", "aminoácidos", "aroma"]
+  },
+  {
+    "pergunta": "Por que o vinagre branco é mais usado na limpeza?",
+    "resposta": "Ele tem maior concentração de ácido acético e não deixa resíduos de cor ou cheiro forte. Sabia que ele também é usado para neutralizar odores de cigarro e mofo?",
+    "palavras_chave": ["vinagre branco", "ácido acético", "limpeza", "odor", "neutralização"]
+  },
+  {
+    "pergunta": "Como o desumidificador combate o mofo?",
+    "resposta": "Ele retira a umidade do ar, impedindo o crescimento de fungos e bactérias. Sabia que alguns contêm sílica gel, um material com alta capacidade de absorver água?",
+    "palavras_chave": ["desumidificador", "umidade", "fungos", "sílica gel", "mofo"]
+  },
+  {
+    "pergunta": "Por que a vela derrete ao acender?",
+    "resposta": "O calor da chama funde a cera sólida, que sobe pelo pavio e vaporiza, alimentando a combustão. Sabia que a cera é composta de hidrocarbonetos, semelhantes aos combustíveis?",
+    "palavras_chave": ["vela", "cera", "combustão", "hidrocarbonetos", "calor"]
+  },
+  {
+    "pergunta": "Por que o sabão tira manchas de tinta de caneta?",
+    "resposta": "Os solventes e tensoativos dissolvem parte dos corantes da tinta, facilitando a remoção. Sabia que álcool isopropílico também ajuda, porque interage bem com pigmentos orgânicos?",
+    "palavras_chave": ["manchas", "tinta", "sabão", "solventes", "pigmentos"]
+  },
+  {
+    "pergunta": "Por que o leite talha fora da geladeira?",
+    "resposta": "As bactérias se multiplicam e transformam a lactose em ácido lático, que coagula as proteínas do leite. Sabia que o processo é semelhante ao usado na produção de queijos?",
+    "palavras_chave": ["leite", "fermentação", "ácido lático", "bactérias", "proteínas"]
+  },
+  {
+    "pergunta": "Como a pasta de dente clareia os dentes?",
+    "resposta": "Ela contém abrasivos suaves e compostos que liberam oxigênio ativo, removendo manchas superficiais. Sabia que o flúor presente também fortalece o esmalte e previne cáries?",
+    "palavras_chave": ["pasta de dente", "clareamento", "oxigênio ativo", "flúor", "abrasivos"]
+  },
+  {
+    "pergunta": "Por que a banana amadurece mais rápido perto de outras frutas?",
+    "resposta": "A banana libera etileno, um gás que acelera o amadurecimento. Sabia que esse mesmo princípio é usado na indústria para amadurecer frutas verdes de forma controlada?",
+    "palavras_chave": ["banana", "etileno", "amadurecimento", "frutas", "gás"]
+  },
+  {
+    "pergunta": "Por que o sabão em barra dura mais quando mantido seco?",
+    "resposta": "Quando o sabão fica em contato com a água, parte dele se dissolve e amolece. Mantê-lo seco evita essa perda. Sabia que adicionar sal durante a fabricação ajuda a deixá-lo mais firme?",
+    "palavras_chave": ["sabão em barra", "água", "dissolução", "sal", "durabilidade"]
+  },
+  {
+    "pergunta": "Por que a água sanitária clareia tecidos?",
+    "resposta": "Ela contém hipoclorito de sódio, que oxida os pigmentos e destrói as moléculas de cor. Sabia que a mesma reação é usada para branquear papel e desinfetar superfícies?",
+    "palavras_chave": ["água sanitária", "hipoclorito", "oxidação", "pigmentos", "clareamento"]
+  }
+]

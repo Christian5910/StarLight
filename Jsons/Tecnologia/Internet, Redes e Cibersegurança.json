@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "O que é a internet e como ela funciona em termos simples?",
+    "resposta": "A internet é uma rede global de computadores conectados que trocam informações usando protocolos, como o TCP/IP. Pense nela como uma grande teia: quando você acessa um site, seu dispositivo envia um pedido a um servidor, que responde com os dados do site. Tudo isso passa por roteadores e cabos, às vezes até satélites! É um sistema colaborativo, mas exige manutenção constante para evitar falhas. Sabia que a internet começou como ARPANET, um projeto militar dos EUA nos anos 1960?",
+    "palavras_chave": ["internet", "tcp/ip", "servidor", "roteador", "arpanet"]
+  },
+  {
+    "pergunta": "Por que o protocolo HTTPS é mais seguro que o HTTP?",
+    "resposta": "O HTTPS é uma versão segura do HTTP porque usa criptografia TLS/SSL para proteger os dados trocados entre seu navegador e o site. Isso impede que hackers interceptem informações, como senhas ou dados de cartão. Por exemplo, quando você faz compras online, o HTTPS garante que seus dados não sejam lidos por terceiros. A crítica é que nem todos os sites adotam HTTPS, o que os torna vulneráveis. Sabia que o cadeado no navegador indica que o site usa HTTPS?",
+    "palavras_chave": ["https", "http", "criptografia", "tls/ssl", "segurança"]
+  },
+  {
+    "pergunta": "O que é um ataque DDoS e como ele afeta sites?",
+    "resposta": "Um ataque DDoS, ou Distributed Denial of Service, sobrecarrega um site com tantas requisições que ele fica lento ou cai. Imagine uma loja lotada a ponto de ninguém conseguir entrar! Hackers usam redes de computadores infectados, chamadas botnets, para isso. Grandes empresas, como bancos, já sofreram com isso, causando prejuízos. A crítica é que muitas empresas ainda não investem o suficiente em defesas contra DDoS. Sabia que o maior ataque DDoS registrado atingiu 3,4 terabits por segundo em 2022?",
+    "palavras_chave": ["ddos", "botnet", "sobrecarga", "segurança", "ataque"]
+  },
+  {
+    "pergunta": "Como funciona a criptografia de ponta a ponta em aplicativos de mensagem?",
+    "resposta": "A criptografia de ponta a ponta garante que só o remetente e o destinatário de uma mensagem possam lê-la. Os dados são embaralhados com chaves únicas, e nem o servidor do aplicativo, como WhatsApp, pode acessar o conteúdo. Isso protege contra hackers ou bisbilhoteiros. A crítica é que governos às vezes pressionam empresas para criar 'portas dos fundos'. Sabia que o Signal, um app de mensagens, é famoso por sua criptografia robusta?",
+    "palavras_chave": ["criptografia", "ponta a ponta", "mensagem", "signal", "privacidade"]
+  },
+  {
+    "pergunta": "O que é um firewall e qual é a sua função em uma rede?",
+    "resposta": "Um firewall é como um porteiro de uma rede: ele controla o tráfego de dados, permitindo ou bloqueando acessos com base em regras de segurança. Por exemplo, pode impedir que um programa malicioso se conecte à internet. Ele é essencial em empresas, mas também está nos seus roteadores domésticos. A crítica é que firewalls mal configurados podem bloquear dados legítimos. Sabia que o termo 'firewall' vem da construção civil, onde paredes impedem a propagação de fogo?",
+    "palavras_chave": ["firewall", "rede", "segurança", "tráfego", "configuração"]
+  },
+  {
+    "pergunta": "Por que a privacidade online é tão difícil de manter?",
+    "resposta": "A privacidade online é desafiadora porque empresas coletam dados constantemente, muitas vezes sem transparência, para personalizar anúncios ou serviços. Além disso, hackers exploram brechas em sistemas. Por exemplo, cookies de sites rastreiam seu comportamento. A análise crítica é que falta regulação global forte para proteger usuários. Sabia que a lei GDPR, da Europa, é uma das mais rígidas para proteger dados pessoais?",
+    "palavras_chave": ["privacidade", "cookies", "gdpr", "rastreamento", "dados"]
+  },
+  {
+    "pergunta": "O que é a dark web e como ela é diferente da internet comum?",
+    "resposta": "A dark web é uma parte da internet acessada só por navegadores especiais, como o Tor, que escondem sua identidade. Diferente da internet comum, ela não é indexada por buscadores como o Google. É usada para atividades legais, como jornalismo anônimo, mas também para crimes. A crítica é que a dark web dificulta o combate a atividades ilegais. Sabia que o Tor foi criado pela Marinha dos EUA para comunicações seguras?",
+    "palavras_chave": ["dark web", "tor", "anonimato", "internet", "segurança"]
+  },
+  {
+    "pergunta": "Como funciona um ataque de phishing e como se proteger?",
+    "resposta": "Phishing é quando hackers enviam e-mails ou mensagens falsas, fingindo ser uma empresa confiável, para roubar dados como senhas. Por exemplo, um e-mail falso de um banco pedindo para você 'atualizar sua senha'. Para se proteger, nunca clique em links suspeitos e use autenticação de dois fatores. A crítica é que muitas pessoas ainda caem por falta de educação digital. Sabia que 90% dos ciberataques começam com phishing?",
+    "palavras_chave": ["phishing", "e-mail", "segurança", "autenticação", "hackers"]
+  },
+  {
+    "pergunta": "O que é uma VPN e quando ela é útil?",
+    "resposta": "Uma VPN, ou Rede Privada Virtual, cria um túnel criptografado para seus dados na internet, escondendo seu endereço IP. É útil para proteger sua privacidade em redes Wi-Fi públicas ou acessar conteúdos bloqueados geograficamente, como streaming. A crítica é que algumas VPNs gratuitas podem coletar seus dados. Sabia que VPNs são muito usadas por jornalistas em países com censura?",
+    "palavras_chave": ["vpn", "criptografia", "privacidade", "ip", "segurança"]
+  },
+  {
+    "pergunta": "O que significa 'latência' em redes e por que ela importa?",
+    "resposta": "Latência é o tempo que um pacote de dados leva para ir de um ponto a outro em uma rede. Em jogos online, por exemplo, alta latência causa atrasos, o famoso 'lag'. Ela depende da distância, qualidade da conexão e equipamentos. A crítica é que redes 5G ainda não resolveram latência em áreas rurais. Sabia que a latência ideal para jogos é abaixo de 20 milissegundos?",
+    "palavras_chave": ["latência", "rede", "jogos", "5g", "conexão"]
+  },
+  {
+    "pergunta": "Como o blockchain pode ser usado para aumentar a segurança online?",
+    "resposta": "O blockchain é um registro descentralizado e imutável, usado em criptomoedas como Bitcoin, mas também para segurança. Por exemplo, pode autenticar transações sem intermediários, reduzindo fraudes. Sua força está na criptografia, mas a crítica é que consome muita energia. Sabia que algumas empresas usam blockchain para proteger cadeias de suprimentos?",
+    "palavras_chave": ["blockchain", "criptografia", "segurança", "bitcoin", "descentralização"]
+  },
+  {
+    "pergunta": "O que é um endereço IP e como ele funciona?",
+    "resposta": "Um endereço IP é como o CEP do seu dispositivo na internet, um número único que o identifica em uma rede. Existem IPs públicos, usados na internet, e privados, em redes locais. Por exemplo, seu roteador tem um IP público, e seu celular, um privado. A crítica é que o IPv4 está esgotado, forçando a adoção do IPv6. Sabia que o IPv6 suporta trilhões de endereços?",
+    "palavras_chave": ["ip", "rede", "ipv4", "ipv6", "endereço"]
+  },
+  {
+    "pergunta": "Por que o Wi-Fi às vezes é instável em casa?",
+    "resposta": "O Wi-Fi pode ser instável por interferências, como paredes grossas, outros roteadores ou dispositivos como micro-ondas. A distância do roteador e a qualidade do equipamento também afetam. Para melhorar, use a banda de 5 GHz ou reposicione o roteador. A crítica é que muitos roteadores domésticos são mal configurados. Sabia que o Wi-Fi 6 melhora a estabilidade em redes congestionadas?",
+    "palavras_chave": ["wi-fi", "interferência", "roteador", "5ghz", "wi-fi 6"]
+  },
+  {
+    "pergunta": "O que é ransomware e como ele ameaça empresas?",
+    "resposta": "Ransomware é um malware que criptografa arquivos de um computador e exige resgate para desbloqueá-los. Empresas são alvos comuns, como no caso do ataque à Colonial Pipeline em 2021, que parou o fornecimento de combustível nos EUA. A crítica é que muitas empresas não fazem backup regular. Sabia que o pagamento de resgates muitas vezes financia crime organizado?",
+    "palavras_chave": ["ransomware", "malware", "criptografia", "backup", "segurança"]
+  },
+  {
+    "pergunta": "Como os cookies de sites afetam minha privacidade?",
+    "resposta": "Cookies são pequenos arquivos que sites salvam no seu navegador para lembrar suas preferências ou rastrear comportamento. Por exemplo, um site de compras usa cookies para manter seu carrinho. O problema é que cookies de terceiros, usados em anúncios, podem seguir você por vários sites. A crítica é que muitos usuários não entendem como gerenciá-los. Sabia que navegadores como Firefox oferecem bloqueio automático de cookies de terceiros?",
+    "palavras_chave": ["cookies", "privacidade", "rastreamento", "navegador", "anúncios"]
+  },
+  {
+    "pergunta": "O que é engenharia social e como ela é usada em ciberataques?",
+    "resposta": "Engenharia social é a manipulação psicológica para enganar pessoas e obter informações sensíveis. Por exemplo, um hacker pode ligar fingindo ser do suporte técnico para roubar senhas. É eficaz porque explora confiança humana, não falhas técnicas. A crítica é que falta treinamento contra isso em empresas. Sabia que 98% dos ataques de engenharia social envolvem e-mails?",
+    "palavras_chave": ["engenharia social", "ciberataque", "manipulação", "senha", "e-mail"]
+  },
+  {
+    "pergunta": "Por que a autenticação de dois fatores é tão recomendada?",
+    "resposta": "A autenticação de dois fatores (2FA) exige uma segunda etapa, como um código enviado ao celular, além da senha, para acessar uma conta. Isso dificulta invasões, mesmo se sua senha vazar. Por exemplo, apps de banco usam 2FA para proteger transações. A crítica é que algumas pessoas acham 2FA inconveniente. Sabia que o Google relatou uma queda de 50% em invasões após implementar 2FA?",
+    "palavras_chave": ["autenticação", "2fa", "segurança", "senha", "invasão"]
+  },
+  {
+    "pergunta": "O que é a internet das coisas (IoT) e seus riscos de segurança?",
+    "resposta": "A Internet das Coisas conecta dispositivos como lâmpadas inteligentes e câmeras à internet. Isso traz conveniência, mas também riscos: dispositivos IoT muitas vezes têm senhas fracas, fáceis de hackear. Por exemplo, em 2016, o ataque Mirai usou câmeras IoT para derrubar sites. A crítica é que fabricantes priorizam funcionalidade, não segurança. Sabia que até 2025, estima-se que haverá 75 bilhões de dispositivos IoT?",
+    "palavras_chave": ["iot", "segurança", "dispositivos", "mirai", "hackers"]
+  },
+  {
+    "pergunta": "Como o DNS funciona e por que ele é importante?",
+    "resposta": "O DNS, ou Sistema de Nomes de Domínio, traduz nomes de sites, como google.com, em endereços IP que computadores entendem. É como uma lista telefônica da internet. Sem ele, você precisaria decorar IPs! Ataques ao DNS, como o envenenamento de cache, podem redirecionar você a sites falsos. A crítica é que o DNS ainda é vulnerável a ataques. Sabia que o DNS foi criado em 1983 por Paul Mockapetris?",
+    "palavras_chave": ["dns", "domínio", "ip", "segurança", "internet"]
+  },
+  {
+    "pergunta": "O que é um ataque de força bruta e como evitá-lo?",
+    "resposta": "Um ataque de força bruta tenta adivinhar senhas testando várias combinações. Por exemplo, um hacker usa um programa para testar milhares de senhas por segundo. Para evitar, use senhas longas e complexas, além de sistemas que limitam tentativas de login. A crítica é que muitas pessoas ainda usam senhas óbvias, como '123456'. Sabia que um ataque de força bruta pode levar menos de um segundo para senhas curtas?",
+    "palavras_chave": ["força bruta", "senha", "segurança", "login", "ataque"]
+  },
+  {
+    "pergunta": "Por que o 5G é considerado um avanço para a internet?",
+    "resposta": "O 5G é a quinta geração de redes móveis, oferecendo velocidades até 100 vezes maiores que o 4G e latência menor. Isso permite aplicações como carros autônomos e cirurgias remotas. A crítica é que a cobertura 5G ainda é limitada, especialmente em áreas rurais. Sabia que o 5G usa ondas milimétricas, que têm alcance curto, mas alta capacidade?",
+    "palavras_chave": ["5g", "velocidade", "latência", "redes", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é um certificado SSL e por que ele é essencial para sites?",
+    "resposta": "Um certificado SSL autentica um site e ativa a criptografia HTTPS, garantindo que os dados trocados sejam seguros. Por exemplo, sites de compras usam SSL para proteger transações. Sem ele, hackers podem interceptar informações. A crítica é que certificados falsos às vezes são usados em fraudes. Sabia que o Google penaliza sites sem SSL nos rankings de busca?",
+    "palavras_chave": ["ssl", "https", "criptografia", "certificado", "segurança"]
+  },
+  {
+    "pergunta": "Como as redes sociais lidam com a segurança dos dados dos usuários?",
+    "resposta": "Redes sociais usam criptografia e autenticação para proteger dados, mas enfrentam desafios com vazamentos e coleta excessiva. Por exemplo, o escândalo Cambridge Analytica expôs dados de milhões no Facebook. A crítica é que muitas plataformas priorizam lucro sobre privacidade. Sabia que algumas redes sociais agora oferecem opções para limitar o rastreamento de dados?",
+    "palavras_chave": ["redes sociais", "segurança", "dados", "privacidade", "vazamento"]
+  },
+  {
+    "pergunta": "O que é um proxy e como ele ajuda na navegação?",
+    "resposta": "Um proxy é um servidor intermediário que faz pedidos à internet em seu nome, escondendo seu IP. É útil para acessar conteúdos bloqueados ou proteger sua identidade. Por exemplo, empresas usam proxies para monitorar tráfego. A crítica é que proxies gratuitos podem ser lentos ou inseguros. Sabia que proxies são usados por hackers para mascarar ataques?",
+    "palavras_chave": ["proxy", "ip", "navegação", "segurança", "anonimato"]
+  },
+  {
+    "pergunta": "O que é o protocolo TCP/IP e por que ele é fundamental?",
+    "resposta": "O TCP/IP é um conjunto de regras que permite a comunicação na internet. O TCP divide dados em pacotes e garante que cheguem corretamente, enquanto o IP os roteia. Sem ele, sites e e-mails não funcionariam. A crítica é que o TCP/IP é antigo e tem limitações para redes modernas. Sabia que ele foi desenvolvido nos anos 1970 por Vinton Cerf e Robert Kahn?",
+    "palavras_chave": ["tcp/ip", "internet", "protocolo", "pacotes", "comunicação"]
+  },
+  {
+    "pergunta": "O que é um malware e quais são os principais tipos?",
+    "resposta": "Malware é qualquer software malicioso projetado para prejudicar dispositivos ou roubar dados. Os principais tipos incluem vírus, que se espalham infectando arquivos; trojans, que se disfarçam de programas legítimos; e ransomware, que bloqueia dados por resgate. Por exemplo, o WannaCry, um ransomware, afetou hospitais em 2017. A crítica é que muitos usuários não atualizam seus sistemas, facilitando infecções. Sabia que o termo 'malware' vem de 'malicious software'?",
+    "palavras_chave": ["malware", "vírus", "trojan", "ransomware", "segurança"]
+  },
+  {
+    "pergunta": "Como funciona o protocolo Wi-Fi 6 e quais são suas vantagens?",
+    "resposta": "O Wi-Fi 6 é a sexta geração de tecnologia Wi-Fi, baseada no padrão 802.11ax. Ele aumenta a velocidade, reduz a latência e suporta mais dispositivos simultaneamente, ideal para casas com muitos aparelhos conectados. Por exemplo, streaming 4K e jogos online ficam mais estáveis. A crítica é que dispositivos mais antigos não aproveitam todo o potencial. Sabia que o Wi-Fi 6 pode atingir velocidades teóricas de até 9,6 Gbps?",
+    "palavras_chave": ["wi-fi 6", "802.11ax", "velocidade", "latência", "conexão"]
+  },
+  {
+    "pergunta": "O que é spoofing e como ele é usado em ciberataques?",
+    "resposta": "Spoofing é quando um hacker falsifica informações, como um endereço de e-mail ou IP, para enganar sistemas ou pessoas. Por exemplo, um e-mail spoofed pode parecer vir de um colega, mas contém um link malicioso. É comum em ataques de phishing. A crítica é que muitas empresas não usam filtros avançados contra spoofing. Sabia que o spoofing de DNS pode redirecionar você para sites falsos sem você perceber?",
+    "palavras_chave": ["spoofing", "phishing", "e-mail", "dns", "segurança"]
+  },
+  {
+    "pergunta": "Por que as atualizações de software são cruciais para a cibersegurança?",
+    "resposta": "Atualizações de software corrigem vulnerabilidades que hackers podem explorar. Por exemplo, o ataque Equifax de 2017 ocorreu por uma falha não corrigida em um software. Sem atualizações, sistemas ficam expostos a malwares. A crítica é que muitos usuários ignoram atualizações por preguiça ou desconhecimento. Sabia que 60% dos vazamentos de dados envolvem sistemas desatualizados?",
+    "palavras_chave": ["atualizações", "vulnerabilidade", "cibersegurança", "malware", "equifax"]
+  },
+  {
+    "pergunta": "O que é um honeypot na cibersegurança?",
+    "resposta": "Um honeypot é um sistema falso criado para atrair hackers e estudar seus métodos. Parece um servidor real, mas é isolado, sem dados valiosos. Por exemplo, empresas usam honeypots para detectar tentativas de invasão. A crítica é que honeypots mal configurados podem atrair ataques reais. Sabia que honeypots ajudaram a identificar técnicas do grupo hacker Lazarus?",
+    "palavras_chave": ["honeypot", "cibersegurança", "invasão", "hackers", "detecção"]
+  },
+  {
+    "pergunta": "Como a inteligência artificial está sendo usada na cibersegurança?",
+    "resposta": "A inteligência artificial analisa grandes volumes de dados para detectar ameaças em tempo real, como padrões de tráfego suspeitos. Por exemplo, a IA pode identificar um ataque DDoS antes que ele cause danos. Porém, hackers também usam IA para criar malwares mais sofisticados. A crítica é que a IA pode gerar falsos positivos. Sabia que empresas como Darktrace usam IA para monitorar redes corporativas?",
+    "palavras_chave": ["inteligência artificial", "cibersegurança", "ddos", "malware", "detecção"]
+  },
+  {
+    "pergunta": "O que é um ataque de man-in-the-middle e como evitá-lo?",
+    "resposta": "Um ataque man-in-the-middle (MITM) ocorre quando um hacker intercepta a comunicação entre dois pontos, como entre você e um site. Por exemplo, em Wi-Fi público, ele pode roubar seus dados de login. Para evitar, use HTTPS e VPNs. A crítica é que redes públicas raramente são seguras. Sabia que o ataque MITM foi usado para roubar dados de cartões em caixas eletrônicos?",
+    "palavras_chave": ["man-in-the-middle", "https", "vpn", "wi-fi", "segurança"]
+  },
+  {
+    "pergunta": "O que é o conceito de 'zero trust' em cibersegurança?",
+    "resposta": "Zero trust é uma abordagem que assume que nenhuma pessoa ou dispositivo é confiável por padrão, exigindo autenticação constante. Por exemplo, mesmo dentro de uma empresa, cada acesso é verificado. Isso reduz riscos de invasões internas. A crítica é que implementar zero trust é caro e complexo. Sabia que o Google adotou zero trust após ataques em 2010?",
+    "palavras_chave": ["zero trust", "autenticação", "segurança", "invasão", "verificação"]
+  },
+  {
+    "pergunta": "Como os provedores de internet garantem a qualidade da conexão?",
+    "resposta": "Provedores de internet (ISPs) usam roteadores avançados, cabos de fibra óptica e balanceamento de tráfego para manter a conexão estável. Por exemplo, eles priorizam dados de streaming para evitar travamentos. A crítica é que, em áreas rurais, a infraestrutura é limitada. Sabia que a Starlink, da SpaceX, usa satélites para levar internet a regiões remotas?",
+    "palavras_chave": ["provedores", "fibra óptica", "tráfego", "starlink", "conexão"]
+  },
+  {
+    "pergunta": "O que é um keylogger e como ele pode ser perigoso?",
+    "resposta": "Um keylogger é um software ou dispositivo que registra tudo o que você digita, como senhas ou mensagens. Hackers o instalam via malware ou até em teclados físicos. Por exemplo, um keylogger pode roubar credenciais bancárias. A crítica é que antivírus nem sempre detectam keyloggers avançados. Sabia que keyloggers já foram encontrados em apps falsos na Play Store?",
+    "palavras_chave": ["keylogger", "malware", "senha", "segurança", "antivírus"]
+  },
+  {
+    "pergunta": "Por que o IPv6 está substituindo o IPv4?",
+    "resposta": "O IPv6 substitui o IPv4 porque o IPv4 tem apenas 4 bilhões de endereços, já esgotados. O IPv6 suporta trilhões, atendendo ao crescimento de dispositivos IoT. Por exemplo, smartphones e câmeras inteligentes precisam de IPs únicos. A crítica é que a transição é lenta devido à compatibilidade. Sabia que o IPv6 também melhora a eficiência do roteamento?",
+    "palavras_chave": ["ipv6", "ipv4", "endereço", "iot", "roteamento"]
+  },
+  {
+    "pergunta": "O que é criptografia quântica e como ela pode mudar a segurança online?",
+    "resposta": "Criptografia quântica usa princípios da física quântica, como entrelaçamento, para criar chaves impossíveis de interceptar sem detecção. É promissora para comunicações ultrasseguras, como em bancos. A crítica é que a tecnologia ainda é experimental e cara. Sabia que a China já testou criptografia quântica via satélite?",
+    "palavras_chave": ["criptografia quântica", "segurança", "quântica", "chave", "comunicação"]
+  },
+  {
+    "pergunta": "Como o protocolo BGP é essencial para a internet?",
+    "resposta": "O BGP, ou Border Gateway Protocol, é como o GPS da internet, roteando dados entre redes diferentes. Sem ele, sites globais não funcionariam. Por exemplo, um erro no BGP da Facebook em 2021 derrubou seus serviços por horas. A crítica é que o BGP é vulnerável a ataques de sequestro de rotas. Sabia que ele foi criado em 1989?",
+    "palavras_chave": ["bgp", "roteamento", "internet", "segurança", "redes"]
+  },
+  {
+    "pergunta": "O que é um ataque de injeção de SQL e como ele funciona?",
+    "resposta": "Um ataque de injeção de SQL explora falhas em bancos de dados, inserindo comandos maliciosos em formulários de sites. Por exemplo, um hacker pode roubar dados de login de um site vulnerável. É evitado com validação de entradas. A crítica é que muitos desenvolvedores negligenciam essa segurança. Sabia que injeções de SQL estão entre os 10 maiores riscos de segurança da OWASP?",
+    "palavras_chave": ["sql", "injeção", "banco de dados", "segurança", "hacker"]
+  },
+  {
+    "pergunta": "Por que redes mesh estão ganhando popularidade?",
+    "resposta": "Redes mesh conectam dispositivos diretamente, sem depender de um roteador central, melhorando cobertura e estabilidade. São usadas em casas inteligentes e cidades conectadas. Por exemplo, o Amazon Eero usa mesh para Wi-Fi doméstico. A crítica é que a configuração pode ser complexa. Sabia que redes mesh são inspiradas em redes militares?",
+    "palavras_chave": ["rede mesh", "wi-fi", "conexão", "roteador", "estabilidade"]
+  },
+  {
+    "pergunta": "O que é um ataque de credential stuffing?",
+    "resposta": "Credential stuffing é quando hackers usam senhas vazadas de um site para tentar acessar outros serviços, já que muitas pessoas reutilizam senhas. Por exemplo, um vazamento no LinkedIn pode comprometer contas de e-mail. A crítica é que usuários ainda evitam senhas únicas. Sabia que gerenciadores de senhas, como LastPass, ajudam a evitar esse problema?",
+    "palavras_chave": ["credential stuffing", "senha", "vazamento", "segurança", "gerenciador"]
+  },
+  {
+    "pergunta": "Como funciona a compressão de dados em redes?",
+    "resposta": "Compressão de dados reduz o tamanho dos arquivos para transmissão mais rápida, como em vídeos no YouTube. Algoritmos como ZIP ou codecs de vídeo eliminam redundâncias. É vital para redes lentas, mas pode comprometer qualidade. A crítica é que compressão excessiva pode dificultar a recuperação de dados. Sabia que o padrão H.265 reduz vídeos pela metade em relação ao H.264?",
+    "palavras_chave": ["compressão", "dados", "rede", "vídeo", "algoritmo"]
+  },
+  {
+    "pergunta": "O que é um WAF e como ele protege sites?",
+    "resposta": "Um WAF, ou Web Application Firewall, filtra o tráfego de um site para bloquear ataques como injeção de SQL ou XSS. Por exemplo, ele impede tentativas de inserir códigos maliciosos em formulários. A crítica é que WAFs podem ser caros para pequenas empresas. Sabia que empresas como Cloudflare oferecem WAFs baseados em nuvem?",
+    "palavras_chave": ["waf", "firewall", "segurança", "site", "ataque"]
+  },
+  {
+    "pergunta": "Por que a neutralidade da rede é um tema controverso?",
+    "resposta": "Neutralidade da rede é o princípio de que provedores devem tratar todos os dados igualmente, sem priorizar ou bloquear conteúdos. Por exemplo, sem neutralidade, um provedor pode desacelerar o Netflix para favorecer outro serviço. A crítica é que a falta dela pode limitar a inovação. Sabia que a neutralidade foi revogada nos EUA em 2017, gerando protestos?",
+    "palavras_chave": ["neutralidade", "rede", "provedores", "internet", "regulação"]
+  },
+  {
+    "pergunta": "O que é um ataque XSS e como ele funciona?",
+    "resposta": "Um ataque XSS, ou Cross-Site Scripting, injeta códigos maliciosos em sites para roubar dados ou redirecionar usuários. Por exemplo, um script em um comentário pode roubar cookies de sessão. É evitado com validação de entradas. A crítica é que muitos sites antigos ainda são vulneráveis. Sabia que XSS é um dos ataques mais comuns em aplicativos web?",
+    "palavras_chave": ["xss", "ataque", "script", "segurança", "cookies"]
+  },
+  {
+    "pergunta": "Como a tecnologia SD-WAN melhora redes corporativas?",
+    "resposta": "SD-WAN, ou Software-Defined Wide Area Network, otimiza redes corporativas ao gerenciar conexões de forma inteligente, usando várias fontes, como fibra e 4G. Por exemplo, ela prioriza tráfego crítico, como chamadas VoIP. A crítica é que exige configuração avançada. Sabia que a SD-WAN reduz custos em até 50% em algumas empresas?",
+    "palavras_chave": ["sd-wan", "rede", "corporativa", "tráfego", "otimização"]
+  },
+  {
+    "pergunta": "O que é um ataque de skimming digital?",
+    "resposta": "Skimming digital é quando hackers roubam dados de cartões em sites de compras, inserindo códigos maliciosos em formulários de pagamento. Por exemplo, um script pode capturar números de cartão em tempo real. A crítica é que lojistas muitas vezes não monitoram seus sites. Sabia que o Magecart é um grupo famoso por skimming digital?",
+    "palavras_chave": ["skimming", "pagamento", "segurança", "magecart", "ataque"]
+  },
+  {
+    "pergunta": "Por que a autenticação biométrica está se popularizando?",
+    "resposta": "Autenticação biométrica usa características únicas, como impressões digitais ou reconhecimento facial, para verificar identidade. É mais segura que senhas e prática, como no desbloqueio de smartphones. A crítica é que dados biométricos, se vazados, não podem ser alterados. Sabia que o iPhone popularizou a biometria com o Touch ID em 2013?",
+    "palavras_chave": ["biometria", "autenticação", "segurança", "impressão digital", "reconhecimento facial"]
+  },
+  {
+    "pergunta": "O que é o protocolo MQTT e onde ele é usado?",
+    "resposta": "O MQTT é um protocolo leve para comunicação entre dispositivos IoT, como sensores em casas inteligentes. Ele é eficiente em redes instáveis, enviando pequenos pacotes de dados. Por exemplo, é usado em termostatos conectados. A crítica é que precisa de segurança extra, como TLS. Sabia que o MQTT foi criado em 1999 para monitorar oleodutos?",
+    "palavras_chave": ["mqtt", "iot", "protocolo", "comunicação", "segurança"]
+  },
+  {
+    "pergunta": "Como o machine learning ajuda a detectar fraudes online?",
+    "resposta": "Machine learning analisa padrões em transações para identificar atividades suspeitas, como compras incomuns com cartão de crédito. Por exemplo, bancos usam ML para bloquear fraudes em tempo real. A crítica é que modelos de ML podem ser enganados por dados manipulados. Sabia que o PayPal usa machine learning para evitar bilhões em fraudes anualmente?",
+    "palavras_chave": ["machine learning", "fraude", "segurança", "transações", "bancos"]
+  },
+  {
+    "pergunta": "O que é um ataque de envenenamento de DNS e como ele funciona?",
+    "resposta": "Um ataque de envenenamento de DNS, ou DNS poisoning, manipula o cache de um servidor DNS para redirecionar usuários a sites falsos. Por exemplo, você digita 'banco.com' e é levado a uma página falsa que rouba seus dados. Hackers exploram vulnerabilidades em servidores mal protegidos. A crítica é que muitos provedores negligenciam a segurança do DNS. Sabia que o protocolo DNSSEC foi criado para prevenir esse tipo de ataque?",
+    "palavras_chave": ["dns poisoning", "dnssec", "segurança", "redirecionamento", "ataque"]
+  },
+  {
+    "pergunta": "Como funciona a tecnologia de fibra óptica na internet?",
+    "resposta": "A fibra óptica transmite dados como pulsos de luz através de cabos de vidro ou plástico, oferecendo velocidades muito maiores que cabos de cobre. Por exemplo, é comum em conexões de 1 Gbps para streaming 4K. A crítica é que a instalação é cara, especialmente em áreas remotas. Sabia que a fibra óptica pode transmitir dados a 70% da velocidade da luz?",
+    "palavras_chave": ["fibra óptica", "velocidade", "internet", "cabos", "transmissão"]
+  },
+  {
+    "pergunta": "O que é um botnet e como ele é usado em ciberataques?",
+    "resposta": "Um botnet é uma rede de dispositivos infectados por malware, controlados remotamente por hackers. Eles são usados em ataques como DDoS ou envio de spam. Por exemplo, o botnet Mirai derrubou grandes sites em 2016 usando câmeras IoT. A crítica é que dispositivos com senhas padrão facilitam botnets. Sabia que botnets podem incluir milhões de dispositivos?",
+    "palavras_chave": ["botnet", "ddos", "malware", "iot", "ciberataque"]
+  },
+  {
+    "pergunta": "Por que senhas fortes são tão importantes para a cibersegurança?",
+    "resposta": "Senhas fortes, com letras, números e símbolos, dificultam ataques de força bruta ou vazamentos. Por exemplo, uma senha como 'P@55w0rd!' é mais segura que '123456'. A crítica é que muitas pessoas reutilizam senhas em vários serviços, aumentando riscos. Sabia que gerenciadores de senhas como 1Password criam e armazenam senhas complexas automaticamente?",
+    "palavras_chave": ["senha", "cibersegurança", "força bruta", "gerenciador", "segurança"]
+  },
+  {
+    "pergunta": "O que é o protocolo WebRTC e quais são seus riscos?",
+    "resposta": "O WebRTC permite comunicação em tempo real, como chamadas de vídeo diretamente no navegador, sem plugins. É usado em apps como Google Meet. Porém, pode vazar seu endereço IP, mesmo com VPN, se mal configurado. A crítica é que muitos usuários não sabem desativá-lo. Sabia que o WebRTC foi introduzido em 2011 para melhorar a web?",
+    "palavras_chave": ["webrtc", "comunicação", "ip", "vpn", "navegador"]
+  },
+  {
+    "pergunta": "Como a computação em nuvem impacta a cibersegurança?",
+    "resposta": "A computação em nuvem armazena dados em servidores remotos, como AWS ou Google Cloud, facilitando acesso, mas criando riscos se mal configurada. Por exemplo, vazamentos ocorrem quando bancos de dados ficam públicos por erro. A crítica é que empresas confiam demais em provedores de nuvem. Sabia que 80% dos vazamentos em nuvem são por configuração incorreta?",
+    "palavras_chave": ["nuvem", "cibersegurança", "vazamento", "servidores", "configuração"]
+  },
+  {
+    "pergunta": "O que é um ataque de spear phishing e como ele difere do phishing comum?",
+    "resposta": "Spear phishing é um ataque de phishing direcionado, personalizado para uma vítima específica, como um executivo. Por exemplo, um e-mail falso pode citar projetos reais da empresa. É mais perigoso que o phishing genérico por ser convincente. A crítica é que falta treinamento contra spear phishing. Sabia que 95% dos ataques a empresas começam com spear phishing?",
+    "palavras_chave": ["spear phishing", "phishing", "e-mail", "segurança", "ataque"]
+  },
+  {
+    "pergunta": "O que é a tecnologia SDN e como ela melhora redes?",
+    "resposta": "SDN, ou Software-Defined Networking, separa o controle da rede do hardware, permitindo gerenciamento centralizado via software. Por exemplo, empresas podem ajustar tráfego em tempo real. É útil para redes complexas, mas exige conhecimento técnico. A crítica é que a transição para SDN é cara. Sabia que SDN é amplamente usada em data centers da Amazon?",
+    "palavras_chave": ["sdn", "rede", "gerenciamento", "tráfego", "data center"]
+  },
+  {
+    "pergunta": "Como o HTTPS Everywhere protege a navegação?",
+    "resposta": "HTTPS Everywhere é uma extensão de navegador que força sites a usarem conexões seguras (HTTPS) sempre que possível. Por exemplo, ela protege contra interceptações em Wi-Fi público. A crítica é que depende da adoção de HTTPS pelos sites. Sabia que a Electronic Frontier Foundation criou o HTTPS Everywhere em 2010?",
+    "palavras_chave": ["https everywhere", "navegação", "segurança", "https", "extensão"]
+  },
+  {
+    "pergunta": "O que é um ataque de credential harvesting?",
+    "resposta": "Credential harvesting é quando hackers criam sites ou formulários falsos para coletar logins e senhas. Por exemplo, uma página que imita o login do Gmail pode roubar suas credenciais. É comum em campanhas de phishing. A crítica é que usuários raramente verificam URLs. Sabia que kits de credential harvesting são vendidos na dark web?",
+    "palavras_chave": ["credential harvesting", "phishing", "credenciais", "segurança", "dark web"]
+  },
+  {
+    "pergunta": "Por que o backup de dados é essencial para a cibersegurança?",
+    "resposta": "Backups protegem contra perda de dados por ransomware, falhas de hardware ou erros humanos. Por exemplo, empresas com backups regulares se recuperam mais rápido de ataques. A crítica é que muitos não testam seus backups, que podem falhar. Sabia que a regra 3-2-1 recomenda três cópias de dados em dois locais, uma offline?",
+    "palavras_chave": ["backup", "cibersegurança", "ransomware", "dados", "recuperação"]
+  },
+  {
+    "pergunta": "O que é o protocolo QUIC e como ele melhora a internet?",
+    "resposta": "O QUIC é um protocolo desenvolvido pelo Google que combina velocidade e segurança, reduzindo latência em conexões. Por exemplo, sites que usam QUIC, como YouTube, carregam mais rápido. Ele substitui partes do TCP e suporta HTTPS. A crítica é que nem todos os servidores o adotaram. Sabia que o QUIC é a base do HTTP/3?",
+    "palavras_chave": ["quic", "http/3", "latência", "segurança", "protocolo"]
+  },
+  {
+    "pergunta": "Como os antivírus modernos detectam ameaças?",
+    "resposta": "Antivírus modernos usam assinaturas para identificar malwares conhecidos e análise comportamental para detectar ameaças novas. Por exemplo, eles monitoram programas que tentam acessar arquivos sensíveis. A crítica é que antivírus gratuitos oferecem proteção limitada. Sabia que o Windows Defender agora usa IA para melhorar a detecção?",
+    "palavras_chave": ["antivírus", "malware", "comportamento", "segurança", "detecção"]
+  },
+  {
+    "pergunta": "O que é um ataque de força bruta em APIs?",
+    "resposta": "Um ataque de força bruta em APIs tenta acessar endpoints protegidos testando várias combinações de chaves ou senhas. Por exemplo, hackers podem tentar milhares de tokens para acessar um serviço. A crítica é que muitas APIs têm limites de tentativas fracos. Sabia que o rate limiting é uma defesa comum contra esses ataques?",
+    "palavras_chave": ["api", "força bruta", "segurança", "rate limiting", "ataque"]
+  },
+  {
+    "pergunta": "Por que a segmentação de rede é usada em empresas?",
+    "resposta": "Segmentação de rede divide uma rede em partes menores para limitar o acesso e conter ataques. Por exemplo, o setor de finanças de uma empresa não acessa a rede de marketing. Isso reduz o impacto de invasões. A crítica é que a segmentação aumenta a complexidade. Sabia que o ataque à Target em 2013 foi agravado por falta de segmentação?",
+    "palavras_chave": ["segmentação", "rede", "segurança", "ataque", "empresas"]
+  },
+  {
+    "pergunta": "O que é o protocolo TLS e por que ele é essencial?",
+    "resposta": "O TLS, ou Transport Layer Security, criptografa dados entre dispositivos e servidores, como em conexões HTTPS. Por exemplo, protege suas compras online. Sem TLS, hackers podem interceptar dados. A crítica é que versões antigas do TLS são vulneráveis. Sabia que o TLS 1.3, lançado em 2018, é o mais seguro até agora?",
+    "palavras_chave": ["tls", "criptografia", "https", "segurança", "protocolo"]
+  },
+  {
+    "pergunta": "Como a tecnologia de edge computing afeta a cibersegurança?",
+    "resposta": "Edge computing processa dados perto da fonte, como em dispositivos IoT, reduzindo latência. Porém, aumenta riscos, pois esses dispositivos têm menos proteção que servidores centrais. Por exemplo, uma câmera inteligente pode ser hackeada. A crítica é que a segurança em edge é subdesenvolvida. Sabia que o edge computing é crucial para carros autônomos?",
+    "palavras_chave": ["edge computing", "iot", "segurança", "latência", "dispositivos"]
+  },
+  {
+    "pergunta": "O que é um ataque de session hijacking?",
+    "resposta": "Session hijacking é quando um hacker rouba a sessão ativa de um usuário, como ao capturar cookies de login. Por exemplo, ele pode acessar sua conta bancária sem a senha. É evitado com HTTPS e cookies seguros. A crítica é que muitos sites não implementam essas proteções. Sabia que o Firesheep, uma ferramenta de 2010, popularizou esse ataque?",
+    "palavras_chave": ["session hijacking", "cookies", "https", "segurança", "ataque"]
+  },
+  {
+    "pergunta": "Por que o protocolo FTP é considerado inseguro?",
+    "resposta": "O FTP, ou File Transfer Protocol, não criptografa dados, permitindo que hackers interceptem arquivos ou credenciais. Por exemplo, enviar um arquivo por FTP em Wi-Fi público é arriscado. Protocolos como SFTP ou FTPS são mais seguros. A crítica é que o FTP ainda é usado por sistemas legados. Sabia que o FTP foi criado em 1971?",
+    "palavras_chave": ["ftp", "segurança", "criptografia", "sftp", "protocolo"]
+  },
+  {
+    "pergunta": "Como o machine learning é usado em ataques cibernéticos?",
+    "resposta": "Hackers usam machine learning para criar malwares que evadem antivírus ou para automatizar phishing personalizado. Por exemplo, ML pode gerar e-mails convincentes baseados em dados roubados. A crítica é que a IA está acessível tanto para defensores quanto para atacantes. Sabia que deepfakes, criados com ML, são usados em fraudes?",
+    "palavras_chave": ["machine learning", "ciberataque", "phishing", "malware", "deepfake"]
+  },
+  {
+    "pergunta": "O que é um SIEM e como ele ajuda na cibersegurança?",
+    "resposta": "Um SIEM, ou Security Information and Event Management, coleta e analisa logs de sistemas para detectar ameaças em tempo real. Por exemplo, pode alertar sobre logins suspeitos. É essencial para grandes empresas, mas caro. A crítica é que exige equipes qualificadas. Sabia que o SIEM ajudou a detectar o ataque SolarWinds em 2020?",
+    "palavras_chave": ["siem", "cibersegurança", "logs", "detecção", "solarwinds"]
+  },
+  {
+    "pergunta": "Por que a autenticação multifator é mais segura que a de dois fatores?",
+    "resposta": "A autenticação multifator (MFA) usa três ou mais métodos, como senha, biometria e token, enquanto a de dois fatores usa apenas dois. Por exemplo, um banco pode exigir senha, impressão digital e código SMS. A crítica é que MFA pode ser incômoda. Sabia que o NIST recomenda MFA para sistemas críticos?",
+    "palavras_chave": ["mfa", "autenticação", "segurança", "biometria", "token"]
+  },
+  {
+    "pergunta": "O que é um ataque de supply chain na cibersegurança?",
+    "resposta": "Um ataque de supply chain compromete fornecedores ou parceiros para atingir uma empresa. Por exemplo, o ataque SolarWinds de 2020 usou um software infectado para invadir clientes. É difícil de detectar por envolver terceiros confiáveis. A crítica é que empresas subestimam esses riscos. Sabia que esses ataques cresceram 42% entre 2021 e 2022?",
+    "palavras_chave": ["supply chain", "ciberataque", "solarwinds", "segurança", "terceiros"]
+  },
+  {
+    "pergunta": "Como o protocolo OAuth é usado para autenticação?",
+    "resposta": "O OAuth permite que você acesse serviços sem compartilhar senhas, usando tokens. Por exemplo, ao logar no Spotify com sua conta Google, o OAuth autoriza o acesso. É seguro, mas vulnerável se tokens forem roubados. A crítica é que configurações ruins podem expor dados. Sabia que o OAuth 2.0 é usado por quase todos os grandes apps?",
+    "palavras_chave": ["oauth", "autenticação", "token", "segurança", "acesso"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de redes definidas por software (SDN)?",
+    "resposta": "SDN, ou Software-Defined Networking, centraliza o controle de redes via software, facilitando ajustes dinâmicos. Por exemplo, é usado em data centers para otimizar tráfego. A crítica é que exige infraestrutura moderna, o que aumenta custos. Sabia que o SDN foi fundamental para o crescimento da computação em nuvem?",
+    "palavras_chave": ["sdn", "rede", "software", "tráfego", "nuvem"]
+  },
+  {
+    "pergunta": "O que é um ataque de clickjacking e como ele funciona?",
+    "resposta": "Clickjacking é quando um hacker engana o usuário para clicar em algo malicioso, escondendo-o em um elemento aparentemente inofensivo, como um botão falso sobreposto a um site legítimo. Por exemplo, você pode clicar em 'play' num vídeo e, sem saber, autorizar uma transação. É evitado com cabeçalhos HTTP como X-Frame-Options. A crítica é que muitos sites ainda não usam essas proteções. Sabia que o clickjacking foi popularizado em 2008 com ataques em redes sociais?",
+    "palavras_chave": ["clickjacking", "segurança", "http", "ataque", "interface"]
+  },
+  {
+    "pergunta": "Como a tecnologia de satélite está mudando o acesso à internet?",
+    "resposta": "Satélites, como os da Starlink, levam internet a áreas remotas onde cabos não chegam, usando órbitas baixas para reduzir latência. Por exemplo, comunidades rurais agora acessam aulas online. A crítica é que o custo ainda é alto para muitos usuários. Sabia que a Starlink já lançou mais de 6 mil satélites até 2025?",
+    "palavras_chave": ["satélite", "internet", "starlink", "latência", "acesso"]
+  },
+  {
+    "pergunta": "O que é um ataque de ransomware baseado em criptografia?",
+    "resposta": "Esse tipo de ransomware criptografa arquivos da vítima, exigindo pagamento para liberar a chave de descriptografia. Por exemplo, o ataque ao NHS, serviço de saúde do Reino Unido, paralisou hospitais em 2017. Backups offline são a melhor defesa. A crítica é que muitas empresas não priorizam backups. Sabia que o WannaCry usou uma falha do Windows para infectar 200 mil computadores?",
+    "palavras_chave": ["ransomware", "criptografia", "backup", "wannacry", "segurança"]
+  },
+  {
+    "pergunta": "Por que o protocolo SSH é usado para acesso remoto seguro?",
+    "resposta": "O SSH, ou Secure Shell, criptografa a conexão entre um usuário e um servidor, permitindo acesso remoto seguro. Por exemplo, administradores usam SSH para gerenciar servidores Linux sem expor dados. A crítica é que chaves SSH mal gerenciadas podem ser exploradas. Sabia que o SSH foi criado em 1995 para substituir o Telnet, que não tinha criptografia?",
+    "palavras_chave": ["ssh", "criptografia", "acesso remoto", "segurança", "servidor"]
+  },
+  {
+    "pergunta": "O que é um ataque de sniffing e como evitá-lo?",
+    "resposta": "Sniffing é quando hackers capturam dados em uma rede, como senhas em Wi-Fi público. Ferramentas como Wireshark podem ser usadas para isso. Para evitar, use VPNs e HTTPS. A crítica é que redes públicas raramente são seguras. Sabia que o sniffing é ilegal em muitos países, mas difícil de detectar?",
+    "palavras_chave": ["sniffing", "vpn", "https", "rede", "segurança"]
+  },
+  {
+    "pergunta": "Como o protocolo HTTP/3 melhora a experiência na web?",
+    "resposta": "O HTTP/3, baseado no QUIC, reduz latência e melhora conexões em redes instáveis, como em celulares. Por exemplo, páginas do Google carregam mais rápido com HTTP/3. A crítica é que a adoção é lenta devido à compatibilidade. Sabia que o HTTP/3 elimina a necessidade de múltiplas conexões TCP?",
+    "palavras_chave": ["http/3", "quic", "latência", "web", "protocolo"]
+  },
+  {
+    "pergunta": "O que é um ataque de social engineering em redes corporativas?",
+    "resposta": "Social engineering em redes corporativas manipula funcionários para obter acesso a sistemas. Por exemplo, um hacker pode fingir ser do TI e pedir senhas por telefone. Treinamento e políticas rígidas ajudam a prevenir. A crítica é que muitas empresas subestimam esse risco humano. Sabia que 70% dos ataques corporativos envolvem engenharia social?",
+    "palavras_chave": ["social engineering", "corporativa", "segurança", "treinamento", "ataque"]
+  },
+  {
+    "pergunta": "Por que a criptografia simétrica é diferente da assimétrica?",
+    "resposta": "Criptografia simétrica usa uma única chave para criptografar e descriptografar, sendo rápida, como no AES. A assimétrica usa chaves pública e privada, como no RSA, sendo mais segura para trocas iniciais. A crítica é que a simétrica é vulnerável se a chave vazar. Sabia que o HTTPS combina ambas para eficiência e segurança?",
+    "palavras_chave": ["criptografia", "simétrica", "assimétrica", "aes", "rsa"]
+  },
+  {
+    "pergunta": "O que é um ataque de brute force em senhas Wi-Fi?",
+    "resposta": "Um ataque de brute force em senhas Wi-Fi tenta milhares de combinações para descobrir a senha do roteador. Ferramentas como Aircrack-ng são usadas para isso. Senhas longas e protocolos como WPA3 ajudam a proteger. A crítica é que muitos ainda usam senhas padrão. Sabia que o WPA3 foi lançado em 2018 para combater esses ataques?",
+    "palavras_chave": ["brute force", "wi-fi", "wpa3", "senha", "segurança"]
+  },
+  {
+    "pergunta": "Como o blockchain pode prevenir fraudes em transações online?",
+    "resposta": "O blockchain cria um registro imutável de transações, dificultando alterações fraudulentas. Por exemplo, em criptomoedas, cada transação é validada por uma rede descentralizada. A crítica é que o blockchain é lento para transações em massa. Sabia que o Ethereum usa blockchain para contratos inteligentes?",
+    "palavras_chave": ["blockchain", "fraude", "transação", "criptomoeda", "ethereum"]
+  },
+  {
+    "pergunta": "O que é o protocolo SNMP e seus usos em redes?",
+    "resposta": "O SNMP, ou Simple Network Management Protocol, monitora e gerencia dispositivos em uma rede, como roteadores e impressoras. Por exemplo, é usado para verificar o uso de banda. A crítica é que versões antigas do SNMP têm falhas de segurança. Sabia que o SNMP é usado desde os anos 1980 em redes corporativas?",
+    "palavras_chave": ["snmp", "rede", "gerenciamento", "monitoramento", "segurança"]
+  },
+  {
+    "pergunta": "Por que a autenticação por token é considerada segura?",
+    "resposta": "A autenticação por token gera códigos temporários, como em apps como Google Authenticator, que expiram rapidamente. Isso reduz o risco de roubo de senhas estáticas. Por exemplo, bancos usam tokens para transações. A crítica é que perder o dispositivo com o token pode ser um problema. Sabia que tokens de hardware, como YubiKey, são ainda mais seguros?",
+    "palavras_chave": ["token", "autenticação", "segurança", "yubikey", "código"]
+  },
+  {
+    "pergunta": "O que é um ataque de typosquatting na internet?",
+    "resposta": "Typosquatting é quando hackers registram domínios com erros de digitação, como 'googgle.com', para enganar usuários. Por exemplo, você pode acabar em um site falso que instala malware. A crítica é que navegadores poderiam alertar melhor sobre isso. Sabia que typosquatting é comum em campanhas de phishing?",
+    "palavras_chave": ["typosquatting", "phishing", "domínio", "malware", "segurança"]
+  },
+  {
+    "pergunta": "Como a tecnologia 6G pode impactar a cibersegurança?",
+    "resposta": "O 6G, ainda em desenvolvimento, promete velocidades extremas e conexões para bilhões de dispositivos IoT. Porém, mais dispositivos conectados aumentam os pontos de ataque. Por exemplo, sensores 6G em cidades podem ser hackeados. A crítica é que a segurança 6G ainda é incerta. Sabia que o 6G pode usar IA para otimizar redes em tempo real?",
+    "palavras_chave": ["6g", "cibersegurança", "iot", "velocidade", "ia"]
+  },
+  {
+    "pergunta": "O que é um ataque de watering hole?",
+    "resposta": "Um ataque de watering hole infecta um site que o alvo frequenta, como um fórum profissional, com malware. Por exemplo, hackers podem atingir engenheiros via um site técnico. É evitado com antivírus e navegação segura. A crítica é que esses ataques são difíceis de prever. Sabia que o termo vem de predadores que esperam presas em pontos d’água?",
+    "palavras_chave": ["watering hole", "malware", "ataque", "segurança", "site"]
+  },
+  {
+    "pergunta": "Por que o protocolo VoIP é usado para chamadas online?",
+    "resposta": "O VoIP, ou Voice over IP, converte voz em dados para chamadas pela internet, como no Zoom ou WhatsApp. É mais barato que telefonia tradicional, mas vulnerável a interceptações se não criptografado. A crítica é que a qualidade depende da conexão. Sabia que o Skype popularizou o VoIP nos anos 2000?",
+    "palavras_chave": ["voip", "chamada", "internet", "criptografia", "skype"]
+  },
+  {
+    "pergunta": "O que é um ataque de credential reuse?",
+    "resposta": "Credential reuse é quando hackers usam credenciais vazadas de um serviço em outros, explorando a reutilização de senhas. Por exemplo, uma senha vazada de um jogo pode comprometer sua conta de e-mail. A crítica é que muitos ignoram gerenciadores de senhas. Sabia que 65% dos usuários reutilizam senhas em múltiplos sites?",
+    "palavras_chave": ["credential reuse", "senha", "vazamento", "segurança", "gerenciador"]
+  },
+  {
+    "pergunta": "Como o protocolo RDP é usado e quais seus riscos?",
+    "resposta": "O RDP, ou Remote Desktop Protocol, permite controlar computadores remotamente, como em equipes de TI. Porém, senhas fracas ou portas abertas podem ser exploradas por hackers. Por exemplo, o ransomware SamSam usou RDP em 2018. A crítica é que muitas empresas deixam o RDP exposto. Sabia que o Microsoft RDP é usado por milhões de empresas?",
+    "palavras_chave": ["rdp", "acesso remoto", "segurança", "ransomware", "microsoft"]
+  },
+  {
+    "pergunta": "O que é um ataque de DNS tunneling?",
+    "resposta": "DNS tunneling usa o protocolo DNS para enviar dados maliciosos, contornando firewalls. Por exemplo, hackers podem extrair dados de uma empresa via consultas DNS falsas. É difícil de detectar sem monitoramento avançado. A crítica é que muitos sistemas não filtram DNS adequadamente. Sabia que o DNS tunneling é usado tanto por hackers quanto por empresas para VPNs?",
+    "palavras_chave": ["dns tunneling", "ataque", "firewall", "segurança", "dns"]
+  },
+  {
+    "pergunta": "Por que o monitoramento de tráfego de rede é importante?",
+    "resposta": "Monitorar o tráfego de rede detecta atividades suspeitas, como picos de dados que indicam ataques DDoS. Por exemplo, ferramentas como Wireshark analisam pacotes em tempo real. A crítica é que o monitoramento pode violar a privacidade se mal usado. Sabia que grandes empresas usam IA para monitorar redes automaticamente?",
+    "palavras_chave": ["monitoramento", "tráfego", "segurança", "ddos", "ia"]
+  },
+  {
+    "pergunta": "O que é um ataque de formjacking?",
+    "resposta": "Formjacking é quando hackers injetam códigos maliciosos em formulários de sites, como de pagamento, para roubar dados. Por exemplo, o grupo Magecart atacou a British Airways em 2018. A crítica é que lojistas raramente verificam seus códigos. Sabia que o formjacking pode roubar dados em tempo real sem o usuário perceber?",
+    "palavras_chave": ["formjacking", "magecart", "pagamento", "segurança", "ataque"]
+  },
+  {
+    "pergunta": "Como a tecnologia de redes privadas 5G beneficia empresas?",
+    "resposta": "Redes privadas 5G oferecem conexões rápidas e seguras para empresas, como em fábricas com robôs conectados. Por exemplo, a Nokia usa 5G privado para automação industrial. A crítica é que o custo de implementação é alto. Sabia que redes privadas 5G têm latência abaixo de 1 milissegundo?",
+    "palavras_chave": ["5g privado", "rede", "empresas", "latência", "automação"]
+  },
+  {
+    "pergunta": "O que é um ataque de cryptojacking?",
+    "resposta": "Cryptojacking é quando hackers usam seu dispositivo para minerar criptomoedas sem permissão, consumindo CPU. Por exemplo, scripts em sites podem minerar Bitcoin enquanto você navega. A crítica é que antivírus nem sempre detectam cryptojacking. Sabia que o Coinhive foi um script famoso de cryptojacking até 2019?",
+    "palavras_chave": ["cryptojacking", "mineração", "segurança", "cpu", "coinhive"]
+  },
+  {
+    "pergunta": "Por que a educação em cibersegurança é essencial para usuários comuns?",
+    "resposta": "Educação em cibersegurança ensina usuários a reconhecerem phishing, usarem senhas fortes e evitarem riscos. Por exemplo, saber verificar URLs evita fraudes. A crítica é que escolas raramente ensinam isso. Sabia que 88% dos vazamentos de dados são causados por erros humanos?",
+    "palavras_chave": ["educação", "cibersegurança", "phishing", "senha", "erros"]
+  },
+  {
+    "pergunta": "O que é o protocolo CoAP e onde ele é usado?",
+    "resposta": "O CoAP, ou Constrained Application Protocol, é um protocolo leve para dispositivos IoT com recursos limitados, como sensores. Por exemplo, é usado em lâmpadas inteligentes para enviar comandos. A crítica é que precisa de criptografia extra para segurança. Sabia que o CoAP foi projetado para competir com o HTTP em IoT?",
+    "palavras_chave": ["coap", "iot", "protocolo", "segurança", "dispositivos"]
+  }
+]

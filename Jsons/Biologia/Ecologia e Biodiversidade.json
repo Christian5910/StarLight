@@ -1,0 +1,557 @@
+[
+  {
+    "pergunta": "O que significa biodiversidade e por que ela é importante para o planeta?",
+    "resposta": "Biodiversidade é a variedade de seres vivos existentes em um ecossistema ou em todo o planeta, incluindo genes, espécies e ecossistemas. Ela garante equilíbrio ecológico, estabilidade climática e recursos naturais. Sabia que a Amazônia abriga cerca de 10% de todas as espécies conhecidas do mundo?",
+    "palavras_chave": ["biodiversidade", "ecossistemas", "espécies", "equilíbrio", "amazônia"]
+  },
+  {
+    "pergunta": "Como os ecossistemas mantêm o equilíbrio entre as espécies?",
+    "resposta": "O equilíbrio ecológico depende das interações entre produtores, consumidores e decompositores. Cada organismo cumpre um papel essencial na cadeia alimentar. Sabia que até microrganismos invisíveis são fundamentais para reciclar nutrientes no solo?",
+    "palavras_chave": ["ecossistema", "equilíbrio", "cadeia alimentar", "decompositores", "nutrientes"]
+  },
+  {
+    "pergunta": "O que é uma cadeia alimentar e como ela funciona?",
+    "resposta": "A cadeia alimentar mostra o fluxo de energia e matéria entre os seres vivos, dos produtores até os decompositores. Por exemplo, a grama alimenta o gafanhoto, que alimenta o sapo, e assim por diante. Sabia que em um ecossistema equilibrado, nada se perde — tudo é reaproveitado?",
+    "palavras_chave": ["cadeia alimentar", "energia", "produtores", "consumidores", "decompositores"]
+  },
+  {
+    "pergunta": "Qual é a diferença entre bioma e ecossistema?",
+    "resposta": "Um bioma é um conjunto de ecossistemas com características climáticas e biológicas semelhantes, como a Floresta Amazônica ou o Cerrado. Já o ecossistema pode ser algo bem menor, como um lago ou uma mata. Sabia que o Brasil tem seis biomas principais reconhecidos oficialmente?",
+    "palavras_chave": ["bioma", "ecossistema", "clima", "flora", "fauna"]
+  },
+  {
+    "pergunta": "O que é uma espécie endêmica e por que ela merece atenção especial?",
+    "resposta": "Espécies endêmicas são aquelas que só existem em uma determinada região. Elas são mais vulneráveis à extinção porque dependem daquele ambiente específico. Sabia que o mico-leão-dourado é um exemplo de espécie endêmica da Mata Atlântica?",
+    "palavras_chave": ["espécies endêmicas", "extinção", "conservação", "mata atlântica", "mico-leão-dourado"]
+  },
+  {
+    "pergunta": "Como as florestas ajudam a regular o clima da Terra?",
+    "resposta": "As florestas absorvem dióxido de carbono durante a fotossíntese e liberam oxigênio, além de influenciar as chuvas e a temperatura. Sabia que a Amazônia funciona como um 'ar-condicionado natural' para o continente sul-americano?",
+    "palavras_chave": ["florestas", "clima", "fotossíntese", "dióxido de carbono", "amazônia"]
+  },
+  {
+    "pergunta": "O que é o efeito estufa e por que ele pode ser perigoso?",
+    "resposta": "O efeito estufa é um fenômeno natural que mantém a Terra aquecida, mas o excesso de gases como CO₂ e metano intensifica esse processo, gerando aquecimento global. Sabia que sem o efeito estufa natural, o planeta seria frio demais para a vida?",
+    "palavras_chave": ["efeito estufa", "co2", "metano", "aquecimento global", "gases"]
+  },
+  {
+    "pergunta": "Como o desmatamento afeta os ecossistemas?",
+    "resposta": "O desmatamento destrói habitats, reduz a biodiversidade e contribui para o aumento de CO₂ na atmosfera. Ele afeta tanto animais quanto seres humanos. Sabia que 80% do desmatamento no Brasil está ligado à expansão agropecuária?",
+    "palavras_chave": ["desmatamento", "biodiversidade", "habitat", "co2", "agropecuária"]
+  },
+  {
+    "pergunta": "Por que os insetos são tão importantes para o equilíbrio ecológico?",
+    "resposta": "Os insetos polinizam plantas, decompõem matéria orgânica e servem de alimento para muitas espécies. Sem eles, a agricultura e os ecossistemas entrariam em colapso. Sabia que cerca de 75% das plantas cultivadas dependem de polinizadores?",
+    "palavras_chave": ["insetos", "polinização", "ecossistema", "agricultura", "biodiversidade"]
+  },
+  {
+    "pergunta": "Como o ciclo da água mantém a vida na Terra?",
+    "resposta": "A água circula entre oceanos, atmosfera e terra, passando pelos estados sólido, líquido e gasoso. Esse ciclo garante a renovação dos recursos hídricos. Sabia que apenas 2,5% da água do planeta é doce e disponível para consumo?",
+    "palavras_chave": ["ciclo da água", "atmosfera", "chuvas", "recursos hídricos", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que são espécies invasoras e por que elas representam um problema?",
+    "resposta": "Espécies invasoras são organismos que se estabelecem em ambientes onde não existiam naturalmente, competindo com as nativas. Isso pode causar desequilíbrio ecológico. Sabia que o caramujo-africano é uma das espécies invasoras mais problemáticas do Brasil?",
+    "palavras_chave": ["espécies invasoras", "ecossistemas", "competição", "caramujo-africano", "biodiversidade"]
+  },
+  {
+    "pergunta": "Como as mudanças climáticas afetam a biodiversidade marinha?",
+    "resposta": "O aumento da temperatura dos oceanos e a acidificação prejudicam corais, peixes e fitoplânctons. Isso desequilibra toda a cadeia alimentar marinha. Sabia que mais de 90% do excesso de calor global é absorvido pelos oceanos?",
+    "palavras_chave": ["mudanças climáticas", "oceanos", "corais", "fitoplâncton", "biodiversidade marinha"]
+  },
+  {
+    "pergunta": "Por que a reciclagem é importante para o meio ambiente?",
+    "resposta": "A reciclagem reduz a extração de recursos naturais e evita o acúmulo de lixo nos ecossistemas. Além disso, economiza energia. Sabia que uma lata de alumínio reciclada economiza energia suficiente para manter uma TV ligada por 3 horas?",
+    "palavras_chave": ["reciclagem", "sustentabilidade", "energia", "lixo", "recursos naturais"]
+  },
+  {
+    "pergunta": "O que é uma teia alimentar e como ela difere da cadeia alimentar?",
+    "resposta": "A teia alimentar mostra as várias relações de alimentação entre as espécies, conectando diversas cadeias alimentares. Ela representa melhor a complexidade de um ecossistema. Sabia que um mesmo animal pode ocupar papéis diferentes em teias distintas?",
+    "palavras_chave": ["teia alimentar", "cadeia alimentar", "ecossistema", "energia", "relações ecológicas"]
+  },
+  {
+    "pergunta": "Como os seres humanos influenciam o equilíbrio ecológico?",
+    "resposta": "Através da poluição, desmatamento e consumo excessivo de recursos, o ser humano altera ciclos naturais e afeta a biodiversidade. Sabia que estamos vivendo o que muitos cientistas chamam de Antropoceno, a era geológica marcada pela ação humana?",
+    "palavras_chave": ["antropoceno", "equilíbrio ecológico", "poluição", "recursos naturais", "biodiversidade"]
+  },
+  {
+    "pergunta": "O que é o conceito de sustentabilidade?",
+    "resposta": "Sustentabilidade é usar os recursos do presente sem comprometer as gerações futuras. Envolve economia, sociedade e meio ambiente. Sabia que a palavra ganhou destaque mundial após o Relatório Brundtland, em 1987?",
+    "palavras_chave": ["sustentabilidade", "meio ambiente", "economia", "sociedade", "recursos naturais"]
+  },
+  {
+    "pergunta": "Por que as abelhas são consideradas bioindicadores ambientais?",
+    "resposta": "Porque elas refletem a saúde do ambiente: quando as abelhas desaparecem, é sinal de que há desequilíbrio ou contaminação. Sabia que alguns países usam colmeias urbanas para monitorar a poluição do ar?",
+    "palavras_chave": ["abelhas", "bioindicadores", "poluição", "ecossistema", "equilíbrio"]
+  },
+  {
+    "pergunta": "O que é um hotspot de biodiversidade?",
+    "resposta": "Hotspot é uma área com altíssima biodiversidade, mas também muito ameaçada. A Mata Atlântica e o Cerrado são exemplos no Brasil. Sabia que esses locais concentram cerca de 60% das espécies terrestres do planeta?",
+    "palavras_chave": ["hotspot", "biodiversidade", "conservação", "mata atlântica", "cerrado"]
+  },
+  {
+    "pergunta": "Como o lixo plástico afeta os ecossistemas aquáticos?",
+    "resposta": "O plástico polui rios e oceanos, mata animais por ingestão e interfere nos ciclos biológicos. Sabia que microplásticos já foram encontrados até na água potável e em peixes consumidos por humanos?",
+    "palavras_chave": ["plástico", "poluição", "oceanos", "microplásticos", "ecossistemas aquáticos"]
+  },
+  {
+    "pergunta": "O que são relações ecológicas harmônicas e desarmônicas?",
+    "resposta": "As relações harmônicas beneficiam todos os envolvidos, como o mutualismo. As desarmônicas prejudicam um dos lados, como a predação. Sabia que líquens são um exemplo clássico de mutualismo entre fungos e algas?",
+    "palavras_chave": ["relações ecológicas", "mutualismo", "predação", "líquens", "ecossistemas"]
+  },
+  {
+    "pergunta": "Como a poluição sonora interfere na vida selvagem?",
+    "resposta": "O excesso de ruído afeta a comunicação e a reprodução de aves, mamíferos e até insetos. Sabia que baleias mudam suas rotas migratórias para fugir de barulhos de navios?",
+    "palavras_chave": ["poluição sonora", "animais", "comunicação", "reprodução", "ecossistema"]
+  },
+  {
+    "pergunta": "O que é o conceito de nicho ecológico?",
+    "resposta": "Nicho ecológico é o conjunto de funções que uma espécie desempenha em seu ambiente — o que come, onde vive e como interage. Sabia que duas espécies com nichos idênticos não conseguem coexistir por muito tempo?",
+    "palavras_chave": ["nicho ecológico", "espécies", "interações", "ecossistema", "competição"]
+  },
+  {
+    "pergunta": "Por que as florestas de mangue são tão importantes?",
+    "resposta": "Os manguezais protegem o litoral, servem de berçário para espécies marinhas e filtram impurezas da água. Sabia que eles também ajudam a conter o avanço do mar nas regiões costeiras?",
+    "palavras_chave": ["manguezais", "litoral", "espécies marinhas", "filtração", "ecossistema costeiro"]
+  },
+  {
+    "pergunta": "O que é sucessão ecológica?",
+    "resposta": "É o processo gradual de mudança em uma comunidade biológica ao longo do tempo, até atingir um equilíbrio. Sabia que um terreno vulcânico pode se transformar em floresta após milhares de anos de sucessão ecológica?",
+    "palavras_chave": ["sucessão ecológica", "comunidades", "ecossistema", "equilíbrio", "biodiversidade"]
+  },
+  {
+    "pergunta": "Como o ecoturismo pode ajudar na preservação ambiental?",
+    "resposta": "O ecoturismo incentiva o contato responsável com a natureza, gerando renda local e valorizando a conservação. Sabia que o turismo sustentável na Amazônia tem ajudado comunidades a proteger a floresta?",
+    "palavras_chave": ["ecoturismo", "preservação", "sustentabilidade", "amazônia", "comunidades"]
+  },
+  {
+    "pergunta": "O que são zonas de vida e como elas se relacionam com o clima?",
+    "resposta": "Zonas de vida são áreas caracterizadas por condições climáticas, vegetação e fauna semelhantes. Elas ajudam a entender como o clima molda os ecossistemas. Sabia que os desertos e tundras são exemplos extremos de zonas de vida?",
+    "palavras_chave": ["zonas de vida", "clima", "vegetação", "fauna", "ecossistemas"]
+  },
+  {
+    "pergunta": "Como os corais contribuem para a biodiversidade marinha?",
+    "resposta": "Os recifes de corais oferecem abrigo e alimento para milhares de espécies marinhas, funcionando como um ecossistema complexo. Sabia que os recifes ocupam menos de 1% do fundo oceânico, mas abrigam 25% de todas as espécies marinhas?",
+    "palavras_chave": ["corais", "biodiversidade", "recifes", "marinha", "ecossistema"]
+  },
+  {
+    "pergunta": "O que é biomagnificação e por que é perigosa?",
+    "resposta": "Biomagnificação é o acúmulo de substâncias tóxicas, como metais pesados, ao longo da cadeia alimentar. Predadores do topo sofrem efeitos mais graves. Sabia que o DDT, usado como pesticida, causou queda de populações de águias nos EUA?",
+    "palavras_chave": ["biomagnificação", "toxinas", "cadeia alimentar", "predadores", "DDT"]
+  },
+  {
+    "pergunta": "Como a fragmentação de habitats afeta os animais?",
+    "resposta": "A divisão de habitats reduz o espaço disponível, diminui recursos e dificulta a reprodução, aumentando o risco de extinção. Sabia que corredores ecológicos são criados justamente para conectar fragmentos de floresta e ajudar a fauna?",
+    "palavras_chave": ["fragmentação", "habitats", "animais", "extinção", "corredores ecológicos"]
+  },
+  {
+    "pergunta": "O que são espécies-chave e por que elas são vitais?",
+    "resposta": "Espécies-chave exercem impacto desproporcional no ecossistema. Sua ausência pode levar ao colapso da comunidade. Sabia que o lobo cinzento é considerado espécie-chave em florestas da América do Norte?",
+    "palavras_chave": ["espécies-chave", "ecossistema", "equilíbrio", "lobo cinzento", "biodiversidade"]
+  },
+  {
+    "pergunta": "Como os fungos ajudam na manutenção dos ecossistemas?",
+    "resposta": "Os fungos decompõem matéria orgânica, reciclando nutrientes essenciais para plantas e animais. Sabia que algumas espécies de fungos formam micorrizas, auxiliando plantas a absorver água e minerais do solo?",
+    "palavras_chave": ["fungos", "decomposição", "nutrientes", "micorrizas", "planta"]
+  },
+  {
+    "pergunta": "O que é um ecossistema aquático e quais tipos existem?",
+    "resposta": "Ecossistemas aquáticos são ambientes de água doce ou salgada que abrigam diversas espécies. Lagos, rios, manguezais e oceanos são exemplos. Sabia que a biodiversidade marinha é maior nos recifes de corais tropicais do que nos oceanos profundos?",
+    "palavras_chave": ["ecossistema aquático", "rios", "lagos", "manguezais", "oceanos"]
+  },
+  {
+    "pergunta": "Como os polinizadores influenciam a produção de alimentos?",
+    "resposta": "Animais como abelhas, borboletas e morcegos transferem pólen entre flores, permitindo a reprodução de plantas. Sem eles, grande parte da agricultura mundial seria prejudicada. Sabia que cerca de 35% da produção global de alimentos depende de polinização animal?",
+    "palavras_chave": ["polinizadores", "plantas", "produção alimentar", "abelhas", "borboletas"]
+  },
+  {
+    "pergunta": "O que é a perda de biodiversidade e quais são suas causas principais?",
+    "resposta": "A perda de biodiversidade ocorre quando espécies desaparecem e ecossistemas perdem complexidade. Causas incluem desmatamento, mudanças climáticas, poluição e espécies invasoras. Sabia que mais de um milhão de espécies estão em risco de extinção atualmente?",
+    "palavras_chave": ["perda de biodiversidade", "extinção", "desmatamento", "poluição", "espécies invasoras"]
+  },
+  {
+    "pergunta": "Como o solo influencia a biodiversidade de uma região?",
+    "resposta": "O solo fornece nutrientes, água e suporte para plantas, que sustentam toda a cadeia alimentar. Solos ricos aumentam diversidade, enquanto solos degradados reduzem. Sabia que a fertilidade do solo depende tanto de minerais quanto de microrganismos vivos?",
+    "palavras_chave": ["solo", "biodiversidade", "nutrientes", "microrganismos", "fertilidade"]
+  },
+  {
+    "pergunta": "O que é um ecossistema urbano e quais desafios ele enfrenta?",
+    "resposta": "Ecossistemas urbanos são áreas densamente habitadas por humanos, com fauna e flora adaptadas à cidade. Desafios incluem poluição, falta de vegetação e fragmentação de habitats. Sabia que parques urbanos funcionam como ilhas verdes, mantendo espécies e biodiversidade local?",
+    "palavras_chave": ["ecossistema urbano", "cidade", "biodiversidade", "poluição", "parques"]
+  },
+  {
+    "pergunta": "Como os rios contribuem para a diversidade biológica?",
+    "resposta": "Rios fornecem água, alimento e habitats variados, conectando ecossistemas terrestres e aquáticos. Sabia que a Bacia Amazônica abriga mais espécies de peixes do que qualquer outro rio do mundo?",
+    "palavras_chave": ["rios", "biodiversidade", "habitats", "água", "espécies"]
+  },
+  {
+    "pergunta": "O que é sucessão secundária e onde ela ocorre?",
+    "resposta": "Sucessão secundária ocorre em áreas onde o ecossistema foi perturbado, mas o solo ainda existe, como campos abandonados ou florestas desmatadas. Sabia que esse processo pode levar décadas até restaurar a vegetação original?",
+    "palavras_chave": ["sucessão secundária", "recuperação", "ecossistema", "solo", "vegetação"]
+  },
+  {
+    "pergunta": "Como o aquecimento global afeta a distribuição das espécies?",
+    "resposta": "O aumento da temperatura força espécies a migrar para regiões mais frias ou mais altas, alterando ecossistemas. Sabia que aves migratórias já mudaram suas rotas por causa do aquecimento global?",
+    "palavras_chave": ["aquecimento global", "migração", "espécies", "clima", "ecossistema"]
+  },
+  {
+    "pergunta": "Por que os manguezais são importantes para a pesca?",
+    "resposta": "Manguezais servem de berçário para peixes, camarões e crustáceos, garantindo a produtividade dos estoques pesqueiros. Sabia que áreas de manguezal destruídas podem reduzir drasticamente a pesca local em poucos anos?",
+    "palavras_chave": ["manguezais", "pesca", "berçário", "crustáceos", "ecossistema"]
+  },
+  {
+    "pergunta": "Como a poluição da água ameaça a biodiversidade aquática?",
+    "resposta": "Produtos químicos, esgoto e resíduos plásticos prejudicam peixes, plantas e micro-organismos. Sabia que espécies sensíveis, como moluscos e anfíbios, desaparecem primeiro em rios poluídos?",
+    "palavras_chave": ["poluição da água", "biodiversidade", "espécies aquáticas", "resíduos", "ecossistema"]
+  },
+  {
+    "pergunta": "O que é um corredor ecológico e qual sua função?",
+    "resposta": "Corredores ecológicos conectam fragmentos de habitat, permitindo que animais se desloquem, se reproduzam e mantenham a diversidade genética. Sabia que algumas estradas em parques são planejadas com passagens especiais para fauna?",
+    "palavras_chave": ["corredor ecológico", "habitat", "biodiversidade", "conectividade", "fauna"]
+  },
+  {
+    "pergunta": "Como as espécies pioneiras ajudam a iniciar a sucessão ecológica?",
+    "resposta": "Espécies pioneiras, como líquens e musgos, colonizam áreas vazias e modificam o ambiente, preparando-o para plantas maiores. Sabia que elas podem transformar rochas nuas em solo fértil ao longo do tempo?",
+    "palavras_chave": ["espécies pioneiras", "sucessão ecológica", "líquens", "musgos", "solo"]
+  },
+  {
+    "pergunta": "O que é um bioma aquático e como ele difere de biomas terrestres?",
+    "resposta": "Biomas aquáticos são grandes regiões com características próprias de água doce ou salgada, enquanto biomas terrestres têm predominância de solo e vegetação. Sabia que os oceanos são o maior bioma do planeta, cobrindo mais de 70% da superfície terrestre?",
+    "palavras_chave": ["bioma aquático", "bioma terrestre", "oceano", "água", "ecossistema"]
+  },
+  {
+    "pergunta": "Como a sobrepesca afeta a biodiversidade marinha?",
+    "resposta": "A retirada excessiva de peixes desequilibra ecossistemas e reduz espécies, afetando a cadeia alimentar. Sabia que algumas espécies comerciais já estão ameaçadas de extinção devido à sobrepesca?",
+    "palavras_chave": ["sobrepesca", "biodiversidade marinha", "espécies", "ecossistema", "cadeia alimentar"]
+  },
+  {
+    "pergunta": "O que é a eutrofização e quais são suas consequências?",
+    "resposta": "Eutrofização é o excesso de nutrientes em corpos d’água, provocando proliferação de algas e falta de oxigênio. Sabia que lagos eutrofizados podem se tornar ambientes hostis para peixes e outros animais aquáticos?",
+    "palavras_chave": ["eutrofização", "nutrientes", "algas", "oxigênio", "ecossistema aquático"]
+  },
+  {
+    "pergunta": "Como a agricultura sustentável contribui para a conservação da biodiversidade?",
+    "resposta": "Ela minimiza o uso de químicos, preserva habitats e mantém a fertilidade do solo. Sabia que técnicas como plantio direto e rotação de culturas ajudam a proteger insetos e microrganismos importantes?",
+    "palavras_chave": ["agricultura sustentável", "biodiversidade", "solo", "microrganismos", "habitat"]
+  },
+  {
+    "pergunta": "O que são zonas úmidas e por que são essenciais?",
+    "resposta": "Zonas úmidas são áreas alagadas temporária ou permanentemente, oferecendo abrigo e alimento para muitas espécies. Sabia que elas também funcionam como filtros naturais, purificando a água?",
+    "palavras_chave": ["zonas úmidas", "água", "habitat", "espécies", "purificação"]
+  },
+  {
+    "pergunta": "Como a acidificação dos oceanos impacta a vida marinha?",
+    "resposta": "O aumento de CO₂ dissolve no oceano, tornando a água mais ácida e prejudicando corais e moluscos que dependem de carbonato de cálcio. Sabia que isso pode afetar toda a cadeia alimentar marinha?",
+    "palavras_chave": ["acidificação", "oceanos", "corais", "moluscos", "co2"]
+  },
+  {
+    "pergunta": "O que são serviços ecossistêmicos e por que são importantes?",
+    "resposta": "Serviços ecossistêmicos são benefícios que os humanos obtêm da natureza, como água limpa, polinização e regulação climática. Sabia que a perda de biodiversidade reduz diretamente esses serviços vitais?",
+    "palavras_chave": ["serviços ecossistêmicos", "biodiversidade", "polinização", "água", "clima"]
+  },
+  {
+    "pergunta": "Como os incêndios florestais naturais podem ser benéficos?",
+    "resposta": "Queimadas naturais controlam vegetação, liberam nutrientes e estimulam germinação de algumas sementes. Sabia que espécies como o pinheiro-do-paraná dependem do fogo para se reproduzir?",
+    "palavras_chave": ["incêndios florestais", "nutrientes", "germinação", "ecossistema", "pinheiro"]
+  },
+  {
+    "pergunta": "Como a luz solar influencia os ecossistemas terrestres?",
+    "resposta": "A luz solar é a principal fonte de energia para a fotossíntese, que sustenta toda a cadeia alimentar. Sabia que regiões próximas ao equador recebem mais luz durante o ano, favorecendo florestas tropicais densas?",
+    "palavras_chave": ["luz solar", "fotossíntese", "energia", "cadeia alimentar", "florestas tropicais"]
+  },
+  {
+    "pergunta": "O que são espécies indicadoras e qual é sua função?",
+    "resposta": "Espécies indicadoras refletem a saúde do ambiente. Sua presença ou ausência sinaliza alterações ecológicas. Sabia que trutas são usadas para indicar qualidade da água em rios?",
+    "palavras_chave": ["espécies indicadoras", "qualidade ambiental", "rios", "fauna", "monitoramento"]
+  },
+  {
+    "pergunta": "Como os fungos micorrízicos beneficiam as plantas?",
+    "resposta": "Eles se associam às raízes, aumentando a absorção de água e minerais, principalmente fósforo. Sabia que mais de 90% das plantas terrestres têm algum tipo de micorriza?",
+    "palavras_chave": ["fungos", "micorriza", "raízes", "minerais", "plantas"]
+  },
+  {
+    "pergunta": "O que é a zona de amortecimento em áreas protegidas?",
+    "resposta": "É uma área ao redor de reservas que reduz impactos humanos sobre o núcleo protegido. Sabia que a criação de zonas de amortecimento ajuda a conservar espécies ameaçadas?",
+    "palavras_chave": ["zona de amortecimento", "conservação", "reserva", "impactos humanos", "espécies"]
+  },
+  {
+    "pergunta": "Como a poluição do ar afeta os ecossistemas terrestres?",
+    "resposta": "Gases como dióxido de enxofre e óxidos de nitrogênio provocam chuva ácida, prejudicando plantas e solos. Sabia que a chuva ácida pode levar décadas para neutralizar áreas florestais afetadas?",
+    "palavras_chave": ["poluição do ar", "chuva ácida", "solos", "plantas", "ecossistemas"]
+  },
+  {
+    "pergunta": "O que é biomassa e qual sua importância ecológica?",
+    "resposta": "Biomassa é a quantidade de matéria viva em um ecossistema, representando energia disponível. Sabia que florestas tropicais possuem maior biomassa terrestre do que qualquer outro bioma?",
+    "palavras_chave": ["biomassa", "energia", "matéria viva", "ecossistema", "florestas tropicais"]
+  },
+  {
+    "pergunta": "Como as zonas costeiras contribuem para a biodiversidade?",
+    "resposta": "Costas abrigam manguezais, recifes e estuários, oferecendo alimento e abrigo para muitas espécies. Sabia que estuários funcionam como viveiros naturais de peixes e crustáceos?",
+    "palavras_chave": ["zonas costeiras", "manguezais", "estuários", "recifes", "biodiversidade"]
+  },
+  {
+    "pergunta": "O que é sucessão primária e como ocorre?",
+    "resposta": "Sucessão primária ocorre em locais sem solo pré-existente, como rochas vulcânicas ou dunas. Espécies pioneiras iniciam o processo de colonização. Sabia que leva centenas de anos para transformar rochas nuas em floresta?",
+    "palavras_chave": ["sucessão primária", "colonização", "espécies pioneiras", "solo", "ecossistema"]
+  },
+  {
+    "pergunta": "Como o turismo excessivo pode prejudicar áreas naturais?",
+    "resposta": "Pode causar erosão, poluição e perturbação da fauna. Sabia que trilhas mal planejadas em parques nacionais aumentam a degradação do solo e comprometem habitats?",
+    "palavras_chave": ["turismo", "degradação", "solo", "habitat", "fauna"]
+  },
+  {
+    "pergunta": "O que são recursos renováveis e não renováveis?",
+    "resposta": "Renováveis podem ser repostos naturalmente, como água e florestas; não renováveis se esgotam, como petróleo e carvão. Sabia que o uso sustentável de recursos renováveis ajuda a manter ecossistemas equilibrados?",
+    "palavras_chave": ["recursos renováveis", "recursos não renováveis", "sustentabilidade", "ecossistemas", "energia"]
+  },
+  {
+    "pergunta": "Como os insetos decompositores mantêm o solo fértil?",
+    "resposta": "Eles quebram restos orgânicos, liberando nutrientes essenciais para plantas. Sabia que besouros, formigas e larvas desempenham papéis cruciais nesse processo?",
+    "palavras_chave": ["insetos", "decomposição", "solo", "nutrientes", "fertilidade"]
+  },
+  {
+    "pergunta": "O que são espécies vulneráveis e quais exemplos existem?",
+    "resposta": "Espécies vulneráveis correm risco de extinção se fatores de ameaça persistirem. Sabia que a onça-pintada e o tamanduá-bandeira são exemplos brasileiros?",
+    "palavras_chave": ["espécies vulneráveis", "extinção", "ameaça", "onça-pintada", "tamanduá-bandeira"]
+  },
+  {
+    "pergunta": "Como a polinização cruzada aumenta a diversidade genética?",
+    "resposta": "Ao transferir pólen entre plantas diferentes, ocorre recombinação genética, gerando descendentes mais adaptáveis. Sabia que culturas agrícolas dependem dessa diversidade para resistir a pragas?",
+    "palavras_chave": ["polinização cruzada", "diversidade genética", "pólen", "plantas", "adaptação"]
+  },
+  {
+    "pergunta": "O que são biociclos e como influenciam os ecossistemas?",
+    "resposta": "Biociclos são ciclos naturais de elementos como carbono, nitrogênio e fósforo, essenciais para a vida. Sabia que a alteração desses ciclos por atividades humanas impacta diretamente a biodiversidade?",
+    "palavras_chave": ["biociclos", "carbono", "nitrogênio", "fósforo", "ecossistema"]
+  },
+  {
+    "pergunta": "Como os recifes de corais são afetados pelo branqueamento?",
+    "resposta": "O branqueamento ocorre quando corais perdem suas algas simbióticas devido ao estresse, como aumento da temperatura. Sabia que sem as algas, os corais morrem e a biodiversidade local colapsa?",
+    "palavras_chave": ["recifes de corais", "branqueamento", "algas simbióticas", "temperatura", "biodiversidade"]
+  },
+  {
+    "pergunta": "Por que a diversidade genética é vital para a sobrevivência das espécies?",
+    "resposta": "Ela permite adaptação a mudanças ambientais e resistência a doenças. Sabia que populações com baixa diversidade genética são mais vulneráveis à extinção?",
+    "palavras_chave": ["diversidade genética", "adaptação", "espécies", "sobrevivência", "extinção"]
+  },
+  {
+    "pergunta": "Como as abelhas ameaçadas afetam a produção agrícola?",
+    "resposta": "Menos polinizadores significam menor rendimento e qualidade das colheitas. Sabia que algumas frutas, como maçãs e melancias, dependem quase totalmente de polinização animal?",
+    "palavras_chave": ["abelhas", "polinização", "agricultura", "produção", "colheitas"]
+  },
+  {
+    "pergunta": "O que é fragmentação florestal e como ela impacta a fauna?",
+    "resposta": "A divisão de grandes florestas em fragmentos reduz habitats e recursos, aumentando conflitos e mortes de animais. Sabia que espécies migratórias são especialmente afetadas?",
+    "palavras_chave": ["fragmentação florestal", "fauna", "habitat", "recursos", "migração"]
+  },
+  {
+    "pergunta": "Como a introdução de espécies exóticas altera ecossistemas?",
+    "resposta": "Espécies não nativas competem com as locais, podendo extingui-las ou modificar a dinâmica ecológica. Sabia que a tilápia, introduzida em rios brasileiros, alterou populações de peixes nativos?",
+    "palavras_chave": ["espécies exóticas", "ecossistema", "competição", "extinção", "tilápia"]
+  },
+  {
+    "pergunta": "O que é fragmentação genética e quais consequências tem?",
+    "resposta": "Fragmentação genética ocorre quando populações se isolam e reduzem a variabilidade genética, aumentando risco de extinção. Sabia que corredores ecológicos podem ajudar a reduzir esse problema?",
+    "palavras_chave": ["fragmentação genética", "população", "diversidade", "extinção", "corredores ecológicos"]
+  },
+  {
+    "pergunta": "Como o lixo eletrônico afeta ecossistemas terrestres e aquáticos?",
+    "resposta": "Metais pesados e substâncias químicas podem contaminar solos e águas, prejudicando fauna e flora. Sabia que até pequenas quantidades de mercúrio de eletrônicos descartados podem contaminar rios?",
+    "palavras_chave": ["lixo eletrônico", "poluição", "ecossistemas", "metais pesados", "contaminação"]
+  },
+  {
+    "pergunta": "O que são espécies invasoras aquáticas e exemplos no Brasil?",
+    "resposta": "Espécies como jacinto-de-água e caramujo-africano competem com espécies nativas, alterando ecossistemas. Sabia que o jacinto-de-água pode cobrir completamente rios e lagos, bloqueando a luz e oxigênio?",
+    "palavras_chave": ["espécies invasoras", "aquáticas", "jacinto-de-água", "caramujo-africano", "ecossistemas"]
+  },
+  {
+    "pergunta": "Como as zonas de preservação ajudam na conservação da biodiversidade?",
+    "resposta": "Elas protegem habitats críticos, permitindo reprodução e manutenção de espécies. Sabia que reservas e parques nacionais no Brasil representam cerca de 30% da área total de florestas protegidas?",
+    "palavras_chave": ["zonas de preservação", "biodiversidade", "habitats", "reserva", "parques nacionais"]
+  },
+  {
+    "pergunta": "O que é resilência ecológica e por que é importante?",
+    "resposta": "Resiliência ecológica é a capacidade de um ecossistema se recuperar de perturbações. Sabia que ecossistemas com alta biodiversidade tendem a ser mais resilientes?",
+    "palavras_chave": ["resiliência ecológica", "ecossistema", "perturbações", "biodiversidade", "recuperação"]
+  },
+  {
+    "pergunta": "Como os poluentes atmosféricos contribuem para mudanças climáticas?",
+    "resposta": "Gases como CO₂, metano e óxidos de nitrogênio intensificam o efeito estufa, aquecendo o planeta. Sabia que queimadas e atividades industriais são as principais fontes desses poluentes?",
+    "palavras_chave": ["poluentes", "atmosfera", "mudanças climáticas", "efeito estufa", "co2"]
+  },
+  {
+    "pergunta": "O que é a sobreposição de nichos e quais impactos pode causar?",
+    "resposta": "Quando espécies ocupam nichos semelhantes, ocorre competição por recursos. Sabia que isso pode levar à exclusão de espécies menos competitivas ou adaptação?",
+    "palavras_chave": ["sobreposição de nichos", "competição", "espécies", "recursos", "adaptação"]
+  },
+  {
+    "pergunta": "Como a cobertura vegetal influencia a erosão do solo?",
+    "resposta": "A vegetação protege o solo da chuva e do vento, evitando que ele seja levado e degradado. Sabia que áreas desmatadas sofrem erosão até 30 vezes mais rápido que áreas florestadas?",
+    "palavras_chave": ["cobertura vegetal", "erosão", "solo", "desmatamento", "proteção"]
+  },
+  {
+    "pergunta": "O que é um ecossistema degradado e como recuperá-lo?",
+    "resposta": "Um ecossistema degradado perdeu parte de sua biodiversidade e funcionalidade devido a atividades humanas ou naturais. A recuperação envolve reflorestamento, controle de espécies invasoras e restauração do solo. Sabia que o sucesso da restauração depende da diversidade de espécies plantadas?",
+    "palavras_chave": ["ecossistema degradado", "recuperação", "biodiversidade", "reflorestamento", "solo"]
+  },
+  {
+    "pergunta": "Como os insetos polinizadores contribuem para a biodiversidade?",
+    "resposta": "Eles permitem a reprodução de plantas, mantendo ecossistemas equilibrados. Sabia que cerca de 80% das plantas com flores dependem de polinizadores para se reproduzir?",
+    "palavras_chave": ["insetos", "polinização", "plantas", "biodiversidade", "ecossistema"]
+  },
+  {
+    "pergunta": "O que é sobre-exploração de recursos naturais?",
+    "resposta": "É a retirada excessiva de recursos além da capacidade de reposição natural, como pesca predatória e desmatamento ilegal. Sabia que a sobre-exploração é uma das principais causas de perda de biodiversidade?",
+    "palavras_chave": ["sobre-exploração", "recursos naturais", "biodiversidade", "pesca", "desmatamento"]
+  },
+  {
+    "pergunta": "Como os animais migratórios impactam os ecossistemas?",
+    "resposta": "Eles transferem nutrientes, sementes e mantêm equilíbrio populacional em diferentes regiões. Sabia que a migração de aves pode conectar ecossistemas distantes como florestas e zonas úmidas?",
+    "palavras_chave": ["animais migratórios", "nutrientes", "sementes", "equilíbrio", "ecossistemas"]
+  },
+  {
+    "pergunta": "O que são espécies ameaçadas de extinção?",
+    "resposta": "São aquelas em risco de desaparecer devido a perda de habitat, caça ou mudanças climáticas. Sabia que o mico-leão-dourado foi um exemplo de espécie que se recuperou graças a programas de conservação?",
+    "palavras_chave": ["espécies ameaçadas", "extinção", "habitat", "conservação", "mico-leão-dourado"]
+  },
+  {
+    "pergunta": "Como a introdução de espécies exóticas pode causar desequilíbrios?",
+    "resposta": "Espécies não nativas competem com as locais, muitas vezes levando à extinção de espécies endêmicas. Sabia que o javali, introduzido no Brasil, causa impactos significativos em áreas agrícolas e florestais?",
+    "palavras_chave": ["espécies exóticas", "desequilíbrio", "endêmicas", "invasão", "ecossistemas"]
+  },
+  {
+    "pergunta": "O que é um ecossistema costeiro e sua importância?",
+    "resposta": "Ecossistemas costeiros, como manguezais e praias, protegem contra erosão, abrigam espécies e sustentam a pesca. Sabia que eles também funcionam como filtros naturais de poluentes?",
+    "palavras_chave": ["ecossistema costeiro", "manguezais", "pesca", "proteção", "poluição"]
+  },
+  {
+    "pergunta": "Como as florestas tropicais contribuem para o ciclo do carbono?",
+    "resposta": "Elas absorvem CO₂ durante a fotossíntese, ajudando a regular o clima. Sabia que a Amazônia é responsável por absorver milhões de toneladas de CO₂ por ano, funcionando como um 'pulmão verde' do planeta?",
+    "palavras_chave": ["florestas tropicais", "carbono", "fotossíntese", "clima", "amazônia"]
+  },
+  {
+    "pergunta": "O que é a biodiversidade funcional?",
+    "resposta": "Refere-se à variedade de funções que espécies desempenham em um ecossistema, como polinização ou decomposição. Sabia que manter funções ecológicas é tão importante quanto preservar espécies individualmente?",
+    "palavras_chave": ["biodiversidade funcional", "ecossistema", "polinização", "decomposição", "funções"]
+  },
+  {
+    "pergunta": "Como a urbanização afeta a biodiversidade local?",
+    "resposta": "Construções, poluição e fragmentação de habitats reduzem espécies e alteram ecossistemas. Sabia que jardins e áreas verdes urbanas ajudam a manter fauna e flora adaptadas à cidade?",
+    "palavras_chave": ["urbanização", "biodiversidade", "fragmentação", "habitat", "ecossistemas"]
+  },
+  {
+    "pergunta": "O que é um ecossistema de água doce?",
+    "resposta": "É formado por rios, lagos e pântanos, sustentando peixes, plantas e microrganismos. Sabia que cerca de 10% das espécies de peixes vivem apenas em água doce?",
+    "palavras_chave": ["água doce", "rios", "lagos", "biodiversidade", "ecossistemas"]
+  },
+  {
+    "pergunta": "Como os recifes de corais contribuem para a pesca?",
+    "resposta": "Eles fornecem abrigo e alimento para peixes e crustáceos, sustentando comunidades pesqueiras. Sabia que a destruição de recifes reduz drasticamente a produtividade pesqueira?",
+    "palavras_chave": ["recifes de corais", "pesca", "peixes", "crustáceos", "biodiversidade"]
+  },
+  {
+    "pergunta": "O que são espécies endêmicas e exemplos no Brasil?",
+    "resposta": "Espécies endêmicas existem apenas em uma região específica. No Brasil, exemplos incluem o tamanduá-bandeira e o mico-leão-dourado. Sabia que essas espécies são mais vulneráveis à extinção por terem distribuição limitada?",
+    "palavras_chave": ["espécies endêmicas", "biodiversidade", "brasil", "extinção", "mico-leão-dourado"]
+  },
+  {
+    "pergunta": "Como a fragmentação de habitats prejudica a diversidade genética?",
+    "resposta": "Populações isoladas têm menor variabilidade genética, aumentando vulnerabilidade a doenças e mudanças ambientais. Sabia que corredores ecológicos podem conectar fragmentos e reduzir o problema?",
+    "palavras_chave": ["fragmentação", "habitats", "diversidade genética", "populações", "corredores ecológicos"]
+  },
+  {
+    "pergunta": "O que é a acidificação dos oceanos e quais são seus efeitos?",
+    "resposta": "O excesso de CO₂ dissolve nos oceanos, aumentando a acidez e prejudicando corais e moluscos. Sabia que isso interfere na cadeia alimentar e afeta espécies marinhas de diferentes níveis?",
+    "palavras_chave": ["acidificação", "oceanos", "co2", "corais", "moluscos"]
+  },
+  {
+    "pergunta": "Como as zonas úmidas ajudam a regular enchentes?",
+    "resposta": "Absorvem excesso de água da chuva, protegendo áreas urbanas e rurais. Sabia que elas também armazenam nutrientes e servem de habitat para muitas espécies?",
+    "palavras_chave": ["zonas úmidas", "enchentes", "água", "habitat", "nutrientes"]
+  },
+  {
+    "pergunta": "O que são espécies invasoras terrestres e exemplos?",
+    "resposta": "Espécies introduzidas que competem com nativas, como o javali e a cabra selvagem no Brasil. Sabia que podem alterar solos, vegetação e reduzir a biodiversidade local?",
+    "palavras_chave": ["espécies invasoras", "terrestres", "biodiversidade", "javali", "cabras selvagens"]
+  },
+  {
+    "pergunta": "Como a perda de polinizadores afeta os ecossistemas?",
+    "resposta": "Menos polinizadores reduzem reprodução de plantas e produção de alimentos, prejudicando toda a cadeia alimentar. Sabia que abelhas são responsáveis por polinizar muitas culturas agrícolas vitais?",
+    "palavras_chave": ["perda de polinizadores", "plantas", "cadeia alimentar", "abelhas", "produção"]
+  },
+  {
+    "pergunta": "O que é a biodiversidade genética?",
+    "resposta": "É a variação de genes dentro de uma espécie, fundamental para adaptação e sobrevivência. Sabia que populações com baixa diversidade genética correm maior risco de extinção?",
+    "palavras_chave": ["biodiversidade genética", "espécies", "genes", "adaptação", "sobrevivência"]
+  },
+  {
+    "pergunta": "Como os ecossistemas marinhos regulam o clima global?",
+    "resposta": "Oceanos absorvem CO₂ e calor, regulando temperatura e clima. Sabia que fitoplânctons também produzem grande parte do oxigênio do planeta?",
+    "palavras_chave": ["ecossistemas marinhos", "clima", "oceano", "co2", "fitoplâncton"]
+  },
+  {
+    "pergunta": "O que é o efeito de ilha em fragmentos de habitat?",
+    "resposta": "Fragmentos isolados funcionam como ilhas, limitando migração e aumentando risco de extinção. Sabia que espécies grandes e predadores são mais afetados por esse efeito?",
+    "palavras_chave": ["efeito de ilha", "fragmentos", "habitat", "migração", "extinção"]
+  },
+  {
+    "pergunta": "Como os manguezais contribuem para a captura de carbono?",
+    "resposta": "Eles armazenam carbono na biomassa e no solo, ajudando a mitigar mudanças climáticas. Sabia que manguezais podem sequestrar até quatro vezes mais carbono que florestas tropicais terrestres?",
+    "palavras_chave": ["manguezais", "carbono", "biomassa", "solo", "clima"]
+  },
+  {
+    "pergunta": "O que é a resiliência de ecossistemas costeiros?",
+    "resposta": "É a capacidade de se recuperar de tempestades, erosão e poluição. Sabia que ecossistemas saudáveis, como recifes e manguezais, reduzem impactos de tsunamis e furacões?",
+    "palavras_chave": ["resiliência", "ecossistemas costeiros", "manguezais", "recifes", "recuperação"]
+  },
+  {
+    "pergunta": "Como a monocultura afeta a biodiversidade?",
+    "resposta": "Plantar apenas uma espécie reduz habitats, diminui diversidade genética e aumenta vulnerabilidade a pragas. Sabia que práticas de agrofloresta ajudam a contornar esses problemas?",
+    "palavras_chave": ["monocultura", "biodiversidade", "agricultura", "pragas", "agrofloresta"]
+  },
+  {
+    "pergunta": "O que é eutrofização costeira e seus impactos?",
+    "resposta": "Excesso de nutrientes em áreas costeiras provoca proliferação de algas, reduz oxigênio e mata peixes. Sabia que áreas portuárias e agrícolas são as mais afetadas por esse fenômeno?",
+    "palavras_chave": ["eutrofização costeira", "algas", "oxigênio", "peixes", "nutrientes"]
+  },
+  {
+    "pergunta": "Como os rios contribuem para a dispersão de sementes?",
+    "resposta": "A água transporta sementes e frutos, conectando ecossistemas e promovendo diversidade. Sabia que muitas espécies amazônicas dependem dos rios para colonizar novas áreas?",
+    "palavras_chave": ["rios", "sementes", "dispersão", "ecossistemas", "biodiversidade"]
+  },
+  {
+    "pergunta": "O que é fragmentação de corredores ecológicos?",
+    "resposta": "Quando áreas conectadas são interrompidas, prejudicando o movimento da fauna e troca genética. Sabia que estradas e urbanização são causas comuns desse problema?",
+    "palavras_chave": ["fragmentação", "corredores ecológicos", "fauna", "genética", "urbanização"]
+  },
+  {
+    "pergunta": "Como a poluição luminosa afeta a vida selvagem?",
+    "resposta": "Excesso de luz artificial interfere no ciclo de sono, migração e reprodução de animais. Sabia que tartarugas marinhas jovens usam a luz da lua para chegar ao mar, e luz artificial pode desorientá-las?",
+    "palavras_chave": ["poluição luminosa", "vida selvagem", "migração", "reprodução", "tartarugas"]
+  },
+  {
+    "pergunta": "O que são serviços de regulação ecológica?",
+    "resposta": "Serviços que mantêm equilíbrio do ecossistema, como controle de pragas, polinização e regulação climática. Sabia que florestas e zonas úmidas são essenciais para esses serviços?",
+    "palavras_chave": ["serviços de regulação", "ecossistema", "polinização", "pragas", "clima"]
+  },
+  {
+    "pergunta": "Como a perda de vegetação nativa afeta o ciclo hidrológico?",
+    "resposta": "Menos vegetação reduz infiltração de água no solo, aumenta erosão e altera chuvas. Sabia que reflorestamento ajuda a restaurar rios e lençóis freáticos?",
+    "palavras_chave": ["vegetação nativa", "ciclo hidrológico", "erosão", "chuvas", "reflorestamento"]
+  },
+  {
+    "pergunta": "O que são espécies bioindicadoras e exemplos?",
+    "resposta": "São espécies que refletem qualidade ambiental, como líquens indicam poluição do ar e anfíbios a saúde da água. Sabia que a ausência delas alerta para degradação do ecossistema?",
+    "palavras_chave": ["espécies bioindicadoras", "qualidade ambiental", "líquens", "anfíbios", "ecossistema"]
+  },
+  {
+    "pergunta": "Como os ecossistemas costeiros protegem comunidades humanas?",
+    "resposta": "Manguezais e recifes reduzem impacto de ondas e tempestades, evitando erosão e danos. Sabia que áreas com ecossistemas costeiros intactos sofrem menos prejuízos em furacões?",
+    "palavras_chave": ["ecossistemas costeiros", "proteção", "comunidades humanas", "manguezais", "recifes"]
+  },
+  {
+    "pergunta": "O que é poluição por nutrientes e impactos em rios?",
+    "resposta": "Excesso de nitrogênio e fósforo provoca crescimento exagerado de algas, diminuindo oxigênio e matando peixes. Sabia que esse fenômeno é chamado de eutrofização?",
+    "palavras_chave": ["poluição por nutrientes", "rios", "algas", "oxigênio", "eutrofização"]
+  }
+]

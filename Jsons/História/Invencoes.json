@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "Como surgiu a roda e por que ela foi tão importante?",
+    "resposta": "A roda apareceu por volta de 3500 a.C., na Mesopotâmia, e revolucionou o transporte e o comércio. Antes dela, mover cargas era lento e difícil. Com a roda, surgiram os primeiros carros de tração animal e a ideia de engrenagens. Sabia que os maias também criaram rodas, mas só as usavam em brinquedos, não em veículos?",
+    "palavras_chave": ["roda", "Mesopotâmia", "transporte", "comércio", "inovação"]
+  },
+  {
+    "pergunta": "Como o fogo mudou a história humana?",
+    "resposta": "Dominar o fogo, há mais de um milhão de anos, foi um dos maiores saltos da humanidade. Ele permitiu cozinhar alimentos, afastar predadores e criar comunidades em torno das fogueiras. Sabia que o fogo também ajudou na invenção dos primeiros metais e cerâmicas?",
+    "palavras_chave": ["fogo", "pré-história", "cozinhar", "sobrevivência", "comunidade"]
+  },
+  {
+    "pergunta": "Por que a bússola foi uma invenção tão decisiva?",
+    "resposta": "Inventada na China por volta do século XI, a bússola mudou completamente as navegações. Ela permitiu que marinheiros viajassem com mais segurança, mesmo sem enxergar o sol ou as estrelas. Sabia que sem a bússola as Grandes Navegações europeias talvez nunca tivessem acontecido?",
+    "palavras_chave": ["bússola", "China", "navegação", "exploração", "século XI"]
+  },
+  {
+    "pergunta": "Como o papel transformou as civilizações?",
+    "resposta": "Criado na China no século II a.C., o papel substituiu tábuas e pergaminhos, facilitando o registro do conhecimento. Ele foi levado pelos árabes até a Europa, mudando a história da escrita e da educação. Sabia que a palavra 'papel' vem de 'papiro', usado no Egito antigo?",
+    "palavras_chave": ["papel", "China", "escrita", "educação", "conhecimento"]
+  },
+  {
+    "pergunta": "Como a pólvora mudou o rumo das guerras?",
+    "resposta": "A pólvora, inventada por alquimistas chineses no século IX, transformou completamente as armas e as estratégias militares. Com ela surgiram os canhões e as armas de fogo, enfraquecendo os castelos medievais. Sabia que no início a pólvora era usada apenas em fogos de artifício?",
+    "palavras_chave": ["pólvora", "China", "armas de fogo", "guerras", "século IX"]
+  },
+  {
+    "pergunta": "Como o telescópio ampliou o conhecimento humano?",
+    "resposta": "O telescópio foi criado no início do século XVII e aperfeiçoado por Galileu Galilei. Ele revelou que a Terra não era o centro do universo, mudando toda a visão científica da época. Sabia que Galileu chegou a ver as luas de Júpiter e foi perseguido por isso?",
+    "palavras_chave": ["telescópio", "Galileu", "século XVII", "astronomia", "ciência"]
+  },
+  {
+    "pergunta": "O que a bússola e o astrolábio têm em comum?",
+    "resposta": "Ambos foram essenciais para as grandes viagens marítimas. A bússola mostrava a direção, enquanto o astrolábio ajudava a calcular a posição das estrelas e a latitude. Sabia que o astrolábio era usado até por navegadores árabes antes de chegar à Europa?",
+    "palavras_chave": ["bússola", "astrolábio", "navegação", "Grandes Navegações", "astronomia"]
+  },
+  {
+    "pergunta": "Como a invenção do motor a combustão mudou o transporte?",
+    "resposta": "O motor a combustão, desenvolvido no século XIX, substituiu o vapor e impulsionou carros, aviões e navios. Essa invenção acelerou a vida moderna e o comércio global. Sabia que Karl Benz criou o primeiro automóvel movido a gasolina em 1886?",
+    "palavras_chave": ["motor a combustão", "transporte", "século XIX", "automóvel", "Karl Benz"]
+  },
+  {
+    "pergunta": "O que representou a descoberta da eletricidade para a humanidade?",
+    "resposta": "A eletricidade mudou completamente a vida no século XIX, levando luz, comunicação e máquinas para todos os lugares. De Thomas Edison a Nikola Tesla, ela se tornou base da era moderna. Sabia que as primeiras cidades iluminadas pareciam mágicas para quem vivia na escuridão?",
+    "palavras_chave": ["eletricidade", "século XIX", "Edison", "Tesla", "modernidade"]
+  },
+  {
+    "pergunta": "Por que a invenção do telefone foi um marco nas comunicações?",
+    "resposta": "Em 1876, Alexander Graham Bell patenteou o telefone e transformou a forma como as pessoas se comunicavam. Pela primeira vez, era possível conversar à distância em tempo real. Sabia que Bell inventou o telefone por acaso, enquanto pesquisava aparelhos auditivos?",
+    "palavras_chave": ["telefone", "Alexander Graham Bell", "comunicação", "1876", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o avião revolucionou as viagens e a guerra?",
+    "resposta": "Criado pelos irmãos Wright em 1903, o avião encurtou distâncias e mudou o transporte global. Também teve papel decisivo nas guerras do século XX. Sabia que o primeiro voo durou apenas 12 segundos?",
+    "palavras_chave": ["avião", "irmãos Wright", "1903", "transporte aéreo", "século XX"]
+  },
+  {
+    "pergunta": "Como o rádio ajudou a unir o mundo?",
+    "resposta": "O rádio, desenvolvido no fim do século XIX, permitiu que a informação e a cultura chegassem a todos os lugares. Ele foi fundamental em guerras, campanhas políticas e programas de entretenimento. Sabia que Getúlio Vargas usava o rádio para falar diretamente com o povo brasileiro?",
+    "palavras_chave": ["rádio", "comunicação", "século XIX", "Getúlio Vargas", "informação"]
+  },
+  {
+    "pergunta": "Como a fotografia mudou a maneira de registrar o tempo?",
+    "resposta": "A fotografia surgiu no século XIX e substituiu os retratos pintados. Ela passou a registrar momentos reais, transformando a arte, o jornalismo e a ciência. Sabia que a primeira foto da história demorou oito horas para ser tirada?",
+    "palavras_chave": ["fotografia", "século XIX", "arte", "jornalismo", "registro histórico"]
+  },
+  {
+    "pergunta": "Por que o computador é considerado uma das maiores invenções da história?",
+    "resposta": "O computador, desenvolvido a partir da Segunda Guerra Mundial, revolucionou a ciência, o trabalho e a vida cotidiana. Ele evoluiu de máquinas gigantes para dispositivos portáteis. Sabia que a primeira programadora do mundo foi Ada Lovelace, no século XIX?",
+    "palavras_chave": ["computador", "Segunda Guerra Mundial", "Ada Lovelace", "tecnologia", "inovação"]
+  },
+  {
+    "pergunta": "Como a invenção do satélite mudou as comunicações?",
+    "resposta": "O primeiro satélite, o Sputnik, foi lançado pela União Soviética em 1957. Desde então, satélites são usados em transmissões de TV, GPS e internet. Sabia que o Sputnik nem tinha função prática, mas provocou a corrida espacial?",
+    "palavras_chave": ["satélite", "Sputnik", "1957", "comunicação", "corrida espacial"]
+  },
+  {
+    "pergunta": "O que foi a invenção do microchip e por que ela é tão importante?",
+    "resposta": "O microchip, criado nos anos 1950, miniaturizou os circuitos eletrônicos e permitiu o surgimento dos computadores pessoais e smartphones. Ele é o coração da era digital. Sabia que cada celular moderno tem bilhões de transistores dentro de um único chip?",
+    "palavras_chave": ["microchip", "anos 1950", "eletrônica", "computadores", "tecnologia"]
+  },
+  {
+    "pergunta": "Como as vacinas transformaram a história da humanidade?",
+    "resposta": "Desde o século XVIII, com Edward Jenner, as vacinas salvaram bilhões de vidas e erradicaram doenças como a varíola. Elas são um marco da medicina preventiva. Sabia que hoje existem vacinas até contra tipos de câncer?",
+    "palavras_chave": ["vacinas", "Edward Jenner", "medicina", "saúde pública", "prevenção"]
+  },
+  {
+    "pergunta": "Por que a máquina a vapor foi um divisor de águas?",
+    "resposta": "Inventada no século XVIII, a máquina a vapor impulsionou fábricas, locomotivas e navios, marcando o início da Revolução Industrial. Ela libertou o trabalho humano da força física. Sabia que James Watt não criou a primeira, mas a tornou eficiente?",
+    "palavras_chave": ["máquina a vapor", "século XVIII", "Revolução Industrial", "James Watt", "energia"]
+  },
+  {
+    "pergunta": "Como a invenção da internet transformou a sociedade?",
+    "resposta": "Criada a partir de redes militares nos anos 1960, a internet virou um espaço global de informação e cultura. Hoje ela conecta bilhões de pessoas em tempo real. Sabia que o primeiro e-mail da história foi enviado em 1971?",
+    "palavras_chave": ["internet", "anos 1960", "comunicação", "tecnologia", "globalização"]
+  },
+  {
+    "pergunta": "Como a inteligência artificial está mudando o presente e o futuro?",
+    "resposta": "A inteligência artificial usa algoritmos para aprender e tomar decisões. Ela está presente em celulares, carros e até diagnósticos médicos. Sabia que o termo 'inteligência artificial' foi criado em 1956 durante uma conferência nos EUA?",
+    "palavras_chave": ["inteligência artificial", "algoritmos", "tecnologia", "aprendizado", "futuro"]
+  },
+  {
+    "pergunta": "Como surgiu a agricultura e por que ela foi uma invenção decisiva?",
+    "resposta": "A agricultura começou por volta de 10 mil a.C., quando os humanos aprenderam a plantar e domesticar animais. Isso permitiu a criação de aldeias e o fim do nomadismo. Sabia que o trigo e a cevada foram as primeiras plantas cultivadas na região da Mesopotâmia?",
+    "palavras_chave": ["agricultura", "10 mil a.C.", "Mesopotâmia", "sedentarização", "civilização"]
+  },
+  {
+    "pergunta": "Por que a invenção da escrita foi um marco histórico?",
+    "resposta": "A escrita nasceu na Mesopotâmia por volta de 3500 a.C., com os sumérios. Ela transformou a comunicação e o controle político, permitindo registrar leis e comércio. Sabia que as primeiras escritas eram feitas em tabuletas de argila?",
+    "palavras_chave": ["escrita", "sumérios", "Mesopotâmia", "3500 a.C.", "comunicação"]
+  },
+  {
+    "pergunta": "Como os egípcios usavam a engenharia em suas construções?",
+    "resposta": "Os egípcios desenvolveram técnicas incríveis para erguer pirâmides e templos há mais de 4 mil anos. Eles usavam planos geométricos e ferramentas simples, mas eficazes. Sabia que as pirâmides de Gizé ainda estão alinhadas com precisão às estrelas?",
+    "palavras_chave": ["Egito Antigo", "engenharia", "pirâmides", "geometria", "astronomia"]
+  },
+  {
+    "pergunta": "Como o ferro mudou as sociedades antigas?",
+    "resposta": "A Idade do Ferro começou por volta de 1200 a.C. e trouxe armas e ferramentas mais resistentes. Isso deu poder a novos povos e impulsionou guerras e agricultura. Sabia que os hititas foram um dos primeiros a dominar o ferro?",
+    "palavras_chave": ["ferro", "Idade do Ferro", "1200 a.C.", "hititas", "tecnologia antiga"]
+  },
+  {
+    "pergunta": "Por que a invenção da roda de oleiro foi importante?",
+    "resposta": "A roda de oleiro surgiu na Mesopotâmia e facilitou a produção de cerâmica em grande escala. Além de utilitária, a cerâmica virou forma de arte e registro cultural. Sabia que os fragmentos de cerâmica são as principais fontes arqueológicas de civilizações antigas?",
+    "palavras_chave": ["roda de oleiro", "cerâmica", "Mesopotâmia", "arte antiga", "arqueologia"]
+  },
+  {
+    "pergunta": "Como o calendário transformou a organização das civilizações?",
+    "resposta": "Criado para acompanhar as colheitas e os ciclos do Sol e da Lua, o calendário surgiu no Egito e na Mesopotâmia. Ele permitiu planejar agricultura, festas e rituais. Sabia que o calendário egípcio tinha 365 dias, como o nosso?",
+    "palavras_chave": ["calendário", "Egito Antigo", "Mesopotâmia", "agricultura", "tempo"]
+  },
+  {
+    "pergunta": "O que representou a invenção do arado para a agricultura?",
+    "resposta": "O arado, inventado há mais de 5 mil anos, permitiu preparar o solo com mais eficiência e aumentar a produção de alimentos. Ele foi um divisor de águas na vida agrícola. Sabia que os primeiros arados eram puxados por bois?",
+    "palavras_chave": ["arado", "agricultura", "5 mil anos", "produção de alimentos", "inovação"]
+  },
+  {
+    "pergunta": "Como os romanos usavam os aquedutos?",
+    "resposta": "Os aquedutos romanos levavam água limpa das montanhas até as cidades, um feito de engenharia notável. Eles garantiam higiene e conforto em pleno Império Romano. Sabia que alguns aquedutos ainda funcionam até hoje?",
+    "palavras_chave": ["aquedutos", "Império Romano", "engenharia", "água", "infraestrutura"]
+  },
+  {
+    "pergunta": "Por que a invenção da pólvora mudou a Idade Média?",
+    "resposta": "A pólvora, trazida da China para a Europa, acabou com o domínio dos castelos e cavaleiros. Ela iniciou a era das armas de fogo e dos exércitos modernos. Sabia que os alquimistas chineses a criaram tentando encontrar o elixir da imortalidade?",
+    "palavras_chave": ["pólvora", "Idade Média", "armas", "China", "Europa"]
+  },
+  {
+    "pergunta": "Como a bússola e o mapa revolucionaram as navegações?",
+    "resposta": "A combinação da bússola com mapas detalhados permitiu aos navegadores explorar oceanos desconhecidos no século XV. Isso abriu caminho para o comércio e a colonização. Sabia que o mapa de Piri Reis, feito pelos turcos, já mostrava parte da América?",
+    "palavras_chave": ["bússola", "mapa", "século XV", "navegação", "descobrimentos"]
+  },
+  {
+    "pergunta": "Como a invenção da luneta inspirou a ciência moderna?",
+    "resposta": "A luneta, criada no século XVII, foi o instrumento que inspirou o telescópio. Com ela, Galileu e outros cientistas observaram o céu com novos olhos. Sabia que a palavra 'luneta' vem de 'luna', por causa das observações da Lua?",
+    "palavras_chave": ["luneta", "século XVII", "Galileu", "astronomia", "ciência"]
+  },
+  {
+    "pergunta": "Como o vidro mudou a história das invenções?",
+    "resposta": "O vidro começou a ser produzido pelos egípcios e fenícios há mais de 4 mil anos. Ele permitiu a criação de janelas, lentes e, mais tarde, microscópios e telescópios. Sabia que os romanos foram os primeiros a usar janelas de vidro nas casas?",
+    "palavras_chave": ["vidro", "Egito", "Fenícia", "invenções", "microscópio"]
+  },
+  {
+    "pergunta": "Por que o papel-moeda foi uma invenção tão importante?",
+    "resposta": "O papel-moeda surgiu na China no século VII e facilitou o comércio, substituindo as moedas de metal. Isso revolucionou as economias e inspirou os bancos modernos. Sabia que Marco Polo descreveu o uso do papel-moeda em suas viagens?",
+    "palavras_chave": ["papel-moeda", "China", "século VII", "comércio", "economia"]
+  },
+  {
+    "pergunta": "Como a bússola e o papel impulsionaram as Grandes Navegações?",
+    "resposta": "A combinação da bússola e do papel (usado em mapas e registros) permitiu que os europeus explorassem o mundo no século XV. Foi o início da globalização. Sabia que Portugal foi um dos pioneiros por dominar essas tecnologias?",
+    "palavras_chave": ["bússola", "papel", "Grandes Navegações", "século XV", "Portugal"]
+  },
+  {
+    "pergunta": "O que foi a invenção da tipografia e qual seu impacto?",
+    "resposta": "A tipografia, criada por Gutenberg no século XV, democratizou a leitura e o conhecimento. Livros e panfletos passaram a circular entre o povo. Sabia que o primeiro livro impresso foi a Bíblia de 1455?",
+    "palavras_chave": ["tipografia", "Gutenberg", "século XV", "imprensa", "conhecimento"]
+  },
+  {
+    "pergunta": "Como a descoberta do vidro óptico levou ao microscópio?",
+    "resposta": "O aprimoramento do vidro óptico no século XVII permitiu a criação do microscópio, revelando o mundo invisível das células. Sabia que Anton van Leeuwenhoek foi o primeiro a ver micro-organismos?",
+    "palavras_chave": ["microscópio", "vidro óptico", "século XVII", "Leeuwenhoek", "ciência"]
+  },
+  {
+    "pergunta": "Como o papel higiênico se tornou uma invenção essencial?",
+    "resposta": "O papel higiênico foi criado na China há mais de mil anos, mas só virou produto comum no Ocidente no século XIX. Sabia que antes as pessoas usavam tecidos, esponjas e até folhas?",
+    "palavras_chave": ["papel higiênico", "China", "século XIX", "higiene", "cotidiano"]
+  },
+  {
+    "pergunta": "Como os antibióticos mudaram a história da medicina moderna?",
+    "resposta": "Com a descoberta da penicilina por Alexander Fleming em 1928, as infecções antes mortais começaram a ser curadas. Essa invenção salvou milhões de vidas. Sabia que a penicilina foi usada em massa durante a Segunda Guerra Mundial?",
+    "palavras_chave": ["antibióticos", "penicilina", "Alexander Fleming", "1928", "medicina"]
+  },
+  {
+    "pergunta": "Por que os satélites e a inteligência artificial são marcos da era moderna?",
+    "resposta": "Os satélites permitiram comunicação global, enquanto a inteligência artificial revolucionou o modo de pensar e trabalhar. Juntas, elas definem o século XXI. Sabia que existem mais de 5 mil satélites ativos orbitando a Terra?",
+    "palavras_chave": ["satélites", "inteligência artificial", "século XXI", "tecnologia", "comunicação"]
+  },
+  {
+    "pergunta": "Como a energia solar se tornou uma das invenções do futuro?",
+    "resposta": "A energia solar usa a luz do Sol para gerar eletricidade limpa. Ela começou a ser usada no século XX e hoje é uma das maiores apostas contra o aquecimento global. Sabia que a primeira célula solar funcional foi criada em 1954?",
+    "palavras_chave": ["energia solar", "século XX", "sustentabilidade", "tecnologia", "meio ambiente"]
+  },
+  {
+    "pergunta": "Como a descoberta do fogo influenciou o desenvolvimento humano?",
+    "resposta": "O domínio do fogo foi uma das primeiras grandes conquistas da humanidade, há mais de um milhão de anos. Ele permitiu cozinhar alimentos, afastar predadores e gerar calor. Além disso, possibilitou a convivência social ao redor das fogueiras. Sabia que os primeiros vestígios controlados de fogo foram encontrados na África do Sul?",
+    "palavras_chave": ["fogo", "pré-história", "sobrevivência", "cozinha", "evolução humana"]
+  },
+  {
+    "pergunta": "Por que a invenção da roda foi importante também para a ciência?",
+    "resposta": "Além de revolucionar o transporte, a roda abriu caminho para experimentos físicos e engenharias mecânicas. Ela permitiu o estudo de forças e movimentos, sendo base de muitas máquinas científicas. Sabia que a primeira roda conhecida tem mais de 5 mil anos e foi encontrada na Mesopotâmia?",
+    "palavras_chave": ["roda", "mecânica", "força", "movimento", "Mesopotâmia"]
+  },
+  {
+    "pergunta": "Como o termômetro ajudou a transformar a medicina?",
+    "resposta": "O termômetro, desenvolvido por Galileu e aperfeiçoado no século XVII, permitiu medir a temperatura corporal de forma precisa. Isso ajudou médicos a identificar febres e doenças com base científica. Sabia que o primeiro termômetro de mercúrio foi criado em 1714 por Fahrenheit?",
+    "palavras_chave": ["termômetro", "Galileu", "Fahrenheit", "século XVII", "medicina"]
+  },
+  {
+    "pergunta": "Qual foi o impacto da invenção do microscópio na ciência?",
+    "resposta": "O microscópio revelou um mundo invisível e revolucionou a biologia. No século XVII, Anton van Leeuwenhoek observou bactérias e células pela primeira vez. Sabia que ele fazia suas próprias lentes manualmente, com precisão incrível?",
+    "palavras_chave": ["microscópio", "Leeuwenhoek", "biologia", "células", "século XVII"]
+  },
+  {
+    "pergunta": "Como a vacinação mudou a história da saúde pública?",
+    "resposta": "A vacinação começou com Edward Jenner em 1796, quando ele usou o vírus da vaca para imunizar contra a varíola. Desde então, salvou milhões de vidas e erradicou doenças. Sabia que a palavra 'vacina' vem de 'vacca', que significa vaca em latim?",
+    "palavras_chave": ["vacinação", "Edward Jenner", "varíola", "imunização", "saúde pública"]
+  },
+  {
+    "pergunta": "Por que a teoria da gravitação de Newton foi uma invenção conceitual?",
+    "resposta": "A teoria da gravitação universal, formulada por Isaac Newton no século XVII, unificou o movimento dos corpos na Terra e no espaço. Foi uma das maiores invenções intelectuais da humanidade. Sabia que Newton escreveu essa teoria durante uma quarentena?",
+    "palavras_chave": ["gravitação", "Newton", "século XVII", "física", "teoria científica"]
+  },
+  {
+    "pergunta": "Como a descoberta da penicilina mudou a medicina moderna?",
+    "resposta": "Alexander Fleming descobriu a penicilina em 1928 por acaso, ao notar que um fungo matava bactérias em uma placa de cultura. Essa invenção inaugurou a era dos antibióticos. Sabia que a penicilina só começou a ser produzida em larga escala durante a Segunda Guerra Mundial?",
+    "palavras_chave": ["penicilina", "Fleming", "1928", "antibióticos", "medicina moderna"]
+  },
+  {
+    "pergunta": "Como a descoberta do DNA transformou a biologia?",
+    "resposta": "A estrutura do DNA foi descoberta por James Watson e Francis Crick em 1953, com base em estudos de Rosalind Franklin. Essa descoberta revelou o código genético da vida. Sabia que a famosa foto 51, feita por Franklin, foi essencial para o modelo do DNA?",
+    "palavras_chave": ["DNA", "Watson", "Crick", "Rosalind Franklin", "genética"]
+  },
+  {
+    "pergunta": "Por que o telescópio é considerado uma das maiores invenções científicas?",
+    "resposta": "O telescópio permitiu ao ser humano observar o espaço com precisão. Galileu foi um dos primeiros a usá-lo para estudar os planetas, mudando nossa visão do universo. Sabia que o primeiro telescópio espacial foi o Hubble, lançado em 1990?",
+    "palavras_chave": ["telescópio", "Galileu", "Hubble", "astronomia", "observação"]
+  },
+  {
+    "pergunta": "Como a anestesia revolucionou as cirurgias?",
+    "resposta": "Antes da anestesia, as cirurgias eram brutais e raras. Com o uso do éter e do clorofórmio no século XIX, os pacientes puderam ser operados com segurança e menos dor. Sabia que a primeira anestesia pública foi feita em 1846, em Boston?",
+    "palavras_chave": ["anestesia", "cirurgia", "século XIX", "éter", "medicina"]
+  },
+  {
+    "pergunta": "Como a invenção do raio-X ajudou a salvar vidas?",
+    "resposta": "Em 1895, Wilhelm Röntgen descobriu os raios-X ao observar que um material fluorescia mesmo sem luz. Essa invenção permitiu ver o interior do corpo sem cirurgia. Sabia que Röntgen recusou patentear sua descoberta para que fosse acessível a todos?",
+    "palavras_chave": ["raio-x", "Röntgen", "1895", "diagnóstico", "medicina"]
+  },
+  {
+    "pergunta": "Qual foi a importância da pasteurização para a saúde pública?",
+    "resposta": "Louis Pasteur criou o processo de pasteurização para eliminar microrganismos nocivos em alimentos e bebidas. Essa técnica reduziu doenças e aumentou a conservação dos produtos. Sabia que ele também desenvolveu vacinas contra a raiva e o antraz?",
+    "palavras_chave": ["pasteurização", "Louis Pasteur", "microrganismos", "saúde pública", "vacinas"]
+  },
+  {
+    "pergunta": "Como a teoria da evolução de Darwin influenciou outras ciências?",
+    "resposta": "A teoria da evolução por seleção natural, proposta por Charles Darwin em 1859, revolucionou a biologia e influenciou áreas como psicologia e sociologia. Sabia que Darwin demorou mais de 20 anos para publicar seu livro 'A Origem das Espécies'?",
+    "palavras_chave": ["Darwin", "evolução", "seleção natural", "biologia", "1859"]
+  },
+  {
+    "pergunta": "Por que a eletricidade foi uma invenção científica transformadora?",
+    "resposta": "A compreensão e o uso da eletricidade mudaram a civilização. Cientistas como Faraday e Edison criaram tecnologias que iluminaram cidades e movimentaram o mundo. Sabia que Faraday nunca patenteou suas invenções?",
+    "palavras_chave": ["eletricidade", "Faraday", "Edison", "energia", "tecnologia"]
+  },
+  {
+    "pergunta": "Como os antibióticos modernos estão evoluindo com a biotecnologia?",
+    "resposta": "Hoje, a biotecnologia permite criar antibióticos personalizados e combater bactérias resistentes. Isso representa uma nova era da medicina baseada em genética e IA. Sabia que há pesquisas que usam vírus para destruir bactérias específicas?",
+    "palavras_chave": ["antibióticos", "biotecnologia", "genética", "bactérias", "inteligência artificial"]
+  },
+  {
+    "pergunta": "Como a vacina de mRNA representa uma nova etapa na imunização?",
+    "resposta": "As vacinas de mRNA, como as contra a Covid-19, ensinam o corpo a produzir proteínas que ativam a defesa imunológica. Essa tecnologia é rápida e adaptável. Sabia que ela estava em estudo há mais de 20 anos antes da pandemia?",
+    "palavras_chave": ["vacina", "mRNA", "Covid-19", "imunização", "biotecnologia"]
+  },
+  {
+    "pergunta": "Qual a importância do estetoscópio para os diagnósticos médicos?",
+    "resposta": "Inventado por René Laennec em 1816, o estetoscópio permitiu ouvir o coração e os pulmões com clareza. Até hoje, é símbolo da medicina. Sabia que o primeiro modelo era feito de madeira e só tinha um tubo?",
+    "palavras_chave": ["estetoscópio", "Laennec", "1816", "diagnóstico", "medicina"]
+  },
+  {
+    "pergunta": "Como a descoberta da insulina mudou a vida de milhões?",
+    "resposta": "A insulina foi descoberta em 1921 por Frederick Banting e Charles Best. Ela tornou possível controlar o diabetes e salvar vidas. Sabia que Banting recusou lucrar com a patente para garantir o acesso gratuito?",
+    "palavras_chave": ["insulina", "Banting", "diabetes", "1921", "descoberta médica"]
+  },
+  {
+    "pergunta": "Como a impressão 3D está revolucionando a medicina moderna?",
+    "resposta": "A impressão 3D permite criar próteses personalizadas, ossos artificiais e até tecidos biológicos. Essa tecnologia combina engenharia, biologia e computação. Sabia que já existem impressoras capazes de produzir órgãos humanos em teste?",
+    "palavras_chave": ["impressão 3D", "medicina", "próteses", "tecnologia", "biotecnologia"]
+  },
+  {
+    "pergunta": "Como os transplantes de órgãos se tornaram possíveis?",
+    "resposta": "Os transplantes surgiram no século XX, graças à anestesia, antibióticos e técnicas cirúrgicas avançadas. O primeiro transplante de rim bem-sucedido foi em 1954. Sabia que o doador e o receptor eram irmãos gêmeos?",
+    "palavras_chave": ["transplante", "rim", "1954", "cirurgia", "medicina"]
+  },
+  {
+    "pergunta": "Como surgiu o primeiro computador da história?",
+    "resposta": "O primeiro computador eletrônico programável foi o ENIAC, criado em 1946 nos Estados Unidos. Ele ocupava uma sala inteira e realizava cálculos complexos em segundos. Sabia que ele pesava mais de 27 toneladas?",
+    "palavras_chave": ["ENIAC", "computador", "1946", "tecnologia", "história da computação"]
+  },
+  {
+    "pergunta": "Quem foi Alan Turing e por que ele é importante na história da tecnologia?",
+    "resposta": "Alan Turing foi um matemático britânico que criou a base teórica da computação moderna e ajudou a decifrar códigos nazistas na Segunda Guerra. Sabia que o teste de Turing ainda é usado para medir a inteligência de máquinas?",
+    "palavras_chave": ["Alan Turing", "computação", "Segunda Guerra", "criptografia", "inteligência artificial"]
+  },
+  {
+    "pergunta": "Como surgiu a internet?",
+    "resposta": "A internet nasceu nos anos 1960 a partir da ARPANET, uma rede militar dos Estados Unidos. Ela conectava universidades e laboratórios de pesquisa. Sabia que o primeiro e-mail foi enviado em 1971?",
+    "palavras_chave": ["internet", "ARPANET", "1960", "e-mail", "comunicação digital"]
+  },
+  {
+    "pergunta": "O que foi a invenção do microchip e por que ela mudou tudo?",
+    "resposta": "Criado em 1958 por Jack Kilby e Robert Noyce, o microchip miniaturizou circuitos elétricos e tornou possível criar computadores pessoais. Sabia que ele é usado até em cartões de crédito e celulares?",
+    "palavras_chave": ["microchip", "Jack Kilby", "Robert Noyce", "1958", "eletrônica"]
+  },
+  {
+    "pergunta": "Como o computador pessoal transformou a sociedade?",
+    "resposta": "Na década de 1980, empresas como Apple e IBM popularizaram o computador pessoal, levando a tecnologia para casas e escritórios. Sabia que o primeiro Macintosh foi lançado em 1984?",
+    "palavras_chave": ["computador pessoal", "Apple", "IBM", "1980", "tecnologia doméstica"]
+  },
+  {
+    "pergunta": "Por que a invenção da World Wide Web foi tão importante?",
+    "resposta": "Em 1991, Tim Berners-Lee criou a World Wide Web, que transformou a internet em um espaço de navegação com páginas e links. Sabia que o primeiro site ainda está no ar até hoje?",
+    "palavras_chave": ["World Wide Web", "Tim Berners-Lee", "1991", "internet", "sites"]
+  },
+  {
+    "pergunta": "Como o celular mudou a forma de comunicação no mundo?",
+    "resposta": "O celular surgiu nos anos 1970 e se popularizou nos anos 1990, tornando possível se comunicar de qualquer lugar. Sabia que o primeiro celular comercial custava quase 4 mil dólares?",
+    "palavras_chave": ["celular", "telefonia móvel", "1970", "1990", "comunicação"]
+  },
+  {
+    "pergunta": "Como o GPS revolucionou a navegação moderna?",
+    "resposta": "O GPS, criado pelo governo dos EUA nos anos 1970, usa satélites para localizar qualquer ponto do planeta. Sabia que antes era uma tecnologia militar e só depois foi liberada para uso civil?",
+    "palavras_chave": ["GPS", "satélites", "navegação", "tecnologia militar", "localização"]
+  },
+  {
+    "pergunta": "O que são satélites e por que eles são essenciais hoje?",
+    "resposta": "Satélites artificiais orbitam a Terra para enviar sinais de TV, internet, GPS e monitoramento climático. Sabia que o primeiro foi o Sputnik, lançado pela União Soviética em 1957?",
+    "palavras_chave": ["satélite", "Sputnik", "1957", "comunicação", "espaço"]
+  },
+  {
+    "pergunta": "Como a inteligência artificial está mudando o mundo?",
+    "resposta": "A inteligência artificial permite que máquinas aprendam e tomem decisões com base em dados. Ela está presente em assistentes virtuais, diagnósticos médicos e até carros autônomos. Sabia que o termo 'IA' foi criado em 1956?",
+    "palavras_chave": ["inteligência artificial", "aprendizado de máquina", "dados", "tecnologia", "1956"]
+  },
+  {
+    "pergunta": "Por que a robótica é considerada uma das áreas mais promissoras?",
+    "resposta": "A robótica une engenharia, programação e IA para criar máquinas que realizam tarefas humanas. Sabia que já existem robôs capazes de operar cirurgias com precisão milimétrica?",
+    "palavras_chave": ["robótica", "inteligência artificial", "engenharia", "automação", "cirurgia robótica"]
+  },
+  {
+    "pergunta": "Como a energia solar se tornou uma das maiores inovações sustentáveis?",
+    "resposta": "Os painéis solares transformam luz em eletricidade limpa. Eles evoluíram muito desde sua criação em 1954. Sabia que hoje há satélites e cidades inteiras que funcionam com energia solar?",
+    "palavras_chave": ["energia solar", "sustentabilidade", "painéis solares", "1954", "energia limpa"]
+  },
+  {
+    "pergunta": "O que foi a Revolução Digital?",
+    "resposta": "A Revolução Digital começou no final do século XX com o avanço dos computadores e da internet, mudando como trabalhamos, estudamos e nos comunicamos. Sabia que ela é comparada à Revolução Industrial em impacto social?",
+    "palavras_chave": ["Revolução Digital", "computadores", "internet", "século XX", "transformação tecnológica"]
+  },
+  {
+    "pergunta": "Como o armazenamento em nuvem mudou a forma de guardar informações?",
+    "resposta": "A computação em nuvem permite armazenar dados em servidores remotos acessíveis pela internet. Sabia que isso reduziu o uso de papel e melhorou a segurança digital?",
+    "palavras_chave": ["computação em nuvem", "armazenamento digital", "dados", "internet", "tecnologia"]
+  },
+  {
+    "pergunta": "Como os carros elétricos representam o futuro da mobilidade?",
+    "resposta": "Os carros elétricos utilizam motores movidos a energia limpa e reduzem a emissão de gases poluentes. Sabia que o primeiro carro elétrico surgiu ainda no século XIX?",
+    "palavras_chave": ["carros elétricos", "mobilidade", "energia limpa", "século XIX", "tecnologia sustentável"]
+  },
+  {
+    "pergunta": "Como os drones estão sendo usados além das filmagens?",
+    "resposta": "Drones são usados em agricultura, entregas, segurança e até resgates. Sabia que o primeiro uso militar de drones foi ainda na Segunda Guerra Mundial?",
+    "palavras_chave": ["drones", "tecnologia", "Segunda Guerra Mundial", "aeronaves", "inovação"]
+  },
+  {
+    "pergunta": "Por que a criptomoeda é considerada uma invenção tecnológica disruptiva?",
+    "resposta": "A criptomoeda, como o Bitcoin criado em 2009, usa blockchain para registrar transações seguras e descentralizadas. Sabia que ninguém sabe ao certo quem é o criador do Bitcoin?",
+    "palavras_chave": ["criptomoeda", "Bitcoin", "2009", "blockchain", "economia digital"]
+  },
+  {
+    "pergunta": "Como as redes sociais transformaram a comunicação global?",
+    "resposta": "As redes sociais conectam bilhões de pessoas e mudaram a forma como compartilhamos informações e opiniões. Sabia que o Facebook foi criado em 2004 em um dormitório universitário?",
+    "palavras_chave": ["redes sociais", "Facebook", "comunicação digital", "2004", "internet"]
+  },
+  {
+    "pergunta": "Como os aplicativos mudaram o cotidiano das pessoas?",
+    "resposta": "Aplicativos de celular tornaram serviços como transporte, comida e bancos acessíveis em segundos. Sabia que a App Store da Apple foi lançada em 2008 com apenas 500 apps?",
+    "palavras_chave": ["aplicativos", "App Store", "celulares", "2008", "tecnologia móvel"]
+  },
+  {
+    "pergunta": "Como a computação quântica pode transformar o futuro?",
+    "resposta": "A computação quântica usa princípios da física quântica para processar dados em velocidade incrível. Sabia que ela pode resolver cálculos impossíveis para os computadores atuais?",
+    "palavras_chave": ["computação quântica", "física quântica", "tecnologia do futuro", "processamento", "inovação científica"]
+  },
+  {
+    "pergunta": "Como surgiu a invenção da roda?",
+    "resposta": "A roda surgiu por volta de 3500 a.C. na Mesopotâmia, inicialmente usada em cerâmicas e depois em veículos de transporte. Sabia que a roda foi uma das bases para o desenvolvimento das civilizações?",
+    "palavras_chave": ["roda", "Mesopotâmia", "transporte", "3500 a.C.", "civilização antiga"]
+  },
+  {
+    "pergunta": "Quem inventou o papel e por que ele foi tão importante?",
+    "resposta": "O papel foi inventado na China no século II a.C. por Cai Lun, permitindo o registro e a disseminação de ideias. Sabia que antes se escrevia em bambu, seda e pergaminho?",
+    "palavras_chave": ["papel", "China", "Cai Lun", "escrita", "história da comunicação"]
+  },
+  {
+    "pergunta": "Como o vidro foi criado e para que servia no início?",
+    "resposta": "O vidro foi descoberto por volta de 2500 a.C. no Egito e na Mesopotâmia, usado inicialmente em joias e recipientes. Sabia que o vidro transparente só surgiu muito depois, no período romano?",
+    "palavras_chave": ["vidro", "Egito", "Mesopotâmia", "2500 a.C.", "materiais antigos"]
+  },
+  {
+    "pergunta": "Como o relógio mecânico revolucionou a noção de tempo?",
+    "resposta": "Os primeiros relógios mecânicos apareceram no século XIV na Europa, permitindo medir o tempo com precisão. Sabia que antes disso se usavam relógios de sol e ampulhetas?",
+    "palavras_chave": ["relógio", "tempo", "século XIV", "Europa", "medição"]
+  },
+  {
+    "pergunta": "Como a bússola ajudou nas grandes navegações?",
+    "resposta": "Inventada na China no século XI, a bússola permitiu que navegadores se orientassem pelo campo magnético da Terra. Sabia que ela foi essencial para as explorações marítimas europeias?",
+    "palavras_chave": ["bússola", "China", "navegação", "século XI", "descobrimentos"]
+  },
+  {
+    "pergunta": "Como foi inventada a imprensa de Gutenberg?",
+    "resposta": "Em 1450, Johannes Gutenberg criou a imprensa com tipos móveis, permitindo imprimir livros em massa. Sabia que a Bíblia foi o primeiro grande livro impresso?",
+    "palavras_chave": ["imprensa", "Gutenberg", "1450", "livros", "Revolução do Conhecimento"]
+  },
+  {
+    "pergunta": "Quem inventou a lâmpada elétrica e como ela mudou o mundo?",
+    "resposta": "Thomas Edison aperfeiçoou a lâmpada incandescente em 1879, tornando possível iluminar casas e cidades. Sabia que outros inventores, como Swan e Tesla, também trabalharam nessa ideia?",
+    "palavras_chave": ["lâmpada", "Edison", "1879", "eletricidade", "inovação"]
+  },
+  {
+    "pergunta": "Como surgiu o motor a combustão?",
+    "resposta": "O motor a combustão interna foi desenvolvido no século XIX por engenheiros como Nikolaus Otto e Rudolf Diesel. Sabia que ele deu origem aos automóveis modernos?",
+    "palavras_chave": ["motor", "combustão", "século XIX", "automóveis", "energia"]
+  },
+  {
+    "pergunta": "Como os irmãos Wright conseguiram fazer o primeiro voo?",
+    "resposta": "Em 1903, Orville e Wilbur Wright criaram o primeiro avião controlado e motorizado. Sabia que o voo durou apenas 12 segundos, mas mudou para sempre o transporte?",
+    "palavras_chave": ["avião", "irmãos Wright", "1903", "voo", "transporte aéreo"]
+  },
+  {
+    "pergunta": "Quem criou o telefone e qual foi seu impacto?",
+    "resposta": "Alexander Graham Bell inventou o telefone em 1876, permitindo a comunicação instantânea por voz. Sabia que o primeiro 'alô' da história foi uma mensagem acidental para seu assistente?",
+    "palavras_chave": ["telefone", "Graham Bell", "1876", "comunicação", "tecnologia"]
+  },
+  {
+    "pergunta": "Como surgiu a bicicleta e por que ela se popularizou?",
+    "resposta": "A bicicleta surgiu no século XIX e se popularizou como meio de transporte barato e saudável. Sabia que os primeiros modelos não tinham pedais?",
+    "palavras_chave": ["bicicleta", "século XIX", "transporte", "mobilidade", "história"]
+  },
+  {
+    "pergunta": "Por que a geladeira foi uma invenção tão revolucionária?",
+    "resposta": "A geladeira moderna surgiu no início do século XX e transformou a conservação de alimentos. Sabia que antes as pessoas usavam blocos de gelo ou sal para conservar comida?",
+    "palavras_chave": ["geladeira", "alimentos", "século XX", "tecnologia doméstica", "conservação"]
+  },
+  {
+    "pergunta": "Como o fogão evoluiu até os modelos elétricos e a gás?",
+    "resposta": "Os primeiros fogões eram a lenha, depois vieram os modelos a carvão, gás e elétricos. Sabia que o fogão a gás começou a se popularizar no século XIX?",
+    "palavras_chave": ["fogão", "cozinha", "energia", "século XIX", "invenção doméstica"]
+  },
+  {
+    "pergunta": "Quem inventou a fotografia e como ela funcionava no início?",
+    "resposta": "A fotografia foi criada em 1826 por Joseph Nicéphore Niépce, usando uma placa metálica e luz solar. Sabia que a primeira foto levou oito horas para ser tirada?",
+    "palavras_chave": ["fotografia", "Niépce", "1826", "imagem", "arte e ciência"]
+  },
+  {
+    "pergunta": "Como surgiu o cinema a partir da fotografia?",
+    "resposta": "Os irmãos Lumière projetaram o primeiro filme em 1895, transformando imagens em movimento. Sabia que o público se assustou com o trem vindo em direção à tela?",
+    "palavras_chave": ["cinema", "irmãos Lumière", "1895", "entretenimento", "história do cinema"]
+  },
+  {
+    "pergunta": "Quem inventou o rádio e por que ele foi tão influente?",
+    "resposta": "Guglielmo Marconi desenvolveu o rádio no fim do século XIX, permitindo transmitir sons pelo ar. Sabia que o rádio foi o principal meio de comunicação por décadas?",
+    "palavras_chave": ["rádio", "Marconi", "século XIX", "comunicação", "mídia"]
+  },
+  {
+    "pergunta": "Como surgiu a televisão e como ela evoluiu?",
+    "resposta": "A televisão foi desenvolvida nos anos 1920 e popularizada no pós-guerra. Sabia que as primeiras transmissões eram em preto e branco e usavam válvulas enormes?",
+    "palavras_chave": ["televisão", "anos 1920", "comunicação", "mídia", "inovação tecnológica"]
+  },
+  {
+    "pergunta": "Por que a caneta esferográfica foi uma invenção tão prática?",
+    "resposta": "A caneta esferográfica, criada por László Bíró em 1938, usava tinta pastosa e uma bolinha giratória na ponta. Sabia que ela substituiu as penas e tinteiros por ser mais limpa e durável?",
+    "palavras_chave": ["caneta esferográfica", "László Bíró", "1938", "escrita", "invenções do cotidiano"]
+  },
+  {
+    "pergunta": "Como o plástico mudou o mundo moderno?",
+    "resposta": "Criado no final do século XIX, o plástico revolucionou a indústria por ser leve e moldável. Sabia que hoje existem plásticos biodegradáveis para reduzir o impacto ambiental?",
+    "palavras_chave": ["plástico", "século XIX", "indústria", "biodegradável", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como os aspiradores e máquinas de lavar facilitaram a vida doméstica?",
+    "resposta": "Esses aparelhos surgiram no século XX e reduziram drasticamente o tempo de tarefas domésticas. Sabia que os primeiros aspiradores eram movidos a manivela?",
+    "palavras_chave": ["máquina de lavar", "aspirador", "século XX", "vida doméstica", "tecnologia"]
+  }
+]

@@ -1,0 +1,627 @@
+[
+  {
+    "pergunta": "O que é, de verdade, uma fração?",
+    "resposta": "Pense numa fração como uma forma de representar uma parte de um todo que foi dividido em pedaços iguais. O número de baixo, o denominador, te diz em quantas partes iguais o todo foi dividido. Já o número de cima, o numerador, conta quantas dessas partes a gente está considerando. Sabia que os egípcios antigos já usavam um sistema complexo de frações, mas quase sempre com numerador 1, como 1/2, 1/3, 1/4? Eles evitavam frações como 2/5, representando como a soma de 1/3 + 1/15.",
+    "palavras_chave": ["fração", "numerador", "denominador", "parte", "todo"]
+  },
+  {
+    "pergunta": "Por que precisamos encontrar um denominador comum para somar frações?",
+    "resposta": "A necessidade do denominador comum vem de uma simples verdade: você não pode somar maçãs com laranjas diretamente, certo? Com frações é a mesma lógica. Se uma fração representa pedaços de uma pizza cortada em 4 partes e outra de uma pizza cortada em 6, os pedaços têm tamanhos diferentes. O denominador comum, que é um múltiplo dos dois, serve para 'recalibrar' as frações, criando pedaços do mesmo tamanho imaginário, aí sim permitindo a soma. É uma questão de padronizar a unidade de medida.",
+    "palavras_chave": ["soma", "frações", "denominador comum", "mínimo múltiplo comum", "equivalência"]
+  },
+  {
+    "pergunta": "Como a porcentagem se relaciona com as frações?",
+    "resposta": "A porcentagem é, na essência, uma fração com denominador 100. O símbolo '%' significa literalmente 'por cento', ou 'a cada cem'. Então, quando você diz 25%, é o mesmo que 25/100, que pode ser simplificado para 1/4. Essa relação é poderosa porque transforma qualquer valor em uma escala universal de 0 a 100, facilitando comparações. Por exemplo, 50% de um bolo é a mesma coisa que 1/2 dele. A porcentagem é a forma mais amigável que a humanidade inventou para trabalhar com partes de um todo em contextos do dia a dia.",
+    "palavras_chave": ["porcentagem", "fração", "denominador 100", "comparação", "proporção"]
+  },
+  {
+    "pergunta": "O que é uma proporção e onde a usamos no cotidiano?",
+    "resposta": "Uma proporção é uma igualdade entre duas razões, ou seja, uma afirmação de que duas relações são equivalentes. Se você já fez uma receita de bolo e dobrou todos os ingredientes, usou uma proporção: 2 xícaras de farinha para 1 de açúcar mantém a mesma proporção que 4 xícaras de farinha para 2 de açúcar. Na escala de mapas, na mistura de combustível, na conversão de moedas e até na análise de pesquisas de opinião, as proporções estão presentes, garantindo que as relações se mantenham consistentes ao ampliar ou reduzir quantidades.",
+    "palavras_chave": ["proporção", "razão", "equivalência", "escala", "cotidiano"]
+  },
+  {
+    "pergunta": "Por que multiplicamos 'cruzado' na regra de três?",
+    "resposta": "A regra de três é, na verdade, a aplicação prática de uma proporção. Quando você multiplica cruzado, está usando a propriedade fundamental das proporções: o produto dos meios é igual ao produto dos extremos. Se a/b = c/d, então a * d = b * c. Essa operação é um atalho algébrico para isolar a incógnita. É como desembaraçar uma relação para encontrar o valor que mantém o equilíbrio. É uma ferramenta incrivelmente versátil, usada desde o cálculo de preços até a química, para determinar quantidades em reações.",
+    "palavras_chave": ["regra de três", "proporção", "produto dos meios", "extremas", "álgebra"]
+  },
+  {
+    "pergunta": "Como saber qual fração é maior sem converter para decimal?",
+    "resposta": "Existem alguns truques. Se os denominadores são iguais, é fácil: basta olhar para o numerador. O desafio é quando os denominadores são diferentes. Uma estratégia é usar o 'produto cruzado': multiplique o numerador da primeira fração pelo denominador da segunda e vice-versa. A fração que tiver o maior produto é a maior. Outro método é encontrar frações equivalentes que tenham o mesmo denominador, o que, no fundo, é o que fazemos mentalmente ao converter para decimal. A comparação visual também ajuda: 3/4 de uma pizza é claramente maior que 2/3, mesmo sem cálculos precisos.",
+    "palavras_chave": ["comparação", "frações", "produto cruzado", "equivalência", "denominador"]
+  },
+  {
+    "pergunta": "Para que serve a simplificação de frações?",
+    "resposta": "Simplificar uma fração é como reduzir uma receita à sua forma mais essencial. A fração 50/100 é equivalente a 1/2, mas esta última é muito mais fácil de visualizar e trabalhar. A simplificação não altera o valor, apenas o torna mais claro e os cálculos subsequentes mais simples. No fundo, você está dividindo o numerador e o denominador pelo maior número possível, o Máximo Divisor Comum (MDC). Em contextos de probabilidade, engenharia e até culinária, trabalhar com frações irredutíveis evita erros e facilita a interpretação.",
+    "palavras_chave": ["simplificação", "fração irredutível", "mdc", "equivalência", "clareza"]
+  },
+  {
+    "pergunta": "O que significa 'por cento' literalmente?",
+    "resposta": "O termo tem uma origem bem direta: vem do latim 'per centum', que significa 'por cem' ou 'a cada centena'. É uma forma de criar uma base padrão para comparações. Se eu digo que 10 em cada 50 alunos gostam de matemática, é mais difícil de comparar com outra escola onde 15 em cada 75 gostam. Mas se eu transformo em porcentagem, ambas são 20%. A grande sacada da porcentagem foi criar uma linguagem universal para partes de um todo, adotada no comércio, na estatística e no dia a dia. É uma das invenções matemáticas mais práticas da história.",
+    "palavras_chave": ["por cento", "latim", "base 100", "padronização", "história"]
+  },
+  {
+    "pergunta": "Como calcular mentalmente porcentagens comuns como 10%, 25% ou 50%?",
+    "resposta": "Essas são as joias da coroa do cálculo mental! Para 10%, basta mover a vírgula uma casa para a esquerda: 10% de 120 é 12. Para 50%, que é a metade, é só dividir por 2: 50% de 80 é 40. Para 25%, que é 1/4, divida por 4: 25% de 200 é 50. E para 20%, calcule 10% e depois dobre: 20% de 150 é 15 + 15 = 30. Dominar esses atalhos torna você muito mais ágil em situações do mercado, restaurantes e análises rápidas de dados. É matemática útil no mundo real!",
+    "palavras_chave": ["cálculo mental", "10%", "50%", "25%", "atalhos"]
+  },
+  {
+    "pergunta": "O que são frações equivalentes e por que são importantes?",
+    "resposta": "Frações equivalentes são diferentes representações do mesmo valor. Pense em 1/2, 2/4, 3/6 e 50/100 - todas representam a metade de algo. Elas são fundamentais porque nos permitem flexibilidade nos cálculos. Na soma de frações, precisamos delas para encontrar um denominador comum. Na simplificação, usamos para chegar à forma mais reduzida. Na comparação, elas nos ajudam a 'nivelar o campo'. É como ter várias moedas diferentes que valem a mesma coisa: você escolhe a que é mais conveniente para cada transação matemática.",
+    "palavras_chave": ["frações equivalentes", "mesmo valor", "denominador comum", "flexibilidade", "representação"]
+  },
+  {
+    "pergunta": "Por que às vezes multiplicamos frações e o resultado fica menor?",
+    "resposta": "Isso intriga muita gente! A chave está em entender o que significa multiplicar por uma fração. Quando você multiplica por 1/2, por exemplo, está na verdade encontrando a metade do número. É como perguntar: 'Quanto é metade de 10?' A resposta, 5, é menor que 10. Multiplicar por uma fração própria (onde o numerador é menor que o denominador) sempre resulta em um valor menor. Já multiplicar por uma fração imprópria (como 3/2) resulta em um valor maior. A multiplicação por fração é uma operação de escalonamento, não necessariamente de aumento.",
+    "palavras_chave": ["multiplicação", "frações próprias", "escalonamento", "metade", "intuição"]
+  },
+  {
+    "pergunta": "Como a proporção áurea se relaciona com frações?",
+    "resposta": "A proporção áurea, representada pela letra grega φ (phi), vale aproximadamente 1,618. Ela é uma proporção específica onde a razão entre a parte maior e a menor é igual à razão entre a soma das duas partes e a parte maior. Matematicamente, (a+b)/a = a/b = φ. Essa relação pode ser expressa como uma fração contínua infinita e interessante: 1 + 1/(1 + 1/(1 + 1/(1 + ...))). Sabia que essa proporção aparece em tantos lugares - do comprimento das falanges humanas à espiral de uma galáxia - que ganhou o status de 'divina proporção' durante o Renascimento?",
+    "palavras_chave": ["proporção áurea", "phi", "razão", "harmonia", "natureza"]
+  },
+  {
+    "pergunta": "O que é porcentagem de lucro e como calcular?",
+    "resposta": "A porcentagem de lucro mede o retorno sobre o investimento em termos percentuais. Existem duas formas principais: lucro sobre o custo e lucro sobre a venda. No lucro sobre o custo, você divide o lucro pelo custo e multiplica por 100. Se comprou por R$ 80 e vendeu por R$ 100, o lucro de R$ 20 representa 20/80 = 0,25 = 25% sobre o custo. Já no lucro sobre a venda, seria 20/100 = 20%. A escolha do referencial muda completamente a porcentagem! Por isso é crucial entender qual base está sendo usada em negócios e economia.",
+    "palavras_chave": ["lucro", "custo", "venda", "negócios", "cálculo comercial"]
+  },
+  {
+    "pergunta": "Por que dividimos frações multiplicando pela inversa?",
+    "resposta": "Essa regra parece mágica, mas tem uma lógica por trás. Pense na pergunta: 'Quantas metades cabem em 2 inteiros?' Em 2 inteiros cabem 4 metades, certo? Ou seja, 2 ÷ (1/2) = 4. Repare que isso é o mesmo que 2 × (2/1) = 4. A divisão por uma fração pergunta quantas vezes aquela fração cabe no número. Multiplicar pela inversa é a forma algébrica de responder essa pergunta. É como se a divisão desfizesse a 'ação' da fração, e a maneira de desfazer é aplicando o oposto, que é a fração invertida.",
+    "palavras_chave": ["divisão", "frações", "inversa", "lógica", "algoritmo"]
+  },
+  {
+    "pergunta": "Como usar proporções para fazer uma receita para mais ou menos pessoas?",
+    "resposta": "Cozinhar é matemática pura! Digamos que uma receita seja para 4 pessoas e você quer fazer para 6. A proporção é 4/6, que simplificada é 2/3. Isso significa que você precisa de 2/3 a mais de cada ingrediente, ou seja, multiplique cada quantidade por 1,5 (que é 6/4). Se fosse para 2 pessoas, a proporção seria 2/4 = 1/2, então use a metade de cada ingrediente. O segredo é estabelecer a razão entre o número desejado de pessoas e o número original da receita, e aplicar essa mesma razão a todos os ingredientes. É proporcionalidade direta em ação na cozinha!",
+    "palavras_chave": ["receita", "proporcionalidade", "cozinha", "escala", "razão"]
+  },
+  {
+    "pergunta": "O que significa 'partes por milhão' (ppm) e como se relaciona com porcentagem?",
+    "resposta": "Partes por milhão, ou ppm, é exatamente o que o nome diz: quantas partes de uma substância existem em um milhão de partes do todo. É como uma porcentagem, mas em vez de 'por cem', é 'por milhão'. Enquanto 1% significa 1 em 100, 1 ppm significa 1 em 1.000.000. Para converter: 1% = 10.000 ppm. Essa unidade é essencial quando lidamos com concentrações muito pequenas, como poluentes na água ou na atmosfera, onde a porcentagem seria um número decimal muito pequeno e pouco prático. É a fração do mundo microscópico e das baixíssimas concentrações.",
+    "palavras_chave": ["partes por milhão", "ppm", "concentração", "poluentes", "conversão"]
+  },
+  {
+    "pergunta": "Por que a probabilidade é frequentemente expressa em frações e porcentagens?",
+    "resposta": "A probabilidade mede a chance de um evento ocorrer, variando de 0 (impossível) a 1 (certo). As frações são naturais para isso: se há 3 bolas vermelhas em uma caixa com 10 bolas, a probabilidade de tirar uma vermelha é 3/10. Já as porcentagens transformam isso em uma escala de 0% a 100%, que é mais intuitiva para muitas pessoas. 3/10 = 30% - fica claro que é uma chance de 30 em 100. Ambas as representações são válidas, mas a porcentagem ganha em comunicabilidade, especialmente em contextos como pesquisas eleitorais ou risco de doenças, onde o público geral precisa entender rapidamente.",
+    "palavras_chave": ["probabilidade", "chance", "frações", "porcentagem", "compreensão"]
+  },
+  {
+    "pergunta": "Como funcionam os juros percentuais em financiamentos?",
+    "resposta": "Os juros representam o custo do dinheiro ao longo do tempo, e são quase sempre expressos em porcentagem por período (ex: 1% ao mês). No regime de juros simples, os juros incidem apenas sobre o valor inicial. Já nos juros compostos, os juros de cada período incidem sobre o saldo anterior, que já inclui juros acumulados - os famosos 'juros sobre juros'. Sabia que Albert Einstein chamou os juros compostos de 'a força mais poderosa do universo'? É por isso que uma dívida de cartão de crédito, com juros altos compostos mensalmente, pode crescer assustadoramente rápido se não for paga.",
+    "palavras_chave": ["juros", "porcentagem", "financiamento", "compostos", "tempo"]
+  },
+  {
+    "pergunta": "O que é uma fração mista e quando usá-la?",
+    "resposta": "Uma fração mista combina um número inteiro com uma fração própria, como 2 1/2 (dois e meio). Ela é útil quando queremos expressar quantidades em contextos do mundo real onde temos unidades completas mais uma parte. É mais natural dizer 'duas pizzas e meia' do que 'cinco metades de pizza'. No entanto, para cálculos matemáticos, geralmente convertemos as mistas em frações impróprias (2 1/2 vira 5/2) porque fica mais fácil operar. A fração mista é basicamente a forma 'amigável' de representar quantidades, enquanto a imprópria é a forma 'operacional'.",
+    "palavras_chave": ["fração mista", "inteiro", "frações próprias", "representação", "cálculo"]
+  },
+  {
+    "pergunta": "Como interpretar uma pesquisa que diz '45% dos entrevistados, com margem de erro de 3 pontos percentuais'?",
+    "resposta": "Isso significa que a verdadeira proporção na população provavelmente está entre 42% e 48% (45% ± 3%). A margem de erro é uma admissão humilde da estatística: como entrevistamos apenas uma amostra, e não a população toda, há uma incerteza. Se a pesquisa fosse repetida muitas vezes, em 95% das vezes o resultado estaria dentro dessa margem. Isso é crucial para comparar pesquisas: se um candidato tem 45% e outro 43%, com essa margem de erro, não podemos dizer com confiança que um está realmente na frente, pois as faixas de confiança se sobrepõem.",
+    "palavras_chave": ["pesquisa", "margem de erro", "estatística", "amostra", "interpretação"]
+  },
+  {
+    "pergunta": "Por que 0,999... (dízima periódica) é igual a 1?",
+    "resposta": "Essa é uma das verdades matemáticas que mais causam estranheza! Existem várias formas de ver isso. Algebricamente: se x = 0,999..., então 10x = 9,999... Subtraindo, temos 9x = 9, portanto x = 1. Geometricamente: a soma da série infinita 0,9 + 0,09 + 0,009 + ... é exatamente 1. Pelas frações: 1/3 = 0,333..., e 3 × 1/3 = 1, mas 3 × 0,333... = 0,999... Logo, 0,999... = 1. São duas representações diferentes do mesmo número, como 1/2 e 0,5. A matemática é consistente nesse ponto!",
+    "palavras_chave": ["dízima periódica", "0,999", "igualdade", "série infinita", "representação"]
+  },
+  {
+    "pergunta": "O que é densidade demográfica e como se calcula?",
+    "resposta": "Densidade demográfica é uma proporção que mede quantas pessoas vivem por unidade de área, normalmente habitantes por quilômetro quadrado (hab/km²). O cálculo é direto: divide-se a população total pela área do território. Se uma cidade tem 500.000 habitantes e ocupa 250 km², sua densidade é 500.000 ÷ 250 = 2.000 hab/km². Esse indicador ajuda a entender a concentração populacional, planejar infraestrutura e comparar regiões. Sabia que Mônaco tem densidade de quase 20.000 hab/km², enquanto a Amazônia brasileira fica abaixo de 5 hab/km²? São realidades completamente diferentes!",
+    "palavras_chave": ["densidade demográfica", "população", "área", "proporção", "geografia"]
+  },
+  {
+    "pergunta": "Como calcular 'porcentagem de porcentagem' corretamente?",
+    "resposta": "Essa é uma armadilha comum! Se eu disser 'aumente 100 em 10% e depois em mais 20%', não é o mesmo que aumentar 30%. No primeiro caso: 100 + 10% = 110, depois 110 + 20% = 132. No segundo: 100 + 30% = 130. A diferença vem do fato de que a segunda porcentagem incide sobre o valor já aumentado pela primeira. Isso se chama 'efeito acumulativo'. Para aumentos percentuais sucessivos, a forma correta é multiplicar pelos fatores: 100 × 1,10 × 1,20 = 132. A mesma lógica vale para descontos sucessivos.",
+    "palavras_chave": ["porcentagem acumulada", "aumentos sucessivos", "fator multiplicativo", "cálculo", "erro comum"]
+  },
+  {
+    "pergunta": "O que é escala em mapas e como funciona?",
+    "resposta": "A escala cartográfica é uma proporção entre uma medida no mapa e a medida correspondente no terreno real. Uma escala 1:100.000 significa que 1 cm no mapa representa 100.000 cm (ou 1 km) na realidade. É uma aplicação prática direta das proporções. Para calcular distâncias reais, meça no mapa e multiplique pelo denominador da escala. Se a escala é 1:50.000 e duas cidades estão a 4 cm no mapa, a distância real é 4 × 50.000 = 200.000 cm = 2 km. Mapas de escala grande (ex: 1:10.000) mostram mais detalhes; de escala pequena (ex: 1:1.000.000) mostram áreas maiores com menos detalhes.",
+    "palavras_chave": ["escala", "mapa", "proporção", "distância", "cartografia"]
+  },
+  {
+    "pergunta": "Por que às vezes a porcentagem pode dar mais de 100%?",
+    "resposta": "Isso acontece quando o referencial não é um 'todo' no sentido tradicional. Por exemplo, se um investimento rende 150%, significa que você recuperou o investimento original (100%) e ganhou mais 50% sobre ele. Em crescimento populacional: se uma cidade tinha 10.000 habitantes e agora tem 25.000, cresceu 150%. Em alguns contextos, como eficiência, o máximo é 100%, mas em crescimento, lucratividade ou comparações com valores base, é perfeitamente normal ultrapassar os 100%. A chave é sempre perguntar: '100% de quê?' O contexto define se faz sentido ou não passar dos 100%.",
+    "palavras_chave": ["mais de 100%", "referencial", "crescimento", "lucro", "contexto"]
+  },
+  {
+    "pergunta": "Qual a diferença entre 'aumento percentual' e 'pontos percentuais'?",
+    "resposta": "Essa diferença é crucial para interpretar dados corretamente. 'Pontos percentuais' se refere à diferença aritmética simples entre duas porcentagens. Já o 'aumento percentual' mede a variação relativa. Por exemplo: se a taxa de juros vai de 10% para 12%, aumentou 2 pontos percentuais, mas o aumento percentual foi de 20%, porque (12-10)/10 = 0,20 = 20%. Sabia que confundir esses conceitos é um dos erros mais comuns em notícias sobre economia e pesquisas eleitorais?",
+    "palavras_chave": ["pontos percentuais", "aumento percentual", "diferença", "variação", "interpretação"]
+  },
+  {
+    "pergunta": "Como converter qualquer fração em porcentagem?",
+    "resposta": "O processo é bem direto: divida o numerador pelo denominador e multiplique o resultado por 100. Por exemplo, para converter 3/5: 3 ÷ 5 = 0,60; 0,60 × 100 = 60%. Se a divisão não for exata, você pode arredondar para um ou dois decimais, dependendo da precisão necessária. Outra estratégia é encontrar uma fração equivalente com denominador 100 - se 1/4 = 25/100, então é 25%. É uma habilidade essencial para transformar conceitos matemáticos em linguagem do dia a dia.",
+    "palavras_chave": ["conversão", "fração para porcentagem", "divisão", "multiplicação", "equivalência"]
+  },
+  {
+    "pergunta": "O que são grandezas direta e inversamente proporcionais?",
+    "resposta": "Duas grandezas são diretamente proporcionais quando uma aumenta na mesma proporção que a outra. Se você dobra o número de trabalhadores, dobra a produção (em condições ideais). Já grandezas inversamente proporcionais se comportam de forma oposta: se você dobra a velocidade em uma viagem, reduz pela metade o tempo necessário para percorrer a mesma distância. Na proporção inversa, o produto entre as grandezas é constante. Identificar esse tipo de relação é fundamental para resolver muitos problemas práticos de física, economia e engenharia.",
+    "palavras_chave": ["proporcionalidade direta", "proporcionalidade inversa", "grandezas", "relação", "constante"]
+  },
+  {
+    "pergunta": "Por que 1 não é considerado um número primo?",
+    "resposta": "O número 1 foi excluído do conjunto dos primos por razões matemáticas profundas relacionadas à teoria dos números e à fatoração única. O Teorema Fundamental da Aritmética diz que todo número inteiro maior que 1 pode ser escrito como um produto único de números primos (desconsiderando a ordem). Se 1 fosse primo, essa representação não seria única, pois 6 poderia ser 2 × 3 ou 1 × 2 × 3 ou 1 × 1 × 2 × 3, e assim por diante. Excluir 1 preserva a unicidade da fatoração, que é uma propriedade fundamental em matemática.",
+    "palavras_chave": ["número primo", "fatoração única", "teorema fundamental", "aritmética", "definição"]
+  },
+  {
+    "pergunta": "Como calcular a porcentagem de um número sem calculadora?",
+    "resposta": "Existem várias estratégias mentais poderosas. Para 10%, basta mover a vírgula uma casa para a esquerda. Para 1%, mova duas casas. Para 5%, calcule 10% e depois a metade. Para 15%, some 10% e 5%. Para 20%, calcule 10% e dobre. Para 25%, divida por 4. Para 75%, calcule 3/4 (metade + metade da metade). Com prática, você consegue combinar essas técnicas para calcular quase qualquer porcentagem mentalmente. É como ter uma calculadora mental sempre disponível!",
+    "palavras_chave": ["cálculo mental", "estratégias", "10%", "decomposição", "prática"]
+  },
+  {
+    "pergunta": "O que é uma fração geratriz e como encontrar?",
+    "resposta": "Frações geratrizes são aquelas que, quando divididas, produzem dízimas periódicas. Para encontrar a geratriz de uma dízima, usamos um truque algébrico engenhoso. Para 0,333... fazemos: x = 0,333...; 10x = 3,333...; subtraindo, 9x = 3; x = 3/9 = 1/3. Para 0,272727...: x = 0,272727...; 100x = 27,272727...; 99x = 27; x = 27/99 = 3/11. O número de noves no denominador corresponde ao número de algarismos do período. É matemática pura transformando infinito em finito!",
+    "palavras_chave": ["fração geratriz", "dízima periódica", "álgebra", "período", "conversão"]
+  },
+  {
+    "pergunta": "Como usar proporções na mistura de tintas ou produtos químicos?",
+    "resposta": "Em misturas, as proporções garantem que as propriedades desejadas sejam mantidas. Se uma tinta precisa ser misturada na proporção 3:2:1 de azul:amarelo:branco, isso significa que para cada 3 partes de azul, usamos 2 de amarelo e 1 de branco. Se quisermos 600ml no total, dividimos 600 por (3+2+1)=6, obtendo 100ml por parte. Então: 3×100=300ml azul, 2×100=200ml amarelo, 1×100=100ml branco. Na química, o mesmo princípio garante que reações aconteçam na proporção correta de reagentes.",
+    "palavras_chave": ["mistura", "proporção", "química", "tintas", "partes"]
+  },
+  {
+    "pergunta": "Por que a ordem importa na divisão de frações?",
+    "resposta": "A divisão não é comutativa, e isso fica especialmente evidente com frações. 1/2 ÷ 1/4 é diferente de 1/4 ÷ 1/2. No primeiro caso: quantos quartos cabem em uma metade? Cabem 2 quartos, então 1/2 ÷ 1/4 = 2. No segundo: quantas metades cabem em um quarto? Cabe apenas meia metade, então 1/4 ÷ 1/2 = 1/2. Visualmente, se você tem meia pizza e quer dividir em pedaços de um quarto, consegue 2 pedaços. Mas se tem um quarto de pizza e quer dividir em pedaços de metade, só consegue meio pedaço. A ordem define completamente o resultado!",
+    "palavras_chave": ["divisão", "ordem", "comutatividade", "quociente", "intuição"]
+  },
+  {
+    "pergunta": "O que é taxa de conversão em marketing digital?",
+    "resposta": "A taxa de conversão é uma porcentagem crucial no mundo digital que mede a eficiência de uma campanha ou página. Ela calcula quantas pessoas realizaram uma ação desejada (como comprar, se inscrever ou clicar) em relação ao total de visitantes. Se 1.000 pessoas visitaram um site e 50 compraram, a taxa de conversão é 50/1.000 = 5%. Empresas otimizam constantemente seus sites para aumentar essa porcentagem, pois mesmo um aumento de 0,5% pode significar milhares de reais em vendas adicionais. É a porcentagem que vale ouro no e-commerce!",
+    "palavras_chave": ["taxa de conversão", "marketing", "eficácia", "e-commerce", "porcentagem"]
+  },
+  {
+    "pergunta": "Como frações aparecem na música?",
+    "resposta": "A música é matemática pura em forma de som! As frações definem a duração das notas: uma semibreve vale 1 tempo, uma mínima vale 1/2, uma semínova vale 1/4, uma colcheia vale 1/8, e assim por diante. Nos compassos, o numerador indica quantas notas cabem em cada compasso e o denominador indica o tipo de nota que vale 1 tempo. Um compasso 3/4 significa 3 tempos por compasso, sendo que cada tempo vale uma semínova (1/4). Sabia que Bach e outros compositores barrocos usavam proporções matemáticas complexas para criar harmonias consideradas perfeitas?",
+    "palavras_chave": ["música", "notas", "compasso", "duração", "ritmo"]
+  },
+  {
+    "pergunta": "O que significa 'por mil' (‰) e quando usamos?",
+    "resposta": "O símbolo ‰ significa 'por mil' e representa partes por mil, assim como % representa partes por cem. Enquanto 1% = 1/100 = 0,01, 1‰ = 1/1000 = 0,001. É útil quando queremos evitar decimais muito pequenos em porcentagens. Por exemplo, uma taxa de natalidade de 15‰ significa 15 nascimentos para cada 1.000 habitantes, o que equivaleria a 1,5%. É comumente usado em demografia, geografia, seguros e finanças. A conversão é simples: 1‰ = 0,1% e 10‰ = 1%.",
+    "palavras_chave": ["por mil", "taxa", "demografia", "conversão", "símbolo"]
+  },
+  {
+    "pergunta": "Como calcular 'porcentagem do porcentual' em impostos compostos?",
+    "resposta": "Impostos compostos são aqueles que incidem sobre valores que já contêm outros impostos - o famoso 'imposto sobre imposto'. Para calcular corretamente, você não pode simplesmente somar as porcentagens. Se um produto tem ICMS de 18% e ainda pisa de 1,65% sobre o total com ICMS, o cálculo é: preço base × 1,18 (ICMS) × 1,0165 (PIS) = preço final. Se o preço base é R$ 100, fica R$ 100 × 1,18 × 1,0165 = R$ 119,95. Somar 18% + 1,65% daria 19,65% de R$ 100 = R$ 119,65, uma diferença que se amplifica em valores maiores.",
+    "palavras_chave": ["impostos compostos", "incidência", "cálculo", "tributação", "multiplicação"]
+  },
+  {
+    "pergunta": "O que são frações unitárias e por que eram importantes para os egípcios?",
+    "resposta": "Frações unitárias são aquelas com numerador 1, como 1/2, 1/3, 1/4, etc. Os egípcios antigos praticamente só usavam esse tipo de fração, com exceção de 2/3. Eles representavam qualquer fração como soma de frações unitárias diferentes. Por exemplo, 3/4 era escrito como 1/2 + 1/4. Essa representação era fundamental para seu sistema de medição e comércio. Sabia que os papiros matemáticos egípcios mostram tabelas extensas convertendo frações em somas de frações unitárias? Era seu 'sistema operacional' matemático!",
+    "palavras_chave": ["frações unitárias", "egípcios", "história", "sistema", "representação"]
+  },
+  {
+    "pergunta": "Como interpretar uma promoção 'leve 3, pague 2' em termos percentuais?",
+    "resposta": "Essa é uma das promoções mais interessantes de analisar. 'Leve 3, pague 2' significa que você está pagando por 2 itens mas levando 3. O desconto percentual não é 33,3% como alguns pensam, mas sim calculado sobre o preço por unidade. Se cada item custa X, sem promoção você pagaria 3X. Na promoção, paga 2X. O desconto é de (3X - 2X)/3X = 1/3 ≈ 33,3% sobre o total da compra. Porém, sobre cada item individual, o desconto efetivo é diferente: você está pagando 2/3 do preço por item, ou aproximadamente 66,7% do preço original por unidade.",
+    "palavras_chave": ["promoção", "desconto", "leve 3 pague 2", "cálculo", "análise"]
+  },
+  {
+    "pergunta": "O que é a 'regra de sociedade' e como usa proporções?",
+    "resposta": "A regra de sociedade é uma aplicação clássica das proporções para divisão de lucros ou prejuízos em negócios. Se três sócios investem R$ 10.000, R$ 15.000 e R$ 25.000 respectivamente, e o lucro total é R$ 20.000, a divisão é proporcional aos investimentos. Primeiro soma-se os investimentos: 10.000 + 15.000 + 25.000 = 50.000. Cada sócio recebe: (seu investimento/50.000) × 20.000. Ou seja: R$ 4.000, R$ 6.000 e R$ 10.000. A regra garante justiça na distribuição baseada no quanto cada um contribuiu.",
+    "palavras_chave": ["regra de sociedade", "investimento", "lucro", "divisão", "proporcionalidade"]
+  },
+  {
+    "pergunta": "Por que 0,5 é igual a 1/2?",
+    "resposta": "Essa igualdade vem da própria definição do sistema decimal. O número 0,5 significa 5 décimos, ou 5/10. Quando simplificamos a fração 5/10 dividindo numerador e denominador por 5, obtemos 1/2. Visualmente, se você divide uma pizza em 10 pedaços iguais e pega 5, tem exatamente metade da pizza. Da mesma forma, se divide em 2 metades e pega 1, também tem metade. São representações diferentes da mesma quantidade. Essa equivalência é fundamental para transitar entre as representações fracionária e decimal.",
+    "palavras_chave": ["equivalência", "decimal", "fração", "metade", "representação"]
+  },
+  {
+    "pergunta": "Como calcular a porcentagem quando o valor inicial é zero?",
+    "resposta": "Esta é uma situação matematicamente problemática. A porcentagem é uma razão entre uma parte e um todo. Se o valor inicial é zero, você está tentando dividir por zero, o que é indefinido na matemática. Na prática, quando encontramos situações como 'o lucro foi de R$ 100, tendo sido zero no período anterior', dizemos que o aumento percentual é indefinido ou infinito, mas isso é mais uma convenção de linguagem do que matemática rigorosa. Em planilhas e programas, geralmente aparece um erro de divisão por zero. É importante tratar esses casos como especiais em análises.",
+    "palavras_chave": ["valor zero", "indefinido", "divisão por zero", "aumento percentual", "limitação"]
+  },
+  {
+    "pergunta": "O que é proporção na arte e arquitetura?",
+    "resposta": "Desde a Grécia Antiga, artistas e arquitetos usam proporções matemáticas para criar harmonia visual. A mais famosa é a Proporção Áurea (aproximadamente 1,618:1), presente no Partenon, em obras de Leonardo da Vinci e até no formato de cartões de crédito. Mas há outras: a proporção 1:√2 é usada no formato A4 de papel, que quando cortado ao meio mantém a mesma proporção. Essas relações criam uma sensação subconsciente de equilíbrio e beleza. Sabia que estudos mostram que rostos considerados bonitos frequentemente apresentam proporções específicas entre seus elementos?",
+    "palavras_chave": ["arte", "arquitetura", "harmonia", "proporção áurea", "beleza"]
+  },
+  {
+    "pergunta": "Como funciona o sistema de notas em porcentagem nas escolas?",
+    "resposta": "No sistema percentual, o conhecimento total possível é representado por 100%. Se uma prova tem 10 questões e cada uma vale o mesmo, acertar 7 questões significa 70%. Muitas escolas usam escalas como: 0-59% = insuficiente, 60-69% = regular, 70-79% = bom, 80-89% = muito bom, 90-100% = excelente. Esse sistema permite comparações padronizadas, mas tem críticas - será que 59% e 60% realmente representam diferenças qualitativas tão distintas? É uma convenção social tanto quanto matemática, com variações entre países e instituições.",
+    "palavras_chave": ["notas", "escola", "avaliação", "escala", "sistema"]
+  },
+  {
+    "pergunta": "O que é uma 'fração contínua'?",
+    "resposta": "Frações contínuas são representações matemáticas elegantes onde um número é expresso como uma fração dentro de uma fração, dentro de uma fração, e assim por diante. Por exemplo, a fração contínua simples para √2 é [1;2,2,2,2,...], significando 1 + 1/(2 + 1/(2 + 1/(2 + ...))). Números racionais têm frações contínuas finitas, enquanto irracionais têm infinitas. Sabia que as frações contínuas são usadas em algoritmos de calendário, teoria musical e até na resolução de equações diofantinas? Elas revelam padrões profundos sobre a estrutura dos números.",
+    "palavras_chave": ["fração contínua", "representação", "infinito", "números irracionais", "padrões"]
+  },
+  {
+    "pergunta": "Como calcular o preço original sabendo o preço com desconto?",
+    "resposta": "Esse é um cálculo comum e importante. Se um produto custa R$ 80 após um desconto de 20%, qual era o preço original? A armadilha é pensar que 20% de R$ 80 seria R$ 16, somando para R$ 96 - isso está errado! O correto é: R$ 80 representa 80% do original (100% - 20%). Então: preço original = preço com desconto ÷ (1 - porcentagem de desconto). No caso: R$ 80 ÷ 0,80 = R$ 100. Para acréscimos: preço original = preço com acréscimo ÷ (1 + porcentagem de acréscimo).",
+    "palavras_chave": ["preço original", "desconto", "cálculo reverso", "porcentagem", "inverso"]
+  },
+  {
+    "pergunta": "O que é a 'constante de proporcionalidade'?",
+    "resposta": "A constante de proporcionalidade é o número que relaciona duas grandezas diretamente proporcionais. Se y é proporcional a x, então y = kx, onde k é a constante. Por exemplo, se um carro consome 1 litro a cada 10 km, a constante de proporcionalidade entre distância e combustível é 0,1 litros/km (ou 10 km/litro, dependendo da relação). Em um gráfico de proporcionalidade direta, k é a inclinação da reta que passa pela origem. Identificar essa constante é essencial para modelar relações matemáticas no mundo real, da física à economia.",
+    "palavras_chave": ["constante", "proporcionalidade", "relação", "inclinação", "modelagem"]
+  },
+  {
+    "pergunta": "Como as frações aparecem nas probabilidades de jogos?",
+    "resposta": "No pôquer, a chance de receber um par na mão inicial é aproximadamente 1/17 (cerca de 5,9%). Na roleta, a probabilidade de acertar um número específico é 1/37 ou 1/38, dependendo da versão. Essas frações são fundamentais para calcular o 'valor esperado' de uma aposta - se a probabilidade de ganhar é 1/10 e o prêmio é 8 vezes a aposta, estatisticamente você perde dinheiro no longo prazo. Cassinos constroem seus negócios em cima dessas pequenas vantagens matemáticas, onde as frações garantem seu lucro ao longo de milhares de apostas.",
+    "palavras_chave": ["probabilidade", "jogos", "pôquer", "roleta", "valor esperado"]
+  },
+  {
+    "pergunta": "O que é 'porcentagem em massa' na química?",
+    "resposta": "Em química, a porcentagem em massa (ou percentual em massa) indica a composição de um elemento em um composto. Por exemplo, na água (H₂O), o hidrogênio representa aproximadamente 11,11% da massa e o oxigênio 88,89%. O cálculo é: (massa do elemento / massa total do composto) × 100%. Essa informação é crucial para determinar fórmulas empíricas, calcular quantidades em reações e entender propriedades dos materiais. Sabia que a porcentagem em massa de carbono no aço determina sua dureza e flexibilidade? É a matemática definindo as propriedades da matéria!",
+    "palavras_chave": ["porcentagem em massa", "química", "composição", "elementos", "compostos"]
+  },
+  {
+    "pergunta": "Por que às vezes multiplicamos porcentagens entre si?",
+    "resposta": "Multiplicamos porcentagens quando eventos são independentes e queremos a probabilidade de todos ocorrerem simultaneamente. Se há 50% de chance de chover sábado e 50% de chance de chover domingo, a probabilidade de chover ambos os dias é 50% × 50% = 25%. Na matemática financeira, se um investimento rende 10% ao ano por 2 anos, o rendimento total não é 20% mas sim (1,10 × 1,10) - 1 = 21%. A multiplicação captura o efeito composto, onde cada porcentagem incide sobre o resultado da anterior. É a diferença entre crescimento linear e exponencial.",
+    "palavras_chave": ["multiplicação", "porcentagens", "probabilidade", "juros compostos", "eventos independentes"]
+  },
+  {
+    "pergunta": "O que é uma 'fração irredutível' e como saber se uma fração está nessa forma?",
+    "resposta": "Uma fração é irredutível quando numerador e denominador são primos entre si, ou seja, não têm divisores comuns além do 1. Para verificar, calcule o Máximo Divisor Comum (MDC) entre ambos - se for 1, a fração já está irredutível. Se for maior que 1, divida ambos pelo MDC. Por exemplo, 8/12 tem MDC(8,12)=4, então a forma irredutível é 2/3. Sabia que os matemáticos preferem frações irredutíveis pela mesma razão que preferem números simplificados: facilitam cálculos e comparações, revelando a essência numérica da relação?",
+    "palavras_chave": ["fração irredutível", "mdc", "primos entre si", "simplificação", "forma canônica"]
+  },
+  {
+    "pergunta": "Como calcular descontos sucessivos corretamente?",
+    "resposta": "Para descontos sucessivos, não some as porcentagens - multiplique os fatores de desconto. Se um produto de R$ 100 tem 20% de desconto e depois mais 10%, calcule: R$ 100 × 0,80 (20% off) = R$ 80; depois R$ 80 × 0,90 (10% off) = R$ 72. Ou diretamente: R$ 100 × 0,80 × 0,90 = R$ 72. Somar 20% + 10% = 30% daria R$ 70, que está errado. O desconto total real é 28%, não 30%. Lembre-se: cada desconto incide sobre o valor já descontado anteriormente.",
+    "palavras_chave": ["descontos sucessivos", "fatores multiplicativos", "cálculo correto", "composto", "erro comum"]
+  },
+  {
+    "pergunta": "O que é a 'regra de três composta' e quando usá-la?",
+    "resposta": "A regra de três composta é usada quando uma grandeza depende de duas ou mais outras. Por exemplo: se 10 trabalhadores, trabalhando 8 horas por dia, constroem um muro em 15 dias, quanto tempo levariam 15 trabalhadores trabalhando 6 horas por dia? Organizamos as grandezas e analisamos se são direta ou inversamente proporcionais ao tempo. Trabalhadores é inversa (mais trabalhadores, menos tempo), horas/dia é inversa (menos horas, mais tempo). A resolução envolve multiplicar as razões das grandezas inversas. É poderosa para problemas complexos do mundo real.",
+    "palavras_chave": ["regra de três composta", "múltiplas grandezas", "proporcionalidade", "inversa", "problemas complexos"]
+  },
+  {
+    "pergunta": "Por que 100% não significa necessariamente 'tudo' em alguns contextos?",
+    "resposta": "Em certas situações, 100% representa uma capacidade máxima, não a totalidade absoluta. Na umidade relativa do ar, 100% significa que o ar está saturado com vapor d'água naquela temperatura, não que contém toda a água possível. Em eficiência energética, 100% seria o máximo teoricamente possível, mas na prática há sempre perdas. Em pesquisas com múltipla escolha, os respondentes podem marcar mais de uma opção, fazendo o total superar 100%. O contexto sempre define o que 100% realmente representa.",
+    "palavras_chave": ["100%", "contexto", "capacidade máxima", "saturação", "interpretação"]
+  },
+  {
+    "pergunta": "Como as frações aparecem no tempo e nos relógios?",
+    "resposta": "Os relógios são displays circulares de frações! Quando o ponteiro dos minutos está no 15, passou 1/4 de hora; no 30, 1/2 hora; no 45, 3/4 de hora. Um quarto de hora são literalmente 15/60 = 1/4 de 60 minutos. Sabia que os antigos babilônios dividiram o círculo em 360 graus e a hora em 60 minutos porque 360 tem muitos divisores, facilitando trabalhar com frações? Essa heragem influencia nossa medição de tempo e ângulos até hoje. 'Três e meia' significa 3 + 1/2 horas!",
+    "palavras_chave": ["tempo", "relógios", "horas", "minutos", "divisão circular"]
+  },
+  {
+    "pergunta": "O que é 'porcentagem volumétrica' e onde é usada?",
+    "resposta": "A porcentagem volumétrica mede a concentração de uma substância em uma mistura pelo volume, não pela massa. É comum em bebidas alcoólicas - quando dizemos 'álcool 40%', significa 40ml de álcool puro para cada 100ml da bebida. Na química, soluções são frequentemente preparadas em porcentagem volumétrica. A diferença da porcentagem em massa é importante: álcool é menos denso que água, então 40% vol não é igual a 40% em massa. O contexto sempre determina qual tipo de porcentagem está sendo usada.",
+    "palavras_chave": ["porcentagem volumétrica", "concentração", "bebidas alcoólicas", "volume", "misturas"]
+  },
+  {
+    "pergunta": "Como resolver problemas de 'tanques e torneiras' usando frações?",
+    "resposta": "Esses problemas clássicos envolvem torneiras enchendo e ralos esvaziando tanques. Cada torneira tem uma 'vazão fracionária' - se enche o tanque em 4 horas, sua vazão é 1/4 do tanque por hora. Se um ralo esvazia em 6 horas, esvazia 1/6 por hora. Com torneira e ralo abertos: 1/4 - 1/6 = 1/12 do tanque por hora. Logo, encherá em 12 horas. A chave é pensar em frações do trabalho por unidade de tempo e combiná-las algebricamente. É puro trabalho com frações!",
+    "palavras_chave": ["tanques", "torneiras", "vazão", "frações do trabalho", "taxas combinadas"]
+  },
+  {
+    "pergunta": "O que significa 'base 100' em porcentagem?",
+    "resposta": "A 'base 100' é o conceito fundamental por trás das porcentagens - criar uma escala padronizada onde o todo é sempre representado por 100. Isso permite comparações universais. Se digo que 30% dos alunos gostam de matemática, você imediatamente entende que são 30 em cada 100, independente do total ser 200 ou 2.000. A base 100 transforma qualquer fração em uma linguagem comum. Sabia que esse sistema tornou-se popular no século XV com comerciantes italianos, que precisavam de uma forma padrão para calcular lucros e juros?",
+    "palavras_chave": ["base 100", "padronização", "escala", "comparação", "história"]
+  },
+  {
+    "pergunta": "Como as proporções aparecem na culinária com medidas caseiras?",
+    "resposta": "Na cozinha, as proporções são tudo! 'Uma xícara de farinha para meia xícara de açúcar' estabelece a proporção 2:1. Colheres são frações de xícaras: normalmente 16 colheres = 1 xícara, então 1 colher = 1/16 de xícara. Receitas são basicamente sistemas de proporções que garantem o mesmo resultado independente da quantidade preparada. Sabia que muitos padeiros profissionais usam o sistema 'baker's percentage' onde todos os ingredientes são porcentagens do peso da farinha? Farinha é sempre 100%, e os outros ingredientes são porcentagens disso - água 60%, sal 2%, etc.",
+    "palavras_chave": ["culinária", "medidas caseiras", "proporções", "receitas", "xícaras"]
+  },
+  {
+    "pergunta": "O que é 'fração molar' na química?",
+    "resposta": "Fração molar é uma forma de expressar a composição de uma mistura usando as quantidades de matéria (moles). É a razão entre o número de moles de um componente e o número total de moles na mistura. Por exemplo, no ar, a fração molar do oxigênio é cerca de 0,21 (21%). A soma de todas as frações molares em uma mistura é sempre 1 (ou 100%). Diferente da porcentagem em massa, a fração molar leva em conta o número de moléculas, não seu peso. É especialmente útil em gases e em cálculos de pressão parcial.",
+    "palavras_chave": ["fração molar", "química", "moles", "composição", "misturas"]
+  },
+  {
+    "pergunta": "Por que às vezes a porcentagem pode ser menor que 0%?",
+    "resposta": "Percentuais negativos ocorrem quando há redução ou perda. Se uma empresa teve lucro de R$ 10.000 no ano passado e prejuízo de R$ 2.000 este ano, a variação foi de -120% (porque perdeu não apenas o lucro esperado, mas mais um pouco). Em temperaturas, -50% não faria sentido, mas em finanças, percentuais negativos são comuns. A interpretação depende do contexto: em crescimento populacional, -5% significa redução de 5%; em retorno de investimento, -10% significa perda de 10% do capital.",
+    "palavras_chave": ["porcentagem negativa", "redução", "prejuízo", "variação", "contexto financeiro"]
+  },
+  {
+    "pergunta": "Como usar frações para dividir heranças conforme leis específicas?",
+    "resposta": "Muitos sistemas legais usam frações fixas para heranças. No direito brasileiro, por exemplo, metade (1/2) dos bens forma a legítima que deve ir para os herdeiros necessários (descendentes, ascendentes ou cônjuge). A outra metade pode ser disposta livremente em testamento. Se há três filhos, a legítima é dividida em três partes iguais: cada um recebe 1/3 de 1/2 = 1/6 do total. Essas frações legais garantem distribuição previsível e evitam disputas. É matemática aplicada ao direito de família!",
+    "palavras_chave": ["heranças", "direito", "legítima", "frações legais", "divisão"]
+  },
+  {
+    "pergunta": "O que é 'escala logarítmica' e como se relaciona com proporções?",
+    "resposta": "Na escala logarítmica, distâncias iguais representam multiplicações por um fator constante, não somas. É útil para visualizar dados que variam em várias ordens de grandeza. Se uma escala vai de 1 a 10 a 100, cada passo multiplica por 10. Isso significa que a relação proporcional é que importa: ir de 1 para 10 é a mesma distância visual que ir de 10 para 100. Sabia que a escala Richter para terremotos é logarítmica? Um terremoto de magnitude 6 libera cerca de 32 vezes mais energia que um de magnitude 5! A escala captura proporções de energia, não valores absolutos.",
+    "palavras_chave": ["escala logarítmica", "proporções", "richter", "ordens de grandeza", "multiplicação"]
+  },
+  {
+    "pergunta": "Como calcular a porcentagem de erro em medições?",
+    "resposta": "A porcentagem de erro mede a precisão de uma medição comparando o valor medido com o valor real ou aceito. A fórmula é: |(valor medido - valor real)| / |valor real| × 100%. Se você mede 10,2 cm para um objeto de 10,0 cm, o erro percentual é |10,2 - 10,0| / 10,0 × 100% = 2%. Em ciência e engenharia, essa porcentagem ajuda a avaliar a qualidade de instrumentos e métodos. Erros abaixo de 1% são geralmente considerados excelentes, enquanto acima de 5% podem ser problemáticos, dependendo do contexto.",
+    "palavras_chave": ["porcentagem de erro", "medições", "precisão", "exatidão", "ciência"]
+  },
+  {
+    "pergunta": "O que são 'números racionais' e por que têm esse nome?",
+    "resposta": "Números racionais são todos aqueles que podem ser expressos como uma fração de dois inteiros (a/b, com b ≠ 0). O nome vem de 'razão', que significa proporção ou quociente. Incluem inteiros (5 = 5/1), frações próprias (3/4), frações impróprias (7/3) e decimais finitos ou periódicos (0,5 = 1/2; 0,333... = 1/3). Sabia que o conjunto dos racionais é denso? Isso significa que entre quaisquer dois racionais, por mais próximos que sejam, sempre existe outro racional! Os gregos antigos ficaram perturbados ao descobrir que existiam números não-racionais (irracionais) como √2.",
+    "palavras_chave": ["números racionais", "razão", "frações", "decimais", "conjunto denso"]
+  },
+  {
+    "pergunta": "Como usar proporções para ajustar imagens sem distorcer?",
+    "resposta": "Manter a proporção original (relação entre largura e altura) é crucial para não distorcer imagens. Se uma foto tem proporção 4:3 (como 800x600 pixels) e você quer redimensionar para 400 pixels de largura, mantenha a proporção: 400/x = 4/3 → x = 300 pixels de altura. Programas de edição têm a opção 'manter proporção' que faz isso automaticamente. Sabia que as proporções de tela mais comuns são 4:3 (TVs antigas), 16:9 (HDTV) e 21:9 (cinema)? Cada uma cria uma experiência visual diferente baseada em... frações!",
+    "palavras_chave": ["proporção de imagem", "redimensionar", "distorção", "largura", "altura"]
+  },
+  {
+    "pergunta": "O que é 'alíquota' em impostos e como funciona?",
+    "resposta": "Alíquota é a porcentagem aplicada sobre a base de cálculo para determinar o valor de um imposto. No IRPF, há alíquotas progressivas: sobre a parcela que ultrapassa certos limites, aplicam-se porcentagens maiores (7,5%, 15%, 22,5%, 27,5%). No ICMS, as alíquotas variam por estado e produto. Se um produto custa R$ 100 e a alíquota é 18%, o imposto é R$ 18. O sistema de alíquotas permite que impostos sejam proporcionais à capacidade de pagamento (progressivos) ou ao consumo (proporcionais).",
+    "palavras_chave": ["alíquota", "impostos", "porcentagem", "progressivo", "base de cálculo"]
+  },
+  {
+    "pergunta": "Como as frações aparecem na teoria musical das escalas?",
+    "resposta": "As escalas musicais são construídas sobre proporções matemáticas entre frequências. Uma oitava representa a proporção 2:1 - se uma nota tem frequência f, a oitava acima tem 2f. Na escala temperada (usada no piano), cada semitom é uma multiplicação por 2^(1/12). Já na escala natural, as proporções são frações simples: quinta justa = 3:2, quarta justa = 4:3, terça maior = 5:4. Sabia que Pitágoras descobriu que cordas com comprimentos na proporção 2:1 soam uma oitava aparte? A música é matemática audível!",
+    "palavras_chave": ["escalas musicais", "frequências", "proporções", "pitágoras", "oitava"]
+  },
+  {
+    "pergunta": "O que é 'porcentagem de acerto' em aprendizado de máquina?",
+    "resposta": "Em inteligência artificial, a porcentagem de acerto (accuracy) mede quantas previsões um modelo acertou em relação ao total. Se um classificador de imagens analisa 1.000 fotos e acerta 850, sua accuracy é 85%. Porém, essa métrica sozinha pode ser enganosa - se 95% das imagens são de gatos e o modelo sempre disser 'gato', terá 95% de acerto mas será inútil. Por isso usamos também precisão, recall e F1-score, que são outras formas de medir desempenho usando porcentagens e proporções.",
+    "palavras_chave": ["aprendizado de máquina", "acurácia", "precisão", "métricas", "ia"]
+  },
+  {
+    "pergunta": "Como calcular a concentração de uma solução em porcentagem?",
+    "resposta": "Há várias formas: porcentagem massa/volume (g/100mL), massa/massa (g/100g) ou volume/volume (mL/100mL). Para sal em água: se dissolvo 5g de sal em água até 100mL de solução, tenho 5% m/v. Se dissolvo 5g de sal em 95g de água, tenho 5% m/m. Na farmácia, soro fisiológico é 0,9% m/v de NaCl - 0,9g por 100mL. Sabia que o soro caseiro recomendado pela OMS tem concentração específica: 3,5g de sal + 20g de açúcar por litro de água? São porcentagens que salvam vidas!",
+    "palavras_chave": ["concentração", "solução", "porcentagem", "farmácia", "química"]
+  },
+  {
+    "pergunta": "O que é 'fração de execução' em processadores?",
+    "resposta": "Em arquitetura de computadores, a fração de execução mede quanto tempo o processador passa realmente executando instruções úteis versus esperando por dados ou recursos. Se um CPU executa instruções 80% do tempo e fica ocioso 20%, sua fração de execução é 0,8. Otimizações buscam aumentar essa fração. Em computação paralela, a 'Lei de Amdahl' usa frações para calcular ganho máximo: se 30% de um programa é sequencial, não importa quantos processadores você use, nunca será mais de 3,3 vezes mais rápido. Frações definem limites fundamentais!",
+    "palavras_chave": ["processadores", "eficiência", "Lei de Amdahl", "computação", "paralelismo"]
+  },
+  {
+    "pergunta": "Como as proporções aparecem no corpo humano?",
+    "resposta": "Leonardo da Vinci explorou isso em seu 'Homem Vitruviano' - a altura de um adulto é aproximadamente 7 a 8 vezes a altura da cabeça; o umbigo divide a altura na proporção áurea; o comprimento do braço estendido iguala a altura. Na medicina, proporções como relação cintura-quadril (RCQ) indicam saúde - acima de 0,85 em mulheres ou 0,90 em homens sugere risco cardiovascular. Sabia que o número áureo (1,618) aparece na relação entre falanges dos dedos e em outras medidas corporais? Somos feitos de matemática!",
+    "palavras_chave": ["corpo humano", "proporções", "Homem Vitruviano", "saúde", "número áureo"]
+  },
+  {
+    "pergunta": "O que é 'fração de enchimento' em orbital atômico?",
+    "resposta": "Em química quântica, a fração de enchimento descreve quantos elétrons ocupam um orbital em relação à sua capacidade máxima. Orbitais s podem ter 2 elétrons, p até 6, d até 10, f até 14. Se um orbital p tem 3 elétrons, está com fração de enchimento 3/6 = 0,5 ou 50%. Orbitais completamente cheios (fração 1) são particularmente estáveis - é por isso que gases nobres são pouco reativos. Essa simples fração ajuda a prever propriedades atômicas e reatividade química.",
+    "palavras_chave": ["orbital atômico", "elétrons", "química quântica", "enchimento", "estabilidade"]
+  },
+  {
+    "pergunta": "Como calcular a dosagem de medicamentos usando peso corporal?",
+    "resposta": "Muitos medicamentos, especialmente em pediatria, são prescritos por kg de peso. Se a dose é 5mg/kg e a criança pesa 20kg, a dose total é 5 × 20 = 100mg. Isso garante que a concentração no corpo seja proporcional ao tamanho. Em emergências, calcula-se rapidamente: para um adulto de 70kg, 1mg/kg = 70mg. Sabia que essa proporcionalidade é crucial para evitar superdosagem (tóxica) ou subdosagem (ineficaz)? A matemática literalmente salva vidas na medicina!",
+    "palavras_chave": ["dosagem", "medicamentos", "peso corporal", "pediatria", "proporcionalidade"]
+  },
+  {
+    "pergunta": "O que é 'fração de conversão' em reações químicas?",
+    "resposta": "Em engenharia química, a fração de conversão mede quanto reagente foi transformado em produtos. Se começamos com 100 mols de A e 70 reagem, a conversão é 70/100 = 0,7 ou 70%. Essa porcentagem é fundamental para projetar reatores e otimizar processos. Conversão de 100% é teoricamente ideal, mas muitas reações atingem equilíbrio antes disso. Catalisadores aumentam a fração de conversão acelerando a reação. É a porcentagem que determina a eficiência de milhares de processos industriais!",
+    "palavras_chave": ["conversão", "reações químicas", "engenharia", "reatores", "eficiência"]
+  },
+  {
+    "pergunta": "O que é 'fração contínua' para representar números irracionais?",
+    "resposta": "As frações contínuas são representações infinitas e elegantes de números irracionais. Por exemplo, o número áureo φ = [1;1,1,1,1,...] = 1 + 1/(1 + 1/(1 + 1/(1 + ...))). Já π = [3;7,15,1,292,1,...] e e = [2;1,2,1,1,4,1,1,6,...]. O padrão interessante é que números irracionais têm frações contínuas infinitas, enquanto racionais têm finitas. Sabia que as frações contínuas fornecem as melhores aproximações racionais para números irracionais? Matemáticos as usam para encontrar aproximações ótimas em cálculos numéricos.",
+    "palavras_chave": ["frações contínuas", "números irracionais", "número áureo", "aproximações", "padrões infinitos"]
+  },
+  {
+    "pergunta": "Como calcular a porcentagem de gordura corporal?",
+    "resposta": "A porcentagem de gordura corporal é a fração do peso total que corresponde à gordura. Existem vários métodos: adipômetro (medindo dobras cutâneas), bioimpedância (corrente elétrica), DEXA (raio-X). Para homens, 6-24% é saudável; mulheres, 16-30%. Se alguém pesa 70kg e tem 14kg de gordura, a porcentagem é (14/70)×100 = 20%. Sabia que atletas de elite podem ter apenas 3-6% (homens) ou 10-13% (mulheres)? Mas valores muito baixos também são prejudiciais à saúde - tudo é uma questão de proporção adequada!",
+    "palavras_chave": ["gordura corporal", "porcentagem", "saúde", "bioimpedância", "composição corporal"]
+  },
+  {
+    "pergunta": "O que é 'proporção de aspecto' em telas e vídeos?",
+    "resposta": "A proporção de aspecto é a relação entre largura e altura de uma imagem. 4:3 era o padrão das TVs antigas; 16:9 é o HDTV atual; 21:9 é cinema widescreen. Se uma TV tem proporção 16:9 e mede 160cm de largura, a altura é (9/16)×160 = 90cm. Sabia que a mudança para 16:9 não foi aleatória? Está próxima da proporção áurea (1,618:1) e da visão humana periférica (cerca de 1,85:1), criando uma experiência mais imersiva. Até o formato das selfies (geralmente 4:5 ou 9:16) segue essas proporções matemáticas!",
+    "palavras_chave": ["proporção de aspecto", "telas", "widescreen", "formato", "imersão"]
+  },
+  {
+    "pergunta": "Como usar frações para calcular probabilidades em dados?",
+    "resposta": "Cada face de um dado justo tem probabilidade 1/6. A chance de sair um número par (2,4,6) é 3/6 = 1/2. A probabilidade de soma 7 com dois dados: existem 6 combinações possíveis (1+6, 2+5, 3+4, 4+3, 5+2, 6+1) em 36 totais, então 6/36 = 1/6. Sabia que no pôquer a chance de um 'flush' é cerca de 0,1965% (509 para 1)? Essas frações probabilísticas são a base matemática de todos os jogos de azar e fundamentam a teoria das probabilidades.",
+    "palavras_chave": ["probabilidade", "dados", "frações", "jogos", "chance"]
+  },
+  {
+    "pergunta": "O que é 'alavancagem financeira' em termos percentuais?",
+    "resposta": "Alavancagem é usar capital emprestado para ampliar investimentos. Se você tem R$ 10.000 e toma R$ 90.000 emprestados, está alavancado 10:1. Se o investimento valoriza 10%, seu ganho é 10% de R$ 100.000 = R$ 10.000, que sobre seu capital de R$ 10.000 representa 100% de retorno! Mas se cair 10%, perde R$ 10.000 - 100% do seu capital. A alavancagem multiplica tanto ganhos quanto perdas. Sabia que a alavancagem excessiva foi uma das causas da crise de 2008? Porcentagens podem ser perigosas quando mal compreendidas!",
+    "palavras_chave": ["alavancagem", "financeira", "risco", "retorno", "multiplicação"]
+  },
+  {
+    "pergunta": "Como as frações aparecem na divisão de terras e heranças?",
+    "resposta": "Desde a antiguidade, frações são usadas para dividir propriedades. No Brasil rural, ainda se ouve 'um terço de terra' (cerca de 13,8 hectares). Em heranças sem testamento, os bens são divididos em frações iguais entre os herdeiros. Se há 3 filhos, cada um recebe 1/3. Sabia que os sistemas de frações egípcios provavelmente surgiram da necessidade de dividir terras após as cheias do Nilo? A matemática nasceu de problemas práticos como divisão de alimentos, terras e heranças - as frações resolveram questões que poderiam gerar conflitos!",
+    "palavras_chave": ["divisão", "terras", "heranças", "frações legais", "propriedade"]
+  },
+  {
+    "pergunta": "O que é 'porcentagem de ocupação' em hotelaria?",
+    "resposta": "Em hotéis, a porcentagem de ocupação mede quantos quartos estão ocupados em relação ao total disponível. Se um hotel tem 100 quartos e 75 estão ocupados, a ocupação é 75%. Essa métrica é crucial para o negócio - abaixo de 60% geralmente significa prejuízo. Sabia que hotéis ajustam preços dinamicamente baseado na ocupação? Alta ocupação = preços sobem; baixa ocupação = descontos. A porcentagem ideal varia, mas muitos buscam 70-80% para maximizar lucro sem sobrecarregar a equipe. É matemática pura no revenue management!",
+    "palavras_chave": ["ocupação", "hotelaria", "métrica", "gestão", "receita"]
+  },
+  {
+    "pergunta": "Como calcular a diluição de soluções usando proporções?",
+    "resposta": "Na diluição, a concentração final é proporcional ao fator de diluição. Se você dilui 1 parte de concentrado em 9 partes de água, a diluição é 1:10 e a concentração cai para 1/10 da original. A fórmula C1×V1 = C2×V2 captura essa proporção. Em homeopatia, as diluições são extremas - 30C significa diluir 1:100, thirty times! Sabia que em algumas diluições homeopáticas não resta nenhuma molécula da substância original? A matemática mostra os limites do conceito de diluição infinita.",
+    "palavras_chave": ["diluição", "soluções", "concentração", "proporção", "química"]
+  },
+  {
+    "pergunta": "O que é 'fração ejetada' em cardiologia?",
+    "resposta": "A fração de ejeção mede a porcentagem de sangue que o ventrículo esquerdo bombeia a cada contração. Normal é 55-70%. Se o ventrículo contém 100ml e ejeta 60ml, a fração é 60%. Abaixo de 40% indica insuficiência cardíaca significativa. Sabia que essa simples porcentagem é um dos indicadores mais importantes da função cardíaca? Médicos a usam para diagnosticar, classificar a gravidade e guiar tratamentos. Uma fração que salva vidas através do monitoramento matemático do nosso motor biológico!",
+    "palavras_chave": ["fração ejetada", "cardiológica", "coração", "função ventricular", "diagnóstico"]
+  },
+  {
+    "pergunta": "Como as proporções aparecem na fotografia?",
+    "resposta": "Na fotografia, a Regra dos Terços divide a imagem em 9 partes iguais (3×3), sugerindo que pontos de interesse fiquem nas interseções ou linhas. A proporção áurea (1,618:1) também é usada para composições harmonicamente balanceadas. Lentes têm abertura expressa em frações - f/2.8 significa que a abertura é o comprimento focal dividido por 2,8. Sabia que a escala de aberturas segue uma sequência onde cada passo reduz a luz pela metade: f/1, f/1.4, f/2, f/2.8, f/4...? A fotografia é luz, tempo e... matemática!",
+    "palavras_chave": ["fotografia", "regra dos terços", "proporção áurea", "abertura", "composição"]
+  },
+  {
+    "pergunta": "O que é 'porcentagem de participação' em negócios?",
+    "resposta": "Em sociedades, a porcentagem de participação determina direitos e responsabilidades. Se você tem 30% das ações, tem direito a 30% dos lucros (dividendos) e 30% dos votos (geralmente). Em joint ventures, cada parte contribui com uma porcentagem do capital e recebe porcentagem correspondente dos resultados. Sabia que ter 51% geralmente dá controle majoritário, enquanto 34% pode dar poder de veto em algumas decisões importantes? Essas porcentagens definem relações de poder no mundo corporativo!",
+    "palavras_chave": ["participação", "sociedades", "ações", "controle", "direitos"]
+  },
+  {
+    "pergunta": "Como usar frações para entender taxas de juros aparentes e reais?",
+    "resposta": "A taxa aparente é o que o banco anuncia; a taxa real desconta a inflação. Se um investimento rende 10% no ano e a inflação foi 6%, a taxa real é aproximadamente (1,10/1,06) - 1 = 3,77%, não 4%. A fórmula exata é: (1 + taxa aparente) = (1 + taxa real) × (1 + inflação). Sabia que durante hiperinflações as pessoas usavam 'indexadores' que transformavam valores nominais em frações de uma unidade estável (como o URV que precedeu o Real)? A matemática financeira nos protege da ilusão monetária!",
+    "palavras_chave": ["juros reais", "inflação", "taxa aparente", "poder de compra", "matemática financeira"]
+  },
+  {
+    "pergunta": "O que é 'fração de massa' em astrofísica?",
+    "resposta": "Na astrofísica, a fração de massa descreve a composição química de estrelas e galáxias. O Universo observável é cerca de 74% hidrogênio, 24% hélio e 2% 'metais' (elementos mais pesados) em massa. No Sol, a fração de hidrogênio é aproximadamente 73%. Sabia que essas frações revelam a história cósmica? O Big Bang produziu basicamente H e He; elementos mais pesados foram forjados em estrelas e explosões de supernovas. Medindo frações de massa, os astrônomos reconstroem a evolução do cosmos!",
+    "palavras_chave": ["fração de massa", "astrofísica", "composição estelar", "universo", "big bang"]
+  },
+  {
+    "pergunta": "Como calcular a porcentagem de conclusão de um projeto?",
+    "resposta": "Em gerenciamento de projetos, a porcentagem de conclusão pode ser calculada por: valor agregado (trabalho realizado) dividido pelo orçamento total. Se um projeto de R$ 100.000 teve R$ 45.000 de trabalho realizado, está 45% completo. O método do 'valor agregado' evita o otimismo excessivo - não é sobre quanto tempo passou ou quanto dinheiro foi gasto, mas sobre quanto do escopo foi realmente entregue. Sabia que projetos frequentemente relatam 90% de conclusão por 90% do tempo? Os últimos 10% podem levar outros 90%! A matemática traz realismo ao planejamento.",
+    "palavras_chave": ["conclusão de projeto", "valor agregado", "gerenciamento", "orçamento", "progresso"]
+  },
+  {
+    "pergunta": "O que é 'proporção de Sharpe' em investimentos?",
+    "resposta": "A Razão de Sharpe mede o retorno de um investimento ajustado ao risco. Fórmula: (Retorno do investimento - Retorno livre de risco) / Volatilidade. Se um fundo rendeu 15%, o tesouro rendeu 5% e a volatilidade foi 10%, a Razão de Sharpe é (15-5)/10 = 1,0. Quanto maior, melhor o retorno por risco assumido. Sabia que Sharpe ganhou o Nobel por esse conceito? Ele transformou a intuição 'mais risco, mais retorno' em uma proporção matemática que permite comparar investimentos diferentes em igualdade de condições!",
+    "palavras_chave": ["razão de sharpe", "investimentos", "risco", "retorno", "volatilidade"]
+  },
+  {
+    "pergunta": "Como as frações aparecem na teoria dos conjuntos?",
+    "resposta": "Na teoria dos conjuntos, frações representam relações entre subconjuntos. Se um conjunto tem 100 elementos e um subconjunto tem 25, a fração é 1/4. Operações com frações correspondem a operações com conjuntos: união, interseção, complemento. Sabia que Georg Cantor provou que há a mesma 'quantidade' de frações (números racionais) que de números naturais, mas mais números reais? Esse resultado contra-intuitivo sobre infinitos revolucionou a matemática no século XIX. As frações nos levaram a repensar o próprio conceito de infinito!",
+    "palavras_chave": ["teoria dos conjuntos", "subconjuntos", "infinito", "cantor", "cardinalidade"]
+  },
+  {
+    "pergunta": "O que é 'porcentagem de germinação' em agricultura?",
+    "resposta": "A porcentagem de germinação mede a viabilidade de sementes. Se de 100 sementes plantadas, 85 germinam, a taxa é 85%. Produtores testam amostras antes do plantio - abaixo de 80% pode não valer a pena. Sabia que sementes de algumas espécies podem manter viabilidade por décadas ou mesmo séculos? A famosa semente de lótus da China germinou após 1.300 anos! Essa porcentagem simples determina o sucesso ou fracasso de safras inteiras, mostrando como a matemática está na base da segurança alimentar.",
+    "palavras_chave": ["germinação", "agricultura", "sementes", "viabilidade", "produtividade"]
+  },
+  {
+    "pergunta": "Como usar proporções para misturar combustíveis?",
+    "resposta": "Motosserras e outros equipamentos usam mistura gasolina/óleo em proporções como 50:1 ou 40:1. Isso significa 50 partes de gasolina para 1 de óleo. Para 5 litros de gasolina na proporção 50:1: (5000ml ÷ 50) = 100ml de óleo. Na aviação, combustíveis de diferentes densidades são misturados em proporções específicas. Sabia que o erro na proporção pode causar desde perda de potência até danos graves no motor? A precisão nas proporções literalmente mantém motores funcionando!",
+    "palavras_chave": ["mistura combustível", "proporção", "gasolina", "óleo", "motores"]
+  },
+  {
+    "pergunta": "O que é 'fração de cliques' em marketing digital?",
+    "resposta": "CTR (Click-Through Rate) é a porcentagem de pessoas que clicam em um anúncio após vê-lo. Se um banner tem 10.000 impressões e 150 cliques, CTR = 1,5%. Em email marketing, a 'taxa de abertura' mede quantos abriram o email. Sabia que um CTR de 2% é considerado bom na maioria das indústrias, mas pode variar muito? Anúncios de pesquisa no Google geralmente têm CTRs mais altos que banners. Essa simples porcentagem determina o sucesso de campanhas de marketing digital e guia investimentos de bilhões!",
+    "palavras_chave": ["ctr", "marketing digital", "cliques", "anúncios", "efetividade"]
+  },
+  {
+    "pergunta": "Como as proporções aparecem na arquitetura sustentável?",
+    "resposta": "Na arquitetura bioclimática, proporções específicas maximizam eficiência energética. A relação entre área de vidro e área de parede afixa ganho/perda de calor. O 'fator de forma' (razão entre área superficial e volume) determina eficiência térmica - esferas são mais eficientes que prismas alongados. Sabia que a proporção ideal de janelas varia com o clima? Em climas frios, janelas ao norte captam mais sol; em climas quentes, menores janelas e mais sombreamento. A matemática constrói edifícios mais confortáveis e sustentáveis!",
+    "palavras_chave": ["arquitetura sustentável", "eficiência energética", "proporções", "bioclimática", "design"]
+  },
+  {
+    "pergunta": "O que é 'porcentagem de sólidos' em alimentos?",
+    "resposta": "Em processamento de alimentos, a porcentagem de sólidos totais mede o conteúdo não aquoso. No leite, é cerca de 12-13% (gordura, proteína, lactose, minerais). Para iogurte grego, pode chegar a 20-24%. Na fabricação de queijos, controlar essa porcentagem é crucial para textura e sabor. Sabia que a refratometria mede sólidos dissolvidos pelo índice de refração? O 'Brix' do suco de laranja (10-12°) é essencialmente a porcentagem de açúcares. Da padaria à laticínios, as porcentagens garantem qualidade consistente!",
+    "palavras_chave": ["sólidos totais", "alimentos", "processamento", "brix", "qualidade"]
+  },
+  {
+    "pergunta": "Como calcular a concentração de poluentes em partes por bilhão?",
+    "resposta": "Partes por bilhão (ppb) significa 1 parte em 1 bilhão (10^9). É usado para contaminantes muito diluídos. 1 ppb = 0,001 ppm = 0,0000001%. Se um lago tem 1.000.000.000 litros e contém 1 litro de poluente, a concentração é 1 ppb. Sabia que o arsênio na água potável é regulado em 10 ppb no Brasil? Em escala atômica, 1 ppb significa algumas poucas moléculas de poluente para cada bilhão de moléculas de água. A matemática nos protege de perigos invisíveis!",
+    "palavras_chave": ["partes por bilhão", "poluentes", "contaminação", "regulamentação", "diluição extrema"]
+  },
+  {
+    "pergunta": "O que é 'fração de filtração glomerular' na medicina?",
+    "resposta": "A TFG (Taxa de Filtração Glomerular) mede quanto sangue seus rins filtram por minuto. Normal é 90-120 ml/min/1,73m². Abaixo de 60 por 3 meses indica doença renal crônica. É calculada usando creatinina sérica, idade, sexo e raça. Sabia que quando a TFG cai para 15, geralmente precisa-se de diálise? Essa porcentagem de função renal é um dos indicadores mais importantes da saúde dos rins, mostrando como a matemática salva vidas através do monitoramento preciso da função orgânica!",
+    "palavras_chave": ["filtração glomerular", "rins", "função renal", "doença crônica", "diagnóstico"]
+  },
+  {
+    "pergunta": "Como as proporções definem formatos de papel como A4?",
+    "resposta": "A série A de papel (A4, A3, etc.) usa a proporção 1:√2 (aproximadamente 1:1,414). A magia: quando você corta uma folha AO (1m²) ao meio, obtém A1 com a mesma proporção. Cortando A1 ao meio, obtém A2, e assim por diante. Um A4 é 1/16 de AO. Sabia que essa propriedade de autosimilaridade economiza muito papel? Não há desperdício ao redimensionar documentos. A norma ISO 216 padronizou isso mundialmente - matemática criando eficiência global!",
+    "palavras_chave": ["formato papel", "proporção", "série a", "iso 216", "eficiência"]
+  },
+  {
+    "pergunta": "O que é 'porcentagem de umidade' em meteorologia?",
+    "resposta": "A umidade relativa do ar mede quanto vapor d'água o ar contém em relação à capacidade máxima naquela temperatura. 100% significa saturação (pode chover); 0% é ar completamente seco. No deserto, pode cair abaixo de 10%; em florestas tropicais, frequentemente acima de 80%. Sabia que a sensação térmica varia com a umidade? No calor, alta umidade impede a evaporação do suor, aumentando a sensação de abafamento. No frio, alta umidade conduz melhor o calor, aumentando a sensação de frio. Porcentagens que afetam nosso conforto diário!",
+    "palavras_chave": ["umidade", "meteorologia", "conforto térmico", "clima", "sensação térmica"]
+  },
+  {
+    "pergunta": "O que é 'fração contínua' para representar números irracionais?",
+    "resposta": "As frações contínuas são representações infinitas e elegantes de números irracionais. Por exemplo, o número áureo φ = [1;1,1,1,1,...] = 1 + 1/(1 + 1/(1 + 1/(1 + ...))). Já π = [3;7,15,1,292,1,...] e e = [2;1,2,1,1,4,1,1,6,...]. O padrão interessante é que números irracionais têm frações contínuas infinitas, enquanto racionais têm finitas. Sabia que as frações contínuas fornecem as melhores aproximações racionais para números irracionais? Matemáticos as usam para encontrar aproximações ótimas em cálculos numéricos.",
+    "palavras_chave": ["frações contínuas", "números irracionais", "número áureo", "aproximações", "padrões infinitos"]
+  },
+  {
+    "pergunta": "Como calcular a porcentagem de gordura corporal?",
+    "resposta": "A porcentagem de gordura corporal é a fração do peso total que corresponde à gordura. Existem vários métodos: adipômetro (medindo dobras cutâneas), bioimpedância (corrente elétrica), DEXA (raio-X). Para homens, 6-24% é saudável; mulheres, 16-30%. Se alguém pesa 70kg e tem 14kg de gordura, a porcentagem é (14/70)×100 = 20%. Sabia que atletas de elite podem ter apenas 3-6% (homens) ou 10-13% (mulheres)? Mas valores muito baixos também são prejudiciais à saúde - tudo é uma questão de proporção adequada!",
+    "palavras_chave": ["gordura corporal", "porcentagem", "saúde", "bioimpedância", "composição corporal"]
+  },
+  {
+    "pergunta": "O que é 'proporção de aspecto' em telas e vídeos?",
+    "resposta": "A proporção de aspecto é a relação entre largura e altura de uma imagem. 4:3 era o padrão das TVs antigas; 16:9 é o HDTV atual; 21:9 é cinema widescreen. Se uma TV tem proporção 16:9 e mede 160cm de largura, a altura é (9/16)×160 = 90cm. Sabia que a mudança para 16:9 não foi aleatória? Está próxima da proporção áurea (1,618:1) e da visão humana periférica (cerca de 1,85:1), criando uma experiência mais imersiva. Até o formato das selfies (geralmente 4:5 ou 9:16) segue essas proporções matemáticas!",
+    "palavras_chave": ["proporção de aspecto", "telas", "widescreen", "formato", "imersão"]
+  },
+  {
+    "pergunta": "Como usar frações para calcular probabilidades em dados?",
+    "resposta": "Cada face de um dado justo tem probabilidade 1/6. A chance de sair um número par (2,4,6) é 3/6 = 1/2. A probabilidade de soma 7 com dois dados: existem 6 combinações possíveis (1+6, 2+5, 3+4, 4+3, 5+2, 6+1) em 36 totais, então 6/36 = 1/6. Sabia que no pôquer a chance de um 'flush' é cerca de 0,1965% (509 para 1)? Essas frações probabilísticas são a base matemática de todos os jogos de azar e fundamentam a teoria das probabilidades.",
+    "palavras_chave": ["probabilidade", "dados", "frações", "jogos", "chance"]
+  },
+  {
+    "pergunta": "O que é 'alavancagem financeira' em termos percentuais?",
+    "resposta": "Alavancagem é usar capital emprestado para ampliar investimentos. Se você tem R$ 10.000 e toma R$ 90.000 emprestados, está alavancado 10:1. Se o investimento valoriza 10%, seu ganho é 10% de R$ 100.000 = R$ 10.000, que sobre seu capital de R$ 10.000 representa 100% de retorno! Mas se cair 10%, perde R$ 10.000 - 100% do seu capital. A alavancagem multiplica tanto ganhos quanto perdas. Sabia que a alavancagem excessiva foi uma das causas da crise de 2008? Porcentagens podem ser perigosas quando mal compreendidas!",
+    "palavras_chave": ["alavancagem", "financeira", "risco", "retorno", "multiplicação"]
+  },
+  {
+    "pergunta": "Como as frações aparecem na divisão de terras e heranças?",
+    "resposta": "Desde a antiguidade, frações são usadas para dividir propriedades. No Brasil rural, ainda se ouve 'um terço de terra' (cerca de 13,8 hectares). Em heranças sem testamento, os bens são divididos em frações iguais entre os herdeiros. Se há 3 filhos, cada um recebe 1/3. Sabia que os sistemas de frações egípcios provavelmente surgiram da necessidade de dividir terras após as cheias do Nilo? A matemática nasceu de problemas práticos como divisão de alimentos, terras e heranças - as frações resolveram questões que poderiam gerar conflitos!",
+    "palavras_chave": ["divisão", "terras", "heranças", "frações legais", "propriedade"]
+  },
+  {
+    "pergunta": "O que é 'porcentagem de ocupação' em hotelaria?",
+    "resposta": "Em hotéis, a porcentagem de ocupação mede quantos quartos estão ocupados em relação ao total disponível. Se um hotel tem 100 quartos e 75 estão ocupados, a ocupação é 75%. Essa métrica é crucial para o negócio - abaixo de 60% geralmente significa prejuízo. Sabia que hotéis ajustam preços dinamicamente baseado na ocupação? Alta ocupação = preços sobem; baixa ocupação = descontos. A porcentagem ideal varia, mas muitos buscam 70-80% para maximizar lucro sem sobrecarregar a equipe. É matemática pura no revenue management!",
+    "palavras_chave": ["ocupação", "hotelaria", "métrica", "gestão", "receita"]
+  },
+  {
+    "pergunta": "Como calcular a diluição de soluções usando proporções?",
+    "resposta": "Na diluição, a concentração final é proporcional ao fator de diluição. Se você dilui 1 parte de concentrado em 9 partes de água, a diluição é 1:10 e a concentração cai para 1/10 da original. A fórmula C1×V1 = C2×V2 captura essa proporção. Em homeopatia, as diluições são extremas - 30C significa diluir 1:100, thirty times! Sabia que em algumas diluições homeopáticas não resta nenhuma molécula da substância original? A matemática mostra os limites do conceito de diluição infinita.",
+    "palavras_chave": ["diluição", "soluções", "concentração", "proporção", "química"]
+  },
+  {
+    "pergunta": "O que é 'fração ejetada' em cardiologia?",
+    "resposta": "A fração de ejeção mede a porcentagem de sangue que o ventrículo esquerdo bombeia a cada contração. Normal é 55-70%. Se o ventrículo contém 100ml e ejeta 60ml, a fração é 60%. Abaixo de 40% indica insuficiência cardíaca significativa. Sabia que essa simples porcentagem é um dos indicadores mais importantes da função cardíaca? Médicos a usam para diagnosticar, classificar a gravidade e guiar tratamentos. Uma fração que salva vidas através do monitoramento matemático do nosso motor biológico!",
+    "palavras_chave": ["fração ejetada", "cardiológica", "coração", "função ventricular", "diagnóstico"]
+  },
+  {
+    "pergunta": "Como as proporções aparecem na fotografia?",
+    "resposta": "Na fotografia, a Regra dos Terços divide a imagem em 9 partes iguais (3×3), sugerindo que pontos de interesse fiquem nas interseções ou linhas. A proporção áurea (1,618:1) também é usada para composições harmonicamente balanceadas. Lentes têm abertura expressa em frações - f/2.8 significa que a abertura é o comprimento focal dividido por 2,8. Sabia que a escala de aberturas segue uma sequência onde cada passo reduz a luz pela metade: f/1, f/1.4, f/2, f/2.8, f/4...? A fotografia é luz, tempo e... matemática!",
+    "palavras_chave": ["fotografia", "regra dos terços", "proporção áurea", "abertura", "composição"]
+  },
+  {
+    "pergunta": "O que é 'porcentagem de participação' em negócios?",
+    "resposta": "Em sociedades, a porcentagem de participação determina direitos e responsabilidades. Se você tem 30% das ações, tem direito a 30% dos lucros (dividendos) e 30% dos votos (geralmente). Em joint ventures, cada parte contribui com uma porcentagem do capital e recebe porcentagem correspondente dos resultados. Sabia que ter 51% geralmente dá controle majoritário, enquanto 34% pode dar poder de veto em algumas decisões importantes? Essas porcentagens definem relações de poder no mundo corporativo!",
+    "palavras_chave": ["participação", "sociedades", "ações", "controle", "direitos"]
+  },
+  {
+    "pergunta": "Como usar frações para entender taxas de juros aparentes e reais?",
+    "resposta": "A taxa aparente é o que o banco anuncia; a taxa real desconta a inflação. Se um investimento rende 10% no ano e a inflação foi 6%, a taxa real é aproximadamente (1,10/1,06) - 1 = 3,77%, não 4%. A fórmula exata é: (1 + taxa aparente) = (1 + taxa real) × (1 + inflação). Sabia que durante hiperinflações as pessoas usavam 'indexadores' que transformavam valores nominais em frações de uma unidade estável (como o URV que precedeu o Real)? A matemática financeira nos protege da ilusão monetária!",
+    "palavras_chave": ["juros reais", "inflação", "taxa aparente", "poder de compra", "matemática financeira"]
+  },
+  {
+    "pergunta": "O que é 'fração de massa' em astrofísica?",
+    "resposta": "Na astrofísica, a fração de massa descreve a composição química de estrelas e galáxias. O Universo observável é cerca de 74% hidrogênio, 24% hélio e 2% 'metais' (elementos mais pesados) em massa. No Sol, a fração de hidrogênio é aproximadamente 73%. Sabia que essas frações revelam a história cósmica? O Big Bang produziu basicamente H e He; elementos mais pesados foram forjados em estrelas e explosões de supernovas. Medindo frações de massa, os astrônomos reconstroem a evolução do cosmos!",
+    "palavras_chave": ["fração de massa", "astrofísica", "composição estelar", "universo", "big bang"]
+  },
+  {
+    "pergunta": "Como calcular a porcentagem de conclusão de um projeto?",
+    "resposta": "Em gerenciamento de projetos, a porcentagem de conclusão pode ser calculada por: valor agregado (trabalho realizado) dividido pelo orçamento total. Se um projeto de R$ 100.000 teve R$ 45.000 de trabalho realizado, está 45% completo. O método do 'valor agregado' evita o otimismo excessivo - não é sobre quanto tempo passou ou quanto dinheiro foi gasto, mas sobre quanto do escopo foi realmente entregue. Sabia que projetos frequentemente relatam 90% de conclusão por 90% do tempo? Os últimos 10% podem levar outros 90%! A matemática traz realismo ao planejamento.",
+    "palavras_chave": ["conclusão de projeto", "valor agregado", "gerenciamento", "orçamento", "progresso"]
+  },
+  {
+    "pergunta": "O que é 'proporção de Sharpe' em investimentos?",
+    "resposta": "A Razão de Sharpe mede o retorno de um investimento ajustado ao risco. Fórmula: (Retorno do investimento - Retorno livre de risco) / Volatilidade. Se um fundo rendeu 15%, o tesouro rendeu 5% e a volatilidade foi 10%, a Razão de Sharpe é (15-5)/10 = 1,0. Quanto maior, melhor o retorno por risco assumido. Sabia que Sharpe ganhou o Nobel por esse conceito? Ele transformou a intuição 'mais risco, mais retorno' em uma proporção matemática que permite comparar investimentos diferentes em igualdade de condições!",
+    "palavras_chave": ["razão de sharpe", "investimentos", "risco", "retorno", "volatilidade"]
+  },
+  {
+    "pergunta": "Como as frações aparecem na teoria dos conjuntos?",
+    "resposta": "Na teoria dos conjuntos, frações representam relações entre subconjuntos. Se um conjunto tem 100 elementos e um subconjunto tem 25, a fração é 1/4. Operações com frações correspondem a operações com conjuntos: união, interseção, complemento. Sabia que Georg Cantor provou que há a mesma 'quantidade' de frações (números racionais) que de números naturais, mas mais números reais? Esse resultado contra-intuitivo sobre infinitos revolucionou a matemática no século XIX. As frações nos levaram a repensar o próprio conceito de infinito!",
+    "palavras_chave": ["teoria dos conjuntos", "subconjuntos", "infinito", "cantor", "cardinalidade"]
+  },
+  {
+    "pergunta": "O que é 'porcentagem de germinação' em agricultura?",
+    "resposta": "A porcentagem de germinação mede a viabilidade de sementes. Se de 100 sementes plantadas, 85 germinam, a taxa é 85%. Produtores testam amostras antes do plantio - abaixo de 80% pode não valer a pena. Sabia que sementes de algumas espécies podem manter viabilidade por décadas ou mesmo séculos? A famosa semente de lótus da China germinou após 1.300 anos! Essa porcentagem simples determina o sucesso ou fracasso de safras inteiras, mostrando como a matemática está na base da segurança alimentar.",
+    "palavras_chave": ["germinação", "agricultura", "sementes", "viabilidade", "produtividade"]
+  },
+  {
+    "pergunta": "Como usar proporções para misturar combustíveis?",
+    "resposta": "Motosserras e outros equipamentos usam mistura gasolina/óleo em proporções como 50:1 ou 40:1. Isso significa 50 partes de gasolina para 1 de óleo. Para 5 litros de gasolina na proporção 50:1: (5000ml ÷ 50) = 100ml de óleo. Na aviação, combustíveis de diferentes densidades são misturados em proporções específicas. Sabia que o erro na proporção pode causar desde perda de potência até danos graves no motor? A precisão nas proporções literalmente mantém motores funcionando!",
+    "palavras_chave": ["mistura combustível", "proporção", "gasolina", "óleo", "motores"]
+  },
+  {
+    "pergunta": "O que é 'fração de cliques' em marketing digital?",
+    "resposta": "CTR (Click-Through Rate) é a porcentagem de pessoas que clicam em um anúncio após vê-lo. Se um banner tem 10.000 impressões e 150 cliques, CTR = 1,5%. Em email marketing, a 'taxa de abertura' mede quantos abriram o email. Sabia que um CTR de 2% é considerado bom na maioria das indústrias, mas pode variar muito? Anúncios de pesquisa no Google geralmente têm CTRs mais altos que banners. Essa simples porcentagem determina o sucesso de campanhas de marketing digital e guia investimentos de bilhões!",
+    "palavras_chave": ["ctr", "marketing digital", "cliques", "anúncios", "efetividade"]
+  },
+  {
+    "pergunta": "Como as proporções aparecem na arquitetura sustentável?",
+    "resposta": "Na arquitetura bioclimática, proporções específicas maximizam eficiência energética. A relação entre área de vidro e área de parede afixa ganho/perda de calor. O 'fator de forma' (razão entre área superficial e volume) determina eficiência térmica - esferas são mais eficientes que prismas alongados. Sabia que a proporção ideal de janelas varia com o clima? Em climas frios, janelas ao norte captam mais sol; em climas quentes, menores janelas e mais sombreamento. A matemática constrói edifícios mais confortáveis e sustentáveis!",
+    "palavras_chave": ["arquitetura sustentável", "eficiência energética", "proporções", "bioclimática", "design"]
+  },
+  {
+    "pergunta": "O que é 'porcentagem de sólidos' em alimentos?",
+    "resposta": "Em processamento de alimentos, a porcentagem de sólidos totais mede o conteúdo não aquoso. No leite, é cerca de 12-13% (gordura, proteína, lactose, minerais). Para iogurte grego, pode chegar a 20-24%. Na fabricação de queijos, controlar essa porcentagem é crucial para textura e sabor. Sabia que a refratometria mede sólidos dissolvidos pelo índice de refração? O 'Brix' do suco de laranja (10-12°) é essencialmente a porcentagem de açúcares. Da padaria à laticínios, as porcentagens garantem qualidade consistente!",
+    "palavras_chave": ["sólidos totais", "alimentos", "processamento", "brix", "qualidade"]
+  },
+  {
+    "pergunta": "Como calcular a concentração de poluentes em partes por bilhão?",
+    "resposta": "Partes por bilhão (ppb) significa 1 parte em 1 bilhão (10^9). É usado para contaminantes muito diluídos. 1 ppb = 0,001 ppm = 0,0000001%. Se um lago tem 1.000.000.000 litros e contém 1 litro de poluente, a concentração é 1 ppb. Sabia que o arsênio na água potável é regulado em 10 ppb no Brasil? Em escala atômica, 1 ppb significa algumas poucas moléculas de poluente para cada bilhão de moléculas de água. A matemática nos protege de perigos invisíveis!",
+    "palavras_chave": ["partes por bilhão", "poluentes", "contaminação", "regulamentação", "diluição extrema"]
+  },
+  {
+    "pergunta": "O que é 'fração de filtração glomerular' na medicina?",
+    "resposta": "A TFG (Taxa de Filtração Glomerular) mede quanto sangue seus rins filtram por minuto. Normal é 90-120 ml/min/1,73m². Abaixo de 60 por 3 meses indica doença renal crônica. É calculada usando creatinina sérica, idade, sexo e raça. Sabia que quando a TFG cai para 15, geralmente precisa-se de diálise? Essa porcentagem de função renal é um dos indicadores mais importantes da saúde dos rins, mostrando como a matemática salva vidas através do monitoramento preciso da função orgânica!",
+    "palavras_chave": ["filtração glomerular", "rins", "função renal", "doença crônica", "diagnóstico"]
+  },
+  {
+    "pergunta": "Como as proporções definem formatos de papel como A4?",
+    "resposta": "A série A de papel (A4, A3, etc.) usa a proporção 1:√2 (aproximadamente 1:1,414). A magia: quando você corta uma folha AO (1m²) ao meio, obtém A1 com a mesma proporção. Cortando A1 ao meio, obtém A2, e assim por diante. Um A4 é 1/16 de AO. Sabia que essa propriedade de autosimilaridade economiza muito papel? Não há desperdício ao redimensionar documentos. A norma ISO 216 padronizou isso mundialmente - matemática criando eficiência global!",
+    "palavras_chave": ["formato papel", "proporção", "série a", "iso 216", "eficiência"]
+  },
+  {
+    "pergunta": "O que é 'porcentagem de umidade' em meteorologia?",
+    "resposta": "A umidade relativa do ar mede quanto vapor d'água o ar contém em relação à capacidade máxima naquela temperatura. 100% significa saturação (pode chover); 0% é ar completamente seco. No deserto, pode cair abaixo de 10%; em florestas tropicais, frequentemente acima de 80%. Sabia que a sensação térmica varia com a umidade? No calor, alta umidade impede a evaporação do suor, aumentando a sensação de abafamento. No frio, alta umidade conduz melhor o calor, aumentando a sensação de frio. Porcentagens que afetam nosso conforto diário!",
+    "palavras_chave": ["umidade", "meteorologia", "conforto térmico", "clima", "sensação térmica"]
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "O que é um gene e qual seu papel na genética?",
+    "resposta": "Um gene é um pedaço de DNA que carrega instruções para produzir uma proteína ou molécula funcional no organismo. Ele é como uma receita que determina características, como a cor dos olhos ou a forma como uma célula funciona. No contexto da genética, genes são passados de pais para filhos, definindo a herança biológica. Por exemplo, mutações em genes como o BRCA1 podem aumentar o risco de câncer. A análise crítica aqui é que, embora genes sejam fundamentais, o ambiente também influencia como eles se expressam. Sabia que o projeto Genoma Humano, concluído em 2003, mapeou cerca de 20.000 genes humanos?",
+    "palavras_chave": ["gene", "dna", "herança", "proteína", "mutação"]
+  },
+  {
+    "pergunta": "Como funciona a replicação do DNA?",
+    "resposta": "A replicação do DNA é o processo em que a molécula de DNA se duplica antes da divisão celular, garantindo que cada célula filha receba uma cópia idêntica. Enzimas como a DNA polimerase abrem a dupla hélice, formando uma forquilha de replicação, e adicionam nucleotídeos complementares. É um processo incrivelmente preciso, mas erros, chamados mutações, podem ocorrer. Um exemplo é a cópia errada de um nucleotídeo, que pode levar a doenças. A análise crítica é que a alta fidelidade da replicação é essencial para a vida, mas pequenas falhas impulsionam a evolução. Sabia que o DNA humano é replicado a uma velocidade de até 50 nucleotídeos por segundo?",
+    "palavras_chave": ["replicação", "dna", "enzima", "mutação", "célula"]
+  },
+  {
+    "pergunta": "O que é herança mendeliana?",
+    "resposta": "Herança mendeliana refere-se às regras de transmissão de características descobertas por Gregor Mendel no século XIX, usando ervilhas. Ele mostrou que traços são herdados por unidades discretas, hoje chamadas genes, que podem ser dominantes ou recessivos. Por exemplo, em ervilhas, a cor amarela é dominante sobre a verde. Isso explica por que algumas características 'pulam' gerações. A análise crítica é que, embora Mendel tenha simplificado a genética, muitos traços, como altura, são influenciados por múltiplos genes. Sabia que Mendel era um monge e seus experimentos foram ignorados por décadas?",
+    "palavras_chave": ["mendel", "herança", "gene", "dominante", "recessivo"]
+  },
+  {
+    "pergunta": "O que são mutações genéticas?",
+    "resposta": "Mutações genéticas são alterações na sequência de DNA que podem mudar a função de um gene. Podem ser causadas por erros na replicação, radiação ou substâncias químicas. Algumas mutações, como a do gene CFTR, causam doenças como fibrose cística, enquanto outras podem ser neutras ou até benéficas, como as que conferem resistência a doenças. Criticamente, mutações são a base da evolução, mas também podem desestabilizar funções celulares. Sabia que mutações no gene da hemoglobina podem proteger contra malária, mas também causar anemia falciforme?",
+    "palavras_chave": ["mutação", "dna", "evolução", "doença", "gene"]
+  },
+  {
+    "pergunta": "Como a biotecnologia usa a edição genética?",
+    "resposta": "A edição genética, como a técnica CRISPR-Cas9, permite cortar e modificar trechos específicos de DNA com precisão. Na biotecnologia, isso é usado para criar plantas resistentes a pragas, como milho transgênico, ou corrigir genes defeituosos em terapias genéticas para doenças como anemia falciforme. A análise crítica é que, embora revolucionária, a edição genética levanta questões éticas, como o risco de 'bebês editados'. Sabia que em 2018, um cientista chinês anunciou o nascimento de bebês com genes editados, gerando grande polêmica?",
+    "palavras_chave": ["crispr", "edição genética", "biotecnologia", "ética", "transgênico"]
+  },
+  {
+    "pergunta": "O que é um organismo transgênico?",
+    "resposta": "Um organismo transgênico tem genes de outra espécie inseridos em seu DNA, geralmente por técnicas de engenharia genética. Um exemplo clássico é o milho Bt, que produz uma proteína tóxica para insetos, mas segura para humanos. Isso reduz o uso de pesticidas, mas gera debates sobre segurança ambiental. A análise crítica é que transgênicos aumentam a produtividade agrícola, mas podem afetar a biodiversidade. Sabia que o primeiro transgênico comercializado foi o tomate Flavr Savr, em 1994, que durava mais tempo na prateleira?",
+    "palavras_chave": ["transgênico", "engenharia genética", "milho bt", "biodiversidade", "pesticida"]
+  },
+  {
+    "pergunta": "Por que o DNA é chamado de dupla hélice?",
+    "resposta": "O DNA tem a forma de uma dupla hélice porque é formado por duas cadeias de nucleotídeos que se enrolam como uma escada em espiral. Essa estrutura, descoberta por Watson e Crick em 1953, permite que o DNA seja estável e se replique com precisão, já que as bases nitrogenadas (A, T, C, G) se pareiam de forma complementar. A análise crítica é que essa estrutura é elegante e funcional, mas mutações podem desestabilizá-la. Sabia que Rosalind Franklin foi essencial para essa descoberta, mas não recebeu o Nobel com Watson e Crick?",
+    "palavras_chave": ["dna", "dupla hélice", "watson e crick", "replicação", "rosalind franklin"]
+  },
+  {
+    "pergunta": "O que é epigenética?",
+    "resposta": "Epigenética estuda mudanças na expressão dos genes que não envolvem alterações na sequência de DNA. É como um interruptor que liga ou desliga genes, influenciado por fatores como dieta ou estresse. Por exemplo, gêmeos idênticos podem ter diferenças epigenéticas que afetam sua saúde. A análise crítica é que a epigenética mostra como o ambiente molda nossa biologia, mas ainda há muito a aprender sobre sua herança. Sabia que marcas epigenéticas podem ser passadas por algumas gerações, como em estudos com ratos?",
+    "palavras_chave": ["epigenética", "expressão gênica", "dna", "ambiente", "herança"]
+  },
+  {
+    "pergunta": "Como funciona a terapia gênica?",
+    "resposta": "A terapia gênica insere, remove ou corrige genes para tratar doenças, geralmente usando vírus modificados como vetores para entregar o DNA correto às células. Um exemplo é o tratamento de cegueira hereditária com o gene RPE65. É uma abordagem promissora, mas enfrenta desafios como efeitos colaterais e alto custo. A análise crítica é que ela pode revolucionar a medicina, mas exige regulamentação rigorosa. Sabia que a primeira terapia gênica aprovada, Luxturna, custa cerca de US$850.000 por paciente?",
+    "palavras_chave": ["terapia gênica", "vetor viral", "doença genética", "luxturna", "medicina"]
+  },
+  {
+    "pergunta": "O que é um marcador genético?",
+    "resposta": "Um marcador genético é uma sequência de DNA com localização conhecida, usada para identificar genes ou características específicas. Por exemplo, marcadores são usados em testes de paternidade ou para rastrear genes de doenças como Alzheimer. Eles ajudam a mapear o genoma e entender heranças. A análise crítica é que marcadores aceleram a pesquisa genética, mas não explicam sozinhos a complexidade das doenças. Sabia que marcadores genéticos foram cruciais para o Projeto Genoma Humano?",
+    "palavras_chave": ["marcador genético", "dna", "herança", "genoma", "doença"]
+  },
+  {
+    "pergunta": "Como a PCR é usada em biotecnologia?",
+    "resposta": "A PCR, ou reação em cadeia da polimerase, é uma técnica que amplifica pequenos trechos de DNA, permitindo estudá-los ou usá-los em aplicações como testes de DNA forense ou diagnóstico de doenças. Por exemplo, a PCR detecta o vírus da Covid-19 em amostras. É essencial porque é rápida e precisa, mas exige cuidados para evitar contaminações. Sabia que a PCR, inventada por Kary Mullis em 1983, rendeu a ele o Nobel de Química em 1993?",
+    "palavras_chave": ["pcr", "dna", "biotecnologia", "diagnóstico", "kary mullis"]
+  },
+  {
+    "pergunta": "O que é um alelo dominante?",
+    "resposta": "Um alelo dominante é uma variante de um gene que 'mascara' o efeito de um alelo recessivo quando ambos estão presentes. Por exemplo, na doença de Huntington, um alelo dominante defeituoso causa a condição, mesmo que o outro alelo seja normal. Isso explica por que algumas doenças genéticas aparecem mesmo com apenas uma cópia do gene alterado. A análise crítica é que a dominância nem sempre é tão simples, pois interações gênicas complexas podem mudar o resultado. Sabia que Mendel descobriu a dominância estudando ervilhas?",
+    "palavras_chave": ["alelo", "dominante", "recessivo", "herança", "mendel"]
+  },
+  {
+    "pergunta": "O que são doenças genéticas raras?",
+    "resposta": "Doenças genéticas raras são condições causadas por mutações em genes específicos e afetam poucas pessoas, como a síndrome de Rett, que atinge cerca de 1 em 10.000 meninas. Elas são difíceis de diagnosticar e tratar devido à sua complexidade e baixa incidência. A análise crítica é que avanços na genômica estão ajudando a identificar essas doenças, mas tratamentos são caros e inacessíveis para muitos. Sabia que cerca de 7.000 doenças raras são conhecidas, afetando milhões globalmente?",
+    "palavras_chave": ["doença rara", "mutação", "genômica", "diagnóstico", "síndrome de rett"]
+  },
+  {
+    "pergunta": "Como a biotecnologia ajuda na agricultura?",
+    "resposta": "A biotecnologia agrícola usa técnicas como transgenia e edição genética para criar plantas mais resistentes a pragas, secas ou solos pobres. Um exemplo é a soja transgênica resistente a herbicidas, que aumenta a produtividade. Apesar dos benefícios, há críticas sobre o impacto ambiental e a dependência de grandes empresas. A análise crítica é que a biotecnologia pode combater a fome, mas precisa de regulamentação para evitar monopólios. Sabia que cerca de 90% da soja cultivada no Brasil é transgênica?",
+    "palavras_chave": ["biotecnologia", "transgênico", "agricultura", "soja", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é clonagem e como ela é feita?",
+    "resposta": "Clonagem é o processo de criar um organismo geneticamente idêntico a outro. Na clonagem reprodutiva, como na ovelha Dolly, o núcleo de uma célula adulta é transferido para um óvulo sem núcleo, que é implantado em um útero. É uma técnica complexa com baixa taxa de sucesso, mas útil em pesquisa. A análise crítica é que a clonagem levanta questões éticas sobre identidade e biodiversidade. Sabia que Dolly, clonada em 1996, foi o primeiro mamífero clonado a partir de uma célula adulta?",
+    "palavras_chave": ["clonagem", "dolly", "núcleo", "ética", "biotecnologia"]
+  },
+  {
+    "pergunta": "O que é o código genético?",
+    "resposta": "O código genético é a 'linguagem' que traduz a sequência de nucleotídeos do DNA em proteínas, usando trincas de bases chamadas códons. Cada códon corresponde a um aminoácido ou a um sinal de parada. Por exemplo, o códon AUG inicia a síntese de proteínas. A análise crítica é que o código é quase universal, mas pequenas variações existem em algumas espécies. Sabia que o código genético foi decifrado na década de 1960, revolucionando a biologia molecular?",
+    "palavras_chave": ["código genético", "dna", "códon", "proteína", "biologia molecular"]
+  },
+  {
+    "pergunta": "Como o sequenciamento de DNA é feito?",
+    "resposta": "O sequenciamento de DNA determina a ordem exata dos nucleotídeos em uma molécula de DNA. Técnicas modernas, como o sequenciamento de nova geração, fragmentam o DNA, leem os pedaços e os recombinam computacionalmente. É usado em diagnósticos, como identificar mutações em câncer. A análise crítica é que o sequenciamento ficou mais rápido e barato, mas interpretar os dados ainda é um desafio. Sabia que o custo de sequenciar um genoma humano caiu de US$100 milhões em 2001 para menos de US$1.000 hoje?",
+    "palavras_chave": ["sequenciamento", "dna", "genoma", "diagnóstico", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é um teste genético?",
+    "resposta": "Um teste genético analisa o DNA para identificar mutações ou predisposições a doenças, como o teste BRCA para câncer de mama. Ele usa técnicas como PCR ou sequenciamento para examinar genes específicos. É útil para prevenção, mas pode gerar ansiedade ou discriminação genética. A análise crítica é que testes genéticos empoderam decisões médicas, mas exigem aconselhamento ético. Sabia que testes genéticos caseiros, como os da 23andMe, já são vendidos diretamente ao consumidor?",
+    "palavras_chave": ["teste genético", "dna", "mutação", "câncer", "ética"]
+  },
+  {
+    "pergunta": "O que são células-tronco na biotecnologia?",
+    "resposta": "Células-tronco são células capazes de se diferenciar em vários tipos celulares, como neurônios ou células sanguíneas. Na biotecnologia, são usadas para regenerar tecidos ou testar medicamentos. Por exemplo, células-tronco hematopoéticas tratam leucemia. A análise crítica é que seu potencial é enorme, mas questões éticas, como o uso de embriões, geram debates. Sabia que o Japão aprovou em 2014 o primeiro tratamento com células-tronco induzidas para retina?",
+    "palavras_chave": ["células-tronco", "biotecnologia", "regeneração", "ética", "leucemia"]
+  },
+  {
+    "pergunta": "Como a genética explica a cor dos olhos?",
+    "resposta": "A cor dos olhos é determinada por genes que controlam a produção de melanina na íris, como o gene OCA2. Alelos diferentes resultam em mais ou menos melanina, criando cores como azul ou castanho. É um traço poligênico, ou seja, vários genes interagem. A análise crítica é que a genética da cor dos olhos não é tão simples quanto parece, pois o ambiente também influencia. Sabia que olhos azuis surgiram de uma mutação há cerca de 10.000 anos na Europa?",
+    "palavras_chave": ["cor dos olhos", "gene", "melanina", "herança", "mutação"]
+  },
+  {
+    "pergunta": "O que é uma mutação de sentido trocado?",
+    "resposta": "Uma mutação de sentido trocado (missense) é quando um único nucleotídeo no DNA é alterado, resultando na substituição de um aminoácido na proteína codificada. Isso pode alterar a função da proteína, como na anemia falciforme, onde a hemoglobina é afetada. A análise crítica é que nem todas essas mutações são prejudiciais, mas as graves podem causar doenças. Sabia que mutações missense são estudadas para desenvolver terapias personalizadas contra câncer?",
+    "palavras_chave": ["mutação", "missense", "proteína", "anemia falciforme", "câncer"]
+  },
+  {
+    "pergunta": "Como a biotecnologia produz insulina?",
+    "resposta": "A insulina é produzida por bactérias geneticamente modificadas, como a E. coli, que recebem o gene humano da insulina. Essas bactérias agem como 'fábricas' para sintetizar o hormônio, que é purificado para tratar diabetes. Antes disso, usava-se insulina de porcos, menos eficaz. A análise crítica é que essa técnica salvou milhões de vidas, mas o acesso ainda é desigual. Sabia que a insulina recombinante foi o primeiro produto biotecnológico aprovado, em 1982?",
+    "palavras_chave": ["insulina", "biotecnologia", "bactéria", "diabetes", "recombinante"]
+  },
+  {
+    "pergunta": "O que é um genoma?",
+    "resposta": "Um genoma é o conjunto completo de DNA de um organismo, contendo todos os seus genes e sequências não codificantes. No caso humano, são cerca de 3 bilhões de pares de bases. Ele é estudado para entender doenças e evoluções. A análise crítica é que o genoma revela muito sobre nossa biologia, mas interpretar suas partes não codificantes é um desafio. Sabia que apenas cerca de 2% do genoma humano codifica proteínas?",
+    "palavras_chave": ["genoma", "dna", "gene", "sequenciamento", "biologia"]
+  },
+  {
+    "pergunta": "O que é a técnica de fingerprinting genético?",
+    "resposta": "O fingerprinting genético analisa regiões únicas do DNA, como sequências repetitivas, para identificar indivíduos. É usado em testes de paternidade, investigações forenses e até para identificar espécies. Por exemplo, foi crucial para resolver crimes famosos, como o caso O.J. Simpson. A análise crítica é que é uma ferramenta poderosa, mas erros de laboratório podem levar a falsos resultados. Sabia que o fingerprinting foi desenvolvido por Alec Jeffreys em 1984?",
+    "palavras_chave": ["fingerprinting", "dna", "forense", "identificação", "alec jeffreys"]
+  },
+  {
+    "pergunta": "Como a genética influencia a resistência a doenças?",
+    "resposta": "A genética determina variações em genes que afetam o sistema imunológico, como os genes HLA, que ajudam a reconhecer patógenos. Algumas mutações, como no gene CCR5, conferem resistência ao HIV. A análise crítica é que essas variações explicam por que algumas pessoas são mais resistentes, mas fatores ambientais também são cruciais. Sabia que a resistência ao HIV foi descoberta em pessoas com uma mutação rara no gene CCR5, chamada delta-32?",
+    "palavras_chave": ["genética", "resistência", "hiv", "sistema imunológico", "mutação"]
+  },    
+  {
+    "pergunta": "O que é um cariótipo e para que ele serve?",
+    "resposta": "Um cariótipo é uma imagem organizada dos cromossomos de uma célula, mostrando seu número, tamanho e forma. É usado para diagnosticar doenças genéticas, como a síndrome de Down, que apresenta um cromossomo 21 extra. O processo envolve coletar células, geralmente de sangue, e analisá-las em microscópio. A análise crítica é que o cariótipo é uma ferramenta básica, mas não detecta mutações pequenas no DNA. Sabia que o cariótipo humano típico mostra 46 cromossomos, organizados em 23 pares?",
+    "palavras_chave": ["cariótipo", "cromossomo", "síndrome de down", "diagnóstico", "genética"]
+  },
+  {
+    "pergunta": "Como funciona a herança ligada ao sexo?",
+    "resposta": "A herança ligada ao sexo envolve genes localizados nos cromossomos sexuais, geralmente o X. Homens, com um X e um Y, expressam traços recessivos do X mais facilmente, como a hemofilia, que afeta a coagulação do sangue. Mulheres, com dois X, podem ser portadoras sem sintomas. A análise crítica é que isso explica diferenças de doenças entre gêneros, mas o ambiente também influencia. Sabia que a hemofilia era comum em famílias reais europeias, como a de Alexandra da Rússia?",
+    "palavras_chave": ["herança", "cromossomo x", "hemofilia", "sexo", "gene"]
+  },
+  {
+    "pergunta": "O que é a técnica de hibridização in situ fluorescente (FISH)?",
+    "resposta": "A FISH é uma técnica que usa sondas fluorescentes para marcar sequências específicas de DNA nos cromossomos, permitindo visualizar alterações genéticas. É usada, por exemplo, para detectar deleções no cromossomo 22, associadas à síndrome de DiGeorge. É precisa e visual, mas limitada a regiões específicas do DNA. A análise crítica é que ela complementa o cariótipo, mas não substitui o sequenciamento completo. Sabia que a FISH foi fundamental para identificar rearranjos cromossômicos em cânceres como leucemia?",
+    "palavras_chave": ["fish", "cromossomo", "fluorescência", "diagnóstico", "câncer"]
+  },
+  {
+    "pergunta": "Por que a diversidade genética é importante?",
+    "resposta": "A diversidade genética é a variedade de genes dentro de uma população, essencial para a adaptação e sobrevivência de espécies. Por exemplo, populações de cheetas com baixa diversidade genética são mais vulneráveis a doenças. Ela também ajuda na agricultura, criando plantas mais resistentes. A análise crítica é que a perda de diversidade, como em monoculturas, aumenta riscos ecológicos. Sabia que a diversidade genética salvou vinhedos europeus no século XIX ao cruzar uvas com espécies americanas resistentes?",
+    "palavras_chave": ["diversidade genética", "adaptação", "espécie", "agricultura", "ecologia"]
+  },
+  {
+    "pergunta": "O que é um vetor viral na biotecnologia?",
+    "resposta": "Um vetor viral é um vírus modificado usado para entregar genes a células em terapias gênicas ou pesquisas. Por exemplo, adenovírus são usados para inserir genes corretivos em doenças como a distrofia muscular. Eles são eficazes, mas podem causar reações imunológicas. A análise crítica é que vetores virais são promissores, mas a segurança a longo prazo ainda é estudada. Sabia que vetores virais foram usados nas vacinas contra Covid-19, como a da AstraZeneca?",
+    "palavras_chave": ["vetor viral", "terapia gênica", "vírus", "biotecnologia", "segurança"]
+  },
+  {
+    "pergunta": "O que é uma mutação de ponto?",
+    "resposta": "Uma mutação de ponto é a alteração de um único nucleotídeo no DNA, que pode mudar um códon e afetar a proteína produzida. Um exemplo é a anemia falciforme, causada por uma única troca de base no gene da hemoglobina. Nem todas são prejudiciais, mas podem ter impactos significativos. A análise crítica é que mutações de ponto são comuns, mas difíceis de prever. Sabia que mutações de ponto podem ser corrigidas com CRISPR em laboratório?",
+    "palavras_chave": ["mutação de ponto", "dna", "proteína", "anemia falciforme", "crispr"]
+  },
+  {
+    "pergunta": "Como a biotecnologia produz vacinas?",
+    "resposta": "A biotecnologia produz vacinas usando técnicas como DNA recombinante ou vetores virais para criar antígenos que estimulam o sistema imunológico. Por exemplo, a vacina contra hepatite B usa um gene viral inserido em leveduras para produzir a proteína do vírus. É uma abordagem segura e escalável, mas depende de infraestrutura avançada. A análise crítica é que vacinas biotecnológicas salvaram milhões, mas o acesso global é desigual. Sabia que a vacina de mRNA contra Covid-19 foi a primeira do tipo aprovada?",
+    "palavras_chave": ["vacina", "biotecnologia", "mrna", "antígeno", "imunidade"]
+  },
+  {
+    "pergunta": "O que é o dogma central da biologia molecular?",
+    "resposta": "O dogma central explica como a informação genética flui: do DNA para o RNA (transcrição) e do RNA para proteínas (tradução). É a base de como genes controlam funções celulares. Por exemplo, o gene da insulina passa por esse processo para produzir o hormônio. A análise crítica é que exceções, como retrovírus, mostram que o fluxo pode ser reverso. Sabia que Francis Crick, que ajudou a descobrir o DNA, propôs esse conceito em 1958?",
+    "palavras_chave": ["dogma central", "dna", "rna", "proteína", "transcrição"]
+  },
+  {
+    "pergunta": "O que são doenças poligênicas?",
+    "resposta": "Doenças poligênicas são causadas por múltiplos genes interagindo, como diabetes tipo 2 ou hipertensão. Diferente de doenças monogênicas, como fibrose cística, elas dependem também de fatores ambientais, como dieta. A análise crítica é que sua complexidade dificulta tratamentos, mas a genômica está ajudando a entender essas interações. Sabia que até 500 genes podem influenciar a predisposição ao diabetes tipo 2?",
+    "palavras_chave": ["poligênico", "doença", "genética", "ambiente", "diabetes"]
+  },
+  {
+    "pergunta": "Como a biotecnologia ajuda na conservação de espécies?",
+    "resposta": "A biotecnologia usa técnicas como clonagem e bancos de DNA para preservar espécies ameaçadas. Por exemplo, o DNA de rinocerontes é armazenado para futura reintrodução genética. Também ajuda a estudar a diversidade genética de populações selvagens. A análise crítica é que, embora útil, não substitui a conservação de habitats. Sabia que o primeiro animal clonado de uma espécie extinta foi um íbex-dos-pirineus, em 2009, mas ele viveu apenas alguns minutos?",
+    "palavras_chave": ["biotecnologia", "conservação", "clonagem", "diversidade genética", "espécies"]
+  },
+  {
+    "pergunta": "O que é um plasmídeo na engenharia genética?",
+    "resposta": "Um plasmídeo é uma pequena molécula de DNA circular encontrada em bactérias, usada como vetor na engenharia genética. Genes de interesse, como o da insulina, são inseridos no plasmídeo, que é introduzido em bactérias para produzir proteínas. É uma ferramenta essencial, mas limitada por tamanho. A análise crítica é que plasmídeos revolucionaram a biotecnologia, mas podem causar resistência bacteriana. Sabia que plasmídeos naturais foram descobertos em bactérias na década de 1950?",
+    "palavras_chave": ["plasmídeo", "engenharia genética", "bactéria", "vetor", "insulina"]
+  },
+  {
+    "pergunta": "O que é herança mitocondrial?",
+    "resposta": "Herança mitocondrial é a transmissão de genes localizados no DNA das mitocôndrias, passados quase exclusivamente pela mãe. Mutações nesse DNA podem causar doenças como a neuropatia óptica de Leber. É diferente da herança nuclear, pois não segue as leis de Mendel. A análise crítica é que ela explica certas doenças raras, mas seu estudo é complexo. Sabia que o DNA mitocondrial é usado para rastrear linhagens maternas em estudos evolutivos?",
+    "palavras_chave": ["mitocôndria", "herança", "dna", "doença", "evolução"]
+  },
+  {
+    "pergunta": "Como a genética estuda a evolução?",
+    "resposta": "A genética estuda a evolução analisando mudanças nas frequências de genes em populações ao longo do tempo. Por exemplo, a seleção natural favorece alelos que aumentam a sobrevivência, como a resistência à malária em humanos. Técnicas como sequenciamento de DNA mostram relações entre espécies. A análise crítica é que a genética confirma a evolução, mas interpretar dados fósseis e genéticos juntos é desafiador. Sabia que o DNA de neandertais revelou cruzamentos com humanos modernos?",
+    "palavras_chave": ["evolução", "genética", "seleção natural", "dna", "neandertal"]
+  },
+  {
+    "pergunta": "O que é bioinformática na genética?",
+    "resposta": "Bioinformática combina biologia e computação para analisar grandes quantidades de dados genéticos, como sequências de DNA. É usada para identificar genes, prever funções de proteínas ou estudar doenças. Por exemplo, ajuda a mapear mutações em câncer. A análise crítica é que a bioinformática acelera descobertas, mas exige algoritmos confiáveis. Sabia que a bioinformática foi essencial para decodificar o genoma humano em apenas alguns anos?",
+    "palavras_chave": ["bioinformática", "genética", "dna", "sequenciamento", "câncer"]
+  },
+  {
+    "pergunta": "O que são organismos geneticamente modificados (OGM)?",
+    "resposta": "OGMs são organismos cujo DNA foi alterado por engenharia genética para introduzir características desejadas, como resistência a pragas em plantas ou maior produção de leite em vacas. Um exemplo é o arroz dourado, que produz vitamina A. Apesar dos benefícios, há preocupações com impactos ambientais. A análise crítica é que OGMs podem aliviar a fome, mas precisam de testes rigorosos. Sabia que o arroz dourado foi criado para combater a deficiência de vitamina A em países pobres?",
+    "palavras_chave": ["ogm", "engenharia genética", "arroz dourado", "agricultura", "vitamina a"]
+  },
+  {
+    "pergunta": "O que é um gene regulador?",
+    "resposta": "Um gene regulador produz proteínas que controlam a expressão de outros genes, ligando ou desligando sua atividade. Por exemplo, genes reguladores como o P53 evitam a formação de tumores. Alterações nesses genes podem causar doenças. A análise crítica é que eles são cruciais para a homeostase, mas difíceis de manipular. Sabia que mutações no P53 estão presentes em cerca de 50% dos casos de câncer?",
+    "palavras_chave": ["gene regulador", "expressão gênica", "p53", "câncer", "homeostase"]
+  },
+  {
+    "pergunta": "Como a biotecnologia usa enzimas de restrição?",
+    "resposta": "Enzimas de restrição são proteínas que cortam o DNA em pontos específicos, usadas na engenharia genética para inserir ou remover genes. Por exemplo, elas ajudam a criar bactérias que produzem insulina. São precisas, mas requerem sequências-alvo específicas. A análise crítica é que elas revolucionaram a biotecnologia, mas a edição genética moderna, como CRISPR, é mais versátil. Sabia que essas enzimas foram descobertas em bactérias que as usam como defesa contra vírus?",
+    "palavras_chave": ["enzima de restrição", "engenharia genética", "dna", "crispr", "insulina"]
+  },
+  {
+    "pergunta": "O que é um traço recessivo?",
+    "resposta": "Um traço recessivo só se manifesta quando um indivíduo herda duas cópias do alelo recessivo, uma de cada pai. Por exemplo, a albinismo é recessivo, então ambos os pais devem ser portadores. Isso explica por que algumas condições 'pulam' gerações. A análise crítica é que a herança recessiva é simples em teoria, mas interações genéticas complicam os resultados. Sabia que o albinismo afeta não só humanos, mas também animais como tigres brancos?",
+    "palavras_chave": ["traço recessivo", "alelo", "herança", "albinismo", "genética"]
+  },
+  {
+    "pergunta": "Como a genética personaliza a medicina?",
+    "resposta": "A medicina personalizada usa informações genéticas para adaptar tratamentos a cada paciente. Por exemplo, testes genéticos identificam se um paciente com câncer responde melhor a certos quimioterápicos. É promissor, mas caro e inacessível em muitos lugares. A análise crítica é que ela pode melhorar resultados, mas levanta questões éticas sobre privacidade. Sabia que medicamentos como o trastuzumabe são usados apenas em pacientes com mutações específicas, como HER2?",
+    "palavras_chave": ["medicina personalizada", "genética", "câncer", "tratamento", "ética"]
+  },
+  {
+    "pergunta": "O que é o projeto Genoma Humano?",
+    "resposta": "O Projeto Genoma Humano, concluído em 2003, mapeou a sequência completa do DNA humano, identificando cerca de 20.000 genes. Ele abriu portas para entender doenças genéticas e desenvolver terapias. A análise crítica é que, embora revolucionário, interpretar o genoma ainda é um desafio, especialmente as partes não codificantes. Sabia que o projeto custou cerca de US$3 bilhões e envolveu cientistas de vários países?",
+    "palavras_chave": ["genoma humano", "sequenciamento", "dna", "doença", "biotecnologia"]
+  },
+  {
+    "pergunta": "O que é uma mutação frameshift?",
+    "resposta": "Uma mutação frameshift ocorre quando nucleotídeos são inseridos ou deletados no DNA, alterando o quadro de leitura dos códons. Isso pode produzir proteínas disfuncionais, como na distrofia muscular de Duchenne. É mais grave que mutações de ponto, pois afeta toda a sequência. A análise crítica é que essas mutações são difíceis de corrigir, mas terapias genéticas estão avançando. Sabia que frameshifts podem ser causados por agentes químicos, como a fumaça do cigarro?",
+    "palavras_chave": ["frameshift", "mutação", "dna", "proteína", "doença"]
+  },
+  {
+    "pergunta": "Como a biotecnologia produz biocombustíveis?",
+    "resposta": "A biotecnologia produz biocombustíveis modificando microrganismos, como algas ou bactérias, para sintetizar compostos como etanol ou biodiesel. Por exemplo, algas geneticamente modificadas produzem óleos que podem ser convertidos em combustível. É uma alternativa sustentável, mas a escala ainda é limitada. A análise crítica é que biocombustíveis reduzem emissões, mas competem com a produção de alimentos. Sabia que algumas algas podem produzir até 10 vezes mais óleo que culturas tradicionais, como a soja?",
+    "palavras_chave": ["biocombustível", "biotecnologia", "alga", "etanol", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é linkage genético?",
+    "resposta": "Linkage genético é a tendência de genes localizados próximos no mesmo cromossomo serem herdados juntos, porque têm menos chance de se separarem durante a meiose. É usado para mapear genes de doenças, como a fibrose cística. A análise crítica é que o linkage ajuda a entender a herança, mas recombinações podem complicar o mapeamento. Sabia que o estudo de linkage foi crucial para localizar o gene da distrofia muscular nos anos 1980?",
+    "palavras_chave": ["linkage", "cromossomo", "herança", "meiose", "doença"]
+  },
+  {
+    "pergunta": "O que são microarrays de DNA?",
+    "resposta": "Microarrays de DNA são ferramentas que analisam a expressão de milhares de genes simultaneamente, usando chips com sondas de DNA. São usados para comparar genes ativos em células normais e cancerosas, por exemplo. A análise crítica é que eles geram dados massivos, mas exigem bioinformática para interpretação. Sabia que microarrays ajudaram a identificar subtipos de câncer de mama com diferentes prognósticos?",
+    "palavras_chave": ["microarray", "dna", "expressão gênica", "câncer", "bioinformática"]
+  },
+  {
+    "pergunta": "Como a genética explica a resistência bacteriana?",
+    "resposta": "A resistência bacteriana ocorre quando mutações ou transferência de genes, como em plasmídeos, permitem que bactérias sobrevivam a antibióticos. Por exemplo, a bactéria MRSA resiste à meticilina devido a um gene adquirido. A análise crítica é que o uso excessivo de antibióticos acelera esse processo, criando superbactérias. Sabia que a resistência bacteriana causa mais de 1 milhão de mortes por ano, segundo a OMS?",
+    "palavras_chave": ["resistência bacteriana", "mutação", "plasmídeo", "antibiótico", "superbactéria"]
+  },
+  {
+    "pergunta": "O que é um gene supressor de tumor?",
+    "resposta": "Um gene supressor de tumor é um gene que regula o crescimento celular, evitando a formação de tumores. Um exemplo famoso é o gene P53, que atua como um 'guardião do genoma', reparando DNA danificado ou induzindo a morte celular. Mutações no P53 estão ligadas a vários cânceres. A análise crítica é que esses genes são cruciais para prevenir câncer, mas sua perda pode ser desencadeada por fatores ambientais. Sabia que cerca de 50% dos cânceres humanos têm mutações no P53?",
+    "palavras_chave": ["gene supressor", "p53", "câncer", "dna", "regulação"]
+  },
+  {
+    "pergunta": "Como a biotecnologia usa microrganismos para limpar poluição?",
+    "resposta": "A biorremediação usa microrganismos geneticamente modificados para degradar poluentes, como petróleo ou metais pesados. Por exemplo, bactérias como a Pseudomonas podem quebrar hidrocarbonetos em derramamentos de óleo. É uma solução ecológica, mas limitada por condições ambientais. A análise crítica é que a biorremediação é sustentável, mas pode ser lenta em larga escala. Sabia que bactérias modificadas limparam parte do vazamento de óleo no Golfo do México em 2010?",
+    "palavras_chave": ["biorremediação", "microrganismo", "poluição", "bactéria", "biotecnologia"]
+  },
+  {
+    "pergunta": "O que é um crossing-over na genética?",
+    "resposta": "Crossing-over é a troca de material genético entre cromossomos homólogos durante a meiose, aumentando a diversidade genética. Por exemplo, é por isso que irmãos não idênticos têm combinações únicas de traços. Ele também ajuda a mapear genes em cromossomos. A análise crítica é que o crossing-over é essencial para a evolução, mas erros podem causar doenças genéticas. Sabia que o crossing-over foi descoberto por Thomas Morgan em experimentos com moscas em 1911?",
+    "palavras_chave": ["crossing-over", "meiose", "diversidade genética", "cromossomo", "evolução"]
+  },
+  {
+    "pergunta": "O que é um gene homeótico?",
+    "resposta": "Genes homeóticos controlam o desenvolvimento do corpo, determinando onde certas estruturas, como pernas ou asas, se formam. Mutações nesses genes podem causar deformidades, como moscas com pernas no lugar de antenas. São fundamentais em embriologia e evolução. A análise crítica é que esses genes mostram como pequenas mudanças genéticas podem alterar planos corporais. Sabia que genes homeóticos são conservados em espécies tão diferentes quanto moscas e humanos?",
+    "palavras_chave": ["gene homeótico", "desenvolvimento", "mutação", "evolução", "embriologia"]
+  },
+  {
+    "pergunta": "Como a biotecnologia produz enzimas industriais?",
+    "resposta": "A biotecnologia usa microrganismos modificados, como bactérias ou fungos, para produzir enzimas usadas em indústrias, como a amilase em detergentes. Genes de enzimas são inseridos em microrganismos para produção em larga escala. É eficiente, mas depende de condições controladas. A análise crítica é que isso reduz custos, mas pode gerar resíduos biológicos. Sabia que enzimas produzidas por biotecnologia são usadas para fazer jeans com aparência desgastada?",
+    "palavras_chave": ["enzima", "biotecnologia", "microrganismo", "indústria", "amilase"]
+  },
+  {
+    "pergunta": "O que é uma mutação silenciosa?",
+    "resposta": "Uma mutação silenciosa altera um nucleotídeo no DNA, mas não muda a proteína produzida, devido à redundância do código genético. Por exemplo, o códon UUU e UUC codificam o mesmo aminoácido. Geralmente, não causa problemas, mas pode afetar a eficiência da tradução. A análise crítica é que essas mutações são 'invisíveis', mas podem ter efeitos sutis. Sabia que mutações silenciosas são usadas para estudar a evolução molecular em espécies?",
+    "palavras_chave": ["mutação silenciosa", "dna", "código genético", "proteína", "evolução"]
+  },
+  {
+    "pergunta": "O que é o RNA mensageiro (mRNA)?",
+    "resposta": "O RNA mensageiro (mRNA) é uma molécula que carrega a informação genética do DNA para os ribossomos, onde as proteínas são sintetizadas. É como um 'molde' temporário do gene. Por exemplo, vacinas de mRNA contra Covid-19 usam essa molécula para ensinar o corpo a combater o vírus. A análise crítica é que o mRNA é versátil, mas instável, exigindo armazenamento especial. Sabia que o mRNA foi descoberto na década de 1960, mas só recentemente foi usado em vacinas?",
+    "palavras_chave": ["mrna", "dna", "proteína", "vacina", "ribossomo"]
+  },
+  {
+    "pergunta": "Como a genética explica a intolerância à lactose?",
+    "resposta": "A intolerância à lactose ocorre quando o gene LCT, que produz a enzima lactase, é pouco expresso após a infância. Isso impede a digestão da lactose, causando desconforto. É mais comum em populações com pouca tradição de consumo de leite. A análise crítica é que a tolerância à lactose é uma adaptação genética recente em algumas culturas. Sabia que a mutação para tolerância à lactose surgiu há cerca de 7.000 anos em populações pastoris europeias?",
+    "palavras_chave": ["intolerância à lactose", "lactase", "gene lct", "adaptação", "genética"]
+  },
+  {
+    "pergunta": "O que é um banco de genes?",
+    "resposta": "Um banco de genes é um repositório que armazena material genético, como sementes, DNA ou células, para preservar a diversidade genética. Por exemplo, o Banco de Sementes de Svalbard guarda sementes de culturas agrícolas. É crucial para a conservação e pesquisa. A análise crítica é que bancos de genes protegem a biodiversidade, mas não substituem ecossistemas naturais. Sabia que o banco de Svalbard, na Noruega, contém mais de 1 milhão de amostras de sementes?",
+    "palavras_chave": ["banco de genes", "biodiversidade", "sementes", "conservação", "genética"]
+  },
+  {
+    "pergunta": "Como a biotecnologia melhora a produção de medicamentos?",
+    "resposta": "A biotecnologia produz medicamentos, como anticorpos monoclonais, usando células modificadas para sintetizar moléculas terapêuticas. Por exemplo, o trastuzumabe trata câncer de mama com alta precisão. É mais eficaz que métodos tradicionais, mas caro. A análise crítica é que esses medicamentos salvam vidas, mas o custo limita o acesso. Sabia que anticorpos monoclonais foram usados para tratar pacientes com Covid-19 em estágios iniciais?",
+    "palavras_chave": ["biotecnologia", "medicamento", "anticorpo monoclonal", "câncer", "acesso"]
+  },
+  {
+    "pergunta": "O que é uma mutação de deleção?",
+    "resposta": "Uma mutação de deleção ocorre quando um segmento de DNA é perdido, podendo alterar ou eliminar a função de um gene. Por exemplo, a deleção no gene CFTR causa fibrose cística. É mais grave em regiões codificantes. A análise crítica é que deleções podem ser devastadoras, mas também impulsionam a evolução. Sabia que deleções no cromossomo 22 estão ligadas à síndrome de DiGeorge, afetando o desenvolvimento facial?",
+    "palavras_chave": ["deleção", "mutação", "dna", "fibrose cística", "evolução"]
+  },
+  {
+    "pergunta": "O que é um genótipo?",
+    "resposta": "O genótipo é a composição genética de um organismo, ou seja, os alelos que ele carrega para um gene específico. Por exemplo, alguém com genótipo Aa para um traço tem um alelo dominante e um recessivo. Ele determina, junto com o ambiente, o fenótipo. A análise crítica é que o genótipo é fixo, mas sua expressão varia. Sabia que o genótipo pode ser identificado por testes de DNA, como em investigações forenses?",
+    "palavras_chave": ["genótipo", "alelo", "fenótipo", "dna", "herança"]
+  },
+  {
+    "pergunta": "Como a biotecnologia usa fungos?",
+    "resposta": "Fungos, como leveduras, são usados na biotecnologia para produzir medicamentos, biocombustíveis e alimentos. Por exemplo, a levedura Saccharomyces cerevisiae produz insulina e etanol. São fáceis de manipular geneticamente, mas sensíveis a condições externas. A análise crítica é que fungos são versáteis, mas escalar sua produção é desafiador. Sabia que a penicilina, descoberta em um fungo, revolucionou a medicina na década de 1940?",
+    "palavras_chave": ["fungo", "biotecnologia", "levedura", "insulina", "penicilina"]
+  },
+  {
+    "pergunta": "O que é um fenótipo?",
+    "resposta": "O fenótipo é a expressão visível ou mensurável do genótipo, como a cor dos olhos ou a altura. É influenciado por genes e ambiente. Por exemplo, uma planta com genes para crescer alta pode ficar pequena em solo pobre. A análise crítica é que o fenótipo reflete interações complexas, dificultando previsões. Sabia que gêmeos idênticos, com o mesmo genótipo, podem ter fenótipos diferentes devido ao ambiente?",
+    "palavras_chave": ["fenótipo", "genótipo", "ambiente", "expressão gênica", "herança"]
+  },
+  {
+    "pergunta": "Como a genética estuda doenças complexas?",
+    "resposta": "Doenças complexas, como Alzheimer, são estudadas analisando múltiplos genes e fatores ambientais. Técnicas como GWAS (estudos de associação genômica) identificam variantes genéticas ligadas a essas doenças. É um campo avançado, mas interpretar os dados é difícil. A análise crítica é que a genética explica parte do risco, mas o estilo de vida também é crucial. Sabia que o gene APOE4 aumenta o risco de Alzheimer, mas não o determina sozinho?",
+    "palavras_chave": ["doença complexa", "genética", "gwas", "alzheimer", "ambiente"]
+  },
+  {
+    "pergunta": "O que é a técnica de RNAi?",
+    "resposta": "RNAi (interferência de RNA) é uma técnica que silencia genes específicos usando pequenas moléculas de RNA que se ligam ao mRNA, impedindo a produção de proteínas. É usada para estudar funções de genes ou tratar doenças, como a amiloidose. A análise crítica é que o RNAi é preciso, mas sua entrega no corpo é desafiadora. Sabia que o RNAi foi descoberto em vermes na década de 1990 e rendeu um Nobel em 2006?",
+    "palavras_chave": ["rnai", "interferência", "gene", "mrna", "terapia"]
+  },
+  {
+    "pergunta": "O que é um gene letal?",
+    "resposta": "Um gene letal é uma mutação que causa a morte do organismo ou impede sua reprodução. Por exemplo, na doença de Tay-Sachs, uma mutação recessiva letal afeta o sistema nervoso, levando à morte na infância. A análise crítica é que genes letais limitam a sobrevivência, mas podem persistir em populações como alelos recessivos. Sabia que genes letais são estudados em moscas para entender desenvolvimento embrionário?",
+    "palavras_chave": ["gene letal", "mutação", "tay-sachs", "herança", "morte"]
+  },
+  {
+    "pergunta": "Como a biotecnologia cria alimentos funcionais?",
+    "resposta": "A biotecnologia desenvolve alimentos funcionais modificando geneticamente plantas ou microrganismos para aumentar nutrientes. Um exemplo é o arroz dourado, enriquecido com vitamina A. Esses alimentos combatem deficiências nutricionais, mas enfrentam resistência pública. A análise crítica é que podem melhorar a saúde global, mas precisam de aceitação cultural. Sabia que o arroz dourado foi criado para ajudar populações com deficiência de vitamina A na Ásia e África?",
+    "palavras_chave": ["alimento funcional", "biotecnologia", "arroz dourado", "vitamina a", "nutrição"]
+  },
+  {
+    "pergunta": "O que é um cromossomo homólogo?",
+    "resposta": "Cromossomos homólogos são pares de cromossomos, um de cada pai, que carregam genes para os mesmos traços, mas com alelos possivelmente diferentes. São essenciais na meiose, pois alinham e trocam material no crossing-over. A análise crítica é que eles garantem diversidade genética, mas erros no pareamento causam doenças. Sabia que humanos têm 23 pares de cromossomos homólogos, totalizando 46 cromossomos?",
+    "palavras_chave": ["cromossomo homólogo", "meiose", "crossing-over", "genética", "diversidade"]
+  },
+  {
+    "pergunta": "Como a genética estuda a ancestralidade humana?",
+    "resposta": "A genética usa o DNA mitocondrial e o cromossomo Y para rastrear linhagens maternas e paternas, respectivamente. Testes de ancestralidade, como os da 23andMe, analisam marcadores genéticos para estimar origens étnicas. A análise crítica é que esses testes revelam migrações humanas, mas podem simplificar histórias complexas. Sabia que o DNA mitocondrial traçou a 'Eva mitocondrial', uma ancestral comum de todos os humanos, na África há 200.000 anos?",
+    "palavras_chave": ["ancestralidade", "dna mitocondrial", "cromossomo y", "genética", "migração"]
+  },
+  {
+    "pergunta": "O que é um gene ligado a um traço quantitativo (QTL)?",
+    "resposta": "Um QTL é uma região do DNA associada a traços quantitativos, como altura ou peso, que variam continuamente devido a múltiplos genes. Por exemplo, QTLs são usados na agricultura para selecionar plantas mais produtivas. A análise crítica é que identificar QTLs é útil, mas prever fenótipos é complexo. Sabia que QTLs ajudaram a desenvolver variedades de trigo mais resistentes à seca?",
+    "palavras_chave": ["qtl", "traço quantitativo", "genética", "agricultura", "fenótipo"]
+  },
+  {
+    "pergunta": "Como a biotecnologia usa algas?",
+    "resposta": "Algas são usadas na biotecnologia para produzir biocombustíveis, suplementos alimentares e até cosméticos. Por exemplo, algas geneticamente modificadas produzem ômega-3 para suplementos. São sustentáveis, mas a produção em larga escala é cara. A análise crítica é que algas têm grande potencial, mas exigem avanços tecnológicos. Sabia que algas podem absorver CO2, ajudando a combater mudanças climáticas?",
+    "palavras_chave": ["alga", "biotecnologia", "biocombustível", "ômega-3", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é uma mutação de inserção?",
+    "resposta": "Uma mutação de inserção adiciona nucleotídeos ao DNA, podendo alterar o quadro de leitura e produzir proteínas defeituosas. Por exemplo, inserções no gene HTT causam a doença de Huntington. São graves quando afetam genes essenciais. A análise crítica é que inserções impulsionam a evolução, mas também doenças. Sabia que inserções de elementos transponíveis, ou 'genes saltadores', podem criar novas funções genéticas?",
+    "palavras_chave": ["inserção", "mutação", "dna", "huntington", "evolução"]
+  },
+  {
+    "pergunta": "O que é a técnica de eletroforese em gel?",
+    "resposta": "A eletroforese em gel separa fragmentos de DNA por tamanho, usando um campo elétrico para movê-los através de um gel. É usada em testes genéticos, como para identificar mutações. É simples e acessível, mas limitada para grandes quantidades de DNA. A análise crítica é que ela é fundamental na genética, mas foi superada por métodos automatizados. Sabia que a eletroforese foi essencial para o sequenciamento inicial do genoma humano?",
+    "palavras_chave": ["eletroforese", "dna", "genética", "mutação", "sequenciamento"]
+  },
+  {
+    "pergunta": "Como a genética explica a adaptação das espécies?",
+    "resposta": "A adaptação ocorre quando mutações benéficas aumentam a sobrevivência e se espalham na população por seleção natural. Por exemplo, mariposas escuras se tornaram comuns em áreas poluídas, pois camuflavam melhor. A análise crítica é que a genética revela como as espécies evoluem, mas mudanças rápidas no ambiente desafiam adaptações. Sabia que a resistência a antibióticos em bactérias é um exemplo de adaptação em tempo real?",
+    "palavras_chave": ["adaptação", "genética", "seleção natural", "mutação", "evolução"]
+  },
+  {
+    "pergunta": "O que é um gene recessivo letal?",
+    "resposta": "Um gene recessivo letal é uma mutação que causa a morte do organismo apenas quando presente em duas cópias. Um exemplo é a doença de Tay-Sachs, onde crianças com duas cópias do gene defeituoso desenvolvem problemas neurológicos graves. Portadores com uma cópia são saudáveis, o que mantém o gene na população. A análise crítica é que esses genes persistem por serem 'escondidos' em heterozigotos. Sabia que testes genéticos para Tay-Sachs reduziram sua incidência em algumas comunidades?",
+    "palavras_chave": ["gene recessivo", "tay-sachs", "mutação", "herança", "letilidade"]
+  },
+  {
+    "pergunta": "Como a biotecnologia usa CRISPR na medicina?",
+    "resposta": "CRISPR-Cas9 é usado na medicina para editar genes com precisão, corrigindo mutações que causam doenças como anemia falciforme. Por exemplo, o gene BCL11A pode ser editado para aumentar a hemoglobina fetal em pacientes. É revolucionário, mas enfrenta desafios como efeitos fora do alvo. A análise crítica é que o CRISPR pode curar doenças genéticas, mas questões éticas sobre edição em embriões persistem. Sabia que em 2020, o Nobel de Química foi dado às criadoras do CRISPR, Emmanuelle Charpentier e Jennifer Doudna?",
+    "palavras_chave": ["crispr", "medicina", "edição genética", "anemia falciforme", "ética"]
+  },
+  {
+    "pergunta": "O que é um polimorfismo genético?",
+    "resposta": "Um polimorfismo genético é uma variação comum no DNA que ocorre em mais de 1% da população, como diferenças na cor da pele. Um exemplo é o polimorfismo no gene MC1R, que influencia a pigmentação. Diferente de mutações raras, polimorfismos são normais e moldam a diversidade. A análise crítica é que eles explicam variações normais, mas também riscos de doenças. Sabia que polimorfismos no gene APOE afetam o risco de Alzheimer?",
+    "palavras_chave": ["polimorfismo", "dna", "variação", "alzheimer", "diversidade"]
+  },
+  {
+    "pergunta": "Como a genética estuda a seleção natural?",
+    "resposta": "A genética analisa mudanças nas frequências de alelos em populações para entender a seleção natural. Por exemplo, a resistência à malária em humanos com o alelo falciforme mostra como a seleção favorece traços vantajosos. Estudos de DNA comparam espécies para rastrear adaptações. A análise crítica é que a genética revela a seleção, mas fatores culturais também influenciam. Sabia que a seleção natural foi observada em tempo real em pássaros de Galápagos?",
+    "palavras_chave": ["seleção natural", "genética", "alelo", "adaptação", "evolução"]
+  },
+  {
+    "pergunta": "O que é a técnica de clonagem terapêutica?",
+    "resposta": "Clonagem terapêutica cria células-tronco a partir de embriões clonados para tratar doenças, como Parkinson, produzindo tecidos compatíveis com o paciente. Envolve transferir um núcleo celular para um óvulo sem núcleo. É promissor, mas levanta questões éticas. A análise crítica é que pode revolucionar transplantes, mas enfrenta resistência ética. Sabia que a clonagem terapêutica foi testada em macacos em 2018 com sucesso parcial?",
+    "palavras_chave": ["clonagem terapêutica", "células-tronco", "ética", "transplante", "biotecnologia"]
+  },
+  {
+    "pergunta": "O que é um gene candidato?",
+    "resposta": "Um gene candidato é um gene suspeito de estar associado a um traço ou doença, identificado por estudos genéticos. Por exemplo, o gene BRCA1 foi identificado como candidato para câncer de mama. É usado em pesquisas para confirmar funções genéticas. A análise crítica é que genes candidatos aceleram diagnósticos, mas nem sempre explicam o quadro completo. Sabia que o BRCA1 foi descoberto nos anos 1990 após estudos em famílias com câncer hereditário?",
+    "palavras_chave": ["gene candidato", "brca1", "câncer", "genética", "diagnóstico"]
+  },
+  {
+    "pergunta": "Como a biotecnologia produz proteínas recombinantes?",
+    "resposta": "Proteínas recombinantes são produzidas inserindo genes humanos em microrganismos, como bactérias ou leveduras, que atuam como fábricas. Um exemplo é a eritropoetina, usada para tratar anemia. É eficiente, mas exige purificação rigorosa. A análise crítica é que essa técnica transformou a medicina, mas o custo ainda é alto. Sabia que a eritropoetina recombinante foi usada por atletas como doping, gerando escândalos esportivos?",
+    "palavras_chave": ["proteína recombinante", "biotecnologia", "eritropoetina", "medicina", "bactéria"]
+  },
+  {
+    "pergunta": "O que é uma mutação somática?",
+    "resposta": "Uma mutação somática ocorre em células não reprodutivas e não é passada para os filhos. Está associada a cânceres, como mutações no gene KRAS em tumores de pulmão. Diferente de mutações germinativas, afetam apenas o indivíduo. A análise crítica é que essas mutações impulsionam o câncer, mas também são alvos de terapias. Sabia que mutações somáticas podem ser causadas por exposição ao sol, como no melanoma?",
+    "palavras_chave": ["mutação somática", "câncer", "kras", "genética", "terapia"]
+  },
+  {
+    "pergunta": "O que é o princípio de Hardy-Weinberg?",
+    "resposta": "O princípio de Hardy-Weinberg descreve o equilíbrio genético em populações onde as frequências de alelos permanecem constantes, sem seleção natural, mutações ou migrações. É usado para estudar a evolução genética. Por exemplo, desvios desse equilíbrio indicam forças evolutivas. A análise crítica é que é uma ferramenta teórica, mas raramente se aplica a populações reais. Sabia que o princípio foi formulado em 1908, independentemente por Hardy e Weinberg?",
+    "palavras_chave": ["hardy-weinberg", "equilíbrio genético", "alelo", "evolução", "população"]
+  },
+  {
+    "pergunta": "Como a biotecnologia usa enzimas na indústria alimentícia?",
+    "resposta": "Enzimas produzidas por biotecnologia, como a renina, são usadas para fabricar queijos, enquanto a lactase ajuda a produzir leite sem lactose. Microrganismos modificados produzem essas enzimas em larga escala. É econômico, mas depende de regulamentação. A análise crítica é que enzimas melhoram a qualidade dos alimentos, mas a aceitação de produtos biotecnológicos varia. Sabia que a renina recombinante substituiu a versão extraída de estômagos de bezerros?",
+    "palavras_chave": ["enzima", "biotecnologia", "alimento", "renina", "lactase"]
+  },
+  {
+    "pergunta": "O que é uma mutação germinativa?",
+    "resposta": "Uma mutação germinativa ocorre em células reprodutivas e é herdada pelos descendentes. Por exemplo, mutações no gene BRCA1 podem ser passadas, aumentando o risco de câncer. Diferente de mutações somáticas, afetam gerações futuras. A análise crítica é que identificar essas mutações ajuda na prevenção, mas levanta questões éticas. Sabia que mutações germinativas são testadas em aconselhamento genético para famílias?",
+    "palavras_chave": ["mutação germinativa", "herança", "brca1", "câncer", "ética"]
+  },
+  {
+    "pergunta": "O que é genômica comparativa?",
+    "resposta": "Genômica comparativa analisa genomas de diferentes espécies para entender semelhanças, diferenças e evolução. Por exemplo, comparar o genoma humano com o de chimpanzés revela genes ligados à cognição. É útil para estudar doenças e adaptações. A análise crítica é que ela revela laços evolutivos, mas interpretar diferenças é complexo. Sabia que humanos e chimpanzés compartilham 98% do DNA?",
+    "palavras_chave": ["genômica comparativa", "evolução", "genoma", "dna", "cognição"]
+  },
+  {
+    "pergunta": "Como a biotecnologia cria tecidos artificiais?",
+    "resposta": "A biotecnologia usa células-tronco ou engenharia genética para criar tecidos artificiais, como pele para queimaduras. Células são cultivadas em suportes biocompatíveis, formando tecidos funcionais. É promissor para transplantes, mas caro. A análise crítica é que pode salvar vidas, mas a integração com o corpo é desafiadora. Sabia que pele artificial já é usada em vítimas de queimaduras desde os anos 1980?",
+    "palavras_chave": ["tecido artificial", "biotecnologia", "células-tronco", "transplante", "pele"]
+  },
+  {
+    "pergunta": "O que é um heredograma?",
+    "resposta": "Um heredograma é um diagrama que mostra a transmissão de traços genéticos em uma família, como a hemofilia. É usado para identificar padrões de herança, como dominante ou recessivo. A análise crítica é que heredogramas ajudam no diagnóstico, mas dependem de informações familiares precisas. Sabia que heredogramas foram usados para rastrear a hemofilia na família real britânica no século XIX?",
+    "palavras_chave": ["heredograma", "herança", "hemofilia", "genética", "família"]
+  },
+  {
+    "pergunta": "Como a genética explica a resistência a vírus?",
+    "resposta": "A resistência a vírus é influenciada por genes que regulam o sistema imunológico, como o CCR5, cuja mutação delta-32 confere resistência ao HIV. Essas variações surgem por seleção natural. A análise crítica é que a genética ajuda a desenvolver terapias, mas vírus também evoluem rapidamente. Sabia que a mutação delta-32 é mais comum em europeus, devido a pressões evolutivas antigas, como a peste?",
+    "palavras_chave": ["resistência", "vírus", "ccr5", "genética", "imunidade"]
+  },
+  {
+    "pergunta": "O que é um gene de reparo de DNA?",
+    "resposta": "Genes de reparo de DNA codificam proteínas que corrigem danos no DNA, como quebras causadas por radiação. Um exemplo é o gene BRCA1, que repara quebras de dupla hélice. Mutações nesses genes aumentam o risco de câncer. A análise crítica é que eles são essenciais para a estabilidade genética, mas falhas são comuns em tumores. Sabia que o BRCA1 está ligado a 15% dos casos de câncer de mama hereditário?",
+    "palavras_chave": ["reparo de dna", "brca1", "câncer", "genética", "mutação"]
+  },
+  {
+    "pergunta": "Como a biotecnologia usa biossensores?",
+    "resposta": "Biossensores são dispositivos que usam componentes biológicos, como enzimas ou DNA, para detectar substâncias, como glicose no sangue. Na biotecnologia, são criados com microrganismos modificados para monitoramento ambiental ou médico. São sensíveis, mas podem ser caros. A análise crítica é que biossensores melhoram diagnósticos, mas sua durabilidade é um desafio. Sabia que biossensores de glicose revolucionaram o controle do diabetes?",
+    "palavras_chave": ["biossensor", "biotecnologia", "enzima", "diagnóstico", "glicose"]
+  },
+  {
+    "pergunta": "O que é um alelo múltiplo?",
+    "resposta": "Alelos múltiplos são mais de duas variantes de um gene em uma população, como no sistema ABO de tipos sanguíneos, com alelos A, B e O. Isso cria diversidade fenotípica, como os diferentes tipos de sangue. A análise crítica é que alelos múltiplos aumentam a complexidade genética, mas facilitam adaptações. Sabia que o tipo O é o mais comum globalmente, mas o B é mais frequente na Ásia?",
+    "palavras_chave": ["alelo múltiplo", "tipo sanguíneo", "genética", "diversidade", "abo"]
+  },
+  {
+    "pergunta": "Como a genética estuda doenças mitocondriais?",
+    "resposta": "Doenças mitocondriais são estudadas analisando mutações no DNA mitocondrial, que afetam a produção de energia celular. Por exemplo, mutações no gene MT-ATP6 causam neuropatias. Como o DNA mitocondrial é herdado da mãe, o rastreamento é único. A análise crítica é que essas doenças são raras, mas difíceis de tratar. Sabia que a técnica de 'bebês de três pais' evita doenças mitocondriais substituindo mitocôndrias defeituosas?",
+    "palavras_chave": ["doença mitocondrial", "dna mitocondrial", "herança", "energia", "terapia"]
+  },
+  {
+    "pergunta": "O que é a técnica de sequenciamento de nova geração?",
+    "resposta": "O sequenciamento de nova geração (NGS) é uma tecnologia que lê milhões de fragmentos de DNA simultaneamente, permitindo mapear genomas rapidamente. É usado para diagnosticar doenças genéticas ou estudar biodiversidade. É rápido, mas gera dados complexos. A análise crítica é que o NGS transformou a genômica, mas exige bioinformática avançada. Sabia que o NGS pode sequenciar um genoma humano em menos de um dia?",
+    "palavras_chave": ["sequenciamento", "ngs", "genoma", "bioinformática", "diagnóstico"]
+  },
+  {
+    "pergunta": "Como a biotecnologia cria vacinas de DNA?",
+    "resposta": "Vacinas de DNA inserem um trecho de DNA viral em células humanas, que produzem proteínas virais para estimular a imunidade. São estáveis e fáceis de produzir, mas menos comuns que vacinas de mRNA. A análise crítica é que são promissoras, mas sua eficácia ainda é estudada. Sabia que vacinas de DNA foram testadas contra Zika e mostraram resultados promissores em animais?",
+    "palavras_chave": ["vacina de dna", "biotecnologia", "imunidade", "vírus", "zika"]
+  },
+  {
+    "pergunta": "O que é epigenômica?",
+    "resposta": "Epigenômica estuda as modificações químicas no DNA, como metilação, que regulam a expressão gênica sem alterar a sequência. Por exemplo, diferenças epigenômicas explicam por que gêmeos idênticos podem ter saúde distinta. É crucial para entender doenças como câncer. A análise crítica é que a epigenômica conecta ambiente e genética, mas suas mudanças são difíceis de prever. Sabia que a metilação do DNA pode ser influenciada por estresse ou dieta?",
+    "palavras_chave": ["epigenômica", "metilação", "expressão gênica", "ambiente", "câncer"]
+  },
+  {
+    "pergunta": "O que é um traço codominante?",
+    "resposta": "Um traço codominante ocorre quando dois alelos diferentes são expressos simultaneamente, sem um dominar o outro. No sistema ABO, o tipo AB expressa ambos os alelos A e B, resultando em dois antígenos no sangue. A análise crítica é que a codominância aumenta a diversidade fenotípica, mas complica previsões genéticas. Sabia que a codominância também é vista em flores, como pétalas com manchas de duas cores?",
+    "palavras_chave": ["codominância", "alelo", "tipo sanguíneo", "genética", "fenótipo"]
+  },
+  {
+    "pergunta": "Como a biotecnologia usa fermentação?",
+    "resposta": "A fermentação na biotecnologia usa microrganismos, como leveduras, para produzir compostos como etanol, antibióticos ou ácido lático. Por exemplo, a penicilina é produzida por fungos em fermentadores industriais. É eficiente, mas exige controle rigoroso. A análise crítica é que a fermentação é sustentável, mas compete com a produção de alimentos. Sabia que a fermentação biotecnológica é usada para fazer cerveja desde a antiguidade?",
+    "palavras_chave": ["fermentação", "biotecnologia", "microrganismo", "penicilina", "etanol"]
+  },
+  {
+    "pergunta": "O que é a deriva genética?",
+    "resposta": "Deriva genética é a mudança aleatória nas frequências de alelos em uma população, especialmente em grupos pequenos. Por exemplo, em ilhas isoladas, certos traços podem desaparecer por acaso. Não é seleção natural, mas afeta a diversidade. A análise crítica é que a deriva explica variações em populações pequenas, mas pode reduzir a adaptação. Sabia que a deriva genética explica a alta incidência de doenças raras em comunidades isoladas, como os Amish?",
+    "palavras_chave": ["deriva genética", "alelo", "população", "diversidade", "evolução"]
+  }
+]

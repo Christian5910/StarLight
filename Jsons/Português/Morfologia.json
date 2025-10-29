@@ -1,0 +1,372 @@
+[
+  {
+    "pergunta": "O que é morfologia na língua portuguesa?",
+    "resposta": "Morfologia é o ramo da gramática que estuda a estrutura e a formação das palavras, como os prefixos, sufixos, radicais e desinências. É como olhar para dentro de cada palavra e entender suas peças. Sabia que o termo vem do grego 'morphé', que significa 'forma'?",
+    "palavras_chave": ["morfologia", "gramática", "estrutura", "formação", "morphé"]
+  },
+  {
+    "pergunta": "O que é um prefixo?",
+    "resposta": "Prefixo é um elemento colocado antes da raiz para modificar ou ampliar o sentido da palavra, como 'in-' em 'infeliz'. Ele pode indicar negação, intensidade ou direção. Sabia que o prefixo 'in-' também aparece como 'im-' antes de certas consoantes, como em 'impossível'?",
+    "palavras_chave": ["prefixo", "raiz", "infeliz", "impossível", "negação"]
+  },
+  {
+    "pergunta": "O que é um sufixo?",
+    "resposta": "Sufixo é um elemento que vem depois da raiz e transforma ou ajusta o significado da palavra. Por exemplo, '-inho' em 'gatinho' mostra carinho ou tamanho reduzido. Sabia que o sufixo '-ismo' forma nomes de doutrinas e movimentos, como em 'romantismo' ou 'socialismo'?",
+    "palavras_chave": ["sufixo", "raiz", "gatinho", "socialismo", "significado"]
+  },
+  {
+    "pergunta": "O que é a raiz de uma palavra?",
+    "resposta": "A raiz é o núcleo da palavra, a parte que guarda o sentido essencial. Em 'florista', por exemplo, a raiz é 'flor-'. Sabia que essa raiz vem do latim 'flos, floris', usada desde a Roma Antiga para falar das flores?",
+    "palavras_chave": ["raiz", "núcleo", "florista", "flor", "latim"]
+  },
+  {
+    "pergunta": "O que é um aumentativo?",
+    "resposta": "O aumentativo indica algo em tamanho grande ou em intensidade, como 'casarão', que vem de 'casa'. Ele pode expressar exagero ou até crítica, como em 'vozeirão'. Sabia que o aumentativo também pode ser carinhoso, como em 'abração'?",
+    "palavras_chave": ["aumentativo", "casarão", "vozeirão", "tamanho", "intensidade"]
+  },
+  {
+    "pergunta": "O que é um diminutivo?",
+    "resposta": "O diminutivo mostra algo pequeno ou transmite afeto, como 'gatinho', derivado de 'gato'. Em alguns casos, pode até ser usado de forma irônica. Sabia que 'filhote' é um diminutivo de 'filho' especialmente aplicado a animais?",
+    "palavras_chave": ["diminutivo", "gatinho", "gato", "carinho", "filhote"]
+  },
+  {
+    "pergunta": "O que é uma palavra derivada?",
+    "resposta": "Uma palavra derivada é formada a partir de uma palavra primitiva, com a adição de prefixos ou sufixos. Por exemplo, 'desleal' vem de 'leal'. Sabia que o prefixo 'des-' é um dos mais usados no português para indicar oposição?",
+    "palavras_chave": ["derivada", "prefixo", "sufixo", "desleal", "oposição"]
+  },
+  {
+    "pergunta": "O que é uma palavra primitiva?",
+    "resposta": "Palavra primitiva é a que serve como base e não deriva de nenhuma outra na língua, como 'casa'. A partir dela nascem muitas outras palavras. Sabia que 'casa' vem do latim 'casa', que significava 'cabana' ou 'choupana'?",
+    "palavras_chave": ["primitiva", "base", "casa", "latim", "cabana"]
+  },
+  {
+    "pergunta": "O que é derivação prefixal?",
+    "resposta": "A derivação prefixal acontece quando um prefixo é acrescentado ao radical, mudando o sentido, como em 'reler', que vem de 'ler'. Sabia que o prefixo 're-' vem do latim e indica repetição em várias línguas românicas?",
+    "palavras_chave": ["prefixal", "prefixo", "reler", "re-", "repetição"]
+  },
+  {
+    "pergunta": "O que é derivação sufixal?",
+    "resposta": "A derivação sufixal ocorre quando um sufixo se junta à raiz, transformando o sentido. Um exemplo é 'felicidade', que nasce de 'feliz' com o sufixo '-dade'. Sabia que esse sufixo vem do latim '-tatem' e é comum em palavras abstratas?",
+    "palavras_chave": ["sufixal", "sufixo", "felicidade", "-dade", "latim"]
+  },
+  {
+    "pergunta": "O que é derivação parassintética?",
+    "resposta": "Derivação parassintética ocorre quando prefixo e sufixo são adicionados juntos, e a palavra não existe sem um deles. Por exemplo, 'entristecer' não se forma só com o sufixo nem só com o prefixo. Sabia que isso é comum em verbos que expressam mudança de estado?",
+    "palavras_chave": ["parassintética", "prefixo", "sufixo", "entristecer", "mudança"]
+  },
+  {
+    "pergunta": "O que é derivação regressiva?",
+    "resposta": "A derivação regressiva acontece quando uma palavra reduz sua forma para criar outra, geralmente substantivos a partir de verbos, como 'canto' de 'cantar'. Sabia que 'ajuda' vem do verbo 'ajudar' por esse processo?",
+    "palavras_chave": ["regressiva", "redução", "canto", "cantar", "ajuda"]
+  },
+  {
+    "pergunta": "O que é derivação imprópria?",
+    "resposta": "A derivação imprópria ocorre quando uma palavra muda de classe gramatical sem alterar a forma, como 'sábio', que pode virar substantivo em 'o sábio'. Sabia que esse processo é muito comum em títulos e expressões de respeito?",
+    "palavras_chave": ["imprópria", "classe", "sábio", "substantivo", "títulos"]
+  },
+  {
+    "pergunta": "O que é composição por justaposição?",
+    "resposta": "Na composição por justaposição, duas palavras se unem sem alterar a forma, como em 'guarda-chuva'. Sabia que antes do Acordo Ortográfico de 2009 algumas palavras compostas já apareciam escritas juntas, como 'passatempo'?",
+    "palavras_chave": ["composição", "justaposição", "guarda-chuva", "passatempo", "ortografia"]
+  },
+  {
+    "pergunta": "O que é composição por aglutinação?",
+    "resposta": "A composição por aglutinação acontece quando palavras se unem e sofrem alteração, como em 'embora', formada de 'em' e 'boa hora'. Sabia que 'aguardente' vem da junção de 'água' e 'ardente'?",
+    "palavras_chave": ["composição", "aglutinação", "embora", "aguardente", "junção"]
+  },
+  {
+    "pergunta": "O que é um radical?",
+    "resposta": "O radical é a parte que se repete em várias palavras da mesma família, como 'cant-' em 'cantar', 'cantor' e 'cantiga'. Sabia que o radical ajuda a identificar a origem latina de muitos verbos portugueses?",
+    "palavras_chave": ["radical", "cantar", "cantor", "cantiga", "origem"]
+  },
+  {
+    "pergunta": "O que é um sufixo nominal?",
+    "resposta": "O sufixo nominal é aquele que forma substantivos ou adjetivos. Por exemplo, '-agem' em 'viagem' transforma o verbo 'viajar'. Sabia que '-agem' também aparece em 'mensagem' e tem origem no latim '-aticum'?",
+    "palavras_chave": ["sufixo", "nominal", "viagem", "mensagem", "latim"]
+  },
+  {
+    "pergunta": "O que é um sufixo verbal?",
+    "resposta": "O sufixo verbal serve para formar verbos, como '-izar' em 'modernizar', que vem de 'moderno'. Sabia que esse sufixo tem origem no grego e aparece também em espanhol e francês?",
+    "palavras_chave": ["sufixo", "verbal", "modernizar", "-izar", "grego"]
+  },
+  {
+    "pergunta": "O que é um prefixo de negação?",
+    "resposta": "Um prefixo de negação inverte o sentido da palavra, como 'in-' em 'injusto'. Sabia que esse prefixo varia para 'im-' antes de 'p' ou 'b', como em 'impossível'?",
+    "palavras_chave": ["prefixo", "negação", "injusto", "impossível", "sentido"]
+  },
+  {
+    "pergunta": "O que é um prefixo de tempo?",
+    "resposta": "Um prefixo de tempo situa a palavra em relação a períodos, como 'pré-' em 'pré-história'. Sabia que 'pré-' vem do latim 'prae', que significa 'antes'?",
+    "palavras_chave": ["prefixo", "tempo", "pré-história", "prae", "latim"]
+  },
+  {
+    "pergunta": "O que é desinência?",
+    "resposta": "A desinência é o elemento que indica flexão nas palavras, como pessoa, número ou tempo verbal. Por exemplo, o '-o' em 'canto' mostra a 1ª pessoa do singular. Sabia que o '-mos' em 'cantamos' marca a 1ª pessoa do plural?",
+    "palavras_chave": ["desinência", "flexão", "canto", "cantamos", "plural"]
+  },
+  {
+    "pergunta": "O que é uma vogal temática?",
+    "resposta": "A vogal temática indica a conjugação dos verbos: '-a' em 'cantar', '-e' em 'vender' e '-i' em 'partir'. Sabia que os verbos terminados em '-ar' são os mais numerosos no português?",
+    "palavras_chave": ["vogal", "temática", "cantar", "conjugação", "verbos"]
+  },
+  {
+    "pergunta": "O que é um tema verbal?",
+    "resposta": "O tema verbal é formado pelo radical mais a vogal temática, como 'cant-' + '-a' em 'cantar'. Sabia que em verbos irregulares, como 'ir', esse tema sofre alterações inesperadas?",
+    "palavras_chave": ["tema", "verbal", "radical", "cantar", "irregular"]
+  },
+  {
+    "pergunta": "O que é um afixo?",
+    "resposta": "Afixo é um elemento que se junta à raiz, podendo ser prefixo ou sufixo, para formar novas palavras. Por exemplo, 're-' e '-ção' em 'reação'. Sabia que 're-' indica repetição em várias línguas românicas?",
+    "palavras_chave": ["afixo", "prefixo", "sufixo", "reação", "re-"]
+  },
+  {
+    "pergunta": "O que é um morfema?",
+    "resposta": "Morfema é a menor unidade significativa da língua, como a raiz 'flor' ou a desinência '-s' em 'flores'. Cada morfema carrega sentido, seja lexical ou gramatical. Sabia que o termo vem do grego 'morphé', que significa 'forma'?",
+    "palavras_chave": ["morfema", "unidade", "flores", "raiz", "significado"]
+  },
+  {
+    "pergunta": "O que é morfema lexical?",
+    "resposta": "Morfema lexical é aquele que traz o sentido principal da palavra, geralmente o radical. Por exemplo, em 'livros', o morfema lexical é 'livr-'. Sabia que 'livro' vem do latim 'liber', que era a parte interna da casca da árvore usada para escrever?",
+    "palavras_chave": ["morfema", "lexical", "radical", "livro", "liber"]
+  },
+  {
+    "pergunta": "O que é morfema gramatical?",
+    "resposta": "Morfema gramatical indica relações de tempo, número, gênero ou pessoa, como o '-s' de plural em 'meninos'. Sabia que esse morfema '-s' foi herdado do latim e se manteve em várias línguas românicas?",
+    "palavras_chave": ["morfema", "gramatical", "plural", "meninos", "latim"]
+  },
+  {
+    "pergunta": "O que são palavras compostas?",
+    "resposta": "Palavras compostas são aquelas formadas pela união de duas ou mais palavras, como 'segunda-feira'. Sabia que no português, muitas delas usam hífen ou se escrevem juntas, dependendo das regras ortográficas?",
+    "palavras_chave": ["palavras", "compostas", "união", "segunda-feira", "ortografia"]
+  },
+  {
+    "pergunta": "O que é haplologia?",
+    "resposta": "Haplologia é a supressão de uma sílaba em palavras compostas para facilitar a pronúncia, como em 'pernalta' (perna + alta). Sabia que esse fenômeno existe em várias línguas, não só no português?",
+    "palavras_chave": ["haplologia", "supressão", "sílabas", "pernalta", "pronúncia"]
+  },
+  {
+    "pergunta": "O que é onomatopeia?",
+    "resposta": "Onomatopeia é a formação de palavras que imitam sons naturais, como 'tic-tac' do relógio. Sabia que o uso de onomatopeias é comum em quadrinhos e histórias infantis para dar mais vida às cenas?",
+    "palavras_chave": ["onomatopeia", "sons", "tic-tac", "formação", "quadrinhos"]
+  },
+  {
+    "pergunta": "O que é abreviação?",
+    "resposta": "A abreviação reduz uma palavra mantendo o reconhecimento, como 'foto' de 'fotografia'. Sabia que muitas abreviações acabam virando palavras oficiais, como 'moto' de 'motocicleta'?",
+    "palavras_chave": ["abreviação", "redução", "foto", "moto", "palavra"]
+  },
+  {
+    "pergunta": "O que é sigla?",
+    "resposta": "Sigla é a formação de uma palavra a partir das iniciais de outras, como 'ONU' para Organização das Nações Unidas. Sabia que algumas siglas se transformam em palavras comuns, como 'radar'?",
+    "palavras_chave": ["sigla", "iniciais", "ONU", "radar", "formação"]
+  },
+  {
+    "pergunta": "O que é acrônimo?",
+    "resposta": "Acrônimo é uma sigla lida como uma palavra comum, como 'Unesco'. Sabia que a diferença entre sigla e acrônimo é justamente a forma de leitura?",
+    "palavras_chave": ["acrônimo", "sigla", "Unesco", "leitura", "palavra"]
+  },
+  {
+    "pergunta": "O que é uma palavra cognata?",
+    "resposta": "Palavras cognatas têm a mesma origem etimológica, como 'fraterno' em português e 'fraternal' em inglês. Sabia que muitas dessas palavras vêm diretamente do latim e aparecem em várias línguas?",
+    "palavras_chave": ["cognata", "origem", "fraterno", "fraternal", "latim"]
+  },
+  {
+    "pergunta": "O que é empréstimo linguístico?",
+    "resposta": "Empréstimo linguístico ocorre quando uma língua adota palavras de outra, como 'pizza' do italiano. Sabia que o português tem muitos empréstimos do árabe, como 'almofada'?",
+    "palavras_chave": ["empréstimo", "linguístico", "pizza", "almofada", "árabe"]
+  },
+  {
+    "pergunta": "O que é estrangeirismo?",
+    "resposta": "Estrangeirismo é o uso de palavras estrangeiras sem adaptação, como 'software'. Sabia que alguns estrangeirismos acabam sendo aportuguesados, como 'futebol' do inglês 'football'?",
+    "palavras_chave": ["estrangeirismo", "palavra", "software", "futebol", "inglês"]
+  },
+  {
+    "pergunta": "O que é neologismo?",
+    "resposta": "Neologismo é a criação de uma palavra nova, como 'selfie'. Sabia que escritores como Guimarães Rosa criaram muitos neologismos para enriquecer a língua?",
+    "palavras_chave": ["neologismo", "criação", "selfie", "Guimarães", "palavra"]
+  },
+  {
+    "pergunta": "O que é arcaísmo?",
+    "resposta": "Arcaísmo é o uso de palavras antigas que caíram em desuso, como 'fidalgo'. Sabia que em textos literários antigos os arcaísmos ajudam a marcar a época?",
+    "palavras_chave": ["arcaísmo", "antigas", "fidalgo", "literatura", "época"]
+  },
+  {
+    "pergunta": "O que é parônimo?",
+    "resposta": "Parônimos são palavras parecidas na forma, mas com significados diferentes, como 'descrição' e 'discrição'. Sabia que confundir parônimos é um erro comum até em textos formais?",
+    "palavras_chave": ["parônimo", "palavras", "descrição", "discrição", "significado"]
+  },
+  {
+    "pergunta": "O que é homônimo?",
+    "resposta": "Homônimos são palavras iguais na forma, mas diferentes no significado, como 'manga' (fruta) e 'manga' (da camisa). Sabia que existem homônimos perfeitos e homófonos?",
+    "palavras_chave": ["homônimo", "palavra", "manga", "homófono", "significado"]
+  },
+  {
+    "pergunta": "O que é homônimo perfeito?",
+    "resposta": "Homônimo perfeito é quando duas palavras são iguais na pronúncia e na escrita, mas têm sentidos diferentes, como 'vela' (de barco) e 'vela' (de cera). Sabia que o contexto é sempre o que define o sentido?",
+    "palavras_chave": ["homônimo", "perfeito", "vela", "sentido", "contexto"]
+  },
+  {
+    "pergunta": "O que é homófono?",
+    "resposta": "Homófonos são palavras iguais na pronúncia, mas diferentes na escrita e no significado, como 'sessão' e 'seção'. Sabia que o nome vem do grego 'homós' (igual) e 'phonos' (som)?",
+    "palavras_chave": ["homófono", "sessão", "seção", "som", "grego"]
+  },
+  {
+    "pergunta": "O que é homógrafo?",
+    "resposta": "Homógrafos são palavras iguais na escrita, mas diferentes na pronúncia e no significado, como 'colher' (utensílio) e 'colher' (verbo). Sabia que esses casos são comuns em verbos irregulares?",
+    "palavras_chave": ["homógrafo", "colher", "escrita", "pronúncia", "irregular"]
+  },
+  {
+    "pergunta": "O que é polissemia?",
+    "resposta": "Polissemia é quando uma mesma palavra tem vários sentidos relacionados, como 'cabeça' (do corpo, de fila, de empresa). Sabia que a polissemia enriquece a língua, permitindo metáforas e expressões criativas?",
+    "palavras_chave": ["polissemia", "palavra", "cabeça", "sentido", "expressão"]
+  },
+  {
+    "pergunta": "O que é antonímia?",
+    "resposta": "Antonímia é a relação entre palavras de significados opostos, como 'claro' e 'escuro'. Sabia que em muitos dicionários, os antônimos aparecem junto dos sinônimos para enriquecer o vocabulário?",
+    "palavras_chave": ["antonímia", "antônimos", "claro", "escuro", "opostos"]
+  },
+  {
+    "pergunta": "O que é sinonímia?",
+    "resposta": "Sinonímia é a relação entre palavras de significados semelhantes, como 'alegre' e 'feliz'. Sabia que os sinônimos raramente são idênticos, pois cada um carrega nuances próprias?",
+    "palavras_chave": ["sinonímia", "sinônimos", "alegre", "feliz", "semelhança"]
+  },
+  {
+    "pergunta": "O que é hiperonímia?",
+    "resposta": "Hiperonímia é quando uma palavra tem sentido mais amplo, como 'animal' em relação a 'cachorro'. Sabia que os hiperônimos são úteis para organizar informações em categorias?",
+    "palavras_chave": ["hiperonímia", "animal", "cachorro", "categoria", "amplo"]
+  },
+  {
+    "pergunta": "O que é hiponímia?",
+    "resposta": "Hiponímia é o contrário de hiperonímia: a palavra tem sentido mais específico, como 'cachorro' em relação a 'animal'. Sabia que os hipônimos aparecem muito em classificações científicas?",
+    "palavras_chave": ["hiponímia", "cachorro", "animal", "específico", "classificação"]
+  },
+  {
+    "pergunta": "O que é campo semântico?",
+    "resposta": "Campo semântico é o conjunto de palavras que compartilham uma ideia comum, como 'mesa', 'cadeira' e 'sofá' no campo do 'mobiliário'. Sabia que o estudo dos campos semânticos ajuda na ampliação de vocabulário?",
+    "palavras_chave": ["campo", "semântico", "mobiliário", "vocabulário", "palavras"]
+  },
+  {
+    "pergunta": "O que é formação regressiva?",
+    "resposta": "Formação regressiva é quando uma palavra se cria a partir da redução de outra já existente, geralmente um verbo vindo de um substantivo, como 'pescar' de 'pesca'. Sabia que esse processo também é chamado de derivação regressiva?",
+    "palavras_chave": ["formação", "regressiva", "pescar", "pesca", "derivação"]
+  },
+  {
+    "pergunta": "O que é derivação parassintética?",
+    "resposta": "Derivação parassintética acontece quando um prefixo e um sufixo são adicionados ao mesmo tempo a uma raiz, como em 'empobrecer' (prefixo 'em-' + raiz 'pobre' + sufixo '-ecer'). Sabia que se retirar apenas um dos afixos a palavra perde sentido?",
+    "palavras_chave": ["derivação", "parassintética", "empobrecer", "prefixo", "sufixo"]
+  },
+  {
+    "pergunta": "O que é derivação prefixal?",
+    "resposta": "Derivação prefixal é a formação de novas palavras pelo acréscimo de prefixos, como em 'refazer' a partir de 'fazer'. Sabia que muitos prefixos do português vêm do latim e do grego?",
+    "palavras_chave": ["derivação", "prefixal", "prefixo", "refazer", "fazer"]
+  },
+  {
+    "pergunta": "O que é derivação sufixal?",
+    "resposta": "Derivação sufixal ocorre quando acrescentamos um sufixo à raiz da palavra, como 'felizmente' a partir de 'feliz'. Sabia que os sufixos também ajudam a indicar a classe gramatical de uma palavra?",
+    "palavras_chave": ["derivação", "sufixo", "felizmente", "palavra", "raiz"]
+  },
+  {
+    "pergunta": "O que é derivação imprópria?",
+    "resposta": "Derivação imprópria acontece quando uma palavra muda de classe sem alteração na forma, como 'o jantar' (substantivo) a partir de 'jantar' (verbo). Sabia que também é chamada de conversão?",
+    "palavras_chave": ["derivação", "imprópria", "jantar", "conversão", "classe"]
+  },
+  {
+    "pergunta": "O que é derivação prefixal e sufixal?",
+    "resposta": "É a formação de palavras que recebem tanto um prefixo quanto um sufixo, mas não necessariamente ao mesmo tempo, como em 'infelizmente' ('in-' + 'feliz' + '-mente'). Sabia que isso difere da parassintética porque a palavra existe sem um dos afixos?",
+    "palavras_chave": ["derivação", "prefixo", "sufixo", "infelizmente", "palavra"]
+  },
+  {
+    "pergunta": "O que são desinências?",
+    "resposta": "Desinências são morfemas que indicam flexões de gênero, número, tempo, modo e pessoa, como o '-s' de plural em 'casas'. Sabia que sem as desinências a comunicação ficaria mais ambígua?",
+    "palavras_chave": ["desinência", "morfema", "plural", "casas", "flexão"]
+  },
+  {
+    "pergunta": "O que são vogais temáticas?",
+    "resposta": "Vogais temáticas aparecem em verbos e indicam a conjugação a que pertencem, como o 'a' em 'cantar'. Sabia que no português temos três conjugações: -ar, -er e -ir?",
+    "palavras_chave": ["vogal", "temática", "cantar", "conjugação", "verbo"]
+  },
+  {
+    "pergunta": "O que é tema verbal?",
+    "resposta": "Tema verbal é o radical acrescido da vogal temática, como 'cantá-' em 'cantar'. Sabia que conhecer o tema verbal ajuda a identificar corretamente a conjugação de cada verbo?",
+    "palavras_chave": ["tema", "verbal", "cantar", "radical", "vogal"]
+  },
+  {
+    "pergunta": "O que é radical nominal?",
+    "resposta": "Radical nominal é a parte de um substantivo ou adjetivo que carrega o sentido principal, como 'flor-' em 'florista'. Sabia que os radicais nominais são fundamentais para derivar profissões e qualidades?",
+    "palavras_chave": ["radical", "nominal", "flor", "florista", "palavra"]
+  },
+  {
+    "pergunta": "O que é derivação prefixal por oposição?",
+    "resposta": "É quando o prefixo muda o sentido de uma palavra para o oposto, como 'feliz' e 'infeliz'. Sabia que muitos desses prefixos de oposição vêm do latim, como 'in-'?",
+    "palavras_chave": ["derivação", "prefixal", "oposição", "feliz", "infeliz"]
+  },
+  {
+    "pergunta": "O que são palavras denotativas?",
+    "resposta": "Palavras denotativas são aquelas que acrescentam um sentido especial, como exclusividade ou dúvida, mas não têm valor pleno sozinhas, como 'apenas' e 'talvez'. Sabia que elas também são chamadas de partículas expletivas?",
+    "palavras_chave": ["palavra", "denotativa", "apenas", "talvez", "sentido"]
+  },
+  {
+    "pergunta": "O que é agramaticalidade?",
+    "resposta": "Agramaticalidade é o uso de uma estrutura linguística que não segue as regras da gramática de uma língua, como 'ele fui'. Sabia que esse tipo de análise é usada em linguística para entender limites da gramática?",
+    "palavras_chave": ["agramaticalidade", "erro", "gramática", "linguística", "regra"]
+  },
+  {
+    "pergunta": "O que é truncamento?",
+    "resposta": "Truncamento é a redução de uma palavra pelo corte de parte dela, como 'prof' para 'professor'. Sabia que esse recurso é muito usado em linguagem digital e informal?",
+    "palavras_chave": ["truncamento", "redução", "prof", "professor", "linguagem"]
+  },
+  {
+    "pergunta": "O que é composição por justaposição?",
+    "resposta": "Justaposição é a formação de palavras compostas em que os elementos se unem sem alteração, como 'passatempo'. Sabia que o português possui centenas de palavras formadas por justaposição?",
+    "palavras_chave": ["composição", "justaposição", "passatempo", "palavra", "formação"]
+  },
+  {
+    "pergunta": "O que é composição por aglutinação?",
+    "resposta": "Aglutinação é quando, ao juntar palavras, ocorre perda ou alteração de fonemas, como em 'planalto' (plano + alto). Sabia que muitas dessas palavras surgiram naturalmente na fala popular?",
+    "palavras_chave": ["composição", "aglutinação", "planalto", "plano", "alto"]
+  },
+  {
+    "pergunta": "O que é composição híbrida?",
+    "resposta": "Composição híbrida une elementos de línguas diferentes, como 'sociologia' (latim 'socius' + grego 'logia'). Sabia que a maior parte do vocabulário científico moderno é híbrido?",
+    "palavras_chave": ["composição", "híbrida", "sociologia", "latim", "grego"]
+  },
+  {
+    "pergunta": "O que são palavras derivadas?",
+    "resposta": "Palavras derivadas são aquelas formadas a partir de uma palavra primitiva, como 'felicidade' de 'feliz'. Sabia que o processo de derivação é uma das principais fontes de expansão do vocabulário?",
+    "palavras_chave": ["palavra", "derivada", "felicidade", "feliz", "vocabulário"]
+  },
+  {
+    "pergunta": "O que é palavra primitiva?",
+    "resposta": "Palavra primitiva é a que dá origem a outras, como 'pedra', que gera 'pedreiro' e 'pedreira'. Sabia que muitas palavras primitivas vêm diretamente do latim vulgar?",
+    "palavras_chave": ["palavra", "primitiva", "pedra", "origem", "latim"]
+  },
+  {
+    "pergunta": "O que é palavra simples?",
+    "resposta": "Palavra simples é aquela formada por um único radical, como 'casa'. Sabia que a maioria das palavras primitivas são simples?",
+    "palavras_chave": ["palavra", "simples", "radical", "casa", "primitiva"]
+  },
+  {
+    "pergunta": "O que é palavra composta?",
+    "resposta": "Palavra composta resulta da união de dois ou mais radicais, como 'guarda-chuva'. Sabia que muitas palavras compostas evoluem para uma só ao longo do tempo?",
+    "palavras_chave": ["palavra", "composta", "guarda-chuva", "radical", "união"]
+  },
+  {
+    "pergunta": "O que é reduplicação?",
+    "resposta": "Reduplicação é a repetição de parte ou da totalidade da palavra para formar outra, como 'blá-blá-blá'. Sabia que na linguística esse recurso também é chamado de reduplicação expressiva?",
+    "palavras_chave": ["reduplicação", "blá-blá-blá", "linguística", "expressiva", "repetição"]
+  },
+  {
+    "pergunta": "O que é deslexicalização?",
+    "resposta": "Deslexicalização ocorre quando uma palavra perde seu sentido original e passa a ser usada só como recurso gramatical, como 'mesmo' em 'ele mesmo'. Sabia que isso mostra como as línguas estão sempre mudando?",
+    "palavras_chave": ["deslexicalização", "mesmo", "gramática", "mudança", "palavra"]
+  },
+  {
+    "pergunta": "O que é derivação imprópria adjetival?",
+    "resposta": "É quando um substantivo ou advérbio passa a ser usado como adjetivo sem alteração formal, como 'estrela guia'. Sabia que essa mudança de classe depende muito do contexto?",
+    "palavras_chave": ["derivação", "imprópria", "adjetivo", "estrela", "classe"]
+  },
+  {
+    "pergunta": "O que é derivação imprópria substantival?",
+    "resposta": "É quando um verbo ou adjetivo passa a ser usado como substantivo, como 'o cantar dos pássaros'. Sabia que esse tipo de derivação é muito frequente na poesia?",
+    "palavras_chave": ["derivação", "imprópria", "substantivo", "cantar", "pássaros"]
+  }
+]

@@ -1,0 +1,558 @@
+[
+    {
+        "pergunta": "O que é uma oração coordenada aditiva?",
+        "resposta": "Oração coordenada aditiva soma ideias, como 'e canta' em 'Ela dança e canta'. Sabia que 'e' é muito comum em listas narrativas?",
+        "palavras_chave": ["oração aditiva", "soma ideias", "dança e canta", "e", "listas narrativas", "sintaxe", "gramática"]
+    },
+    {
+        "pergunta": "O que é uma oração coordenada adversativa?",
+        "resposta": "Oração coordenada adversativa opõe ideias, como 'mas não veio' em 'Eu esperei, mas não veio'. Sabia que 'porém' é mais formal que 'mas'?",
+        "palavras_chave": ["oração adversativa", "opõe ideias", "mas não veio", "porém", "formal", "sintaxe", "gramática"]
+    },
+    {
+        "pergunta": "O que é um sujeito composto?",
+        "resposta": "Sujeito composto tem mais de um núcleo, como 'João e Ana' em 'João e Ana cantam'. Sabia que o verbo deve estar no plural?",
+        "palavras_chave": ["sujeito composto", "mais de um núcleo", "João e Ana", "plural", "cantam", "sintaxe", "concordância", "gramática"]
+    },
+    {
+        "pergunta": "O que é concordância verbal?",
+        "resposta": "Concordância verbal é combinar o verbo com o sujeito em número e pessoa, como 'Eles correm' ou 'Alguém chegou'. Sabia que com 'um dos que' ou 'nem...nem' o verbo pode variar?",
+        "palavras_chave": ["concordância verbal", "verbo combina", "Eles correm", "Alguém chegou", "um dos que", "nem...nem", "gramática", "ENEM"]
+    },
+    {
+        "pergunta": "O que é concordância nominal?",
+        "resposta": "Concordância nominal é combinar substantivo com adjetivos ou artigos, como 'A casa nova'. Sabia que em 'olhos castanho-escuros' o adjetivo concorda com o último?",
+        "palavras_chave": ["concordância nominal", "substantivo combina", "casa nova", "castanho-escuros", "adjetivos", "artigos", "gramática", "ENEM"]
+    },
+    {
+        "pergunta": "O que é regência verbal?",
+        "resposta": "Regência verbal é a relação do verbo com complementos, como 'Gosto de música' ou 'Amei o filme'. Sabia que 'gostar' usa 'de', mas 'amar' não precisa?",
+        "palavras_chave": ["regência verbal", "verbo complementos", "gosto de música", "amei o filme", "gostar", "amar", "gramática", "ENEM"]
+    },
+    {
+        "pergunta": "O que é regência nominal?",
+        "resposta": "Regência nominal é a relação de substantivos ou adjetivos com complementos, como 'Medo de escuro' ou 'Capaz de vencer'. Sabia que 'medo' usa 'de', mas 'horror' pode usar 'a'?",
+        "palavras_chave": ["regência nominal", "substantivo complementos", "medo de escuro", "capaz de vencer", "medo", "horror", "gramática", "ENEM"]
+    },
+    {
+        "pergunta": "Por que 'Os menino corre' está errado?",
+        "resposta": "Está errado porque 'corre' não concorda com o sujeito plural 'Os meninos'. Deve ser 'Os meninos correm'. Sabia que erros assim são comuns na fala rápida?",
+        "palavras_chave": ["concordância verbal", "Os meninos", "correm", "plural", "fala rápida", "gramática", "ENEM"]
+    },
+    {
+        "pergunta": "Quando o verbo concorda com o sujeito posposto?",
+        "resposta": "Quando o sujeito vem depois, o verbo pode concordar ou ficar no singular, como em 'Faltam dois alunos' ou 'Falta dois alunos'. Sabia que a norma culta prefere o plural?",
+        "palavras_chave": ["concordância verbal", "sujeito posposto", "faltam dois alunos", "falta dois alunos", "gramática", "ENEM"]
+    },
+    {
+        "pergunta": "O que acontece com o verbo em 'mais de um'?",
+        "resposta": "Com 'mais de um', o verbo geralmente fica no singular, como 'Mais de um aluno faltou'. Sabia que pode ir ao plural se houver reciprocidade, como 'Mais de um se abraçaram'?",
+        "palavras_chave": ["concordância verbal", "mais de um", "singular plural", "reciprocidade", "ENEM", "gramática"]
+    },
+    {
+        "pergunta": "Quando usar singular em sujeito coletivo?",
+        "resposta": "O coletivo pede verbo no singular, como 'A multidão gritava'. Sabia que se a ideia for enfatizar os indivíduos, o plural também é aceito?",
+        "palavras_chave": ["sujeito coletivo", "concordância verbal", "multidão gritava", "singular plural", "gramática"]
+    },
+    {
+        "pergunta": "O que acontece com o verbo em 'um dos que'?",
+        "resposta": "Em 'um dos que', o verbo costuma ir ao plural: 'Ele é um dos que trabalham'. Sabia que no singular também aparece, mas é menos recomendado?",
+        "palavras_chave": ["um dos que", "concordância verbal", "plural singular", "gramática", "ENEM"]
+    },
+    {
+        "pergunta": "Quando usar plural em 'nem...nem'?",
+        "resposta": "Se os sujeitos forem plurais, o verbo vai ao plural, como 'Nem João nem Pedro foram'. Sabia que se os núcleos forem no singular, pode concordar no singular?",
+        "palavras_chave": ["nem...nem", "concordância verbal", "João e Pedro foram", "plural singular", "gramática"]
+    },
+    {
+        "pergunta": "O que é regência de 'assistir'?",
+        "resposta": "Assistir pode ser 'ver' (assistir a um filme) ou 'ajudar' (assistir os pobres). Sabia que a preposição muda o sentido?",
+        "palavras_chave": ["regência verbal", "assistir", "assistir a", "assistir alguém", "preposição", "gramática"]
+    },
+    {
+        "pergunta": "Qual a regência de 'obedecer'?",
+        "resposta": "'Obedecer' exige preposição 'a', como 'Obedeça às regras'. Sabia que muitas pessoas erram dizendo 'obedecer as regras' sem crase?",
+        "palavras_chave": ["regência verbal", "obedecer a", "às regras", "crase", "gramática"]
+    },
+    {
+        "pergunta": "Qual a regência de 'implicar'?",
+        "resposta": "'Implicar' pode ser 'acarretar' (implicar em algo) ou 'antipatizar' (implicar com alguém). Sabia que o sentido define a preposição?",
+        "palavras_chave": ["regência verbal", "implicar em", "implicar com", "preposição", "sentido", "gramática"]
+    },
+    {
+        "pergunta": "Qual a regência de 'aspirar'?",
+        "resposta": "'Aspirar a' é desejar, como 'Aspiro a um cargo'. Já 'aspirar algo' é respirar, como 'Aspirar o ar'. Sabia que o mesmo verbo pode ter regências diferentes?",
+        "palavras_chave": ["regência verbal", "aspirar a", "aspirar algo", "cargo", "ar", "gramática"]
+    },
+    {
+        "pergunta": "O que acontece com adjetivos em concordância?",
+        "resposta": "Adjetivos concordam com o substantivo, como 'mulheres inteligentes'. Sabia que em 'homem e mulher inteligentes' o adjetivo vai pro plural masculino?",
+        "palavras_chave": ["concordância nominal", "adjetivo plural", "homem e mulher inteligentes", "gramática", "ENEM"]
+    },
+    {
+        "pergunta": "Qual a regência de 'simpatizar'?",
+        "resposta": "'Simpatizar' exige preposição 'com', como 'Simpatizei com ele'. Sabia que sem a preposição a frase fica incorreta?",
+        "palavras_chave": ["regência verbal", "simpatizar com", "preposição", "correto incorreto", "gramática"]
+    },
+    {
+        "pergunta": "Quando o verbo concorda com o núcleo mais próximo?",
+        "resposta": "Em construções com 'ou', o verbo pode concordar com o núcleo mais próximo: 'Pedro ou João virá'. Sabia que isso evita ambiguidades?",
+        "palavras_chave": ["concordância verbal", "núcleo mais próximo", "Pedro ou João virá", "gramática", "ENEM"]
+    },
+    {
+        "pergunta": "Qual a regência de 'preferir'?",
+        "resposta": "'Preferir' exige a preposição 'a', como 'Prefiro cinema a teatro'. Sabia que não se usa 'do que' nessa construção formal?",
+        "palavras_chave": ["regência verbal", "preferir", "cinema a teatro", "preposição", "gramática"]
+    },
+    {
+        "pergunta": "Qual a concordância em expressões partitivas?",
+        "resposta": "Em expressões como 'a maioria dos alunos', o verbo pode ir ao singular ou plural: 'A maioria dos alunos chegou/chegaram'. Sabia que os dois usos estão corretos?",
+        "palavras_chave": ["expressões partitivas", "concordância verbal", "a maioria dos alunos", "singular plural", "gramática"]
+    },
+    {
+        "pergunta": "Qual a regência de 'perdoar'?",
+        "resposta": "'Perdoar' não exige preposição: 'Perdoei o amigo'. Sabia que muita gente usa 'perdoar a' de forma equivocada?",
+        "palavras_chave": ["regência verbal", "perdoar", "sem preposição", "gramática"]
+    },
+    {
+        "pergunta": "Qual a concordância em títulos de obras?",
+        "resposta": "Em títulos no plural, o verbo pode ir ao singular: 'Os Lusíadas é uma obra clássica'. Sabia que isso acontece porque o título é visto como unidade?",
+        "palavras_chave": ["títulos de obras", "concordância verbal", "Os Lusíadas é", "unidade", "gramática"]
+    },
+    {
+        "pergunta": "Qual a regência de 'informar'?",
+        "resposta": "'Informar' pode ter dupla regência: 'Informei o aluno da nota' ou 'Informei a nota ao aluno'. Sabia que as duas construções são corretas?",
+        "palavras_chave": ["regência verbal", "informar", "dupla regência", "nota", "aluno", "gramática"]
+    },
+    {
+        "pergunta": "Qual a concordância em expressões com 'um e outro'?",
+        "resposta": "Com 'um e outro', o verbo fica no singular: 'Um e outro aluno faltou'. Sabia que o adjetivo pode ir ao plural?",
+        "palavras_chave": ["um e outro", "concordância verbal", "aluno faltou", "adjetivo plural", "gramática"]
+    },
+    {
+        "pergunta": "Qual a regência de 'agradar'?",
+        "resposta": "'Agradar' pode ser transitivo direto (agradar alguém) ou indireto (agradar a alguém). Sabia que o sentido define a regência?",
+        "palavras_chave": ["regência verbal", "agradar", "agradar alguém", "agradar a alguém", "gramática"]
+    },
+    {
+        "pergunta": "Qual a concordância em porcentagens?",
+        "resposta": "O verbo concorda com o número ou com o substantivo: '50% votou' ou '50% dos alunos votaram'. Sabia que ambas estão corretas?",
+        "palavras_chave": ["porcentagens", "concordância verbal", "50% votou", "50% dos alunos votaram", "gramática"]
+    },
+    {
+        "pergunta": "Qual a regência de 'esquecer'?",
+        "resposta": "'Esquecer' pode ser transitivo direto ('Esqueci o livro') ou indireto com pronome ('Esqueci-me do livro'). Sabia que a forma pronominal pede preposição?",
+        "palavras_chave": ["regência verbal", "esquecer", "esqueci o livro", "esqueci-me do livro", "preposição", "gramática"]
+    },
+    {
+        "pergunta": "Qual é a regra de concordância com sujeito simples?",
+        "resposta": "O verbo concorda em número e pessoa com o núcleo do sujeito: 'A menina estuda' ou 'Os meninos estudam'. Sabia que o núcleo é sempre o elemento central, e não os determinantes?",
+        "palavras_chave": ["concordância verbal", "sujeito simples", "núcleo do sujeito", "verbo", "gramática"]
+    },
+    {
+        "pergunta": "Como funciona a concordância em sujeito composto antes do verbo?",
+        "resposta": "Quando o sujeito composto vem antes do verbo, o verbo geralmente vai para o plural: 'João e Maria cantaram'. Sabia que isso vale mesmo que os núcleos sejam de pessoas diferentes?",
+        "palavras_chave": ["sujeito composto", "antes do verbo", "plural", "concordância verbal"]
+    },
+    {
+        "pergunta": "E quando o sujeito composto vem depois do verbo?",
+        "resposta": "O verbo pode concordar com o núcleo mais próximo ou ir para o plural: 'Chegou João e Maria' ou 'Chegaram João e Maria'. Sabia que a segunda forma é preferida na norma culta?",
+        "palavras_chave": ["sujeito composto", "depois do verbo", "concordância verbal", "plural"]
+    },
+    {
+        "pergunta": "Qual é a regra para concordância com sujeito coletivo?",
+        "resposta": "Normalmente, o verbo fica no singular: 'A multidão aplaudiu'. Mas pode ir ao plural se a ideia de pluralidade for destacada: 'A multidão aplaudiu os jogadores que entraram'. Sabia que depende da ênfase?",
+        "palavras_chave": ["sujeito coletivo", "multidão", "singular", "pluralidade", "concordância verbal"]
+    },
+    {
+        "pergunta": "Como funciona a concordância com expressões partitivas?",
+        "resposta": "Com expressões como 'a maioria de' ou 'grande parte de', o verbo pode ficar no singular ou concordar com o termo após o 'de': 'A maioria dos alunos chegou' ou 'A maioria dos alunos chegaram'.",
+        "palavras_chave": ["expressões partitivas", "maioria", "grande parte", "concordância verbal"]
+    },
+    {
+        "pergunta": "E a concordância com pronomes de tratamento?",
+        "resposta": "Pronomes de tratamento exigem o verbo na 3ª pessoa: 'Vossa Excelência decidiu'. Sabia que isso vale mesmo que o pronome pareça de 2ª pessoa?",
+        "palavras_chave": ["pronomes de tratamento", "3ª pessoa", "concordância verbal"]
+    },
+    {
+        "pergunta": "Como funciona a concordância com pronomes indefinidos?",
+        "resposta": "Pronomes como 'alguém' e 'ninguém' pedem verbo no singular: 'Alguém chegou'. Já 'alguns' ou 'muitos' pedem plural: 'Muitos viajaram'.",
+        "palavras_chave": ["pronomes indefinidos", "concordância verbal", "singular", "plural"]
+    },
+    {
+        "pergunta": "Qual é a regra para concordância com o pronome relativo 'que'?",
+        "resposta": "O verbo concorda com o antecedente do 'que': 'Fui eu que fiz' ou 'Fomos nós que fizemos'. Sabia que isso é uma das regras mais cobradas em provas?",
+        "palavras_chave": ["pronome relativo que", "antecedente", "concordância verbal"]
+    },
+    {
+        "pergunta": "E com o pronome relativo 'quem'?",
+        "resposta": "O verbo pode ficar na 3ª pessoa: 'Fui eu quem fez', ou concordar com o antecedente: 'Fui eu quem fiz'. Sabia que ambas são aceitas na norma culta?",
+        "palavras_chave": ["pronome relativo quem", "3ª pessoa", "antecedente", "concordância verbal"]
+    },
+    {
+        "pergunta": "Como funciona a concordância em expressões proporcionais?",
+        "resposta": "Com 'quanto mais', 'quanto menos', o verbo concorda com o sujeito de cada oração: 'Quanto mais pessoas trabalham, mais rápido terminam'.",
+        "palavras_chave": ["expressões proporcionais", "quanto mais", "quanto menos", "concordância verbal"]
+    },
+    {
+        "pergunta": "Qual é a regra para concordância do verbo 'ser' com datas?",
+        "resposta": "Quando indica datas, 'ser' concorda com o número: 'Hoje são 15 de maio'. Sabia que no singular ficaria errado: 'Hoje é 15 de maio'?",
+        "palavras_chave": ["verbo ser", "datas", "concordância verbal", "números"]
+    },
+    {
+        "pergunta": "E a concordância do verbo 'ser' com pronomes pessoais?",
+        "resposta": "O verbo concorda com o predicativo: 'Sou eu quem decide' ou 'Somos nós os responsáveis'. Sabia que isso gera muitas dúvidas em redações?",
+        "palavras_chave": ["verbo ser", "pronomes pessoais", "predicativo", "concordância verbal"]
+    },
+    {
+        "pergunta": "O que é regência verbal em geral?",
+        "resposta": "É a relação de dependência entre verbo e complemento, podendo exigir ou não preposição: 'Gostar de música' (preposição) e 'Ajudar alguém' (sem preposição).",
+        "palavras_chave": ["regência verbal", "verbo complemento", "preposição"]
+    },
+    {
+        "pergunta": "O que é regência nominal em geral?",
+        "resposta": "É a relação de substantivos, adjetivos ou advérbios com seus complementos: 'amor a alguém', 'orgulho de algo'.",
+        "palavras_chave": ["regência nominal", "substantivos", "adjetivos", "advérbios", "preposição"]
+    },
+    {
+        "pergunta": "Como funcionam as locuções verbais na concordância?",
+        "resposta": "O verbo auxiliar concorda com o sujeito, e o verbo principal fica no infinitivo, gerúndio ou particípio: 'Eles vão estudar', 'Eles estão estudando'.",
+        "palavras_chave": ["locuções verbais", "auxiliar", "principal", "concordância verbal"]
+    },
+    {
+        "pergunta": "Qual é a regra de concordância para verbos impessoais?",
+        "resposta": "Verbos impessoais ficam sempre no singular, como 'Havia muitas pessoas'. Sabia que 'haver' com sentido de existir nunca vai ao plural?",
+        "palavras_chave": ["verbos impessoais", "haver", "existir", "singular", "concordância verbal"]
+    },
+    {
+        "pergunta": "E para verbos unipessoais?",
+        "resposta": "Verbos unipessoais se usam quase sempre na 3ª pessoa singular ou plural, como 'Batem-se palmas'. Sabia que são comuns em construções impessoais?",
+        "palavras_chave": ["verbos unipessoais", "3ª pessoa", "singular", "plural", "concordância verbal"]
+    },
+    {
+        "pergunta": "O que são construções atrativas na concordância?",
+        "resposta": "São casos em que o verbo concorda com o termo mais próximo: 'Havia pessoas que chegavam e outras que já tinham saído'.",
+        "palavras_chave": ["construções atrativas", "termo próximo", "concordância verbal"]
+    },
+    {
+        "pergunta": "Como funciona a concordância em expressões numéricas?",
+        "resposta": "O verbo concorda com o número: 'Dois alunos faltaram', 'Um aluno faltou'.",
+        "palavras_chave": ["expressões numéricas", "números", "concordância verbal"]
+    },
+    {
+        "pergunta": "E a concordância com percentuais?",
+        "resposta": "O verbo pode concordar com o número ou com o substantivo: '10% votaram' ou '10% da turma votou'.",
+        "palavras_chave": ["percentuais", "concordância verbal", "números", "substantivo"]
+    },
+    {
+        "pergunta": "Como funciona a regência em locuções verbais?",
+        "resposta": "A regência é determinada pelo verbo principal: 'Começou a estudar', 'Deixou de falar'.",
+        "palavras_chave": ["regência verbal", "locuções verbais", "verbo principal", "preposição"]
+    },
+    {
+        "pergunta": "Qual é a regra da regência com pronomes oblíquos?",
+        "resposta": "O pronome oblíquo pode substituir o complemento exigido pelo verbo: 'Ajudar alguém' → 'Ajudá-lo'.",
+        "palavras_chave": ["regência verbal", "pronomes oblíquos", "complemento"]
+    },
+    {
+        "pergunta": "Como funciona a regência em substantivos derivados de verbos?",
+        "resposta": "Eles mantêm a mesma regência do verbo de origem: 'lembrança de' (de lembrar), 'amor a' (de amar).",
+        "palavras_chave": ["regência nominal", "substantivos derivados", "verbo de origem"]
+    },
+    {
+        "pergunta": "E a regência em adjetivos?",
+        "resposta": "Adjetivos podem exigir preposição: 'ávido de', 'orgulhoso de', 'favorável a'.",
+        "palavras_chave": ["regência nominal", "adjetivos", "preposição"]
+    },
+    {
+        "pergunta": "O que é a regra de concordância em expressões expletivas?",
+        "resposta": "Quando há termos como 'é que', a concordância segue o sujeito: 'O problema é que vieram muitas pessoas'.",
+        "palavras_chave": ["concordância verbal", "expressões expletivas", "é que"]
+    },
+    {
+        "pergunta": "Como funciona a concordância em frases com 'um dos que'?",
+        "resposta": "O verbo pode ficar no singular, concordando com 'um', ou no plural, concordando com 'os que'.",
+        "palavras_chave": ["concordância verbal", "um dos que", "singular", "plural"]
+    },
+    {
+        "pergunta": "Qual é a regra da concordância com 'mais de um'?",
+        "resposta": "Normalmente o verbo vai para o singular: 'Mais de um aluno faltou'. Mas pode ir ao plural em verbos de reciprocidade: 'Mais de um aluno se abraçaram'.",
+        "palavras_chave": ["concordância verbal", "mais de um", "singular", "plural"]
+    },
+    {
+        "pergunta": "Como funciona a regência em expressões fixas?",
+        "resposta": "Algumas expressões têm regência cristalizada: 'atento a', 'obediente a', 'necessário a'.",
+        "palavras_chave": ["regência nominal", "expressões fixas", "preposição"]
+    },
+    {
+        "pergunta": "O que é regência em construções passivas?",
+        "resposta": "Na voz passiva, a regência se adapta: 'Assistir ao filme' vira 'O filme foi assistido por todos'.",
+        "palavras_chave": ["regência verbal", "voz passiva", "construções passivas"]
+    },
+    {
+        "pergunta": "Como funciona a concordância em orações reduzidas?",
+        "resposta": "A concordância segue o sujeito da oração principal: 'Os alunos, ao chegarem, sentaram-se'.",
+        "palavras_chave": ["orações reduzidas", "concordância verbal", "sujeito principal"]
+    },
+    {
+        "pergunta": "Qual é a regra da concordância em frases com 'cada um de nós'?",
+        "resposta": "O verbo fica no singular: 'Cada um de nós tem responsabilidades'.",
+        "palavras_chave": ["concordância verbal", "cada um de nós", "singular"]
+    },
+    {
+        "pergunta": "E a concordância em frases com 'nem um nem outro'?",
+        "resposta": "Normalmente o verbo vai para o singular: 'Nem um nem outro aceitou'. Mas pode ir ao plural se a ideia de soma for destacada.",
+        "palavras_chave": ["concordância verbal", "nem um nem outro", "singular", "plural"]
+    },
+    {
+        "pergunta": "Como funciona a regência com pronomes relativos?",
+        "resposta": "O verbo mantém a regência do verbo que exige complemento: 'O assunto de que tratamos'.",
+        "palavras_chave": ["regência verbal", "pronomes relativos", "complemento"]
+    },
+    {
+        "pergunta": "Qual é a regra da regência em advérbios?",
+        "resposta": "Alguns advérbios pedem preposição: 'perto de', 'longe de'.",
+        "palavras_chave": ["regência nominal", "advérbios", "preposição"]
+    },
+    {
+        "pergunta": "O que é regência em locuções prepositivas?",
+        "resposta": "As locuções já trazem a preposição necessária: 'a fim de', 'em vez de', 'junto a'.",
+        "palavras_chave": ["regência nominal", "locuções prepositivas", "preposição"]
+    },
+    {
+        "pergunta": "Como funciona a concordância em orações impessoais com 'ser'?",
+        "resposta": "O verbo concorda com o predicativo: 'É uma hora', 'São duas horas'.",
+        "palavras_chave": ["concordância verbal", "verbo ser", "horas", "predicativo"]
+    },
+    {
+        "pergunta": "Qual é a regra geral de concordância em português?",
+        "resposta": "Sempre que possível, o verbo concorda com o sujeito e os termos adjuntos concordam com o núcleo nominal em gênero e número.",
+        "palavras_chave": ["regra geral", "concordância verbal", "concordância nominal", "gramática"]
+    },
+    {
+        "pergunta": "O que é uma oração coordenada aditiva?",
+        "resposta": "Oração coordenada aditiva soma ideias, como 'e canta' em 'Ela dança e canta'. Sabia que 'e' é muito comum em listas narrativas?",
+        "palavras_chave": ["oração aditiva", "soma ideias", "dança e canta", "e", "listas narrativas", "sintaxe", "gramática"]
+    },
+    {
+        "pergunta": "O que é uma oração coordenada adversativa?",
+        "resposta": "Oração coordenada adversativa opõe ideias, como 'mas não veio' em 'Eu esperei, mas não veio'. Sabia que 'porém' é mais formal que 'mas'?",
+        "palavras_chave": ["oração adversativa", "opõe ideias", "mas não veio", "porém", "formal", "sintaxe", "gramática"]
+    },
+    {
+        "pergunta": "O que é um sujeito composto?",
+        "resposta": "Sujeito composto tem mais de um núcleo, como 'João e Ana' em 'João e Ana cantam'. Sabia que o verbo deve estar no plural?",
+        "palavras_chave": ["sujeito composto", "mais de um núcleo", "João e Ana", "plural", "cantam", "sintaxe", "concordância", "gramática"]
+    },
+    {
+        "pergunta": "O que é concordância verbal?",
+        "resposta": "Concordância verbal é combinar o verbo com o sujeito em número e pessoa, como 'Eles correm' ou 'Alguém chegou'. Sabia que com 'um dos que' ou 'nem...nem' o verbo pode variar?",
+        "palavras_chave": ["concordância verbal", "verbo combina", "Eles correm", "Alguém chegou", "um dos que", "nem...nem", "gramática", "ENEM"]
+    },
+    {
+        "pergunta": "O que é concordância nominal?",
+        "resposta": "Concordância nominal é combinar substantivo com adjetivos ou artigos, como 'A casa nova'. Sabia que em 'olhos castanho-escuros' o adjetivo concorda com o último?",
+        "palavras_chave": ["concordância nominal", "substantivo combina", "casa nova", "castanho-escuros", "adjetivos", "artigos", "gramática", "ENEM"]
+    },
+    {
+        "pergunta": "O que é regência verbal?",
+        "resposta": "Regência verbal é a relação do verbo com complementos, como 'Gosto de música' ou 'Amei o filme'. Sabia que 'gostar' usa 'de', mas 'amar' não precisa?",
+        "palavras_chave": ["regência verbal", "verbo complementos", "gosto de música", "amei o filme", "gostar", "amar", "gramática", "ENEM"]
+    },
+    {
+        "pergunta": "O que é regência nominal?",
+        "resposta": "Regência nominal é a relação de substantivos ou adjetivos com complementos, como 'Medo de escuro' ou 'Capaz de vencer'. Sabia que 'medo' usa 'de', mas 'horror' pode usar 'a'?",
+        "palavras_chave": ["regência nominal", "substantivo complementos", "medo de escuro", "capaz de vencer", "medo", "horror", "gramática", "ENEM"]
+    },
+    {
+        "pergunta": "Por que 'Os menino corre' está errado?",
+        "resposta": "Está errado porque 'corre' não concorda com o sujeito plural 'Os meninos'. Deve ser 'Os meninos correm'. Sabia que erros assim são comuns na fala rápida?",
+        "palavras_chave": ["concordância verbal", "Os meninos", "correm", "plural", "fala rápida", "gramática", "ENEM"]
+    },
+
+    {
+        "pergunta": "Qual é a regra de concordância com sujeito simples?",
+        "resposta": "O verbo concorda em número e pessoa com o núcleo do sujeito: 'A menina estuda' ou 'Os meninos estudam'. Sabia que o núcleo é sempre o elemento central, e não os determinantes?",
+        "palavras_chave": ["concordância verbal", "sujeito simples", "núcleo do sujeito", "verbo", "gramática"]
+    },
+    {
+        "pergunta": "Como funciona a concordância em sujeito composto antes do verbo?",
+        "resposta": "Quando o sujeito composto vem antes do verbo, o verbo geralmente vai para o plural: 'João e Maria cantaram'. Sabia que isso vale mesmo que os núcleos sejam de pessoas diferentes?",
+        "palavras_chave": ["sujeito composto", "antes do verbo", "plural", "concordância verbal"]
+    },
+    {
+        "pergunta": "E quando o sujeito composto vem depois do verbo?",
+        "resposta": "O verbo pode concordar com o núcleo mais próximo ou ir para o plural: 'Chegou João e Maria' ou 'Chegaram João e Maria'. Sabia que a segunda forma é preferida na norma culta?",
+        "palavras_chave": ["sujeito composto", "depois do verbo", "concordância verbal", "plural"]
+    },
+    {
+        "pergunta": "Qual é a regra para concordância com sujeito coletivo?",
+        "resposta": "Normalmente, o verbo fica no singular: 'A multidão aplaudiu'. Mas pode ir ao plural se a ideia de pluralidade for destacada: 'A multidão aplaudiu os jogadores que entraram'. Sabia que depende da ênfase?",
+        "palavras_chave": ["sujeito coletivo", "multidão", "singular", "pluralidade", "concordância verbal"]
+    },
+    {
+        "pergunta": "Como funciona a concordância com expressões partitivas?",
+        "resposta": "Com expressões como 'a maioria de' ou 'grande parte de', o verbo pode ficar no singular ou concordar com o termo após o 'de': 'A maioria dos alunos chegou' ou 'A maioria dos alunos chegaram'.",
+        "palavras_chave": ["expressões partitivas", "maioria", "grande parte", "concordância verbal"]
+    },
+    {
+        "pergunta": "E a concordância com pronomes de tratamento?",
+        "resposta": "Pronomes de tratamento exigem o verbo na 3ª pessoa: 'Vossa Excelência decidiu'. Sabia que isso vale mesmo que o pronome pareça de 2ª pessoa?",
+        "palavras_chave": ["pronomes de tratamento", "3ª pessoa", "concordância verbal"]
+    },
+    {
+        "pergunta": "Como funciona a concordância com pronomes indefinidos?",
+        "resposta": "Pronomes como 'alguém' e 'ninguém' pedem verbo no singular: 'Alguém chegou'. Já 'alguns' ou 'muitos' pedem plural: 'Muitos viajaram'.",
+        "palavras_chave": ["pronomes indefinidos", "concordância verbal", "singular", "plural"]
+    },
+    {
+        "pergunta": "Qual é a regra para concordância com o pronome relativo 'que'?",
+        "resposta": "O verbo concorda com o antecedente do 'que': 'Fui eu que fiz' ou 'Fomos nós que fizemos'. Sabia que isso é uma das regras mais cobradas em provas?",
+        "palavras_chave": ["pronome relativo que", "antecedente", "concordância verbal"]
+    },
+    {
+        "pergunta": "E com o pronome relativo 'quem'?",
+        "resposta": "O verbo pode ficar na 3ª pessoa: 'Fui eu quem fez', ou concordar com o antecedente: 'Fui eu quem fiz'. Sabia que ambas são aceitas na norma culta?",
+        "palavras_chave": ["pronome relativo quem", "3ª pessoa", "antecedente", "concordância verbal"]
+    },
+    {
+        "pergunta": "Como funciona a concordância em expressões proporcionais?",
+        "resposta": "Com 'quanto mais', 'quanto menos', o verbo concorda com o sujeito de cada oração: 'Quanto mais pessoas trabalham, mais rápido terminam'.",
+        "palavras_chave": ["expressões proporcionais", "quanto mais", "quanto menos", "concordância verbal"]
+    },
+    {
+        "pergunta": "Qual é a regra para concordância do verbo 'ser' com datas?",
+        "resposta": "Quando indica datas, 'ser' concorda com o número: 'Hoje são 15 de maio'. Sabia que no singular ficaria errado: 'Hoje é 15 de maio'?",
+        "palavras_chave": ["verbo ser", "datas", "concordância verbal", "números"]
+    },
+    {
+        "pergunta": "E a concordância do verbo 'ser' com pronomes pessoais?",
+        "resposta": "O verbo concorda com o predicativo: 'Sou eu quem decide' ou 'Somos nós os responsáveis'. Sabia que isso gera muitas dúvidas em redações?",
+        "palavras_chave": ["verbo ser", "pronomes pessoais", "predicativo", "concordância verbal"]
+    },
+    {
+        "pergunta": "O que é regência verbal em geral?",
+        "resposta": "É a relação de dependência entre verbo e complemento, podendo exigir ou não preposição: 'Gostar de música' (preposição) e 'Ajudar alguém' (sem preposição).",
+        "palavras_chave": ["regência verbal", "verbo complemento", "preposição"]
+    },
+    {
+        "pergunta": "O que é regência nominal em geral?",
+        "resposta": "É a relação de substantivos, adjetivos ou advérbios com seus complementos: 'amor a alguém', 'orgulho de algo'.",
+        "palavras_chave": ["regência nominal", "substantivos", "adjetivos", "advérbios", "preposição"]
+    },
+    {
+        "pergunta": "Como funcionam as locuções verbais na concordância?",
+        "resposta": "O verbo auxiliar concorda com o sujeito, e o verbo principal fica no infinitivo, gerúndio ou particípio: 'Eles vão estudar', 'Eles estão estudando'.",
+        "palavras_chave": ["locuções verbais", "auxiliar", "principal", "concordância verbal"]
+    },
+    {
+        "pergunta": "Qual é a regra de concordância para verbos impessoais?",
+        "resposta": "Verbos impessoais ficam sempre no singular, como 'Havia muitas pessoas'. Sabia que 'haver' com sentido de existir nunca vai ao plural?",
+        "palavras_chave": ["verbos impessoais", "haver", "existir", "singular", "concordância verbal"]
+    },
+    {
+        "pergunta": "E para verbos unipessoais?",
+        "resposta": "Verbos unipessoais se usam quase sempre na 3ª pessoa singular ou plural, como 'Batem-se palmas'. Sabia que são comuns em construções impessoais?",
+        "palavras_chave": ["verbos unipessoais", "3ª pessoa", "singular", "plural", "concordância verbal"]
+    },
+    {
+        "pergunta": "O que são construções atrativas na concordância?",
+        "resposta": "São casos em que o verbo concorda com o termo mais próximo: 'Havia pessoas que chegavam e outras que já tinham saído'.",
+        "palavras_chave": ["construções atrativas", "termo próximo", "concordância verbal"]
+    },
+    {
+        "pergunta": "Como funciona a concordância em expressões numéricas?",
+        "resposta": "O verbo concorda com o número: 'Dois alunos faltaram', 'Um aluno faltou'.",
+        "palavras_chave": ["expressões numéricas", "números", "concordância verbal"]
+    },
+    {
+        "pergunta": "E a concordância com percentuais?",
+        "resposta": "O verbo pode concordar com o número ou com o substantivo: '10% votaram' ou '10% da turma votou'.",
+        "palavras_chave": ["percentuais", "concordância verbal", "números", "substantivo"]
+    },
+    {
+        "pergunta": "Como funciona a regência em locuções verbais?",
+        "resposta": "A regência é determinada pelo verbo principal: 'Começou a estudar', 'Deixou de falar'.",
+        "palavras_chave": ["regência verbal", "locuções verbais", "verbo principal", "preposição"]
+    },
+    {
+        "pergunta": "Qual é a regra da regência com pronomes oblíquos?",
+        "resposta": "O pronome oblíquo pode substituir o complemento exigido pelo verbo: 'Ajudar alguém' → 'Ajudá-lo'.",
+        "palavras_chave": ["regência verbal", "pronomes oblíquos", "complemento"]
+    },
+    {
+        "pergunta": "Como funciona a regência em substantivos derivados de verbos?",
+        "resposta": "Eles mantêm a mesma regência do verbo de origem: 'lembrança de' (de lembrar), 'amor a' (de amar).",
+        "palavras_chave": ["regência nominal", "substantivos derivados", "verbo de origem"]
+    },
+    {
+        "pergunta": "E a regência em adjetivos?",
+        "resposta": "Adjetivos podem exigir preposição: 'ávido de', 'orgulhoso de', 'favorável a'.",
+        "palavras_chave": ["regência nominal", "adjetivos", "preposição"]
+    },
+    {
+        "pergunta": "O que é a regra de concordância em expressões expletivas?",
+        "resposta": "Quando há termos como 'é que', a concordância segue o sujeito: 'O problema é que vieram muitas pessoas'.",
+        "palavras_chave": ["concordância verbal", "expressões expletivas", "é que"]
+    },
+    {
+        "pergunta": "Como funciona a concordância em frases com 'um dos que'?",
+        "resposta": "O verbo pode ficar no singular, concordando com 'um', ou no plural, concordando com 'os que'.",
+        "palavras_chave": ["concordância verbal", "um dos que", "singular", "plural"]
+    },
+    {
+        "pergunta": "Qual é a regra da concordância com 'mais de um'?",
+        "resposta": "Normalmente o verbo vai para o singular: 'Mais de um aluno faltou'. Mas pode ir ao plural em verbos de reciprocidade: 'Mais de um aluno se abraçaram'.",
+        "palavras_chave": ["concordância verbal", "mais de um", "singular", "plural"]
+    },
+    {
+        "pergunta": "Como funciona a regência em expressões fixas?",
+        "resposta": "Algumas expressões têm regência cristalizada: 'atento a', 'obediente a', 'necessário a'.",
+        "palavras_chave": ["regência nominal", "expressões fixas", "preposição"]
+    },
+    {
+        "pergunta": "O que é regência em construções passivas?",
+        "resposta": "Na voz passiva, a regência se adapta: 'Assistir ao filme' vira 'O filme foi assistido por todos'.",
+        "palavras_chave": ["regência verbal", "voz passiva", "construções passivas"]
+    },
+    {
+        "pergunta": "Como funciona a concordância em orações reduzidas?",
+        "resposta": "A concordância segue o sujeito da oração principal: 'Os alunos, ao chegarem, sentaram-se'.",
+        "palavras_chave": ["orações reduzidas", "concordância verbal", "sujeito principal"]
+    },
+    {
+        "pergunta": "Qual é a regra da concordância em frases com 'cada um de nós'?",
+        "resposta": "O verbo fica no singular: 'Cada um de nós tem responsabilidades'.",
+        "palavras_chave": ["concordância verbal", "cada um de nós", "singular"]
+    },
+    {
+        "pergunta": "E a concordância em frases com 'nem um nem outro'?",
+        "resposta": "Normalmente o verbo vai para o singular: 'Nem um nem outro aceitou'. Mas pode ir ao plural se a ideia de soma for destacada.",
+        "palavras_chave": ["concordância verbal", "nem um nem outro", "singular", "plural"]
+    },
+    {
+        "pergunta": "Como funciona a regência com pronomes relativos?",
+        "resposta": "O verbo mantém a regência do verbo que exige complemento: 'O assunto de que tratamos'.",
+        "palavras_chave": ["regência verbal", "pronomes relativos", "complemento"]
+    },
+    {
+        "pergunta": "Qual é a regra da regência em advérbios?",
+        "resposta": "Alguns advérbios pedem preposição: 'perto de', 'longe de'.",
+        "palavras_chave": ["regência nominal", "advérbios", "preposição"]
+    },
+    {
+        "pergunta": "O que é regência em locuções prepositivas?",
+        "resposta": "As locuções já trazem a preposição necessária: 'a fim de', 'em vez de', 'junto a'.",
+        "palavras_chave": ["regência nominal", "locuções prepositivas", "preposição"]
+    },
+    {
+        "pergunta": "Como funciona a concordância em orações impessoais com 'ser'?",
+        "resposta": "O verbo concorda com o predicativo: 'É uma hora', 'São duas horas'.",
+        "palavras_chave": ["concordância verbal", "verbo ser", "horas", "predicativo"]
+    },
+    {
+        "pergunta": "Qual é a regra geral de regência?",
+        "resposta": "Cada verbo, substantivo ou adjetivo pode exigir ou não uma preposição específica, e ela deve ser respeitada para manter a correção gramatical.",
+        "palavras_chave": ["regência", "preposição", "correção gramatical"]
+    }
+]

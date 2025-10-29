@@ -1,0 +1,512 @@
+[
+  {
+    "pergunta": "Por que o Vale do Silício se tornou o principal polo tecnológico do mundo?",
+    "resposta": "O Vale do Silício se consolidou como o coração da tecnologia mundial por causa da combinação entre universidades de ponta, como Stanford, investimentos de risco abundantes e uma cultura de inovação que valoriza o erro como aprendizado. Desde a década de 1950, a região atraiu engenheiros, empreendedores e visionários que criaram empresas como HP, Apple e Google. Sabia que o nome 'Vale do Silício' vem do material usado para fabricar chips de computador, base de toda a revolução digital?",
+    "palavras_chave": ["vale do silício", "inovação", "startups", "história", "tecnologia"]
+  },
+  {
+    "pergunta": "Quem foi Steve Jobs e por que ele é considerado um dos maiores inovadores da era digital?",
+    "resposta": "Steve Jobs foi cofundador da Apple e um dos grandes responsáveis por popularizar a computação pessoal e os dispositivos móveis. Sua visão unia design, tecnologia e experiência do usuário de forma quase artística. Produtos como o iPhone e o MacBook não apenas mudaram indústrias, mas também comportamentos. Sabia que Jobs foi demitido da própria empresa nos anos 80 e só voltou mais tarde para transformá-la na gigante que conhecemos hoje?",
+    "palavras_chave": ["steve jobs", "apple", "inovação", "computação pessoal", "design"]
+  },
+  {
+    "pergunta": "Como surgiu a Microsoft e qual foi seu papel na popularização dos computadores pessoais?",
+    "resposta": "A Microsoft foi fundada em 1975 por Bill Gates e Paul Allen com a missão de colocar um computador em cada mesa. O sistema operacional Windows foi um divisor de águas, tornando o uso dos PCs acessível e padronizado. Além disso, seu modelo de licenciamento permitiu que outras empresas fabricassem hardware compatível, o que ampliou o alcance global. Sabia que o primeiro grande contrato da Microsoft foi com a IBM, e isso mudou para sempre a indústria de software?",
+    "palavras_chave": ["microsoft", "windows", "bill gates", "software", "computadores pessoais"]
+  },
+  {
+    "pergunta": "Qual é o impacto do Google na forma como buscamos e acessamos informação?",
+    "resposta": "O Google revolucionou a maneira de encontrar informações ao criar um algoritmo de busca baseado em relevância, o famoso PageRank. Desde o fim dos anos 1990, o verbo 'googlar' se tornou sinônimo de pesquisar na internet. Hoje, a empresa domina também setores como publicidade digital, inteligência artificial e sistemas operacionais. Sabia que o nome 'Google' vem de um erro de digitação da palavra 'googol', que representa o número 1 seguido de cem zeros?",
+    "palavras_chave": ["google", "buscador", "internet", "pageRank", "informação"]
+  },
+  {
+    "pergunta": "O que fez a Amazon crescer de uma livraria online para uma gigante global?",
+    "resposta": "A Amazon começou vendendo livros em 1994, mas Jeff Bezos logo percebeu o potencial do comércio eletrônico. A empresa diversificou rapidamente seus produtos e investiu pesado em logística e experiência do cliente. Depois, expandiu-se com o Amazon Web Services, que domina o mercado de computação em nuvem. Sabia que a Amazon lucra mais com seus serviços de nuvem do que com as vendas diretas de produtos?",
+    "palavras_chave": ["amazon", "jeff bezos", "e-commerce", "nuvem", "logística"]
+  },
+  {
+    "pergunta": "Como o Facebook transformou a forma como as pessoas se comunicam na internet?",
+    "resposta": "Criado em 2004 por Mark Zuckerberg, o Facebook tornou as redes sociais um fenômeno global. Ele permitiu que milhões compartilhassem sua vida, ideias e opiniões em tempo real. O modelo de negócios baseado em publicidade segmentada revolucionou o marketing digital. Sabia que, inicialmente, o Facebook era restrito apenas a estudantes de Harvard?",
+    "palavras_chave": ["facebook", "mark zuckerberg", "redes sociais", "comunicação", "publicidade"]
+  },
+  {
+    "pergunta": "Qual foi a importância da HP para o nascimento do Vale do Silício?",
+    "resposta": "A Hewlett-Packard, fundada em uma garagem em Palo Alto em 1939, é considerada a empresa que deu origem ao Vale do Silício. Seus fundadores, Bill Hewlett e Dave Packard, cultivaram uma cultura de inovação colaborativa que inspirou gerações de empreendedores. Sabia que a garagem onde tudo começou foi tombada como patrimônio histórico da Califórnia?",
+    "palavras_chave": ["hp", "palo alto", "inovação", "história", "empreendedorismo"]
+  },
+  {
+    "pergunta": "Quem é Elon Musk e quais empresas ele ajudou a transformar em ícones tecnológicos?",
+    "resposta": "Elon Musk é um empreendedor sul-africano-americano conhecido por desafiar indústrias inteiras. Ele cofundou a PayPal, revolucionou o setor automobilístico com a Tesla e está expandindo as fronteiras espaciais com a SpaceX. Também atua em energia limpa e inteligência artificial. Sabia que a primeira fortuna de Musk veio antes mesmo da PayPal, com a venda de uma empresa chamada Zip2?",
+    "palavras_chave": ["elon musk", "tesla", "spacex", "paypal", "inovação"]
+  },
+  {
+    "pergunta": "Por que a Apple é vista como uma marca de design e inovação?",
+    "resposta": "A Apple construiu sua identidade combinando tecnologia de ponta com design minimalista e intuitivo. Desde o iPod até o iPhone, a marca transformou produtos em objetos de desejo. O segredo está na atenção aos detalhes e na experiência do usuário. Sabia que o famoso logotipo da maçã mordida foi inspirado na ideia de ‘conhecimento proibido’, em alusão à história bíblica?",
+    "palavras_chave": ["apple", "design", "inovação", "iphone", "experiência do usuário"]
+  },
+  {
+    "pergunta": "Como a Intel ajudou a consolidar a era dos computadores pessoais?",
+    "resposta": "A Intel foi pioneira na criação dos microprocessadores, o 'cérebro' dos computadores. Seu chip 4004, lançado em 1971, abriu caminho para a revolução dos PCs. A parceria com empresas como a IBM e a Microsoft consolidou o padrão 'Intel Inside'. Sabia que o jingle dessa campanha publicitária é um dos mais reconhecidos da história da tecnologia?",
+    "palavras_chave": ["intel", "microprocessador", "computadores", "hardware", "inovação"]
+  },
+  {
+    "pergunta": "O que diferencia o Vale do Silício de outros polos tecnológicos do mundo?",
+    "resposta": "Além da concentração de capital e talentos, o Vale do Silício tem uma mentalidade única de colaboração e risco. Lá, empreendedores e investidores convivem em ecossistemas abertos, onde falhar é parte do aprendizado. Sabia que, mesmo com concorrência global, o Vale ainda concentra mais de 30% dos investimentos de capital de risco dos EUA?",
+    "palavras_chave": ["vale do silício", "empreendedorismo", "inovação", "capital de risco", "ecossistema"]
+  },
+  {
+    "pergunta": "Como surgiu o termo 'startup' e por que ele se popularizou no Vale do Silício?",
+    "resposta": "O termo 'startup' começou a ser usado nos anos 1990 para descrever empresas em fase inicial que buscavam modelos de negócio escaláveis, geralmente ligados à tecnologia. O Vale do Silício se tornou o berço dessas ideias, com exemplos como Google, Airbnb e Uber. Sabia que muitas startups surgiram em dormitórios universitários ou garagens antes de virarem gigantes?",
+    "palavras_chave": ["startup", "vale do silício", "empreendedorismo", "inovação", "negócios"]
+  },
+  {
+    "pergunta": "Por que as empresas de tecnologia valorizam tanto a cultura do 'fracasso produtivo'?",
+    "resposta": "No Vale do Silício, errar faz parte do processo de inovação. A ideia é que cada fracasso ensina algo valioso, e quem falha rápido aprende mais rápido. Essa mentalidade estimula a experimentação e reduz o medo de tentar. Sabia que o Google tem até um evento interno chamado 'Festival do Fracasso' para celebrar aprendizados de projetos que não deram certo?",
+    "palavras_chave": ["inovação", "vale do silício", "cultura empresarial", "fracasso", "aprendizado"]
+  },
+  {
+    "pergunta": "Qual é a influência da Universidade de Stanford no ecossistema do Vale do Silício?",
+    "resposta": "Stanford é o berço intelectual do Vale do Silício. A universidade incentiva a criação de startups, conecta alunos a investidores e promove uma cultura de aplicação prática do conhecimento. Sabia que empresas como Google, HP e Netflix nasceram de projetos acadêmicos ligados a Stanford?",
+    "palavras_chave": ["stanford", "educação", "inovação", "universidade", "vale do silício"]
+  },
+  {
+    "pergunta": "Como a Tesla redefiniu o conceito de carro elétrico?",
+    "resposta": "A Tesla, liderada por Elon Musk, transformou o carro elétrico em um símbolo de inovação e status. Diferente das tentativas anteriores, ela apostou em design, desempenho e tecnologia de ponta. Além disso, impulsionou a infraestrutura de recarga e a pesquisa em baterias. Sabia que o primeiro modelo da Tesla era baseado em um carro esportivo da Lotus?",
+    "palavras_chave": ["tesla", "carro elétrico", "elon musk", "sustentabilidade", "inovação"]
+  },
+  {
+    "pergunta": "O que são as Big Techs e por que elas têm tanto poder atualmente?",
+    "resposta": "As Big Techs são as grandes empresas de tecnologia, como Apple, Google, Amazon, Meta e Microsoft. Elas dominam mercados de dados, comunicação, computação e entretenimento. Seu poder vem do alcance global e da influência sobre hábitos de consumo e informação. Sabia que, juntas, essas empresas valem mais do que o PIB de muitos países?",
+    "palavras_chave": ["big techs", "tecnologia", "mercado", "dados", "poder econômico"]
+  },
+  {
+    "pergunta": "Como o YouTube mudou a forma de consumir conteúdo audiovisual?",
+    "resposta": "O YouTube democratizou o acesso à produção e consumo de vídeos. Criado em 2005 e comprado pelo Google no ano seguinte, ele deu voz a criadores independentes e transformou o entretenimento e a educação. Sabia que o primeiro vídeo postado na plataforma se chama 'Me at the zoo' e tem menos de 20 segundos?",
+    "palavras_chave": ["youtube", "vídeos", "google", "mídia digital", "criadores de conteúdo"]
+  },
+  {
+    "pergunta": "Por que a Netflix é considerada uma das empresas mais disruptivas do século XXI?",
+    "resposta": "A Netflix começou alugando DVDs pelo correio, mas reinventou o consumo de mídia ao apostar no streaming. Ela mudou hábitos culturais e obrigou gigantes como Disney e Warner a repensarem seus modelos de negócio. Sabia que, antes do streaming, a Blockbuster recusou comprar a Netflix por apenas 50 milhões de dólares?",
+    "palavras_chave": ["netflix", "streaming", "entretenimento", "disrupção", "mídia"]
+  },
+  {
+    "pergunta": "Qual foi o papel da IBM no desenvolvimento da computação moderna?",
+    "resposta": "A IBM foi pioneira no desenvolvimento de computadores comerciais e sistemas corporativos. Suas inovações moldaram o setor de TI nas décadas de 1960 e 70. A empresa também contribuiu para a criação do PC e de linguagens de programação. Sabia que a sigla IBM significa 'International Business Machines'?",
+    "palavras_chave": ["ibm", "computação", "história", "tecnologia", "inovação"]
+  },
+  {
+    "pergunta": "Como a cultura hacker influenciou o surgimento das empresas do Vale do Silício?",
+    "resposta": "A cultura hacker nasceu da curiosidade e da vontade de explorar sistemas. Nos anos 70 e 80, essa mentalidade impulsionou a criação de software livre, redes abertas e inovações ousadas. Sabia que o termo 'hacker' originalmente significava 'alguém criativo que encontra soluções engenhosas', e não necessariamente alguém que invade sistemas?",
+    "palavras_chave": ["hacker", "cultura digital", "vale do silício", "inovação", "software livre"]
+  },
+  {
+    "pergunta": "Por que o Google investe tanto em inteligência artificial?",
+    "resposta": "O Google vê a inteligência artificial como o próximo passo da tecnologia, capaz de organizar e interpretar o mundo digital de forma autônoma. Desde o assistente virtual até o algoritmo de busca, a IA está no coração dos seus produtos. Sabia que o Google criou a DeepMind, empresa responsável por um programa que derrotou campeões mundiais de xadrez e Go?",
+    "palavras_chave": ["google", "inteligência artificial", "deepmind", "algoritmos", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é o Googleplex e por que ele simboliza a cultura das Big Techs?",
+    "resposta": "O Googleplex é o campus principal do Google, localizado em Mountain View, Califórnia. Ele representa a filosofia das Big Techs: espaços criativos, informais e colaborativos que estimulam a inovação. Sabia que o nome 'plex' vem de 'complex', e o termo é um trocadilho com 'googolplex', um número ainda maior que googol?",
+    "palavras_chave": ["googleplex", "vale do silício", "cultura empresarial", "inovação", "trabalho"]
+  },
+  {
+    "pergunta": "Como a cultura das startups influenciou o mercado global de trabalho?",
+    "resposta": "As startups trouxeram novas formas de trabalhar: times horizontais, foco em resultados e ambientes dinâmicos. Essa mentalidade se espalhou pelo mundo e influenciou empresas tradicionais. Sabia que o termo 'coworking' também nasceu nesse contexto, para abrigar profissionais independentes e pequenos negócios inovadores?",
+    "palavras_chave": ["startups", "mercado de trabalho", "coworking", "inovação", "empreendedorismo"]
+  },
+  {
+    "pergunta": "O que levou a Meta (antigo Facebook) a investir no metaverso?",
+    "resposta": "A Meta acredita que o metaverso é a próxima evolução da internet: um ambiente digital imersivo que mistura realidade virtual e aumentada. A ideia é criar novas formas de socialização e negócios. Sabia que o investimento bilionário no metaverso fez a empresa mudar até o nome, em 2021, para refletir essa visão?",
+    "palavras_chave": ["meta", "metaverso", "realidade virtual", "inovação", "facebook"]
+  },
+  {
+    "pergunta": "Quem foi Larry Page e qual foi seu papel na criação do Google?",
+    "resposta": "Larry Page, junto com Sergey Brin, criou o Google em 1998 enquanto ambos faziam doutorado em Stanford. Ele desenvolveu o algoritmo PageRank, que revolucionou a busca online ao classificar páginas pela relevância e links. Page sempre defendeu a automação e o uso de dados para resolver grandes problemas. Sabia que o nome 'PageRank' é, na verdade, um trocadilho com o sobrenome de Larry?",
+    "palavras_chave": ["larry page", "google", "pageRank", "buscador", "inovação"]
+  },
+  {
+    "pergunta": "O que é a Alphabet e por que o Google criou essa holding?",
+    "resposta": "A Alphabet foi criada em 2015 como uma forma de reorganizar os negócios do Google e separar seus projetos experimentais do núcleo principal. Assim, áreas como saúde, robótica e veículos autônomos ficaram sob diferentes subsidiárias. A ideia era dar mais liberdade para inovação. Sabia que o nome 'Alphabet' vem da ideia de 'coleção de letras' — uma referência direta à linguagem e à informação?",
+    "palavras_chave": ["alphabet", "google", "holding", "inovação", "organização empresarial"]
+  },
+  {
+    "pergunta": "Como a cultura de investimento de risco impulsionou o crescimento do Vale do Silício?",
+    "resposta": "Os investidores de risco, ou venture capitalists, foram fundamentais para o surgimento de empresas como Apple, Intel e Facebook. Eles apostam em ideias ousadas e assumem grandes riscos em troca de participação futura. Essa mentalidade acelerou o crescimento de startups. Sabia que uma das primeiras firmas de capital de risco do mundo, a Kleiner Perkins, nasceu justamente em Palo Alto?",
+    "palavras_chave": ["investimento", "venture capital", "vale do silício", "startups", "financiamento"]
+  },
+  {
+    "pergunta": "Qual é a importância da cultura de colaboração entre empresas no Vale do Silício?",
+    "resposta": "Ao contrário de outros lugares, o Vale do Silício tem uma cultura de compartilhamento de conhecimento. Profissionais mudam de empresa com frequência, levando novas ideias e fortalecendo o ecossistema. Hackathons e eventos de networking são comuns. Sabia que essa troca constante é chamada informalmente de 'polinização cruzada de ideias'?",
+    "palavras_chave": ["colaboração", "vale do silício", "inovação", "ecossistema", "networking"]
+  },
+  {
+    "pergunta": "Como a cultura do 'faça você mesmo' influenciou o nascimento das grandes empresas de tecnologia?",
+    "resposta": "Nos anos 1970, muitos engenheiros e entusiastas construíam seus próprios computadores em clubes de garagem, como o Homebrew Computer Club. Dali saíram figuras como Steve Jobs e Steve Wozniak, da Apple. Essa mentalidade prática e experimental moldou o DNA da inovação tecnológica. Sabia que o primeiro protótipo do Apple I foi apresentado num desses encontros amadores?",
+    "palavras_chave": ["faça você mesmo", "apple", "computadores", "inovação", "história"]
+  },
+  {
+    "pergunta": "O que diferencia a Amazon Web Services (AWS) de outras plataformas de nuvem?",
+    "resposta": "A AWS foi pioneira em oferecer infraestrutura digital sob demanda, permitindo que empresas alugassem poder de processamento e armazenamento em vez de comprar servidores. Isso reduziu custos e acelerou o surgimento de novas startups. Sabia que serviços populares como Netflix e Airbnb nasceram hospedados na AWS?",
+    "palavras_chave": ["aws", "amazon", "nuvem", "infraestrutura", "computação"]
+  },
+  {
+    "pergunta": "Como a OpenAI se inseriu no ecossistema do Vale do Silício?",
+    "resposta": "A OpenAI nasceu em 2015 com o propósito de desenvolver inteligência artificial de forma segura e acessível. Ela reúne talentos de várias empresas e universidades da região. O foco é equilibrar inovação com ética no uso da IA. Sabia que o GPT, um dos modelos mais famosos da OpenAI, foi treinado com bilhões de palavras de textos públicos da internet?",
+    "palavras_chave": ["openai", "inteligência artificial", "vale do silício", "gpt", "inovação"]
+  },
+  {
+    "pergunta": "Como a Netflix usa algoritmos para recomendar filmes e séries?",
+    "resposta": "A Netflix coleta dados de comportamento dos usuários — como tempo de exibição e preferências — para alimentar seus algoritmos de recomendação. Isso permite criar listas personalizadas e prever o que o público vai gostar. Sabia que mais de 80% do que as pessoas assistem na plataforma vem de recomendações automáticas?",
+    "palavras_chave": ["netflix", "algoritmos", "streaming", "personalização", "dados"]
+  },
+  {
+    "pergunta": "Por que as empresas do Vale do Silício valorizam tanto a diversidade e a inclusão?",
+    "resposta": "A diversidade traz perspectivas diferentes e estimula a criatividade. Muitas empresas perceberam que equipes heterogêneas resolvem problemas de forma mais inovadora. Sabia que o Google e a Apple publicam relatórios anuais sobre diversidade e contratam equipes focadas apenas nisso?",
+    "palavras_chave": ["diversidade", "inclusão", "inovação", "vale do silício", "cultura"]
+  },
+  {
+    "pergunta": "Como o PayPal influenciou o sistema de pagamentos digitais?",
+    "resposta": "O PayPal foi um dos primeiros serviços a permitir transações online seguras e rápidas. Ele simplificou o comércio eletrônico e abriu caminho para carteiras digitais modernas. Sabia que seus fundadores — entre eles Elon Musk e Peter Thiel — são conhecidos como a 'máfia do PayPal', por terem criado várias outras empresas de sucesso?",
+    "palavras_chave": ["paypal", "pagamentos digitais", "e-commerce", "elon musk", "fintech"]
+  },
+  {
+    "pergunta": "O que é a 'máfia do PayPal' e por que ela é tão influente?",
+    "resposta": "A 'máfia do PayPal' é um grupo de ex-funcionários e fundadores da empresa que, depois da venda para o eBay, criaram outras gigantes, como Tesla, LinkedIn, YouTube e SpaceX. Eles formam uma das redes mais poderosas do Vale do Silício. Sabia que esse termo surgiu em uma reportagem da revista *Fortune* em 2007?",
+    "palavras_chave": ["paypal", "rede de empreendedores", "vale do silício", "startups", "influência"]
+  },
+  {
+    "pergunta": "Como a Intel mantém sua relevância em um mercado de chips tão competitivo?",
+    "resposta": "Mesmo com novos concorrentes, a Intel investe pesado em pesquisa e em tecnologias de ponta como a fabricação de chips de 3 nanômetros. Além disso, ela diversifica suas aplicações para áreas como inteligência artificial e data centers. Sabia que a famosa Lei de Moore, que prevê o avanço dos processadores, foi formulada por um dos fundadores da Intel?",
+    "palavras_chave": ["intel", "chips", "lei de moore", "tecnologia", "processadores"]
+  },
+  {
+    "pergunta": "Qual foi o papel de Bill Gates na popularização da informática pessoal?",
+    "resposta": "Bill Gates acreditava que um dia todos teriam um computador em casa, algo impensável nos anos 1970. Ele liderou a Microsoft com foco em software acessível e útil. Sabia que Gates aprendeu a programar aos 13 anos e vendia seus primeiros códigos para empresas locais?",
+    "palavras_chave": ["bill gates", "microsoft", "informática", "software", "computadores pessoais"]
+  },
+  {
+    "pergunta": "Como a cultura do Google incentiva a inovação entre seus funcionários?",
+    "resposta": "O Google adota a política do '20% time', permitindo que os funcionários usem parte do tempo para projetos pessoais. Ideias como Gmail e AdSense nasceram assim. Sabia que o lema interno da empresa, por muitos anos, foi 'Don't be evil' — ou 'Não seja mau'?",
+    "palavras_chave": ["google", "inovação", "cultura empresarial", "criatividade", "produtividade"]
+  },
+  {
+    "pergunta": "Por que a Apple aposta tanto no ecossistema fechado de produtos?",
+    "resposta": "O ecossistema fechado da Apple — onde hardware, software e serviços são totalmente integrados — garante desempenho e experiência uniformes. Essa estratégia fideliza o usuário. Sabia que a Apple ganha tanto com serviços (como o iCloud e o Apple Music) quanto com a venda de iPhones?",
+    "palavras_chave": ["apple", "ecossistema", "tecnologia", "design", "serviços digitais"]
+  },
+  {
+    "pergunta": "O que tornou o LinkedIn tão importante para o mundo corporativo?",
+    "resposta": "O LinkedIn transformou o networking profissional em algo digital e global. Ele conecta pessoas, empresas e oportunidades de emprego, e ainda serve como plataforma de aprendizado e branding pessoal. Sabia que o LinkedIn foi criado por Reid Hoffman, que também fazia parte da máfia do PayPal?",
+    "palavras_chave": ["linkedin", "rede profissional", "networking", "reid hoffman", "empregos"]
+  },
+  {
+    "pergunta": "Como a SpaceX mudou o setor aeroespacial?",
+    "resposta": "A SpaceX, fundada por Elon Musk, revolucionou o setor ao desenvolver foguetes reutilizáveis, reduzindo custos e tornando o espaço mais acessível. Ela também é pioneira no envio de missões privadas à Estação Espacial Internacional. Sabia que o foguete Falcon 9 foi o primeiro a pousar verticalmente após o lançamento?",
+    "palavras_chave": ["spacex", "foguetes", "espaço", "inovação", "elon musk"]
+  },
+  {
+    "pergunta": "Por que o Instagram se tornou tão importante para o marketing digital?",
+    "resposta": "O Instagram mudou a forma como marcas e pessoas comunicam visualmente. Seu foco em imagens e vídeos curtos criou um novo tipo de influência online. Sabia que a Meta comprou o Instagram por 1 bilhão de dólares em 2012, quando tinha apenas 13 funcionários?",
+    "palavras_chave": ["instagram", "marketing digital", "meta", "redes sociais", "influência"]
+  },
+  {
+    "pergunta": "Como a cultura de 'garagens' virou símbolo do Vale do Silício?",
+    "resposta": "A ideia de começar um negócio em uma garagem virou símbolo de humildade e criatividade. HP, Apple e Google nasceram literalmente em garagens, mostrando que grandes ideias podem surgir em qualquer lugar. Sabia que há roteiros turísticos só para visitar essas garagens históricas na Califórnia?",
+    "palavras_chave": ["vale do silício", "garagem", "empreendedorismo", "inovação", "história"]
+  },
+  {
+    "pergunta": "O que é o modelo de negócios freemium e como ele é usado por empresas de tecnologia?",
+    "resposta": "O modelo freemium oferece uma versão gratuita de um produto digital com recursos limitados e cobra por funções avançadas. É usado por Spotify, Zoom e Dropbox, por exemplo. Sabia que o termo surgiu da junção de 'free' e 'premium'?",
+    "palavras_chave": ["freemium", "modelo de negócio", "spotify", "zoom", "economia digital"]
+  },
+  {
+    "pergunta": "Como o Airbnb redefiniu o setor de hospedagem?",
+    "resposta": "O Airbnb nasceu de uma ideia simples: alugar espaço extra em casa para viajantes. A plataforma transformou o turismo e criou uma economia de compartilhamento. Sabia que o nome original era 'AirBed & Breakfast', porque os fundadores começaram oferecendo colchões infláveis na sala de estar?",
+    "palavras_chave": ["airbnb", "hospedagem", "economia compartilhada", "turismo", "inovação"]
+  },
+  {
+    "pergunta": "Qual é a influência da cultura do design thinking nas empresas do Vale do Silício?",
+    "resposta": "O design thinking é uma metodologia centrada no usuário e usada para resolver problemas complexos com criatividade. Empresas como IDEO e Apple aplicam essa abordagem em novos produtos. Sabia que o termo se popularizou graças à escola de design de Stanford, a d.school?",
+    "palavras_chave": ["design thinking", "inovação", "vale do silício", "criatividade", "usuário"]
+  },
+  {
+    "pergunta": "Como o Twitter influenciou a comunicação em tempo real na internet?",
+    "resposta": "O Twitter revolucionou o modo de consumir notícias e compartilhar opiniões, tornando-se um espaço para debates instantâneos e mobilizações sociais. Sabia que o primeiro tweet da história dizia apenas 'just setting up my twttr'?",
+    "palavras_chave": ["twitter", "comunicação", "redes sociais", "internet", "tempo real"]
+  },
+  {
+    "pergunta": "O que diferencia a cultura de inovação do Vale do Silício da de outros países?",
+    "resposta": "Enquanto muitos lugares valorizam estabilidade e hierarquia, o Vale do Silício valoriza risco, velocidade e aprendizado. Essa liberdade criativa atrai talentos de todo o mundo. Sabia que mais da metade dos fundadores de startups no Vale são imigrantes?",
+    "palavras_chave": ["vale do silício", "inovação", "cultura", "empreendedorismo", "globalização"]
+  },
+  {
+    "pergunta": "Por que o Vale do Silício também é criticado por questões éticas?",
+    "resposta": "Apesar da inovação, muitas Big Techs enfrentam críticas por monopólios, privacidade de dados e influência política. O debate sobre regulação é crescente. Sabia que a União Europeia foi uma das primeiras regiões a multar empresas de tecnologia por uso indevido de informações pessoais?",
+    "palavras_chave": ["ética", "big techs", "privacidade", "regulação", "dados"]
+  },
+  {
+    "pergunta": "Quem é Sundar Pichai e como ele chegou à liderança do Google?",
+    "resposta": "Sundar Pichai é um engenheiro indiano que entrou no Google em 2004 e rapidamente se destacou ao liderar o desenvolvimento do navegador Chrome, hoje um dos mais usados do mundo. Em 2015, tornou-se CEO da empresa e, mais tarde, da Alphabet. Sua gestão é marcada pela ênfase em IA e sustentabilidade. Sabia que Pichai cresceu em uma casa que nem tinha telefone e hoje comanda uma das maiores empresas do planeta?",
+    "palavras_chave": ["sundar pichai", "google", "alphabet", "liderança", "inovação"]
+  },
+  {
+    "pergunta": "Como o Chrome mudou a forma como navegamos na internet?",
+    "resposta": "Lançado em 2008, o Google Chrome trouxe velocidade, simplicidade e segurança à navegação online. Seu código aberto influenciou outros navegadores, como o Microsoft Edge e o Brave. Sabia que o nome 'Chrome' foi escolhido porque os desenvolvedores queriam algo rápido e chamativo, como o metal cromado?",
+    "palavras_chave": ["google chrome", "navegador", "internet", "tecnologia", "inovação"]
+  },
+  {
+    "pergunta": "Por que o Vale do Silício atrai tantos talentos internacionais?",
+    "resposta": "O Vale do Silício é um ímã para profissionais do mundo todo por oferecer oportunidades, meritocracia e um ambiente que valoriza ideias novas. Cerca de 60% das startups da região têm pelo menos um fundador estrangeiro. Sabia que muitos empreendedores que moldaram o setor tecnológico — como Sergey Brin, do Google — são imigrantes?",
+    "palavras_chave": ["vale do silício", "imigração", "talentos", "inovação", "empreendedorismo"]
+  },
+  {
+    "pergunta": "Como o sistema Android conquistou o mercado de smartphones?",
+    "resposta": "O Android, adquirido pelo Google em 2005, se tornou o sistema operacional móvel mais usado do mundo. Sua base aberta permitiu que diversas fabricantes o adotassem, criando um ecossistema flexível. Sabia que o mascote verde do Android foi criado por uma designer russa chamada Irina Blok e que o design foi liberado como código aberto?",
+    "palavras_chave": ["android", "google", "smartphones", "sistema operacional", "tecnologia"]
+  },
+  {
+    "pergunta": "O que fez o YouTube se tornar uma das plataformas mais influentes da história digital?",
+    "resposta": "O YouTube mudou a relação das pessoas com a mídia ao permitir que qualquer um publicasse vídeos e alcançasse milhões de visualizações. Ele criou novos tipos de carreira, como os influenciadores digitais. Sabia que o primeiro vídeo da história do YouTube foi postado por um dos fundadores, Jawed Karim, no zoológico de San Diego?",
+    "palavras_chave": ["youtube", "vídeos", "internet", "influenciadores", "plataforma digital"]
+  },
+  {
+    "pergunta": "Como a Apple conseguiu transformar tecnologia em estilo de vida?",
+    "resposta": "A Apple elevou seus produtos à categoria de objetos culturais. O design elegante, a experiência do usuário e o marketing emocional criaram uma comunidade de fãs fiéis. Sabia que a loja da Apple na 5ª Avenida, em Nova York, é uma das mais visitadas do mundo — mesmo por quem não vai comprar nada?",
+    "palavras_chave": ["apple", "design", "marketing", "tecnologia", "estilo de vida"]
+  },
+  {
+    "pergunta": "Qual foi a importância de Steve Wozniak na criação da Apple?",
+    "resposta": "Steve Wozniak, o 'Woz', foi o gênio técnico por trás dos primeiros computadores da Apple. Enquanto Steve Jobs tinha visão de mercado, Wozniak era o engenheiro que fazia tudo funcionar. Sabia que ele montou o primeiro Apple I manualmente, com peças que custaram menos de mil dólares?",
+    "palavras_chave": ["steve wozniak", "apple", "engenharia", "computadores", "inovação"]
+  },
+  {
+    "pergunta": "Como o Vale do Silício contribuiu para o surgimento da cultura das startups?",
+    "resposta": "O Vale do Silício criou o ambiente ideal para startups: capital disponível, mentoria, incubadoras e tolerância ao erro. Essa cultura inspirou ecossistemas parecidos no mundo todo. Sabia que o termo 'startup culture' virou tema de pesquisa em universidades como Stanford e Berkeley?",
+    "palavras_chave": ["startups", "vale do silício", "empreendedorismo", "inovação", "cultura"]
+  },
+  {
+    "pergunta": "Qual foi a visão de Jeff Bezos ao criar a Amazon?",
+    "resposta": "Jeff Bezos queria construir 'a loja de tudo'. Sua obsessão pelo cliente e pela eficiência levou a Amazon a dominar o e-commerce mundial. Sabia que Bezos escolheu o nome Amazon porque começava com a letra A e remetia ao maior rio do mundo, simbolizando grandeza?",
+    "palavras_chave": ["jeff bezos", "amazon", "e-commerce", "negócios", "inovação"]
+  },
+  {
+    "pergunta": "Como o sistema de recomendações da Amazon influencia o consumo online?",
+    "resposta": "Os algoritmos da Amazon analisam histórico de compras e navegação para sugerir produtos com alta probabilidade de interesse. Essa personalização aumentou as vendas e redefiniu o marketing digital. Sabia que cerca de 35% das compras na Amazon vêm dessas recomendações automáticas?",
+    "palavras_chave": ["amazon", "algoritmos", "personalização", "consumo", "marketing digital"]
+  },
+  {
+    "pergunta": "Por que o LinkedIn se tornou essencial para recrutadores e empresas?",
+    "resposta": "O LinkedIn se tornou uma ferramenta indispensável para encontrar talentos, divulgar vagas e analisar perfis profissionais. Ele também permite a construção de marca pessoal. Sabia que o LinkedIn ultrapassou 1 bilhão de usuários em 2024?",
+    "palavras_chave": ["linkedin", "recrutamento", "profissional", "emprego", "marca pessoal"]
+  },
+  {
+    "pergunta": "O que foi a bolha da internet e como ela afetou o Vale do Silício?",
+    "resposta": "Entre 1995 e 2001, centenas de startups de internet surgiram com promessas de lucros rápidos, mas poucas tinham modelos de negócio sólidos. Quando o mercado percebeu isso, a bolha estourou, derrubando ações e fechando empresas. Sabia que foi após essa crise que surgiram gigantes como Google e Facebook, com propostas mais sustentáveis?",
+    "palavras_chave": ["bolha da internet", "startups", "vale do silício", "crise", "tecnologia"]
+  },
+  {
+    "pergunta": "Como a cultura das Big Techs está moldando o futuro do trabalho?",
+    "resposta": "Empresas como Google e Meta popularizaram o home office, os escritórios abertos e o foco no bem-estar dos funcionários. Essas práticas influenciam empresas de todo o mundo. Sabia que o conceito de 'campus tecnológico' nasceu justamente com o Googleplex?",
+    "palavras_chave": ["big techs", "trabalho", "inovação", "cultura empresarial", "googleplex"]
+  },
+  {
+    "pergunta": "Por que o Vale do Silício é considerado um ambiente meritocrático?",
+    "resposta": "A região valoriza ideias e resultados mais do que títulos ou cargos. Um bom projeto pode atrair milhões em investimento, mesmo vindo de jovens recém-formados. Sabia que o lema não oficial do Vale é 'move fast and break things' — ou seja, 'ande rápido e quebre paradigmas'?",
+    "palavras_chave": ["vale do silício", "meritocracia", "inovação", "empreendedorismo", "investimento"]
+  },
+  {
+    "pergunta": "Como o Google Maps mudou a forma de se locomover nas cidades?",
+    "resposta": "O Google Maps tornou o acesso a mapas e rotas algo instantâneo, substituindo guias impressos e até GPS dedicados. Ele também integra informações de trânsito em tempo real. Sabia que os carros do Street View já percorreram mais de 16 milhões de quilômetros pelo mundo?",
+    "palavras_chave": ["google maps", "navegação", "transporte", "tecnologia", "mobilidade"]
+  },
+  {
+    "pergunta": "Como o TikTok desafia o domínio das empresas do Vale do Silício?",
+    "resposta": "O TikTok, criado na China, ganhou o mundo com vídeos curtos e algoritmos precisos de recomendação. Ele forçou empresas como Meta e YouTube a repensarem seus formatos. Sabia que o TikTok foi o aplicativo mais baixado do planeta entre 2020 e 2023?",
+    "palavras_chave": ["tiktok", "vídeos curtos", "redes sociais", "algoritmos", "concorrência"]
+  },
+  {
+    "pergunta": "Por que o Vale do Silício investe tanto em inteligência artificial?",
+    "resposta": "A IA é vista como o próximo salto tecnológico, capaz de automatizar tarefas, personalizar experiências e criar novos mercados. Empresas como Google, Microsoft e Meta lideram essa corrida. Sabia que a cada ano o investimento global em IA supera 200 bilhões de dólares?",
+    "palavras_chave": ["inteligência artificial", "vale do silício", "inovação", "automação", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é o conceito de 'unicórnio' no mundo das startups?",
+    "resposta": "Uma 'startup unicórnio' é uma empresa de capital fechado avaliada em mais de 1 bilhão de dólares. O termo surgiu porque esse tipo de sucesso era raro, mas hoje há centenas delas, especialmente no Vale do Silício. Sabia que o termo foi criado pela investidora Aileen Lee em 2013?",
+    "palavras_chave": ["unicórnio", "startups", "vale do silício", "investimento", "mercado"]
+  },
+  {
+    "pergunta": "Como o WhatsApp se tornou essencial na comunicação global?",
+    "resposta": "O WhatsApp conquistou usuários com simplicidade, criptografia e chamadas gratuitas. Criado por ex-funcionários do Yahoo, foi comprado pelo Facebook em 2014. Sabia que o WhatsApp tem mais de 2,7 bilhões de usuários ativos e é o app de mensagens mais usado do mundo?",
+    "palavras_chave": ["whatsapp", "comunicação", "mensagens", "meta", "tecnologia"]
+  },
+  {
+    "pergunta": "Qual é o papel das incubadoras e aceleradoras no ecossistema do Vale do Silício?",
+    "resposta": "Essas instituições ajudam startups a crescer oferecendo mentoria, investimento e conexões. Programas como o Y Combinator lançaram empresas como Airbnb e Dropbox. Sabia que a taxa de sucesso das startups que passam por aceleradoras é mais de três vezes maior que a média?",
+    "palavras_chave": ["aceleradoras", "startups", "y combinator", "mentoria", "vale do silício"]
+  },
+  {
+    "pergunta": "Como o conceito de open source transformou o mundo da tecnologia?",
+    "resposta": "O software de código aberto permitiu que desenvolvedores do mundo inteiro colaborassem livremente, criando sistemas robustos como o Linux e o Android. Essa filosofia nasceu no Vale do Silício e se espalhou. Sabia que a maioria dos servidores da internet roda em software open source?",
+    "palavras_chave": ["open source", "software livre", "colaboração", "inovação", "tecnologia"]
+  },
+  {
+    "pergunta": "Por que a sustentabilidade se tornou prioridade para as Big Techs?",
+    "resposta": "Empresas como Google e Apple estão investindo em energia limpa e metas de carbono zero. Isso é tanto uma questão ambiental quanto de imagem pública. Sabia que o data center do Google na Finlândia usa água do mar para resfriar os servidores?",
+    "palavras_chave": ["sustentabilidade", "big techs", "energia limpa", "meio ambiente", "inovação"]
+  },
+  {
+    "pergunta": "Como o Uber revolucionou o transporte urbano?",
+    "resposta": "O Uber transformou o modo de se deslocar nas cidades, conectando motoristas e passageiros via aplicativo. Ele inaugurou a chamada 'economia sob demanda'. Sabia que a ideia surgiu quando os fundadores não conseguiam encontrar um táxi em Paris?",
+    "palavras_chave": ["uber", "transporte", "mobilidade urbana", "economia sob demanda", "inovação"]
+  },
+  {
+    "pergunta": "Qual foi a contribuição da Oracle para o desenvolvimento de bancos de dados?",
+    "resposta": "A Oracle foi uma das pioneiras na criação de sistemas de bancos de dados relacionais, fundamentais para o armazenamento e processamento de grandes volumes de informações. Sabia que seu fundador, Larry Ellison, batizou a empresa em homenagem a um projeto secreto da CIA com o mesmo nome?",
+    "palavras_chave": ["oracle", "banco de dados", "larry ellison", "software", "tecnologia"]
+  },
+  {
+    "pergunta": "Por que a NVIDIA é considerada uma das empresas mais importantes da era da IA?",
+    "resposta": "A NVIDIA começou produzindo placas gráficas para jogos, mas seus chips (GPUs) se tornaram essenciais para treinar inteligências artificiais. Hoje, é uma das empresas mais valiosas do setor. Sabia que o ChatGPT e outros modelos de IA são treinados em GPUs da NVIDIA?",
+    "palavras_chave": ["nvidia", "gpu", "inteligência artificial", "hardware", "inovação"]
+  },
+  {
+    "pergunta": "Como o conceito de coworking se espalhou a partir do Vale do Silício?",
+    "resposta": "O coworking surgiu como resposta à necessidade de espaços flexíveis e colaborativos para startups. Hoje, é uma tendência global. Sabia que o primeiro espaço de coworking moderno foi criado em San Francisco em 2005?",
+    "palavras_chave": ["coworking", "startups", "vale do silício", "colaboração", "trabalho"]
+  },
+  {
+    "pergunta": "Por que o Vale do Silício é considerado um laboratório social da era digital?",
+    "resposta": "Mais do que um centro econômico, o Vale do Silício é um espaço de experimentação social. Modelos de trabalho, consumo e comunicação nascem ali e se espalham pelo mundo. Sabia que até conceitos como mindfulness corporativo ganharam força graças a empresas da região?",
+    "palavras_chave": ["vale do silício", "sociedade digital", "inovação", "trabalho", "cultura"]
+  },
+  {
+    "pergunta": "Como a cultura de inovação do Google influenciou outras empresas?",
+    "resposta": "O Google introduziu práticas como o tempo livre para projetos pessoais e os escritórios criativos que estimulam a colaboração. Essas ideias se espalharam para outras companhias de tecnologia e até fora do setor. Sabia que produtos como o Gmail e o Google News nasceram justamente desses projetos experimentais?",
+    "palavras_chave": ["google", "inovação", "cultura empresarial", "produtividade", "criatividade"]
+  },
+  {
+    "pergunta": "O que é a Alphabet e por que o Google criou essa estrutura?",
+    "resposta": "A Alphabet foi criada em 2015 como uma empresa-mãe para reorganizar o Google e seus diversos projetos, como Waymo e DeepMind. Isso permitiu mais autonomia e transparência em cada área. Sabia que o nome ‘Alphabet’ simboliza o conjunto de todas as letras — ou seja, todas as possibilidades de inovação?",
+    "palavras_chave": ["alphabet", "google", "reestruturação", "inovação", "organização"]
+  },
+  {
+    "pergunta": "Como o Facebook mudou a forma de comunicação entre pessoas?",
+    "resposta": "O Facebook revolucionou a comunicação ao conectar bilhões de pessoas em uma única rede. Ele redefiniu a ideia de amizade, compartilhamento e notícia. Sabia que, originalmente, o site era restrito aos estudantes de Harvard e chamava-se 'Thefacebook'?",
+    "palavras_chave": ["facebook", "comunicação", "redes sociais", "conexão", "tecnologia"]
+  },
+  {
+    "pergunta": "Qual foi o impacto da compra do Instagram pela Meta?",
+    "resposta": "Quando o Facebook (hoje Meta) comprou o Instagram em 2012 por 1 bilhão de dólares, a rede ainda era pequena. A aquisição se mostrou estratégica: o Instagram se tornou uma das plataformas mais populares do mundo. Sabia que, à época, muitos investidores acharam o preço absurdo?",
+    "palavras_chave": ["instagram", "meta", "aquisição", "redes sociais", "estratégia"]
+  },
+  {
+    "pergunta": "Como o PayPal abriu caminho para o comércio digital?",
+    "resposta": "O PayPal simplificou as transações online, tornando as compras pela internet mais seguras e acessíveis. Foi um dos primeiros sistemas de pagamento digital massivo. Sabia que vários de seus fundadores — como Elon Musk e Peter Thiel — formaram o chamado 'PayPal Mafia', grupo que criou outras gigantes do Vale do Silício?",
+    "palavras_chave": ["paypal", "pagamentos digitais", "elon musk", "peter thiel", "comércio eletrônico"]
+  },
+  {
+    "pergunta": "O que é o conceito de 'fail fast' adotado pelas startups?",
+    "resposta": "O 'fail fast' incentiva testar ideias rapidamente e aprender com os erros sem medo. Essa filosofia, típica do Vale do Silício, reduz perdas e acelera a inovação. Sabia que esse pensamento foi inspirado no método científico — experimentar, errar, ajustar e tentar de novo?",
+    "palavras_chave": ["fail fast", "startups", "inovação", "empreendedorismo", "vale do silício"]
+  },
+  {
+    "pergunta": "Como a Tesla impulsionou o mercado de carros elétricos?",
+    "resposta": "A Tesla quebrou o estigma de que carros elétricos eram lentos ou sem graça. Com design arrojado e tecnologia avançada, mostrou que sustentabilidade e performance podem andar juntas. Sabia que o primeiro modelo da marca foi baseado em um Lotus Elise modificado?",
+    "palavras_chave": ["tesla", "carros elétricos", "elon musk", "sustentabilidade", "inovação"]
+  },
+  {
+    "pergunta": "Por que o Google investe tanto em inteligência artificial?",
+    "resposta": "O Google vê a IA como a tecnologia que definirá o futuro — desde buscas até saúde e energia. Com a DeepMind e o Gemini, a empresa quer liderar essa nova era. Sabia que o AlphaGo, da DeepMind, foi o primeiro sistema a vencer um campeão mundial de Go, um jogo milenar chinês?",
+    "palavras_chave": ["google", "inteligência artificial", "deepmind", "alphaGo", "inovação"]
+  },
+  {
+    "pergunta": "Qual é a importância da Stanford University para o Vale do Silício?",
+    "resposta": "Stanford foi o berço intelectual do Vale do Silício. Muitos fundadores de grandes empresas estudaram lá, e a universidade incentiva o empreendedorismo. Sabia que os fundadores do Google criaram o mecanismo de busca original como parte de um projeto de doutorado em Stanford?",
+    "palavras_chave": ["stanford", "vale do silício", "universidade", "empreendedorismo", "educação"]
+  },
+  {
+    "pergunta": "Como a cultura hacker ajudou a moldar a tecnologia moderna?",
+    "resposta": "A cultura hacker valoriza curiosidade, experimentação e quebra de limites tecnológicos. Embora às vezes associada a crimes digitais, ela também impulsionou a inovação. Sabia que o termo 'hacker' originalmente significava 'alguém habilidoso em resolver problemas'?",
+    "palavras_chave": ["cultura hacker", "inovação", "tecnologia", "programação", "curiosidade"]
+  },
+  {
+    "pergunta": "O que é o Vale do Silício 2.0?",
+    "resposta": "‘Vale do Silício 2.0’ se refere à expansão do modelo de inovação para outros lugares — como Austin, Toronto e Bangalore — com novas visões e tecnologias. Sabia que cidades como Shenzhen, na China, são chamadas de 'Silicon Valley do Oriente'?",
+    "palavras_chave": ["vale do silício", "inovação", "tecnologia", "globalização", "startups"]
+  },
+  {
+    "pergunta": "Como o Netflix transformou a indústria do entretenimento?",
+    "resposta": "A Netflix mudou a forma de consumir filmes e séries, introduzindo o streaming e o conceito de maratonar conteúdo. Ela também investe em produções originais premiadas. Sabia que a empresa começou alugando DVDs pelo correio antes de apostar na internet?",
+    "palavras_chave": ["netflix", "streaming", "entretenimento", "inovação", "séries"]
+  },
+  {
+    "pergunta": "Por que o Google aposta em computação quântica?",
+    "resposta": "A computação quântica promete resolver problemas impossíveis para computadores tradicionais. O Google investe pesado nessa área, buscando superar barreiras de processamento. Sabia que em 2019 o Google anunciou ter alcançado a 'supremacia quântica' em um experimento?",
+    "palavras_chave": ["computação quântica", "google", "tecnologia", "inovação", "processamento"]
+  },
+  {
+    "pergunta": "Como o Airbnb revolucionou a forma de viajar?",
+    "resposta": "O Airbnb permitiu que qualquer pessoa alugasse um espaço, transformando casas comuns em hospedagens. Criou um novo modelo de economia compartilhada. Sabia que os fundadores começaram o negócio alugando colchões de ar na própria sala para pagar o aluguel?",
+    "palavras_chave": ["airbnb", "viagens", "hospedagem", "economia compartilhada", "inovação"]
+  },
+  {
+    "pergunta": "Por que a cultura do Vale do Silício valoriza tanto a colaboração?",
+    "resposta": "Empresas e profissionais compartilham ideias e projetos em um ecossistema aberto, acreditando que o sucesso coletivo impulsiona a inovação individual. Sabia que até concorrentes se unem em eventos e hackathons para resolver desafios globais?",
+    "palavras_chave": ["vale do silício", "colaboração", "inovação", "comunidade", "empreendedorismo"]
+  },
+  {
+    "pergunta": "Qual é o papel dos fundos de venture capital no Vale do Silício?",
+    "resposta": "Os fundos de venture capital financiam startups promissoras em troca de participação acionária. Eles são o motor financeiro do ecossistema de inovação. Sabia que empresas como Apple, Google e Facebook receberam investimento de risco antes mesmo de darem lucro?",
+    "palavras_chave": ["venture capital", "investimento", "startups", "vale do silício", "financiamento"]
+  },
+  {
+    "pergunta": "Como o Apple Park reflete a filosofia da empresa?",
+    "resposta": "O Apple Park, sede circular da Apple em Cupertino, simboliza perfeição, sustentabilidade e design minimalista — marcas registradas da empresa. Sabia que Steve Jobs participou pessoalmente do projeto e escolheu o tipo de árvore plantada no local?",
+    "palavras_chave": ["apple park", "apple", "design", "sustentabilidade", "arquitetura"]
+  },
+  {
+    "pergunta": "Por que as Big Techs enfrentam críticas sobre privacidade e monopólio?",
+    "resposta": "O tamanho e a influência de empresas como Google, Amazon e Meta levantam debates sobre controle de dados e concorrência desleal. Sabia que a União Europeia aplicou bilhões em multas por práticas antitruste?",
+    "palavras_chave": ["big techs", "privacidade", "monopólio", "regulação", "dados"]
+  },
+  {
+    "pergunta": "Como o Vale do Silício está se adaptando à nova era da IA generativa?",
+    "resposta": "A chegada da IA generativa abriu uma corrida entre Google, OpenAI e outras empresas. Elas buscam equilibrar inovação com ética e responsabilidade. Sabia que o termo 'IA generativa' se popularizou depois do lançamento do ChatGPT, em 2022?",
+    "palavras_chave": ["ia generativa", "vale do silício", "openai", "ética", "inovação"]
+  },
+  {
+    "pergunta": "O que diferencia o ambiente de trabalho das empresas do Vale do Silício?",
+    "resposta": "Ambientes descontraídos, horários flexíveis e foco na criatividade são marcas registradas. Isso atrai talentos e estimula a produtividade. Sabia que a Google foi pioneira em oferecer comida gratuita e áreas de lazer nos escritórios?",
+    "palavras_chave": ["vale do silício", "trabalho", "inovação", "cultura empresarial", "criatividade"]
+  },
+  {
+    "pergunta": "Como o conceito de metaverso está sendo desenvolvido pelas Big Techs?",
+    "resposta": "O metaverso propõe uma internet imersiva, com realidade virtual e aumentada. Meta, Apple e Microsoft estão competindo para definir seus padrões. Sabia que o termo 'metaverso' vem de um romance de ficção científica dos anos 1990 chamado *Snow Crash*?",
+    "palavras_chave": ["metaverso", "realidade virtual", "meta", "inovação", "tecnologia"]
+  },
+  {
+    "pergunta": "Qual é o impacto ambiental dos data centers das Big Techs?",
+    "resposta": "Os data centers consomem muita energia e água para resfriamento. As empresas buscam reduzir esse impacto usando fontes renováveis e inteligência artificial para eficiência. Sabia que o Google já opera 100% com energia renovável desde 2017?",
+    "palavras_chave": ["data centers", "energia", "sustentabilidade", "big techs", "meio ambiente"]
+  },
+  {
+    "pergunta": "Como o LinkedIn se tornou uma rede de aprendizado além do emprego?",
+    "resposta": "Além de conectar profissionais, o LinkedIn virou uma plataforma de aprendizado com cursos, artigos e comunidades. Sabia que o LinkedIn Learning oferece mais de 16 mil cursos online em várias áreas?",
+    "palavras_chave": ["linkedin", "aprendizado", "profissional", "rede social", "educação"]
+  },
+  {
+    "pergunta": "Qual é o papel das mulheres no ecossistema do Vale do Silício?",
+    "resposta": "Cada vez mais mulheres ocupam cargos de liderança e fundam startups, apesar dos desafios de gênero ainda presentes. Sabia que Susan Wojcicki, ex-CEO do YouTube, foi uma das primeiras funcionárias do Google e alugou sua garagem para os fundadores?",
+    "palavras_chave": ["mulheres", "vale do silício", "liderança", "igualdade", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o conceito de 'moonshot' inspira as grandes empresas de tecnologia?",
+    "resposta": "‘Moonshot’ define projetos ousados, de alto risco e alto impacto — como carros autônomos e energia limpa. Empresas do Vale do Silício criaram laboratórios só para eles. Sabia que o termo vem da missão Apollo 11, que levou o homem à Lua?",
+    "palavras_chave": ["moonshot", "inovação", "tecnologia", "vale do silício", "projetos"]
+  },
+  {
+    "pergunta": "O que podemos aprender com a filosofia das Big Techs?",
+    "resposta": "As Big Techs mostram que pensar grande, testar rápido e aprender com erros pode transformar ideias em revoluções. Mas também ensinam a importância da ética e do impacto social. Sabia que muitas empresas do Vale do Silício hoje têm equipes inteiras dedicadas à responsabilidade digital?",
+    "palavras_chave": ["big techs", "filosofia", "inovação", "ética", "impacto social"]
+  }
+]

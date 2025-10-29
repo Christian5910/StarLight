@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "O que é uma escala musical?",
+    "resposta": "Uma escala musical é uma sequência de notas organizadas em ordem crescente ou decrescente, que serve como base para criar melodias e harmonias. Pense nela como uma escada sonora: cada degrau é uma nota, e a forma como você sobe ou desce define o clima da música. Por exemplo, a escala maior soa alegre, enquanto a menor pode parecer mais melancólica. Na prática, a escala de dó maior, que vai de dó a dó na oitava seguinte, é uma das mais usadas. A escolha da escala influencia tudo, desde uma sinfonia de Beethoven até um solo de guitarra no rock. Curiosamente, as escalas não são universais: na música indiana, por exemplo, as ragas usam microtons, que estão fora das escalas ocidentais. Sabia que a escala pentatônica, com apenas cinco notas, é usada em quase todas as culturas musicais, do blues ao folclore chinês?",
+    "palavras_chave": ["escala", "notas", "melodia", "harmonia", "pentatônica"]
+  },
+  {
+    "pergunta": "Por que o círculo de quintas é importante na teoria musical?",
+    "resposta": "O círculo de quintas é como um mapa que organiza as tonalidades musicais, mostrando como elas se relacionam. Cada passo no círculo avança uma quinta justa, como de dó para sol, e isso ajuda a entender progressões harmônicas e transições entre tons. É uma ferramenta essencial para compositores e improvisadores, porque facilita modular entre tonalidades e criar harmonias coerentes. Por exemplo, na música pop, muitas progressões seguem o círculo, como C-G-Am-F. Ele também ajuda a memorizar armaduras de clave. A análise crítica aqui é que o círculo pode limitar a criatividade se usado de forma rígida, mas é um ponto de partida poderoso. Sabia que o círculo de quintas foi formalizado no século XVIII, mas sua lógica já aparecia na música de Bach?",
+    "palavras_chave": ["círculo de quintas", "tonalidade", "harmonia", "progressão", "modulação"]
+  },
+  {
+    "pergunta": "O que diferencia uma nota sustenida de uma bemol?",
+    "resposta": "Na teoria musical, uma nota sustenida (#) é elevada em meio tom, enquanto uma nota bemol (b) é abaixada em meio tom. Por exemplo, dó sustenido é um pouco mais agudo que dó, e ré bemol é um pouco mais grave que ré. Curiosamente, em um piano, dó sustenido e ré bemol são a mesma tecla, mas o nome depende do contexto da escala ou acorde. Isso se chama enarmonia. Na prática, compositores escolhem o nome com base na tonalidade para facilitar a leitura da partitura. A análise aqui é que a enarmonia pode confundir iniciantes, mas é essencial para entender modulações. Sabia que em algumas culturas, como na música árabe, há intervalos menores que meio tom, que não usamos na música ocidental?",
+    "palavras_chave": ["sustenido", "bemol", "enarmonia", "escala", "intervalo"]
+  },
+  {
+    "pergunta": "Como funciona a notação musical?",
+    "resposta": "A notação musical é o sistema que usamos para escrever música, como uma linguagem universal para músicos. Ela usa símbolos, como notas, pausas, claves e linhas de pentagrama, para indicar altura, ritmo e dinâmica. Por exemplo, uma semínima em dó no pentagrama diz ao músico para tocar a nota dó por um tempo específico. Esse sistema evoluiu na Europa medieval, com Guido d’Arezzo, que criou as bases da notação moderna. É incrível como ele permite que uma obra de Mozart seja tocada séculos depois! A crítica é que a notação ocidental pode ser limitada para músicas não ocidentais, como as que usam microtons. Sabia que, antes da notação moderna, os monges usavam neumas, que eram mais como gestos visuais do que notas precisas?",
+    "palavras_chave": ["notação", "pentagrama", "clave", "ritmo", "neuma"]
+  },
+  {
+    "pergunta": "O que é um intervalo musical?",
+    "resposta": "Um intervalo é a distância entre duas notas, medida em tons e semitons. Por exemplo, de dó a mi é uma terça maior, com dois tons de distância. Intervalos são os blocos de construção de escalas e acordes, e eles criam o 'sentimento' da música – uma terça menor soa triste, enquanto uma quinta justa soa estável. Na prática, compositores como Chopin usavam intervalos dissonantes para criar tensão. A análise crítica é que intervalos são percebidos de forma diferente em culturas musicais distintas, o que enriquece a música global. Sabia que o intervalo de trítono, conhecido como 'diabolus in musica', já foi considerado perturbador na Idade Média?",
+    "palavras_chave": ["intervalo", "tons", "semitons", "acorde", "trítono"]
+  },
+  {
+    "pergunta": "O que define um acorde maior?",
+    "resposta": "Um acorde maior é formado por três ou mais notas tocadas juntas, com uma estrutura específica: a tônica, uma terça maior e uma quinta justa. Por exemplo, o acorde de dó maior tem dó, mi e sol. Ele soa 'alegre' porque a distância entre as notas cria uma harmonia estável. Na música pop, acordes maiores são a base de muitas canções felizes, como 'I’m a Believer' dos Monkees. A análise é que, embora simples, esses acordes podem ser combinados de formas complexas para criar emoção. Sabia que acordes maiores são comuns até em hinos nacionais, como o do Brasil, por transmitirem força e otimismo?",
+    "palavras_chave": ["acorde", "maior", "tônica", "terça", "quinta"]
+  },
+  {
+    "pergunta": "Como o ritmo influencia uma música?",
+    "resposta": "O ritmo é o pulso da música, o que define como as notas são organizadas no tempo. Ele cria a 'batida' que faz você querer dançar ou bater o pé. Por exemplo, um samba tem um ritmo sincopado, com ênfase nos tempos fracos, enquanto uma valsa segue um compasso ternário, suave e fluido. O ritmo guia a energia da música e pode mudar completamente sua vibe. A crítica é que ritmos muito repetitivos podem soar monótonos, mas variações sutis mantêm o interesse. Sabia que o ritmo 4/4, chamado de compasso comum, é usado em cerca de 90% das músicas pop ocidentais?",
+    "palavras_chave": ["ritmo", "compasso", "síncope", "batida", "tempo"]
+  },
+  {
+    "pergunta": "O que é uma armadura de clave?",
+    "resposta": "A armadura de clave é um conjunto de sustenidos ou bemóis no início da partitura que indica a tonalidade da música. Por exemplo, se você vê dois sustenidos (fá# e dó#), a música provavelmente está em ré maior ou si menor. Ela ajuda os músicos a saberem quais notas alterar sem precisar escrever sustenidos ou bemóis o tempo todo. É como um atalho para a leitura musical. A análise é que, embora útil, a armadura pode intimidar iniciantes. Sabia que a armadura de clave foi padronizada no período barroco, mas antes disso a notação era bem menos organizada?",
+    "palavras_chave": ["armadura", "tonalidade", "sustenido", "bemol", "partitura"]
+  },
+  {
+    "pergunta": "Por que o tempo musical é importante?",
+    "resposta": "O tempo musical, ou andamento, é a velocidade da música, medida em batidas por minuto (BPM). Ele define o clima: um allegro (rápido) pode ser animado, como em uma música de dança, enquanto um adagio (lento) é mais introspectivo, como em uma balada. Por exemplo, 'Sweet Child O’ Mine' do Guns N’ Roses tem cerca de 125 BPM, perfeito para um rock enérgico. O tempo influencia como a música é sentida e interpretada. A crítica é que um tempo mal escolhido pode desequilibrar a emoção da peça. Sabia que Beethoven era obcecado por precisão no tempo, usando um dos primeiros metrônomos?",
+    "palavras_chave": ["tempo", "andamento", "bpm", "metrônomo", "emoção"]
+  },
+  {
+    "pergunta": "O que é harmonia na música?",
+    "resposta": "Harmonia é a combinação de notas tocadas ao mesmo tempo para criar acordes e progressões que sustentam a melodia. É como o esqueleto que dá estrutura à música. Por exemplo, uma progressão como C-Am-F-G é comum no pop e cria uma sensação de resolução. A harmonia pode ser simples, como em folk, ou complexa, como no jazz. A análise é que harmonias muito previsíveis podem soar genéricas, mas inovações criam frescor. Sabia que Bach era um mestre em harmonias complexas, usando contraponto para entrelaçar vozes independentes?",
+    "palavras_chave": ["harmonia", "acordes", "progressão", "contraponto", "melodia"]
+  },
+  {
+    "pergunta": "O que é um compasso na música?",
+    "resposta": "Um compasso é uma unidade de tempo na música que organiza as batidas em grupos. Por exemplo, no compasso 4/4, cada compasso tem quatro batidas, como em ‘Bohemian Rhapsody’ do Queen. Ele ajuda os músicos a manterem o ritmo e a estrutura da peça. A análise é que compassos diferentes, como 3/4 ou 6/8, criam sensações distintas, do balanço de uma valsa à complexidade de uma bossa nova. Sabia que alguns ritmos africanos usam compassos assimétricos, como 12/8, que desafiam a métrica ocidental?",
+    "palavras_chave": ["compasso", "batida", "métrica", "ritmo", "estrutura"]
+  },
+  {
+    "pergunta": "O que é uma tonalidade em música?",
+    "resposta": "Tonalidade é o centro tonal de uma música, a nota ou acorde que parece ‘casa’, onde a música resolve. Por exemplo, uma música em dó maior gira em torno da nota dó e do acorde de dó maior. É como o tom de uma história, que guia a narrativa musical. Na prática, compositores como Mozart usavam tonalidades para criar contraste. A crítica é que tonalidades fixas podem limitar a experimentação, como na música atonal. Sabia que a tonalidade foi dominante na música ocidental até o século XX, quando Schoenberg quebrou essas regras?",
+    "palavras_chave": ["tonalidade", "tônica", "escala", "resolução", "atonalidade"]
+  },
+  {
+    "pergunta": "Como funciona a clave na notação musical?",
+    "resposta": "A clave é um símbolo no início do pentagrama que define a altura das notas. A clave de sol, por exemplo, indica que a nota na segunda linha é sol, comum para vozes agudas e violino. Já a clave de fá é usada para sons graves, como no contrabaixo. Ela organiza a leitura da partitura. A análise é que as claves são essenciais, mas podem ser um obstáculo inicial para estudantes. Sabia que existiam mais de dez claves diferentes na Idade Média, mas hoje usamos basicamente três?",
+    "palavras_chave": ["clave", "pentagrama", "notação", "altura", "partitura"]
+  },
+  {
+    "pergunta": "O que é um semitom na música?",
+    "resposta": "Um semitom é o menor intervalo entre duas notas na música ocidental, como de dó para dó sustenido. É a base para construir escalas e acordes. Por exemplo, a escala cromática é feita só de semitons. Na prática, semitons criam tensão, como em solos de guitarra de Jimi Hendrix. A análise é que o uso excessivo de semitons pode soar dissonante, mas é essencial para emoção. Sabia que, em um piano, há 12 semitons em uma oitava, formando a base da música ocidental?",
+    "palavras_chave": ["semitom", "intervalo", "cromática", "escala", "tensão"]
+  },
+  {
+    "pergunta": "O que é um acorde menor?",
+    "resposta": "Um acorde menor é formado por uma tônica, uma terça menor e uma quinta justa, criando um som mais 'triste' ou introspectivo que o acorde maior. Por exemplo, o acorde de lá menor (lá, dó, mi) é comum em baladas como ‘Hallelujah’ de Leonard Cohen. Ele evoca emoção e melancolia. A análise é que acordes menores são poderosos, mas podem soar clichês se mal usados. Sabia que a música barroca usava acordes menores para expressar lamento, como nas obras de Purcell?",
+    "palavras_chave": ["acorde", "menor", "tônica", "terça", "melancolia"]
+  },
+  {
+    "pergunta": "O que é contraponto na música?",
+    "resposta": "Contraponto é a técnica de combinar duas ou mais linhas melódicas independentes que se harmonizam. Pense em duas vozes cantando melodias diferentes, mas que soam bem juntas, como em um coral de Bach. É uma arte que exige equilíbrio entre independência e harmonia. Na prática, o contraponto enriquece a textura da música. A crítica é que pode ser complexo demais para ouvintes casuais. Sabia que o contraponto era tão valorizado no Renascimento que era ensinado como uma disciplina rigorosa?",
+    "palavras_chave": ["contraponto", "melodia", "harmonia", "bach", "textura"]
+  },
+  {
+    "pergunta": "O que é uma progressão harmônica?",
+    "resposta": "Uma progressão harmônica é uma sequência de acordes que dá direção à música, como uma história sonora. Por exemplo, a progressão I-IV-V-I (como C-F-G-C) é comum no pop e no rock. Ela cria um senso de movimento e resolução. Na análise, progressões simples são eficazes, mas podem ser previsíveis. Sabia que a progressão ‘Pachelbel’ (I-V-vi-iii-IV-I-IV-V) está em tantas músicas pop que virou até meme na internet?",
+    "palavras_chave": ["progressão", "acordes", "harmonia", "resolução", "pop"]
+  },
+  {
+    "pergunta": "O que é um modo musical?",
+    "resposta": "Um modo musical é um tipo de escala com um padrão específico de intervalos, que dá um caráter único à música. Os mais conhecidos são os modos maior e menor, mas há outros, como o dórico ou o mixolídio, usados no jazz e na música folclórica. Por exemplo, o modo frígio tem um toque ‘exótico’, comum na música flamenca. A crítica é que modos menos comuns podem ser difíceis de dominar. Sabia que os modos vêm da música da Grécia Antiga, mas foram adaptados na Idade Média para a música sacra?",
+    "palavras_chave": ["modo", "escala", "intervalo", "jazz", "folclore"]
+  },
+  {
+    "pergunta": "Como a dinâmica afeta a música?",
+    "resposta": "Dinâmica é a variação de intensidade no som, como tocar mais alto (forte) ou mais suave (piano). Ela dá emoção e expressividade, como em uma sinfonia de Tchaikovsky, que vai de sussurros a explosões sonoras. Na prática, a dinâmica guia a interpretação do músico. A análise é que dinâmicas mal aplicadas podem desequilibrar uma peça. Sabia que, no século XIX, compositores começaram a marcar dinâmicas detalhadas nas partituras, algo raro antes?",
+    "palavras_chave": ["dinâmica", "intensidade", "expressão", "forte", "piano"]
+  },
+  {
+    "pergunta": "O que é uma pausa na música?",
+    "resposta": "Uma pausa é um momento de silêncio na música, marcado na partitura com símbolos específicos, como a pausa de semínima. Ela é tão importante quanto as notas, pois cria contraste e dá espaço para a música ‘respirar’. Por exemplo, em ‘Sound of Silence’ de Simon & Garfunkel, as pausas reforçam o impacto emocional. A crítica é que pausas mal colocadas podem quebrar o fluxo. Sabia que John Cage compôs uma peça chamada 4’33”, que é literalmente minutos de silêncio, desafiando o conceito de música?",
+    "palavras_chave": ["pausa", "silêncio", "ritmo", "expressão", "contraste"]
+  },
+  {
+    "pergunta": "O que é uma oitava na música?",
+    "resposta": "Uma oitava é o intervalo entre uma nota e outra com o dobro ou metade da sua frequência, como de dó a dó. Soa como a mesma nota, mas mais aguda ou grave. É a base das escalas musicais e aparece em quase toda música ocidental. Por exemplo, em ‘Somewhere Over the Rainbow’, a melodia começa com um salto de oitava. A análise é que a oitava é universal, mas sua percepção varia entre culturas. Sabia que o cérebro humano reconhece oitavas como equivalentes, mesmo em culturas sem teoria musical formal?",
+    "palavras_chave": ["oitava", "intervalo", "frequência", "escala", "melodia"]
+  },
+  {
+    "pergunta": "O que é uma cadência na música?",
+    "resposta": "Uma cadência é uma sequência de acordes que dá um senso de finalização ou pausa na música, como um ponto final ou uma vírgula numa frase. A cadência perfeita (V-I, como G-C) soa concluída, comum em hinos. Já a cadência plagal (IV-I, como F-C) é mais suave, usada em corais. A análise é que cadências previsíveis podem ser clichês, mas são eficazes. Sabia que a ‘cadência interrompida’ (V-vi) engana o ouvinte, criando surpresa, como em algumas músicas de Beethoven?",
+    "palavras_chave": ["cadência", "acordes", "resolução", "harmonia", "surpresa"]
+  },
+  {
+    "pergunta": "O que é um arpejo?",
+    "resposta": "Um arpejo é quando as notas de um acorde são tocadas em sequência, em vez de simultaneamente. Por exemplo, em vez de tocar dó, mi e sol juntos, você toca um após o outro. É comum em harpas ou solos de guitarra, como na intro de ‘Hotel California’. Arpejos criam fluidez e movimento. A crítica é que, se mal usados, podem soar mecânicos. Sabia que o termo ‘arpejo’ vem de ‘arpa’, porque o instrumento era ideal para esse efeito?",
+    "palavras_chave": ["arpejo", "acorde", "sequência", "melodia", "guitarra"]
+  },
+  {
+    "pergunta": "O que é um metrônomo e para que serve?",
+    "resposta": "Um metrônomo é um dispositivo que marca o tempo em batidas por minuto, ajudando músicos a manterem um ritmo constante. Por exemplo, ao praticar uma peça em 120 BPM, o metrônomo faz ‘cliques’ regulares. É essencial para estudo técnico, como em escalas de piano. A análise é que ele pode tornar a prática rígida, mas é ótimo para disciplina. Sabia que o metrônomo foi inventado em 1815 por Johann Maelzel, e Beethoven foi um dos primeiros a usá-lo?",
+    "palavras_chave": ["metrônomo", "tempo", "ritmo", "prática", "batida"]
+  },
+  {
+    "pergunta": "O que é dissonância na música?",
+    "resposta": "Dissonância é quando notas ou acordes soam instáveis ou ‘tensos’, criando um efeito que pede resolução. Por exemplo, um acorde com um trítono, como dó e fá#, soa inquietante. É usado no jazz e na música contemporânea para gerar emoção. A análise é que a dissonância é subjetiva: o que é dissonante em um contexto pode ser normal em outro. Sabia que Stravinsky chocou plateias no início do século XX com dissonâncias em ‘A Sagração da Primavera’?",
+    "palavras_chave": ["dissonância", "tensão", "resolução", "acorde", "jazz"]
+  },
+  {
+    "pergunta": "O que é uma escala cromática?",
+    "resposta": "Uma escala cromática é uma sequência de notas que avança em intervalos de semitons, incluindo todas as 12 notas dentro de uma oitava. Diferente da escala diatônica, que tem sete notas, a cromática usa sustenidos e bemóis, criando um som mais fluido e expressivo. É comum em jazz e música clássica moderna, como nas obras de Debussy, para adicionar tensão ou colorido. A análise é que ela pode soar exótica, mas exige cuidado para não desorientar o ouvinte. Sabia que a escala cromática era usada na música barroca para criar efeitos dramáticos, como em passagens de Bach?",
+    "palavras_chave": ["escala cromática", "semitons", "jazz", "tensão", "debussy"]
+  },
+  {
+    "pergunta": "O que significa modulação em música?",
+    "resposta": "Modulação é a mudança de uma tonalidade para outra dentro de uma peça musical, como passar de dó maior para sol maior. Ela cria contraste e mantém o interesse, como em sinfonias de Haydn, que modulam para surpreender o ouvinte. Na prática, é como mudar o ‘centro de gravidade’ da música. A análise crítica é que modulações mal planejadas podem soar abruptas, mas quando bem feitas, elevam a emoção. Sabia que os Beatles usavam modulações sutis em músicas como ‘Penny Lane’ para dar frescor à melodia?",
+    "palavras_chave": ["modulação", "tonalidade", "transição", "harmonia", "beatles"]
+  },
+  {
+    "pergunta": "O que é uma quinta justa?",
+    "resposta": "Uma quinta justa é um intervalo de sete semitons entre duas notas, como dó para sol. É um dos sons mais estáveis e agradáveis na música, usado em praticamente todos os gêneros, desde hinos medievais até power chords no rock. Por exemplo, o riff de ‘Smoke on the Water’ usa quintas justas. A análise é que sua simplicidade a torna universal, mas pode ser monótona se usada em excesso. Sabia que a quinta justa é tão fundamental que aparece em sistemas musicais de culturas antigas, como a China?",
+    "palavras_chave": ["quinta justa", "intervalo", "estabilidade", "power chord", "rock"]
+  },
+  {
+    "pergunta": "O que é um compasso composto?",
+    "resposta": "Um compasso composto organiza as batidas em grupos que parecem dividir-se em três, como 6/8 ou 9/8. Diferente do compasso simples, como 4/4, ele dá um balanço mais fluido, comum em danças como a valsa ou em músicas folclóricas. Por exemplo, ‘America’ de West Side Story usa 6/8 para criar energia. A análise é que compassos compostos podem ser desafiadores para iniciantes, mas são ricos em textura. Sabia que o 6/8 é muito usado em músicas natalinas, como ‘Silent Night’, por seu ritmo acolhedor?",
+    "palavras_chave": ["compasso composto", "métrica", "6/8", "folclore", "valsa"]
+  },
+  {
+    "pergunta": "O que é uma tônica na música?",
+    "resposta": "A tônica é a nota principal de uma escala ou tonalidade, aquela que parece o ‘lar’ da música. Em dó maior, por exemplo, a tônica é o dó. Ela dá o ponto de referência para melodias e harmonias. Em ‘Twinkle Twinkle Little Star’, a melodia volta sempre ao dó, reforçando a tônica. A análise é que a tônica é essencial para a sensação de resolução, mas pode ser desafiada em música atonal. Sabia que em algumas músicas indianas, a tônica é mantida como um drone constante ao fundo?",
+    "palavras_chave": ["tônica", "escala", "tonalidade", "resolução", "drone"]
+  },
+  {
+    "pergunta": "O que é um acorde de sétima?",
+    "resposta": "Um acorde de sétima adiciona uma nota a mais ao acorde básico, a sétima em relação à tônica. Por exemplo, em dó maior sétima (Cmaj7), você tem dó, mi, sol e si. Ele soa mais rico e é muito usado no jazz e na bossa nova, como em ‘Garota de Ipanema’. A análise é que acordes de sétima adicionam sofisticação, mas podem complicar a harmonia para iniciantes. Sabia que o uso de acordes de sétima explodiu no século XX com o jazz, mudando a música popular?",
+    "palavras_chave": ["acorde sétima", "jazz", "bossa nova", "harmonia", "sofisticação"]
+  },
+  {
+    "pergunta": "Como a clave de dó é usada na música?",
+    "resposta": "A clave de dó é usada para indicar notas no registro médio, comum para instrumentos como viola ou trombone. Ela posiciona a nota dó em uma linha específica do pentagrama, ajudando a evitar muitas linhas suplementares. É menos usada que as claves de sol e fá, mas essencial em partituras orquestrais. A análise é que sua especificidade a torna menos acessível, mas é crucial para certos instrumentos. Sabia que a clave de dó tem várias posições no pentagrama, como a clave de dó em terceira ou quarta linha?",
+    "palavras_chave": ["clave de dó", "pentagrama", "viola", "orquestra", "notação"]
+  },
+  {
+    "pergunta": "O que é uma escala pentatônica?",
+    "resposta": "A escala pentatônica é uma escala de cinco notas por oitava, muito usada por sua simplicidade e versatilidade. Por exemplo, a pentatônica maior de dó (dó, ré, mi, sol, lá) é comum no folk, blues e rock. Ela evita notas que criam tensão, dando um som ‘limpo’. Na análise, sua simplicidade é uma força, mas pode limitar a complexidade harmônica. Sabia que a pentatônica é uma das escalas mais antigas, usada em músicas tradicionais da África e da Ásia há milênios?",
+    "palavras_chave": ["pentatônica", "escala", "blues", "folk", "simplicidade"]
+  },
+  {
+    "pergunta": "O que é síncope na música?",
+    "resposta": "Síncope é quando o ritmo enfatiza tempos fracos ou entre batidas, criando um efeito de surpresa ou balanço. É a alma do samba e do jazz, como no swing de Count Basie. Na prática, a síncope faz a música ‘dançar’ de forma inesperada. A análise é que ela pode ser difícil de executar com precisão, mas é essencial para gêneros rítmicos. Sabia que a síncope era usada na música renascentista para criar efeitos rítmicos complexos em madrigais?",
+    "palavras_chave": ["síncope", "ritmo", "jazz", "samba", "balanço"]
+  },
+  {
+    "pergunta": "O que é um tom na música?",
+    "resposta": "Um tom é um intervalo de dois semitons, como de dó para ré. É maior que um semitom e forma a base de muitas escalas, como a escala maior. Por exemplo, a melodia de ‘Happy Birthday’ usa tons para criar seu som familiar. A análise é que tons são fundamentais, mas sua percepção varia em contextos culturais. Sabia que em algumas músicas microtonais, como na tradição turca, há intervalos menores que um tom, chamados quartos de tom?",
+    "palavras_chave": ["tom", "intervalo", "escala", "melodia", "microtons"]
+  },
+  {
+    "pergunta": "O que é uma partitura musical?",
+    "resposta": "Uma partitura é a representação escrita de uma música, com notas, ritmos, dinâmicas e outros símbolos que guiam a execução. É como um roteiro para músicos. Por exemplo, a partitura de ‘Clair de Lune’ de Debussy detalha cada nuance. A análise é que partituras são essenciais para preservar obras, mas não capturam toda a emoção de uma performance ao vivo. Sabia que antes das partituras modernas, a música era transmitida oralmente, o que limitava sua difusão?",
+    "palavras_chave": ["partitura", "notação", "ritmo", "dinâmica", "debussy"]
+  },
+  {
+    "pergunta": "O que é um ostinato na música?",
+    "resposta": "Um ostinato é um padrão rítmico ou melódico que se repete ao longo de uma peça, criando uma base hipnótica. Pense no baixo de ‘Billie Jean’ de Michael Jackson, que repete uma linha marcante. É usado em música clássica, pop e eletrônica. A análise é que ostinatos são poderosos para criar groove, mas podem ficar monótonos se não variados. Sabia que o ‘Bolero’ de Ravel é construído inteiramente sobre um ostinato, crescendo por 15 minutos?",
+    "palavras_chave": ["ostinato", "repetição", "ritmo", "melodia", "ravel"]
+  },
+  {
+    "pergunta": "O que é uma escala diatônica?",
+    "resposta": "Uma escala diatônica é uma escala de sete notas com um padrão específico de tons e semitons, como a escala maior ou menor natural. Por exemplo, a escala de dó maior (dó, ré, mi, fá, sol, lá, si) é diatônica. É a base da música ocidental, de Bach ao pop. A análise é que sua estrutura é versátil, mas pode parecer limitada frente a escalas exóticas. Sabia que as escalas diatônicas foram codificadas na Grécia Antiga, influenciando a música ocidental por séculos?",
+    "palavras_chave": ["diatônica", "escala", "tons", "semitons", "música ocidental"]
+  },
+  {
+    "pergunta": "O que é uma clave de percussão?",
+    "resposta": "A clave de percussão é usada para notação de instrumentos percussivos, como bateria, onde cada linha ou espaço do pentagrama representa um instrumento, não uma nota de altura. Por exemplo, o bumbo pode estar na linha inferior. É essencial para ritmos complexos no jazz ou rock. A análise é que ela simplifica a escrita, mas exige familiaridade com o instrumento. Sabia que a clave de percussão não existia na música clássica antiga, sendo uma invenção moderna para bandas e orquestras?",
+    "palavras_chave": ["clave de percussão", "bateria", "ritmo", "notação", "jazz"]
+  },
+  {
+    "pergunta": "O que é uma tríade na música?",
+    "resposta": "Uma tríade é um acorde de três notas: a tônica, a terça e a quinta. Por exemplo, a tríade de dó maior tem dó, mi e sol. É a base da harmonia tonal, usada em tudo, de hinos a músicas pop. A análise é que tríades são simples, mas sua combinação cria harmonias ricas. Sabia que tríades eram a base da música renascentista, mas só foram formalmente teorizadas no século XVII?",
+    "palavras_chave": ["tríade", "acorde", "tônica", "terça", "quinta"]
+  },
+  {
+    "pergunta": "O que é um compasso simples?",
+    "resposta": "Um compasso simples organiza as batidas em grupos que se dividem em dois, como 2/4 ou 4/4. É o mais comum na música ocidental, usado em marchas ou pop, como em ‘Sweet Home Alabama’. Dá uma sensação de regularidade. A análise é que sua previsibilidade é útil, mas pode limitar ritmos mais complexos. Sabia que o compasso 4/4 é chamado de ‘comum’ porque domina a música popular desde o século XIX?",
+    "palavras_chave": ["compasso simples", "4/4", "ritmo", "pop", "marcha"]
+  },
+  {
+    "pergunta": "O que é um acorde diminuto?",
+    "resposta": "Um acorde diminuto é formado por uma tônica, uma terça menor e uma quinta diminuta, com um som tenso e instável. Por exemplo, o acorde de si diminuto (si, ré, fá) é usado em jazz ou música clássica para criar suspense. A análise é que sua dissonância é poderosa, mas exige resolução cuidadosa. Sabia que acordes diminutos eram usados na música barroca para transições dramáticas, como nas óperas de Monteverdi?",
+    "palavras_chave": ["acorde diminuto", "dissonância", "tensão", "jazz", "barroco"]
+  },
+  {
+    "pergunta": "O que é uma nota pedal na música?",
+    "resposta": "Uma nota pedal é uma nota sustentada, geralmente no baixo, enquanto outras vozes ou acordes mudam ao redor. Cria uma âncora harmônica, comum em órgão barroco, como nas obras de Bach. Na análise, ela dá estabilidade, mas pode soar repetitiva se mal usada. Sabia que o rock progressivo, como Pink Floyd, usa notas pedal para criar atmosferas hipnóticas?",
+    "palavras_chave": ["nota pedal", "baixo", "harmonia", "bach", "rock progressivo"]
+  },
+  {
+    "pergunta": "O que é um compasso irregular?",
+    "resposta": "Um compasso irregular tem uma métrica não convencional, como 5/4 ou 7/8, que não se divide em grupos simétricos de dois ou três. É comum em música folclórica balcânica ou no rock progressivo, como ‘Money’ do Pink Floyd, em 7/4. A análise é que ele cria ritmos instigantes, mas desafia músicos e ouvintes. Sabia que Dave Brubeck popularizou o 5/4 com ‘Take Five’, um marco do jazz?",
+    "palavras_chave": ["compasso irregular", "5/4", "7/8", "jazz", "pink floyd"]
+  },
+  {
+    "pergunta": "O que é uma escala menor harmônica?",
+    "resposta": "A escala menor harmônica é uma variação da escala menor natural, com o sétimo grau elevado em meio tom, criando um intervalo de tom e meio. Por exemplo, em lá menor harmônica, o sol se torna sol#. Dá um toque exótico, comum na música clássica e flamenca. A análise é que ela adiciona drama, mas pode soar estranha em contextos simples. Sabia que essa escala é a base de muitas melodias de tango argentino?",
+    "palavras_chave": ["menor harmônica", "escala", "sétimo grau", "tango", "flamenco"]
+  },
+  {
+    "pergunta": "O que é um legato na música?",
+    "resposta": "Legato é uma técnica de execução onde as notas são tocadas de forma suave e conectada, sem pausas entre elas. É como ‘cantar’ com o instrumento, comum em passagens líricas de violino ou piano, como em Chopin. A análise é que legato exige controle, mas pode soar monótono se não contrastado. Sabia que o termo ‘legato’ vem do italiano ‘ligado’, refletindo a ideia de conexão entre notas?",
+    "palavras_chave": ["legato", "execução", "suavidade", "chopin", "violino"]
+  },
+  {
+    "pergunta": "O que é uma escala menor melódica?",
+    "resposta": "A escala menor melódica altera os sexto e sétimo graus da escala menor natural ao subir, mas volta ao normal ao descer. Por exemplo, em lá menor melódica, sobe com fá# e sol#, mas desce com fá e sol. É usada em jazz e música clássica para melodias fluidas. A análise é que sua complexidade a torna rica, mas difícil para iniciantes. Sabia que essa escala é essencial no bebop, como nos solos de Charlie Parker?",
+    "palavras_chave": ["menor melódica", "escala", "jazz", "bebop", "melodia"]
+  },
+  {
+    "pergunta": "O que é um acorde suspenso?",
+    "resposta": "Um acorde suspenso substitui a terça de um acorde maior ou menor por uma segunda ou quarta, criando um som ‘aberto’. Por exemplo, um Csus4 tem dó, fá e sol. É comum no rock e pop, como em ‘Pinball Wizard’ do The Who. A análise é que ele cria expectativa, mas precisa de resolução. Sabia que acordes suspensos eram raros na música clássica, mas explodiram com o rock dos anos 60?",
+    "palavras_chave": ["acorde suspenso", "segunda", "quarta", "rock", "pop"]
+  },
+  {
+    "pergunta": "O que é uma fermata na música?",
+    "resposta": "Uma fermata é um símbolo na partitura que indica para sustentar uma nota ou pausa por mais tempo que seu valor normal, a critério do intérprete. É como uma pausa dramática, usada em corais ou solos, como em ‘Ode to Joy’ de Beethoven. A análise é que fermatas adicionam emoção, mas dependem da sensibilidade do músico. Sabia que fermatas eram usadas na música barroca para improvisações vocais?",
+    "palavras_chave": ["fermata", "sustentação", "pausa", "emoção", "barroco"]
+  },
+  {
+    "pergunta": "O que é uma escala blues?",
+    "resposta": "A escala blues é uma escala pentatônica menor com uma nota extra, chamada ‘blue note’, que adiciona um toque expressivo e melancólico. Por exemplo, em dó, inclui um mi bemol e um sol bemol como blue notes. É a alma do blues e do rock, como nos solos de B.B. King. A análise é que sua simplicidade permite improvisação, mas pode ser limitada em contextos complexos. Sabia que a escala blues influenciou até a música pop moderna, como em Adele?",
+    "palavras_chave": ["escala blues", "blue note", "pentatônica", "blues", "improvisação"]
+  },
+  {
+    "pergunta": "O que é um motivo musical?",
+    "resposta": "Um motivo musical é uma pequena ideia melódica ou rítmica que se repete e desenvolve ao longo de uma peça, como um ‘tema’ em miniatura. Pense naquelas quatro notas famosas de ‘Sinfonia nº 5’ de Beethoven: ta-ta-ta-tã! Elas são um motivo que permeia toda a obra. Motivos ajudam a unificar a música e criar reconhecimento. A análise é que, embora simples, um motivo bem usado pode transformar uma peça; mas, se repetitivo demais, cansa. Sabia que motivos são tão poderosos que aparecem até em trilhas de cinema, como o tema de duas notas de ‘Tubarão’ de John Williams?",
+    "palavras_chave": ["motivo", "melodia", "ritmo", "beethoven", "cinema"]
+  },
+  {
+    "pergunta": "O que é uma escala modal?",
+    "resposta": "Uma escala modal é baseada em um dos modos musicais, como dórico, frígio ou mixolídio, cada um com um padrão único de intervalos. Diferente das escalas maior e menor, os modos criam atmosferas distintas. Por exemplo, o modo dórico é usado em jazz e folk, como em ‘Scarborough Fair’. A análise é que os modos expandem a paleta criativa, mas podem soar estranhos para ouvidos acostumados à tonalidade. Sabia que os modos foram a base da música ocidental antes do sistema tonal, especialmente na música sacra medieval?",
+    "palavras_chave": ["escala modal", "modos", "dórico", "jazz", "folclore"]
+  },
+  {
+    "pergunta": "O que é uma inversão de acorde?",
+    "resposta": "Uma inversão de acorde ocorre quando a nota mais grave não é a tônica, mas outra nota do acorde. Por exemplo, em dó maior (dó, mi, sol), a primeira inversão tem mi como nota mais grave. Isso suaviza transições harmônicas, comum em piano clássico, como nas sonatas de Mozart. A análise é que inversões adicionam fluidez, mas podem confundir iniciantes. Sabia que as inversões eram amplamente exploradas na música barroca, especialmente no baixo contínuo?",
+    "palavras_chave": ["inversão", "acorde", "harmonia", "mozart", "barroco"]
+  },
+  {
+    "pergunta": "O que é um compasso binário?",
+    "resposta": "Um compasso binário divide as batidas em grupos de dois, como 2/4 ou 4/4, criando uma sensação de marcha ou regularidade. É comum em músicas animadas, como polcas ou o rock de ‘Sweet Child O’ Mine’. A análise é que sua simplicidade é ideal para ritmos diretos, mas pode limitar texturas complexas. Sabia que o compasso binário é tão intuitivo que aparece em canções de ninar de várias culturas?",
+    "palavras_chave": ["compasso binário", "2/4", "ritmo", "marcha", "rock"]
+  },
+  {
+    "pergunta": "O que é uma nota de passagem?",
+    "resposta": "Uma nota de passagem é uma nota que conecta duas notas melódicas principais, funcionando como uma ‘ponte’ para suavizar a melodia. Por exemplo, em uma melodia que vai de dó a mi, o ré pode ser uma nota de passagem. É comum em escalas de violino ou solos de jazz. A análise é que notas de passagem enriquecem a melodia, mas seu uso excessivo pode tirar o foco. Sabia que notas de passagem eram usadas na música renascentista para embelezar melodias vocais?",
+    "palavras_chave": ["nota de passagem", "melodia", "transição", "jazz", "renascentista"]
+  },
+  {
+    "pergunta": "O que é uma cadência autêntica?",
+    "resposta": "Uma cadência autêntica é uma progressão de acordes que dá uma sensação de conclusão, geralmente do quinto grau (V) para o primeiro (I), como sol maior para dó maior. É comum em hinos e música clássica, como no final de ‘Eine Kleine Nachtmusik’ de Mozart. A análise é que ela é eficaz para finais, mas pode soar previsível. Sabia que essa cadência era tão dominante no período clássico que era chamada de ‘cadência perfeita’?",
+    "palavras_chave": ["cadência autêntica", "progressão", "resolução", "mozart", "clássica"]
+  },
+  {
+    "pergunta": "O que é um acorde aumentado?",
+    "resposta": "Um acorde aumentado tem uma tônica, uma terça maior e uma quinta aumentada, criando um som tenso e instável. Por exemplo, dó aumentado (dó, mi, sol#) é usado em música clássica e jazz para transições dramáticas. A análise é que sua tensão é poderosa, mas exige contexto para funcionar. Sabia que Wagner usava acordes aumentados em ‘Tristão e Isolda’ para criar um clima de inquietação?",
+    "palavras_chave": ["acorde aumentado", "tensão", "jazz", "wagner", "transição"]
+  },
+  {
+    "pergunta": "O que é uma clave neutra?",
+    "resposta": "A clave neutra, ou clave de percussão, é usada para instrumentos sem altura definida, como bateria ou pratos. Cada linha do pentagrama representa um instrumento, não uma nota específica. É essencial em partituras de bandas de rock ou jazz. A análise é que ela simplifica a notação rítmica, mas é limitada para melodias. Sabia que a clave neutra só se tornou padrão no século XX, com a popularização da bateria moderna?",
+    "palavras_chave": ["clave neutra", "percussão", "bateria", "ritmo", "notação"]
+  },
+  {
+    "pergunta": "O que é uma escala maior?",
+    "resposta": "A escala maior é uma sequência de sete notas com um padrão de tons e semitons (tom, tom, semitom, tom, tom, tom, semitom), como dó, ré, mi, fá, sol, lá, si. É conhecida por seu som ‘alegre’, usada em hinos e pop, como ‘Hey Jude’ dos Beatles. A análise é que sua familiaridade a torna acessível, mas pode soar genérica sem criatividade. Sabia que a escala maior é a base da música tonal ocidental desde o século XVII?",
+    "palavras_chave": ["escala maior", "tons", "semitons", "pop", "alegre"]
+  },
+  {
+    "pergunta": "O que é um compasso ternário?",
+    "resposta": "Um compasso ternário organiza as batidas em grupos de três, como 3/4, comum em valsas como ‘Danúbio Azul’ de Strauss. Dá um balanço fluido, diferente da regularidade do 4/4. A análise é que ele cria um ritmo elegante, mas pode ser menos intuitivo para iniciantes. Sabia que o compasso 3/4 era usado em danças da corte europeia no século XVIII?",
+    "palavras_chave": ["compasso ternário", "3/4", "valsa", "ritmo", "dança"]
+  },
+  {
+    "pergunta": "O que é uma blue note?",
+    "resposta": "Uma blue note é uma nota adicionada à escala pentatônica menor, geralmente um semitom abaixado, como mi bemol em uma escala de dó. Ela dá o tom emotivo e expressivo do blues, como nos solos de Muddy Waters. A análise é que blue notes são essenciais para o caráter do blues, mas podem soar deslocadas em outros estilos. Sabia que as blue notes têm raízes em escalas africanas, trazidas para a América durante a escravidão?",
+    "palavras_chave": ["blue note", "blues", "pentatônica", "emoção", "áfrica"]
+  },
+  {
+    "pergunta": "O que é uma cadência plagal?",
+    "resposta": "A cadência plagal é uma progressão do quarto grau (IV) para o primeiro (I), como fá maior para dó maior. Conhecida como ‘cadência do amém’ por seu uso em hinos religiosos, ela soa suave e conclusiva. A análise é que sua suavidade é reconfortante, mas menos dramática que a cadência autêntica. Sabia que a cadência plagal é comum em músicas gospel, como ‘Amazing Grace’?",
+    "palavras_chave": ["cadência plagal", "harmonia", "hino", "resolução", "gospel"]
+  },
+  {
+    "pergunta": "O que é um glissando?",
+    "resposta": "Um glissando é uma técnica onde o músico desliza rapidamente por uma série de notas, criando um efeito contínuo. É comum em harpas, trombones ou vocais, como no solo de ‘Rhapsody in Blue’ de Gershwin. A análise é que glissandos adicionam drama, mas podem soar exagerados se mal usados. Sabia que o glissando é uma técnica antiga, usada até em liras da Grécia Antiga?",
+    "palavras_chave": ["glissando", "deslize", "drama", "gershwin", "harpa"]
+  },
+  {
+    "pergunta": "O que é uma escala menor natural?",
+    "resposta": "A escala menor natural é uma escala de sete notas com um padrão de tons e semitons (tom, semitom, tom, tom, semitom, tom, tom), como lá, si, dó, ré, mi, fá, sol. Tem um som melancólico, usado em músicas como ‘Greensleeves’. A análise é que sua simplicidade é emotiva, mas menos versátil que a menor harmônica. Sabia que a escala menor natural é derivada do modo eólio da música medieval?",
+    "palavras_chave": ["menor natural", "escala", "melancolia", "eólio", "folclore"]
+  },
+  {
+    "pergunta": "O que é uma textura musical?",
+    "resposta": "Textura musical descreve como as vozes ou linhas melódicas interagem em uma peça. Pode ser monofônica (uma linha, como um canto gregoriano), polifônica (várias linhas, como em Bach) ou homofônica (melodia com acompanhamento, como em pop). A análise é que a textura define o ‘peso’ da música, mas exige equilíbrio para não sobrecarregar. Sabia que a textura polifônica era o auge da música renascentista, como nas missas de Palestrina?",
+    "palavras_chave": ["textura", "monofonia", "polifonia", "homofonia", "bach"]
+  },
+  {
+    "pergunta": "O que é um acorde de nona?",
+    "resposta": "Um acorde de nona adiciona uma nona nota (um tom acima da oitava) a um acorde de sétima. Por exemplo, um C9 inclui dó, mi, sol, si bemol e ré. É comum no jazz e na bossa nova, dando um som sofisticado. A análise é que acordes de nona são ricos, mas podem soar complexos demais em contextos simples. Sabia que Stevie Wonder usa acordes de nona em ‘Superstition’ para criar groove?",
+    "palavras_chave": ["acorde de nona", "jazz", "bossa nova", "sofisticação", "stevie wonder"]
+  },
+  {
+    "pergunta": "O que é uma pausa de colcheia?",
+    "resposta": "Uma pausa de colcheia é um silêncio que dura metade de uma batida em um compasso 4/4, equivalente a uma colcheia. É usada para criar ritmo e contraste, como em grooves de funk. A análise é que pausas curtas como essa adicionam dinamismo, mas exigem precisão. Sabia que James Brown usava pausas de colcheia para dar aquele ‘punch’ rítmico em suas músicas?",
+    "palavras_chave": ["pausa de colcheia", "silêncio", "ritmo", "funk", "precisão"]
+  },
+  {
+    "pergunta": "O que é uma escala enarmônica?",
+    "resposta": "Uma escala enarmônica é quando notas com nomes diferentes soam iguais, como dó sustenido e ré bemol. Não é uma escala distinta, mas um conceito de equivalência, usado para simplificar a leitura de partituras. A análise é que a enarmonia facilita a escrita, mas pode confundir iniciantes. Sabia que a enarmonia é crucial em modulações complexas, como nas óperas de Wagner?",
+    "palavras_chave": ["enarmonia", "notas", "partitura", "modulação", "wagner"]
+  },
+  {
+    "pergunta": "O que é um contracanto?",
+    "resposta": "Um contracanto é uma melodia secundária que acompanha a melodia principal, criando um diálogo musical. É comum em duetos ou corais, como nas fugas de Bach, onde vozes ‘conversam’. A análise é que o contracanto enriquece a textura, mas exige equilíbrio para não ofuscar a melodia principal. Sabia que o contracanto é uma técnica essencial no gênero madrigal do Renascimento?",
+    "palavras_chave": ["contracanto", "melodia", "fuga", "bach", "madrigal"]
+  },
+  {
+    "pergunta": "O que é um compasso quaternário?",
+    "resposta": "Um compasso quaternário tem quatro batidas, como o 4/4, o mais comum na música ocidental. É usado em tudo, de rock a música clássica, como em ‘Smells Like Teen Spirit’ do Nirvana. Sua regularidade é intuitiva para ouvintes. A análise é que ele é versátil, mas pode ser menos interessante que métricas irregulares. Sabia que o 4/4 é tão dominante que é chamado de ‘tempo comum’ desde o barroco?",
+    "palavras_chave": ["compasso quaternário", "4/4", "ritmo", "rock", "clássica"]
+  },
+  {
+    "pergunta": "O que é uma nota de apoio?",
+    "resposta": "Uma nota de apoio é uma nota não pertencente ao acorde principal, usada para embelezar a melodia, geralmente resolvendo para uma nota do acorde. É comum em improvisos de jazz ou ornamentos barrocos. A análise é que notas de apoio adicionam expressão, mas podem complicar a harmonia se mal usadas. Sabia que Vivaldi usava notas de apoio em seus concertos para violino, criando efeitos virtuosísticos?",
+    "palavras_chave": ["nota de apoio", "melodia", "jazz", "barroco", "vivaldi"]
+  },
+  {
+    "pergunta": "O que é uma cadência interrompida?",
+    "resposta": "Uma cadência interrompida ocorre quando a música parece caminhar para uma resolução (como V-I), mas vai para outro acorde, como vi, criando surpresa. É usada em música clássica, como em Beethoven, para enganar o ouvinte. A análise é que ela adiciona drama, mas pode frustrar se usada excessivamente. Sabia que essa cadência era chamada de ‘deceptiva’ no período clássico por sua capacidade de surpreender?",
+    "palavras_chave": ["cadência interrompida", "surpresa", "harmonia", "beethoven", "deceptiva"]
+  },
+  {
+    "pergunta": "O que é um vibrato na música?",
+    "resposta": "Vibrato é uma técnica onde o músico oscila levemente a altura de uma nota para adicionar expressão e calor. É comum em vozes líricas, como na ópera, ou no violino, como em solos de Paganini. A análise é que o vibrato enriquece o som, mas pode soar artificial se exagerado. Sabia que o vibrato moderno no violino só se tornou padrão no século XX, sendo menos usado na música barroca?",
+    "palavras_chave": ["vibrato", "expressão", "violino", "ópera", "paganini"]
+  },
+  {
+    "pergunta": "O que é uma escala de tons inteiros?",
+    "resposta": "A escala de tons inteiros é formada por intervalos de tons inteiros, sem semitons, criando um som etéreo e ambíguo. Por exemplo, dó, ré, mi, fá#, sol#, lá#. É usada em música impressionista, como em Debussy. A análise é que seu som é único, mas pode ser difícil de harmonizar. Sabia que essa escala foi popularizada por compositores do século XX, como Scriabin, para criar atmosferas oníricas?",
+    "palavras_chave": ["tons inteiros", "escala", "impressionismo", "debussy", "scriabin"]
+  },
+  {
+    "pergunta": "O que é uma resolução harmônica?",
+    "resposta": "Uma resolução harmônica é quando uma progressão de acordes, geralmente dissonante, se move para um acorde estável, como de V para I. É o momento de ‘alívio’ na música, comum em finais de peças clássicas ou pop. A análise é que resoluções são satisfatórias, mas podem ser previsíveis. Sabia que na música atonal, como de Schoenberg, a ausência de resoluções tradicionais cria uma estética única?",
+    "palavras_chave": ["resolução", "harmonia", "acorde", "atonalidade", "schoenberg"]
+  },
+  {
+    "pergunta": "O que é uma tessitura na música?",
+    "resposta": "A tessitura é a faixa de notas confortável para um instrumento ou voz, onde o som é mais natural e expressivo. Por exemplo, a tessitura de um soprano geralmente está entre dó4 e lá5. É diferente de extensão, que inclui todas as notas possíveis. Na prática, compositores como Puccini escreviam para a tessitura ideal de cantores em óperas como ‘La Bohème’. A análise é que respeitar a tessitura garante qualidade, mas limitar-se a ela pode restringir a criatividade. Sabia que a tessitura de um violino é tão ampla que ele pode imitar vozes humanas em solos virtuosísticos?",
+    "palavras_chave": ["tessitura", "extensão", "voz", "instrumento", "ópera"]
+  },
+  {
+    "pergunta": "O que é um acorde quebrado?",
+    "resposta": "Um acorde quebrado é quando as notas de um acorde são tocadas em sequência, não simultaneamente, como em um arpejo, mas com um padrão rítmico específico. É comum em piano clássico, como nas sonatas de Beethoven, onde cria fluidez. A análise é que acordes quebrados adicionam leveza, mas podem perder força harmônica. Sabia que o estilo ‘Alberti bass’, usado por Mozart, é um tipo de acorde quebrado que dominou a música do século XVIII?",
+    "palavras_chave": ["acorde quebrado", "arpejo", "piano", "beethoven", "alberti bass"]
+  },
+  {
+    "pergunta": "O que é uma cadência meio-cadencial?",
+    "resposta": "Uma cadência meio-cadencial termina no quinto grau (V), criando uma sensação de pausa, como uma vírgula na música. É comum em música clássica, como em sinfonias de Haydn, para marcar uma transição. A análise é que ela mantém o suspense, mas pode frustrar se não resolvida depois. Sabia que essa cadência era usada em hinos medievais para dar um senso de continuidade antes do final?",
+    "palavras_chave": ["cadência meio-cadencial", "suspense", "harmonia", "haydn", "hinos"]
+  },
+  {
+    "pergunta": "O que é um ornamento musical?",
+    "resposta": "Um ornamento é uma decoração melódica, como trinados, mordentes ou apogiaturas, que enriquece a melodia. Por exemplo, na música barroca de Vivaldi, ornamentos no violino adicionam brilho. Eles são indicados na partitura ou improvisados, dependendo do estilo. A análise é que ornamentos embelezam, mas seu uso excessivo pode sobrecarregar. Sabia que no barroco, músicos eram esperados para improvisar ornamentos, algo raro na música clássica moderna?",
+    "palavras_chave": ["ornamento", "melodia", "barroco", "vivaldi", "improvisação"]
+  },
+  {
+    "pergunta": "O que é uma escala hexatônica?",
+    "resposta": "Uma escala hexatônica tem seis notas por oitava, como a escala de tons inteiros ou algumas escalas folclóricas. Ela cria um som único, menos comum que a pentatônica. Por exemplo, Debussy usava escalas hexatônicas para efeitos impressionistas. A análise é que sua estrutura é versátil, mas menos familiar para ouvintes casuais. Sabia que a escala hexatônica aparece em músicas tradicionais celtas, dando um toque místico?",
+    "palavras_chave": ["hexatônica", "escala", "impressionismo", "debussy", "folclore"]
+  },
+  {
+    "pergunta": "O que é um pedal de sustentação?",
+    "resposta": "Um pedal de sustentação é um dispositivo no piano que prolonga o som das notas, permitindo que elas ressoem mesmo após soltar as teclas. É usado em peças românticas, como as de Chopin, para criar um som etéreo. A análise é que ele adiciona profundidade, mas pode embaçar a harmonia se mal usado. Sabia que o pedal de sustentação só se tornou comum nos pianos do século XIX, revolucionando a composição?",
+    "palavras_chave": ["pedal de sustentação", "piano", "ressonância", "chopin", "romantismo"]
+  },
+  {
+    "pergunta": "O que é uma escala octatônica?",
+    "resposta": "A escala octatônica alterna tons e semitons, com oito notas por oitava, criando um som simétrico e tenso. É usada no jazz e na música moderna, como nas obras de Stravinsky. A análise é que sua simetria é fascinante, mas pode ser difícil de harmonizar. Sabia que a escala octatônica é chamada de ‘escala diminuta’ porque forma acordes diminutos naturalmente?",
+    "palavras_chave": ["octatônica", "escala", "jazz", "stravinsky", "diminuta"]
+  },
+  {
+    "pergunta": "O que é um compasso misto?",
+    "resposta": "Um compasso misto combina diferentes métricas em uma peça, alternando, por exemplo, 3/4 e 4/4. É comum em música contemporânea ou folclórica, como nas danças balcânicas. A análise é que ele cria dinamismo, mas pode ser desafiador para músicos. Sabia que ‘Mission Impossible’ usa um compasso misto (5/4) para seu tema icônico, dando aquele ritmo inusitado?",
+    "palavras_chave": ["compasso misto", "métrica", "folclore", "5/4", "cinema"]
+  },
+  {
+    "pergunta": "O que é uma nota de graça?",
+    "resposta": "Uma nota de graça é um ornamento rápido tocado antes da nota principal, sem valor rítmico fixo. É comum em música clássica, como nas sonatas de Mozart, para adicionar elegância. A análise é que notas de graça embelezam, mas exigem precisão para não atrapalhar o ritmo. Sabia que no barroco, notas de graça eram muitas vezes improvisadas pelos intérpretes?",
+    "palavras_chave": ["nota de graça", "ornamento", "mozart", "barroco", "elegância"]
+  },
+  {
+    "pergunta": "O que é um baixo contínuo?",
+    "resposta": "O baixo contínuo é uma linha de baixo com números indicando os acordes a serem tocados, típica da música barroca, como nas obras de Handel. O músico improvisava os acordes com base nos números. A análise é que ele dava liberdade criativa, mas exigia habilidade. Sabia que o baixo contínuo era a base da música orquestral no século XVII, antes das partituras detalhadas?",
+    "palavras_chave": ["baixo contínuo", "barroco", "improvisação", "handel", "acordes"]
+  },
+  {
+    "pergunta": "O que é um intervalo composto?",
+    "resposta": "Um intervalo composto é maior que uma oitava, como uma nona (oitava + segunda). Por exemplo, de dó3 a ré4. É usado em melodias amplas, como em ‘My Favorite Things’ de Rodgers. A análise é que intervalos compostos criam dramaticidade, mas podem ser desafiadores para cantores. Sabia que intervalos compostos são comuns em trilhas sonoras de cinema para evocar emoção?",
+    "palavras_chave": ["intervalo composto", "oitava", "melodia", "cinema", "emoção"]
+  },
+  {
+    "pergunta": "O que é uma cadência frígia?",
+    "resposta": "A cadência frígia usa um movimento do quarto grau menor (iv) para o quinto grau (V) em tonalidade menor, criando um som exótico, como em música flamenca. A análise é que ela é evocativa, mas limitada a contextos específicos. Sabia que essa cadência tem raízes no modo frígio, usado na música renascentista espanhola?",
+    "palavras_chave": ["cadência frígia", "flamenco", "modo frígio", "harmonia", "renascentista"]
+  },
+  {
+    "pergunta": "O que é um pizzicato na música?",
+    "resposta": "Pizzicato é uma técnica em que o músico dedilha as cordas de um instrumento, como violino, em vez de usar o arco, criando um som percussivo. É usado em peças como ‘As Quatro Estações’ de Vivaldi. A análise é que pizzicato adiciona textura, mas é menos expressivo que o arco. Sabia que o pizzicato é tão antigo que aparece em manuscritos musicais do século XVI?",
+    "palavras_chave": ["pizzicato", "cordas", "vivaldi", "textura", "percussivo"]
+  },
+  {
+    "pergunta": "O que é uma escala de blues maior?",
+    "resposta": "A escala de blues maior é uma variação da pentatônica maior com uma blue note adicionada, como um ré bemol em uma escala de dó maior. É usada em country e blues, como nas músicas de Eric Clapton. A análise é que ela é expressiva, mas menos comum que a blues menor. Sabia que essa escala é essencial no gospel americano, dando um toque soulful?",
+    "palavras_chave": ["blues maior", "pentatônica", "blue note", "gospel", "clapton"]
+  },
+  {
+    "pergunta": "O que é uma modulação métrica?",
+    "resposta": "Uma modulação métrica é a mudança de compasso dentro de uma peça, como passar de 4/4 para 3/4. É comum em rock progressivo, como em ‘Close to the Edge’ do Yes. A análise é que ela cria dinamismo, mas pode desorientar o ouvinte. Sabia que Stravinsky usava modulações métricas em ‘A Sagração da Primavera’ para chocar plateias?",
+    "palavras_chave": ["modulação métrica", "compasso", "rock progressivo", "stravinsky", "dinamismo"]
+  },
+  {
+    "pergunta": "O que é um trinado na música?",
+    "resposta": "Um trinado é um ornamento onde o músico alterna rapidamente entre duas notas, geralmente a principal e a nota acima. É comum em piano e violino, como nas cadências de Mozart. A análise é que trinados adicionam brilho, mas exigem técnica apurada. Sabia que no barroco, trinados eram improvisados e podiam durar vários segundos?",
+    "palavras_chave": ["trinado", "ornamento", "mozart", "barroco", "técnica"]
+  },
+  {
+    "pergunta": "O que é uma escala frígia dominante?",
+    "resposta": "A escala frígia dominante é um modo com um som exótico, usado em flamenco e jazz, com um intervalo de tom e meio entre o primeiro e segundo graus. Por exemplo, em mi frígio dominante, tem mi, fá, sol#, lá. A análise é que ela é dramática, mas específica a certos estilos. Sabia que essa escala é derivada da música árabe, influenciando o flamenco espanhol?",
+    "palavras_chave": ["frígia dominante", "escala", "flamenco", "jazz", "árabe"]
+  },
+  {
+    "pergunta": "O que é um acorde de sexta?",
+    "resposta": "Um acorde de sexta adiciona a sexta nota da escala a uma tríade, como dó, mi, sol, lá em dó maior sexta. É usado no jazz e pop, como em ‘Fly Me to the Moon’. A análise é que ele é suave, mas menos comum que acordes de sétima. Sabia que acordes de sexta eram populares na música francesa do século XIX, como em Fauré?",
+    "palavras_chave": ["acorde de sexta", "jazz", "pop", "fauré", "suavidade"]
+  },
+  {
+    "pergunta": "O que é um compasso assimétrico?",
+    "resposta": "Um compasso assimétrico tem uma métrica irregular, como 5/4 ou 7/8, que não se divide em grupos iguais. É usado em música folclórica, como nas danças gregas, ou no jazz, como em ‘Take Five’. A análise é que ele é instigante, mas desafiador para dançar. Sabia que Bartók usava compassos assimétricos para capturar ritmos folclóricos húngaros?",
+    "palavras_chave": ["compasso assimétrico", "5/4", "jazz", "bartók", "folclore"]
+  },
+  {
+    "pergunta": "O que é uma nota de bordadura?",
+    "resposta": "Uma nota de bordadura é um ornamento que ‘enquadra’ a nota principal, tocando a nota acima ou abaixo antes e depois. É comum em música barroca, como nas suítes de Bach para cravo. A análise é que ela adiciona charme, mas exige precisão. Sabia que notas de bordadura eram improvisadas por músicos barrocos, mas hoje são escritas na partitura?",
+    "palavras_chave": ["nota de bordadura", "ornamento", "barroco", "bach", "improvisação"]
+  },
+  {
+    "pergunta": "O que é uma escala lócria?",
+    "resposta": "A escala lócria é um modo menor com a segunda e a quinta diminuídas, criando um som instável e tenso, como si, dó, ré, mi bemol, fá, sol bemol, lá bemol. É usada em jazz e música experimental. A análise é que ela é única, mas difícil de aplicar em contextos tradicionais. Sabia que a escala lócria é raramente usada como tonalidade principal devido à sua dissonância?",
+    "palavras_chave": ["lócria", "escala", "jazz", "dissonância", "experimental"]
+  },
+  {
+    "pergunta": "O que é um staccato na música?",
+    "resposta": "Staccato é uma técnica onde as notas são tocadas de forma curta e destacada, com pequenos silêncios entre elas. É comum em marchas ou peças animadas, como ‘Rondo Alla Turca’ de Mozart. A análise é que staccato cria energia, mas pode soar mecânico se exagerado. Sabia que o termo ‘staccato’ vem do italiano ‘destacado’, usado desde o barroco?",
+    "palavras_chave": ["staccato", "técnica", "mozart", "energia", "destacado"]
+  },
+  {
+    "pergunta": "O que é uma cadência andaluza?",
+    "resposta": "A cadência andaluza é uma progressão harmônica (Am-G-F-E) usada no flamenco e música latina, com um sabor exótico. É a base de muitas canções espanholas. A análise é que ela é emocional, mas limitada a estilos específicos. Sabia que essa cadência tem raízes na música mourisca, trazida à Espanha no século VIII?",
+    "palavras_chave": ["cadência andaluza", "flamenco", "progressão", "mourisca", "latina"]
+  },
+  {
+    "pergunta": "O que é um acorde de décima primeira?",
+    "resposta": "Um acorde de décima primeira adiciona a décima primeira nota da escala a um acorde, como dó, mi, sol, si bemol, ré, fá em C11. É usado no jazz, como em improvisos de Herbie Hancock. A análise é que ele é complexo e rico, mas pode soar sobrecarregado. Sabia que acordes de décima primeira são comuns em trilhas de filmes modernos para criar tensão?",
+    "palavras_chave": ["décima primeira", "acorde", "jazz", "hancock", "tensão"]
+  },
+  {
+    "pergunta": "O que é uma escala mixolídia?",
+    "resposta": "A escala mixolídia é um modo maior com a sétima nota abaixada, como sol, lá, si, dó, ré, mi, fá em sol mixolídio. É usada em rock e jazz, como em ‘Norwegian Wood’ dos Beatles. A análise é que ela tem um toque bluesy, mas menos comum que a escala maior. Sabia que a mixolídia era usada em hinos medievais antes de se tornar popular no rock?",
+    "palavras_chave": ["mixolídia", "escala", "rock", "jazz", "beatles"]
+  }
+]

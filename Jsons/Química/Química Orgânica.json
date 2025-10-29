@@ -1,0 +1,527 @@
+[
+  {
+    "pergunta": "O que é a química orgânica e por que ela é tão importante?",
+    "resposta": "A química orgânica é o ramo da química que estuda os compostos de carbono e suas reações. Ela é essencial porque praticamente toda a base da vida — como proteínas, carboidratos, lipídios e ácidos nucleicos — é formada por compostos orgânicos. Além disso, combustíveis, medicamentos e plásticos também vêm dessa área. Sabia que o nome 'orgânica' vem da antiga crença de que esses compostos só poderiam ser produzidos por seres vivos?",
+    "palavras_chave": ["carbono", "compostos", "vida", "orgânica", "história"]
+  },
+  {
+    "pergunta": "O que caracteriza o carbono como elemento central da química orgânica?",
+    "resposta": "O carbono é o elemento central da química orgânica porque possui a capacidade de formar quatro ligações covalentes estáveis. Essa tetravalência permite criar uma variedade enorme de estruturas, desde moléculas simples até macromoléculas complexas. Ele pode se ligar a outros carbonos, formando cadeias, anéis e estruturas tridimensionais. Sabia que o diamante e o grafite são feitos apenas de carbono, mas com arranjos diferentes dos átomos?",
+    "palavras_chave": ["carbono", "tetravalência", "ligações", "estruturas", "variedade"]
+  },
+  {
+    "pergunta": "O que são hidrocarbonetos?",
+    "resposta": "Hidrocarbonetos são compostos formados apenas por carbono e hidrogênio. Eles são a base da química orgânica e estão presentes em combustíveis como gasolina, gás natural e petróleo. Existem diferentes tipos, como alcanos, alcenos, alcinos e aromáticos, cada um com propriedades específicas. Sabia que o gás de cozinha é formado principalmente por propano e butano, que são hidrocarbonetos saturados?",
+    "palavras_chave": ["hidrocarbonetos", "carbono", "hidrogênio", "combustíveis", "alcanos"]
+  },
+  {
+    "pergunta": "Qual a diferença entre alcanos, alcenos e alcinos?",
+    "resposta": "A principal diferença está no tipo de ligação entre os carbonos. Os alcanos têm apenas ligações simples, os alcenos possuem pelo menos uma ligação dupla e os alcinos têm uma ligação tripla. Isso muda totalmente suas propriedades químicas e físicas. Por exemplo, alcenos e alcinos são mais reativos que alcanos. Sabia que o eteno, um alceno, é usado para amadurecer frutas artificialmente?",
+    "palavras_chave": ["alcanos", "alcenos", "alcinos", "ligações", "reatividade"]
+  },
+  {
+    "pergunta": "O que são isômeros e por que eles são importantes?",
+    "resposta": "Isômeros são compostos que têm a mesma fórmula molecular, mas estruturas diferentes. Essa diferença pode alterar completamente suas propriedades e comportamentos químicos. Na química orgânica, a isomeria ajuda a entender como pequenas mudanças estruturais geram substâncias com funções distintas. Sabia que a glicose e a frutose são isômeros entre si, mas têm gostos e comportamentos bem diferentes?",
+    "palavras_chave": ["isomeria", "estrutura", "fórmula", "propriedades", "função"]
+  },
+  {
+    "pergunta": "O que são grupos funcionais em química orgânica?",
+    "resposta": "Grupos funcionais são conjuntos específicos de átomos dentro das moléculas que determinam suas propriedades químicas e reações. Por exemplo, o grupo hidroxila (–OH) caracteriza os álcoois, enquanto o grupo carboxila (–COOH) define os ácidos carboxílicos. Identificar o grupo funcional é essencial para prever o comportamento de um composto. Sabia que o cheiro do vinagre vem do ácido acético, que possui um grupo carboxila?",
+    "palavras_chave": ["grupos funcionais", "moléculas", "álcoois", "ácidos", "reações"]
+  },
+  {
+    "pergunta": "Como a isomeria geométrica acontece?",
+    "resposta": "A isomeria geométrica ocorre quando há uma restrição à rotação em torno de uma ligação dupla entre carbonos. Assim, os grupos ligados a esses carbonos podem estar do mesmo lado (cis) ou em lados opostos (trans). Essa diferença espacial altera as propriedades da substância. Sabia que a gordura 'trans' recebeu esse nome porque tem esse tipo de configuração molecular?",
+    "palavras_chave": ["isomeria", "geométrica", "cis", "trans", "ligação dupla"]
+  },
+  {
+    "pergunta": "O que é a fórmula estrutural de um composto orgânico?",
+    "resposta": "A fórmula estrutural mostra como os átomos estão ligados e organizados em uma molécula. Ela vai além da fórmula molecular, permitindo visualizar a estrutura real do composto. Existem várias formas de representação, como estrutural completa, condensada e em bastão. Sabia que os químicos conseguem prever propriedades e reações apenas analisando essas fórmulas?",
+    "palavras_chave": ["fórmula", "estrutura", "molécula", "representação", "ligações"]
+  },
+  {
+    "pergunta": "Qual a importância da nomenclatura IUPAC na química orgânica?",
+    "resposta": "A nomenclatura IUPAC padroniza os nomes dos compostos orgânicos no mundo inteiro, garantindo que qualquer químico consiga entender a estrutura apenas lendo o nome. Ela segue regras lógicas baseadas na cadeia principal, ramificações e grupos funcionais. Sabia que o nome oficial da cafeína segundo a IUPAC tem mais de 40 letras?",
+    "palavras_chave": ["nomenclatura", "iupac", "nomes", "padronização", "estrutura"]
+  },
+  {
+    "pergunta": "O que são reações de substituição na química orgânica?",
+    "resposta": "Reações de substituição ocorrem quando um átomo ou grupo de átomos em uma molécula é trocado por outro. Elas são típicas dos compostos saturados, como os alcanos. Por exemplo, o cloro pode substituir um hidrogênio em uma molécula de metano, formando clorometano. Sabia que esse tipo de reação é usada para criar compostos com aplicações industriais e farmacêuticas?",
+    "palavras_chave": ["substituição", "alcano", "cloro", "metano", "reação"]
+  },
+  {
+    "pergunta": "O que são reações de adição em química orgânica?",
+    "resposta": "As reações de adição ocorrem quando átomos ou grupos são adicionados a uma molécula com ligação dupla ou tripla, transformando-a em uma molécula saturada. São comuns em alcenos e alcinos. Um exemplo clássico é a hidrogenação do eteno, que forma etano. Sabia que esse processo é usado para transformar óleos vegetais líquidos em margarinas sólidas?",
+    "palavras_chave": ["adição", "alcenos", "alcinos", "hidrogenação", "margarina"]
+  },
+  {
+    "pergunta": "O que diferencia uma reação de eliminação de uma de adição?",
+    "resposta": "Enquanto as reações de adição acrescentam átomos à molécula, as reações de eliminação fazem o oposto: removem átomos, geralmente formando ligações duplas. Por exemplo, o etanol pode perder água e se transformar em eteno. Esse tipo de reação é essencial em sínteses orgânicas e na indústria petroquímica.",
+    "palavras_chave": ["eliminação", "adição", "eteno", "etanol", "síntese"]
+  },
+  {
+    "pergunta": "O que são álcoois e onde são encontrados no dia a dia?",
+    "resposta": "Os álcoois são compostos que contêm o grupo funcional hidroxila (–OH) ligado a um carbono saturado. O etanol é o mais conhecido e está presente em bebidas, combustíveis e produtos de limpeza. Já o glicerol, outro álcool, é usado em cosméticos e alimentos. Sabia que o etanol pode ser produzido por fermentação natural, como no processo do vinho?",
+    "palavras_chave": ["álcoois", "hidroxila", "etanol", "glicerol", "fermentação"]
+  },
+  {
+    "pergunta": "O que caracteriza um ácido carboxílico?",
+    "resposta": "Os ácidos carboxílicos contêm o grupo funcional –COOH e apresentam sabor e odor marcantes. O ácido acético, por exemplo, é o principal componente do vinagre. Já os ácidos graxos são encontrados em óleos e gorduras. Sabia que o cheiro forte de alguns chulé vem de ácidos carboxílicos liberados pelo suor e bactérias?",
+    "palavras_chave": ["ácido carboxílico", "carboxila", "ácido acético", "vinagre", "ácidos graxos"]
+  },
+  {
+    "pergunta": "O que são ésteres e por que são usados em perfumes?",
+    "resposta": "Os ésteres são formados pela reação entre um ácido carboxílico e um álcool. Eles possuem cheiros agradáveis, lembrando frutas e flores, por isso são amplamente usados na fabricação de essências e fragrâncias. Por exemplo, o acetato de isoamila tem aroma de banana. Sabia que o cheiro artificial de morango também vem de um éster?",
+    "palavras_chave": ["ésteres", "perfumes", "cheiro", "reação", "ácido carboxílico"]
+  },
+  {
+    "pergunta": "Qual a diferença entre aldeídos e cetonas?",
+    "resposta": "Ambos têm o grupo carbonila (C=O), mas nos aldeídos ele aparece nas extremidades da cadeia, enquanto nas cetonas está no meio. Essa pequena diferença muda completamente o comportamento químico. O formaldeído é um aldeído usado em conservação biológica, e a acetona, uma cetona, é usada como solvente. Sabia que o cheiro característico das frutas maduras vem de aldeídos voláteis?",
+    "palavras_chave": ["aldeídos", "cetonas", "carbonila", "acetona", "formaldeído"]
+  },
+  {
+    "pergunta": "O que são aminas e onde elas aparecem no corpo humano?",
+    "resposta": "As aminas derivam da amônia e contêm nitrogênio ligado a cadeias de carbono. Elas estão presentes em neurotransmissores como a dopamina e a serotonina, que regulam o humor e o bem-estar. Também aparecem em compostos de cheiro forte, como o da decomposição de peixes. Sabia que o nome 'anilina', uma amina aromática, vem da flor índigo?",
+    "palavras_chave": ["aminas", "nitrogênio", "neurotransmissores", "dopamina", "serotonina"]
+  },
+  {
+    "pergunta": "O que são amidas e por que elas são importantes nas proteínas?",
+    "resposta": "As amidas contêm o grupo –CONH– e aparecem em ligações chamadas peptídicas, que unem aminoácidos para formar proteínas. Essa ligação é essencial para a estrutura e função dos seres vivos. Sabia que os tecidos sintéticos como o náilon também contêm ligações amídicas semelhantes às das proteínas?",
+    "palavras_chave": ["amidas", "peptídica", "proteínas", "aminoácidos", "náilon"]
+  },
+  {
+    "pergunta": "O que são compostos aromáticos?",
+    "resposta": "Compostos aromáticos possuem anéis de carbono com ligações alternadas, como o benzeno. Eles têm estabilidade especial e são usados na fabricação de medicamentos, plásticos e corantes. Sabia que o termo 'aromático' vem do fato de que muitos desses compostos têm cheiros marcantes, embora nem todos os aromáticos sejam perfumados?",
+    "palavras_chave": ["aromáticos", "benzeno", "anel", "estabilidade", "corantes"]
+  },
+  {
+    "pergunta": "O que é polimerização na química orgânica?",
+    "resposta": "A polimerização é o processo em que pequenas moléculas chamadas monômeros se unem formando grandes cadeias conhecidas como polímeros. Esse fenômeno é a base da fabricação de plásticos, borrachas e fibras sintéticas. Sabia que o DNA também é um polímero natural formado por nucleotídeos?",
+    "palavras_chave": ["polimerização", "monômeros", "polímeros", "plásticos", "dna"]
+  },
+  {
+    "pergunta": "Como ocorre a combustão dos compostos orgânicos?",
+    "resposta": "A combustão é uma reação de oxidação rápida entre um composto orgânico e o oxigênio, liberando energia em forma de calor e luz. O resultado é geralmente dióxido de carbono e água. Esse processo é fundamental na geração de energia, como nos motores a gasolina. Sabia que a chama azul do fogão indica uma combustão mais completa?",
+    "palavras_chave": ["combustão", "oxidação", "energia", "gases", "calor"]
+  },
+  {
+    "pergunta": "O que são compostos saturados e insaturados?",
+    "resposta": "Os compostos saturados têm apenas ligações simples entre os carbonos, enquanto os insaturados apresentam uma ou mais ligações duplas ou triplas. Isso influencia sua reatividade e seu estado físico. Por exemplo, óleos vegetais são insaturados e líquidos, enquanto gorduras animais são saturadas e sólidas. Sabia que essa diferença é o motivo de o azeite não endurecer na geladeira?",
+    "palavras_chave": ["saturado", "insaturado", "ligações", "óleos", "gorduras"]
+  },
+  {
+    "pergunta": "O que são compostos halogenados e para que servem?",
+    "resposta": "Os compostos halogenados contêm átomos de halogênios, como flúor, cloro, bromo ou iodo. Eles são usados em solventes, anestésicos e pesticidas. Um exemplo é o clorofórmio, que foi amplamente utilizado como anestésico no passado. Sabia que o gás CFC, usado em refrigeradores antigos, também é um composto halogenado?",
+    "palavras_chave": ["halogenados", "cloro", "flúor", "pesticidas", "anestésicos"]
+  },
+  {
+    "pergunta": "Como ocorre a reação de esterificação?",
+    "resposta": "A esterificação é uma reação entre um ácido carboxílico e um álcool, formando um éster e água. Ela é muito usada na produção de aromas, solventes e biodiesel. Sabia que o cheiro de abacaxi artificial vem de um éster produzido justamente por esse tipo de reação?",
+    "palavras_chave": ["esterificação", "ácido", "álcool", "éster", "biodiesel"]
+  },
+  {
+    "pergunta": "O que é cracking na indústria do petróleo?",
+    "resposta": "Cracking é um processo que quebra moléculas grandes de hidrocarbonetos em menores, geralmente para produzir gasolina e outros combustíveis. Ele pode ser térmico ou catalítico, e é essencial para o aproveitamento do petróleo. Sabia que essa técnica foi desenvolvida no início do século XX e revolucionou a indústria energética?",
+    "palavras_chave": ["cracking", "petróleo", "hidrocarbonetos", "combustíveis", "energia"]
+  },
+  {
+    "pergunta": "O que é uma reação de oxidação orgânica?",
+    "resposta": "Na oxidação orgânica, há aumento do número de oxigênios ou perda de hidrogênios em uma molécula. Essas reações são importantes na produção de compostos como aldeídos, cetonas e ácidos. Sabia que a ferrugem em metais e a degradação de gorduras seguem princípios de oxidação semelhantes?",
+    "palavras_chave": ["oxidação", "orgânica", "oxigênio", "reações", "compostos"]
+  },
+  {
+    "pergunta": "Por que os compostos orgânicos são tão variados?",
+    "resposta": "A variedade vem da capacidade do carbono de se ligar de muitas formas, criando cadeias lineares, ramificadas ou cíclicas, com diferentes grupos funcionais. Essa versatilidade gera milhões de compostos diferentes. Sabia que existem mais compostos orgânicos conhecidos do que todos os inorgânicos somados?",
+    "palavras_chave": ["carbono", "ligações", "cadeias", "variedade", "orgânica"]
+  },
+  {
+    "pergunta": "O que é uma reação de condensação?",
+    "resposta": "Na reação de condensação, duas moléculas se unem formando um composto maior, com liberação de uma pequena molécula, geralmente água. Esse processo é essencial na formação de polímeros naturais e sintéticos. Sabia que as proteínas e plásticos são formados por reações desse tipo?",
+    "palavras_chave": ["condensação", "moléculas", "água", "polímeros", "síntese"]
+  },
+  {
+    "pergunta": "Como as propriedades físicas dos compostos orgânicos variam?",
+    "resposta": "As propriedades físicas, como ponto de ebulição e solubilidade, variam conforme o tamanho da cadeia, polaridade e presença de grupos funcionais. Por exemplo, álcoois são mais solúveis em água que hidrocarbonetos. Sabia que pequenas mudanças na estrutura podem transformar um gás em um líquido ou sólido?",
+    "palavras_chave": ["propriedades", "solubilidade", "polaridade", "cadeia", "estrutura"]
+  },
+  {
+    "pergunta": "O que diferencia um composto aromático de um alifático?",
+    "resposta": "Os compostos aromáticos possuem anéis de carbono com elétrons deslocalizados, enquanto os alifáticos têm cadeias abertas ou fechadas sem esse tipo de ressonância. Essa diferença afeta reatividade e estabilidade. Sabia que o benzeno foi o primeiro composto aromático estudado sistematicamente, em 1825?",
+    "palavras_chave": ["aromático", "alifático", "benzeno", "anel", "ressonância"]
+  },
+  {
+    "pergunta": "O que são reações de polimerização por adição?",
+    "resposta": "Nessas reações, monômeros com ligações duplas se unem sem perda de átomos, formando polímeros longos. O polietileno, usado em sacolas plásticas, é um exemplo. Sabia que esse tipo de polimerização é responsável pela maioria dos plásticos que usamos no dia a dia?",
+    "palavras_chave": ["polimerização", "adição", "monômeros", "plásticos", "polietileno"]
+  },
+  {
+    "pergunta": "O que são compostos heterocíclicos?",
+    "resposta": "São compostos cujos anéis contêm, além de carbono, outros elementos como oxigênio, nitrogênio ou enxofre. Muitos deles estão em medicamentos e biomoléculas, como a cafeína e a clorofila. Sabia que o DNA também contém bases nitrogenadas formadas por anéis heterocíclicos?",
+    "palavras_chave": ["heterocíclicos", "anéis", "nitrogênio", "oxigênio", "biomoléculas"]
+  },
+  {
+    "pergunta": "Como os compostos orgânicos estão presentes nos medicamentos?",
+    "resposta": "A maioria dos medicamentos é formada por compostos orgânicos, que interagem com o corpo por meio de reações químicas específicas. A aspirina, por exemplo, é um derivado do ácido salicílico, um composto orgânico natural. Sabia que esse ácido foi originalmente extraído da casca do salgueiro?",
+    "palavras_chave": ["medicamentos", "compostos", "ácido salicílico", "aspirina", "orgânica"]
+  },
+  {
+    "pergunta": "O que é a isomeria óptica e por que ela é importante?",
+    "resposta": "A isomeria óptica ocorre quando moléculas têm a mesma fórmula estrutural, mas se comportam de maneira diferente em relação à luz polarizada, por apresentarem átomos de carbono assimétricos. Essa propriedade é crucial em fármacos, já que um isômero pode ter efeito terapêutico e o outro ser inativo ou até tóxico. Sabia que o medicamento talidomida causou deformações porque era uma mistura de isômeros ópticos?",
+    "palavras_chave": ["isomeria", "óptica", "carbono", "fármacos", "luz"]
+  },
+  {
+    "pergunta": "O que são reações de oxirredução em compostos orgânicos?",
+    "resposta": "As reações de oxirredução envolvem transferência de elétrons ou alteração nos estados de oxidação dos átomos. Na química orgânica, elas estão ligadas à adição de oxigênio ou remoção de hidrogênio. São fundamentais em processos biológicos, como a respiração celular. Sabia que as mitocôndrias realizam centenas dessas reações por segundo?",
+    "palavras_chave": ["oxirredução", "oxidação", "redução", "elétrons", "respiração"]
+  },
+  {
+    "pergunta": "Como funciona a reação de halogenação de alcanos?",
+    "resposta": "Na halogenação, átomos de hidrogênio em um alcano são substituídos por halogênios como cloro ou bromo, geralmente com luz ou calor como catalisador. Essa reação é usada para produzir compostos úteis em indústrias químicas e farmacêuticas. Sabia que o clorofórmio é obtido justamente por halogenação do metano?",
+    "palavras_chave": ["halogenação", "alcano", "cloro", "bromo", "reação"]
+  },
+  {
+    "pergunta": "O que são reações de adição eletrofílica?",
+    "resposta": "Elas ocorrem em compostos com ligações duplas, como alcenos, quando um reagente eletrofílico ataca a região rica em elétrons. É um dos mecanismos mais comuns em síntese orgânica. Sabia que o processo de obtenção de etanol a partir do eteno ocorre por adição eletrofílica de água?",
+    "palavras_chave": ["adição", "eletrofílica", "alcenos", "síntese", "eteno"]
+  },
+  {
+    "pergunta": "O que é a regra de Markovnikov?",
+    "resposta": "A regra de Markovnikov ajuda a prever o produto principal de uma adição em alcenos: o hidrogênio se liga ao carbono que já tem mais hidrogênios. Essa regra é essencial para entender reações de adição eletrofílica. Sabia que ela foi proposta em 1869 e ainda é ensinada em todos os cursos de química orgânica?",
+    "palavras_chave": ["markovnikov", "adição", "alcenos", "hidrogênio", "regra"]
+  },
+  {
+    "pergunta": "O que é a reação de desidratação de álcoois?",
+    "resposta": "Na desidratação de álcoois, a molécula perde água e forma uma ligação dupla, resultando em um alceno. Isso ocorre geralmente em presença de ácido e calor. Sabia que esse processo é usado para produzir eteno a partir do etanol nas indústrias petroquímicas?",
+    "palavras_chave": ["desidratação", "álcoois", "alceno", "etanol", "reação"]
+  },
+  {
+    "pergunta": "O que são compostos orgânicos voláteis (COVs)?",
+    "resposta": "Os compostos orgânicos voláteis são substâncias que evaporam facilmente à temperatura ambiente e contribuem para a poluição do ar. Eles estão presentes em solventes, tintas e combustíveis. Sabia que o cheiro de gasolina vem de COVs como o benzeno e o tolueno?",
+    "palavras_chave": ["voláteis", "benzeno", "poluição", "solventes", "tolueno"]
+  },
+  {
+    "pergunta": "Como a química orgânica se relaciona com a bioquímica?",
+    "resposta": "A bioquímica aplica princípios da química orgânica para entender reações que ocorrem em organismos vivos. Ela estuda moléculas como proteínas, lipídios, carboidratos e ácidos nucleicos. Sabia que o metabolismo celular é um conjunto de reações orgânicas complexas que ocorrem continuamente no corpo?",
+    "palavras_chave": ["bioquímica", "orgânica", "metabolismo", "moléculas", "vida"]
+  },
+  {
+    "pergunta": "O que são lipídios e qual sua importância biológica?",
+    "resposta": "Lipídios são compostos orgânicos insolúveis em água que funcionam como reserva de energia e proteção celular. Incluem gorduras, óleos e ceras. Sabia que a camada oleosa da pele é composta por lipídios que ajudam a evitar a perda de água?",
+    "palavras_chave": ["lipídios", "gorduras", "óleos", "energia", "biológica"]
+  },
+  {
+    "pergunta": "O que é uma reação de saponificação?",
+    "resposta": "A saponificação é a reação entre um éster e uma base forte, produzindo sabão e glicerol. É o processo clássico de fabricação de sabões artesanais e industriais. Sabia que o termo vem do latim 'sapo', que significa sabão?",
+    "palavras_chave": ["saponificação", "éster", "base", "sabão", "glicerol"]
+  },
+  {
+    "pergunta": "Como a química orgânica contribui para a produção de biocombustíveis?",
+    "resposta": "Ela permite transformar matérias-primas vegetais, como óleos e açúcares, em combustíveis como etanol e biodiesel. Esses processos envolvem reações de fermentação e transesterificação. Sabia que o Brasil é líder mundial na produção de etanol a partir da cana-de-açúcar?",
+    "palavras_chave": ["biocombustíveis", "etanol", "biodiesel", "fermentação", "transesterificação"]
+  },
+  {
+    "pergunta": "O que é a reação de transesterificação?",
+    "resposta": "Na transesterificação, um éster reage com um álcool para formar outro éster e um novo álcool. Esse processo é usado na produção de biodiesel a partir de óleos vegetais e etanol ou metanol. Sabia que cada litro de biodiesel produzido gera também glicerina como subproduto?",
+    "palavras_chave": ["transesterificação", "éster", "biodiesel", "álcool", "óleos"]
+  },
+  {
+    "pergunta": "O que é uma reação de hidratação de alcenos?",
+    "resposta": "A hidratação de alcenos é uma adição de água à molécula, formando álcoois. Essa reação é catalisada por ácidos e tem grande importância industrial. Sabia que o etanol pode ser obtido tanto pela fermentação quanto pela hidratação do eteno?",
+    "palavras_chave": ["hidratação", "alcenos", "álcoois", "adição", "indústria"]
+  },
+  {
+    "pergunta": "Como ocorre a fermentação alcoólica?",
+    "resposta": "A fermentação alcoólica é um processo biológico no qual microrganismos, como leveduras, transformam açúcares em etanol e gás carbônico. É usada na produção de bebidas e biocombustíveis. Sabia que esse processo ocorre há mais de 7 mil anos, desde a fabricação de cerveja na Mesopotâmia?",
+    "palavras_chave": ["fermentação", "álcool", "levedura", "etanol", "biocombustível"]
+  },
+  {
+    "pergunta": "O que são proteínas sob o ponto de vista da química orgânica?",
+    "resposta": "As proteínas são macromoléculas orgânicas formadas por cadeias de aminoácidos ligados por ligações peptídicas. Elas exercem funções estruturais, enzimáticas e hormonais nos seres vivos. Sabia que a queratina do cabelo e a hemoglobina do sangue são compostas por diferentes tipos de proteínas?",
+    "palavras_chave": ["proteínas", "aminoácidos", "peptídicas", "enzimas", "função"]
+  },
+  {
+    "pergunta": "Como a química orgânica está presente nos plásticos?",
+    "resposta": "Os plásticos são polímeros orgânicos formados por cadeias longas de carbono. Cada tipo de plástico tem propriedades específicas, como o poliestireno ou o PVC. Sabia que muitos plásticos modernos são projetados para se degradar mais rápido, reduzindo o impacto ambiental?",
+    "palavras_chave": ["plásticos", "polímeros", "carbono", "pvc", "impacto"]
+  },
+  {
+    "pergunta": "O que são compostos aromáticos policíclicos e por que são preocupantes?",
+    "resposta": "São compostos com vários anéis aromáticos condensados, formados principalmente na queima incompleta de combustíveis. Muitos deles são cancerígenos e poluentes persistentes. Sabia que a fumaça do churrasco e dos escapamentos contém esses compostos?",
+    "palavras_chave": ["aromáticos", "policíclicos", "poluição", "combustão", "cancerígeno"]
+  },
+  {
+    "pergunta": "O que é a química verde aplicada à orgânica?",
+    "resposta": "A química verde busca reduzir o uso de substâncias tóxicas e o desperdício em processos químicos. Na orgânica, ela incentiva o uso de catalisadores e solventes biodegradáveis. Sabia que algumas universidades já produzem plásticos feitos de resíduos agrícolas?",
+    "palavras_chave": ["química verde", "sustentabilidade", "catalisadores", "solventes", "biodegradável"]
+  },
+  {
+    "pergunta": "O que é uma reação de rearranjo?",
+    "resposta": "Nessas reações, a estrutura interna da molécula muda, rearranjando átomos ou grupos sem alterar a fórmula molecular. Elas são importantes em síntese de compostos complexos. Sabia que muitos perfumes e medicamentos dependem de rearranjos precisos para atingir a forma desejada?",
+    "palavras_chave": ["rearranjo", "estrutura", "síntese", "molécula", "reações"]
+  },
+  {
+    "pergunta": "Como os compostos orgânicos afetam o meio ambiente?",
+    "resposta": "Muitos compostos orgânicos, especialmente os sintéticos, podem poluir o solo e a água, além de acumular-se em cadeias alimentares. A conscientização ambiental tem levado ao desenvolvimento de compostos biodegradáveis. Sabia que até cosméticos estão sendo reformulados com ingredientes orgânicos sustentáveis?",
+    "palavras_chave": ["meio ambiente", "poluição", "orgânicos", "biodegradáveis", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que diferencia um polímero natural de um sintético?",
+    "resposta": "Os polímeros naturais, como o amido e a celulose, são produzidos por organismos vivos. Já os sintéticos, como o náilon e o polietileno, são fabricados em laboratório. Sabia que a borracha natural e a sintética possuem propriedades semelhantes, mas origens diferentes?",
+    "palavras_chave": ["polímeros", "naturais", "sintéticos", "celulose", "borracha"]
+  },
+  {
+    "pergunta": "O que são carboidratos do ponto de vista químico?",
+    "resposta": "Carboidratos são compostos orgânicos formados por carbono, hidrogênio e oxigênio, que servem como principal fonte de energia para os seres vivos. Incluem açúcares, amidos e fibras. Sabia que o nome 'carboidrato' vem de 'hidrato de carbono', por sua proporção entre H e O?",
+    "palavras_chave": ["carboidratos", "energia", "açúcares", "amido", "oxigênio"]
+  },
+  {
+    "pergunta": "Como os compostos orgânicos estão presentes na medicina moderna?",
+    "resposta": "Grande parte dos fármacos modernos é baseada em moléculas orgânicas que interagem com receptores biológicos. Analgésicos, antibióticos e anestésicos são exemplos. Sabia que a penicilina foi o primeiro antibiótico orgânico descoberto a partir de um fungo?",
+    "palavras_chave": ["fármacos", "antibióticos", "penicilina", "moléculas", "orgânica"]
+  },
+  {
+    "pergunta": "Qual a relação entre química orgânica e alimentação?",
+    "resposta": "Os alimentos são compostos por substâncias orgânicas como proteínas, lipídios e carboidratos. A química orgânica explica suas reações durante o cozimento e digestão. Sabia que o escurecimento do pão e da carne ao assar é resultado de reações entre açúcares e aminoácidos?",
+    "palavras_chave": ["alimentação", "proteínas", "carboidratos", "lipídios", "reações"]
+  },
+  {
+    "pergunta": "O que são polímeros condutores e onde são usados?",
+    "resposta": "Polímeros condutores são materiais orgânicos que conduzem eletricidade, como o polianilina e o poli(acetileno). Eles são usados em eletrônica, sensores e células solares. Sabia que esses polímeros permitiram o desenvolvimento de telas flexíveis e dispositivos eletrônicos dobráveis?",
+    "palavras_chave": ["polímeros", "condutores", "eletricidade", "eletrônica", "células solares"]
+  },
+  {
+    "pergunta": "Como os fármacos sintéticos são desenvolvidos a partir de compostos orgânicos?",
+    "resposta": "Os fármacos sintéticos são criados modificando moléculas orgânicas para otimizar efeito terapêutico e reduzir efeitos colaterais. O estudo da química orgânica permite prever como a molécula interage no organismo. Sabia que muitos medicamentos anticâncer foram inspirados em compostos naturais, mas modificados em laboratório?",
+    "palavras_chave": ["fármacos", "sintéticos", "orgânicos", "medicamentos", "laboratório"]
+  },
+  {
+    "pergunta": "O que são ligantes em química orgânica e para que servem na medicina?",
+    "resposta": "Ligantes são moléculas orgânicas que se ligam a íons metálicos ou proteínas, alterando suas funções. Na medicina, eles ajudam a direcionar medicamentos para órgãos específicos. Sabia que alguns ligantes são usados em quimioterapia para levar o fármaco diretamente às células cancerígenas?",
+    "palavras_chave": ["ligantes", "moléculas", "proteínas", "medicina", "fármacos"]
+  },
+  {
+    "pergunta": "Como os compostos orgânicos contribuem para energias renováveis?",
+    "resposta": "Eles são fundamentais na produção de biocombustíveis, células solares orgânicas e baterias de lítio. Compostos orgânicos permitem armazenar e transferir energia de maneira eficiente. Sabia que pesquisadores estão desenvolvendo painéis solares flexíveis feitos de polímeros orgânicos?",
+    "palavras_chave": ["orgânicos", "energia", "renovável", "biocombustíveis", "células solares"]
+  },
+  {
+    "pergunta": "O que é a reação de acilação em química orgânica?",
+    "resposta": "A acilação consiste em adicionar um grupo acila (R–CO–) a uma molécula, formando cetonas ou amidas. É importante na síntese de medicamentos e corantes. Sabia que a acilação de Friedel-Crafts é uma técnica clássica usada para introduzir grupos aromáticos em compostos orgânicos?",
+    "palavras_chave": ["acilação", "grupo acila", "cetona", "amida", "síntese"]
+  },
+  {
+    "pergunta": "O que são compostos organometálicos?",
+    "resposta": "São moléculas que possuem ligações entre carbono e metais, como o tetracarbonil de ferro. Eles são usados como catalisadores em reações industriais e sínteses orgânicas. Sabia que a primeira reação de organometálico bem-sucedida revolucionou a produção de plásticos?",
+    "palavras_chave": ["organometálicos", "carbono", "metal", "catalisadores", "síntese"]
+  },
+  {
+    "pergunta": "Como a química orgânica ajuda na preservação de alimentos?",
+    "resposta": "Compostos orgânicos como antioxidantes, conservantes e aromatizantes previnem a degradação e mantêm o sabor e a cor dos alimentos. Sabia que o ácido sórbico, um conservante natural, é usado em queijos, sucos e pães para evitar mofo?",
+    "palavras_chave": ["preservação", "alimentos", "antioxidantes", "conservantes", "orgânicos"]
+  },
+  {
+    "pergunta": "O que são reagentes de Grignard e para que servem?",
+    "resposta": "Reagentes de Grignard são compostos organometálicos com magnésio ligados a haletos orgânicos. Eles são usados para formar álcoois e outras moléculas complexas em síntese orgânica. Sabia que essa reação é fundamental na indústria farmacêutica para produzir vitaminas e hormônios?",
+    "palavras_chave": ["grignard", "organometálico", "álcoois", "síntese", "fármacos"]
+  },
+  {
+    "pergunta": "O que são polímeros biodegradáveis?",
+    "resposta": "São plásticos orgânicos que se decompõem por ação de microrganismos, reduzindo impacto ambiental. Exemplos incluem PLA e PHA. Sabia que esses polímeros podem ser usados em embalagens descartáveis e na medicina para suturas absorvíveis?",
+    "palavras_chave": ["polímeros", "biodegradáveis", "microrganismos", "plásticos", "ambiental"]
+  },
+  {
+    "pergunta": "Como a química orgânica contribui para a nanotecnologia?",
+    "resposta": "Moléculas orgânicas são usadas para construir nanomateriais, como nanocápsulas e nanotubos, com aplicações em medicina, eletrônica e energia. Sabia que nanopartículas orgânicas podem levar medicamentos diretamente a células específicas, aumentando a eficácia do tratamento?",
+    "palavras_chave": ["nanotecnologia", "moléculas", "orgânicas", "nanopartículas", "medicina"]
+  },
+  {
+    "pergunta": "O que são biomoléculas sintéticas?",
+    "resposta": "São moléculas orgânicas criadas artificialmente para imitar ou complementar funções biológicas, como DNA, proteínas e lipídios. Sabia que essas biomoléculas são usadas em terapias gênicas e vacinas de RNA?",
+    "palavras_chave": ["biomoléculas", "sintéticas", "orgânicas", "terapia", "vacinas"]
+  },
+  {
+    "pergunta": "Como ocorre a polimerização por condensação?",
+    "resposta": "Na polimerização por condensação, monômeros se unem liberando pequenas moléculas como água ou metanol. É usada na produção de nylon, poliéster e proteínas artificiais. Sabia que o nylon foi o primeiro polímero totalmente sintético comercializado?",
+    "palavras_chave": ["polimerização", "condensação", "monômeros", "nylon", "poliéster"]
+  },
+  {
+    "pergunta": "O que são compostos aromáticos substituídos?",
+    "resposta": "São aromáticos em que átomos ou grupos substituem hidrogênios no anel, alterando propriedades químicas. Eles são usados em tintas, explosivos e medicamentos. Sabia que o TNT é um exemplo de aromático altamente substituído?",
+    "palavras_chave": ["aromáticos", "substituídos", "tintas", "explosivos", "medicamentos"]
+  },
+  {
+    "pergunta": "O que são reações de policondensação?",
+    "resposta": "São reações em que múltiplos monômeros se combinam, liberando moléculas pequenas a cada etapa, formando polímeros complexos. Sabia que o poliéster usado em roupas é produzido por esse processo?",
+    "palavras_chave": ["policondensação", "polímeros", "monômeros", "poliéster", "reações"]
+  },
+  {
+    "pergunta": "Como compostos orgânicos ajudam na purificação de água?",
+    "resposta": "Alguns compostos orgânicos funcionam como floculantes ou adsorventes, removendo impurezas e metais pesados. Sabia que carvão ativado, um composto orgânico, é amplamente usado em filtros domésticos e industriais?",
+    "palavras_chave": ["purificação", "água", "orgânicos", "adsorventes", "carvão"]
+  },
+  {
+    "pergunta": "O que é química supramolecular em relação à orgânica?",
+    "resposta": "É o estudo de interações entre moléculas orgânicas que se organizam sem formar ligações covalentes. Essas interações permitem criar sensores, materiais inteligentes e sistemas de entrega de fármacos. Sabia que estruturas supramoleculares podem se auto-montar como blocos de LEGO microscópicos?",
+    "palavras_chave": ["supramolecular", "interações", "moléculas", "orgânica", "materiais"]
+  },
+  {
+    "pergunta": "O que são dendrímeros?",
+    "resposta": "Dendrímeros são macromoléculas orgânicas altamente ramificadas que podem transportar medicamentos ou genes com precisão. Sabia que eles funcionam como pequenas árvores microscópicas, com espaços para carregar múltiplas moléculas simultaneamente?",
+    "palavras_chave": ["dendrímeros", "macromoléculas", "ramificadas", "medicamentos", "genes"]
+  },
+  {
+    "pergunta": "Como a química orgânica contribui para a energia solar orgânica?",
+    "resposta": "Compostos orgânicos semicondutores são usados em células solares flexíveis e leves, convertendo luz em eletricidade. Sabia que pesquisas atuais buscam aumentar a eficiência dessas células para rivalizar com silício?",
+    "palavras_chave": ["energia solar", "orgânica", "células", "semicondutores", "eletricidade"]
+  },
+  {
+    "pergunta": "O que são surfactantes e para que servem?",
+    "resposta": "Surfactantes são compostos orgânicos que reduzem a tensão superficial de líquidos, facilitando a mistura de água e óleo. Eles são usados em detergentes, shampoos e cosméticos. Sabia que alguns surfactantes são biodegradáveis e menos agressivos ao meio ambiente?",
+    "palavras_chave": ["surfactantes", "orgânicos", "tensão", "detergentes", "biodegradáveis"]
+  },
+  {
+    "pergunta": "O que são oligômeros?",
+    "resposta": "Oligômeros são moléculas orgânicas formadas por poucas unidades monoméricas ligadas entre si, intermediárias entre monômeros e polímeros. Sabia que alguns adesivos e resinas epóxi utilizam oligômeros para controlar viscosidade e cura?",
+    "palavras_chave": ["oligômeros", "monômeros", "polímeros", "resinas", "adesivos"]
+  },
+  {
+    "pergunta": "Como compostos orgânicos ajudam na captura de carbono?",
+    "resposta": "Alguns materiais orgânicos, como polímeros e biochar, adsorvem CO₂ da atmosfera, ajudando a mitigar mudanças climáticas. Sabia que pesquisas buscam criar esponjas moleculares capazes de capturar CO₂ de maneira seletiva?",
+    "palavras_chave": ["carbono", "captura", "orgânicos", "polímeros", "clima"]
+  },
+  {
+    "pergunta": "O que são copolímeros e por que são importantes?",
+    "resposta": "Copolímeros são polímeros formados pela combinação de dois ou mais tipos de monômeros, conferindo propriedades variadas. Sabia que os copolímeros são usados em embalagens, tecidos e materiais médicos por sua versatilidade?",
+    "palavras_chave": ["copolímeros", "polímeros", "monômeros", "materiais", "versatilidade"]
+  },
+  {
+    "pergunta": "O que são compostos orgânicos fluorados e suas aplicações?",
+    "resposta": "São compostos em que átomos de flúor substituem hidrogênios, aumentando estabilidade e resistência química. São usados em Teflon, refrigerantes e medicamentos. Sabia que o Teflon, usado em frigideiras antiaderentes, é um polímero orgânico fluorado?",
+    "palavras_chave": ["fluorados", "orgânicos", "teflon", "medicamentos", "estabilidade"]
+  },
+  {
+    "pergunta": "O que são polímeros inteligentes?",
+    "resposta": "Polímeros inteligentes são materiais orgânicos que respondem a estímulos externos, como temperatura, pH ou luz, mudando suas propriedades. São usados em sensores, medicamentos e tecidos especiais. Sabia que existem polímeros que mudam de cor quando detectam mudanças de temperatura?",
+    "palavras_chave": ["polímeros", "inteligentes", "estímulos", "sensores", "orgânicos"]
+  },
+  {
+    "pergunta": "Como a química orgânica auxilia na fabricação de vacinas?",
+    "resposta": "Moléculas orgânicas são usadas para criar adjuvantes, vetores e cápsulas que protegem e liberam o princípio ativo. Sabia que as vacinas de RNA usam lipídios orgânicos para transportar a mensagem genética às células?",
+    "palavras_chave": ["vacinas", "orgânicos", "lipídios", "RNA", "adjuvantes"]
+  },
+  {
+    "pergunta": "O que são polímeros condutores de íons?",
+    "resposta": "São polímeros orgânicos que permitem a passagem de íons, sendo usados em baterias e células de combustível. Sabia que essa tecnologia possibilita baterias flexíveis e mais leves para eletrônicos portáteis?",
+    "palavras_chave": ["polímeros", "condutores", "íons", "baterias", "orgânicos"]
+  },
+  {
+    "pergunta": "Como os dendrímeros são usados na medicina?",
+    "resposta": "Dendrímeros podem carregar medicamentos, genes ou imagens de diagnóstico, liberando-os de forma controlada. Sabia que eles funcionam como pequenos sistemas de entrega personalizados, aumentando a eficácia terapêutica?",
+    "palavras_chave": ["dendrímeros", "medicina", "orgânicos", "medicamentos", "liberação"]
+  },
+  {
+    "pergunta": "O que são polímeros biodegradáveis inteligentes?",
+    "resposta": "São polímeros que se degradam no ambiente e ainda respondem a estímulos, como pH ou luz, para liberar substâncias. Sabia que eles podem ser usados em medicamentos controlados e embalagens sustentáveis?",
+    "palavras_chave": ["polímeros", "biodegradáveis", "inteligentes", "medicamentos", "orgânicos"]
+  },
+  {
+    "pergunta": "Como os organometálicos ajudam na síntese de fármacos?",
+    "resposta": "Eles atuam como catalisadores ou intermediários em reações complexas, permitindo criar moléculas com precisão. Sabia que muitas reações de acoplamento usadas na indústria farmacêutica dependem de compostos organometálicos?",
+    "palavras_chave": ["organometálicos", "fármacos", "síntese", "catalisadores", "orgânicos"]
+  },
+  {
+    "pergunta": "O que são compostos heterocíclicos nitrogenados?",
+    "resposta": "São moléculas com anéis contendo nitrogênio, muito comuns em fármacos, vitaminas e bases do DNA. Sabia que a cafeína e a teobromina, presentes em café e chocolate, são exemplos desses compostos?",
+    "palavras_chave": ["heterocíclicos", "nitrogênio", "fármacos", "dna", "orgânicos"]
+  },
+  {
+    "pergunta": "Como os polímeros superabsorventes funcionam?",
+    "resposta": "Eles absorvem grandes quantidades de água por meio de grupos polares e rede tridimensional. São usados em fraldas, produtos médicos e horticultura. Sabia que um único grama desses polímeros pode absorver até 500 ml de água?",
+    "palavras_chave": ["polímeros", "superabsorventes", "água", "orgânicos", "absorção"]
+  },
+  {
+    "pergunta": "O que são organocatalisadores?",
+    "resposta": "São pequenas moléculas orgânicas que aceleram reações químicas sem usar metais. Sabia que eles são usados em síntese de medicamentos e produtos químicos finos de forma mais sustentável?",
+    "palavras_chave": ["organocatalisadores", "orgânicos", "síntese", "sustentável", "reações"]
+  },
+  {
+    "pergunta": "O que é a química de click em química orgânica?",
+    "resposta": "É um conjunto de reações rápidas, seletivas e de alto rendimento para unir moléculas orgânicas. Sabia que a química de click é usada para produzir fármacos, materiais e bioconjugados de forma eficiente?",
+    "palavras_chave": ["click", "orgânicos", "reações", "síntese", "eficiência"]
+  },
+  {
+    "pergunta": "Como os polímeros condutores são aplicados em eletrônica flexível?",
+    "resposta": "Eles conduzem eletricidade e podem ser dobrados ou esticados, permitindo telas flexíveis, sensores e roupas inteligentes. Sabia que alguns protótipos de smartphones usam esses polímeros em circuitos impressos?",
+    "palavras_chave": ["polímeros", "condutores", "orgânicos", "eletrônica", "flexível"]
+  },
+  {
+    "pergunta": "O que são nanotubos de carbono orgânicos?",
+    "resposta": "São estruturas cilíndricas de carbono que conduzem eletricidade e calor, usados em eletrônica, energia e medicina. Sabia que um fio feito de nanotubos pode ser mais forte que aço e ao mesmo tempo mais leve?",
+    "palavras_chave": ["nanotubos", "carbono", "orgânicos", "eletrônica", "energia"]
+  },
+  {
+    "pergunta": "Como a química orgânica contribui para adesivos de alto desempenho?",
+    "resposta": "Moléculas orgânicas são usadas para criar redes poliméricas resistentes e adesivas. Sabia que alguns adesivos espaciais são baseados em polímeros orgânicos que suportam temperaturas extremas?",
+    "palavras_chave": ["adesivos", "orgânicos", "polímeros", "resistência", "alta"]
+  },
+  {
+    "pergunta": "O que são ligantes quirais em química orgânica?",
+    "resposta": "Ligantes quirais são moléculas orgânicas que induzem seletividade estereoisomérica em reações químicas, essenciais na produção de fármacos ativos. Sabia que o uso correto de ligantes quirais evita a produção de isômeros indesejados?",
+    "palavras_chave": ["ligantes", "quirais", "orgânicos", "fármacos", "isômeros"]
+  },
+  {
+    "pergunta": "O que são polímeros condutores iônicos?",
+    "resposta": "São polímeros orgânicos que permitem o movimento de íons, sendo usados em baterias, supercapacitores e sensores. Sabia que esses materiais podem tornar dispositivos eletrônicos mais leves e flexíveis?",
+    "palavras_chave": ["polímeros", "condutores", "iônicos", "baterias", "orgânicos"]
+  },
+  {
+    "pergunta": "Como os polímeros orgânicos são usados em filtros de água avançados?",
+    "resposta": "Eles atuam como adsorventes ou membranas seletivas, removendo contaminantes e metais pesados. Sabia que alguns filtros usam polímeros que capturam micropoluentes de forma eficiente e sustentável?",
+    "palavras_chave": ["filtros", "água", "orgânicos", "polímeros", "contaminantes"]
+  },
+  {
+    "pergunta": "O que são polímeros auto-montáveis?",
+    "resposta": "São polímeros que se organizam espontaneamente em estruturas específicas, usados em nanotecnologia e materiais inteligentes. Sabia que esses materiais podem formar cápsulas de liberação controlada de medicamentos?",
+    "palavras_chave": ["polímeros", "auto-montáveis", "orgânicos", "nanotecnologia", "medicamentos"]
+  },
+  {
+    "pergunta": "Como a química orgânica é aplicada em OLEDs?",
+    "resposta": "Moléculas orgânicas emissoras de luz são usadas em diodos orgânicos emissores de luz, como em televisores e smartphones. Sabia que esses OLEDs são flexíveis e mais eficientes que LEDs convencionais?",
+    "palavras_chave": ["OLED", "orgânicos", "luz", "eletrônicos", "moleculas"]
+  },
+  {
+    "pergunta": "O que são polímeros fotoativos?",
+    "resposta": "São polímeros que mudam propriedades quando expostos à luz, usados em fotopolimerização e sensores. Sabia que impressoras 3D usam esses polímeros para solidificação controlada por luz?",
+    "palavras_chave": ["polímeros", "fotoativos", "orgânicos", "luz", "sensores"]
+  },
+  {
+    "pergunta": "O que são compostos orgânicos organofosforados?",
+    "resposta": "São moléculas que contêm fósforo ligado a carbono e hidrogênio, usadas em pesticidas, flame retardants e medicamentos. Sabia que alguns organofosforados são altamente tóxicos e requerem manejo cuidadoso?",
+    "palavras_chave": ["organofosforados", "orgânicos", "pesticidas", "fósforo", "medicamentos"]
+  },
+  {
+    "pergunta": "Como os polímeros orgânicos são usados em baterias de fluxo?",
+    "resposta": "Eles atuam como eletrolitos ou membranas, permitindo o armazenamento eficiente de energia. Sabia que essas baterias podem ser escaladas para armazenamento em larga escala de energia solar e eólica?",
+    "palavras_chave": ["polímeros", "orgânicos", "baterias", "fluxo", "energia"]
+  },
+  {
+    "pergunta": "O que são copolímeros block e suas aplicações?",
+    "resposta": "São copolímeros com blocos distintos de monômeros organizados sequencialmente, usados em membranas, nanomateriais e medicina. Sabia que a estrutura em blocos permite propriedades combinadas, como resistência e flexibilidade?",
+    "palavras_chave": ["copolímeros", "block", "orgânicos", "materiais", "medicina"]
+  },
+  {
+    "pergunta": "O que são polímeros redox ativos?",
+    "resposta": "Polímeros orgânicos capazes de transferir elétrons, usados em baterias, supercapacitores e eletrônica. Sabia que esses polímeros permitem dispositivos de armazenamento de energia mais leves e sustentáveis?",
+    "palavras_chave": ["polímeros", "redox", "orgânicos", "baterias", "eletrônica"]
+  },
+  {
+    "pergunta": "Como a química orgânica ajuda na criação de sensores químicos?",
+    "resposta": "Moléculas orgânicas podem reagir com gases ou íons específicos, mudando cor ou condutividade, permitindo a detecção. Sabia que sensores baseados em polímeros orgânicos detectam gases tóxicos em tempo real em fábricas e laboratórios?",
+    "palavras_chave": ["sensores", "orgânicos", "químicos", "polímeros", "detecção"]
+  },
+  {
+    "pergunta": "O que são polímeros termorreativos?",
+    "resposta": "São polímeros orgânicos que endurecem ou mudam propriedades quando aquecidos, usados em adesivos, compósitos e impressão 3D. Sabia que eles podem ser projetados para curar repetidamente quando aplicadas calor, tornando materiais reutilizáveis?",
+    "palavras_chave": ["polímeros", "termorreativos", "orgânicos", "adesivos", "3d"]
+  }
+]

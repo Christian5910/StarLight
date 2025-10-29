@@ -1,0 +1,607 @@
+[
+  {
+    "pergunta": "O que é Geografia Econômica?",
+    "resposta": "A Geografia Econômica é o ramo da geografia que estuda a localização, distribuição e organização espacial das atividades econômicas no mundo. Ela analisa como as sociedades produzem, trocam e consomem bens e serviços, e como isso molda e é moldado pelo espaço geográfico. Vai desde a análise da agricultura familiar até a lógica das corporações transnacionais. Sabia que o termo ganhou força após a Segunda Guerra Mundial, quando a reconstrução da Europa demandou um profundo entendimento da distribuição de recursos e indústrias?",
+    "palavras_chave": ["atividades econômicas", "organização espacial", "distribuição", "produção", "espaço geográfico"]
+  },
+  {
+    "pergunta": "Qual a diferença entre recurso natural renovável e não renovável?",
+    "resposta": "Recursos renováveis são aqueles que podem se regenerar em um prazo relativamente curto, desde que geridos de forma sustentável, como a energia solar, o vento e as florestas. Já os não renováveis existem em quantidades finitas na natureza e seu esgotamento é irreversível em escalas de tempo humanas, como o petróleo, o carvão mineral e os minérios. A exploração descontrolada dos não renováveis é uma das grandes preocupações globais. Sabia que a água doce é considerada um recurso renovável, mas sua distribuição desigual e a poluição podem torná-la escassa em várias regiões, um fenômeno conhecido como 'estresse hídrico'?",
+    "palavras_chave": ["recursos renováveis", "recursos não renováveis", "esgotamento", "sustentabilidade", "petróleo"]
+  },
+  {
+    "pergunta": "O que é a 'maldição dos recursos'?",
+    "resposta": "A 'maldição dos recursos', ou 'paradoxo da abundância', é uma teoria que descreve como países com grandes reservas de recursos naturais valiosos, como petróleo ou diamantes, podem ter um desempenho econômico pior e maiores conflitos internos do que países com menos recursos. Isso acontece devido à corrupção, à dependência econômica de uma única commodity, à desindustrialização e a guerras pelo controle dessas riquezas. Sabia que a Nigéria, um dos maiores produtores de petróleo da África, é um exemplo clássico desse paradoxo, com grande parte de sua população vivendo na pobreza?",
+    "palavras_chave": ["maldição dos recursos", "paradoxo da abundância", "commodity", "corrupção", "dependência econômica"]
+  },
+  {
+    "pergunta": "Como o relevo influencia a atividade agrícola?",
+    "resposta": "O relevo influencia diretamente a agricultura. Planícies e áreas de terra plana são ideais para a mecanização e o cultivo em larga escala de grãos, como no Centro-Oeste brasileiro. Já as encostas de morros, quando cultivadas, exigem técnicas especiais como o terraceamento para evitar a erosão. Regiões montanhosas, devido ao clima mais frio e ao difícil acesso, costumam ter uma agricultura mais restrita e familiar. Sabia que nos Andes, os povos incas desenvolveram sofisticados sistemas de terraceamento que são utilizados até hoje?",
+    "palavras_chave": ["relevo", "agricultura", "mecanização", "erosão", "terraceamento"]
+  },
+  {
+    "pergunta": "O que são 'commodities'?",
+    "resposta": "Commodities são produtos primários, ou matérias-primas, que são comercializados em larga escala no mercado global e que têm seu preço determinado pela oferta e demanda internacional, e não pelo produtor individual. Elas são padronizadas, ou seja, não há grande diferença entre o produto de um país e outro. Exemplos incluem o petróleo, o café, a soja, o minério de ferro e o ouro. A economia de muitos países em desenvolvimento é fortemente dependente da exportação de commodities. Sabia que o termo vem do inglês e significa 'mercadoria', refletindo a natureza genérica desses produtos?",
+    "palavras_chave": ["commodities", "matérias-primas", "oferta e demanda", "exportação", "mercado global"]
+  },
+  {
+    "pergunta": "O que é um país desenvolvido e um país subdesenvolvido?",
+    "resposta": "Essa classificação, embora ainda usada, é hoje considerada simplista. De forma geral, países desenvolvidos possuem economias diversificadas e industrializadas, alto IDH (Índice de Desenvolvimento Humano), baixa desigualdade social e instituições estáveis. Já os países subdesenvolvidos ou em desenvolvimento frequentemente têm economias baseadas em commodities, alto IDH, mas com grandes desigualdades internas, e infraestrutura deficitária. A crítica a esses termos é que eles criam uma visão hierárquica e não capturam a complexidade de cada nação. Sabia que o termo 'país do Sul Global' tem sido usado para se referir a nações em desenvolvimento, evitando a conotação negativa de 'subdesenvolvido'?",
+    "palavras_chave": ["desenvolvido", "subdesenvolvido", "idh", "desigualdade", "sul global"]
+  },
+  {
+    "pergunta": "O que é a globalização e como ela afeta a economia?",
+    "resposta": "A globalização é o processo de intensificação da integração econômica, cultural e social entre países. Economicamente, ela se caracteriza pela formação de cadeias produtivas globais, onde uma única mercadoria é produzida com partes de vários países, pela atuação das corporações transnacionais e pela livre circulação de capitais. Isso gera uma interdependência entre as nações, mas também pode ampliar desigualdades e homogeneizar culturas. Sabia que o smartphone que você usa é um produto típico da globalização, com componentes projetados nos EUA, fabricados na Ásia e montados em outro país?",
+    "palavras_chave": ["globalização", "integração econômica", "corporações transnacionais", "cadeias produtivas", "interdependência"]
+  },
+  {
+    "pergunta": "Por que o petróleo é um recurso tão estratégico?",
+    "resposta": "O petróleo é estratégico porque é a principal fonte de energia da sociedade industrial moderna, movendo transportes, indústrias e gerando eletricidade. Além disso, é matéria-prima para uma infinidade de produtos, como plásticos, fertilizantes, tintas e remédios. Sua localização é concentrada em poucas regiões do mundo, como o Oriente Médio, o que gera grande instabilidade geopolítica e conflitos pelo seu controle. Sabia que a Organização dos Países Exportadores de Petróleo (OPEP) foi criada justamente para coordenar e uniformizar as políticas petrolíferas dos países membros, tentando controlar os preços no mercado internacional?",
+    "palavras_chave": ["petróleo", "energia", "matéria-prima", "opep", "geopolítica"]
+  },
+  {
+    "pergunta": "O que é uma Zona Econômica Exclusiva (ZEE)?",
+    "resposta": "A Zona Econômica Exclusiva é uma faixa de mar que se estende por até 200 milhas náuticas (cerca de 370 km) a partir do litoral de um país. Dentro dessa área, o Estado costeiro tem soberania para explorar, conservar e administrar todos os recursos naturais, vivos e não vivos, do leito do mar, do subsolo e da coluna de água. É um conceito crucial da Convenção das Nações Unidas sobre o Direito do Mar. Sabia que o Brasil possui uma das maiores ZEEs do mundo, uma área marítima colossal que contém reservas de petróleo na camada do pré-sal e grande biodiversidade?",
+    "palavras_chave": ["zona econômica exclusiva", "mar", "recursos naturais", "soberania", "pré-sal"]
+  },
+  {
+    "pergunta": "Como o clima afeta o desenvolvimento econômico de um país?",
+    "resposta": "O clima tem um impacto profundo. Regiões de clima temperado, com estações bem definidas, historicamente favoreceram o desenvolvimento de agriculturas diversificadas e o planejamento de longo prazo. Já climas extremos, como desertos ou regiões polares, impõem custos altos com infraestrutura e limitam a agricultura. A Zona Intertropical, onde está a maior parte dos países subdesenvolvidos, enfrenta desafios como doenças tropicais e eventos climáticos severos. Sabia que alguns estudos relacionam a instabilidade climática das regiões tropicais a maiores dificuldades para a acumulação de capital e estabilidade política ao longo da história?",
+    "palavras_chave": ["clima", "desenvolvimento econômico", "agricultura", "infraestrutura", "zonas climáticas"]
+  },
+  {
+    "pergunta": "O que é o IDH e o que ele mede?",
+    "resposta": "O IDH, ou Índice de Desenvolvimento Humano, é um indicador criado pela ONU para medir a qualidade de vida e o desenvolvimento de um país, indo além do simples crescimento econômico. Ele combina três dimensões: uma vida longa e saudável (medida pela expectativa de vida ao nascer), o acesso ao conhecimento (medido pela média de anos de estudo e anos esperados de escolaridade) e um padrão de vida decente (medido pela Renda Nacional Bruta per capita). Sabia que o Brasil, apesar de ser uma das maiores economias do mundo, ocupa uma posição intermediária no ranking do IDH devido às suas grandes desigualdades internas?",
+    "palavras_chave": ["idh", "desenvolvimento humano", "expectativa de vida", "educação", "renda"]
+  },
+  {
+    "pergunta": "O que é agricultura de plantation?",
+    "resposta": "A plantation é um sistema agrícola herdado do período colonial, caracterizado por grandes propriedades (latifúndios), monocultura voltada para a exportação e uso de mão de obra intensiva, que historicamente foi escrava. Esse modelo gera uma dependência do mercado externo e pouco desenvolvimento tecnológico para o mercado interno. A cana-de-açúcar no Nordeste brasileiro e o café no Sudeste são exemplos clássicos. Sabia que a plantation foi um dos pilares da economia colonial nas Américas e criou estruturas fundiárias e sociais extremamente desiguais que persistem até hoje?",
+    "palavras_chave": ["plantation", "monocultura", "latifúndio", "exportação", "colonialismo"]
+  },
+  {
+    "pergunta": "O que é a Revolução Verde?",
+    "resposta": "A Revolução Verde foi um conjunto de inovações tecnológicas em agricultura disseminadas a partir das décadas de 1950 e 1960. Ela envolveu a criação de sementes de alto rendimento (híbridas), o uso intensivo de fertilizantes químicos, pesticidas e a mecanização. Seu objetivo era acabar com a fome no mundo aumentando drasticamente a produção de alimentos. Embora tenha sido bem-sucedida nisso em muitos lugares, ela também trouxe problemas como a degradação do solo, a contaminação da água e o endividamento de pequenos agricultores. Sabia que o agrônomo norte-americano Norman Borlaug, um dos pais da Revolução Verde, recebeu o Prêmio Nobel da Paz em 1970 por suas contribuições?",
+    "palavras_chave": ["revolução verde", "agricultura", "sementes híbridas", "fertilizantes", "mecanização"]
+  },
+  {
+    "pergunta": "Por que a China é chamada de 'a fábrica do mundo'?",
+    "resposta": "A China ganhou esse apelido por se tornar o maior centro manufatureiro do planeta. Isso se deve a uma combinação de fatores: uma mão de obra extremamente numerosa e, inicialmente, de baixo custo, grandes investimentos em infraestrutura portuária e logística, políticas governamentais agressivas de atração de investimentos estrangeiros e uma capacidade produtiva massiva e integrada. A transição da China para uma economia de mercado, mantendo o controle político estatal, foi o motor desse processo. Sabia que, nas últimas décadas, o custo da mão de obra na China tem subido, levando algumas empresas a buscarem outros países, como Vietnã e Bangladesh, em um fenômeno chamado de 'relocalização industrial'?",
+    "palavras_chave": ["china", "manufatura", "mão de obra", "investimento estrangeiro", "relocalização industrial"]
+  },
+  {
+    "pergunta": "O que são os BRICS?",
+    "resposta": "BRICS é um acrônimo que se refere a um grupo de cinco grandes economias emergentes: Brasil, Rússia, Índia, China e África do Sul. O termo foi cunhado em 2001 para destacar o potencial econômico e político desses países, que juntos representam uma parcela significativa da população e do PIB global. O grupo se formalizou como um fórum de cooperação política e econômica, criando inclusive seu próprio banco de desenvolvimento, o Novo Banco de Desenvolvimento (NBD). Sabia que, inicialmente, era apenas 'BRIC', e a África do Sul (o 'S') foi incluída apenas em 2010?",
+    "palavras_chave": ["brics", "economias emergentes", "cooperação", "pib global", "novo banco de desenvolvimento"]
+  },
+  {
+    "pergunta": "O que é um 'hub' logístico?",
+    "resposta": "Um hub logístico, ou centro de distribuição, é um ponto estratégico na rede de transportes onde cargas e mercadorias são concentradas, classificadas e redistribuídas para seus destinos finais. Funciona como um 'nó' na malha logística. Aeroportos internacionais, portos de águas profundas e terminais intermodais são exemplos de hubs. Eles são vitais para a agilidade do comércio global. Sabia que o porto de Rotterdam, na Holanda, é um dos maiores hubs logísticos do mundo, sendo a principal porta de entrada de mercadorias para o continente europeu?",
+    "palavras_chave": ["hub logístico", "distribuição", "transporte", "comércio global", "porto"]
+  },
+  {
+    "pergunta": "Qual a importância dos oceanos para a economia global?",
+    "resposta": "Os oceanos são fundamentais para a economia. Eles são a principal via de transporte de cargas do mundo (cerca de 80% do comércio global em volume), fonte de recursos pesqueiros, sede da exploração de petróleo e gás no subsolo marinho e uma fronteira para a biotecnologia (com organismos marinhos). Além disso, o turismo costeiro é uma indústria bilionária. A chamada 'Economia Azul' busca explorar esses recursos de forma sustentável. Sabia que existem projetos em andamento para mineração em alto-mar, visando nódulos polimetálicos ricos em manganês, cobalto e níquel, o que gera preocupações ambientais profundas?",
+    "palavras_chave": ["oceanos", "transporte marítimo", "pesca", "economia azul", "recursos marinhos"]
+  },
+  {
+    "pergunta": "O que é desindustrialização?",
+    "resposta": "Desindustrialização é o processo de declínio relativo ou absoluto do setor industrial (transformação) na economia de um país ou região. Isso pode ser medido pela queda da participação da indústria no PIB ou no emprego total. As causas são complexas: podem incluir a concorrência internacional, custos de produção elevados, políticas econômicas desfavoráveis ou a transição para uma economia de serviços. No Brasil, esse processo é chamado de 'desindustrialização precoce', pois ocorreu antes que o país atingisse um alto nível de desenvolvimento. Sabia que a desindustrialização pode levar a uma 'reprimarização' da economia, onde as commodities voltam a dominar as exportações?",
+    "palavras_chave": ["desindustrialização", "setor industrial", "pib", "concorrência internacional", "reprimarização"]
+  },
+  {
+    "pergunta": "O que é o agronegócio?",
+    "resposta": "O agronegócio, ou 'agribusiness', é um conceito amplo que engloba toda a cadeia produtiva ligada à agricultura e pecuária. Ele vai 'da porteira à mesa', incluindo os fornecedores de insumos (sementes, fertilizantes, máquinas), a produção dentro da fazenda, o processamento industrial, o transporte, a distribuição e a venda no varejo. É um setor altamente tecnificado e capitalizado. No Brasil, o agronegócio é um dos pilares da economia, mas é alvo de debates sobre sustentabilidade e uso da terra. Sabia que o Brasil é um dos maiores produtores e exportadores de soja, carne bovina e frango do mundo, graças à eficiência do seu agronegócio?",
+    "palavras_chave": ["agronegócio", "cadeia produtiva", "agricultura", "tecnologia", "exportação"]
+  },
+  {
+    "pergunta": "O que é uma cidade global?",
+    "resposta": "Cidades globais são metrópoles que funcionam como centros de comando da economia mundial. Elas concentram sedes de grandes corporações transnacionais, instituições financeiras (bolsas de valores, bancos), serviços avançados (advocacia, consultoria) e são nós centrais da rede de informações e inovação. Nova York, Londres, Tóquio e Paris são exemplos clássicos. São Paulo é considerada uma cidade global de segundo escalão. Sabia que o termo foi popularizado pela socióloga Saskia Sassen, que estudou como Nova York, Londres e Tóquio concentram o poder econômico em nível planetário?",
+    "palavras_chave": ["cidade global", "economia mundial", "corporações transnacionais", "centro financeiro", "saskia sassen"]
+  },
+  {
+    "pergunta": "O que é um enclave econômico?",
+    "resposta": "Um enclave econômico é uma região ou atividade econômica que está integrada à economia global, mas tem poucas ligações com a economia local do país onde está inserida. Geralmente, é controlada por capital estrangeiro, utiliza tecnologia importada e a maior parte da produção é exportada, gerando poucos benefícios para o desenvolvimento local. Zonas de processamento de exportação e algumas minas em países pobres são exemplos. Sabia que as maquiladoras na fronteira do México com os EUA são um exemplo clássico de enclave econômico, montando produtos com peças importadas para venda no mercado norte-americano?",
+    "palavras_chave": ["enclave econômico", "economia global", "capital estrangeiro", "exportação", "maquiladoras"]
+  },
+  {
+    "pergunta": "Qual a relação entre água e produção de energia?",
+    "resposta": "A água e a energia têm uma relação profunda, conhecida como 'nexo água-energia'. Por um lado, a água é essencial para gerar energia: as usinas hidrelétricas dependem do fluxo dos rios, e as termelétricas (a carvão, gás ou nuclear) usam grandes volumes de água para resfriamento. Por outro, a produção e distribuição de água potável (captação, tratamento, bombeamento) consomem muita energia. A escassez hídrica, portanto, é também uma crise energética. Sabia que no Brasil, devido à grande dependência das hidrelétricas, períodos de seca levam ao acionamento de termelétricas mais caras e poluentes, aumentando o custo da energia para todos?",
+    "palavras_chave": ["água", "energia", "hidrelétrica", "termelétrica", "escassez hídrica"]
+  },
+  {
+    "pergunta": "O que é o Produto Interno Bruto (PIB)?",
+    "resposta": "O PIB é o valor de mercado de todos os bens e serviços finais produzidos dentro das fronteiras de um país em um determinado período (geralmente um ano). É o principal indicador para medir o tamanho de uma economia. No entanto, ele tem limitações: não mede a distribuição de renda, o bem-estar da população, a economia informal ou atividades não remuneradas (como o trabalho doméstico). Um PIB alto nem sempre significa uma população mais feliz. Sabia que o PIB foi desenvolvido durante a Grande Depressão dos anos 1930, quando os governos precisavam de uma forma de entender a profundidade da crise econômica?",
+    "palavras_chave": ["pib", "economia", "bens e serviços", "indicador", "limitações"]
+  },
+  {
+    "pergunta": "O que é a divisão internacional do trabalho?",
+    "resposta": "É a especialização de países e regiões em certos tipos de produção ou etapas do processo produtivo. Historicamente, na divisão clássica, os países industrializados do Norte produziam manufaturas e os países do Sul forneciam matérias-primas. Hoje, na divisão técnica ou moderna, uma mesma mercadoria é produzida em vários países, cada um especializado em uma etapa onde tem vantagem competitiva (mão de obra barata, tecnologia, etc.). Sabia que o iPhone é um símbolo dessa nova divisão: projetado nos EUA, com componentes do Japão e Coreia do Sul, e montado na China?",
+    "palavras_chave": ["divisão internacional do trabalho", "especialização", "vantagem competitiva", "processo produtivo", "manufatura"]
+  },
+  {
+    "pergunta": "O que é um cartel?",
+    "resposta": "Em economia, um cartel é um acordo explícito ou clandestino entre empresas concorrentes de um mesmo setor para controlar o mercado. Eles geralmente buscam fixar preços, limitar a produção ou dividir territórios entre si, reduzindo ou eliminando a concorrência. Isso prejudica os consumidores, que pagam preços mais altos. Cartéis são ilegais na maioria dos países. O exemplo mais famoso é a OPEP, que é um cartel de países, não de empresas. Sabia que o termo ficou conhecido no século XIX com os cartéis alemães, e que a palavra em alemão significa 'acordo'?",
+    "palavras_chave": ["cartel", "concorrência", "preços", "monopólio", "opep"]
+  },
+  {
+    "pergunta": "Por que o Oriente Médio é uma região tão conflituosa?",
+    "resposta": "Os conflitos no Oriente Médio têm causas complexas e entrelaçadas. A principal delas é a enorme concentração de reservas de petróleo e gás natural, que atrai interesses geopolíticos globais. Somam-se a isso disputas religiosas (entre xiitas e sunitas, por exemplo), conflitos étnicos, fronteiras artificiais criadas no período colonial, a questão Israel-Palestina e a disputa por recursos hídricos escassos. É uma região onde a geografia econômica e política se chocam de forma explosiva. Sabia que o Estreito de Ormuz, uma passagem marítima estreita no Golfo Pérsico, é um dos pontos mais estratégicos do mundo, por onde passa cerca de 20% do petróleo comercializado globalmente?",
+    "palavras_chave": ["oriente médio", "petróleo", "conflito", "geopolítica", "estreito de ormuz"]
+  },
+  {
+    "pergunta": "O que é uma Zona de Livre Comércio?",
+    "resposta": "Uma Zona de Livre Comércio é um bloco econômico no qual os países membros eliminam ou reduzem drasticamente as tarifas alfandegárias e outras barreiras comerciais entre si, facilitando a circulação de mercadorias. No entanto, cada país mantém sua própria política comercial em relação a nações de fora do bloco. O NAFTA (atual USMCA, entre EUA, México e Canadá) é um exemplo. É um dos estágios iniciais de integração regional. Sabia que a maior zona de livre comércio do mundo em população é a Africana, criada em 2018, mas sua implementação prática ainda é um desafio?",
+    "palavras_chave": ["zona de livre comércio", "bloco econômico", "tarifas alfandegárias", "comércio", "nafta"]
+  },
+  {
+    "pergunta": "Qual a importância das florestas para a economia?",
+    "resposta": "As florestas têm um valor econômico direto e indireto. O valor direto vem da exploração de madeira, frutos, óleos, plantas medicinais e do turismo ecológico. O valor indireto, porém, é incalculável: as florestas regulam o clima global, protegem a biodiversidade, garantem a qualidade da água e dos solos e prestam 'serviços ecossistêmicos' essenciais para a agricultura e a vida. A destruição das florestas gera ganhos de curto prazo para alguns, mas perdas enormes para a sociedade no longo prazo. Sabia que a Amazônia, além de ser um imenso reservatório de carbono, 'bombeia' umidade para outras regiões da América do Sul, influenciando o regime de chuvas em áreas agrícolas centrais?",
+    "palavras_chave": ["florestas", "biodiversidade", "serviços ecossistêmicos", "clima", "amazônia"]
+  },
+  {
+    "pergunta": "O que é o subsolo e quais riquezas ele guarda?",
+    "resposta": "O subsolo é a camada da Terra que fica abaixo da superfície do solo. Ele é uma verdadeira 'caixa-forte' de recursos minerais, abrigando os minérios metálicos (como ferro, cobre, alumínio, ouro), os minerais energéticos (carvão mineral, petróleo, gás natural, urânio) e os não-metálicos (areia, argila, calcário). A exploração desses recursos, a mineração, é uma atividade econômica fundamental, mas que pode causar grandes impactos ambientais e sociais. Sabia que a estrutura geológica de um país determina quais minérios ele possui? Por exemplo, os escudos cristalinos, como o Brasileiro, são ricos em minérios metálicos.",
+    "palavras_chave": ["subsolo", "recursos minerais", "mineração", "minérios", "estrutura geológica"]
+  },
+  {
+    "pergunta": "O que é um monopólio natural?",
+    "resposta": "Um monopólio natural ocorre quando é economicamente mais eficiente que um único fornecedor atenda todo o mercado. Isso geralmente acontece em setores que exigem investimentos iniciais altíssimos em infraestrutura (como redes de distribuição de água, energia elétrica ou linhas férreas), onde a duplicação dessa infraestrutura por concorrentes seria extremamente custosa e ineficiente. Por isso, esses setores são frequentemente regulados ou operados pelo Estado. Sabia que, com o avanço da tecnologia, alguns monopólios naturais tradicionais estão sendo desafiados, como a geração distribuída de energia solar, que permite aos consumidores produzirem sua própria eletricidade?",
+    "palavras_chave": ["monopólio natural", "infraestrutura", "eficiência", "regulação estatal", "concorrência"]
+  },
+  {
+    "pergunta": "O que é uma 'commodity ambiental'?",
+    "resposta": "É um conceito que trata bens e serviços ambientais, como créditos de carbono, água limpa e biodiversidade, como ativos negociáveis no mercado. A ideia é que a preservação de uma floresta ou a redução de emissões poluentes tenha um valor econômico quantificável, que pode ser comprado e vendido. Isso cria um incentivo financeiro para a conservação. Sabia que o mercado de créditos de carbono, estabelecido pelo Protocolo de Quioto, é o exemplo mais conhecido de commodity ambiental, onde países e empresas podem comprar o 'direito de poluir' de quem emite menos?",
+    "palavras_chave": ["commodity ambiental", "créditos de carbono", "serviços ambientais", "valor econômico", "preservação"]
+  },
+  {
+    "pergunta": "Como o tipo de solo influencia a economia de uma região?",
+    "resposta": "O solo é o alicerce da agricultura e, portanto, tem um impacto econômico direto. Solos férteis, como os de terra roxa no Brasil ou os chernozems na Ucrânia, são ideais para o cultivo de grãos de alto valor, atraindo investimentos em agronegócio. Solos pobres ou arenosos limitam as opções agrícolas, podendo restringir a economia à pecuária extensiva ou ao extrativismo. A degradação do solo por erosão ou contaminação é uma perda econômica colossal. Sabia que a terra roxa, famosa pela fertilidade, deve seu nome a uma tradução equivocada do italiano 'terra rossa' (terra vermelha), que os imigrantes pronunciavam como 'roxa'?",
+    "palavras_chave": ["solo", "fertilidade", "agricultura", "degradação", "terra roxa"]
+  },
+  {
+    "pergunta": "O que é o 'Cinturão do Sol' nos EUA?",
+    "resposta": "O 'Sun Belt' (Cinturão do Sol) é uma região dos Estados Unidos que vai do sul da Califórnia até a Flórida, caracterizada por um clima quente e ensolarado. A partir da segunda metade do século XX, essa região experimentou um boom econômico e populacional, atraindo indústrias, aposentados e empresas de tecnologia. Fatores como ar-condicionado, custos mais baixos e mão de obra menos sindicalizada impulsionaram esse crescimento, deslocando o eixo econômico do tradicional 'Cinturão da Ferrugem' do Nordeste. Sabia que cidades como Phoenix, Atlanta e Houston são os grandes polos desse cinturão, que hoje concentra uma parcela significativa do PIB americano?",
+    "palavras_chave": ["cinturão do sol", "eua", "crescimento econômico", "migração interna", "clima"]
+  },
+  {
+    "pergunta": "O que é um país rentista?",
+    "resposta": "Um país rentista é aquele cuja economia e orçamento governamental dependem majoritariamente da renda gerada pela exportação de um recurso natural, como petróleo ou gás, e não da produção industrial ou de impostos sobre a população. Essa 'renda fácil' pode enfraquecer as instituições, fomentar a corrupção e desestimular o investimento em outros setores, aprofundando a 'maldição dos recursos'. Sabia que países como Arábia Saudita, Kuwait e Qatar são exemplos clássicos de estados rentistas, onde a riqueza do petróleo permite que o governo ofereça serviços e isenções fiscais à população para manter a estabilidade política?",
+    "palavras_chave": ["país rentista", "petróleo", "renda", "orçamento", "maldição dos recursos"]
+  },
+  {
+    "pergunta": "O que é logística e por que ela é crucial para a economia?",
+    "resposta": "Logística é a gestão do fluxo de coisas entre o ponto de origem e o ponto de consumo para atender aos requisitos dos clientes. Isso inclui transporte, armazenagem, gestão de estoques e processamento de pedidos. Uma logística eficiente reduz custos, aumenta a competitividade de um país e é o sangue que corre nas veias do comércio global. Um porto congestionado ou uma estrada ruim encarecem o produto final para todos. Sabia que o conceito de 'custo Brasil' está intimamente ligado a deficiências logísticas, como a dependência excessiva do transporte rodoviário e a burocracia aduaneira?",
+    "palavras_chave": ["logística", "transporte", "custo brasil", "competitividade", "comércio global"]
+  },
+  {
+    "pergunta": "O que é a Teoria das Localidades de Von Thünen?",
+    "resposta": "Criada no século XIX por Johann Heinrich von Thünen, é uma teoria que tenta explicar a localização das atividades agrícolas em torno de um mercado central (uma cidade). Ele propôs um modelo de anéis concêntricos: quanto mais perto do mercado, mais perecíveis e de maior valor por hectare eram os produtos (como hortaliças e leite), pois os custos de transporte eram altos. À medida que se afastava, vinham anéis de floresta, grãos e, por fim, pecuária extensiva. Sabia que, apesar de simplificado, esse modelo é considerado um dos pilares da geografia econômica e ainda ajuda a entender a lógica de uso do solo?",
+    "palavras_chave": ["von thünen", "localização", "agricultura", "custo de transporte", "uso do solo"]
+  },
+  {
+    "pergunta": "O que é energia renovável e quais as principais fontes?",
+    "resposta": "Energia renovável é aquela derivada de fontes naturais que se regeneram em uma escala de tempo humana, causando pouco ou nenhum impacto de esgotamento. As principais fontes são: solar (luz do sol), eólica (vento), hidráulica (água dos rios), biomassa (matéria orgânica), geotérmica (calor da Terra) e dos oceanos (ondas e marés). A transição para uma matriz energética baseada em renováveis é crucial para combater as mudanças climáticas. Sabia que a China é atualmente o maior investidor mundial em energia renovável, tanto em energia solar quanto eólica, embora ainda dependa muito do carvão?",
+    "palavras_chave": ["energia renovável", "solar", "eólica", "hidráulica", "biomassa"]
+  },
+  {
+    "pergunta": "O que é um 'Estado-nação' e qual sua relação com a economia?",
+    "resposta": "Um Estado-nação é uma forma de organização política onde um Estado (a estrutura de governo) coincide com uma nação (uma comunidade com identidade cultural, língua e história comuns). Esse modelo, consolidado nos últimos séculos, é a unidade básica da economia global. Os Estados-nações criam leis, moedas, políticas fiscais e regulam o comércio dentro de suas fronteiras, definindo as 'regras do jogo' econômico. A globalização, no entanto, tem desafiado a soberania econômica desses estados. Sabia que a União Europeia é um experimento único de 'pooling' de soberania, onde estados-nação cedem parte de seu poder econômico e político a uma entidade supranacional?",
+    "palavras_chave": ["estado-nação", "soberania", "política econômica", "fronteiras", "globalização"]
+  },
+  {
+    "pergunta": "O que é o 'Cinturão da Ferrugem' nos EUA?",
+    "resposta": "O 'Rust Belt' (Cinturão da Ferrugem) é uma região do nordeste e meio-oeste dos EUA, que foi o coração industrial do país, baseado na siderurgia, automobilística e indústrias pesadas. A partir das décadas de 1970 e 1980, a região entrou em declínio devido à desindustrialização, concorrência internacional (especialmente do Japão e, depois, da China) e automação. Cidades como Detroit, Cleveland e Pittsburgh viram fábricas fecharem e a população diminuir, deixando para trás fábricas abandonadas e 'ferrugem'. Sabia que o termo 'Cinturão da Ferrugem' foi cunhado justamente para descrever a paisagem de decadência industrial, com estruturas metálicas enferrujadas?",
+    "palavras_chave": ["cinturão da ferrugem", "desindustrialização", "eua", "indústria pesada", "decadência"]
+  },
+  {
+    "pergunta": "O que é o Fundo Monetário Internacional (FMI)?",
+    "resposta": "O FMI é uma instituição financeira internacional criada em 1944, na Conferência de Bretton Woods, com o objetivo inicial de garantir a estabilidade do sistema monetário internacional. Hoje, ele atua como uma 'cooperativa' de 190 países, fornecendo empréstimos e assistência financeira a membros com dificuldades no balanço de pagamentos. Em troca, impõe planos de ajuste estrutural, que geralmente incluem cortes de gastos públicos, privatizações e abertura comercial, políticas que são frequentemente criticadas por seus impactos sociais. Sabia que o FMI é frequentemente chamado de 'bombeiro global', pois entra em cena para apagar 'incêndios' financeiros em países à beira da falência?",
+    "palavras_chave": ["fmi", "empréstimo", "ajuste estrutural", "balanço de pagamentos", "bretton woods"]
+  },
+  {
+    "pergunta": "O que é uma zona franca?",
+    "resposta": "Uma zona franca é uma área delimitada dentro de um país onde vigoram regras comerciais e fiscais especiais, como a redução ou isenção de impostos de importação e exportação. Seu objetivo é atrair investimentos estrangeiros, fomentar a industrialização e gerar empregos. Empresas se instalam nessas zonas para produzir mercadorias com insumos importados barateados, muitas vezes para reexportação. Sabia que a Zona Franca de Manaus é o exemplo mais famoso do Brasil, criada na década de 1960 com o objetivo de desenvolver e integrar economicamente a Amazônia?",
+    "palavras_chave": ["zona franca", "isenção fiscal", "investimento estrangeiro", "reexportação", "manaus"]
+  },
+  {
+    "pergunta": "O que é a dívida externa de um país?",
+    "resposta": "A dívida externa é o total de empréstimos e financiamentos que um país, suas empresas e seus cidadãos contraíram com credores no exterior, como outros governos, bancos internacionais ou instituições como o FMI. Ela é contraída para financiar projetos de desenvolvimento, cobrir déficits orçamentários ou em momentos de crise. Quando a dívida se torna muito alta, os juros consomem uma parte significativa do orçamento nacional, limitando os investimentos em saúde e educação. Sabia que a crise da dívida externa na América Latina na década de 1980 é conhecida como a 'década perdida', pois o crescimento econômico foi praticamente nulo devido ao esforço para pagar os credores?",
+    "palavras_chave": ["dívida externa", "empréstimos", "juros", "crise", "década perdida"]
+  },
+  {
+    "pergunta": "O que é o êxodo rural?",
+    "resposta": "Êxodo rural é o deslocamento em massa de populações do campo para a cidade. Esse processo é impulsionado por fatores de 'expulsão' (mecanização do campo, falta de terra, secas) e de 'atração' (oferta de empregos, acesso a serviços, educação e lazer nas cidades). Foi um fenômeno intenso durante a industrialização e continua em muitos países em desenvolvimento. O êxodo rural superpovoa as cidades, muitas vezes gerando periferias e favelas, e esvazia o campo. Sabia que no Brasil, o êxodo rural foi especialmente intenso entre as décadas de 1950 e 1980, transformando o país de majoritariamente rural para urbano em poucas gerações?",
+    "palavras_chave": ["êxodo rural", "migração", "urbanização", "mecanização", "favelas"]
+  },
+  {
+    "pergunta": "O que é o 'land grabbing'?",
+    "resposta": "Land grabbing, ou 'apropriação de terras', é a compra ou arrendamento de grandes extensões de terra em países em desenvolvimento (especialmente na África e Sudeste Asiático) por governos estrangeiros ou corporações transnacionais. O objetivo é garantir o fornecimento de alimentos, biocombustíveis ou simplesmente fazer especulação fundiária. Esse processo frequentemente desaloja comunidades locais, ignora direitos tradicionais de posse e gera conflitos sociais e ambientais. Sabia que estimativas indicam que, desde o ano 2000, uma área maior do que a França foi adquirida por investidores estrangeiros na África, em transações muitas vezes opacas?",
+    "palavras_chave": ["land grabbing", "apropriação de terras", "conflito fundiário", "corporações transnacionais", "especulação"]
+  },
+  {
+    "pergunta": "O que é uma economia de enclave?",
+    "resposta": "Uma economia de enclave é um sistema econômico onde um setor ou região (o enclave) é altamente desenvolvido e integrado ao mercado global, mas possui pouquíssimas ligações com o resto da economia nacional. É como uma 'ilha de prosperidade' em um 'mar' de subdesenvolvimento. O capital, a tecnologia e a gestão são estrangeiros, os lucros são repatriados e os insumos são importados, gerando poucos encadeamentos produtivos locais. A mineração e o petróleo são exemplos clássicos. Sabia que o termo foi cunhado para descrever as plantations na América Latina, que produziam para a Europa sem integrar as economias locais?",
+    "palavras_chave": ["economia de enclave", "setor primário", "capital estrangeiro", "integração global", "encadeamento produtivo"]
+  },
+  {
+    "pergunta": "O que é a 'reprimarização' da economia?",
+    "resposta": "Reprimarização é o processo pelo qual um país vê a participação do setor primário (agricultura, pecuária e extrativismo mineral) em sua pauta de exportações e no PIB aumentar, muitas vezes às custas do setor industrial. É o oposto da industrialização. Isso pode ser um sinal de desindustrialização e torna a economia mais vulnerável às flutuações de preços das commodities no mercado internacional. Sabia que o Brasil vive um debate intenso sobre uma possível reprimarização, já que itens como soja, minério de ferro e petróleo têm dominado cada vez mais as exportações?",
+    "palavras_chave": ["reprimarização", "setor primário", "exportações", "desindustrialização", "commodities"]
+  },
+  {
+    "pergunta": "O que é um 'banco de sementes' e qual sua importância econômica?",
+    "resposta": "Um banco de sementes é uma instalação que armazena sementes de uma grande variedade de plantas, especialmente cultivares, para preservação da biodiversidade. Economicamente, eles são um 'seguro' contra desastres naturais, pragas ou mudanças climáticas que possam ameaçar cultivos vitais para a alimentação humana. Eles garantem a matéria-prima genética para o desenvolvimento de novas variedades, mais resistentes e produtivas, que são a base da segurança alimentar global. Sabia que o Svalbard Global Seed Vault, localizado em uma ilha remota do Ártico, é o maior banco de sementes do mundo, projetado para resistir a catástrofes globais e abrigar mais de 4,5 milhões de variedades de cultivos?",
+    "palavras_chave": ["banco de sementes", "biodiversidade", "segurança alimentar", "cultivares", "svalbard"]
+  },
+  {
+    "pergunta": "O que é o G20?",
+    "resposta": "O G20 (Grupo dos 20) é o principal fórum internacional para a cooperação econômica e financeira global. Ele reúne as 19 maiores economias do mundo mais a União Europeia. Juntos, esses países representam cerca de 80% do PIB mundial e 2/3 da população. O G20 começou como uma reunião de ministros da fazenda e presidentes de bancos centrais após a crise financeira asiática, mas elevou-se ao nível de cúpula de chefes de Estado durante a crise de 2008. Sabia que, além dos membros permanentes, todos os anos outros países são convidados a participar das cúpulas, e organizações como o FMI e o Banco Mundial também estão presentes?",
+    "palavras_chave": ["g20", "cooperação econômica", "governança global", "crise financeira", "chefes de estado"]
+  },
+  {
+    "pergunta": "O que é uma 'economia de escala'?",
+    "resposta": "Economia de escala é o conceito que descreve a redução do custo médio de produção por unidade à medida que o volume total da produção aumenta. Em outras palavras, produzir em grande quantidade fica mais barato por item. Isso acontece porque os custos fixos (como fábrica, maquinário e pesquisa) são diluídos por uma quantidade maior de produtos. É uma das forças que impulsionam a formação de grandes corporações. Sabia que a indústria automobilística é um exemplo clássico de economia de escala, onde montar milhões de carros do mesmo modelo permite preços muito mais baixos do que se fossem feitos artesanalmente?",
+    "palavras_chave": ["economia de escala", "custo médio", "produção em massa", "eficiência", "corporações"]
+  },
+  {
+    "pergunta": "O que é a 'nova rota da seda' chinesa?",
+    "resposta": "É um megaprojeto de infraestrutura e investimento chinês oficialmente chamado de 'Iniciativa do Cinturão e Rota' (Belt and Road Initiative). Seu objetivo é reconstruir e expandir as antigas rotas comerciais terrestres e marítimas que ligavam a China à Europa, passando pela Ásia Central, Oriente Médio e África. A China financia e constrói portos, ferrovias, estradas e gasodutos em dezenas de países, fortalecendo sua influência geopolítica e criando novos mercados para seus produtos. Sabia que críticos apontam que o projeto pode levar países participantes a uma 'armadilha da dívida', ficando excessivamente endividados com a China?",
+    "palavras_chave": ["nova rota da seda", "china", "infraestrutura", "geopolítica", "influência"]
+  },
+  {
+    "pergunta": "O que é um 'oásis' no contexto econômico?",
+    "resposta": "No contexto da geografia econômica, um 'oásis' é uma metáfora para uma área de grande prosperidade e desenvolvimento em meio a uma região mais ampla de estagnação ou pobreza. Pode ser uma cidade que se destaca economicamente, um polo tecnológico ou um distrito industrial avançado. Esses oásis atraem mão de obra qualificada e investimentos, mas podem aprofundar as desigualdades regionais. Sabia que o Vale do Silício, na Califórnia, é considerado o 'oásis' máximo da economia do conhecimento, contrastando com outras regiões dos EUA que sofreram com a desindustrialização?",
+    "palavras_chave": ["oásis econômico", "desigualdade regional", "polo tecnológico", "prosperidade", "vale do silício"]
+  },
+  {
+    "pergunta": "O que é o 'custo de oportunidade' na escolha de um recurso?",
+    "resposta": "O custo de oportunidade é um conceito econômico fundamental que representa o valor da melhor alternativa à qual se renuncia quando se faz uma escolha. Na geografia econômica, isso se aplica ao uso de um recurso: usar um terreno para plantar soja tem como custo de oportunidade a renda que se deixou de ganhar usando-o para a pecuária ou para preservação ambiental. Toda decisão de alocação de um recurso escasso implica em um custo de oportunidade. Sabia que o debate sobre desmatar ou preservar a Amazônia é, em grande parte, um debate sobre custos de oportunidade: o ganho econômico imediato da agropecuária versus os benefícios de longo prazo da floresta em pé?",
+    "palavras_chave": ["custo de oportunidade", "escolha", "recurso escasso", "alocação", "decisão econômica"]
+  },
+  {
+    "pergunta": "O que é a 'fronteira agrícola'?",
+    "resposta": "A fronteira agrícola é a linha imaginária que separa as áreas já consolidadas para a agricultura e pecuária das áreas de vegetação nativa que estão sendo abertas para expansão dessas atividades. É uma zona de conflito entre o avanço do agronegócio, a grilagem de terras, o desmatamento e a resistência de povos tradicionais e da biodiversidade. No Brasil, a fronteira agrícola avançou historicamente do Sul e Sudeste em direção ao Centro-Oeste e, mais recentemente, para a Amazônia e o Cerrado. Sabia que o Arco do Desmatamento na Amazônia é justamente a região onde a fronteira agrícola está ativa e em expansão?",
+    "palavras_chave": ["fronteira agrícola", "expansão", "desmatamento", "conflito fundiário", "arco do desmatamento"]
+  },
+  {
+    "pergunta": "O que é a 'economia informal'?",
+    "resposta": "A economia informal, ou setor informal, compreende todas as atividades econômicas que não são regulamentadas, tributadas ou monitoradas pelo governo. Inclui desde o camelô, o trabalhador autônomo sem registro, até pequenas oficinas e serviços que funcionam 'por baixo dos panos'. Ela gera emprego e renda para milhões de pessoas, especialmente em países em desenvolvimento, mas oferece pouca ou nenhuma proteção social (como aposentadoria ou férias) e representa uma perda de arrecadação para o Estado. Sabia que, segundo o IBGE, a economia informal no Brasil responde por quase 40% da força de trabalho, um indicador da dificuldade de geração de empregos formais?",
+    "palavras_chave": ["economia informal", "setor informal", "trabalho não registrado", "arrecadação", "proteção social"]
+  },
+  {
+    "pergunta": "O que é a 'pegada ecológica'?",
+    "resposta": "A pegada ecológica é um indicador que mede a quantidade de recursos naturais (terra e água) que uma população humana consome para sustentar seu estilo de vida e absorver seus resíduos (como o CO2). É uma forma de traduzir nosso impacto ambiental em uma área biologicamente produtiva equivalente. Quando a pegada de uma população excede a biocapacidade da região ou do planeta, há um déficit ambiental, indicando um consumo insustentável. Sabia que se toda a população mundial vivesse como o cidadão médio dos EUA, seriam necessários cerca de 5 planetas Terra para suprir essa demanda?",
+    "palavras_chave": ["pegada ecológica", "recursos naturais", "sustentabilidade", "biocapacidade", "impacto ambiental"]
+  },
+  {
+    "pergunta": "O que é um 'bem de Giffen'?",
+    "resposta": "Um bem de Giffen é um conceito teórico em economia que descreve um produto paradoxal para o qual a demanda AUMENTA quando seu preço sobe, contrariando a lei fundamental da demanda. Isso acontece com bens inferiores e essenciais que consomem uma grande parte do orçamento dos mais pobres. Se o preço do pão, por exemplo, sobe drasticamente, uma família pobre pode ser forçada a cortar o consumo de carnes e legumes, mais caros, e comprar ainda MAIS pão para se saciar, mesmo mais caro. Sabia que o termo homenageia o economista escocês Robert Giffen, que teria observado esse fenômeno com o consumo de batatas durante a fome na Irlanda no século XIX?",
+    "palavras_chave": ["bem de giffen", "lei da demanda", "bem inferior", "preço", "paradoxo"]
+  },
+  {
+    "pergunta": "O que é a 'teoria do ciclo do produto'?",
+    "resposta": "Desenvolvida por Raymond Vernon, essa teoria explica a mudança geográfica da produção de um produto ao longo do tempo. Na fase inicial (inovação), o produto é desenvolvido e fabricado no país de origem (geralmente desenvolvido). Na fase de maturidade, a produção se espalha para outros países desenvolvidos. Por fim, na fase de padronização, a produção se desloca para países em desenvolvimento, onde a mão de obra é mais barata, e o país inovador passa a importar o que antes produzia. Sabia que a indústria de televisores é um exemplo clássico: inventada nos EUA, sua produção massiva migrou para o Japão, depois para a Coreia do Sul e, hoje, está concentrada na China?",
+    "palavras_chave": ["ciclo do produto", "raymond vernon", "inovação", "padronização", "mudança geográfica"]
+  },
+  {
+    "pergunta": "O que é 'segurança alimentar'?",
+    "resposta": "Segurança alimentar existe quando todas as pessoas, em todos os momentos, têm acesso físico, social e econômico a alimentos seguros, nutritivos e em quantidade suficiente para atender suas necessidades e preferências alimentares para uma vida ativa e saudável. Ela se apoia em quatro pilares: disponibilidade (produção), acesso (poder de compra), utilização (nutrição adequada) e estabilidade (consistência ao longo do tempo). A geografia econômica estuda os fatores que afetam esses pilares, como logística, comércio internacional e conflitos. Sabia que o Brasil saiu do Mapa da Fome da ONU em 2014, mas, desde 2018, a insegurança alimentar voltou a crescer no país, afetando milhões de famílias?",
+    "palavras_chave": ["segurança alimentar", "fome", "disponibilidade", "acesso", "nutrição"]
+  },
+  {
+    "pergunta": "O que é um 'cluster' industrial ou tecnológico?",
+    "resposta": "Um cluster é uma concentração geográfica de empresas, fornecedores especializados, prestadores de serviços e instituições de pesquisa interconectadas em um campo particular. Essa proximidade gera sinergia, facilita a troca de conhecimento, reduz custos de transação e fomenta a inovação. É a ideia de que 'o todo é maior que a soma das partes'. Sabia que o exemplo mais famoso é o Vale do Silício para tecnologia, mas existem clusters em diversos setores, como o de cerâmica em Santa Gertrudes (SP) ou o de vinho no Vale dos Vinhedos (RS)?",
+    "palavras_chave": ["cluster", "concentração geográfica", "inovação", "sinergia", "vale do silício"]
+  },
+  {
+    "pergunta": "O que é a 'balança comercial' de um país?",
+    "resposta": "A balança comercial é o registro de tudo o que um país exporta (vende para o exterior) e importa (compra do exterior) de bens (mercadorias). Quando o valor das exportações é maior que o das importações, temos um superávit comercial. Quando é menor, temos um déficit comercial. Um superávit constante pode indicar uma economia competitiva, mas também pode significar uma dependência excessiva das exportações. Sabia que o Brasil tem tido superávits comerciais recordes nos últimos anos, impulsionados principalmente pela alta dos preços das commodities, como soja e minério de ferro?",
+    "palavras_chave": ["balança comercial", "exportação", "importação", "superávit", "déficit"]
+  },
+  {
+    "pergunta": "O que é a 'Doença Holandesa'?",
+    "resposta": "A 'Doença Holandesa' é um conceito econômico que descreve a paradoxal situação em que a descoberta e exploração de um recurso natural valioso, como gás ou petróleo, acaba prejudicando outros setores da economia. Isso acontece porque a entrada maciça de dólares das exportações do recurso valoriza a moeda local, tornando as exportações de outros produtos (como manufaturas) mais caras e menos competitivas no mercado internacional, ao mesmo tempo que barateia as importações, que passam a concorrer com a indústria nacional. Sabia que o nome vem da experiência da Holanda na década de 1960, quando a descoberta de grandes reservas de gás natural no Mar do Norte prejudicou seu setor industrial?",
+    "palavras_chave": ["doença holandesa", "recurso natural", "valorização cambial", "desindustrialização", "competitividade"]
+  },
+  {
+    "pergunta": "O que é um 'porto de águas profundas' e por que é importante?",
+    "resposta": "Um porto de águas profundas é aquele com um canal de acesso e berços de atracação com profundidade suficiente para receber os maiores navios cargueiros do mundo, os chamados 'navios porta-contêineres' e 'VLCCs' (petroleiros gigantes). Esses navios, que podem ter calado (profundidade submersa) superior a 15 metros, são os mais econômicos para o transporte de longa distância. Ter um porto com essas características é uma vantagem logística estratégica, pois evita que as mercadorias precisem ser transbordadas para navios menores em outros portos, um processo caro e demorado. Sabia que o Porto de Sepetiba, no Rio de Janeiro, é um dos poucos no Brasil com condições naturais para ser um porto de águas profundas, crucial para a exportação de minério de ferro?",
+    "palavras_chave": ["porto de águas profundas", "logística", "navios gigantes", "exportação", "calado"]
+  },
+  {
+    "pergunta": "O que é o 'Efeito Estufa' e qual sua relação com a economia?",
+    "resposta": "O Efeito Estufa é um processo natural e essencial para a vida na Terra, no qual gases na atmosfera, como o CO2, retêm parte do calor do sol, mantendo o planeta aquecido. No entanto, a atividade econômica humana, principalmente a queima de combustíveis fósseis e o desmatamento, tem aumentado drasticamente a concentração desses gases, intensificando o efeito e causando o aquecimento global. Isso gera enormes custos econômicos futuros com eventos climáticos extremos, perda de produtividade agrícola, elevação do nível do mar e problemas de saúde. A transição para uma economia de baixo carbono é, portanto, também uma necessidade econômica. Sabia que setores como o de seguros são dos mais preocupados com as mudanças climáticas, pois o custo dos desastres naturais está disparando?",
+    "palavras_chave": ["efeito estufa", "aquecimento global", "combustíveis fósseis", "economia de baixo carbono", "custos econômicos"]
+  },
+  {
+    "pergunta": "O que é a 'Conferência de Bretton Woods'?",
+    "resposta": "Foi uma reunião histórica de 44 países aliados, realizada em 1944 no estado de New Hampshire, EUA, no final da Segunda Guerra Mundial. Seu objetivo era desenhar uma nova ordem econômica internacional para evitar os erros que levaram à Grande Depressão e à guerra. De Bretton Woods saíram duas instituições fundamentais: o Fundo Monetário Internacional (FMI) e o Banco Mundial. Além disso, estabeleceu-se um sistema monetário baseado no padrão-ouro, com o dólar americano como moeda-chave. Sabia que o sistema de Bretton Woods entrou em colapso em 1971, quando os EUA suspenderam a conversibilidade do dólar em ouro, dando início à era das taxas de câmbio flutuantes que temos hoje?",
+    "palavras_chave": ["bretton woods", "fmi", "banco mundial", "ordem econômica", "sistema monetário"]
+  },
+  {
+    "pergunta": "O que é 'biopirataria'?",
+    "resposta": "Biopirataria é a apropriação ilegal ou não compensada de recursos biológicos e conhecimentos tradicionais de povos indígenas e comunidades locais, geralmente por empresas ou pesquisadores de países desenvolvidos. Envolve a coleta de sementes, plantas ou microrganismos para desenvolver medicamentos, cosméticos ou sementes modificadas, sem a repartição justa dos benefícios com as comunidades detentoras desse conhecimento. É uma forma de espoliação que mistura conflitos econômicos, éticos e de soberania nacional. Sabia que a Amazônia é um dos principais alvos da biopirataria, devido à sua imensa e ainda pouco conhecida biodiversidade?",
+    "palavras_chave": ["biopirataria", "recursos biológicos", "conhecimento tradicional", "soberania", "amazônia"]
+  },
+  {
+    "pergunta": "O que é um 'paraíso fiscal'?",
+    "resposta": "Um paraíso fiscal, ou jurisdição de baixa tributação, é um país ou território que oferece impostos muito baixos ou inexistentes para não residentes, além de sigilo bancário e regulamentação financeira frouxa. Eles atraem capitais de todo o mundo para evasão fiscal, lavagem de dinheiro e ocultação de lucros de grandes corporações e indivíduos ricos. Isso priva outros países de arrecadação essencial para serviços públicos e amplifica a desigualdade global. Sabia que estimativas indicam que cerca de 8% da riqueza financeira global está abrigada em paraísos fiscais, o que equivale a trilhões de dólares?",
+    "palavras_chave": ["paraíso fiscal", "evasão fiscal", "sigilo bancário", "lavagem de dinheiro", "desigualdade"]
+  },
+  {
+    "pergunta": "O que é 'especulação imobiliária'?",
+    "resposta": "Especulação imobiliária é a prática de comprar terrenos ou imóveis não para uso, mas na expectativa de que seu valor de mercado irá aumentar no futuro, permitindo a venda com lucro. Esse fenômeno, quando em larga escala, inflaciona artificialmente o preço da terra e dos aluguéis, tornando as cidades inacessíveis para a população de baixa renda e expulsando-a para periferias distantes. É uma força poderosa que molda a geografia urbana, muitas vezes de forma excludente. Sabia que em grandes cidades como São Paulo e Rio de Janeiro, é comum ver 'terrenos baldios' valiosíssimos no centro, mantidos vazios apenas para valorização, enquanto há um déficit habitacional enorme?",
+    "palavras_chave": ["especulação imobiliária", "preço da terra", "valorização", "déficit habitacional", "geografia urbana"]
+  },
+  {
+    "pergunta": "O que é a 'transição energética'?",
+    "resposta": "A transição energética é a mudança estrutural de um sistema energético baseado principalmente em fontes não renováveis e poluentes (como carvão, petróleo e gás) para um sistema sustentável, baseado em fontes renováveis (solar, eólica, hidrelétrica) e de baixa emissão de carbono. Essa transição é considerada vital para combater as mudanças climáticas e envolve não apenas a geração de energia, mas também a eficiência energética, redes inteligentes e mudanças nos padrões de consumo. Sabia que a Alemanha é um dos países na vanguarda dessa transição, com seu projeto 'Energiewende' (Virada Energética), que prevê a eliminação gradual da energia nuclear e de combustíveis fósseis?",
+    "palavras_chave": ["transição energética", "energia renovável", "baixo carbono", "eficiência energética", "mudanças climáticas"]
+  },
+  {
+    "pergunta": "O que é o 'Acordo de Paris'?",
+    "resposta": "O Acordo de Paris é um tratado internacional sobre mudanças climáticas, adotado por 195 países em 2015. Seu objetivo central é limitar o aquecimento global bem abaixo de 2°C, preferencialmente a 1,5°C, comparado aos níveis pré-industriais. Para isso, cada país signatário apresenta suas próprias metas de redução de emissões de gases de efeito estufa, as chamadas 'Contribuições Nacionalmente Determinadas' (NDCs). O acordo representa um marco na cooperação global, mas sua implementação depende da vontade política e econômica de cada nação. Sabia que os EUA, sob o governo Trump, saíram oficialmente do acordo em 2020, mas retornaram sob o governo Biden em 2021, mostrando a volatilidade política em torno do tema?",
+    "palavras_chave": ["acordo de paris", "mudanças climáticas", "aquecimento global", "ndc", "cooperação global"]
+  },
+  {
+    "pergunta": "O que é 'geopolítica'?",
+    "resposta": "Geopolítica é o estudo da influência dos fatores geográficos (localização, território, recursos naturais, população) sobre as relações de poder entre os Estados e as estratégias políticas internacionais. Ela analisa como o controle de rotas marítimas, estreitos, recursos estratégicos e territórios define a riqueza e o poder das nações. É uma disciplina que está na interseção entre a geografia, a ciência política e a economia. Sabia que o termo foi cunhado no início do século XX pelo cientista político sueco Rudolf Kjellén, e que teorias geopolíticas clássicas, como a do 'Heartland' de Mackinder, influenciaram profundamente a estratégia de potências durante a Guerra Fria?",
+    "palavras_chave": ["geopolítica", "relações de poder", "recursos estratégicos", "estados", "heartland"]
+  },
+  {
+    "pergunta": "O que é 'turismo sustentável'?",
+    "resposta": "Turismo sustentável é aquele que é economicamente viável, mas que busca minimizar seus impactos negativos no meio ambiente e na cultura local, ao mesmo tempo que gera emprego e renda para a comunidade receptora. Ele preza pela conservação dos recursos naturais, respeita a autenticidade sociocultural e assegura que as atividades turísticas sejam desenvolvidas a longo prazo, sem esgotar o que atrai os visitantes. É o oposto do turismo de massa predatório. Sabia que o ecoturismo na Amazônia ou o turismo de base comunitária são exemplos de tentativas de praticar o turismo sustentável, embora seus desafios sejam grandes?",
+    "palavras_chave": ["turismo sustentável", "meio ambiente", "cultura local", "ecoturismo", "comunidade"]
+  },
+  {
+    "pergunta": "O que é a 'Organização Mundial do Comércio' (OMC)?",
+    "resposta": "A OMC é a organização internacional que lida com as regras globais do comércio entre nações. Seu principal objetivo é assegurar que os fluxos comerciais ocorram de forma fluida, previsível e livre, na medida do possível. Ela atua como um fórum para a negociação de acordos comerciais, resolve disputas entre seus membros e monitora as políticas comerciais nacionais. A OMC é sucessora do Acordo Geral de Tarifas e Comércio (GATT). Sabia que a OMC tem enfrentado uma crise de credibilidade nas últimas décadas, com o avanço de acordos bilaterais e regionais e a 'Guerra Comercial' entre EUA e China, que desafiam seu sistema multilateral?",
+    "palavras_chave": ["omc", "comércio internacional", "regras comerciais", "disputas", "multilateralismo"]
+  },
+  {
+    "pergunta": "O que é 'infraestrutura crítica'?",
+    "resposta": "Infraestrutura crítica são os sistemas e ativos físicos e virtuais tão vitais para um país que sua interrupção ou destruição teria um impacto debilitante sobre a segurança nacional, a economia, a saúde pública ou a segurança da população. Inclui redes de energia elétrica, sistemas de abastecimento de água, redes de telecomunicações, transportes (portos, aeroportos, rodovias) e o sistema financeiro. A proteção dessas infraestruturas é uma prioridade de segurança nacional. Sabia que ataques cibernéticos a usinas elétricas ou sistemas bancários são hoje consideradas uma das maiores ameaças à infraestrutura crítica de qualquer nação?",
+    "palavras_chave": ["infraestrutura crítica", "segurança nacional", "economia", "energia elétrica", "cibernético"]
+  },
+  {
+    "pergunta": "O que é 'soberania alimentar'?",
+    "resposta": "Soberania alimentar é um conceito mais amplo e político do que segurança alimentar. Propõe o direito dos povos de definir suas próprias políticas e estratégias sustentáveis de produção, distribuição e consumo de alimentos, que garantam o direito à alimentação para toda a população. Dá prioridade à produção local e à agricultura familiar, em oposição ao modelo do agronegócio voltado para a exportação. É um conceito defendido por movimentos sociais como o Via Campesina. Sabia que a soberania alimentar questiona o próprio sistema comercial global da OMC, argumentando que os alimentos não são uma commodity como qualquer outra, mas um direito humano básico?",
+    "palavras_chave": ["soberania alimentar", "agricultura familiar", "políticas alimentares", "via campesina", "direito à alimentação"]
+  },
+  {
+    "pergunta": "O que é 'valor agregado'?",
+    "resposta": "Valor agregado é a diferença entre o preço de venda de um produto e o custo dos insumos e materiais utilizados em sua produção. Em outras palavras, é o valor que é 'adicionado' a uma matéria-prima no processo de transformação. Uma commodity como o minério de ferro tem baixo valor agregado. Uma liga de aço especial tem valor agregado médio. Um carro de luxo ou um smartphone de última geração tem alto valor agregado. Países buscam aumentar o valor agregado de suas exportações para gerar mais riqueza interna. Sabia que uma das críticas ao modelo econômico brasileiro é que ele ainda exporta muita matéria-prima de baixo valor agregado (minério, soja) e importa produtos de alto valor agregado (máquinas, medicamentos, tecnologia)?",
+    "palavras_chave": ["valor agregado", "exportação", "transformação", "riqueza", "commodity"]
+  },
+  {
+    "pergunta": "O que é a 'Curva de Kuznets' ambiental?",
+    "resposta": "A Curva de Kuznets ambiental é uma hipótese que sugere que a relação entre a degradação ambiental e a renda per capita de um país tem formato de 'U' invertido. No início do desenvolvimento, a poluição aumenta. Mas, após atingir um certo nível de renda, a sociedade começa a valorizar mais o meio ambiente, investe em tecnologia limpa e implementa regulações, fazendo com que a degradação diminua. É uma teoria polêmica, pois sugere que o crescimento econômico eventualmente resolveria os problemas ambientais, o que muitos críticos contestam, alegando que alguns danos são irreversíveis. Sabia que o nome é uma analogia à Curva de Kuznets original, que descrevia a relação entre desigualdade de renda e desenvolvimento econômico?",
+    "palavras_chave": ["curva de kuznets", "degradação ambiental", "renda per capita", "tecnologia limpa", "hipótese"]
+  },
+  {
+    "pergunta": "O que é 'gestão de resíduos sólidos'?",
+    "resposta": "É o conjunto de ações que vão desde a coleta, transporte, transbordo, tratamento até a destinação final ambientalmente adequada do lixo. Uma gestão eficiente envolve a redução na geração de resíduos, a reutilização, a reciclagem e a compostagem, antes de pensar na disposição final em aterros. É um enorme desafio econômico e logístico para as cidades, mas também uma oportunidade de negócio (a 'economia circular') e geração de empregos. Sabia que os 'lixões' a céu aberto, ainda comuns no Brasil, são a forma mais prejudicial de destinação, causando poluição do solo, da água e emitindo gás metano, um potente gás de efeito estufa?",
+    "palavras_chave": ["gestão de resíduos", "lixo", "reciclagem", "economia circular", "aterro sanitário"]
+  },
+  {
+    "pergunta": "O que é 'cooperativismo'?",
+    "resposta": "Cooperativismo é um modelo socioeconômico onde pessoas ou pequenos produtores se associam voluntariamente para atingir objetivos econômicos e sociais comuns, através de uma empresa de propriedade coletiva e democraticamente controlada. Diferente de uma empresa capitalista tradicional, o foco não é o lucro máximo, mas o benefício para os cooperados. No agronegócio, por exemplo, cooperativas são fundamentais para pequenos agricultores, que ganham escala para comprar insumos, processar e comercializar sua produção. Sabia que um dos princípios do cooperativismo é a 'adesão voluntária e livre', e que o Brasil tem um dos maiores movimentos cooperativistas do mundo, com destaque para as cooperativas agropecuárias no Sul do país?",
+    "palavras_chave": ["cooperativismo", "associação", "propriedade coletiva", "agronegócio", "democracia"]
+  },
+  {
+    "pergunta": "O que é 'esgotamento de um recurso'?",
+    "resposta": "Esgotamento de um recurso ocorre quando a taxa de consumo ou exploração excede a sua taxa de renovação natural. Para recursos não renováveis, como o petróleo, o esgotamento é uma questão de tempo. Para os renováveis, como peixes ou florestas, o esgotamento acontece quando a exploração é feita de forma predatória, impedindo a regeneração. O esgotamento gera escassez, aumento de preços e conflitos, e é um dos limites centrais ao modelo de crescimento econômico atual. Sabia que o conceito de 'pico do petróleo' (peak oil) refere-se justamente ao ponto máximo de produção global, após o qual a extração entra em declínio irreversível devido ao esgotamento das reservas mais acessíveis?",
+    "palavras_chave": ["esgotamento", "recurso não renovável", "escassez", "exploração predatória", "pico do petróleo"]
+  },
+  {
+    "pergunta": "O que é 'comércio justo' (fair trade)?",
+    "resposta": "Comércio justo é um movimento social e uma modalidade de comércio internacional que busca uma parceria mais equitativa entre produtores do Sul Global (especialmente pequenos agricultores) e consumidores do Norte Global. Ele garante um preço mínimo justo ao produtor, condições de trabalho dignas, sustentabilidade ambiental e um prêmio social para investimentos na comunidade. O produto final carrega um selo de certificação. É uma alternativa ao comércio convencional, que muitas vezes explora o produtor. Sabia que o café é um dos produtos mais emblemáticos do comércio justo, pois a volatilidade de seu preço no mercado convencional frequentemente condena pequenos produtores à pobreza?",
+    "palavras_chave": ["comércio justo", "fair trade", "produtores", "preço justo", "certificação"]
+  },
+  {
+    "pergunta": "O que é 'economia criativa'?",
+    "resposta": "Economia criativa é o conjunto de negócios baseados no capital intelectual, cultural e na criatividade que gera valor econômico. Inclui setores como arquitetura, publicidade, design, moda, cinema, música, software, jogos eletrônicos e artes cênicas. Esses setores são intensivos em conhecimento e inovação, e são vistos como motores de desenvolvimento em cidades e regiões pós-industriais. Sabia que o Reino Unido foi um dos primeiros países a adotar políticas públicas específicas para fomentar a economia criativa, reconhecendo seu potencial de crescimento e geração de empregos de alta qualificação?",
+    "palavras_chave": ["economia criativa", "capital intelectual", "criatividade", "inovação", "conhecimento"]
+  },
+  {
+    "pergunta": "O que é 'gestão de bacias hidrográficas'?",
+    "resposta": "É a gestão integrada dos recursos hídricos de uma bacia hidrográfica (a área drenada por um rio e seus afluentes) como uma unidade geográfica e administrativa. Envolve planejar o uso da água, do solo e dos recursos relacionados de forma a equilibrar as necessidades socioeconômicas com a sustentabilidade dos ecossistemas aquáticos. É feita por comitês de bacia, que reúnem governo, usuários e sociedade civil. Sabia que a Bacia do Rio São Francisco, que atravessa cinco estados brasileiros, é um exemplo de como os conflitos pelo uso da água (irrigação, geração de energia, abastecimento humano) demandam uma gestão integrada e complexa?",
+    "palavras_chave": ["gestão de bacias", "recursos hídricos", "comitê de bacia", "sustentabilidade", "conflito"]
+  },
+  {
+    "pergunta": "O que é 'arranjo produtivo local' (APL)?",
+    "resposta": "Um Arranjo Produtivo Local é uma concentração territorial de empresas, especializadas em um mesmo segmento produtivo, que mantêm vínculos de cooperação e aprendizado entre si e com outros atores (governo, universidades, associações). É um conceito similar ao de 'cluster'. Os APLs se beneficiam da proximidade geográfica para reduzir custos, trocar conhecimentos e inovar. Sabia que a cidade de Franca (SP), famosa pela produção de calçados masculinos, é um exemplo clássico de APL no Brasil, reunindo centenas de fábricas, fornecedores e serviços especializados?",
+    "palavras_chave": ["arranjo produtivo local", "apl", "concentração territorial", "cooperação", "franca"]
+  },
+  {
+    "pergunta": "O que é 'dumping'?",
+    "resposta": "Dumping é uma prática de comércio internacional considerada desleal, na qual uma empresa ou país exporta um produto por um preço abaixo do seu custo de produção ou abaixo do preço praticado no mercado interno. O objetivo é often eliminar a concorrência no país importador, conquistar mercado e, posteriormente, elevar os preços. Para se proteger, os países podem impor 'direitos antidumping', que são tarifas extras sobre o produto em questão. Sabia que acusações de dumping são comuns em guerras comerciais, como as frequentes disputas entre EUA e China sobre aço e alumínio?",
+    "palavras_chave": ["dumping", "comércio desleal", "preço", "concorrência", "direitos antidumping"]
+  },
+  {
+    "pergunta": "O que é 'segurança hídrica'?",
+    "resposta": "Segurança hídrica existe quando uma população tem acesso sustentável a quantidades adequadas de água de qualidade aceitável para sustentar meios de subsistência, o bem-estar humano e o desenvolvimento socioeconômico; para garantir proteção contra a poluição hídrica e desastres relacionados à água; e para preservar ecossistemas em um clima de paz e estabilidade política. É um conceito-chave diante das pressões das mudanças climáticas e do crescimento populacional. Sabia que a Cidade do Cabo, na África do Sul, passou por uma crise hídrica extrema em 2018, quase chegando ao 'Dia Zero', quando as torneiras da cidade seriam fechadas?",
+    "palavras_chave": ["segurança hídrica", "água", "sustentabilidade", "mudanças climáticas", "escassez"]
+  },
+  {
+    "pergunta": "O que é 'tecnologia de ponta'?",
+    "resposta": "Tecnologia de ponta, ou 'state of the art', refere-se aos desenvolvimentos mais recentes e avançados em um determinado campo tecnológico. São tecnologias que representam o ápice da inovação e que, geralmente, conferem uma vantagem competitiva decisiva para quem as domina. Exemplos incluem a inteligência artificial, a biotecnologia, a nanotecnologia e a computação quântica. A capacidade de gerar e absorver tecnologia de ponta é um dos principais fatores que separam países desenvolvidos de subdesenvolvidos. Sabia que os chamados 'Unicórnios' (startups avaliadas em mais de US$ 1 bilhão) são quase sempre empresas baseadas em tecnologia de ponta?",
+    "palavras_chave": ["tecnologia de ponta", "inovação", "vantagem competitiva", "inteligência artificial", "biotecnologia"]
+  },
+  {
+    "pergunta": "O que é 'economia de baixo carbono'?",
+    "resposta": "Uma economia de baixo carbono é um sistema econômico que busca minimizar a emissão de gases de efeito estufa, especialmente o dióxido de carbono (CO2), através da adoção de fontes de energia renovável, eficiência energética, transporte sustentável e processos industriais mais limpos. É a base para o combate às mudanças climáticas e representa uma profunda transformação estrutural, com a criação de novos setores (como o de energias renováveis) e o declínio de outros (como o do carvão). Sabia que a União Europeia tem um plano ambicioso chamado 'Pacto Ecológico Europeu' (European Green Deal), que visa tornar o bloco o primeiro continente com impacto climático zero até 2050, impulsionando sua economia de baixo carbono?",
+    "palavras_chave": ["economia de baixo carbono", "emissões", "energia renovável", "eficiência energética", "transição"]
+  },
+  {
+    "pergunta": "O que é 'vantagem comparativa'?",
+    "resposta": "É um dos conceitos mais importantes da economia internacional, desenvolvido por David Ricardo. Ele postula que um país deve se especializar na produção e exportação dos bens que pode produzir com um custo de oportunidade relativamente menor do que outros países, e importar os bens para os quais outros países tenham uma vantagem comparativa. Ou seja, mesmo que um país seja menos eficiente na produção de TUDO (uma 'vantagem absoluta' negativa), ainda é benéfico para ele comerciar, especializando-se no que faz 'menos pior'. Sabia que este princípio é a base intelectual para a defesa do livre comércio, argumentando que o comércio é um 'jogo de soma positiva', onde todos os participantes podem ganhar?",
+    "palavras_chave": ["vantagem comparativa", "david ricardo", "comércio internacional", "especialização", "custo de oportunidade"]
+  },
+  {
+    "pergunta": "O que é 'especulação financeira' com commodities?",
+    "resposta": "É quando investidores (como fundos de hedge e bancos) compram e vendem contratos futuros de commodities no mercado financeiro, não porque precisam da commodity física (como soja ou petróleo), mas para lucrar com as oscilações de preço. Essa atividade pode descolar o preço financeiro do preço real de oferta e demanda, criando bolhas e volatilidade excessiva. Isso é problemático porque afeta o preço de alimentos e energia para a população real. Sabia que a crise alimentar de 2007-2008, que levou a protestos em vários países, foi agravada pela especulação financeira nos mercados de commodities agrícolas?",
+    "palavras_chave": ["especulação financeira", "commodities", "contratos futuros", "volatilidade", "preço dos alimentos"]
+  },
+  {
+    "pergunta": "O que é 'cooperativismo de plataforma'?",
+    "resposta": "É um movimento emergente que busca aplicar os princípios do cooperativismo tradicional à economia digital. Em vez de trabalhadores serem 'parceiros' precários de grandes plataformas como Uber ou iFood, eles seriam os donos cooperados da plataforma digital que os conecta aos clientes. O objetivo é garantir melhores rendimentos, condições de trabalho e democracia no ambiente digital, combatendo a concentração de poder e riqueza nas 'Big Techs'. Sabia que já existem experiências de cooperativas de entregadores e motoristas em várias cidades do mundo, criando apps alternativos aos das grandes corporações?",
+    "palavras_chave": ["cooperativismo de plataforma", "economia digital", "plataforma", "trabalho", "big techs"]
+  },
+  {
+    "pergunta": "O que é 'necroeconomia'?",
+    "resposta": "É um termo crítico usado para descrever um modelo econômico que gera riqueza e crescimento às custas da morte, seja ela social (aumento da pobreza, exclusão), cultural (extinção de saberes tradicionais) ou ecológica (destruição de ecossistemas, extinção de espécies). É o oposto de uma 'bioeconomia' ou economia da vida. O conceito alerta para os custos humanos e ambientais ocultos por trás de alguns indicadores de crescimento econômico positivos. Sabia que a exploração predatória de florestas, que gera lucro imediato mas destrói serviços ecossistêmicos vitais, é um exemplo claro de lógica necroeconômica?",
+    "palavras_chave": ["necroeconomia", "crítica", "morte social", "destruição ecológica", "custo oculto"]
+  },
+  {
+    "pergunta": "O que é 'geografia do consumo'?",
+    "resposta": "É um ramo da geografia que estuda os padrões espaciais de consumo, analisando onde, como e por que as pessoas consomem bens e serviços. Ela investiga desde a localização de shoppings centers e a distribuição de renda que permite o acesso a certos produtos, até os rastros ambientais globais deixados pelos nossos hábitos de consumo (a 'pegada ecológica'). É um campo que cruza economia, cultura e espaço. Sabia que a 'geografia do consumo' também estuda fenômenos como os 'food deserts' (desertos alimentares), que são áreas urbanas pobres com pouca ou nenhuma oferta de alimentos frescos e saudáveis?",
+    "palavras_chave": ["geografia do consumo", "padrões espaciais", "renda", "pegada ecológica", "desertos alimentares"]
+  },
+  {
+    "pergunta": "O que é um 'monopólio bilateral'?",
+    "resposta": "É uma estrutura de mercado rara onde existe apenas um comprador (monopsonista) e apenas um vendedor (monopolista). É um cabo de guerra entre duas forças únicas. O preço e a quantidade negociados não são determinados pelo mercado, mas por um processo de barganha e negociação entre as duas partes. Sabia que a relação entre um sindicato muito forte (único vendedor de mão de obra) e uma grande empresa dominante em uma cidade company town (única compradora) é um exemplo clássico de monopólio bilateral no mercado de trabalho?",
+    "palavras_chave": ["monopólio bilateral", "monopsonista", "monopolista", "barganha", "estrutura de mercado"]
+  },
+  {
+    "pergunta": "O que é 'extrativismo'?",
+    "resposta": "Extrativismo é uma atividade econômica que consiste em extrair recursos naturais do meio ambiente, sejam eles renováveis (como madeira e frutos) ou não renováveis (como minérios e petróleo). O termo é frequentemente usado em um sentido crítico para se referir a um modelo de desenvolvimento baseado na exploração em larga escala de recursos primários para exportação, com baixo valor agregado e altos impactos socioambientais, característico de muitas economias do Sul Global. Sabia que o extrativismo mineral na Amazônia, especialmente o garimpo ilegal, é uma das maiores fontes de desmatamento e contaminação por mercúrio dos rios e das populações locais?",
+    "palavras_chave": ["extrativismo", "recursos naturais", "exploração", "impacto socioambiental", "sul global"]
+  },
+  {
+    "pergunta": "O que é 'fiscalização verde'?",
+    "resposta": "É a ação de monitoramento e aplicação da lei por parte dos órgãos ambientais para coibir crimes como desmatamento ilegal, poluição hídrica, caça predatória e mineração irregular. Envolve o uso de tecnologias como satélites, drones e inteligência artificial para rastrear infratores em áreas vastas e de difícil acesso. A eficiência da fiscalização verde é um termômetro do compromisso de um país com a sustentabilidade. Sabia que o Instituto Brasileiro do Meio Ambiente (Ibama) e o Instituto Chico Mendes (ICMBio) são os principais órgãos de fiscalização verde no Brasil, mas frequentemente atuam com orçamentos e efetivos aquém do necessário?",
+    "palavras_chave": ["fiscalização verde", "crime ambiental", "monitoramento", "satélites", "ibama"]
+  },
+  {
+    "pergunta": "O que é 'acordo de livre comércio'?",
+    "resposta": "É um tratado entre dois ou mais países para reduzir ou eliminar barreiras comerciais entre si, como tarifas de importação e cotas. O objetivo é aumentar o comércio e o investimento mútuo. Podem ser bilaterais (entre dois países) ou multilaterais (como o USMCA, que substituiu o NAFTA). Esses acordos são uma peça central da integração econômica regional e global. Sabia que o Mercosul tem um acordo de livre comércio em negociação com a União Europeia há décadas, cujo avanço esbarra em questões ambientais e de concorrência com o agronegócio europeu?",
+    "palavras_chave": ["acordo de livre comércio", "barreiras comerciais", "tarifas", "integração econômica", "mercossul"]
+  },
+  {
+    "pergunta": "O que é 'economia dos cuidados'?",
+    "resposta": "Refere-se a todas as atividades, remuneradas ou não, que envolvem o cuidado de outras pessoas, como o trabalho doméstico, o cuidado com crianças, idosos e doentes. É um setor econômico enorme, mas historicamente invisibilizado e não valorizado, realizado majoritariamente por mulheres. A 'economia dos cuidados' sustenta toda a outra economia, pois sem ela não haveria força de trabalho saudável e disponível. Sabia que a pandemia de COVID-19 escancarou a importância e a sobrecarga da economia dos cuidados, especialmente sobre as mulheres, quando escolas fecharam e o trabalho doméstico aumentou?",
+    "palavras_chave": ["economia dos cuidados", "trabalho doméstico", "invisibilizado", "gênero", "força de trabalho"]
+  },
+  {
+    "pergunta": "O que é 'geoeconomia'?",
+    "resposta": "A geoeconomia é um campo de estudo que analisa a estratégia econômica dos Estados no cenário internacional como um instrumento de poder e projeção geopolítica. Ela vai além do comércio puro e simples, focando em como países usam instrumentos como sanções econômicas, controle de tecnologias sensíveis, investimentos em infraestrutura no exterior (como a Nova Rota da Seda) e dependência de recursos para alcançar objetivos políticos e de segurança nacional. Sabia que o embargo dos EUA a Cuba e as sanções à Rússia após a invasão da Ucrânia são exemplos clássicos de ações geoeconômicas?",
+    "palavras_chave": ["geoeconomia", "estratégia estatal", "poder", "sanções", "projeção geopolítica"]
+  },
+  {
+    "pergunta": "O que é 'mineração de fundo do mar'?",
+    "resposta": "É a emergente atividade de extração de minerais do leito marinho, em águas profundas. Alvos incluem nódulos polimetálicos (ricos em manganês, cobalto, níquel) e crostas de cobalto, recursos cruciais para a transição energética (baterias de carros elétricos). É uma fronteira econômica controversa, pois os impactos ecológicos em ecossistemas praticamente desconhecidos são potencialmente catastróficos e irreversíveis. Sabia que a Autoridade Internacional dos Fundos Marinhos (ISA), ligada à ONU, é o órgão responsável por regular essa atividade em águas internacionais, mas enfrenta enorme pressão de empresas e ONGs ambientalistas?",
+    "palavras_chave": ["mineração fundo do mar", "nódulos polimetálicos", "transição energética", "impacto ecológico", "autoridade internacional"]
+  },
+  {
+    "pergunta": "O que é 'capital natural'?",
+    "resposta": "É um conceito que enxerga o estoque de recursos naturais (florestas, solos, água, ar puro, biodiversidade) como um ativo ou uma forma de capital, assim como o capital físico (máquinas) ou humano (conhecimento). A ideia é que se esgotarmos o capital natural, estaremos comprometendo a base que sustenta a economia e a própria vida no longo prazo. A contabilidade do capital natural busca incorporar o valor dos serviços ecossistêmicos nas decisões econômicas. Sabia que o 'Produto Interno Bruto (PIB) Verde' é uma tentativa de ajustar o PIB tradicional, descontando o esgotamento do capital natural?",
+    "palavras_chave": ["capital natural", "recursos naturais", "ativo", "serviços ecossistêmicos", "pib verde"]
+  },
+  {
+    "pergunta": "O que é 'protecionismo'?",
+    "resposta": "Protecionismo é a política econômica de proteger os produtores domésticos da concorrência estrangeira. Isso é feito através de barreiras tarifárias (impostos de importação) e não tarifárias (cotas, regulamentações sanitárias complexas, subsídios à indústria nacional). O objetivo é favorecer o emprego e a produção local, mas críticos argumentam que isso encarece produtos para o consumidor, reduz a eficiência e pode provocar retaliações comerciais. Sabia que a 'Guerra Comercial' entre EUA e China iniciada sob o governo Trump foi um grande exemplo de escalada protecionista, com ambos os países impondo tarifas bilionárias sobre os produtos um do outro?",
+    "palavras_chave": ["protecionismo", "concorrência estrangeira", "tarifas", "subsídios", "guerra comercial"]
+  },
+  {
+    "pergunta": "O que é 'economia solidária'?",
+    "resposta": "É um movimento e uma forma de organização econômica baseada na autogestão, na cooperação, na solidariedade e na distribuição justa dos resultados. Ela se opõe à lógica capitalista tradicional de maximização do lucro. Inclui empreendimentos como cooperativas, associações e grupos de produção coletiva, onde todos os trabalhadores são donos do negócio e as decisões são tomadas democraticamente. Sabia que a economia solidária é vista como uma estratégia de geração de trabalho e renda, especialmente em contextos de crise econômica e exclusão do mercado de trabalho formal?",
+    "palavras_chave": ["economia solidária", "autogestão", "cooperação", "democracia", "trabalho e renda"]
+  },
+  {
+    "pergunta": "O que é 'segurança energética'?",
+    "resposta": "Segurança energética é a garantia de um suprimento estável, ininterrupto e acessível de energia para um país. Envolve diversificar as fontes (para não depender de uma só), ter reservas estratégicas, garantir rotas de transporte seguras e investir em eficiência. A dependência de energia importada de regiões instáveis é um risco à segurança energética. Sabia que a crise do gás natural entre Rússia e Ucrânia em 2006 e 2009, que afetou o fornecimento para a Europa, é um estudo de caso clássico sobre os perigos da falta de segurança energética?",
+    "palavras_chave": ["segurança energética", "suprimento estável", "diversificação", "dependência", "reservas estratégicas"]
+  },
+  {
+    "pergunta": "O que é 'cadeia de valor'?",
+    "resposta": "É o conjunto completo de atividades necessárias para levar um produto ou serviço desde a sua concepção, passando pelas fases de produção, distribuição, comercialização até o consumidor final e o descarte. Analisar a cadeia de valor permite identificar em qual elo (ou 'degrau') um país ou empresa está inserido e quanto valor é capturado em cada etapa. Países buscam 'subir na cadeia de valor' para capturar mais riqueza. Sabia que montar um iPhone no Brasil é um elo da cadeia de valor, mas projetar seus chips e seu software nos EUA são elos que capturam muito mais valor?",
+    "palavras_chave": ["cadeia de valor", "produção", "distribuição", "elos", "captura de valor"]
+  },
+  {
+    "pergunta": "O que é 'agricultura de precisão'?",
+    "resposta": "É um modelo de gestão agrícola que usa tecnologia de ponta (GPS, drones, sensores, big data) para aplicar insumos (água, fertilizantes, pesticidas) de forma localizada e variada dentro de uma mesma lavoura, na dose exata e no local certo. Isso maximiza a produtividade, reduz custos e minimiza o impacto ambiental. É a agricultura 4.0, que transforma o campo em um ambiente de alta tecnologia. Sabia que no Brasil, a agricultura de precisão é crucial para a sustentabilidade do agronegócio, permitindo produzir mais na mesma área e reduzindo a pressão por novos desmatamentos?",
+    "palavras_chave": ["agricultura de precisão", "tecnologia", "gps", "big data", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é 'dumping social'?",
+    "resposta": "É uma prática de concorrência desleal em que um país ou empresa explora mão de obra barata, condições de trabalho precárias ou direitos trabalhistas frágeis para produzir a um custo mais baixo e ganhar vantagem no mercado internacional. O produto fica mais barato, mas às custas da dignidade dos trabalhadores. É um dos grandes desafios em um mundo globalizado. Sabia que as críticas frequentes às condições de trabalho em fábricas na China e em outros países asiáticos são, em essência, acusações de dumping social?",
+    "palavras_chave": ["dumping social", "concorrência desleal", "condições de trabalho", "direitos trabalhistas", "vantagem"]
+  },
+  {
+    "pergunta": "O que é 'economia do compartilhamento'?",
+    "resposta": "É um modelo econômico baseado no compartilhamento de ativos subutilizados (como carros, quartos vazios ou ferramentas) entre particulares, geralmente por meio de plataformas online. A ideia é otimizar o uso de recursos e reduzir o consumo. No entanto, o termo é criticado quando se aplica a empresas como Uber e Airbnb, que na prática funcionam mais como serviços sob demanda do que como um compartilhamento genuíno entre pares. Sabia que o sucesso dessas plataformas levantou debates acalorados sobre regulação, direitos trabalhistas e seu impacto no mercado de trabalho tradicional e no custo de vida nas cidades?",
+    "palavras_chave": ["economia do compartilhamento", "plataformas online", "ativos subutilizados", "uber", "airbnb"]
+  },
+  {
+    "pergunta": "O que é 'bem comum global'?",
+    "resposta": "Bens comuns globais são recursos ou sistemas que transcendem as fronteiras nacionais e são vitais para o bem-estar de toda a humanidade, tanto no presente quanto no futuro. Eles incluem a atmosfera, os oceanos, a biodiversidade, a camada de ozônio e a estabilidade climática. A sua gestão é um enorme desafio, pois nenhum país sozinho pode protegê-los, exigindo cooperação internacional. Sabia que a Antártida é tratada como um 'bem comum global' por um tratado internacional que suspende reivindicações territoriais e dedica o continente à pesquisa científica e à paz?",
+    "palavras_chave": ["bem comum global", "humanidade", "cooperação internacional", "atmosfera", "antártida"]
+  },
+  {
+    "pergunta": "O que é 'crescimento inclusivo'?",
+    "resposta": "É um conceito que defende que o crescimento econômico deve beneficiar toda a sociedade, e não apenas uma pequena elite. Ele busca combinar o aumento do PIB com a redução da desigualdade de renda, de gênero e de oportunidades. O crescimento inclusivo requer políticas que garantam acesso à educação de qualidade, saúde, infraestrutura e empregos dignos para todos. Sabia que muitos economistas argumentam que a desigualdade excessiva, além de ser injusta, é prejudicial para o próprio crescimento econômico no longo prazo, pois limita o mercado consumidor e gera instabilidade social?",
+    "palavras_chave": ["crescimento inclusivo", "desigualdade", "oportunidades", "educação", "emprego"]
+  },
+  {
+    "pergunta": "O que é 'licenciamento ambiental'?",
+    "resposta": "É um procedimento administrativo obrigatório no qual o poder público autoriza a localização, instalação, ampliação e operação de empreendimentos que usam recursos naturais ou que são potencialmente poluidores. É uma ferramenta de prevenção, que condiciona a aprovação do projeto ao cumprimento de uma série de medidas para mitigar seus impactos ambientais. O licenciamento é um pilar da política ambiental. Sabia que grandes obras como usinas hidrelétricas, rodovias e portos são alvo de intensos debates durante o processo de licenciamento, que envolve estudos de impacto e audiências públicas?",
+    "palavras_chave": ["licenciamento ambiental", "procedimento administrativo", "prevenção", "impacto ambiental", "audiência pública"]
+  },
+  {
+    "pergunta": "O que é 'economia de guerra'?",
+    "resposta": "É a reorganização da economia de um país para dar suporte ao esforço de guerra. Envolve a centralização estatal, o racionamento de recursos, o direcionamento da indústria para a produção bélica (tanques, munições) e o controle de preços. É uma situação excepcional onde as regras de mercado são suspensas em nome da sobrevivência nacional. Sabia que durante a Segunda Guerra Mundial, os EUA implementaram uma economia de guerra tão eficiente que se tornou conhecida como 'o arsenal da democracia', produzindo quantidades massivas de armamentos enquanto ainda mantinha a produção civil?",
+    "palavras_chave": ["economia de guerra", "esforço de guerra", "centralização", "produção bélica", "racionamento"]
+  },
+  {
+    "pergunta": "O que é 'externalidade'?",
+    "resposta": "Em economia, externalidade é o efeito colateral de uma atividade econômica sobre terceiros que não estão diretamente envolvidos nela. Pode ser negativa, quando impõe um custo (como a poluição de uma fábrica sobre a saúde da população vizinha) ou positiva, quando gera um benefício (como um apicultor cujas abelhas polinizam as plantações ao redor). O mercado, por si só, não consecia internalizar esses custos e benefícios, exigindo intervenção estatal (impostos sobre poluição, subsídios para atividades benéficas). Sabia que as mudanças climáticas são a maior externalidade negativa da história, causada pelas emissões de gases de efeito estufa de toda a economia global?",
+    "palavras_chave": ["externalidade", "efeito colateral", "custo", "benefício", "intervenção estatal"]
+  },
+  {
+    "pergunta": "O que é 'tecnologia social'?",
+    "resposta": "São produtos, técnicas ou metodologias reaplicáveis, desenvolvidas na interação com a comunidade e que representam soluções para inclusão social e melhoria das condições de vida. Elas são simples, de baixo custo e surgem para resolver problemas concretos, como a cisterna de placas no Semiárido brasileiro para captação de água da chuva. É o oposto da tecnologia convencional, que é muitas vezes importada e cara. Sabia que a tecnologia social valoriza o saber local e é uma ferramenta poderosa para o desenvolvimento comunitário e a autonomia das populações?",
+    "palavras_chave": ["tecnologia social", "solução comunitária", "baixo custo", "inclusão social", "saber local"]
+  },
+  {
+    "pergunta": "O que é 'conflito socioambiental'?",
+    "resposta": "São conflitos que surgem do choque entre diferentes modelos de uso e apropriação dos recursos naturais e do território. De um lado, frequentemente estão projetos de desenvolvimento de grande escala (mineração, barragens, agronegócio) e, do outro, populações tradicionais, indígenas, quilombolas e pequenos agricultores que dependem desse território para sua sobrevivência física e cultural. Sabia que a Comissão Pastoral da Terra (CPT) e o Instituto Socioambiental (ISA) são entidades que documentam esses conflitos no Brasil, que muitas vezes resultam em violência e ameaças a lideranças comunitárias?",
+    "palavras_chave": ["conflito socioambiental", "recursos naturais", "território", "populações tradicionais", "violência"]
+  },
+  {
+    "pergunta": "O que é 'economia pós-petroleira'?",
+    "resposta": "É uma economia que não depende mais do petróleo como sua principal fonte de energia e matéria-prima. É o objetivo final da transição energética. Nessa economia, os combustíveis fósseis são substituídos por renováveis, os plásticos derivados do petróleo por bioplásticos, e a mobilidade é elétrica ou movida a hidrogênio. Atingir essa meta é crucial para a estabilidade climática. Sabia que a Noruega, um dos maiores produtores de petróleo da Europa, é também um dos países que mais investe em veículos elétricos e energia renovável, justamente para se preparar para a era pós-petroleira?",
+    "palavras_chave": ["economia pós-petroleira", "transição energética", "combustíveis fósseis", "energia renovável", "veículos elétricos"]
+  },
+  {
+    "pergunta": "O que é 'arable land' (terra arável)?",
+    "resposta": "Terra arável é a porção do território de um país que é adequada para o cultivo agrícola. É um recurso finito e estratégico. A quantidade de terra arável per capita é um indicador importante da capacidade de um país em garantir sua segurança alimentar. A expansão da fronteira agrícola muitas vezes ocorre sobre ecossistemas frágeis, enquanto a urbanização e a degradação do solo reduzem a área já disponível. Sabia que o Brasil possui uma das maiores reservas de terra arável do mundo, um dos fatores que o tornou uma potência agroexportadora, mas essa expansão tem um custo ambiental altíssimo, especialmente sobre o Cerrado e a Amazônia?",
+    "palavras_chave": ["terra arável", "cultivo agrícola", "recurso estratégico", "segurança alimentar", "fronteira agrícola"]
+  },
+  {
+    "pergunta": "O que é 'economia da experiência'?",
+    "resposta": "É um estágio da economia onde o valor principal não está mais no produto ou serviço em si, mas na experiência memorável e personalizada que ele proporciona ao consumidor. Em vez de vender apenas um café, vende-se a experiência aconchegante de uma cafeteria. Em vez de vender uma viagem, vende-se a aventura e a transformação pessoal. É a evolução da commodity para o produto, depois para o serviço e, finalmente, para a experiência. Sabia que parques temáticos como a Disney são considerados os precursores máximos da economia da experiência?",
+    "palavras_chave": ["economia da experiência", "valor", "memorável", "personalizada", "disney"]
+  },
+  {
+    "pergunta": "O que é 'sobreposição de redes'?",
+    "resposta": "Na geografia econômica, refere-se à forma como diferentes redes (de transporte, comunicação, energia) se interligam e se sobrepõem no espaço, criando nodos de extrema conectividade e valor. Um aeroporto internacional conectado a uma rede ferroviária de alta velocidade e a uma rede de fibra óptica é um exemplo. Esses pontos de sobreposição se tornam locais estratégicos para a economia global. Sabia que cidades como Singapura e Dubai são exemplos de 'hubs' que surgiram e prosperaram justamente por serem pontos de sobreposição de rotas marítimas, aéreas e de telecomunicações globais?",
+    "palavras_chave": ["sobreposição de redes", "conectividade", "nodos", "valor estratégico", "hubs"]
+  },
+  {
+    "pergunta": "O que é 'economia do bem-estar'?",
+    "resposta": "É uma abordagem econômica que defende que o objetivo final da economia não deve ser o crescimento do PIB, mas a melhoria do bem-estar humano e da qualidade de vida. Ela leva em consideração indicadores como saúde, educação, igualdade, sustentabilidade ambiental e satisfação com a vida, indo muito além da renda. Países como Butão, com seu índice de 'Felicidade Nacional Bruta', são pioneiros nessa visão. Sabia que a OCDE desenvolveu um 'Índice para uma Vida Melhor' que compara o bem-estar dos cidadãos em seus países membros, usando métricas que vão além do PIB?",
+    "palavras_chave": ["economia do bem-estar", "qualidade de vida", "felicidade nacional bruta", "ocde", "indicadores"]
+  },
+  {
+    "pergunta": "O que é 'fronteira econômica'?",
+    "resposta": "É um conceito que vai além da fronteira política. Refere-se à região de expansão e incorporação de novos territórios ao circuito econômico dominante. Pode ser a fronteira agrícola na Amazônia, a fronteira da mineração no fundo do mar ou a fronteira digital do metaverso. São espaços onde as regras são fluidas, os conflitos são frequentes e a acumulação de capital ocorre de forma acelerada, muitas vezes à margem da lei. Sabia que o filme 'Avatar', de James Cameron, é uma alegoria sobre o conflito inerente à expansão de uma fronteira econômica (a mineração) sobre o território e a cultura de um povo nativo?",
+    "palavras_chave": ["fronteira econômica", "expansão", "circuito econômico", "conflito", "acumulação de capital"]
+  },
+  {
+    "pergunta": "O que é 'resiliência econômica'?",
+    "resposta": "É a capacidade de um sistema econômico (seja um país, uma cidade ou uma empresa) de resistir, adaptar-se e se recuperar rapidamente de choques externos, como uma pandemia, uma crise financeira, um desastre natural ou uma interrupção na cadeia de suprimentos. Economias diversificadas, com forte capital social e instituições sólidas, tendem a ser mais resilientes. Sabia que a pandemia de COVID-19 foi um teste de resiliência econômica global, mostrando a vulnerabilidade de cadeias produtivas muito longas e a importância de ter sistemas de proteção social?",
+    "palavras_chave": ["resiliência econômica", "choques externos", "adaptação", "recuperação", "diversificação"]
+  }
+]

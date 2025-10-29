@@ -1,0 +1,582 @@
+[
+  {
+    "pergunta": "O que é um texto narrativo?",
+    "resposta": "O texto narrativo é aquele que conta uma história, geralmente com personagens, tempo, espaço e enredo. Pode ser encontrado em contos, romances, fábulas e até em narrativas pessoais do cotidiano. Esse tipo de texto acompanha a humanidade desde a tradição oral, quando histórias eram transmitidas de geração em geração ao redor de fogueiras. Sabia que o clássico 'Ilíada', escrito por Homero por volta do século oitavo antes de Cristo, é um exemplo de narrativa que marcou a literatura ocidental?",
+    "palavras_chave": ["texto narrativo", "história", "enredo", "tradição oral", "literatura"]
+  },
+  {
+    "pergunta": "O que é um texto descritivo?",
+    "resposta": "O texto descritivo tem como objetivo detalhar e caracterizar pessoas, lugares, objetos ou situações, criando uma imagem mental para o leitor. É muito usado em literatura, em anúncios de imóveis e até em relatórios técnicos. A descrição pode ser objetiva, quando foca em dados reais, ou subjetiva, quando transmite impressões e emoções. Sabia que Machado de Assis, em obras como 'Dom Casmurro', usava descrições detalhadas para revelar o psicológico das personagens?",
+    "palavras_chave": ["texto descritivo", "detalhes", "caracterização", "literatura", "imagens mentais"]
+  },
+  {
+    "pergunta": "O que é um texto dissertativo?",
+    "resposta": "O texto dissertativo é aquele que expõe e desenvolve ideias de forma organizada, geralmente em três partes: introdução, desenvolvimento e conclusão. Esse formato busca explicar, analisar ou interpretar um tema. É amplamente usado em redações escolares, vestibulares e no ENEM. Sabia que a estrutura clássica da dissertação vem da retórica grega, quando filósofos como Aristóteles já ensinavam a organizar argumentos em lógica sequencial?",
+    "palavras_chave": ["texto dissertativo", "ideias", "estrutura", "ENEM", "retórica"]
+  },
+  {
+    "pergunta": "O que é um texto argumentativo?",
+    "resposta": "O texto argumentativo tem como principal objetivo convencer o leitor por meio de raciocínios lógicos e provas. É comum em artigos de opinião, editoriais e ensaios. O autor precisa apresentar uma tese e sustentá-la com argumentos consistentes, exemplos e dados. Sabia que Martin Luther King, no famoso discurso 'I Have a Dream', de mil novecentos e sessenta e três, usou técnicas argumentativas que até hoje são estudadas como modelos de persuasão?",
+    "palavras_chave": ["texto argumentativo", "convencer", "tese", "persuasão", "opinião"]
+  },
+  {
+    "pergunta": "O que é um texto injuntivo?",
+    "resposta": "O texto injuntivo, também chamado de instrucional, busca orientar o leitor sobre como realizar uma ação, usando verbos no imperativo. É encontrado em manuais, receitas, bulas e até propagandas. Esse tipo de texto está presente em nosso dia a dia, desde instruções simples até documentos técnicos. Sabia que o termo 'injuntivo' vem do latim 'injungere', que significa ordenar ou impor?",
+    "palavras_chave": ["texto injuntivo", "instruções", "imperativo", "manuais", "receitas"]
+  },
+  {
+    "pergunta": "O que é um texto expositivo?",
+    "resposta": "O texto expositivo tem como função principal explicar ou apresentar informações de forma clara e objetiva. Está presente em artigos científicos, palestras, enciclopédias e até em textos didáticos. Diferente do argumentativo, não tenta convencer, apenas informar. Sabia que as primeiras enciclopédias modernas, como a 'Enciclopédia' organizada por Diderot no século dezoito, foram exemplos marcantes de textos expositivos que mudaram o acesso ao conhecimento?",
+    "palavras_chave": ["texto expositivo", "explicação", "informação", "objetividade", "enciclopédia"]
+  },
+  {
+    "pergunta": "Como usar conectivos em um texto?",
+    "resposta": "Os conectivos são palavras ou expressões que estabelecem relações lógicas entre frases e parágrafos, como 'portanto', 'além disso' e 'entretanto'. Eles são fundamentais para garantir a coesão textual. O uso correto de conectivos ajuda a guiar o raciocínio do leitor e a evitar repetições desnecessárias. Sabia que, em redações do ENEM, o uso variado e adequado de conectivos pode elevar a nota na competência de coesão e coerência?",
+    "palavras_chave": ["conectivos", "coesão", "palavras de ligação", "redação", "ENEM"]
+  },
+  {
+    "pergunta": "O que é uma proposta de intervenção?",
+    "resposta": "A proposta de intervenção é a parte da redação, especialmente no ENEM, em que o candidato precisa sugerir soluções concretas para o problema discutido. Deve conter agente, ação, modo, efeito e detalhamento. Esse modelo garante que a solução seja prática e viável. Sabia que, em mil novecentos e noventa e oito, quando o ENEM foi criado, a proposta de intervenção já era um diferencial inovador em comparação a outros exames internacionais?",
+    "palavras_chave": ["proposta de intervenção", "ENEM", "soluções", "estrutura", "redação"]
+  },
+  {
+    "pergunta": "O que é um texto literário?",
+    "resposta": "O texto literário é voltado para a expressão artística da linguagem, valorizando a estética, a criatividade e a subjetividade. Está presente em poesias, romances, contos e peças de teatro. Esse tipo de texto muitas vezes não tem como foco informar, mas provocar emoções e reflexões. Sabia que a epopeia 'Os Lusíadas', de Luís de Camões, escrita em mil quinhentos e setenta e dois, é um dos textos literários mais estudados da língua portuguesa?",
+    "palavras_chave": ["texto literário", "arte", "emoção", "poesia", "romance"]
+  },
+  {
+    "pergunta": "O que é um texto não literário?",
+    "resposta": "O texto não literário tem função prática, buscando informar, instruir ou comunicar de forma objetiva. Exemplos incluem notícias, relatórios, artigos de divulgação científica e contratos. Sua linguagem costuma ser clara e direta. Sabia que jornais do século dezenove foram decisivos para popularizar o texto não literário como forma central de comunicação de massa?",
+    "palavras_chave": ["texto não literário", "informação", "objetividade", "notícia", "relatório"]
+  },
+  {
+    "pergunta": "O que é um parágrafo introdutório?",
+    "resposta": "O parágrafo introdutório é a primeira parte da redação, responsável por apresentar o tema, contextualizar o leitor e, muitas vezes, expor a tese do autor. Deve ser claro, objetivo e despertar interesse. Sabia que muitos candidatos do ENEM perdem pontos por escrever introduções vagas e sem relação com o tema proposto?",
+    "palavras_chave": ["parágrafo introdutório", "tema", "tese", "introdução", "redação"]
+  },
+  {
+    "pergunta": "O que é um parágrafo de desenvolvimento?",
+    "resposta": "O parágrafo de desenvolvimento é o espaço em que o autor apresenta argumentos, dados e exemplos que sustentam sua tese. Geralmente, cada parágrafo desenvolve um aspecto diferente do tema. Sabia que Aristóteles, na Antiguidade, já ensinava a dividir argumentos em partes para facilitar a compreensão do leitor?",
+    "palavras_chave": ["parágrafo de desenvolvimento", "argumentos", "exemplos", "tese", "redação"]
+  },
+  {
+    "pergunta": "O que é um parágrafo conclusivo?",
+    "resposta": "O parágrafo conclusivo encerra a redação, retomando as ideias principais e, muitas vezes, apresentando soluções ou propostas. Ele deve ser coerente com os argumentos já expostos. Sabia que, em concursos e vestibulares, uma conclusão bem construída pode compensar pequenas falhas no desenvolvimento?",
+    "palavras_chave": ["parágrafo conclusivo", "síntese", "proposta", "finalização", "redação"]
+  },
+  {
+    "pergunta": "Como evitar repetição de palavras?",
+    "resposta": "Para evitar repetições, é possível usar sinônimos, pronomes ou construções alternativas. O uso de dicionários de sinônimos e a leitura frequente ampliam o vocabulário, facilitando essa prática. Sabia que escritores como José Saramago eram conhecidos pelo uso criativo de sinônimos para evitar monotonia em seus textos longos?",
+    "palavras_chave": ["evitar repetição", "sinônimos", "vocabulário", "variação", "redação"]
+  },
+  {
+    "pergunta": "O que é clareza em um texto?",
+    "resposta": "Clareza textual significa que as ideias são transmitidas de forma compreensível, sem ambiguidades ou construções confusas. É essencial em textos informativos, científicos e jornalísticos. Sabia que a clareza é considerada um dos pilares da comunicação desde a retórica clássica grega?",
+    "palavras_chave": ["clareza", "objetividade", "compreensão", "texto", "comunicação"]
+  },
+  {
+    "pergunta": "O que é concisão textual?",
+    "resposta": "Concisão é a capacidade de expressar ideias de forma breve, sem perder o sentido. Textos concisos evitam rodeios, focando no essencial. Essa qualidade é muito valorizada em anúncios, manchetes e provas de redação. Sabia que o lema do jornal britânico 'The Economist' é produzir textos claros e concisos para leitores apressados?",
+    "palavras_chave": ["concisão", "brevidade", "objetividade", "texto curto", "redação"]
+  },
+  {
+    "pergunta": "O que é um texto persuasivo?",
+    "resposta": "O texto persuasivo busca convencer o leitor a adotar uma ideia ou atitude. Ele é usado em campanhas publicitárias, discursos políticos e textos de opinião. Para isso, recorre a argumentos racionais e emocionais. Sabia que slogans como 'Yes We Can', de Barack Obama em dois mil e oito, são exemplos marcantes de persuasão textual?",
+    "palavras_chave": ["texto persuasivo", "convencer", "emoção", "argumentos", "publicidade"]
+  },
+  {
+    "pergunta": "O que é um parágrafo de transição?",
+    "resposta": "O parágrafo de transição serve para conectar diferentes partes de um texto, garantindo fluidez e coesão. Geralmente usa conectivos ou retomadas de ideias anteriores. Sabia que escritores clássicos, como José de Alencar, eram mestres em criar transições suaves entre capítulos longos?",
+    "palavras_chave": ["parágrafo de transição", "coesão", "fluidez", "ligação", "texto"]
+  },
+  {
+    "pergunta": "Como estruturar uma redação dissertativa?",
+    "resposta": "A redação dissertativa deve seguir uma estrutura lógica: introdução, desenvolvimento e conclusão. No ENEM, recomenda-se organizar em cinco parágrafos, incluindo a proposta de intervenção na conclusão. Sabia que muitos guias de preparação para vestibulares no Brasil reforçam essa estrutura como fórmula de sucesso?",
+    "palavras_chave": ["redação dissertativa", "estrutura", "introdução", "desenvolvimento", "conclusão"]
+  },
+  {
+    "pergunta": "O que é um texto jornalístico?",
+    "resposta": "O texto jornalístico busca informar de forma objetiva e clara, seguindo critérios como atualidade e relevância. Um recurso comum é a pirâmide invertida, que apresenta primeiro as informações mais importantes. Sabia que esse modelo surgiu no século dezenove, com a popularização do telégrafo, para garantir que o essencial fosse transmitido rapidamente?",
+    "palavras_chave": ["texto jornalístico", "informação", "objetividade", "pirâmide invertida", "notícia"]
+  },
+  {
+    "pergunta": "O que é um texto publicitário?",
+    "resposta": "O texto publicitário tem a função de promover produtos, serviços ou ideias, usando linguagem criativa e persuasiva. Pode aparecer em outdoors, comerciais e mídias digitais. Sabia que o slogan 'Just Do It', criado pela Nike em mil novecentos e oitenta e oito, se tornou um dos textos publicitários mais reconhecidos do mundo?",
+    "palavras_chave": ["texto publicitário", "propaganda", "slogan", "marketing", "persuasão"]
+  },
+  {
+    "pergunta": "Como usar citações em um texto?",
+    "resposta": "As citações reforçam argumentos ao trazer a voz de especialistas ou autores reconhecidos. Devem ser usadas com moderação e de forma pertinente ao tema. No ENEM, podem valorizar a competência de repertório sociocultural. Sabia que a frase 'Penso, logo existo', de René Descartes, é uma das citações filosóficas mais repetidas em textos argumentativos?",
+    "palavras_chave": ["citações", "argumentos", "repertório", "Descartes", "redação"]
+  },
+  {
+    "pergunta": "O que é um texto narrativo-descritivo?",
+    "resposta": "O texto narrativo-descritivo combina elementos de narração e descrição, apresentando histórias detalhadas e cheias de imagens sensoriais. É muito usado em crônicas, romances e reportagens literárias. Sabia que o escritor João do Rio, no início do século vinte, era mestre em unir narrativa e descrição ao retratar a vida nas ruas do Rio de Janeiro?",
+    "palavras_chave": ["narrativo-descritivo", "história", "detalhes", "crônica", "romance"]
+  },
+  {
+    "pergunta": "O que é um texto opinativo?",
+    "resposta": "O texto opinativo tem como função expressar o ponto de vista do autor sobre determinado assunto. É comum em blogs, colunas e editoriais. Deve apresentar argumentos para sustentar a opinião, mas não precisa ser totalmente imparcial. Sabia que jornais do século vinte popularizaram as colunas opinativas como espaço para intelectuais influenciarem debates sociais?",
+    "palavras_chave": ["texto opinativo", "opinião", "coluna", "editorial", "argumento"]
+  },
+  {
+    "pergunta": "Como evitar ambiguidades em um texto?",
+    "resposta": "Para evitar ambiguidades, o autor deve usar frases claras, evitar construções duplas e preferir vocabulário preciso. Ambiguidades podem confundir o leitor e comprometer a mensagem. Sabia que manchetes de jornais sensacionalistas muitas vezes exploram ambiguidades de propósito para atrair mais atenção?",
+    "palavras_chave": ["ambiguidade", "clareza", "precisão", "manchetes", "interpretação"]
+  },
+  {
+    "pergunta": "O que é um texto científico?",
+    "resposta": "O texto científico apresenta pesquisas, resultados e análises de forma objetiva, clara e fundamentada. Geralmente segue normas como a ABNT e aparece em artigos, dissertações e teses. Seu foco é transmitir conhecimento de maneira verificável. Sabia que Galileu Galilei, no século dezessete, revolucionou a ciência ao escrever relatórios detalhados que hoje lembram os artigos científicos modernos?",
+    "palavras_chave": ["texto científico", "pesquisa", "objetividade", "artigos", "ABNT"]
+  },
+  {
+    "pergunta": "O que é um texto acadêmico?",
+    "resposta": "O texto acadêmico é produzido no ambiente universitário, geralmente por estudantes, professores ou pesquisadores, e busca discutir temas científicos ou teóricos com rigor. Está presente em monografias, resenhas, ensaios e relatórios. Sabia que o modelo atual de trabalhos acadêmicos, com introdução, metodologia, resultados e conclusão, foi consolidado no século dezenove pelas universidades europeias?",
+    "palavras_chave": ["texto acadêmico", "universidade", "pesquisa", "monografia", "rigor científico"]
+  },
+  {
+    "pergunta": "O que é um texto técnico?",
+    "resposta": "O texto técnico fornece instruções e informações práticas relacionadas a áreas específicas, como engenharia, medicina ou informática. Seu vocabulário é especializado e deve ser claro para profissionais da área. Sabia que os primeiros manuais técnicos conhecidos vieram da Roma Antiga, como tratados sobre arquitetura escritos por Vitrúvio?",
+    "palavras_chave": ["texto técnico", "instruções", "especializado", "profissionais", "manuais"]
+  },
+  {
+    "pergunta": "O que é um texto didático?",
+    "resposta": "O texto didático tem como objetivo ensinar, geralmente usado em livros escolares, apostilas e materiais educativos. Ele precisa ser claro, acessível e estruturado para facilitar o aprendizado. Sabia que os primeiros textos didáticos em língua portuguesa foram catecismos usados para ensinar indígenas no período colonial?",
+    "palavras_chave": ["texto didático", "ensinar", "educação", "livros escolares", "aprendizado"]
+  },
+  {
+    "pergunta": "O que é uma resenha crítica?",
+    "resposta": "A resenha crítica é um texto que resume e analisa uma obra, como um livro ou filme, expressando opinião fundamentada sobre ela. Seu objetivo é informar e orientar o leitor. Sabia que jornais do século vinte popularizaram a resenha como gênero, aproximando o público das novidades culturais?",
+    "palavras_chave": ["resenha crítica", "resumo", "análise", "opinião", "cultura"]
+  },
+  {
+    "pergunta": "O que é uma resenha descritiva?",
+    "resposta": "A resenha descritiva apresenta apenas o conteúdo de uma obra, sem emitir juízos de valor. É comum em ambientes acadêmicos e bibliotecas, servindo como guia informativo. Sabia que, durante o Iluminismo, catálogos de bibliotecas já traziam resenhas descritivas para ajudar leitores a escolher livros?",
+    "palavras_chave": ["resenha descritiva", "resumo", "informativo", "obra", "guia"]
+  },
+  {
+    "pergunta": "O que é uma crônica?",
+    "resposta": "A crônica é um texto curto, geralmente publicado em jornais, que retrata acontecimentos do cotidiano com leveza e reflexão. Pode ser humorística, crítica ou poética. Sabia que Carlos Drummond de Andrade, no século vinte, foi um dos grandes cronistas brasileiros, transformando fatos simples em literatura?",
+    "palavras_chave": ["crônica", "cotidiano", "literatura", "jornais", "Drummond"]
+  },
+  {
+    "pergunta": "O que é uma fábula?",
+    "resposta": "A fábula é uma narrativa curta que transmite uma lição moral, quase sempre com animais que agem como humanos. É um gênero tradicional usado para ensinar valores. Sabia que as fábulas de Esopo, escritas na Grécia Antiga, continuam sendo lidas até hoje em várias línguas?",
+    "palavras_chave": ["fábula", "moral", "animais", "valores", "tradição"]
+  },
+  {
+    "pergunta": "O que é uma parábola?",
+    "resposta": "A parábola é uma narrativa alegórica que transmite ensinamentos, geralmente com fundo religioso ou moral. Muitas parábolas são encontradas em textos bíblicos, usadas por Jesus Cristo para ensinar multidões. Sabia que a parábola do 'Filho Pródigo' é uma das mais conhecidas do mundo ocidental?",
+    "palavras_chave": ["parábola", "ensinamento", "religião", "alegoria", "moral"]
+  },
+  {
+    "pergunta": "O que é um mito?",
+    "resposta": "O mito é uma narrativa tradicional que explica a origem de fenômenos naturais, costumes ou valores de um povo, geralmente envolvendo deuses e heróis. Sabia que o mito de Prometeu, que roubou o fogo dos deuses para entregar aos humanos, é até hoje símbolo de conhecimento e rebeldia?",
+    "palavras_chave": ["mito", "tradição", "origem", "deuses", "heróis"]
+  },
+  {
+    "pergunta": "O que é uma lenda?",
+    "resposta": "A lenda é uma narrativa popular que mistura realidade e fantasia, transmitida oralmente por gerações. Muitas vezes serve para explicar tradições ou assustar ouvintes. Sabia que a lenda do Curupira, protetor das florestas no folclore brasileiro, é contada desde o período colonial?",
+    "palavras_chave": ["lenda", "tradição oral", "fantasia", "folclore", "Brasil"]
+  },
+  {
+    "pergunta": "O que é uma epopeia?",
+    "resposta": "A epopeia é um poema longo que narra feitos heroicos e grandiosos de um povo ou personagem. Tem origem na tradição oral e marcou a literatura universal. Sabia que 'Os Lusíadas', de Luís de Camões, publicado em mil quinhentos e setenta e dois, é a epopeia mais importante da língua portuguesa?",
+    "palavras_chave": ["epopeia", "poema longo", "heróis", "literatura", "Camões"]
+  },
+  {
+    "pergunta": "O que é uma dissertação escolar?",
+    "resposta": "A dissertação escolar é um texto dissertativo produzido em ambiente educacional, geralmente para treinar argumentação e escrita formal. Segue a estrutura de introdução, desenvolvimento e conclusão. Sabia que esse gênero é um dos mais cobrados em vestibulares brasileiros desde a década de mil novecentos e setenta?",
+    "palavras_chave": ["dissertação escolar", "argumentação", "escola", "vestibular", "redação"]
+  },
+  {
+    "pergunta": "O que é um editorial?",
+    "resposta": "O editorial é um texto jornalístico que expressa a opinião oficial de um veículo de comunicação sobre determinado tema. Geralmente não é assinado, pois reflete a visão institucional. Sabia que o jornal 'The Times', de Londres, consolidou o editorial moderno no século dezenove?",
+    "palavras_chave": ["editorial", "opinião", "jornal", "institucional", "The Times"]
+  },
+  {
+    "pergunta": "O que é um artigo de opinião?",
+    "resposta": "O artigo de opinião é um texto que defende um ponto de vista pessoal sobre um tema, publicado em jornais, revistas ou blogs. Ele precisa apresentar argumentos claros e convincentes. Sabia que colunistas como Nelson Rodrigues marcaram a imprensa brasileira com artigos opinativos polêmicos?",
+    "palavras_chave": ["artigo de opinião", "opinião", "argumentos", "jornais", "blogs"]
+  },
+  {
+    "pergunta": "O que é uma reportagem?",
+    "resposta": "A reportagem é um gênero jornalístico que aprofunda informações sobre um fato, trazendo entrevistas, dados e análises. É mais detalhada do que a notícia. Sabia que, no Brasil, o jornalista Euclides da Cunha ficou famoso por sua reportagem transformada em livro, 'Os Sertões', em mil novecentos e dois?",
+    "palavras_chave": ["reportagem", "jornalismo", "informação", "entrevistas", "Euclides da Cunha"]
+  },
+  {
+    "pergunta": "O que é uma notícia?",
+    "resposta": "A notícia relata acontecimentos atuais de forma objetiva e direta, respondendo às perguntas básicas: o quê, quem, quando, onde, como e por quê. Sabia que esse modelo, conhecido como 'lead', surgiu no jornalismo norte-americano no século dezenove?",
+    "palavras_chave": ["notícia", "atualidade", "objetividade", "lead", "jornalismo"]
+  },
+  {
+    "pergunta": "O que é uma carta argumentativa?",
+    "resposta": "A carta argumentativa é um gênero textual que defende ideias em formato epistolar, dirigida a uma autoridade ou instituição. Foi bastante usada em vestibulares e ainda aparece em exercícios escolares. Sabia que a carta de Pero Vaz de Caminha, escrita em mil e quinhentos, é considerada um dos primeiros textos argumentativos do Brasil?",
+    "palavras_chave": ["carta argumentativa", "argumentação", "carta", "opinião", "autoridade"]
+  },
+  {
+    "pergunta": "O que é uma carta pessoal?",
+    "resposta": "A carta pessoal é um texto usado para comunicação íntima entre pessoas, com linguagem subjetiva e estilo livre. Embora menos comum hoje, foi muito importante em séculos passados. Sabia que as cartas de amor de Dom Pedro I para a marquesa de Santos são documentos históricos que revelam o lado humano do imperador?",
+    "palavras_chave": ["carta pessoal", "comunicação", "intimidade", "amor", "história"]
+  },
+  {
+    "pergunta": "O que é uma carta aberta?",
+    "resposta": "A carta aberta é dirigida a autoridades ou instituições, mas publicada em jornais ou redes sociais para que todos possam ler. É uma forma de protesto ou manifesto. Sabia que em mil novecentos e setenta e sete intelectuais brasileiros publicaram a 'Carta aos Brasileiros', um marco na luta pela democracia?",
+    "palavras_chave": ["carta aberta", "manifesto", "protesto", "democracia", "opinião pública"]
+  },
+  {
+    "pergunta": "O que é uma biografia?",
+    "resposta": "A biografia é um texto que narra a vida de uma pessoa real, destacando seus feitos, desafios e relevância histórica. Pode ser literária ou documental. Sabia que 'A Vida de Samuel Johnson', escrita por James Boswell no século dezoito, é considerada uma das biografias mais influentes da literatura ocidental?",
+    "palavras_chave": ["biografia", "vida", "história", "literatura", "documental"]
+  },
+  {
+    "pergunta": "O que é uma autobiografia?",
+    "resposta": "A autobiografia é um texto em que o autor narra sua própria vida, refletindo sobre experiências pessoais. É comum em memórias de escritores, políticos e artistas. Sabia que 'Confissões', escrita por Santo Agostinho no século quarto, é considerada a primeira autobiografia da tradição ocidental?",
+    "palavras_chave": ["autobiografia", "memórias", "vida pessoal", "Santo Agostinho", "literatura"]
+  },
+  {
+    "pergunta": "O que é uma reportagem literária?",
+    "resposta": "A reportagem literária mistura jornalismo e literatura, aprofundando fatos reais com linguagem artística e envolvente. Sabia que Gabriel García Márquez, prêmio Nobel de Literatura, produziu reportagens literárias que uniam rigor jornalístico e estilo narrativo?",
+    "palavras_chave": ["reportagem literária", "jornalismo", "literatura", "fatos reais", "García Márquez"]
+  },
+  {
+    "pergunta": "O que é uma entrevista?",
+    "resposta": "A entrevista é um gênero textual em que perguntas e respostas são registradas para informar o público sobre determinado tema ou pessoa. Pode ser jornalística, acadêmica ou de pesquisa. Sabia que as entrevistas começaram a se popularizar em jornais norte-americanos no século dezenove, aproximando leitores de figuras públicas?",
+    "palavras_chave": ["entrevista", "perguntas", "respostas", "jornalismo", "informação"]
+  },
+  {
+    "pergunta": "O que é uma carta do leitor?",
+    "resposta": "A carta do leitor é enviada por leitores de jornais ou revistas para comentar matérias, concordar, criticar ou sugerir. É um espaço de participação cidadã. Sabia que muitas vezes cartas de leitores influenciaram mudanças editoriais em grandes jornais?",
+    "palavras_chave": ["carta do leitor", "participação", "crítica", "opinião", "jornal"]
+  },
+  {
+    "pergunta": "O que é uma crítica literária?",
+    "resposta": "A crítica literária analisa e interpreta obras de literatura, avaliando estilo, estrutura e impacto cultural. Pode ser publicada em jornais, revistas acadêmicas ou livros. Sabia que Mário de Andrade foi um dos grandes críticos literários do Brasil no início do século vinte?",
+    "palavras_chave": ["crítica literária", "análise", "literatura", "interpretação", "cultura"]
+  },
+  {
+    "pergunta": "O que é uma crítica de cinema?",
+    "resposta": "A crítica de cinema é um texto que analisa filmes, destacando aspectos técnicos como fotografia, roteiro, direção e atuação. Além de orientar o público, também discute o impacto cultural das obras. Sabia que a revista francesa 'Cahiers du Cinéma', fundada em mil novecentos e cinquenta e um, revolucionou a crítica de cinema ao lançar diretores que depois se tornaram cineastas consagrados?",
+    "palavras_chave": ["crítica de cinema", "análise", "filmes", "cultura", "Cahiers du Cinéma"]
+  },
+  {
+    "pergunta": "O que é uma crítica teatral?",
+    "resposta": "A crítica teatral é um gênero textual que comenta espetáculos de teatro, avaliando enredo, cenários, figurinos e atuações. Costuma ser publicada em jornais e revistas culturais. Sabia que o crítico Décio de Almeida Prado foi fundamental para a valorização do teatro moderno no Brasil durante o século vinte?",
+    "palavras_chave": ["crítica teatral", "teatro", "espetáculo", "análise", "Décio de Almeida Prado"]
+  },
+  {
+    "pergunta": "O que é um ensaio literário?",
+    "resposta": "O ensaio literário é um texto reflexivo e argumentativo que explora ideias sobre literatura, filosofia ou arte, geralmente em tom mais pessoal e interpretativo. Sabia que Michel de Montaigne, no século dezesseis, é considerado o criador do ensaio moderno, influenciando escritores até hoje?",
+    "palavras_chave": ["ensaio literário", "reflexão", "argumentação", "literatura", "Montaigne"]
+  },
+  {
+    "pergunta": "O que é um ensaio acadêmico?",
+    "resposta": "O ensaio acadêmico é uma produção escrita voltada para análise crítica de determinado tema, baseada em referências bibliográficas e fundamentação teórica. Sabia que universidades anglo-saxônicas consolidaram o formato de ensaio acadêmico no século dezenove como forma de treinar raciocínio crítico?",
+    "palavras_chave": ["ensaio acadêmico", "universidade", "fundamentação", "referências", "crítica"]
+  },
+  {
+    "pergunta": "O que é um manifesto?",
+    "resposta": "O manifesto é um texto público que declara princípios, intenções ou reivindicações de um grupo. É usado em movimentos políticos, sociais e artísticos. Sabia que o 'Manifesto Antropofágico', escrito por Oswald de Andrade em mil novecentos e vinte e oito, marcou a história da literatura brasileira?",
+    "palavras_chave": ["manifesto", "declaração", "movimento", "política", "literatura brasileira"]
+  },
+  {
+    "pergunta": "O que é um panfleto?",
+    "resposta": "O panfleto é um texto curto, geralmente impresso, usado para divulgar ideias, produtos ou eventos de forma rápida e acessível. É uma forma popular de comunicação. Sabia que, durante a Revolução Francesa, panfletos foram fundamentais para espalhar ideias revolucionárias?",
+    "palavras_chave": ["panfleto", "divulgação", "texto curto", "impressos", "Revolução Francesa"]
+  },
+  {
+    "pergunta": "O que é um cartaz?",
+    "resposta": "O cartaz é um texto visual e escrito destinado a chamar a atenção para eventos, campanhas ou produtos. Combina imagens, cores e palavras em destaque. Sabia que cartazes de guerra no início do século vinte foram decisivos para mobilizar populações inteiras?",
+    "palavras_chave": ["cartaz", "visual", "divulgação", "evento", "propaganda"]
+  },
+  {
+    "pergunta": "O que é uma propaganda?",
+    "resposta": "A propaganda é um texto persuasivo que busca convencer o público a adotar uma ideia ou consumir um produto. Utiliza recursos de linguagem verbal e não verbal. Sabia que no Brasil da década de mil novecentos e quarenta as propagandas de rádio tiveram papel central na popularização de marcas?",
+    "palavras_chave": ["propaganda", "persuasão", "consumo", "publicidade", "rádio"]
+  },
+  {
+    "pergunta": "O que é uma publicidade institucional?",
+    "resposta": "A publicidade institucional promove a imagem de uma empresa ou instituição, sem vender diretamente um produto. Seu objetivo é reforçar credibilidade e valores. Sabia que campanhas institucionais da ONU, desde o pós-guerra, marcaram a história da comunicação global?",
+    "palavras_chave": ["publicidade institucional", "empresa", "imagem", "credibilidade", "ONU"]
+  },
+  {
+    "pergunta": "O que é um slogan?",
+    "resposta": "O slogan é uma frase curta e marcante usada em campanhas publicitárias para fixar uma ideia na mente do público. Sabia que o slogan 'Just do it', da Nike, lançado em mil novecentos e oitenta e oito, é um dos mais reconhecidos mundialmente?",
+    "palavras_chave": ["slogan", "frase curta", "publicidade", "campanha", "Nike"]
+  },
+  {
+    "pergunta": "O que é um texto humorístico?",
+    "resposta": "O texto humorístico busca provocar riso e diversão, podendo aparecer em piadas, crônicas, tirinhas e paródias. Muitas vezes também faz críticas sociais. Sabia que o jornal satírico francês 'Le Canard Enchaîné' é famoso por unir humor e jornalismo desde mil novecentos e quinze?",
+    "palavras_chave": ["texto humorístico", "humor", "piadas", "crítica social", "sátira"]
+  },
+  {
+    "pergunta": "O que é uma paródia?",
+    "resposta": "A paródia é um texto que imita outro de forma cômica ou crítica, alterando seu sentido original. É muito usada em música, literatura e programas de TV. Sabia que o escritor brasileiro Manuel Bandeira usou paródias para criticar estilos literários de sua época?",
+    "palavras_chave": ["paródia", "imitação", "humor", "crítica", "literatura"]
+  },
+  {
+    "pergunta": "O que é uma paráfrase?",
+    "resposta": "A paráfrase é a reescrita de um texto com outras palavras, preservando o sentido original. É comum em estudos e atividades escolares. Sabia que a paráfrase foi valorizada na Antiguidade como método de aprendizado de retórica?",
+    "palavras_chave": ["paráfrase", "reescrita", "sentido", "texto original", "retórica"]
+  },
+  {
+    "pergunta": "O que é uma sátira?",
+    "resposta": "A sátira é um texto que critica costumes, comportamentos ou instituições por meio do humor e da ironia. Foi muito utilizada em literatura e teatro. Sabia que o poeta romano Juvenal, no século dois, deu origem ao termo 'sátira' com suas obras mordazes?",
+    "palavras_chave": ["sátira", "crítica", "humor", "ironia", "literatura"]
+  },
+  {
+    "pergunta": "O que é uma caricatura?",
+    "resposta": "A caricatura é um desenho ou texto humorístico que exagera características físicas ou comportamentais de pessoas para gerar comicidade ou crítica. Sabia que, no Brasil, o cartunista Henfil usou caricaturas como forma de resistência política durante a ditadura?",
+    "palavras_chave": ["caricatura", "humor", "crítica", "desenho", "Henfil"]
+  },
+  {
+    "pergunta": "O que é um cordel?",
+    "resposta": "O cordel é um texto popular em versos, vendido em folhetos, muito comum no Nordeste brasileiro. Mistura poesia, narrativa e tradição oral. Sabia que o nome 'cordel' vem do costume português de pendurar os folhetos em cordas para venda em feiras?",
+    "palavras_chave": ["cordel", "poesia popular", "Nordeste", "versos", "tradição oral"]
+  },
+  {
+    "pergunta": "O que é um texto multimodal?",
+    "resposta": "O texto multimodal combina diferentes linguagens, como escrita, imagem, som e vídeo, para transmitir uma mensagem. É comum em ambientes digitais. Sabia que os memes da internet são exemplos contemporâneos de textos multimodais?",
+    "palavras_chave": ["texto multimodal", "linguagens", "digital", "imagens", "memes"]
+  },
+  {
+    "pergunta": "O que é um hipertexto?",
+    "resposta": "O hipertexto é um texto digital interativo que contém links, permitindo ao leitor navegar por diferentes conteúdos. É a base da web moderna. Sabia que o termo foi popularizado por Ted Nelson nos anos sessenta, antes mesmo da internet existir?",
+    "palavras_chave": ["hipertexto", "digital", "links", "web", "interatividade"]
+  },
+  {
+    "pergunta": "O que é um texto injuntivo?",
+    "resposta": "O texto injuntivo tem a função de orientar ou instruir o leitor a realizar uma ação, como receitas, manuais e bulas. Sabia que os primeiros textos injuntivos registrados foram tabelas de instruções na Mesopotâmia Antiga?",
+    "palavras_chave": ["texto injuntivo", "instruções", "ação", "receita", "manuais"]
+  },
+  {
+    "pergunta": "O que é um texto instrucional?",
+    "resposta": "O texto instrucional explica passo a passo como executar uma tarefa, semelhante ao injuntivo, mas mais detalhado. Aparece em guias técnicos e tutoriais digitais. Sabia que tutoriais no YouTube se tornaram uma das formas mais populares de texto instrucional contemporâneo?",
+    "palavras_chave": ["texto instrucional", "passo a passo", "tutorial", "guia técnico", "YouTube"]
+  },
+  {
+    "pergunta": "O que é um texto expositivo?",
+    "resposta": "O texto expositivo apresenta informações e conceitos de forma objetiva, sem a intenção de convencer, mas apenas de esclarecer. É comum em livros didáticos e artigos científicos. Sabia que esse gênero já era usado na Grécia Antiga em manuais filosóficos e educativos?",
+    "palavras_chave": ["texto expositivo", "informação", "objetividade", "esclarecer", "didático"]
+  },
+  {
+    "pergunta": "O que é um texto instrucional digital?",
+    "resposta": "O texto instrucional digital aparece em blogs, vídeos e tutoriais online, com foco em ensinar rapidamente uma tarefa. Sabia que fóruns como o Stack Overflow se tornaram referências globais em textos instrucionais digitais na área de programação?",
+    "palavras_chave": ["texto instrucional digital", "ensinar", "tutorial", "internet", "Stack Overflow"]
+  },
+  {
+    "pergunta": "O que é um texto interativo?",
+    "resposta": "O texto interativo permite que o leitor participe da construção da narrativa, escolhendo caminhos ou respostas. É usado em jogos, plataformas digitais e literatura interativa. Sabia que os 'livros-jogo' da década de mil novecentos e oitenta foram pioneiros nesse formato?",
+    "palavras_chave": ["texto interativo", "participação", "jogos", "narrativa", "literatura interativa"]
+  },
+  {
+    "pergunta": "O que é uma bula de remédio?",
+    "resposta": "A bula de remédio é um texto técnico e injuntivo que traz informações sobre uso, dosagem, efeitos colaterais e precauções de medicamentos. Sabia que, no Brasil, a exigência de bulas foi regulamentada pela Anvisa no final do século vinte para garantir segurança ao consumidor?",
+    "palavras_chave": ["bula de remédio", "medicamento", "instruções", "Anvisa", "saúde"]
+  },
+  {
+    "pergunta": "O que é uma receita culinária?",
+    "resposta": "A receita culinária é um texto injuntivo que ensina o preparo de pratos, listando ingredientes e modo de preparo em sequência. Sabia que os primeiros livros de receitas datam da Roma Antiga, como o 'De Re Coquinaria' atribuído a Apício?",
+    "palavras_chave": ["receita culinária", "ingredientes", "preparo", "culinária", "Apício"]
+  },
+  {
+    "pergunta": "O que é um manual?",
+    "resposta": "O manual é um texto instrucional detalhado que ensina como usar aparelhos, sistemas ou serviços. É comum em tecnologia, eletrônicos e softwares. Sabia que a IBM foi uma das primeiras empresas a distribuir manuais técnicos padronizados na década de mil novecentos e cinquenta?",
+    "palavras_chave": ["manual", "instruções", "tecnologia", "aparelhos", "usuário"]
+  },
+  {
+    "pergunta": "O que é uma ata?",
+    "resposta": "A ata é um registro formal escrito que relata de maneira objetiva os acontecimentos de uma reunião, assembleia ou encontro. Deve ser clara, cronológica e fiel aos fatos. Sabia que atas de assembleias medievais são fontes preciosas para os historiadores estudarem a política da época?",
+    "palavras_chave": ["ata", "registro", "reunião", "assembleia", "história"]
+  },
+  {
+    "pergunta": "O que é um memorando?",
+    "resposta": "O memorando é um texto administrativo usado em ambientes profissionais para comunicação rápida entre setores de uma instituição. Tem linguagem objetiva e direta. Sabia que os memorandos foram fundamentais na burocracia governamental dos Estados Unidos no século vinte?",
+    "palavras_chave": ["memorando", "administrativo", "comunicação", "instituição", "profissional"]
+  },
+  {
+    "pergunta": "O que é um ofício?",
+    "resposta": "O ofício é um texto administrativo usado por órgãos públicos para comunicação formal entre instituições. Possui formato padronizado e linguagem clara. Sabia que ofícios já eram usados no Brasil imperial para correspondência entre ministérios e províncias?",
+    "palavras_chave": ["ofício", "texto administrativo", "comunicação formal", "órgão público", "Brasil imperial"]
+  },
+  {
+    "pergunta": "O que é um relatório?",
+    "resposta": "O relatório é um texto técnico ou acadêmico que expõe resultados, análises e conclusões sobre determinada atividade ou pesquisa. É muito usado em empresas, escolas e órgãos públicos. Sabia que relatórios científicos já eram comuns no século dezenove, quando cientistas documentavam suas descobertas em sociedades acadêmicas?",
+    "palavras_chave": ["relatório", "texto técnico", "pesquisa", "análise", "documentação"]
+  },
+  {
+    "pergunta": "O que é uma resenha?",
+    "resposta": "A resenha é um texto que resume e avalia criticamente uma obra, como livros, filmes, artigos ou peças teatrais. Ela pode ser descritiva ou crítica. Sabia que resenhas literárias publicadas em jornais foram fundamentais para a popularização de escritores no século vinte?",
+    "palavras_chave": ["resenha", "resumo", "avaliação crítica", "literatura", "análise"]
+  },
+  {
+    "pergunta": "O que é uma resenha crítica?",
+    "resposta": "A resenha crítica vai além do resumo, trazendo a análise e a opinião fundamentada sobre a obra. É muito usada em universidades e revistas culturais. Sabia que Antonio Candido foi um dos maiores resenhistas críticos da literatura brasileira no século vinte?",
+    "palavras_chave": ["resenha crítica", "análise", "opinião", "Antonio Candido", "literatura brasileira"]
+  },
+  {
+    "pergunta": "O que é uma reportagem?",
+    "resposta": "A reportagem é um gênero jornalístico que investiga e relata fatos de interesse público, com profundidade maior que a notícia. Pode incluir entrevistas, dados e contexto histórico. Sabia que o jornal 'The New York Times' é referência mundial em reportagens investigativas desde o início do século vinte?",
+    "palavras_chave": ["reportagem", "jornalismo", "investigação", "entrevistas", "contexto histórico"]
+  },
+  {
+    "pergunta": "O que é uma crônica jornalística?",
+    "resposta": "A crônica jornalística é um texto curto, reflexivo e muitas vezes literário, publicado em jornais e revistas, que comenta fatos do cotidiano. Sabia que Rubem Braga é conhecido como o 'pai da crônica moderna' no Brasil?",
+    "palavras_chave": ["crônica jornalística", "cotidiano", "jornal", "Rubem Braga", "literatura"]
+  },
+  {
+    "pergunta": "O que é um editorial?",
+    "resposta": "O editorial é um texto jornalístico que expressa a opinião oficial de um veículo de comunicação sobre determinado assunto. Não vem assinado. Sabia que o 'The Washington Post' ficou famoso por editoriais fortes durante o caso Watergate, nos anos setenta?",
+    "palavras_chave": ["editorial", "opinião", "jornal", "Watergate", "The Washington Post"]
+  },
+  {
+    "pergunta": "O que é uma carta argumentativa?",
+    "resposta": "A carta argumentativa é um gênero em que o autor defende um ponto de vista de forma persuasiva, endereçada a uma autoridade ou instituição. Sabia que esse tipo de carta foi muito usado em movimentos estudantis do século vinte?",
+    "palavras_chave": ["carta argumentativa", "opinião", "autoridade", "persuasão", "movimentos estudantis"]
+  },
+  {
+    "pergunta": "O que é um diário pessoal?",
+    "resposta": "O diário pessoal é um texto íntimo em que o autor registra vivências, pensamentos e sentimentos no dia a dia. Sabia que o 'Diário de Anne Frank', escrito durante a Segunda Guerra Mundial, é um dos mais famosos do mundo?",
+    "palavras_chave": ["diário pessoal", "registro íntimo", "Anne Frank", "Segunda Guerra Mundial", "vivências"]
+  },
+  {
+    "pergunta": "O que é uma autobiografia?",
+    "resposta": "A autobiografia é um texto em que o autor narra a própria vida, descrevendo sua trajetória, memórias e experiências. Sabia que 'Confissões', de Santo Agostinho, escrita no século quatro, é considerada uma das primeiras autobiografias da história?",
+    "palavras_chave": ["autobiografia", "vida pessoal", "memórias", "Confissões", "Santo Agostinho"]
+  },
+  {
+    "pergunta": "O que é uma biografia?",
+    "resposta": "A biografia é um texto que narra a vida de outra pessoa, geralmente destacando feitos, obras e contexto histórico. Sabia que a primeira biografia em língua portuguesa foi escrita no século dezesseis sobre o navegador Vasco da Gama?",
+    "palavras_chave": ["biografia", "vida", "trajetória", "história", "Vasco da Gama"]
+  },
+  {
+    "pergunta": "O que é uma autobiografia romanceada?",
+    "resposta": "A autobiografia romanceada mistura fatos reais da vida do autor com elementos ficcionais para criar uma narrativa mais envolvente. Sabia que Jorge Amado usou esse recurso em trechos de suas obras, mesclando memória e invenção?",
+    "palavras_chave": ["autobiografia romanceada", "memórias", "ficção", "Jorge Amado", "narrativa"]
+  },
+  {
+    "pergunta": "O que é uma carta pessoal?",
+    "resposta": "A carta pessoal é uma forma de comunicação escrita entre amigos ou familiares, geralmente de tom íntimo e informal. Sabia que as cartas de Machado de Assis revelam muito sobre sua personalidade e a vida no Rio de Janeiro do século dezenove?",
+    "palavras_chave": ["carta pessoal", "comunicação", "amizade", "Machado de Assis", "século XIX"]
+  },
+  {
+    "pergunta": "O que é uma carta aberta?",
+    "resposta": "A carta aberta é um texto dirigido a autoridades ou ao público em geral, publicado em meios de comunicação, geralmente para manifestar opiniões ou reivindicações. Sabia que intelectuais brasileiros usaram cartas abertas durante a ditadura militar para denunciar censura?",
+    "palavras_chave": ["carta aberta", "manifesto", "opinião", "ditadura militar", "censura"]
+  },
+  {
+    "pergunta": "O que é um discurso político?",
+    "resposta": "O discurso político é um texto oral ou escrito que busca convencer o público sobre ideias, propostas ou ideologias. Sabia que o 'I Have a Dream', de Martin Luther King Jr., em mil novecentos e sessenta e três, é um dos discursos mais marcantes da história?",
+    "palavras_chave": ["discurso político", "persuasão", "Martin Luther King Jr.", "I Have a Dream", "história"]
+  },
+  {
+    "pergunta": "O que é um sermão?",
+    "resposta": "O sermão é um texto religioso proferido em cerimônias para ensinar ou convencer sobre princípios espirituais. Sabia que Padre Antônio Vieira, no século dezessete, escreveu sermões que são considerados obras-primas da literatura barroca?",
+    "palavras_chave": ["sermão", "religião", "Padre Vieira", "literatura barroca", "século XVII"]
+  },
+  {
+    "pergunta": "O que é um texto jurídico?",
+    "resposta": "O texto jurídico é produzido no contexto do direito, como leis, petições e sentenças, com linguagem formal e técnica. Sabia que o Código de Hamurábi, escrito na Mesopotâmia por volta de mil e setecentos antes de Cristo, é um dos primeiros registros jurídicos do mundo?",
+    "palavras_chave": ["texto jurídico", "leis", "direito", "Código de Hamurábi", "Mesopotâmia"]
+  },
+  {
+    "pergunta": "O que é uma petição inicial?",
+    "resposta": "A petição inicial é um documento jurídico que dá início a um processo, apresentando os fatos, fundamentos legais e pedidos ao juiz. Sabia que no Brasil esse modelo é regulamentado pelo Código de Processo Civil desde mil novecentos e setenta e três?",
+    "palavras_chave": ["petição inicial", "processo", "documento jurídico", "Código de Processo Civil", "Brasil"]
+  },
+  {
+    "pergunta": "O que é um contrato?",
+    "resposta": "O contrato é um texto jurídico que formaliza um acordo entre partes, estabelecendo direitos e deveres de cada uma. Sabia que contratos comerciais já eram usados pelos fenícios no primeiro milênio antes de Cristo?",
+    "palavras_chave": ["contrato", "acordo", "jurídico", "fenícios", "direitos e deveres"]
+  },
+  {
+    "pergunta": "O que é um testamento?",
+    "resposta": "O testamento é um documento jurídico no qual uma pessoa declara sua vontade sobre a distribuição de bens após sua morte. Sabia que testamentos já existiam no Egito Antigo e eram gravados em papiros para garantir a herança dos descendentes?",
+    "palavras_chave": ["testamento", "documento jurídico", "herança", "Egito Antigo", "patrimônio"]
+  },
+  {
+    "pergunta": "O que é um texto científico?",
+    "resposta": "O texto científico apresenta pesquisas, resultados e análises de forma objetiva, seguindo normas técnicas como a ABNT. Sabia que Galileu Galilei publicou em mil seiscentos e trinta e dois o 'Diálogo sobre os dois principais sistemas do mundo', considerado um marco da ciência moderna?",
+    "palavras_chave": ["texto científico", "pesquisa", "Galileu Galilei", "ciência moderna", "ABNT"]
+  },
+  {
+    "pergunta": "O que é um artigo científico?",
+    "resposta": "O artigo científico é uma produção acadêmica que apresenta resultados de uma pesquisa, geralmente publicada em periódicos especializados. Sabia que a Royal Society of London publica artigos científicos desde mil seiscentos e sessenta e cinco, sendo uma das primeiras revistas científicas do mundo?",
+    "palavras_chave": ["artigo científico", "pesquisa", "periódico", "Royal Society", "ciência"]
+  },
+  {
+    "pergunta": "O que é um resumo acadêmico?",
+    "resposta": "O resumo acadêmico é um texto breve que apresenta de forma concisa os objetivos, metodologia e resultados de uma pesquisa. Sabia que resumos se tornaram obrigatórios em trabalhos acadêmicos no Brasil a partir da década de mil novecentos e oitenta?",
+    "palavras_chave": ["resumo acadêmico", "pesquisa", "trabalho acadêmico", "objetivos", "resultados"]
+  },
+  {
+    "pergunta": "O que é uma monografia?",
+    "resposta": "A monografia é um trabalho acadêmico aprofundado sobre um tema específico, geralmente exigido em cursos de graduação. Sabia que o termo vem do grego 'monos' (único) e 'graphein' (escrever), ou seja, escrita sobre um único tema?",
+    "palavras_chave": ["monografia", "trabalho acadêmico", "graduação", "tema específico", "origem grega"]
+  },
+  {
+    "pergunta": "O que é uma dissertação acadêmica?",
+    "resposta": "A dissertação acadêmica é um texto exigido em cursos de mestrado, que apresenta uma análise aprofundada de um problema de pesquisa. Sabia que no Brasil a primeira dissertação de mestrado registrada foi defendida na década de mil novecentos e setenta?",
+    "palavras_chave": ["dissertação acadêmica", "mestrado", "pesquisa", "análise", "Brasil"]
+  },
+  {
+    "pergunta": "O que é uma tese acadêmica?",
+    "resposta": "A tese acadêmica é o trabalho final de doutorado, apresentando pesquisa original que contribui para o avanço do conhecimento em determinada área. Sabia que a Universidade de Paris, no século treze, já exigia teses como parte da formação de doutores?",
+    "palavras_chave": ["tese acadêmica", "doutorado", "pesquisa original", "Universidade de Paris", "século XIII"]
+  },
+  {
+    "pergunta": "O que é um paper?",
+    "resposta": "O paper é um artigo acadêmico, geralmente em inglês, apresentado em congressos e simpósios científicos. Sabia que o termo 'paper' se popularizou no século vinte com a internacionalização da ciência?",
+    "palavras_chave": ["paper", "artigo acadêmico", "congresso", "ciência", "internacionalização"]
+  },
+  {
+    "pergunta": "O que é um projeto de pesquisa?",
+    "resposta": "O projeto de pesquisa é o planejamento escrito de um estudo científico, incluindo objetivos, metodologia, cronograma e bibliografia. Sabia que agências de fomento como a Capes e o CNPq no Brasil só financiam pesquisas mediante projetos detalhados?",
+    "palavras_chave": ["projeto de pesquisa", "planejamento", "objetivos", "Capes", "CNPq"]
+  },
+  {
+    "pergunta": "O que é um relatório técnico?",
+    "resposta": "O relatório técnico é um documento que descreve processos, resultados e análises em contextos profissionais e tecnológicos, com linguagem objetiva. Sabia que engenheiros militares já produziam relatórios técnicos durante a Revolução Industrial para documentar obras e invenções?",
+    "palavras_chave": ["relatório técnico", "processos", "tecnologia", "Revolução Industrial", "documentação"]
+  },
+  {
+    "pergunta": "O que é um portfólio acadêmico?",
+    "resposta": "O portfólio acadêmico reúne produções e trabalhos de um estudante ou pesquisador, demonstrando sua trajetória acadêmica. Sabia que o uso de portfólios se consolidou em universidades americanas na década de mil novecentos e noventa?",
+    "palavras_chave": ["portfólio acadêmico", "trabalhos", "trajetória", "universidade", "pesquisador"]
+  },
+  {
+    "pergunta": "O que é um resumo expandido?",
+    "resposta": "O resumo expandido é um texto acadêmico intermediário entre o resumo simples e o artigo completo, comum em eventos científicos. Sabia que congressos no Brasil utilizam resumos expandido para selecionar apresentações desde a década de mil novecentos e noventa?",
+    "palavras_chave": ["resumo expandido", "texto acadêmico", "congresso", "ciência", "Brasil"]
+  },
+  {
+    "pergunta": "O que é um parecer técnico?",
+    "resposta": "O parecer técnico é um documento que traz análise especializada sobre determinado tema, emitido por profissionais ou instituições competentes. Sabia que pareceres técnicos da área de engenharia foram fundamentais para a construção de Brasília na década de mil novecentos e cinquenta?",
+    "palavras_chave": ["parecer técnico", "análise", "profissional", "engenharia", "Brasília"]
+  },
+  {
+    "pergunta": "O que é uma ficha técnica?",
+    "resposta": "A ficha técnica é um texto objetivo que lista informações técnicas de produtos, serviços ou obras, como composição, autor e especificações. Sabia que fichas técnicas são obrigatórias em filmes exibidos em festivais de cinema desde o século vinte?",
+    "palavras_chave": ["ficha técnica", "informações", "produtos", "cinema", "especificações"]
+  },
+  {
+    "pergunta": "O que é uma carta do leitor?",
+    "resposta": "A carta do leitor é um gênero jornalístico em que leitores escrevem para jornais e revistas, comentando reportagens ou expressando opiniões. Sabia que grandes jornais brasileiros como a Folha de S.Paulo mantêm esse espaço desde a década de mil novecentos e oitenta?",
+    "palavras_chave": ["carta do leitor", "jornal", "opinião", "Folha de S.Paulo", "participação"]
+  },
+  {
+    "pergunta": "O que é um artigo de opinião?",
+    "resposta": "O artigo de opinião é um texto em que o autor defende um ponto de vista sobre um tema atual, publicado em jornais e revistas. Sabia que articulistas renomados, como Carlos Heitor Cony, ajudaram a consolidar esse gênero no Brasil durante o século vinte?",
+    "palavras_chave": ["artigo de opinião", "jornal", "ponto de vista", "Carlos Heitor Cony", "século XX"]
+  },
+  {
+    "pergunta": "O que é um obituário?",
+    "resposta": "O obituário é um texto jornalístico que anuncia e comenta a morte de uma pessoa, destacando sua trajetória e importância. Sabia que obituários de jornais ingleses são famosos por sua riqueza de detalhes históricos e literários?",
+    "palavras_chave": ["obituário", "falecimento", "trajetória", "história", "jornalismo"]
+  },
+  {
+    "pergunta": "O que é uma coluna jornalística?",
+    "resposta": "A coluna jornalística é um espaço fixo em jornais e revistas, assinado por um autor, em que ele comenta assuntos variados com estilo próprio. Sabia que colunas de Nelson Rodrigues, nos anos cinquenta, revolucionaram a crônica esportiva e cultural no Brasil?",
+    "palavras_chave": ["coluna jornalística", "jornal", "Nelson Rodrigues", "crônica", "comentário"]
+  }
+]

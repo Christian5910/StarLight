@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "O que é poluição atmosférica?",
+    "resposta": "A poluição atmosférica acontece quando substâncias nocivas, como gases e partículas, são liberadas no ar, prejudicando a saúde e o meio ambiente. Pense nas fumaças de carros ou indústrias: elas liberam dióxido de carbono, óxidos de nitrogênio e material particulado. Isso pode causar problemas respiratórios e até mudanças climáticas. Um exemplo é a névoa em São Paulo, que mistura fumaça e neblina. Criticamente, o desafio é equilibrar desenvolvimento industrial com controle de emissões. Sabia que a poluição do ar mata cerca de 7 milhões de pessoas por ano, segundo a OMS?",
+    "palavras_chave": ["poluição atmosférica", "gases nocivos", "saúde respiratória", "mudanças climáticas", "material particulado"]
+  },
+  {
+    "pergunta": "Como a poluição hídrica afeta rios?",
+    "resposta": "A poluição hídrica ocorre quando resíduos, como esgoto, produtos químicos ou plásticos, contaminam rios, lagos e mares. Isso destrói ecossistemas aquáticos e prejudica a vida humana. Por exemplo, o Rio Tietê, em São Paulo, já foi tão poluído que perdeu quase toda a vida aquática em trechos urbanos. A análise crítica aqui é que falta saneamento básico em muitas regiões, o que agrava o problema. Soluções como tratamento de esgoto ajudam, mas exigem investimento. Sabia que 80% do esgoto mundial é despejado sem tratamento nos rios?",
+    "palavras_chave": ["poluição hídrica", "esgoto", "ecossistemas aquáticos", "saneamento básico", "rio tietê"]
+  },
+  {
+    "pergunta": "O que causa a poluição do solo?",
+    "resposta": "A poluição do solo é causada pelo descarte inadequado de resíduos, como plásticos, agrotóxicos e metais pesados, que se acumulam na terra. Isso afeta a fertilidade do solo e contamina plantações. Um exemplo é o uso excessivo de pesticidas na agricultura, que pode envenenar alimentos. Criticamente, precisamos repensar o manejo de resíduos e investir em agricultura sustentável. Sabia que solos contaminados por metais pesados, como chumbo, podem levar décadas para se recuperar?",
+    "palavras_chave": ["poluição do solo", "agrotóxicos", "resíduos sólidos", "agricultura sustentável", "metais pesados"]
+  },
+  {
+    "pergunta": "O que é poluição sonora?",
+    "resposta": "Poluição sonora é o excesso de ruídos, como os de carros, obras ou aviões, que perturba a saúde humana e animal. Em cidades grandes, como o Rio de Janeiro, o barulho constante pode causar estresse e até perda auditiva. A análise aqui é que falta regulamentação rigorosa para controlar ruídos urbanos. Medidas como barreiras acústicas ajudam, mas são pouco usadas. Sabia que pássaros em áreas urbanas mudam seus cantos para serem ouvidos acima do barulho?",
+    "palavras_chave": ["poluição sonora", "ruído urbano", "saúde auditiva", "estresse", "biodiversidade"]
+  },
+  {
+    "pergunta": "Como a poluição térmica afeta a vida aquática?",
+    "resposta": "A poluição térmica acontece quando a temperatura da água sobe, geralmente por descarte de água quente de indústrias ou usinas. Isso reduz o oxigênio na água, prejudicando peixes e outros organismos. Um exemplo é o impacto de usinas termelétricas em rios. Criticamente, é um problema pouco discutido, mas com grande impacto nos ecossistemas. Soluções envolvem resfriar a água antes do descarte. Sabia que algumas espécies de peixes podem morrer se a água esquenta apenas 2°C?",
+    "palavras_chave": ["poluição térmica", "vida aquática", "temperatura", "usinas termelétricas", "oxigênio"]
+  },
+  {
+    "pergunta": "O que é poluição visual?",
+    "resposta": "Poluição visual é o excesso de elementos visuais, como outdoors, fios expostos ou grafites desordenados, que sobrecarregam o ambiente urbano. Em São Paulo, a Lei Cidade Limpa, de 2006, reduziu propagandas para melhorar a estética da cidade. Criticamente, esse tipo de poluição afeta o bem-estar psicológico e a identidade cultural de um lugar. Sabia que cidades com menos poluição visual, como Kyoto, no Japão, atraem mais turistas por sua harmonia estética?",
+    "palavras_chave": ["poluição visual", "estética urbana", "lei cidade limpa", "bem-estar", "outdoors"]
+  },
+  {
+    "pergunta": "Como a poluição luminosa impacta o meio ambiente?",
+    "resposta": "Poluição luminosa é o excesso de luz artificial, como postes e letreiros, que ofusca o céu noturno e perturba ecossistemas. Isso afeta animais noturnos, como tartarugas marinhas, que se desorientam com luzes costeiras. Criticamente, falta conscientização sobre o uso racional de iluminação. Soluções incluem luzes direcionadas e menos intensas. Sabia que a poluição luminosa impede 80% da população mundial de ver a Via Láctea?",
+    "palavras_chave": ["poluição luminosa", "luz artificial", "ecossistemas", "tartarugas marinhas", "céu noturno"]
+  },
+  {
+    "pergunta": "Por que os plásticos são um problema para a poluição hídrica?",
+    "resposta": "Plásticos, especialmente os de uso único, poluem rios e oceanos porque demoram séculos para se decompor. Eles se fragmentam em microplásticos, que são ingeridos por peixes e entram na cadeia alimentar. Um exemplo é o 'lixo flutuante' no Oceano Pacífico. Criticamente, a solução exige reduzir o consumo e melhorar a reciclagem. Sabia que já foram encontrados microplásticos até em peixes de águas profundas?",
+    "palavras_chave": ["plásticos", "microplásticos", "poluição hídrica", "cadeia alimentar", "reciclagem"]
+  },
+  {
+    "pergunta": "O que é chuva ácida e como ela se forma?",
+    "resposta": "Chuva ácida é a precipitação com pH baixo, causada por gases como dióxido de enxofre e óxidos de nitrogênio, liberados por indústrias e veículos. Esses gases reagem com a água na atmosfera, formando ácidos. Ela danifica florestas, solos e construções, como no caso de estátuas corroídas na Europa. Criticamente, é um problema global que exige cooperação internacional. Sabia que a chuva ácida já reduziu populações de peixes em lagos do Canadá?",
+    "palavras_chave": ["chuva ácida", "gases poluentes", "pH baixo", "danos ambientais", "cooperação internacional"]
+  },
+  {
+    "pergunta": "Como o lixo eletrônico contribui para a poluição do solo?",
+    "resposta": "Lixo eletrônico, como celulares e baterias, contém metais pesados, como chumbo e mercúrio, que contaminam o solo quando descartados incorretamente. Isso afeta a fertilidade e pode atingir lençóis freáticos. No Brasil, apenas 3% do e-lixo é reciclado adequadamente. Criticamente, falta infraestrutura para reciclagem em muitos países. Sabia que um único celular pode contaminar até 1 metro cúbico de solo?",
+    "palavras_chave": ["lixo eletrônico", "metais pesados", "reciclagem", "contaminação do solo", "e-lixo"]
+  },
+  {
+    "pergunta": "Qual o impacto da poluição atmosférica na saúde humana?",
+    "resposta": "A poluição do ar causa doenças respiratórias, como asma e bronquite, e até problemas cardíacos. Partículas finas, como PM2.5, entram nos pulmões e no sangue. Em cidades como Nova Délhi, a poluição reduz a expectativa de vida. Criticamente, populações vulneráveis, como crianças e idosos, sofrem mais. Soluções incluem transporte público limpo. Sabia que respirar ar poluído é tão prejudicial quanto fumar, segundo estudos?",
+    "palavras_chave": ["poluição atmosférica", "saúde humana", "doenças respiratórias", "partículas finas", "transporte público"]
+  },
+  {
+    "pergunta": "O que são ilhas de calor urbanas?",
+    "resposta": "Ilhas de calor são áreas urbanas mais quentes devido à poluição térmica, causada por asfalto, concreto e falta de áreas verdes. Em São Paulo, a temperatura no centro pode ser 5°C maior que em áreas verdes. Isso aumenta o consumo de energia com ar-condicionado. Criticamente, é preciso mais arborização urbana. Sabia que árvores podem reduzir a temperatura urbana em até 3°C?",
+    "palavras_chave": ["ilhas de calor", "poluição térmica", "arborização urbana", "temperatura", "áreas verdes"]
+  },
+  {
+    "pergunta": "Como a poluição sonora afeta a fauna?",
+    "resposta": "Ruídos intensos, como de estradas ou portos, desorientam animais, afetando sua comunicação e reprodução. Baleias, por exemplo, têm dificuldade em se comunicar devido ao barulho de navios. Criticamente, é um impacto subestimado, mas soluções como zonas de silêncio ajudam. Sabia que o ruído de motores pode fazer pássaros abandonarem seus ninhos?",
+    "palavras_chave": ["poluição sonora", "fauna", "comunicação animal", "baleias", "zonas de silêncio"]
+  },
+  {
+    "pergunta": "O que é poluição por nutrientes?",
+    "resposta": "Poluição por nutrientes ocorre quando fertilizantes, ricos em nitrogênio e fósforo, chegam a rios e lagos, causando crescimento exagerado de algas, chamado eutrofização. Isso reduz o oxigênio na água, matando peixes. Um exemplo é o Golfo do México. Criticamente, a agricultura intensiva precisa de práticas mais sustentáveis. Sabia que a eutrofização criou 'zonas mortas' em 400 áreas marinhas no mundo?",
+    "palavras_chave": ["poluição por nutrientes", "eutrofização", "fertilizantes", "zonas mortas", "agricultura"]
+  },
+  {
+    "pergunta": "Como a poluição do ar afeta o clima?",
+    "resposta": "A poluição atmosférica, como emissões de CO2 e metano, intensifica o efeito estufa, aquecendo o planeta. Aerossóis, como fuligem, também alteram padrões de chuva. Um exemplo é o derretimento de geleiras devido ao aquecimento global. Criticamente, precisamos de fontes de energia renováveis. Sabia que o metano é 25 vezes mais potente que o CO2 no aquecimento global?",
+    "palavras_chave": ["poluição atmosférica", "efeito estufa", "aquecimento global", "metano", "energias renováveis"]
+  },
+  {
+    "pergunta": "O que são microplásticos e por que são perigosos?",
+    "resposta": "Microplásticos são fragmentos de plástico menores que 5 mm, encontrados em oceanos, rios e até no ar. Eles vêm de cosméticos, roupas sintéticas e degradação de lixo. São perigosos porque entram na cadeia alimentar, afetando peixes e humanos. Criticamente, é preciso banir plásticos descartáveis. Sabia que microplásticos já foram encontrados no sangue humano?",
+    "palavras_chave": ["microplásticos", "cadeia alimentar", "plásticos descartáveis", "oceanos", "saúde humana"]
+  },
+  {
+    "pergunta": "Como a poluição hídrica afeta a saúde pública?",
+    "resposta": "Água contaminada por esgoto ou produtos químicos causa doenças como diarreia, hepatite e até câncer. No Brasil, a falta de saneamento em favelas aumenta esses riscos. Criticamente, investir em tratamento de água é essencial para a saúde pública. Sabia que 1,8 bilhão de pessoas bebem água contaminada, segundo a ONU?",
+    "palavras_chave": ["poluição hídrica", "saúde pública", "saneamento", "doenças", "tratamento de água"]
+  },
+  {
+    "pergunta": "O que é poluição radioativa?",
+    "resposta": "Poluição radioativa ocorre quando materiais radioativos, como resíduos de usinas nucleares, contaminam o ambiente. Isso pode causar mutações genéticas e câncer. O acidente de Chernobyl, em 1986, é um exemplo trágico. Criticamente, o manejo seguro de resíduos nucleares é um desafio global. Sabia que áreas de Chernobyl ainda são inabitáveis devido à radiação?",
+    "palavras_chave": ["poluição radioativa", "resíduos nucleares", "chernobyl", "radiação", "saúde humana"]
+  },
+  {
+    "pergunta": "Como a poluição visual impacta o turismo?",
+    "resposta": "Excesso de outdoors e fios expostos pode tornar cidades menos atraentes para turistas, que buscam beleza e harmonia. A Lei Cidade Limpa, em São Paulo, aumentou o apelo turístico ao reduzir propagandas. Criticamente, o planejamento urbano deve priorizar estética. Sabia que cidades como Florença têm regras rígidas contra poluição visual?",
+    "palavras_chave": ["poluição visual", "turismo", "lei cidade limpa", "estética urbana", "planejamento"]
+  },
+  {
+    "pergunta": "Por que a poluição do solo dificulta a agricultura?",
+    "resposta": "Solos contaminados por agrotóxicos ou resíduos industriais perdem fertilidade e podem produzir alimentos tóxicos. No Brasil, solos contaminados por pesticidas afetam safras. Criticamente, a agricultura orgânica é uma solução, mas exige transição lenta. Sabia que solos poluídos podem reduzir a produtividade agrícola em até 20%?",
+    "palavras_chave": ["poluição do solo", "agricultura", "agrotóxicos", "fertilidade", "agricultura orgânica"]
+  },
+  {
+    "pergunta": "Como a poluição luminosa afeta pássaros migratórios?",
+    "resposta": "Luzes artificiais desorientam pássaros migratórios, que usam as estrelas para navegar. Muitos colidem com prédios iluminados. Em Nova York, campanhas como 'Lights Out' reduzem luzes durante migrações. Criticamente, falta ação global para proteger a fauna. Sabia que milhões de pássaros morrem anualmente por colisões causadas por poluição luminosa?",
+    "palavras_chave": ["poluição luminosa", "pássaros migratórios", "luzes artificiais", "navegação", "fauna"]
+  },
+  {
+    "pergunta": "O que é poluição por agrotóxicos?",
+    "resposta": "Poluição por agrotóxicos ocorre quando pesticidas usados na agricultura contaminam solos, águas e alimentos. Isso afeta a saúde humana e a biodiversidade. No Brasil, o uso intenso de agrotóxicos preocupa ambientalistas. Criticamente, é preciso regular melhor esses produtos. Sabia que o Brasil é um dos maiores consumidores de agrotóxicos do mundo?",
+    "palavras_chave": ["agrotóxicos", "poluição", "biodiversidade", "saúde humana", "regulamentação"]
+  },
+  {
+    "pergunta": "Como a poluição térmica afeta corais?",
+    "resposta": "O aumento da temperatura da água, causado por descargas industriais, provoca o branqueamento de corais, que perdem suas algas simbióticas. A Grande Barreira de Corais, na Austrália, sofre com isso. Criticamente, proteger corais exige reduzir emissões e poluição térmica. Sabia que 50% dos corais do mundo já morreram desde os anos 1980?",
+    "palavras_chave": ["poluição térmica", "corais", "branqueamento", "grande barreira", "emissões"]
+  },
+  {
+    "pergunta": "Qual o papel das indústrias na poluição atmosférica?",
+    "resposta": "Indústrias liberam gases como CO2 e óxidos de enxofre, que poluem o ar e causam problemas como smog e chuva ácida. Em Cubatão, SP, os anos 1980 foram marcados por poluição industrial severa. Criticamente, tecnologias de filtragem ajudam, mas custam caro. Sabia que Cubatão já foi chamada de 'Vale da Morte' por sua poluição?",
+    "palavras_chave": ["indústrias", "poluição atmosférica", "gases", "smog", "cubatão"]
+  },
+  {
+    "pergunta": "Como a poluição sonora impacta a saúde mental?",
+    "resposta": "Ruídos constantes, como os de tráfego, causam estresse, ansiedade e até insônia. Em cidades como São Paulo, o barulho urbano é uma queixa comum. Criticamente, falta políticas públicas para reduzir ruídos. Soluções incluem janelas antirruído e zonas de silêncio. Sabia que a OMS considera a poluição sonora o segundo maior poluente ambiental, atrás apenas do ar?",
+    "palavras_chave": ["poluição sonora", "saúde mental", "estresse", "ruído urbano", "políticas públicas"]
+  },
+  {
+    "pergunta": "Como a poluição por óleo afeta os oceanos?",
+    "resposta": "A poluição por óleo ocorre quando petróleo vaza, como em derramamentos de navios ou plataformas, formando manchas que sufocam a vida marinha. Peixes, aves e mamíferos, como tartarugas, morrem ao ingerir ou ficarem presos no óleo. O caso do Exxon Valdez, em 1989, devastou o Alasca. Criticamente, a limpeza é cara e lenta, exigindo tecnologias avançadas. Sabia que um único litro de óleo pode contaminar 1 milhão de litros de água?",
+    "palavras_chave": ["poluição por óleo", "derramamento", "vida marinha", "exxon valdez", "limpeza"]
+  },
+  {
+    "pergunta": "O que é poluição química e suas fontes?",
+    "resposta": "Poluição química é a contaminação por substâncias como pesticidas, fertilizantes ou metais pesados, vindos de indústrias, agricultura ou esgoto. Essas substâncias afetam água, solo e ar, causando danos à saúde e ao meio ambiente. Um exemplo é o mercúrio em rios da Amazônia, vindo do garimpo. Criticamente, falta fiscalização rigorosa. Sabia que o mercúrio pode causar danos neurológicos permanentes em humanos?",
+    "palavras_chave": ["poluição química", "metais pesados", "mercúrio", "garimpo", "fiscalização"]
+  },
+  {
+    "pergunta": "Por que a poluição do ar piora em invernos?",
+    "resposta": "No inverno, a poluição atmosférica aumenta devido à inversão térmica, quando o ar frio prende poluentes, como fumaça de carros e indústrias, perto do solo. Em cidades como Santiago, no Chile, isso cria um smog denso. Criticamente, é preciso reduzir emissões veiculares e industriais. Sabia que a inversão térmica pode aumentar em 30% a concentração de poluentes em áreas urbanas?",
+    "palavras_chave": ["poluição atmosférica", "inversão térmica", "smog", "emissões", "inverno"]
+  },
+  {
+    "pergunta": "Como a poluição hídrica afeta a pesca?",
+    "resposta": "Água contaminada por esgoto, plásticos ou produtos químicos reduz populações de peixes, prejudicando a pesca comercial e artesanal. No Brasil, a Baía de Guanabara sofre com lixo e esgoto, afetando pescadores locais. Criticamente, saneamento básico é essencial para recuperar ecossistemas aquáticos. Sabia que a poluição já reduziu em 70% a pesca em algumas áreas da Baía de Guanabara?",
+    "palavras_chave": ["poluição hídrica", "pesca", "baía de guanabara", "saneamento", "ecossistemas"]
+  },
+  {
+    "pergunta": "O que é poluição por resíduos sólidos?",
+    "resposta": "Poluição por resíduos sólidos é o acúmulo de lixo, como plásticos, vidro e orgânicos, em locais inadequados, como lixões ou ruas. Isso contamina solos e águas e atrai vetores de doenças. No Brasil, lixões a céu aberto ainda são comuns. Criticamente, a reciclagem e aterros sanitários são soluções, mas exigem investimento. Sabia que o Brasil produz 80 milhões de toneladas de lixo por ano?",
+    "palavras_chave": ["resíduos sólidos", "lixões", "reciclagem", "aterros sanitários", "contaminação"]
+  },
+  {
+    "pergunta": "Como a poluição sonora afeta crianças?",
+    "resposta": "Ruídos intensos, como de tráfego ou construções, prejudicam a concentração e o desenvolvimento cognitivo de crianças. Em escolas próximas a rodovias, o barulho dificulta o aprendizado. Criticamente, é preciso criar ambientes escolares mais silenciosos. Soluções incluem isolamento acústico. Sabia que crianças expostas a poluição sonora podem ter atrasos no desenvolvimento da fala?",
+    "palavras_chave": ["poluição sonora", "crianças", "aprendizado", "isolamento acústico", "desenvolvimento"]
+  },
+  {
+    "pergunta": "O que causa a poluição térmica em rios urbanos?",
+    "resposta": "A poluição térmica em rios urbanos é causada por descargas de água quente de indústrias e usinas, além do calor do asfalto que esquenta a água da chuva. Isso reduz o oxigênio, matando peixes. O Rio Pinheiros, em São Paulo, sofre com isso. Criticamente, precisamos de regulamentações mais rígidas. Sabia que a temperatura de rios urbanos pode subir até 8°C por causa disso?",
+    "palavras_chave": ["poluição térmica", "rios urbanos", "oxigênio", "indústrias", "rio pinheiros"]
+  },
+  {
+    "pergunta": "Como a poluição visual afeta a saúde mental?",
+    "resposta": "Excesso de outdoors, fios expostos e poluição urbana cria um ambiente caótico, aumentando estresse e ansiedade. Cidades como São Paulo melhoraram com a Lei Cidade Limpa. Criticamente, ambientes mais organizados promovem bem-estar. Sabia que estudos mostram que ambientes visualmente poluídos aumentam em 15% os níveis de estresse?",
+    "palavras_chave": ["poluição visual", "saúde mental", "estresse", "lei cidade limpa", "bem-estar"]
+  },
+  {
+    "pergunta": "Por que a poluição luminosa atrapalha astrônomos?",
+    "resposta": "A poluição luminosa, causada por luzes artificiais, ofusca o céu, dificultando a observação de estrelas e planetas. Observatórios, como o de Atacama, no Chile, buscam áreas com menos luz. Criticamente, é preciso reduzir a iluminação urbana desnecessária. Sabia que 99% dos europeus vivem sob céus poluídos por luz, dificultando a astronomia?",
+    "palavras_chave": ["poluição luminosa", "astronomia", "luzes artificiais", "observatórios", "céu noturno"]
+  },
+  {
+    "pergunta": "Como os microplásticos chegam aos oceanos?",
+    "resposta": "Microplásticos vêm de produtos como cosméticos com microesferas, roupas sintéticas e degradação de plásticos maiores. Eles são carreados por rios até os oceanos. A Grande Mancha de Lixo do Pacífico é um exemplo. Criticamente, precisamos de leis para banir microplásticos em produtos. Sabia que uma única lavagem de roupa sintética pode liberar 700 mil fibras plásticas?",
+    "palavras_chave": ["microplásticos", "oceanos", "roupas sintéticas", "cosméticos", "lixo pacífico"]
+  },
+  {
+    "pergunta": "O que é smog e como ele se forma?",
+    "resposta": "Smog é uma névoa tóxica formada pela combinação de poluentes, como fumaça e gases de carros, com condições climáticas, como inversão térmica. Cidades como Los Angeles sofrem com isso. Criticamente, reduzir emissões veiculares é essencial. Sabia que o smog de Londres, em 1952, matou milhares de pessoas em poucos dias?",
+    "palavras_chave": ["smog", "poluição atmosférica", "emissões veiculares", "inversão térmica", "londres"]
+  },
+  {
+    "pergunta": "Como a poluição do solo afeta a segurança alimentar?",
+    "resposta": "Solos contaminados por agrotóxicos ou metais pesados produzem alimentos com toxinas, ameaçando a saúde. No Brasil, o uso de pesticidas preocupa. Criticamente, a agricultura orgânica pode minimizar riscos, mas é mais cara. Sabia que solos poluídos podem transferir chumbo para vegetais, como alface?",
+    "palavras_chave": ["poluição do solo", "segurança alimentar", "agrotóxicos", "metais pesados", "agricultura orgânica"]
+  },
+  {
+    "pergunta": "Por que a poluição hídrica ameaça a biodiversidade?",
+    "resposta": "Água contaminada por esgoto, óleo ou produtos químicos mata peixes, plantas aquáticas e outros organismos. A Baía de Todos os Santos, na Bahia, perdeu biodiversidade devido à poluição. Criticamente, proteger rios exige saneamento e fiscalização. Sabia que 30% das espécies de água doce estão ameaçadas por poluição?",
+    "palavras_chave": ["poluição hídrica", "biodiversidade", "saneamento", "rios", "espécies aquáticas"]
+  },
+  {
+    "pergunta": "Como a poluição atmosférica afeta a agricultura?",
+    "resposta": "Poluentes como ozônio e chuva ácida danificam folhas e reduzem a produtividade de culturas, como milho e soja. No Brasil, a poluição urbana afeta plantações próximas. Criticamente, é preciso reduzir emissões industriais para proteger safras. Sabia que a poluição do ar pode reduzir em 15% o rendimento agrícola em algumas regiões?",
+    "palavras_chave": ["poluição atmosférica", "agricultura", "ozônio", "chuva ácida", "produtividade"]
+  },
+  {
+    "pergunta": "O que é poluição por esgoto doméstico?",
+    "resposta": "Poluição por esgoto doméstico ocorre quando resíduos de casas, como detergentes e fezes, são despejados sem tratamento em rios e mares. Isso causa doenças e mata a vida aquática. No Brasil, 45% da população não tem acesso a saneamento. Criticamente, investir em tratamento de esgoto é urgente. Sabia que o esgoto não tratado é a principal causa de poluição hídrica no Brasil?",
+    "palavras_chave": ["esgoto doméstico", "poluição hídrica", "saneamento", "doenças", "tratamento"]
+  },
+  {
+    "pergunta": "Como a poluição sonora afeta trabalhadores?",
+    "resposta": "Ruídos em fábricas ou canteiros de obras causam estresse, perda auditiva e queda de produtividade em trabalhadores. Criticamente, normas de segurança, como uso de protetores auriculares, são pouco fiscalizadas. Um exemplo é a construção civil no Brasil. Sabia que trabalhadores expostos a ruídos acima de 85 decibéis podem ter danos auditivos irreversíveis?",
+    "palavras_chave": ["poluição sonora", "trabalhadores", "perda auditiva", "estresse", "segurança"]
+  },
+  {
+    "pergunta": "O que é poluição por metais pesados?",
+    "resposta": "Metais pesados, como chumbo, mercúrio e cádmio, poluem solos e águas, vindos de indústrias, mineração ou lixo eletrônico. Eles são tóxicos, causando doenças graves. O garimpo na Amazônia é um exemplo. Criticamente, a remediação de solos é cara e lenta. Sabia que o mercúrio pode permanecer no ambiente por séculos?",
+    "palavras_chave": ["metais pesados", "poluição", "garimpo", "toxinas", "remediação"]
+  },
+  {
+    "pergunta": "Como a poluição térmica afeta usinas hidrelétricas?",
+    "resposta": "Água quente descarregada por usinas aumenta a temperatura de rios, reduzindo oxigênio e afetando peixes. Isso pode comprometer ecossistemas próximos a hidrelétricas, como a de Itaipu. Criticamente, tecnologias de resfriamento são necessárias, mas custosas. Sabia que a poluição térmica pode reduzir a eficiência de turbinas em hidrelétricas?",
+    "palavras_chave": ["poluição térmica", "hidrelétricas", "ecossistemas", "oxigênio", "resfriamento"]
+  },
+  {
+    "pergunta": "Por que a poluição visual é um problema em favelas?",
+    "resposta": "Em favelas, fios expostos, lixo acumulado e construções desordenadas criam poluição visual, afetando a qualidade de vida. No Rio de Janeiro, isso é comum em comunidades. Criticamente, urbanização planejada pode melhorar a estética e o bem-estar. Sabia que projetos de urbanização em favelas, como no Morro do Alemão, reduziram a poluição visual?",
+    "palavras_chave": ["poluição visual", "favelas", "urbanização", "qualidade de vida", "estética"]
+  },
+  {
+    "pergunta": "Como a poluição luminosa afeta insetos?",
+    "resposta": "Luzes artificiais atraem insetos noturnos, como mariposas, desorientando-os e reduzindo sua reprodução. Isso afeta polinizadores, como abelhas noturnas. Criticamente, lâmpadas de baixa intensidade ajudam a mitigar o problema. Sabia que a poluição luminosa pode reduzir populações de insetos em até 50% em áreas urbanas?",
+    "palavras_chave": ["poluição luminosa", "insetos", "polinizadores", "luzes artificiais", "reprodução"]
+  },
+  {
+    "pergunta": "O que é poluição por fertilizantes agrícolas?",
+    "resposta": "Fertilizantes com nitrogênio e fósforo, usados em plantações, poluem rios e lagos, causando eutrofização, que mata peixes por falta de oxigênio. No Brasil, isso afeta rios como o São Francisco. Criticamente, práticas agrícolas sustentáveis são essenciais. Sabia que a eutrofização cria algas tóxicas que podem envenenar humanos?",
+    "palavras_chave": ["fertilizantes", "eutrofização", "poluição hídrica", "agricultura", "rio são francisco"]
+  },
+  {
+    "pergunta": "Como a poluição atmosférica afeta monumentos?",
+    "resposta": "Gases como dióxido de enxofre, da poluição do ar, causam chuva ácida, que corrói monumentos de pedra, como o Taj Mahal, na Índia. Criticamente, proteger o patrimônio exige reduzir emissões industriais. Sabia que a Acrópole, em Atenas, perdeu detalhes esculpidos devido à chuva ácida?",
+    "palavras_chave": ["poluição atmosférica", "chuva ácida", "monumentos", "emissões", "patrimônio"]
+  },
+  {
+    "pergunta": "Por que a poluição do solo afeta lençóis freáticos?",
+    "resposta": "Resíduos como agrotóxicos e lixo químico infiltram-se no solo, contaminando lençóis freáticos, que abastecem poços e rios. No Brasil, isso é comum em áreas agrícolas. Criticamente, a proteção da água subterrânea exige melhor gestão de resíduos. Sabia que 70% da água potável do mundo vem de lençóis freáticos?",
+    "palavras_chave": ["poluição do solo", "lençóis freáticos", "agrotóxicos", "água potável", "resíduos"]
+  },
+  {
+    "pergunta": "Como a poluição sonora afeta animais marinhos?",
+    "resposta": "Ruídos de navios, sonares e plataformas petrolíferas desorientam animais marinhos, como golfinhos, que dependem de sons para navegar e se comunicar. Criticamente, zonas de exclusão sonora são necessárias, mas difíceis de implementar. Sabia que o barulho subaquático pode causar lesões internas em cetáceos?",
+    "palavras_chave": ["poluição sonora", "animais marinhos", "sonares", "navegação", "cetáceos"]
+  },
+  {
+    "pergunta": "O que é poluição por resíduos hospitalares?",
+    "resposta": "Resíduos hospitalares, como seringas, medicamentos vencidos e materiais biológicos, poluem solos e águas se descartados incorretamente. No Brasil, a gestão inadequada é um problema. Criticamente, incineradores específicos e reciclagem são soluções, mas caras. Sabia que resíduos hospitalares podem espalhar superbactérias resistentes a antibióticos?",
+    "palavras_chave": ["resíduos hospitalares", "poluição", "superbactérias", "incineração", "gestão"]
+  },
+  {
+    "pergunta": "Como a poluição atmosférica afeta florestas?",
+    "resposta": "A poluição do ar, especialmente a chuva ácida, danifica folhas e raízes de árvores, reduzindo o crescimento de florestas. Na Floresta Negra, na Alemanha, isso foi um problema grave nos anos 80. Criticamente, reduzir emissões industriais é essencial para proteger florestas. Soluções incluem filtros em chaminés. Sabia que a chuva ácida pode acidificar solos, matando microrganismos essenciais para árvores?",
+    "palavras_chave": ["poluição atmosférica", "chuva ácida", "florestas", "emissões industriais", "floresta negra"]
+  },
+  {
+    "pergunta": "O que é poluição por detergentes?",
+    "resposta": "Detergentes com fosfatos, despejados em rios e lagos, causam poluição hídrica ao promover o crescimento excessivo de algas, um processo chamado eutrofização. Isso reduz o oxigênio na água, matando peixes. No Brasil, rios urbanos sofrem com isso. Criticamente, usar detergentes biodegradáveis ajuda, mas é pouco adotado. Sabia que os fosfatos foram banidos em detergentes em vários países da Europa?",
+    "palavras_chave": ["detergentes", "eutrofização", "poluição hídrica", "fosfatos", "biodegradáveis"]
+  },
+  {
+    "pergunta": "Como a poluição do solo impacta a saúde humana?",
+    "resposta": "Solos contaminados por agrotóxicos ou metais pesados transferem toxinas para alimentos, causando doenças como câncer ou problemas neurológicos. No Brasil, áreas agrícolas com pesticidas são um risco. Criticamente, é preciso monitorar solos e promover agricultura orgânica. Sabia que o cádmio, um metal pesado, pode se acumular nos rins por décadas?",
+    "palavras_chave": ["poluição do solo", "saúde humana", "agrotóxicos", "metais pesados", "agricultura orgânica"]
+  },
+  {
+    "pergunta": "Por que a poluição sonora é pior em cidades grandes?",
+    "resposta": "Cidades grandes, como Recife, têm poluição sonora intensa devido ao tráfego, construções e eventos. Isso causa estresse e problemas de saúde, como insônia. Criticamente, falta planejamento urbano para reduzir ruídos. Soluções incluem barreiras acústicas e zonas silenciosas. Sabia que o barulho em cidades pode atingir 90 decibéis, nível que danifica a audição?",
+    "palavras_chave": ["poluição sonora", "cidades grandes", "estresse", "planejamento urbano", "barreiras acústicas"]
+  },
+  {
+    "pergunta": "O que é poluição térmica causada por usinas nucleares?",
+    "resposta": "Usinas nucleares liberam água quente usada no resfriamento de reatores, elevando a temperatura de rios e lagos. Isso prejudica peixes e outros organismos aquáticos. Um exemplo é a usina de Angra dos Reis, no Brasil. Criticamente, tecnologias de resfriamento são caras, mas necessárias. Sabia que a poluição térmica pode reduzir a reprodução de peixes em até 50%?",
+    "palavras_chave": ["poluição térmica", "usinas nucleares", "vida aquática", "resfriamento", "angra dos reis"]
+  },
+  {
+    "pergunta": "Como a poluição visual afeta a identidade cultural?",
+    "resposta": "Excesso de propagandas e construções desordenadas mascara a identidade cultural de cidades, como em centros históricos. Em Ouro Preto, MG, há esforços para preservar a estética colonial. Criticamente, o turismo cultural depende de ambientes limpos visualmente. Sabia que cidades históricas com menos poluição visual atraem 20% mais visitantes?",
+    "palavras_chave": ["poluição visual", "identidade cultural", "turismo", "ouro preto", "estética"]
+  },
+  {
+    "pergunta": "Por que a poluição luminosa afeta tartarugas marinhas?",
+    "resposta": "Luzes artificiais em praias desorientam filhotes de tartarugas, que seguem luzes em vez do reflexo do mar, morrendo de exaustão ou predadores. No Brasil, o Projeto Tamar protege tartarugas disso. Criticamente, apagar luzes costeiras durante a desova é essencial. Sabia que 90% dos filhotes de tartarugas podem ser afetados por luzes artificiais?",
+    "palavras_chave": ["poluição luminosa", "tartarugas marinhas", "projeto tamar", "desova", "luzes artificiais"]
+  },
+  {
+    "pergunta": "Como os plásticos afetam a vida terrestre?",
+    "resposta": "Plásticos descartados em solos ou lixões são ingeridos por animais terrestres, como vacas ou aves, causando morte ou doenças. No Brasil, lixões a céu aberto agravam isso. Criticamente, a gestão de resíduos precisa melhorar. Sabia que animais terrestres podem morrer sufocados por sacolas plásticas ingeridas?",
+    "palavras_chave": ["plásticos", "vida terrestre", "lixões", "gestão de resíduos", "animais"]
+  },
+  {
+    "pergunta": "O que é poluição por partículas finas?",
+    "resposta": "Partículas finas, como PM2.5, são minúsculas partículas no ar, vindas de queimadas, indústrias ou carros, que penetram nos pulmões. Em São Paulo, queimadas agravam isso. Criticamente, filtros industriais e menos queimadas são soluções. Sabia que partículas finas podem reduzir a expectativa de vida em até 2 anos em áreas poluídas?",
+    "palavras_chave": ["partículas finas", "poluição atmosférica", "pulmões", "queimadas", "filtros industriais"]
+  },
+  {
+    "pergunta": "Como a poluição hídrica afeta o turismo?",
+    "resposta": "Águas poluídas, como as de praias contaminadas por esgoto, afastam turistas e prejudicam economias locais. A Lagoa da Pampulha, em Belo Horizonte, já perdeu visitantes por isso. Criticamente, saneamento básico é vital para o turismo. Sabia que praias poluídas no Brasil perdem até 40% dos turistas em alta temporada?",
+    "palavras_chave": ["poluição hídrica", "turismo", "saneamento", "praias", "lagoa da pampulha"]
+  },
+  {
+    "pergunta": "O que é poluição por pesticidas na agricultura?",
+    "resposta": "Pesticidas usados em plantações contaminam solos, águas e alimentos, prejudicando a saúde e a biodiversidade. No Brasil, o uso excessivo preocupa ambientalistas. Criticamente, a agricultura orgânica é uma alternativa, mas enfrenta resistência. Sabia que pesticidas podem permanecer no solo por até 20 anos?",
+    "palavras_chave": ["pesticidas", "poluição", "agricultura", "biodiversidade", "agricultura orgânica"]
+  },
+  {
+    "pergunta": "Como a poluição atmosférica afeta a qualidade da água?",
+    "resposta": "Poluentes do ar, como óxidos de enxofre, caem com a chuva ácida, acidificando rios e lagos, o que mata peixes e contamina água potável. Isso é comum em áreas industriais. Criticamente, reduzir emissões melhora a qualidade da água. Sabia que a chuva ácida pode tornar a água de lagos imprópria para consumo humano?",
+    "palavras_chave": ["poluição atmosférica", "chuva ácida", "qualidade da água", "emissões", "rios"]
+  },
+  {
+    "pergunta": "Por que a poluição sonora afeta o sono?",
+    "resposta": "Ruídos de tráfego ou obras perturbam o sono, causando insônia e fadiga. Em cidades como Salvador, o barulho noturno é um problema. Criticamente, regulamentações de ruído noturno são pouco aplicadas. Soluções incluem janelas antirruído. Sabia que a falta de sono por poluição sonora pode aumentar o risco de doenças cardíacas?",
+    "palavras_chave": ["poluição sonora", "sono", "insônia", "tráfego", "saúde cardíaca"]
+  },
+  {
+    "pergunta": "Como a poluição térmica afeta lagos?",
+    "resposta": "A água quente despejada em lagos por indústrias eleva a temperatura, reduzindo o oxigênio e matando organismos aquáticos. Lagos como o Billings, em São Paulo, sofrem com isso. Criticamente, sistemas de resfriamento são necessários, mas caros. Sabia que lagos poluídos termicamente podem perder até 80% de sua biodiversidade?",
+    "palavras_chave": ["poluição térmica", "lagos", "oxigênio", "biodiversidade", "billings"]
+  },
+  {
+    "pergunta": "O que é poluição por resíduos industriais?",
+    "resposta": "Resíduos industriais, como produtos químicos e metais, poluem solos e águas quando descartados incorretamente. Em Cubatão, SP, isso já causou desastres ambientais. Criticamente, a gestão de resíduos precisa de mais fiscalização. Sabia que resíduos industriais podem contaminar rios a quilômetros de distância?",
+    "palavras_chave": ["resíduos industriais", "poluição", "cubatão", "fiscalização", "contaminação"]
+  },
+  {
+    "pergunta": "Como a poluição visual afeta o planejamento urbano?",
+    "resposta": "Excesso de propagandas e fios expostos dificulta a criação de cidades esteticamente harmoniosas, como em Brasília, projetada para ser visualmente limpa. Criticamente, leis como a Cidade Limpa devem ser expandidas. Sabia que cidades com menos poluição visual têm maior valorização imobiliária?",
+    "palavras_chave": ["poluição visual", "planejamento urbano", "estética", "cidade limpa", "imobiliária"]
+  },
+  {
+    "pergunta": "Por que a poluição luminosa afeta a saúde humana?",
+    "resposta": "Luzes artificiais intensas à noite atrapalham o ciclo do sono, aumentando o risco de insônia e doenças como depressão. Em áreas urbanas, isso é comum. Criticamente, lâmpadas de baixa intensidade ajudam a mitigar. Sabia que a exposição à luz artificial à noite pode reduzir a produção de melatonina em 50%?",
+    "palavras_chave": ["poluição luminosa", "saúde humana", "sono", "melatonina", "luzes artificiais"]
+  },
+  {
+    "pergunta": "Como a poluição por plásticos afeta aves marinhas?",
+    "resposta": "Aves marinhas, como albatrozes, ingerem plásticos no oceano, confundindo-os com comida, o que causa fome ou morte. A Ilha de Midway tem milhares de aves mortas por isso. Criticamente, reduzir plásticos descartáveis é essencial. Sabia que 90% das aves marinhas já ingeriram plástico, segundo estudos?",
+    "palavras_chave": ["plásticos", "aves marinhas", "oceanos", "descartáveis", "midway"]
+  },
+  {
+    "pergunta": "O que é poluição por gases de efeito estufa?",
+    "resposta": "Gases como CO2 e metano, liberados por indústrias e veículos, intensificam o efeito estufa, aquecendo o planeta. Isso causa eventos climáticos extremos. Criticamente, energias renováveis são a solução, mas a transição é lenta. Sabia que o metano das criações de gado é um dos principais poluentes atmosféricos?",
+    "palavras_chave": ["gases de efeito estufa", "poluição atmosférica", "aquecimento global", "energias renováveis", "metano"]
+  },
+  {
+    "pergunta": "Como a poluição hídrica afeta a indústria pesqueira?",
+    "resposta": "Água contaminada reduz populações de peixes, impactando a indústria pesqueira. No Brasil, a poluição na Baía de Sepetiba prejudica pescadores. Criticamente, saneamento e leis contra poluição são essenciais. Sabia que a poluição hídrica causa perdas de bilhões de reais à pesca global anualmente?",
+    "palavras_chave": ["poluição hídrica", "indústria pesqueira", "saneamento", "baía de sepetiba", "peixes"]
+  },
+  {
+    "pergunta": "Por que a poluição do solo afeta a biodiversidade?",
+    "resposta": "Solos contaminados por agrotóxicos ou resíduos matam microrganismos e plantas, reduzindo a biodiversidade. No Brasil, áreas desmatadas com agrotóxicos perdem fauna. Criticamente, a recuperação de solos é lenta e cara. Sabia que solos saudáveis abrigam 25% de toda a biodiversidade do planeta?",
+    "palavras_chave": ["poluição do solo", "biodiversidade", "agrotóxicos", "microrganismos", "recuperação"]
+  },
+  {
+    "pergunta": "Como a poluição sonora afeta a vida selvagem?",
+    "resposta": "Ruídos de estradas ou máquinas atrapalham a comunicação e reprodução de animais, como lobos e pássaros. Em florestas próximas a rodovias, isso é comum. Criticamente, zonas de proteção sonora são raras, mas necessárias. Sabia que o barulho pode fazer sapos mudarem seus cantos de acasalamento?",
+    "palavras_chave": ["poluição sonora", "vida selvagem", "comunicação", "reprodução", "zonas de proteção"]
+  },
+  {
+    "pergunta": "O que é poluição por combustíveis fósseis?",
+    "resposta": "Combustíveis fósseis, como petróleo e carvão, liberam poluentes como CO2 e enxofre, causando poluição atmosférica e aquecimento global. Usinas a carvão são grandes culpadas. Criticamente, a transição para energias limpas é urgente. Sabia que a queima de combustíveis fósseis é responsável por 75% das emissões globais de CO2?",
+    "palavras_chave": ["combustíveis fósseis", "poluição atmosférica", "CO2", "energias limpas", "emissões"]
+  },
+  {
+    "pergunta": "Como a poluição térmica afeta a pesca artesanal?",
+    "resposta": "Água quente de indústrias reduz o oxigênio em rios, afastando peixes e prejudicando pescadores artesanais. No Brasil, isso afeta comunidades ribeirinhas. Criticamente, regulamentações de descarte térmico são necessárias. Sabia que a poluição térmica pode reduzir em 30% a captura de peixes em rios?",
+    "palavras_chave": ["poluição térmica", "pesca artesanal", "oxigênio", "ribeirinhas", "regulamentações"]
+  },
+  {
+    "pergunta": "Por que a poluição visual é subestimada?",
+    "resposta": "A poluição visual, como outdoors excessivos, é vista como menos grave, mas afeta o bem-estar e a estética urbana. Em cidades como Porto Alegre, isso desvaloriza espaços públicos. Criticamente, leis de ordenamento visual são raras. Sabia que ambientes visualmente poluídos reduzem a produtividade em escritórios?",
+    "palavras_chave": ["poluição visual", "bem-estar", "estética urbana", "outdoors", "ordenamento"]
+  },
+  {
+    "pergunta": "Como a poluição atmosférica afeta a camada de ozônio?",
+    "resposta": "A poluição atmosférica, especialmente por gases como os CFCs, usados em aerossóis, destrói a camada de ozônio, que protege a Terra dos raios UV. Isso aumenta casos de câncer de pele. O Protocolo de Montreal, de 1987, reduziu o uso de CFCs. Criticamente, a recuperação da camada é lenta. Sabia que o buraco na camada de ozônio sobre a Antártida está diminuindo, mas ainda existe?",
+    "palavras_chave": ["poluição atmosférica", "camada de ozônio", "CFCs", "raios UV", "protocolo de montreal"]
+  },
+  {
+    "pergunta": "O que é poluição por esgoto industrial?",
+    "resposta": "Esgoto industrial, com produtos químicos e metais pesados, contamina rios e mares, prejudicando ecossistemas e a saúde humana. No Brasil, o Rio Doce sofreu com isso após o desastre de Mariana, em 2015. Criticamente, a fiscalização de indústrias precisa melhorar. Sabia que o desastre de Mariana liberou 60 milhões de metros cúbicos de rejeitos tóxicos?",
+    "palavras_chave": ["esgoto industrial", "poluição hídrica", "rio doce", "rejeitos tóxicos", "fiscalização"]
+  },
+  {
+    "pergunta": "Como a poluição do solo afeta ecossistemas subterrâneos?",
+    "resposta": "Resíduos químicos, como agrotóxicos, matam microrganismos e minhocas, essenciais para a fertilidade do solo. Isso desequilibra ecossistemas subterrâneos. No Brasil, solos agrícolas sofrem com isso. Criticamente, práticas sustentáveis, como compostagem, ajudam a recuperar. Sabia que um solo saudável pode conter até 1 bilhão de microrganismos por grama?",
+    "palavras_chave": ["poluição do solo", "ecossistemas subterrâneos", "agrotóxicos", "microrganismos", "compostagem"]
+  },
+  {
+    "pergunta": "Por que a poluição sonora afeta idosos?",
+    "resposta": "Ruídos urbanos, como de tráfego ou bares, aumentam o estresse e problemas auditivos em idosos, que são mais sensíveis. Em cidades como Fortaleza, isso é comum. Criticamente, falta políticas de controle de ruído em áreas residenciais. Sabia que idosos expostos a poluição sonora têm maior risco de hipertensão?",
+    "palavras_chave": ["poluição sonora", "idosos", "estresse", "hipertensão", "controle de ruído"]
+  },
+  {
+    "pergunta": "Como a poluição térmica afeta manguezais?",
+    "resposta": "Água quente de indústrias eleva a temperatura de manguezais, afetando caranguejos e peixes que dependem de condições estáveis. No Brasil, manguezais do Nordeste sofrem com isso. Criticamente, proteger manguezais exige regular descargas térmicas. Sabia que manguezais absorvem até 5 vezes mais carbono que florestas terrestres?",
+    "palavras_chave": ["poluição térmica", "manguezais", "biodiversidade", "descargas térmicas", "carbono"]
+  },
+  {
+    "pergunta": "O que é poluição por lixo doméstico?",
+    "resposta": "Lixo doméstico, como restos de comida e plásticos, polui solos e águas quando descartado incorretamente. No Brasil, lixões a céu aberto agravam o problema. Criticamente, a reciclagem e a educação ambiental são soluções urgentes. Sabia que o Brasil recicla apenas 4% do seu lixo doméstico?",
+    "palavras_chave": ["lixo doméstico", "poluição", "reciclagem", "lixões", "educação ambiental"]
+  },
+  {
+    "pergunta": "Como a poluição luminosa afeta a agricultura?",
+    "resposta": "Luzes artificiais à noite atrapalham o ciclo de crescimento de plantas, que dependem de períodos de escuridão. Culturas como tomate podem ser afetadas. Criticamente, fazendas urbanas precisam de controle de luz. Sabia que a poluição luminosa pode reduzir a polinização noturna por insetos?",
+    "palavras_chave": ["poluição luminosa", "agricultura", "crescimento de plantas", "polinização", "luzes artificiais"]
+  },
+  {
+    "pergunta": "Por que os microplásticos são encontrados em alimentos?",
+    "resposta": "Microplásticos entram na cadeia alimentar quando peixes e outros animais os ingerem, chegando aos humanos via frutos do mar ou água. Criticamente, precisamos reduzir plásticos descartáveis e melhorar filtros de água. No Brasil, isso é um desafio. Sabia que uma pessoa ingere, em média, 5 gramas de microplásticos por semana?",
+    "palavras_chave": ["microplásticos", "cadeia alimentar", "frutos do mar", "plásticos descartáveis", "filtros"]
+  },
+  {
+    "pergunta": "Como a poluição atmosférica afeta a chuva?",
+    "resposta": "Poluentes como óxidos de enxofre formam chuva ácida, que altera o pH de solos e águas, prejudicando plantações e ecossistemas. Na Amazônia, isso é agravado por queimadas. Criticamente, reduzir emissões é essencial. Sabia que a chuva ácida pode corroer até 1 mm de estátuas de mármore por ano?",
+    "palavras_chave": ["poluição atmosférica", "chuva ácida", "pH", "queimadas", "emissões"]
+  },
+  {
+    "pergunta": "O que é poluição por resíduos agrícolas?",
+    "resposta": "Resíduos agrícolas, como sobras de colheita ou agrotóxicos, poluem solos e rios, afetando a biodiversidade. No Brasil, o Cerrado sofre com isso. Criticamente, práticas como rotação de culturas ajudam a reduzir o impacto. Sabia que resíduos agrícolas podem atrair pragas, piorando a poluição?",
+    "palavras_chave": ["resíduos agrícolas", "poluição", "biodiversidade", "cerrado", "rotação de culturas"]
+  },
+  {
+    "pergunta": "Como a poluição hídrica afeta a água potável?",
+    "resposta": "Contaminantes como esgoto e produtos químicos tornam a água imprópria para consumo, exigindo tratamentos caros. No Brasil, rios como o Iguaçu enfrentam esse problema. Criticamente, investir em saneamento é crucial. Sabia que 2,2 bilhões de pessoas no mundo não têm acesso a água potável segura?",
+    "palavras_chave": ["poluição hídrica", "água potável", "saneamento", "rio iguaçu", "tratamento"]
+  },
+  {
+    "pergunta": "Por que a poluição sonora afeta a reprodução animal?",
+    "resposta": "Ruídos de atividades humanas, como tráfego ou mineração, atrapalham a comunicação de animais, como sapos e pássaros, reduzindo sua reprodução. Criticamente, áreas protegidas com menos ruído são raras. Sabia que o barulho pode fazer baleias abandonarem áreas de reprodução?",
+    "palavras_chave": ["poluição sonora", "reprodução animal", "comunicação", "áreas protegidas", "baleias"]
+  },
+  {
+    "pergunta": "Como a poluição do solo afeta a qualidade do ar?",
+    "resposta": "Solos contaminados por químicos voláteis, como agrotóxicos, liberam vapores tóxicos, poluindo o ar. Isso é comum em áreas agrícolas intensivas. Criticamente, a remediação do solo é essencial para reduzir esse impacto. Sabia que solos poluídos podem liberar gases que agravam o efeito estufa?",
+    "palavras_chave": ["poluição do solo", "qualidade do ar", "agrotóxicos", "vapores tóxicos", "remediação"]
+  },
+  {
+    "pergunta": "O que é poluição por resíduos de mineração?",
+    "resposta": "Resíduos de mineração, como rejeitos com metais pesados, poluem rios e solos, causando danos ambientais graves. O rompimento da barragem de Brumadinho, em 2019, é um exemplo. Critically, a fiscalização de mineradoras precisa melhorar. Sabia que o desastre de Brumadinho contaminou 270 km do Rio Paraopeba?",
+    "palavras_chave": ["resíduos de mineração", "poluição", "brumadinho", "metais pesados", "fiscalização"]
+  },
+  {
+    "pergunta": "Como a poluição térmica afeta rios tropicais?",
+    "resposta": "Água quente de indústrias eleva a temperatura de rios tropicais, como os da Amazônia, reduzindo oxigênio e matando peixes adaptados a climas quentes. Criticamente, regulamentações de descarte térmico são raras. Sabia que rios tropicais são mais sensíveis à poluição térmica do que os temperados?",
+    "palavras_chave": ["poluição térmica", "rios tropicais", "oxigênio", "amazônia", "regulamentações"]
+  },
+  {
+    "pergunta": "Por que a poluição visual afeta o comércio local?",
+    "resposta": "Ambientes visualmente poluídos, com muitos outdoors, afastam clientes de lojas e restaurantes, que preferem áreas mais agradáveis. Em Recife, isso impacta o comércio. Critically, leis de ordenamento visual podem atrair mais consumidores. Sabia que lojas em áreas limpas visualmente vendem até 15% mais?",
+    "palavras_chave": ["poluição visual", "comércio local", "outdoors", "ordenamento visual", "recife"]
+  },
+  {
+    "pergunta": "Como a poluição luminosa afeta répteis?",
+    "resposta": "Luzes artificiais desorientam répteis noturnos, como lagartos e cobras, afetando sua caça e reprodução. No Brasil, isso ocorre em áreas urbanas próximas a florestas. Critically, reduzir iluminação noturna ajuda a proteger répteis. Sabia que répteis podem mudar seus hábitos noturnos por causa de luzes artificiais?",
+    "palavras_chave": ["poluição luminosa", "répteis", "reprodução", "luzes artificiais", "florestas"]
+  },
+  {
+    "pergunta": "O que é poluição por produtos farmacêuticos?",
+    "resposta": "Medicamentos descartados incorretamente, como antibióticos, poluem rios e solos, afetando a vida aquática e causando resistência bacteriana. No Brasil, isso é um problema crescente. Critically, a coleta de remédios vencidos precisa ser ampliada. Sabia que traços de antidepressivos foram encontrados em peixes de rios urbanos?",
+    "palavras_chave": ["produtos farmacêuticos", "poluição", "resistencia bacteriana", "rios", "coelta de remédios"]
+  },
+  {
+    "pergunta": "Como a poluição atmosférica afeta a visibilidade?",
+    "resposta": "Poluentes como fumaça e partículas finas criam neblina, reduzindo a visibilidade em cidades como Pequim. Isso afeta o tráfego e a segurança. Critically, reduzir emissões melhora a visibilidade urbana. Sabia que a poluição do ar pode reduzir a visibilidade a menos de 1 km em dias críticos?",
+    "palavras_chave": ["poluição atmosférica", "visibilidade", "partículas finas", "tráfego", "emissões"]
+  },
+  {
+    "pergunta": "Por que a poluição hídrica afeta comunidades ribeirinhas?",
+    "resposta": "Rios poluídos por esgoto ou químicos prejudicam comunidades ribeirinhas, que dependem da água para pesca e consumo. Na Amazônia, isso é comum. Critically, saneamento básico é essencial para essas populações. Sabia que comunidades ribeirinhas podem perder 50% de sua renda devido à poluição hídrica?",
+    "palavras_chave": ["poluição hídrica", "comunidades ribeirinhas", "saneamento", "pesca", "amazônia"]
+  },
+  {
+    "pergunta": "Como a poluição sonora afeta a produtividade no trabalho?",
+    "resposta": "Ruídos de escritórios ou ruas reduzem a concentração, aumentando erros e estresse no trabalho. Em São Paulo, isso é um desafio. Critically, ambientes com isolamento acústico melhoram a produtividade. Sabia que a poluição sonora pode reduzir a produtividade em até 10% em escritórios?",
+    "palavras_chave": ["poluição sonora", "produtividade", "estresse", "isolamento acústico", "escritórios"]
+  },
+  {
+    "pergunta": "O que é poluição por partículas de poeira?",
+    "resposta": "Partículas de poeira, vindas de construções ou desertificação, poluem o ar, causando problemas respiratórios. No Brasil, o desmatamento agrava isso. Critically, revegetação e controle de obras são soluções. Sabia que a poeira do Saara pode viajar até a Amazônia, afetando o clima?",
+    "palavras_chave": ["partículas de poeira", "poluição atmosférica", "desmatamento", "revegetação", "saara"]
+  },
+  {
+    "pergunta": "Como a poluição do solo afeta a arborização urbana?",
+    "resposta": "Solos contaminados por resíduos ou químicos dificultam o crescimento de árvores, reduzindo áreas verdes em cidades. Em Belo Horizonte, isso é um desafio. Critically, a descontaminação do solo é essencial para arborização. Sabia que solos poluídos podem matar árvores em até 2 anos?",
+    "palavras_chave": ["poluição do solo", "arborização urbana", "resíduos", "descontaminação", "áreas verdes"]
+  },
+  {
+    "pergunta": "Por que a poluição térmica afeta a aquicultura?",
+    "resposta": "Água quente de indústrias prejudica a criação de peixes em aquicultura, reduzindo oxigênio e crescimento. No Brasil, isso afeta viveiros no Nordeste. Critically, sistemas de resfriamento são necessários. Sabia que a poluição térmica pode reduzir em 40% a produção de aquicultura?",
+    "palavras_chave": ["poluição térmica", "aquicultura", "oxigênio", "nordeste", "resfriamento"]
+  },
+  {
+    "pergunta": "Como a poluição visual afeta o patrimônio histórico?",
+    "resposta": "Outdoors e construções desordenadas escondem a beleza de patrimônios históricos, como em Salvador, onde o Pelourinho sofre com isso. Critically, leis de preservação visual são essenciais. Sabia que sítios históricos com menos poluição visual atraem mais turistas culturais?",
+    "palavras_chave": ["poluição visual", "patrimônio histórico", "pelourinho", "preservação", "turismo"]
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "O que faz o maestro em uma orquestra sinfônica?",
+    "resposta": "O maestro é como o coração da orquestra, guiando os músicos para que toquem em harmonia. Ele usa gestos precisos com as mãos ou uma batuta para marcar o tempo, indicar a dinâmica e dar entradas aos instrumentos. Mais do que um 'regente', ele interpreta a partitura, decidindo o tom emocional da música. Por exemplo, na Nona Sinfonia de Beethoven, o maestro pode enfatizar a intensidade dos crescendos ou suavizar passagens líricas. É uma liderança que exige técnica e sensibilidade. Sabia que grandes maestros, como Leonard Bernstein, eram tão expressivos que pareciam dançar enquanto regiam?",
+    "palavras_chave": ["maestro", "orquestra", "regência", "partitura", "dinâmica"]
+  },
+  {
+    "pergunta": "Qual é o papel do violino na orquestra sinfônica?",
+    "resposta": "O violino é a estrela melódica da orquestra, quase sempre carregando as linhas principais da música. Divididos em primeiros e segundos violinos, eles criam texturas ricas, com os primeiros tocando as melodias principais e os segundos fazendo harmonias ou contramelodias. Em obras como as sinfonias de Tchaikovsky, os violinos brilham em solos ou passagens virtuosísticas. A crítica muitas vezes aponta que a qualidade dos violinos define o 'som' da orquestra. Sabia que o spalla, o primeiro violinista, é considerado o braço direito do maestro?",
+    "palavras_chave": ["violino", "melodia", "orquestra", "spalla", "harmonia"]
+  },
+  {
+    "pergunta": "Como a harpa é usada em uma orquestra sinfônica?",
+    "resposta": "A harpa adiciona um toque de magia à orquestra, com seu som etéreo e delicado. Ela não toca o tempo todo, mas entra em momentos específicos para criar texturas ou destacar passagens líricas, como nas obras de Debussy, que evocam paisagens sonoras. Suas cordas são pinçadas, produzindo arpejos ou glissandos que parecem cascata. Apesar de ser um instrumento solista, na orquestra, ela exige precisão para se integrar. Sabia que a harpa moderna tem 47 cordas e pedais para mudar a afinação em tempo real?",
+    "palavras_chave": ["harpa", "orquestra", "glissando", "textura", "debussy"]
+  },
+  {
+    "pergunta": "Por que o contrabaixo é tão importante na orquestra?",
+    "resposta": "O contrabaixo é a base sonora da orquestra, fornecendo o fundamento grave que sustenta as harmonias. Ele dá peso e profundidade, como na abertura de 'Also Sprach Zarathustra' de Strauss, onde os contrabaixos criam uma tensão épica. Apesar de raramente terem solos, são essenciais para o equilíbrio sonoro. A crítica às vezes subestima sua presença, mas sem eles, a orquestra soa vazia. Sabia que os contrabaixos são os maiores instrumentos de corda, podendo chegar a quase 2 metros de altura?",
+    "palavras_chave": ["contrabaixo", "harmonia", "orquestra", "graves", "strauss"]
+  },
+  {
+    "pergunta": "O que diferencia uma flauta de um flautim na orquestra?",
+    "resposta": "A flauta e o flautim são instrumentos de sopro madeira, mas têm papéis bem distintos. A flauta tem um som doce e versátil, usada em melodias suaves ou passagens rápidas, como no 'Bolero' de Ravel. O flautim, menor, produz um som agudo e penetrante, ideal para destacar momentos dramáticos ou criar efeitos brilhantes, como em marchas de Sousa. A flauta é mais melódica, o flautim mais incisivo. Sabia que o flautim é o menor instrumento da orquestra, com apenas 33 cm?",
+    "palavras_chave": ["flauta", "flautim", "sopro madeira", "melodia", "ravel"]
+  },
+  {
+    "pergunta": "Como o oboé contribui para o som da orquestra?",
+    "resposta": "O oboé tem um timbre nasal e expressivo que dá um colorido único à orquestra. Ele é usado para solos melancólicos ou para reforçar texturas, como no 'Concerto para Orquestra' de Bartók. Antes dos concertos, o oboé toca a nota lá para afinar toda a orquestra, por causa de sua clareza sonora. Alguns críticos dizem que seu som é tão marcante que pode ‘cortar’ a orquestra. Sabia que o oboé usa uma palheta dupla, feita de cana, que exige muita habilidade para tocar?",
+    "palavras_chave": ["oboé", "timbre", "afinação", "palheta dupla", "bartók"]
+  },
+  {
+    "pergunta": "Qual é a função do tímpano na orquestra sinfônica?",
+    "resposta": "O tímpano é o rei da percussão sinfônica, trazendo impacto e dramaticidade. Ele cria momentos de tensão ou clímax, como nas sinfonias de Mahler, onde seus golpes ressoam como trovões. Afináveis, os tímpanos permitem variações de tom, o que os torna versáteis. Críticos destacam que um bom timpanista pode transformar a energia de uma peça. Sabia que tímpanos modernos têm pedais para ajustar a afinação durante a performance?",
+    "palavras_chave": ["tímpano", "percussão", "afinação", "dramaticidade", "mahler"]
+  },
+  {
+    "pergunta": "O que é um naipe na orquestra sinfônica?",
+    "resposta": "Um naipe é um grupo de músicos que tocam o mesmo instrumento, como os violinos ou os trompetes. Cada naipe tem uma função específica, seja liderando melodias, como os primeiros violinos, ou reforçando harmonias, como os violoncelos. Em peças como 'O Pássaro de Fogo' de Stravinsky, os naipes trabalham juntos para criar camadas sonoras. A crítica valoriza a coesão de um naipe bem ensaiado. Sabia que o tamanho dos naipes varia conforme o estilo da música, sendo maior em obras românticas?",
+    "palavras_chave": ["naipe", "orquestra", "harmonia", "melodia", "stravinsky"]
+  },
+  {
+    "pergunta": "Por que o clarinete é tão versátil na orquestra?",
+    "resposta": "O clarinete é um camaleão sonoro, capaz de soar suave, brilhante ou até jazzístico. Na orquestra, ele transita entre melodias líricas, como em Mozart, e passagens virtuosísticas, como em Copland. Sua palheta única permite uma gama ampla de dinâmicas e timbres. Críticos adoram sua capacidade de se misturar ou destacar. Sabia que o clarinete moderno evoluiu no século XVIII, inspirado por instrumentos populares como o chalumeau?",
+    "palavras_chave": ["clarinete", "versatilidade", "timbre", "palheta", "mozart"]
+  },
+  {
+    "pergunta": "Como o trombone adiciona dramaticidade à orquestra?",
+    "resposta": "O trombone traz um som poderoso e grave que eleva momentos dramáticos na orquestra. Com sua vara deslizante, ele cria glissandos únicos ou notas sustentadas, como nas sinfonias de Bruckner. É comum em passagens épicas ou sombrias, reforçando a intensidade. Críticos notam que o trombone pode soar tanto majestoso quanto ameaçador. Sabia que o trombone é um dos poucos instrumentos que não mudou desde o Renascimento?",
+    "palavras_chave": ["trombone", "dramaticidade", "glissando", "graves", "bruckner"]
+  },
+  {
+    "pergunta": "Qual é o papel do fagote na orquestra sinfônica?",
+    "resposta": "O fagote é como o narrador grave da orquestra, com um timbre rico e um pouco melancólico. Ele pode fazer solos expressivos, como no ‘Rito da Primavera’ de Stravinsky, ou reforçar a base harmônica com os contrabaixos. Sua palheta dupla dá um som único, que críticos descrevem como ‘quente’. Sabia que o fagote é tão complexo que leva anos para dominar sua embocadura?",
+    "palavras_chave": ["fagote", "timbre", "palheta dupla", "harmonia", "stravinsky"]
+  },
+  {
+    "pergunta": "O que é a tuba na orquestra sinfônica?",
+    "resposta": "A tuba é o gigante dos metais, fornecendo os sons mais graves e robustos da orquestra. Ela sustenta as harmonias e adiciona peso, como nas passagens bombásticas de Wagner. Apesar de seu tamanho, pode ser surpreendentemente sutil em momentos líricos. Críticos destacam sua importância para o equilíbrio sonoro. Sabia que a tuba moderna foi inventada no século XIX para substituir o oficleide?",
+    "palavras_chave": ["tuba", "metais", "graves", "harmonia", "wagner"]
+  },
+  {
+    "pergunta": "Como o violoncelo enriquece a orquestra?",
+    "resposta": "O violoncelo é o alma emocional da orquestra, com seu som quente e expressivo. Ele faz melodias cantantes, como no ‘Concerto para Violoncelo’ de Dvořák, ou reforça harmonias junto aos contrabaixos. Sua versatilidade permite tanto solos líricos quanto passagens robustas. Críticos o veem como o ‘coração’ das cordas. Sabia que o violoncelo é tocado entre as pernas, o que dá maior controle sobre o arco?",
+    "palavras_chave": ["violoncelo", "melodia", "harmonia", "cordas", "dvořák"]
+  },
+  {
+    "pergunta": "Por que a trompa é tão desafiadora de tocar?",
+    "resposta": "A trompa é famosa por sua dificuldade técnica, exigindo controle preciso da embocadura e do fôlego. Seu som é quente e heroico, usado em momentos épicos, como nas sinfonias de Brahms. A trompa pode soar suave ou estrondosa, mas pequenas variações na embocadura podem desafinar. Críticos elogiam sua capacidade de evocar emoção. Sabia que a trompa moderna tem válvulas que permitem maior precisão nas notas?",
+    "palavras_chave": ["trompa", "embocadura", "metais", "precisão", "brahms"]
+  },
+  {
+    "pergunta": "O que é o xilofone e como ele aparece na orquestra?",
+    "resposta": "O xilofone é um instrumento de percussão com lâminas de madeira que produz um som brilhante e nítido. Na orquestra, ele é usado para efeitos rítmicos ou coloridos, como em ‘Dança Macabra’ de Saint-Saëns, onde imita ossos. Sua precisão rítmica é essencial, e críticos o veem como um toque de vivacidade. Sabia que o xilofone tem origens em tradições musicais africanas e asiáticas?",
+    "palavras_chave": ["xilofone", "percussão", "ritmo", "timbre", "saint-saëns"]
+  },
+  {
+    "pergunta": "Como a viola difere do violino na orquestra?",
+    "resposta": "A viola é um pouco maior que o violino e tem um som mais grave e aveludado. Na orquestra, ela faz harmonias ricas ou contramelodias, complementando os violinos. Em peças como ‘Haroldo na Itália’ de Berlioz, a viola brilha em solos. Críticos a veem como a ‘voz média’ das cordas. Sabia que a viola é muitas vezes subestimada, mas essencial para a textura orquestral?",
+    "palavras_chave": ["viola", "harmonia", "cordas", "contramelodia", "berlioz"]
+  },
+  {
+    "pergunta": "Qual é o impacto do prato na orquestra sinfônica?",
+    "resposta": "Os pratos são instrumentos de percussão que criam momentos de impacto, como explosões sonoras em clímaxes orquestrais. Usados em pares ou suspensos, eles aparecem em peças como a ‘Quinta Sinfonia’ de Tchaikovsky para reforçar a dramaticidade. Críticos destacam sua capacidade de chamar atenção. Sabia que o som dos pratos pode variar muito dependendo de como são tocados, com baqueta ou entre si?",
+    "palavras_chave": ["pratos", "percussão", "clímax", "dramaticidade", "tchaikovsky"]
+  },
+  {
+    "pergunta": "O que é a celesta e quando ela é usada?",
+    "resposta": "A celesta é um teclado de percussão que soa como sinos delicados, trazendo um toque mágico à orquestra. Ela é usada em passagens etéreas, como na ‘Dança da Fada Açucarada’ de Tchaikovsky. Seu som cristalino destaca momentos especiais, e críticos a veem como um ‘brilho’ orquestral. Sabia que a celesta foi inventada no século XIX e logo adotada por compositores românticos?",
+    "palavras_chave": ["celesta", "percussão", "timbre", "tchaikovsky", "etérea"]
+  },
+  {
+    "pergunta": "Como o trompete se destaca na orquestra?",
+    "resposta": "O trompete é um dos instrumentos mais brilhantes da orquestra, usado para fanfarras ou solos heroicos, como em ‘Aida’ de Verdi. Seu som claro e penetrante corta através da orquestra, trazendo energia. Críticos notam que ele pode soar majestoso ou até agressivo. Sabia que trompetes modernos têm pistões que permitem maior agilidade nas notas?",
+    "palavras_chave": ["trompete", "metais", "fanfarra", "timbre", "verdi"]
+  },
+  {
+    "pergunta": "Por que o triângulo é importante na orquestra?",
+    "resposta": "O triângulo, apesar de pequeno, adiciona brilho e acentos rítmicos à orquestra. Seu som agudo e metálico destaca momentos específicos, como em ‘O Lago dos Cisnes’ de Tchaikovsky. Críticos o veem como um detalhe que enriquece a textura. Sabia que o triângulo é tocado com uma baqueta de metal e pode variar de som dependendo do tamanho?",
+    "palavras_chave": ["triângulo", "percussão", "ritmo", "textura", "tchaikovsky"]
+  },
+  {
+    "pergunta": "O que é um corne inglês e como ele é usado?",
+    "resposta": "O corne inglês é um parente do oboé, com um som mais grave e melancólico. Ele é usado em solos expressivos, como no ‘Novo Mundo’ de Dvořák, onde evoca nostalgia. Sua palheta dupla exige muita técnica, e críticos o elogiam por sua emoção única. Sabia que, apesar do nome, o corne inglês não é um chifre nem vem da Inglaterra?",
+    "palavras_chave": ["corne inglês", "sopro madeira", "melancolia", "palheta", "dvořák"]
+  },
+  {
+    "pergunta": "Como o piano é integrado à orquestra sinfônica?",
+    "resposta": "O piano na orquestra pode atuar como solista, como em concertos de Rachmaninoff, ou como parte do conjunto, adicionando texturas rítmicas e harmônicas. Seu som versátil se mistura bem com outros instrumentos. Críticos destacam sua capacidade de dialogar com a orquestra. Sabia que o piano é considerado tanto um instrumento de corda quanto de percussão?",
+    "palavras_chave": ["piano", "orquestra", "concerto", "textura", "rachmaninoff"]
+  },
+  {
+    "pergunta": "O que é a caixa clara na orquestra?",
+    "resposta": "A caixa clara é um tambor de percussão que produz um som seco e rítmico, usado para marcar pulsações ou criar efeitos marciais, como no ‘Bolero’ de Ravel. Sua esteira de metal dá um timbre característico. Críticos a veem como essencial para dinamismo rítmico. Sabia que a caixa clara é usada tanto em orquestras quanto em bandas militares?",
+    "palavras_chave": ["caixa clara", "percussão", "ritmo", "timbre", "ravel"]
+  },
+  {
+    "pergunta": "Como o contrafagote expande o som da orquestra?",
+    "resposta": "O contrafagote é o instrumento mais grave dos sopros madeira, com um som profundo e ressonante. Ele reforça as linhas de baixo, como nas sinfonias de Shostakovich, e pode criar efeitos sombrios. Críticos o descrevem como uma ‘voz subterrânea’. Sabia que o contrafagote é tão grande que precisa de um tubo curvado para ser tocado?",
+    "palavras_chave": ["contrafagote", "sopro madeira", "graves", "timbre", "shostakovich"]
+  },
+  {
+    "pergunta": "Por que a orquestra sinfônica é dividida em famílias de instrumentos?",
+    "resposta": "A orquestra é dividida em cordas, sopros madeira, sopros metal e percussão para organizar os timbres e funções musicais. Cada família tem um papel: cordas para melodias, metais para brilho, madeiras para colorido e percussão para ritmo. Em ‘Rapsódia em Blue’ de Gershwin, essa divisão cria um diálogo vibrante. Críticos dizem que a divisão reflete a evolução da música ocidental. Sabia que essa estrutura se consolidou no período clássico, no século XVIII?",
+    "palavras_chave": ["orquestra", "famílias", "timbres", "harmonia", "gershwin"]
+  },
+  {
+    "pergunta": "Como o bumbo contribui para a orquestra sinfônica?",
+    "resposta": "O bumbo é como o pulsar da orquestra, trazendo peso e intensidade aos momentos de clímax. Ele é usado para reforçar ritmos ou criar impacto, como nas sinfonias de Beethoven, onde seus golpes profundos dão uma sensação de força. Não é só barulho; o bumbo exige precisão para não sobrecarregar o som. Críticos destacam que ele pode transformar a energia de uma peça. Sabia que o bumbo pode ser tocado com diferentes baquetas para variar o timbre?",
+    "palavras_chave": ["bumbo", "percussão", "ritmo", "clímax", "beethoven"]
+  },
+  {
+    "pergunta": "O que diferencia a trompa alpina na orquestra?",
+    "resposta": "A trompa alpina, ou alpenhorn, é rara em orquestras, mas quando aparece, traz um som longo e ressonante, evocando paisagens montanhosas. Usada em peças como a ‘Sinfonia Alpina’ de Strauss, ela cria uma atmosfera épica. Sua falta de válvulas exige grande controle do músico. Críticos a veem como um toque exótico. Sabia que a trompa alpina é tradicionalmente feita de madeira e pode ter até 3 metros de comprimento?",
+    "palavras_chave": ["trompa alpina", "timbre", "orquestra", "strauss", "exótico"]
+  },
+  {
+    "pergunta": "Por que o saxofone é raro em orquestras sinfônicas?",
+    "resposta": "O saxofone, apesar de seu som versátil, é pouco comum em orquestras porque foi inventado no século XIX, quando a orquestra clássica já estava consolidada. Ele aparece em peças modernas, como ‘Rapsódia em Blue’ de Gershwin, trazendo um toque jazzístico. Críticos notam que ele adiciona um colorido único, mas pode desequilibrar o som tradicional. Sabia que o saxofone foi criado por Adolphe Sax para ser um elo entre sopros madeira e metais?",
+    "palavras_chave": ["saxofone", "orquestra", "jazz", "timbre", "gershwin"]
+  },
+  {
+    "pergunta": "Como a marimba é usada na orquestra?",
+    "resposta": "A marimba, com suas lâminas de madeira, produz um som quente e ressonante, usado para enriquecer texturas rítmicas ou melódicas. Em obras modernas, como as de Bernstein, ela adiciona um toque vibrante. Diferente do xilofone, seu som é mais suave e profundo. Críticos a veem como um sopro de modernidade. Sabia que a marimba tem origens em tradições africanas e mesoamericanas?",
+    "palavras_chave": ["marimba", "percussão", "timbre", "ritmo", "bernstein"]
+  },
+  {
+    "pergunta": "O que é o carrilhão na orquestra sinfônica?",
+    "resposta": "O carrilhão é um conjunto de sinos afinados, tocado com baquetas ou pedais, que adiciona um som cristalino à orquestra. Usado em peças como ‘Os Planetas’ de Holst, ele cria atmosferas celestiais ou solenes. Sua presença é sutil, mas marcante. Críticos elogiam sua capacidade de evocar imagens. Sabia que o carrilhão pode ter até 50 sinos, cada um afinado para uma nota específica?",
+    "palavras_chave": ["carrilhão", "percussão", "sinos", "timbre", "holst"]
+  },
+  {
+    "pergunta": "Como o líder do naipe de cordas organiza o grupo?",
+    "resposta": "O líder do naipe de cordas, geralmente o spalla dos violinos, coordena a afinação, o fraseado e a dinâmica do grupo. Ele se comunica com o maestro e orienta os músicos, como em ‘As Quatro Estações’ de Vivaldi, onde a precisão das cordas é crucial. Críticos destacam que um bom líder eleva a coesão do naipe. Sabia que o spalla às vezes faz solos, como um mini-concerto dentro da orquestra?",
+    "palavras_chave": ["spalla", "cordas", "liderança", "afinação", "vivaldi"]
+  },
+  {
+    "pergunta": "Por que o flautim é tão agudo?",
+    "resposta": "O flautim é agudo porque é o menor dos sopros madeira, com um tubo curto que vibra em frequências altas. Ele brilha em passagens enérgicas, como em marchas de Sousa, onde seu som corta a orquestra. Críticos dizem que ele adiciona um brilho quase estridente. Sabia que o flautim exige tanto fôlego que os músicos precisam de pausas frequentes?",
+    "palavras_chave": ["flautim", "sopro madeira", "agudo", "timbre", "sousa"]
+  },
+  {
+    "pergunta": "O que é um glockenspiel na orquestra?",
+    "resposta": "O glockenspiel é um instrumento de percussão com lâminas de metal que produzem um som brilhante e prateado. Ele aparece em peças como ‘A Flauta Mágica’ de Mozart, adicionando um toque de encanto. Seu som é mais agudo que o da marimba, perfeito para efeitos sutis. Críticos o veem como um ‘brilho metálico’. Sabia que o glockenspiel é usado em bandas militares além de orquestras?",
+    "palavras_chave": ["glockenspiel", "percussão", "timbre", "brilho", "mozart"]
+  },
+  {
+    "pergunta": "Como o contrabaixo de corda se diferencia do elétrico?",
+    "resposta": "O contrabaixo de corda, usado na orquestra, é acústico e produz um som grave e ressonante, ideal para sustentar harmonias, como em ‘Sinfonia Fantástica’ de Berlioz. O elétrico, mais comum em jazz ou pop, tem um som amplificado e menos orgânico. Críticos destacam que o acústico dá profundidade única à orquestra. Sabia que o contrabaixo de corda é afinado em quartas, diferente do violino?",
+    "palavras_chave": ["contrabaixo", "cordas", "harmonia", "acústico", "berlioz"]
+  },
+  {
+    "pergunta": "Por que o clarinete baixo é menos comum na orquestra?",
+    "resposta": "O clarinete baixo, com seu som grave e aveludado, é usado em orquestras para reforçar as linhas de baixo ou adicionar colorido, como em ‘Petrushka’ de Stravinsky. É menos comum porque muitas partituras clássicas não o exigem, mas sua presença enriquece obras modernas. Críticos o veem como um toque de sofisticação. Sabia que o clarinete baixo tem um tubo curvado para facilitar o manuseio?",
+    "palavras_chave": ["clarinete baixo", "sopro madeira", "graves", "timbre", "stravinsky"]
+  },
+  {
+    "pergunta": "Como a harpa cria efeitos de glissando?",
+    "resposta": "A harpa faz glissandos deslizando os dedos pelas cordas, criando um efeito de cascata sonora. Esse recurso é usado em peças como ‘O Lago dos Cisnes’ de Tchaikovsky para evocar magia ou fluidez. Os pedais da harpa permitem ajustar a afinação, facilitando glissandos em diferentes tonalidades. Críticos adoram seu efeito etéreo. Sabia que um glissando bem executado pode ter até 30 notas por segundo?",
+    "palavras_chave": ["harpa", "glissando", "efeito sonoro", "tchaikovsky", "pedais"]
+  },
+  {
+    "pergunta": "O que é o tímpano de pedal na orquestra?",
+    "resposta": "O tímpano de pedal é uma versão moderna do tímpano, equipada com um pedal que ajusta a afinação em tempo real. Isso permite ao timpanista mudar notas rapidamente, como em ‘Also Sprach Zarathustra’ de Strauss, onde transições dinâmicas são cruciais. Críticos destacam sua versatilidade. Sabia que o tímpano de pedal revolucionou a percussão no século XX?",
+    "palavras_chave": ["tímpano", "pedal", "afinação", "percussão", "strauss"]
+  },
+  {
+    "pergunta": "Como o trombone baixo difere do trombone tenor?",
+    "resposta": "O trombone baixo tem um tubo maior e um som mais grave que o trombone tenor, sendo ideal para reforçar as linhas de baixo, como em ‘Carmina Burana’ de Orff. O tenor é mais versátil, usado em solos ou harmonias. Críticos notam que o baixo dá profundidade dramática. Sabia que o trombone baixo é tão pesado que exige grande resistência física?",
+    "palavras_chave": ["trombone baixo", "graves", "metais", "dramaticidade", "orff"]
+  },
+  {
+    "pergunta": "Por que o oboé é usado para afinar a orquestra?",
+    "resposta": "O oboé toca a nota lá (440 Hz) antes do concerto porque seu timbre claro e estável é fácil de ser seguido pelos outros instrumentos. Isso garante que a orquestra esteja afinada, como em concertos de Bach. Críticos dizem que o oboé é o ‘termômetro’ da afinação. Sabia que essa tradição começou no século XVIII, quando o oboé era o instrumento mais confiável?",
+    "palavras_chave": ["oboé", "afinação", "timbre", "orquestra", "bach"]
+  },
+  {
+    "pergunta": "O que é o tam-tam na orquestra sinfônica?",
+    "resposta": "O tam-tam é um grande gongo de percussão que produz um som profundo e ressonante, usado para criar climas intensos ou misteriosos, como em ‘Réquiem’ de Verdi. Diferente dos pratos, seu som é mais prolongado. Críticos o veem como um ‘choque sonoro’. Sabia que o tam-tam pode ter mais de 1 metro de diâmetro?",
+    "palavras_chave": ["tam-tam", "percussão", "clímax", "timbre", "verdi"]
+  },
+  {
+    "pergunta": "Como a viola da gamba aparece em orquestras modernas?",
+    "resposta": "A viola da gamba, um instrumento barroco, é rara em orquestras sinfônicas modernas, mas aparece em performances de música antiga, como obras de Purcell. Seu som delicado contrasta com a viola moderna, trazendo autenticidade histórica. Críticos a veem como uma ponte com o passado. Sabia que a viola da gamba tem cordas de tripa, que dão um timbre mais suave?",
+    "palavras_chave": ["viola da gamba", "barroco", "cordas", "timbre", "purcell"]
+  },
+  {
+    "pergunta": "Por que o fagote é chamado de ‘palhaço da orquestra’?",
+    "resposta": "O fagote ganhou esse apelido por seu timbre versátil, que pode soar cômico ou sério. Em peças como ‘O Aprendiz de Feiticeiro’ de Dukas, ele faz passagens brincalhonas, imitando personagens. Críticos destacam sua expressividade única. Sabia que o fagote é um dos instrumentos mais difíceis de tocar devido à sua palheta dupla?",
+    "palavras_chave": ["fagote", "timbre", "expressividade", "palheta dupla", "dukas"]
+  },
+  {
+    "pergunta": "Como o órgão é integrado à orquestra sinfônica?",
+    "resposta": "O órgão, com seu som grandioso, é usado em orquestras para criar texturas ricas ou climas solenes, como na ‘Terceira Sinfonia’ de Saint-Saëns. Ele pode imitar outros instrumentos ou adicionar profundidade harmônica. Críticos o veem como um ‘gigante sonoro’. Sabia que o órgão sinfônico pode ter milhares de tubos, controlados por vários teclados?",
+    "palavras_chave": ["órgão", "orquestra", "harmonia", "timbre", "saint-saëns"]
+  },
+  {
+    "pergunta": "O que é o castanholas na orquestra?",
+    "resposta": "As castanholas são instrumentos de percussão que produzem um som seco e rítmico, usado para evocar atmosferas espanholas, como em ‘Carmen’ de Bizet. Tocadas em pares, elas exigem precisão rítmica. Críticos destacam seu papel em criar colorido cultural. Sabia que as castanholas são tradicionais em danças como o flamenco?",
+    "palavras_chave": ["castanholas", "percussão", "ritmo", "flamenco", "bizet"]
+  },
+  {
+    "pergunta": "Como o contrafagote reforça a base da orquestra?",
+    "resposta": "O contrafagote, com seu som grave e ressonante, atua como a fundação dos sopros madeira, reforçando harmonias profundas, como em ‘O Anel do Nibelungo’ de Wagner. Ele é essencial para passagens sombrias ou épicas. Críticos o veem como um ‘pilar sonoro’. Sabia que o contrafagote é dobrado em forma de U para facilitar o transporte?",
+    "palavras_chave": ["contrafagote", "graves", "sopro madeira", "harmonia", "wagner"]
+  },
+  {
+    "pergunta": "Por que o trombone é tão expressivo na orquestra?",
+    "resposta": "O trombone é expressivo por causa de sua vara deslizante, que permite glissandos suaves e variações dinâmicas. Em ‘Bolero’ de Ravel, ele cria passagens marcantes e dramáticas. Críticos elogiam sua capacidade de soar majestoso ou emotivo. Sabia que o trombone é um dos instrumentos mais antigos, usado desde a Idade Média?",
+    "palavras_chave": ["trombone", "expressividade", "glissando", "metais", "ravel"]
+  },
+  {
+    "pergunta": "Como o piano de cauda é usado em concertos sinfônicos?",
+    "resposta": "O piano de cauda é destaque em concertos para piano, como os de Chopin, onde atua como solista, dialogando com a orquestra. Ele combina virtuosismo melódico com harmonias ricas. Críticos o veem como um ‘parceiro’ da orquestra, não apenas um acompanhamento. Sabia que um piano de cauda pode ter mais de 12 mil peças móveis?",
+    "palavras_chave": ["piano", "concerto", "virtuosismo", "harmonia", "chopin"]
+  },
+  {
+    "pergunta": "O que é o chocalho na orquestra sinfônica?",
+    "resposta": "O chocalho é um instrumento de percussão que produz um som rítmico e vibrante, usado para acentos exóticos ou festivos, como em ‘Danças Eslavas’ de Dvořák. Ele adiciona textura rítmica e colorido. Críticos destacam seu papel em criar vivacidade. Sabia que o chocalho tem origens em instrumentos indígenas das Américas?",
+    "palavras_chave": ["chocalho", "percussão", "ritmo", "textura", "dvořák"]
+  },
+  {
+    "pergunta": "Como o clarinete contralto é utilizado na orquestra?",
+    "resposta": "O clarinete contralto, mais grave que o clarinete soprano, é raro, mas aparece em obras modernas, como as de Copland, para adicionar um timbre rico e profundo. Ele reforça harmonias ou faz solos melancólicos. Críticos o veem como um toque de modernidade. Sabia que o clarinete contralto é maior que o soprano, mas menor que o clarinete baixo?",
+    "palavras_chave": ["clarinete contralto", "sopro madeira", "timbre", "harmonia", "copland"]
+  },
+  {
+    "pergunta": "Por que a orquestra sinfônica é tão grande?",
+    "resposta": "A orquestra sinfônica é grande para criar uma gama ampla de timbres e dinâmicas, permitindo interpretar obras complexas, como as sinfonias de Mahler. Cada instrumento contribui para um som coletivo rico e equilibrado. Críticos destacam que o tamanho reflete a ambição dos compositores românticos. Sabia que uma orquestra sinfônica pode ter mais de 100 músicos em grandes obras?",
+    "palavras_chave": ["orquestra", "timbres", "dinâmica", "sinfonia", "mahler"]
+  },
+  {
+    "pergunta": "Como o corne inglês se diferencia do oboé?",
+    "resposta": "O corne inglês é como um primo mais grave do oboé, com um timbre mais quente e melancólico. Ele é usado em solos expressivos, como na ‘Sinfonia do Novo Mundo’ de Dvořák, onde evoca paisagens emotivas. Sua palheta dupla é maior, exigindo técnica apurada. Críticos destacam sua capacidade de criar atmosferas introspectivas. Sabia que o corne inglês é mais longo que o oboé, com cerca de 80 cm?",
+    "palavras_chave": ["corne inglês", "oboé", "timbre", "sopro madeira", "dvořák"]
+  },
+  {
+    "pergunta": "Qual é o papel do líder do naipe de sopros?",
+    "resposta": "O líder do naipe de sopros, como o primeiro oboísta ou flautista, coordena a afinação e a expressividade do grupo, garantindo unidade. Em obras como ‘Sagração da Primavera’ de Stravinsky, ele guia solos e passagens complexas. Críticos veem o líder como essencial para a coesão sonora. Sabia que o líder de sopros madeira muitas vezes toca solos destacados na partitura?",
+    "palavras_chave": ["líder", "sopro madeira", "coesão", "solo", "stravinsky"]
+  },
+  {
+    "pergunta": "Por que o tímpano é considerado versátil?",
+    "resposta": "O tímpano é versátil porque pode ser afinado para diferentes notas, permitindo variações de tom e expressão. Em ‘Sinfonia nº 5’ de Beethoven, ele cria desde batidas suaves até trovões dramáticos. Sua capacidade de mudar afinação rapidamente é crucial. Críticos o elogiam por sua potência expressiva. Sabia que um timpanista pode usar até quatro tímpanos em uma única peça?",
+    "palavras_chave": ["tímpano", "versatilidade", "afinação", "percussão", "beethoven"]
+  },
+  {
+    "pergunta": "Como o violino solo se destaca na orquestra?",
+    "resposta": "O violino solo, geralmente tocado pelo spalla, brilha em concertos ou passagens destacadas, como no ‘Concerto para Violino’ de Mendelssohn. Ele dialoga com a orquestra, trazendo virtuosismo e emoção. Críticos destacam sua liderança melódica entre as cordas. Sabia que o spalla muitas vezes usa um violino de luthier famoso, como um Stradivarius?",
+    "palavras_chave": ["violino solo", "spalla", "concerto", "melodia", "mendelssohn"]
+  },
+  {
+    "pergunta": "O que é o pandeiro na orquestra sinfônica?",
+    "resposta": "O pandeiro é um instrumento de percussão com pele esticada e guizos, usado para ritmos animados ou colorido cultural, como em ‘Capricho Espanhol’ de Rimsky-Korsakov. Seu som vibrante adiciona vivacidade. Críticos o veem como um toque de folclore. Sabia que o pandeiro é comum em músicas tradicionais, como o flamenco e o samba?",
+    "palavras_chave": ["pandeiro", "percussão", "ritmo", "folclore", "rimsky-korsakov"]
+  },
+  {
+    "pergunta": "Como a tuba wagneriana é usada na orquestra?",
+    "resposta": "A tuba wagneriana, criada por Richard Wagner, é um híbrido entre trompa e tuba, com um som grave e heroico. Usada em óperas como ‘O Anel do Nibelungo’, ela adiciona profundidade épica. Críticos destacam sua capacidade de evocar mitologia. Sabia que Wagner encomendou esse instrumento especificamente para suas óperas?",
+    "palavras_chave": ["tuba wagneriana", "metais", "ópera", "graves", "wagner"]
+  },
+  {
+    "pergunta": "Por que o clarinete é essencial em obras modernas?",
+    "resposta": "O clarinete brilha em obras modernas por sua versatilidade, transitando entre timbres suaves e intensos. Em ‘Rhapsody in Blue’ de Gershwin, ele abre com um glissando icônico, misturando clássico e jazz. Críticos elogiam sua adaptabilidade a novos estilos. Sabia que o clarinete pode tocar mais de três oitavas, uma das maiores extensões entre os sopros?",
+    "palavras_chave": ["clarinete", "versatilidade", "glissando", "jazz", "gershwin"]
+  },
+  {
+    "pergunta": "O que é o vibrafone na orquestra sinfônica?",
+    "resposta": "O vibrafone é um instrumento de percussão com lâminas de metal e um pedal que controla um efeito de vibrato, usado em peças modernas como ‘West Side Story’ de Bernstein. Seu som é suave e ressonante, ideal para texturas jazzísticas. Críticos o veem como um toque contemporâneo. Sabia que o vibrafone usa um motor para criar seu vibrato característico?",
+    "palavras_chave": ["vibrafone", "percussão", "vibrato", "jazz", "bernstein"]
+  },
+  {
+    "pergunta": "Como o violoncelo solo é usado na orquestra?",
+    "resposta": "O violoncelo solo destaca-se em concertos ou passagens melódicas, como no ‘Concerto para Violoncelo’ de Elgar, onde expressa profunda emoção. Ele combina técnica virtuosística com um timbre quente. Críticos o descrevem como a ‘voz humana’ da orquestra. Sabia que o violoncelo solo muitas vezes lidera o naipe de cordas em momentos líricos?",
+    "palavras_chave": ["violoncelo solo", "concerto", "emoção", "cordas", "elgar"]
+  },
+  {
+    "pergunta": "Por que a trompa exige tanto fôlego?",
+    "resposta": "A trompa exige muito fôlego porque seu tubo longo e estreito cria resistência ao sopro, demandando controle preciso. Em ‘Sinfonia nº 4’ de Brahms, as trompas criam chamadas heroicas que exigem força pulmonar. Críticos elogiam seu som majestoso. Sabia que trompas antigas não tinham válvulas, dependendo só do fôlego do músico?",
+    "palavras_chave": ["trompa", "fôlego", "metais", "resistência", "brahms"]
+  },
+  {
+    "pergunta": "O que é o bloco de madeira na orquestra?",
+    "resposta": "O bloco de madeira é um instrumento de percussão simples que produz um som seco e agudo, usado para acentos rítmicos, como em ‘Música para Cordas, Percussão e Celesta’ de Bartók. Ele adiciona colorido rítmico. Críticos o veem como um detalhe sutil, mas impactante. Sabia que o bloco de madeira pode ser feito de diferentes tipos de madeira para variar o som?",
+    "palavras_chave": ["bloco de madeira", "percussão", "ritmo", "timbre", "bartók"]
+  },
+  {
+    "pergunta": "Como o trompete piccolo se diferencia do trompete comum?",
+    "resposta": "O trompete piccolo é menor e mais agudo que o trompete comum, ideal para passagens brilhantes, como em obras barrocas de Bach. Seu som penetrante destaca-se em solos virtuosísticos. Críticos o veem como um toque de brilho. Sabia que o trompete piccolo tem um tubo mais curto, o que eleva sua tessitura?",
+    "palavras_chave": ["trompete piccolo", "agudo", "metais", "barroco", "bach"]
+  },
+  {
+    "pergunta": "Por que a harpa é tão visual na orquestra?",
+    "resposta": "A harpa é visualmente marcante por seu tamanho e design elegante, mas também por seus movimentos fluidos ao tocar glissandos ou arpejos, como em ‘Valsa’ de Ravel. Ela atrai olhares enquanto cria texturas sonoras. Críticos destacam seu papel estético e sonoro. Sabia que a harpa pode pesar mais de 40 kg, exigindo força para transportá-la?",
+    "palavras_chave": ["harpa", "glissando", "estética", "textura", "ravel"]
+  },
+  {
+    "pergunta": "O que é o reco-reco na orquestra sinfônica?",
+    "resposta": "O reco-reco é um instrumento de percussão que produz um som raspado, usado para efeitos rítmicos exóticos, como em ‘Danças Eslavas’ de Dvořák. Ele adiciona um toque folclórico à música. Críticos o veem como um detalhe cultural vibrante. Sabia que o reco-reco tem origens em tradições africanas e brasileiras?",
+    "palavras_chave": ["reco-reco", "percussão", "ritmo", "folclore", "dvořák"]
+  },
+  {
+    "pergunta": "Como o contrabaixo sustenta a harmonia da orquestra?",
+    "resposta": "O contrabaixo é o alicerce harmônico da orquestra, fornecendo graves profundos que sustentam as melodias, como em ‘Sinfonia nº 9’ de Beethoven. Ele cria uma base sólida para as cordas e sopros. Críticos destacam sua importância para o equilíbrio sonoro. Sabia que o contrabaixo às vezes usa uma extensão para tocar notas ainda mais graves?",
+    "palavras_chave": ["contrabaixo", "harmonia", "graves", "cordas", "beethoven"]
+  },
+  {
+    "pergunta": "Por que o fagote é tão expressivo?",
+    "resposta": "O fagote é expressivo por seu timbre rico e versátil, que pode soar cômico, sombrio ou lírico. Em ‘O Aprendiz de Feiticeiro’ de Dukas, ele imita o movimento atrapalhado do aprendiz. Críticos o veem como um narrador musical. Sabia que o fagote é feito de madeira de bordo, o que contribui para seu som quente?",
+    "palavras_chave": ["fagote", "expressividade", "timbre", "sopro madeira", "dukas"]
+  },
+  {
+    "pergunta": "Como o pratos suspensos são usados na orquestra?",
+    "resposta": "Os pratos suspensos produzem um som ressonante e prolongado, usado para acentos dramáticos ou efeitos atmosféricos, como em ‘Romeu e Julieta’ de Tchaikovsky. Tocados com baquetas ou escovas, eles criam texturas variadas. Críticos destacam sua capacidade de intensificar climas. Sabia que o tamanho do prato suspenso afeta diretamente seu timbre?",
+    "palavras_chave": ["pratos suspensos", "percussão", "atmosfera", "timbre", "tchaikovsky"]
+  },
+  {
+    "pergunta": "O que é o saxofone barítono na orquestra?",
+    "resposta": "O saxofone barítono, com seu som grave e robusto, é raro em orquestras, mas aparece em peças modernas, como ‘Sinfonietta’ de Prokofiev, para adicionar um toque jazzístico ou reforçar harmonias. Críticos o veem como um colorido contemporâneo. Sabia que o saxofone barítono é um dos maiores da família dos saxofones?",
+    "palavras_chave": ["saxofone barítono", "sopro madeira", "graves", "jazz", "prokofiev"]
+  },
+  {
+    "pergunta": "Como o maestro usa a batuta para reger?",
+    "resposta": "A batuta é uma extensão do maestro, usada para marcar o tempo e indicar dinâmicas com gestos precisos. Em ‘Sinfonia nº 5’ de Shostakovich, a batuta guia transições intensas entre naipes. Críticos destacam que a técnica do maestro define o caráter da peça. Sabia que alguns maestros, como Bernstein, às vezes regiam sem batuta, usando apenas as mãos?",
+    "palavras_chave": ["maestro", "batuta", "regência", "dinâmica", "shostakovich"]
+  },
+  {
+    "pergunta": "Por que o trombone baixo é tão poderoso?",
+    "resposta": "O trombone baixo tem um som grave e imponente, ideal para passagens épicas, como em ‘Also Sprach Zarathustra’ de Strauss. Sua vara longa permite glissandos profundos e dinâmicas amplas. Críticos o veem como uma âncora dramática. Sabia que o trombone baixo é essencial em orquestras para reforçar os metais graves?",
+    "palavras_chave": ["trombone baixo", "graves", "metais", "dramaticidade", "strauss"]
+  },
+  {
+    "pergunta": "O que é a celesta na orquestra sinfônica?",
+    "resposta": "A celesta é um teclado de percussão que soa como sinos suaves, trazendo um toque mágico, como na ‘Dança da Fada Açucarada’ de Tchaikovsky. Seu som delicado é usado em passagens etéreas. Críticos a veem como um ‘toque celestial’. Sabia que a celesta foi usada pela primeira vez em orquestras no final do século XIX?",
+    "palavras_chave": ["celesta", "percussão", "timbre", "etérea", "tchaikovsky"]
+  },
+  {
+    "pergunta": "Como a viola cria texturas na orquestra?",
+    "resposta": "A viola, com seu timbre quente e médio, cria texturas harmônicas que conectam violinos e violoncelos, como em ‘Sinfonia nº 4’ de Tchaikovsky. Ela raramente tem solos, mas é essencial para a riqueza sonora. Críticos a veem como a ‘cola’ das cordas. Sabia que a viola é afinada uma quinta abaixo do violino?",
+    "palavras_chave": ["viola", "harmonia", "cordas", "textura", "tchaikovsky"]
+  },
+  {
+    "pergunta": "Por que a tuba é essencial nos metais?",
+    "resposta": "A tuba é a base dos metais, fornecendo graves profundos que sustentam harmonias, como em ‘Os Planetas’ de Holst. Seu som robusto dá equilíbrio à seção de sopros. Críticos destacam sua força indispensável. Sabia que a tuba pode pesar até 15 kg, exigindo força física do músico?",
+    "palavras_chave": ["tuba", "metais", "graves", "harmonia", "holst"]
+  },
+  {
+    "pergunta": "O que é o maracá na orquestra sinfônica?",
+    "resposta": "O maracá é um instrumento de percussão que produz um som chacoalhante, usado para efeitos rítmicos ou exóticos, como em ‘Danças Sinfônicas’ de Rachmaninoff. Ele adiciona textura vibrante. Críticos o veem como um toque de colorido cultural. Sabia que o maracá tem origens em instrumentos indígenas da América Latina?",
+    "palavras_chave": ["maracá", "percussão", "ritmo", "textura", "rachmaninoff"]
+  },
+  {
+    "pergunta": "Como o flautim reforça o brilho da orquestra?",
+    "resposta": "O flautim, com seu som agudo e penetrante, adiciona brilho e energia, como em ‘As Estrelas e Listras para Sempre’ de Sousa. Ele destaca passagens alegres ou dramáticas. Críticos o veem como um ‘foco de luz’ sonoro. Sabia que o flautim é tão pequeno que cabe facilmente na mão de um músico?",
+    "palavras_chave": ["flautim", "sopro madeira", "brilho", "agudo", "sousa"]
+  },
+  {
+    "pergunta": "Como o xilofone adiciona colorido à orquestra?",
+    "resposta": "O xilofone, com suas lâminas de madeira, traz um som brilhante e percussivo que destaca passagens rítmicas, como em ‘Dança Macabra’ de Saint-Saëns, onde imita o chacoalhar de ossos. Ele é usado para efeitos vívidos ou momentos exóticos. Críticos o veem como um toque de vivacidade. Sabia que o xilofone é usado em músicas folclóricas de várias culturas, como na África e na Ásia?",
+    "palavras_chave": ["xilofone", "percussão", "colorido", "ritmo", "saint-saëns"]
+  },
+  {
+    "pergunta": "Por que o trompete é tão marcante na orquestra?",
+    "resposta": "O trompete tem um som claro e penetrante que se destaca em fanfarras ou solos, como em ‘Guilherme Tell’ de Rossini. Ele traz brilho e energia, cortando através da orquestra. Críticos destacam sua capacidade de liderar momentos heroicos. Sabia que trompetes antigos, como os usados no Barroco, não tinham pistões e dependiam apenas da embocadura?",
+    "palavras_chave": ["trompete", "metais", "fanfarra", "brilho", "rossini"]
+  },
+  {
+    "pergunta": "O que é o bombo na orquestra sinfônica?",
+    "resposta": "O bombo é um tambor grande que produz um som grave e ressonante, usado para criar impacto em clímaxes, como em ‘1812’ de Tchaikovsky. Ele reforça a intensidade rítmica. Críticos o veem como um pilar de força sonora. Sabia que o bombo pode ser tocado com baquetas de feltro para um som mais suave?",
+    "palavras_chave": ["bombo", "percussão", "clímax", "ritmo", "tchaikovsky"]
+  },
+  {
+    "pergunta": "Como a flauta transversal se diferencia da flauta doce?",
+    "resposta": "A flauta transversal, usada na orquestra, é tocada na horizontal e tem um som brilhante e versátil, como em ‘A Flauta Mágica’ de Mozart. A flauta doce, mais comum em música barroca, tem um som mais suave e é tocada verticalmente. Críticos destacam a transversal por sua agilidade. Sabia que a flauta transversal moderna é feita de metal, como prata ou ouro?",
+    "palavras_chave": ["flauta transversal", "sopro madeira", "timbre", "versatilidade", "mozart"]
+  },
+  {
+    "pergunta": "Por que o violino é o líder das cordas?",
+    "resposta": "O violino lidera as cordas por sua agilidade e capacidade de carregar melodias principais, como em ‘As Quatro Estações’ de Vivaldi. O spalla, primeiro violinista, coordena o naipe e dialoga com o maestro. Críticos o veem como o ‘rosto’ da orquestra. Sabia que o violino tem cordas de aço ou tripa, dependendo do estilo musical?",
+    "palavras_chave": ["violino", "cordas", "spalla", "melodia", "vivaldi"]
+  },
+  {
+    "pergunta": "O que é o tímpano de corrente na orquestra?",
+    "resposta": "O tímpano de corrente é uma versão antiga do tímpano, onde a afinação é ajustada por parafusos ou correntes, usado em orquestras barrocas ou clássicas, como em obras de Haydn. É menos comum hoje, mas traz autenticidade histórica. Críticos o veem como um elo com o passado. Sabia que ajustar a corrente exige mais tempo que o tímpano de pedal?",
+    "palavras_chave": ["tímpano", "afinação", "percussão", "barroco", "haydn"]
+  },
+  {
+    "pergunta": "Como o oboé cria solos expressivos?",
+    "resposta": "O oboé, com seu timbre nasal e penetrante, é perfeito para solos melancólicos ou líricos, como em ‘Sinfonia nº 5’ de Tchaikovsky. Sua palheta dupla permite nuances emocionais. Críticos o descrevem como a ‘voz da alma’ da orquestra. Sabia que a palheta do oboé é feita à mão, exigindo horas de preparo?",
+    "palavras_chave": ["oboé", "solo", "timbre", "palheta dupla", "tchaikovsky"]
+  },
+  {
+    "pergunta": "Por que a tuba é tão versátil nos metais?",
+    "resposta": "A tuba é versátil por sua capacidade de soar grave e robusta ou surpreendentemente suave, como em ‘Quadros de uma Exposição’ de Mussorgsky. Ela sustenta harmonias ou faz solos expressivos. Críticos a veem como o ‘alicerce’ dos metais. Sabia que a tuba moderna foi projetada para substituir instrumentos mais limitados, como o serpentão?",
+    "palavras_chave": ["tuba", "metais", "versatilidade", "harmonia", "mussorgsky"]
+  },
+  {
+    "pergunta": "O que é o guizo na orquestra sinfônica?",
+    "resposta": "O guizo, ou sinos de trenó, é um instrumento de percussão que produz um som tilintante, usado para evocar cenas invernais, como em ‘A Sagração do Inverno’ de Stravinsky. Ele adiciona um toque festivo ou exótico. Críticos destacam seu charme atmosférico. Sabia que o guizo é inspirado em sinos usados em trenós puxados por cavalos?",
+    "palavras_chave": ["guizo", "percussão", "atmosfera", "exótico", "stravinsky"]
+  },
+  {
+    "pergunta": "Como o violoncelo reforça a emoção na orquestra?",
+    "resposta": "O violoncelo, com seu timbre quente e humano, reforça a emoção em passagens líricas, como no ‘Concerto para Violoncelo’ de Dvořák. Ele pode liderar melodias ou sustentar harmonias. Críticos o veem como o ‘coração’ das cordas. Sabia que o violoncelo é afinado em quintas, como a viola, mas uma oitava abaixo?",
+    "palavras_chave": ["violoncelo", "emoção", "cordas", "melodia", "dvořák"]
+  },
+  {
+    "pergunta": "Por que o clarinete baixo é tão profundo?",
+    "resposta": "O clarinete baixo tem um som profundo por causa de seu tubo longo e largo, ideal para reforçar harmonias graves, como em ‘Petrushka’ de Stravinsky. Seu timbre aveludado adiciona riqueza sonora. Críticos destacam sua sofisticação. Sabia que o clarinete baixo é quase tão grande quanto um fagote?",
+    "palavras_chave": ["clarinete baixo", "graves", "sopro madeira", "timbre", "stravinsky"]
+  },
+  {
+    "pergunta": "O que é o triângulo na orquestra sinfônica?",
+    "resposta": "O triângulo é um pequeno instrumento de percussão que produz um som agudo e cristalino, usado para acentos rítmicos, como em ‘Sinfonia nº 4’ de Brahms. Ele adiciona brilho sem dominar. Críticos o veem como um detalhe essencial. Sabia que o triângulo é feito de aço e suspenso por uma corda para ressoar livremente?",
+    "palavras_chave": ["triângulo", "percussão", "ritmo", "brilho", "brahms"]
+  },
+  {
+    "pergunta": "Como a trompa cria efeitos de caça na orquestra?",
+    "resposta": "A trompa evoca sons de caça com chamadas brilhantes e ressonantes, como em ‘O Caçador’ de Weber. Seu timbre quente e heroico sugere cenas ao ar livre. Críticos elogiam sua capacidade de pintar imagens sonoras. Sabia que as trompas antigas eram usadas em caçadas reais na Europa?",
+    "palavras_chave": ["trompa", "caça", "metais", "timbre", "weber"]
+  },
+  {
+    "pergunta": "Por que a orquestra usa diferentes tipos de pratos?",
+    "resposta": "A orquestra usa pratos de tamanhos e tipos variados, como pratos de choque e suspensos, para criar efeitos diversos, desde impactos explosivos até ressonâncias sutis, como em ‘Romeu e Julieta’ de Prokofiev. Críticos destacam sua versatilidade dramática. Sabia que o som dos pratos depende da liga de metal usada em sua fabricação?",
+    "palavras_chave": ["pratos", "percussão", "efeitos", "dramaticidade", "prokofiev"]
+  },
+  {
+    "pergunta": "O que é o clarinete em si bemol na orquestra?",
+    "resposta": "O clarinete em si bemol é o modelo padrão na orquestra, com um som versátil que transita entre melodias suaves e passagens virtuosísticas, como em ‘Rapsódia sobre um Tema de Paganini’ de Rachmaninoff. Críticos o veem como um pilar dos sopros madeira. Sabia que o clarinete em si bemol é o mais comum entre os clarinetes afinados?",
+    "palavras_chave": ["clarinete", "sopro madeira", "versatilidade", "melodia", "rachmaninoff"]
+  },
+  {
+    "pergunta": "Como o fagote duplica o contrabaixo na orquestra?",
+    "resposta": "O fagote muitas vezes duplica as linhas do contrabaixo para reforçar a base harmônica, como em ‘Sinfonia nº 7’ de Beethoven. Seu timbre grave e quente adiciona profundidade sem dominar. Críticos destacam sua função de apoio. Sabia que o fagote pode tocar notas tão graves quanto o contrabaixo em algumas passagens?",
+    "palavras_chave": ["fagote", "contrabaixo", "harmonia", "graves", "beethoven"]
+  },
+  {
+    "pergunta": "Por que a celesta é tão mágica na orquestra?",
+    "resposta": "A celesta tem um som de sinos delicados que evoca magia e encantamento, como no ‘Quebra-Nozes’ de Tchaikovsky. Seu timbre cristalino é usado em passagens etéreas. Críticos a veem como um ‘brilho celestial’. Sabia que a celesta foi patenteada em 1886 por Auguste Mustel em Paris?",
+    "palavras_chave": ["celesta", "percussão", "magia", "timbre", "tchaikovsky"]
+  },
+  {
+    "pergunta": "Como a viola da orquestra difere da viola da gamba?",
+    "resposta": "A viola da orquestra é maior e mais grave que o violino, usada para harmonias e contramelodias, como em ‘Don Quixote’ de Strauss. A viola da gamba, barroca, tem um som mais suave e cordas de tripa. Críticos destacam a viola moderna por sua robustez. Sabia que a viola da orquestra tem um papel mais harmônico que melódico?",
+    "palavras_chave": ["viola", "viola da gamba", "harmonia", "cordas", "strauss"]
+  },
+  {
+    "pergunta": "O que é o tamborim na orquestra sinfônica?",
+    "resposta": "O tamborim é um pequeno tambor de percussão que produz um som seco e agudo, usado para acentos rítmicos, como em ‘Carmen’ de Bizet. Ele adiciona vivacidade e colorido cultural. Críticos o veem como um toque de energia. Sabia que o tamborim é comum em músicas latinas, como o samba?",
+    "palavras_chave": ["tamborim", "percussão", "ritmo", "colorido", "bizet"]
+  },
+  {
+    "pergunta": "Como o maestro equilibra os naipes da orquestra?",
+    "resposta": "O maestro equilibra os naipes ajustando dinâmicas e articulando gestos para destacar ou suavizar seções, como em ‘Sinfonia nº 9’ de Mahler. Ele garante que cordas, sopros e percussão soem coesos. Críticos destacam a regência como a alma da orquestra. Sabia que maestros como Karajan eram famosos por sua precisão em equilibrar naipes?",
+    "palavras_chave": ["maestro", "equilíbrio", "naipes", "regência", "mahler"]
+  },
+  {
+    "pergunta": "Por que o trombone é usado em passagens dramáticas?",
+    "resposta": "O trombone, com seu som grave e poderoso, é ideal para passagens dramáticas, como em ‘Réquiem’ de Mozart. Sua vara deslizante permite glissandos intensos. Críticos o veem como um símbolo de força. Sabia que o trombone era usado em cerimônias religiosas na Europa medieval?",
+    "palavras_chave": ["trombone", "dramaticidade", "glissando", "metais", "mozart"]
+  },
+  {
+    "pergunta": "O que é o contrafagote na orquestra sinfônica?",
+    "resposta": "O contrafagote é o instrumento mais grave dos sopros madeira, com um som profundo e ressonante, usado para reforçar a base harmônica, como em ‘O Pássaro de Fogo’ de Stravinsky. Críticos o descrevem como uma ‘voz subterrânea’. Sabia que o contrafagote é tão grande que precisa de um apoio para ser tocado?",
+    "palavras_chave": ["contrafagote", "sopro madeira", "graves", "harmonia", "stravinsky"]
+  },
+  {
+    "pergunta": "Como a harpa enriquece passagens líricas?",
+    "resposta": "A harpa, com seus arpejos e glissandos, adiciona um toque lírico e etéreo, como em ‘La Mer’ de Debussy. Ela cria texturas fluidas que evocam emoção. Críticos a veem como um ‘véu sonoro’. Sabia que a harpa tem 47 cordas, cada uma afinada para uma nota específica?",
+    "palavras_chave": ["harpa", "glissando", "lírico", "textura", "debussy"]
+  },
+  {
+    "pergunta": "Por que o flautim é usado em marchas?",
+    "resposta": "O flautim, com seu som agudo e brilhante, é perfeito para marchas, como em ‘Estrelas e Listras’ de Sousa, onde adiciona energia e clareza. Ele corta através da orquestra com precisão. Críticos o veem como um ‘grito de guerra’ sonoro. Sabia que o flautim é frequentemente tocado pelo mesmo músico que toca a flauta?",
+    "palavras_chave": ["flautim", "marcha", "sopro madeira", "brilho", "sousa"]
+  },
+  {
+    "pergunta": "Como a orquestra sinfônica evoluiu ao longo do tempo?",
+    "resposta": "A orquestra sinfônica evoluiu do período barroco, com pequenos conjuntos, para grandes formações no Romantismo, como nas sinfonias de Mahler, que exigem mais de 100 músicos. Novos instrumentos, como a tuba, foram adicionados para maior riqueza sonora. Críticos destacam que a evolução reflete a ambição dos compositores. Sabia que a orquestra moderna se consolidou no século XIX?",
+    "palavras_chave": ["orquestra", "evolução", "romantismo", "instrumentos", "mahler"]
+  }
+]

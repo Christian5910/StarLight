@@ -1,0 +1,662 @@
+[
+  {
+    "pergunta": "Por que o sono é essencial para a saúde do corpo e da mente?",
+    "resposta": "Dormir bem é tão importante quanto se alimentar ou se exercitar. Durante o sono, o corpo se recupera, os músculos se reconstroem e o cérebro processa memórias e emoções. Sabia que até o sistema imunológico trabalha melhor depois de uma boa noite de sono?",
+    "palavras_chave": ["sono", "saúde", "descanso", "recuperação", "sistema imunológico"]
+  },
+  {
+    "pergunta": "O que acontece com o corpo durante o sono profundo?",
+    "resposta": "No sono profundo, também chamado de sono de ondas lentas, o corpo reduz o ritmo cardíaco, a respiração desacelera e o cérebro entra em estado de restauração máxima. É nesse estágio que ocorrem a regeneração celular e a liberação do hormônio do crescimento. Sabia que atletas priorizam esse tipo de sono para melhorar o desempenho físico?",
+    "palavras_chave": ["sono profundo", "cérebro", "regeneração", "hormônio", "descanso"]
+  },
+  {
+    "pergunta": "Como a privação de sono afeta o humor e a concentração?",
+    "resposta": "A falta de sono afeta diretamente o humor, a memória e a capacidade de foco. Irritabilidade, ansiedade e lapsos de atenção são consequências comuns. Sabia que uma noite mal dormida pode prejudicar tanto quanto estar levemente alcoolizado?",
+    "palavras_chave": ["privação", "sono", "humor", "concentração", "memória"]
+  },
+  {
+    "pergunta": "Quantas horas de sono um adulto deve ter por noite?",
+    "resposta": "A média ideal para adultos é de 7 a 9 horas por noite, mas o número exato varia conforme o estilo de vida e o metabolismo. O importante é acordar descansado e alerta. Sabia que dormir demais também pode estar ligado a distúrbios do sono ou problemas hormonais?",
+    "palavras_chave": ["sono", "horas", "adultos", "descanso", "rotina"]
+  },
+  {
+    "pergunta": "O que é insônia e por que ela acontece?",
+    "resposta": "A insônia é a dificuldade de iniciar ou manter o sono. Pode ter causas físicas, como dor ou doenças, e emocionais, como estresse e ansiedade. Sabia que manter horários fixos para dormir e acordar ajuda a reduzir episódios de insônia?",
+    "palavras_chave": ["insônia", "sono", "ansiedade", "estresse", "hábitos"]
+  },
+  {
+    "pergunta": "Como a tecnologia interfere na qualidade do sono?",
+    "resposta": "A luz azul emitida por telas de celulares e computadores inibe a produção de melatonina, o hormônio que induz o sono. Além disso, o estímulo constante mantém o cérebro em alerta. Sabia que reduzir o uso de telas uma hora antes de dormir melhora significativamente o descanso?",
+    "palavras_chave": ["tecnologia", "sono", "melatonina", "telas", "descanso"]
+  },
+  {
+    "pergunta": "Por que sonhamos?",
+    "resposta": "Os sonhos são uma forma do cérebro processar emoções e informações do dia. Eles ocorrem principalmente durante o sono REM, quando há intensa atividade cerebral. Sabia que mesmo quem acha que não sonha, na verdade, apenas não se lembra dos sonhos?",
+    "palavras_chave": ["sonhos", "sono rem", "emoções", "cérebro", "memória"]
+  },
+  {
+    "pergunta": "O que é o sono REM e qual sua função?",
+    "resposta": "O sono REM é a fase em que ocorrem os sonhos mais vívidos e o cérebro se mantém ativo, embora o corpo esteja relaxado. Essa etapa é essencial para a consolidação da memória e o equilíbrio emocional. Sabia que REM significa 'Rapid Eye Movement', ou movimento rápido dos olhos?",
+    "palavras_chave": ["sono rem", "memória", "emoções", "descanso", "cérebro"]
+  },
+  {
+    "pergunta": "Como a alimentação influencia o sono?",
+    "resposta": "Certos alimentos ajudam o corpo a relaxar e estimulam a produção de melatonina e serotonina, como banana, aveia e leite morno. Já cafeína e comidas pesadas dificultam o sono. Sabia que o triptofano, presente em castanhas e ovos, é um precursor natural da serotonina?",
+    "palavras_chave": ["alimentação", "sono", "melatonina", "serotonina", "triptofano"]
+  },
+  {
+    "pergunta": "O que é a higiene do sono?",
+    "resposta": "Higiene do sono é o conjunto de hábitos que promovem um sono de qualidade. Isso inclui manter horários regulares, evitar luz forte à noite e preparar um ambiente tranquilo. Sabia que a temperatura ideal do quarto deve ficar entre 18 e 22 graus?",
+    "palavras_chave": ["higiene do sono", "hábitos", "rotina", "descanso", "ambiente"]
+  },
+  {
+    "pergunta": "Dormir com luz acesa faz mal?",
+    "resposta": "Sim, a luz acesa, especialmente a branca, pode confundir o relógio biológico e reduzir a produção de melatonina. Dormir em ambiente escuro melhora o sono e o descanso. Sabia que até pequenas luzes, como as de stand-by, interferem na profundidade do sono?",
+    "palavras_chave": ["luz", "melatonina", "sono", "descanso", "biológico"]
+  },
+  {
+    "pergunta": "Como o estresse pode atrapalhar o sono?",
+    "resposta": "O estresse aumenta os níveis de cortisol, o hormônio da vigília, dificultando o relaxamento. Isso cria um ciclo de cansaço e ansiedade. Sabia que práticas como meditação e respiração consciente ajudam a reduzir o cortisol e melhorar o sono?",
+    "palavras_chave": ["estresse", "sono", "cortisol", "relaxamento", "ansiedade"]
+  },
+  {
+    "pergunta": "O cochilo diurno é saudável?",
+    "resposta": "Sim, cochilos curtos de até 30 minutos podem restaurar a energia e melhorar o foco. O problema é quando se prolongam e atrapalham o sono noturno. Sabia que empresas japonesas incentivam pequenas sonecas durante o expediente para aumentar a produtividade?",
+    "palavras_chave": ["cochilo", "sono", "energia", "produtividade", "descanso"]
+  },
+  {
+    "pergunta": "Por que o sono é importante para a memória?",
+    "resposta": "Durante o sono, o cérebro organiza as informações aprendidas e consolida memórias. Sem esse processo, o aprendizado se torna superficial. Sabia que estudantes que dormem bem retêm até 40% mais conteúdo do que os que viram a noite estudando?",
+    "palavras_chave": ["sono", "memória", "aprendizado", "cérebro", "descanso"]
+  },
+  {
+    "pergunta": "O que é a apneia do sono?",
+    "resposta": "A apneia do sono é uma interrupção temporária da respiração durante o sono. Ela causa roncos altos, cansaço diurno e pode aumentar o risco de doenças cardiovasculares. Sabia que o uso de aparelhos respiratórios noturnos pode eliminar quase todos os sintomas?",
+    "palavras_chave": ["apneia", "respiração", "sono", "ronco", "cardiovascular"]
+  },
+  {
+    "pergunta": "Como o exercício físico ajuda a dormir melhor?",
+    "resposta": "A atividade física reduz o estresse e regula o relógio biológico, facilitando o sono. No entanto, o ideal é praticar até três horas antes de deitar. Sabia que caminhadas leves ao fim da tarde melhoram a liberação natural de melatonina?",
+    "palavras_chave": ["exercício", "sono", "relógio biológico", "melatonina", "descanso"]
+  },
+  {
+    "pergunta": "Por que o sono das crianças é mais longo?",
+    "resposta": "As crianças precisam de mais horas de sono porque o corpo e o cérebro estão em pleno desenvolvimento. O hormônio do crescimento é liberado principalmente durante o sono profundo. Sabia que bebês dormem até 16 horas por dia nos primeiros meses?",
+    "palavras_chave": ["crianças", "sono", "crescimento", "desenvolvimento", "descanso"]
+  },
+  {
+    "pergunta": "O que significa ter um sono reparador?",
+    "resposta": "Um sono reparador é aquele em que se passa por todas as fases do sono com qualidade, resultando em disposição física e clareza mental no dia seguinte. Sabia que a falta de sono reparador pode afetar até o metabolismo e causar ganho de peso?",
+    "palavras_chave": ["sono", "reparador", "descanso", "metabolismo", "disposição"]
+  },
+  {
+    "pergunta": "Como o café e o álcool afetam o sono?",
+    "resposta": "A cafeína é estimulante e pode atrasar o início do sono, enquanto o álcool, apesar de relaxar, prejudica as fases profundas do descanso. Sabia que o efeito do café pode durar até 6 horas no organismo?",
+    "palavras_chave": ["cafeína", "álcool", "sono", "estimulante", "descanso"]
+  },
+  {
+    "pergunta": "Por que acordamos cansados mesmo dormindo várias horas?",
+    "resposta": "Isso pode acontecer por má qualidade do sono, como interrupções frequentes ou apneia, e não necessariamente pela quantidade de horas dormidas. Sabia que o excesso de telas à noite pode ser o vilão escondido dessa sensação de cansaço?",
+    "palavras_chave": ["cansaço", "sono", "qualidade", "apneia", "telas"]
+  },
+  {
+    "pergunta": "O que é o relógio biológico?",
+    "resposta": "O relógio biológico, ou ritmo circadiano, é o mecanismo interno que regula o ciclo de sono e vigília, influenciado pela luz e temperatura. Sabia que trabalhar em turnos noturnos pode desregular esse ritmo e causar fadiga crônica?",
+    "palavras_chave": ["relógio biológico", "circadiano", "sono", "vigília", "fadiga"]
+  },
+  {
+    "pergunta": "Como o ambiente do quarto influencia o sono?",
+    "resposta": "Um quarto escuro, silencioso e ventilado ajuda o corpo a relaxar. O ideal é evitar estímulos visuais e eletrônicos antes de dormir. Sabia que até as cores das paredes podem interferir no relaxamento e no tempo de adormecer?",
+    "palavras_chave": ["ambiente", "quarto", "sono", "relaxamento", "descanso"]
+  },
+  {
+    "pergunta": "Dormir demais pode fazer mal?",
+    "resposta": "Sim, dormir em excesso pode causar dores de cabeça, fadiga e até depressão. O equilíbrio é o segredo para um descanso saudável. Sabia que quem dorme mais de 10 horas regularmente pode ter maior risco de doenças metabólicas?",
+    "palavras_chave": ["sono", "excesso", "fadiga", "descanso", "metabolismo"]
+  },
+  {
+    "pergunta": "O que são parassonias?",
+    "resposta": "Parassonias são comportamentos anormais durante o sono, como sonambulismo, terror noturno ou falar dormindo. Na maioria dos casos, são inofensivos, mas podem exigir avaliação médica. Sabia que o sonambulismo é mais comum em crianças do que em adultos?",
+    "palavras_chave": ["parassonias", "sonambulismo", "sono", "comportamento", "distúrbio"]
+  },
+  {
+    "pergunta": "Como o trabalho noturno afeta o sono?",
+    "resposta": "Trabalhar à noite altera o relógio biológico e reduz a produção de melatonina. Isso pode causar fadiga, irritabilidade e até distúrbios metabólicos. Sabia que usar luzes mais amareladas durante o turno noturno ajuda o corpo a se adaptar melhor?",
+    "palavras_chave": ["trabalho noturno", "sono", "melatonina", "fadiga", "circadiano"]
+  },
+  {
+    "pergunta": "Por que é importante manter horários regulares para dormir?",
+    "resposta": "Ter horários fixos ajuda o corpo a reconhecer o momento de descansar, equilibrando o ritmo circadiano. Ir para a cama e acordar no mesmo horário fortalece o ciclo natural do sono. Sabia que até cochilos em horários irregulares podem atrapalhar essa rotina?",
+    "palavras_chave": ["rotina", "sono", "circadiano", "descanso", "hábitos"]
+  },
+  {
+    "pergunta": "Como o sono afeta o sistema imunológico?",
+    "resposta": "Durante o sono, o corpo produz citocinas, proteínas que ajudam a combater infecções. Por isso, dormir pouco aumenta a vulnerabilidade a vírus e bactérias. Sabia que pessoas que dormem menos de 6 horas por noite têm mais chance de pegar gripes?",
+    "palavras_chave": ["sono", "sistema imunológico", "citocinas", "infecção", "descanso"]
+  },
+  {
+    "pergunta": "O que é o jet lag e por que ele ocorre?",
+    "resposta": "O jet lag é o descompasso entre o relógio biológico e o fuso horário local após viagens longas. Ele causa cansaço, insônia e desorientação. Sabia que se expor à luz solar ajuda a ajustar o corpo ao novo horário?",
+    "palavras_chave": ["jet lag", "relógio biológico", "viagem", "fuso horário", "sono"]
+  },
+  {
+    "pergunta": "Por que adolescentes costumam dormir até mais tarde?",
+    "resposta": "Durante a adolescência, ocorre uma mudança natural no relógio biológico, que faz com que o sono venha mais tarde e o despertar também. Sabia que escolas que ajustaram o horário de entrada dos alunos observaram melhora no rendimento e no humor?",
+    "palavras_chave": ["adolescentes", "sono", "relógio biológico", "rendimento", "humor"]
+  },
+  {
+    "pergunta": "Por que o sono é tão importante para o corpo humano?",
+    "resposta": "O sono é essencial porque é o momento em que o corpo e o cérebro realizam processos de reparo, consolidação da memória e regulação hormonal. Dormir bem fortalece o sistema imunológico, melhora o humor e aumenta a capacidade de concentração. Sabia que, durante o sono profundo, o cérebro literalmente 'limpa' toxinas acumuladas ao longo do dia?",
+    "palavras_chave": ["sono", "descanso", "saúde", "memória", "cérebro"]
+  },
+  {
+    "pergunta": "O que acontece no cérebro enquanto dormimos?",
+    "resposta": "Durante o sono, o cérebro não 'desliga' — ele trabalha de forma intensa em processos como a consolidação da memória, a regulação emocional e a reorganização das conexões neurais. As diferentes fases do sono, especialmente o REM, são cruciais para o aprendizado e o equilíbrio mental. Sabia que os sonhos ocorrem principalmente nessa fase?",
+    "palavras_chave": ["sono", "cérebro", "fases", "rem", "memória"]
+  },
+  {
+    "pergunta": "Quantas horas de sono um adulto precisa por noite?",
+    "resposta": "A maioria dos adultos precisa de 7 a 9 horas de sono por noite para manter o bom funcionamento físico e mental. Dormir menos que isso de forma constante pode aumentar o risco de doenças cardíacas, obesidade e ansiedade. Sabia que quem dorme apenas 5 horas por noite tem desempenho cognitivo semelhante ao de alguém alcoolizado?",
+    "palavras_chave": ["sono", "adulto", "horas", "saúde", "risco"]
+  },
+  {
+    "pergunta": "Por que o sono dos adolescentes é diferente do dos adultos?",
+    "resposta": "Durante a adolescência, há uma mudança natural no relógio biológico que faz com que os jovens sintam sono mais tarde e acordem mais tarde também. Isso não é preguiça, é biologia. O problema é que as rotinas escolares e sociais geralmente não respeitam esse ritmo. Sabia que escolas que adiam o horário de início das aulas melhoram o desempenho e a saúde dos alunos?",
+    "palavras_chave": ["sono", "adolescente", "biologia", "ritmo", "escola"]
+  },
+  {
+    "pergunta": "O que é insônia e como ela afeta o corpo?",
+    "resposta": "A insônia é a dificuldade de iniciar ou manter o sono, mesmo quando há oportunidade para dormir. Ela afeta a memória, o humor e o sistema imunológico. Em longo prazo, pode aumentar o risco de depressão e doenças cardíacas. Sabia que a insônia é mais comum em mulheres e pode piorar durante períodos de estresse?",
+    "palavras_chave": ["insônia", "sono", "estresse", "saúde", "depressão"]
+  },
+  {
+    "pergunta": "Por que dormir mal afeta o humor?",
+    "resposta": "O sono regula neurotransmissores como a serotonina e a dopamina, que influenciam diretamente o humor. Quando dormimos mal, esses sistemas ficam desajustados, o que pode causar irritabilidade, ansiedade e até sintomas depressivos. Sabia que apenas uma noite de sono ruim já pode diminuir a empatia e a paciência nas interações sociais?",
+    "palavras_chave": ["humor", "neurotransmissores", "sono", "emoções", "serotonina"]
+  },
+  {
+    "pergunta": "O que são os ciclos do sono?",
+    "resposta": "O sono é dividido em ciclos de aproximadamente 90 minutos, compostos por fases leves, profundas e a fase REM, onde ocorrem os sonhos. Durante a noite, passamos por vários desses ciclos, e interrompê-los pode causar sensação de cansaço mesmo após muitas horas na cama. Sabia que acordar naturalmente ao fim de um ciclo faz você se sentir mais disposto?",
+    "palavras_chave": ["ciclos", "sono", "rem", "descanso", "fases"]
+  },
+  {
+    "pergunta": "Como a tecnologia interfere no sono?",
+    "resposta": "O uso de telas antes de dormir é um dos principais inimigos do sono de qualidade. A luz azul emitida por celulares, tablets e TVs inibe a produção de melatonina, o hormônio que induz o sono. Além disso, o conteúdo digital estimula o cérebro, dificultando o relaxamento. Sabia que colocar o celular no modo noturno ou longe da cama já melhora o descanso?",
+    "palavras_chave": ["tecnologia", "telas", "melatonina", "sono", "luz azul"]
+  },
+  {
+    "pergunta": "O que é a melatonina e qual seu papel no sono?",
+    "resposta": "A melatonina é um hormônio produzido naturalmente pelo cérebro quando escurece, sinalizando que é hora de dormir. Ela ajuda a regular o ciclo circadiano e a induzir o sono. Suplementos de melatonina podem ser úteis em alguns casos, mas devem ser usados com orientação médica. Sabia que sua produção cai quando estamos expostos à luz artificial à noite?",
+    "palavras_chave": ["melatonina", "sono", "hormônio", "cérebro", "ciclo circadiano"]
+  },
+  {
+    "pergunta": "Por que cochilar pode ser benéfico?",
+    "resposta": "Um cochilo curto, de até 30 minutos, pode melhorar a concentração, a memória e o humor. No entanto, cochilos longos durante o dia podem atrapalhar o sono noturno. Sabia que em países como a Espanha e o Japão, as sonecas fazem parte da cultura e até aumentam a produtividade?",
+    "palavras_chave": ["cochilo", "descanso", "produtividade", "sono", "memória"]
+  },
+  {
+    "pergunta": "O que é apneia do sono?",
+    "resposta": "A apneia do sono é um distúrbio caracterizado por pausas na respiração durante o sono, que causam despertares frequentes e cansaço durante o dia. Pode ser causada por obstruções nas vias respiratórias e está relacionada a problemas como hipertensão e obesidade. Sabia que o ronco alto pode ser um dos principais sinais desse problema?",
+    "palavras_chave": ["apneia", "sono", "respiração", "ronco", "distúrbio"]
+  },
+  {
+    "pergunta": "O que é o sono REM?",
+    "resposta": "O sono REM é a fase em que o cérebro está mais ativo, e os sonhos acontecem com maior intensidade. Apesar da alta atividade cerebral, o corpo permanece praticamente paralisado para evitar movimentos bruscos. Sabia que REM significa 'Rapid Eye Movement', ou 'Movimento Rápido dos Olhos'?",
+    "palavras_chave": ["rem", "sonhos", "sono", "cérebro", "fases"]
+  },
+  {
+    "pergunta": "Dormir demais pode fazer mal?",
+    "resposta": "Sim, o excesso de sono pode estar associado a problemas como depressão, distúrbios hormonais e baixa energia. Dormir muito regularmente pode ser sinal de desequilíbrio no corpo ou na mente. Sabia que pessoas que dormem mais de 10 horas por noite têm maior risco de doenças cardiovasculares?",
+    "palavras_chave": ["sono", "excesso", "saúde", "depressão", "doenças"]
+  },
+  {
+    "pergunta": "Por que algumas pessoas falam dormindo?",
+    "resposta": "Falar dormindo, chamado de sonilóquio, é uma forma leve de parassonia, geralmente inofensiva. Acontece quando partes do cérebro permanecem ativas durante o sono. Pode ocorrer em momentos de estresse ou fadiga. Sabia que crianças tendem a falar dormindo mais do que adultos?",
+    "palavras_chave": ["sono", "sonilóquio", "parassonia", "falar", "descanso"]
+  },
+  {
+    "pergunta": "Como o exercício físico influencia o sono?",
+    "resposta": "Praticar atividade física regular melhora a qualidade do sono, pois ajuda a equilibrar hormônios e reduzir o estresse. No entanto, exercícios intensos à noite podem causar o efeito oposto, dificultando o relaxamento. Sabia que quem se exercita pela manhã tende a adormecer mais facilmente à noite?",
+    "palavras_chave": ["exercício", "sono", "estresse", "saúde", "descanso"]
+  },
+  {
+    "pergunta": "O que é o ciclo circadiano e por que ele é importante?",
+    "resposta": "O ciclo circadiano é o relógio biológico interno que regula o sono, o apetite e até a temperatura corporal ao longo de 24 horas. Ele é controlado principalmente pela luz natural, e sua desregulação pode causar fadiga e irritabilidade. Sabia que até as células do fígado seguem esse ritmo diário?",
+    "palavras_chave": ["ciclo circadiano", "sono", "relógio biológico", "luz", "corpo"]
+  },
+  {
+    "pergunta": "Como a alimentação interfere na qualidade do sono?",
+    "resposta": "Comer muito tarde ou ingerir alimentos gordurosos pode atrapalhar o sono, pois o corpo ainda está ocupado com a digestão. Por outro lado, alimentos leves e ricos em triptofano, como banana e aveia, ajudam na produção de serotonina e melatonina. Sabia que o café pode afetar o sono mesmo se consumido seis horas antes de dormir?",
+    "palavras_chave": ["alimentação", "sono", "triptofano", "digestão", "melatonina"]
+  },
+  {
+    "pergunta": "O que é higiene do sono?",
+    "resposta": "Higiene do sono é o conjunto de hábitos que favorecem uma boa noite de descanso. Isso inclui manter horários regulares, evitar telas antes de dormir e criar um ambiente escuro e silencioso. Sabia que até o cheiro do ambiente, como lavanda, pode influenciar positivamente o sono?",
+    "palavras_chave": ["higiene do sono", "hábitos", "descanso", "rotina", "ambiente"]
+  },
+  {
+    "pergunta": "Por que acordamos cansados mesmo dormindo muitas horas?",
+    "resposta": "Isso pode acontecer por causa de sono fragmentado, apneia, estresse ou má qualidade do sono profundo. O número de horas dormidas nem sempre reflete o descanso real do corpo. Sabia que a posição de dormir também pode influenciar a qualidade do sono e até causar dores musculares?",
+    "palavras_chave": ["sono", "cansaço", "descanso", "qualidade", "apneia"]
+  },
+  {
+    "pergunta": "O que são os distúrbios do sono?",
+    "resposta": "Distúrbios do sono são condições que prejudicam o descanso, como insônia, apneia, sonambulismo e narcolepsia. Eles afetam o humor, a memória e até o sistema imunológico. Sabia que mais de 70 tipos diferentes de distúrbios do sono já foram identificados pela medicina?",
+    "palavras_chave": ["distúrbios", "sono", "insônia", "narcolepsia", "descanso"]
+  },
+  {
+    "pergunta": "Como o estresse afeta o sono?",
+    "resposta": "O estresse eleva o nível de cortisol, um hormônio que estimula o estado de alerta, dificultando o relaxamento e o início do sono. Isso cria um ciclo vicioso, porque dormir mal também aumenta o estresse. Sabia que técnicas de respiração e meditação antes de dormir reduzem o cortisol naturalmente?",
+    "palavras_chave": ["estresse", "sono", "cortisol", "relaxamento", "ansiedade"]
+  },
+  {
+    "pergunta": "Por que os sonhos são importantes?",
+    "resposta": "Os sonhos são fundamentais para o equilíbrio emocional e a consolidação da memória. Eles ajudam o cérebro a processar experiências e emoções vividas. Sabia que pessoas privadas da fase REM — onde os sonhos mais intensos ocorrem — ficam mais irritadas e desatentas?",
+    "palavras_chave": ["sonhos", "rem", "memória", "emoções", "cérebro"]
+  },
+  {
+    "pergunta": "O que é sonambulismo?",
+    "resposta": "O sonambulismo é um distúrbio do sono em que a pessoa realiza atividades enquanto ainda está dormindo, como andar ou falar. É mais comum em crianças e tende a diminuir com a idade. Sabia que tentar acordar um sonâmbulo de forma brusca pode causar confusão e desorientação?",
+    "palavras_chave": ["sonambulismo", "sono", "parassonia", "crianças", "comportamento"]
+  },
+  {
+    "pergunta": "O que significa ter sono leve?",
+    "resposta": "Ter sono leve significa permanecer mais tempo nas fases iniciais do ciclo do sono, o que facilita despertares e prejudica o descanso profundo. Isso pode ocorrer por ansiedade, ruído ou má higiene do sono. Sabia que o barulho de ventiladores ou ruído branco pode ajudar quem tem sono leve?",
+    "palavras_chave": ["sono leve", "descanso", "ansiedade", "ruído", "sono profundo"]
+  },
+  {
+    "pergunta": "Por que é ruim dormir com a TV ligada?",
+    "resposta": "Dormir com a TV ligada interfere na produção de melatonina e impede o cérebro de atingir fases profundas do sono. Mesmo sons baixos e luzes piscando mantêm o sistema nervoso em alerta. Sabia que o cérebro continua 'ouvindo' enquanto dorme e reage a sons familiares, como o próprio nome?",
+    "palavras_chave": ["tv", "sono", "melatonina", "luz", "descanso"]
+  },
+  {
+    "pergunta": "O que são cochilos polifásicos?",
+    "resposta": "O sono polifásico é um padrão em que a pessoa dorme várias vezes ao longo do dia, em vez de ter um sono contínuo à noite. Embora possa funcionar temporariamente, ele não substitui o sono noturno completo. Sabia que Leonardo da Vinci e Nikola Tesla usavam esse método para tentar aumentar a produtividade?",
+    "palavras_chave": ["sono polifásico", "cochilos", "descanso", "produtividade", "ritmo"]
+  },
+  {
+    "pergunta": "Como a cafeína interfere no sono?",
+    "resposta": "A cafeína bloqueia a adenosina, uma substância que causa sonolência, mantendo o cérebro em estado de alerta. Seu efeito pode durar até oito horas, dependendo da sensibilidade da pessoa. Sabia que mesmo o chocolate e alguns chás contêm cafeína suficiente para atrapalhar o sono?",
+    "palavras_chave": ["cafeína", "sono", "adenosina", "alerta", "descanso"]
+  },
+  {
+    "pergunta": "Por que algumas pessoas têm pesadelos frequentes?",
+    "resposta": "Pesadelos podem ser causados por estresse, traumas, medicamentos ou até alimentação pesada antes de dormir. Eles acontecem durante a fase REM e refletem o processamento emocional do cérebro. Sabia que manter um diário dos sonhos ajuda a reduzir a frequência dos pesadelos?",
+    "palavras_chave": ["pesadelos", "sono", "rem", "emoções", "estresse"]
+  },
+  {
+    "pergunta": "Como a temperatura do quarto influencia o sono?",
+    "resposta": "O corpo precisa reduzir ligeiramente a temperatura interna para adormecer. Ambientes muito quentes ou frios dificultam esse processo. A faixa ideal costuma ficar entre 18 e 22 graus Celsius. Sabia que um banho morno antes de dormir ajuda o corpo a atingir essa temperatura mais rapidamente?",
+    "palavras_chave": ["temperatura", "sono", "ambiente", "descanso", "termorregulação"]
+  },
+  {
+    "pergunta": "Por que sentimos tanto sono após o almoço?",
+    "resposta": "Depois das refeições, especialmente ricas em carboidratos, há um pico de glicose no sangue que induz relaxamento e sonolência. Além disso, o ciclo circadiano naturalmente reduz o estado de alerta nesse horário. Sabia que uma soneca curta após o almoço pode melhorar a produtividade em até 30%?",
+    "palavras_chave": ["sono", "almoço", "glicose", "ciclo circadiano", "produtividade"]
+  },
+  {
+    "pergunta": "O que é narcolepsia?",
+    "resposta": "A narcolepsia é um distúrbio neurológico que faz a pessoa adormecer repentinamente, mesmo durante atividades diárias. Está relacionada à falta de uma substância chamada hipocretina, que regula o estado de vigília. Sabia que alguns narcolépticos entram diretamente na fase REM logo ao adormecer?",
+    "palavras_chave": ["narcolepsia", "sono", "hipocretina", "vigília", "distúrbio"]
+  },
+  {
+    "pergunta": "Como o álcool afeta o sono?",
+    "resposta": "Embora o álcool possa causar sonolência inicial, ele prejudica as fases profundas e o sono REM, tornando o descanso menos restaurador. O resultado é acordar cansado e desidratado. Sabia que o álcool reduz em até 20% o tempo de sono profundo em uma única noite?",
+    "palavras_chave": ["álcool", "sono", "rem", "descanso", "qualidade"]
+  },
+  {
+    "pergunta": "Por que dormir pouco engorda?",
+    "resposta": "A falta de sono altera os hormônios da fome: aumenta a grelina, que estimula o apetite, e reduz a leptina, que dá sensação de saciedade. Isso leva a comer mais e preferir alimentos calóricos. Sabia que dormir bem ajuda até no sucesso de dietas para emagrecimento?",
+    "palavras_chave": ["sono", "grelina", "leptina", "fome", "metabolismo"]
+  },
+  {
+    "pergunta": "O que é paralisia do sono?",
+    "resposta": "A paralisia do sono ocorre quando a mente desperta antes do corpo, fazendo a pessoa ficar consciente, mas incapaz de se mover. Dura poucos segundos, mas é assustadora. Sabia que ela é mais comum em quem dorme de barriga para cima e tem horários irregulares de sono?",
+    "palavras_chave": ["paralisia do sono", "rem", "vigília", "distúrbio", "descanso"]
+  },
+  {
+    "pergunta": "Dormir em ambientes escuros faz diferença?",
+    "resposta": "Sim! A ausência de luz estimula a produção de melatonina, facilitando o início do sono e melhorando sua qualidade. Luzes artificiais, mesmo fracas, podem confundir o cérebro e atrasar o adormecer. Sabia que até a luz do relógio digital pode interferir nesse processo?",
+    "palavras_chave": ["luz", "melatonina", "sono", "ambiente", "descanso"]
+  },
+  {
+    "pergunta": "Por que bebês dormem tanto?",
+    "resposta": "Os bebês dormem muitas horas porque o sono é fundamental para o crescimento e o desenvolvimento cerebral. Durante o sono, há liberação intensa do hormônio do crescimento. Sabia que os recém-nascidos passam quase metade do tempo dormindo na fase REM?",
+    "palavras_chave": ["bebês", "sono", "crescimento", "desenvolvimento", "rem"]
+  },
+  {
+    "pergunta": "Como a ansiedade atrapalha o sono?",
+    "resposta": "A ansiedade mantém o cérebro em estado de alerta, dificultando o relaxamento necessário para adormecer. Pensamentos acelerados e preocupações ativam o sistema nervoso simpático. Sabia que técnicas de respiração lenta e meditação reduzem a atividade desse sistema e ajudam no sono?",
+    "palavras_chave": ["ansiedade", "sono", "relaxamento", "sistema nervoso", "descanso"]
+  },
+  {
+    "pergunta": "O que é jet lag?",
+    "resposta": "Jet lag é o desequilíbrio do ciclo circadiano causado por mudanças rápidas de fuso horário. O corpo demora alguns dias para se ajustar ao novo horário de luz e sono. Sabia que se expor à luz natural durante o dia acelera essa adaptação?",
+    "palavras_chave": ["jet lag", "ciclo circadiano", "sono", "viagem", "ajuste"]
+  },
+  {
+    "pergunta": "Por que é importante ter horários regulares para dormir?",
+    "resposta": "Dormir e acordar nos mesmos horários ajuda o corpo a manter o ciclo circadiano estável, o que melhora a qualidade do sono e o humor. Sabia que mudar o horário do sono em apenas duas horas já pode causar sintomas semelhantes ao jet lag?",
+    "palavras_chave": ["rotina", "sono", "ciclo circadiano", "descanso", "hábito"]
+  },
+  {
+    "pergunta": "Como a postura influencia o sono?",
+    "resposta": "Dormir de lado é geralmente a posição mais recomendada, pois favorece a respiração e reduz o refluxo. Dormir de bruços pode sobrecarregar a coluna e o pescoço. Sabia que mudar o travesseiro pode resolver até 30% dos casos de dor ao acordar?",
+    "palavras_chave": ["postura", "sono", "coluna", "travesseiro", "descanso"]
+  },
+  {
+    "pergunta": "Por que o ronco acontece?",
+    "resposta": "O ronco ocorre quando o ar passa com dificuldade pelas vias respiratórias, fazendo os tecidos vibrarem. Pode ser causado por obesidade, desvio de septo ou má posição ao dormir. Sabia que dormir de lado pode reduzir significativamente o ronco?",
+    "palavras_chave": ["ronco", "respiração", "sono", "vias aéreas", "descanso"]
+  },
+  {
+    "pergunta": "Dormir pelado faz bem?",
+    "resposta": "Pode parecer curioso, mas sim! Dormir sem roupas ajuda a regular a temperatura corporal e facilita o sono profundo. Além disso, melhora a circulação e o conforto. Sabia que temperaturas mais baixas durante o sono favorecem a liberação de hormônios antienvelhecimento?",
+    "palavras_chave": ["sono", "temperatura", "descanso", "corpo", "hormônios"]
+  },
+  {
+    "pergunta": "Como a iluminação natural influencia o sono?",
+    "resposta": "A exposição à luz solar durante o dia ajuda a regular o ciclo circadiano, equilibrando os níveis de melatonina e cortisol. Pessoas que passam o dia em ambientes escuros tendem a ter mais dificuldade para dormir. Sabia que 30 minutos de luz natural pela manhã já fazem diferença?",
+    "palavras_chave": ["luz natural", "ciclo circadiano", "melatonina", "sono", "descanso"]
+  },
+  {
+    "pergunta": "O que é sono profundo e por que ele é tão importante?",
+    "resposta": "O sono profundo é a fase em que o corpo realiza os principais processos de reparo físico e regeneração celular. É também o momento em que o sistema imunológico se fortalece e a memória de longo prazo se consolida. Sabia que essa fase diminui naturalmente com a idade, tornando o sono dos idosos mais leve?",
+    "palavras_chave": ["sono profundo", "descanso", "memória", "imunidade", "idade"]
+  },
+  {
+    "pergunta": "Por que pessoas idosas costumam dormir menos?",
+    "resposta": "Com o envelhecimento, há mudanças no ciclo circadiano e na produção de melatonina, o que faz o sono se tornar mais leve e fragmentado. Além disso, doenças crônicas e medicamentos podem interferir. Sabia que cochilos curtos durante o dia ajudam a compensar a redução do sono noturno em idosos?",
+    "palavras_chave": ["idosos", "sono", "melatonina", "ciclo circadiano", "descanso"]
+  },
+  {
+    "pergunta": "Como o uso de remédios pode afetar o sono?",
+    "resposta": "Alguns medicamentos, como antidepressivos, corticoides e descongestionantes, interferem nas fases do sono e dificultam o descanso. Por outro lado, remédios para dormir devem ser usados com cautela, pois podem causar dependência. Sabia que até suplementos naturais, como valeriana e camomila, influenciam o ciclo do sono?",
+    "palavras_chave": ["remédios", "sono", "medicação", "descanso", "dependência"]
+  },
+  {
+    "pergunta": "Por que acordamos no meio da noite?",
+    "resposta": "Despertares noturnos podem ocorrer por estresse, ruídos, apneia, temperatura inadequada ou consumo de álcool e cafeína. O problema é quando eles se tornam frequentes e afetam o sono profundo. Sabia que acordar entre ciclos do sono é normal, mas a maioria das pessoas nem percebe?",
+    "palavras_chave": ["sono", "despertar", "descanso", "apneia", "estresse"]
+  },
+  {
+    "pergunta": "Como os sonhos lúcidos funcionam?",
+    "resposta": "Nos sonhos lúcidos, a pessoa percebe que está sonhando e pode, em alguns casos, controlar o enredo. Essa habilidade surge durante o sono REM e está associada a maior autoconsciência. Sabia que é possível treinar o cérebro para ter sonhos lúcidos por meio de técnicas de realidade e meditação?",
+    "palavras_chave": ["sonhos lúcidos", "rem", "consciência", "sono", "meditação"]
+  },
+  {
+    "pergunta": "Por que sentimos mais sono em dias frios e chuvosos?",
+    "resposta": "O clima frio e a baixa luminosidade estimulam a produção de melatonina e reduzem a atividade do corpo, gerando sensação de sonolência. Além disso, o conforto térmico da cama ajuda a relaxar. Sabia que esse comportamento é semelhante ao de alguns animais que entram em hibernação?",
+    "palavras_chave": ["sono", "clima", "melatonina", "chuva", "descanso"]
+  },
+  {
+    "pergunta": "Como a respiração influencia o sono?",
+    "resposta": "Respirar de forma lenta e profunda ativa o sistema parassimpático, que reduz o ritmo cardíaco e induz o relaxamento. Por isso, técnicas respiratórias são tão eficazes para combater a insônia. Sabia que o simples ato de inspirar por quatro segundos e expirar por seis já ajuda o corpo a adormecer?",
+    "palavras_chave": ["respiração", "sono", "relaxamento", "parassimpático", "insônia"]
+  },
+  {
+    "pergunta": "O que são terrores noturnos?",
+    "resposta": "Os terrores noturnos são episódios de medo intenso durante o sono, mais comuns em crianças. Diferente dos pesadelos, ocorrem durante o sono profundo e a pessoa geralmente não se lembra do ocorrido. Sabia que evitar estresse e manter rotinas regulares ajuda a reduzir esses episódios?",
+    "palavras_chave": ["terrores noturnos", "sono", "crianças", "pesadelos", "descanso"]
+  },
+  {
+    "pergunta": "Como o sono afeta o sistema imunológico?",
+    "resposta": "Durante o sono, o corpo produz citocinas, substâncias que fortalecem o sistema imunológico. Dormir pouco reduz essa defesa e aumenta a suscetibilidade a infecções. Sabia que quem dorme menos de seis horas por noite tem até três vezes mais chance de pegar um resfriado?",
+    "palavras_chave": ["sono", "imunidade", "citocinas", "descanso", "saúde"]
+  },
+  {
+    "pergunta": "É verdade que dormir ajuda na criatividade?",
+    "resposta": "Sim! O sono, especialmente o REM, estimula conexões cerebrais criativas ao reorganizar memórias e ideias. É por isso que muitas pessoas têm boas ideias logo após acordar. Sabia que Paul McCartney compôs 'Yesterday' após sonhar com a melodia?",
+    "palavras_chave": ["criatividade", "sono", "rem", "cérebro", "memória"]
+  },
+  {
+    "pergunta": "Por que sentimos que caímos ao adormecer?",
+    "resposta": "Essa sensação, chamada de espasmo hípnico, ocorre quando os músculos se contraem involuntariamente enquanto o corpo entra no relaxamento do sono. É uma reação normal e inofensiva. Sabia que ela é mais comum em pessoas com privação de sono ou que consomem muita cafeína?",
+    "palavras_chave": ["sono", "espasmo hípnico", "relaxamento", "músculos", "cafeína"]
+  },
+  {
+    "pergunta": "O que é privação de sono?",
+    "resposta": "Privação de sono é o estado em que a pessoa dorme menos do que o corpo precisa, de forma contínua. Isso afeta a concentração, a imunidade e até a pressão arterial. Sabia que ficar acordado por 24 horas reduz o desempenho cognitivo tanto quanto ter 0,1% de álcool no sangue?",
+    "palavras_chave": ["privação de sono", "cansaço", "cérebro", "saúde", "descanso"]
+  },
+  {
+    "pergunta": "Como o ciclo menstrual afeta o sono das mulheres?",
+    "resposta": "As oscilações hormonais do ciclo menstrual podem causar insônia, sonolência excessiva ou sonhos intensos. Isso ocorre por causa das variações de progesterona e estrogênio. Sabia que dormir bem ajuda a aliviar sintomas da TPM, como irritabilidade e dores?",
+    "palavras_chave": ["sono", "mulheres", "hormônios", "menstruação", "descanso"]
+  },
+  {
+    "pergunta": "Por que dormir mal prejudica a memória?",
+    "resposta": "O sono consolida as memórias do dia, transformando informações de curto prazo em conhecimento duradouro. Quando dormimos mal, esse processo é interrompido. Sabia que estudantes que dormem bem antes das provas lembram até 40% mais do conteúdo estudado?",
+    "palavras_chave": ["memória", "sono", "aprendizado", "descanso", "estudo"]
+  },
+  {
+    "pergunta": "O que é a síndrome das pernas inquietas?",
+    "resposta": "É um distúrbio neurológico que causa desconforto e necessidade de mover as pernas ao deitar, dificultando o início do sono. Pode estar ligado à falta de ferro ou a fatores genéticos. Sabia que alongamentos e banhos mornos antes de dormir ajudam a aliviar os sintomas?",
+    "palavras_chave": ["síndrome", "pernas inquietas", "sono", "descanso", "movimento"]
+  },
+  {
+    "pergunta": "Dormir com animais de estimação atrapalha o sono?",
+    "resposta": "Depende! Para algumas pessoas, a presença do animal traz conforto e reduz a ansiedade. Mas movimentos e ruídos durante a noite podem prejudicar o descanso. Sabia que cerca de 40% dos donos de pets dormem com eles na cama?",
+    "palavras_chave": ["sono", "animais", "descanso", "ansiedade", "pets"]
+  },
+  {
+    "pergunta": "Como o barulho branco ajuda no sono?",
+    "resposta": "O barulho branco, como o som de chuva ou de ventilador, mascara ruídos externos e ajuda o cérebro a relaxar. Ele cria um ambiente sonoro constante que favorece o adormecer. Sabia que existem aplicativos específicos com frequências de ruído projetadas para melhorar o sono?",
+    "palavras_chave": ["barulho branco", "ruído", "sono", "relaxamento", "descanso"]
+  },
+  {
+    "pergunta": "Por que o cérebro precisa 'desligar' à noite?",
+    "resposta": "Durante o sono, o cérebro reduz a atividade consciente para realizar limpeza de toxinas e reorganização das conexões neurais. Esse processo mantém a saúde mental e cognitiva. Sabia que o sistema glinfático, responsável por essa 'faxina', funciona quase exclusivamente durante o sono?",
+    "palavras_chave": ["cérebro", "sono", "toxinas", "glinfático", "descanso"]
+  },
+  {
+    "pergunta": "É possível compensar o sono perdido dormindo mais no fim de semana?",
+    "resposta": "Dormir mais no fim de semana ajuda parcialmente, mas não compensa totalmente a privação de sono acumulada. O corpo e o cérebro precisam de regularidade para funcionar bem. Sabia que alternar horários de sono entre semana e fim de semana causa o chamado 'jet lag social'?",
+    "palavras_chave": ["sono", "compensação", "fim de semana", "descanso", "jet lag social"]
+  },
+  {
+    "pergunta": "Por que o sono afeta a aparência da pele?",
+    "resposta": "Durante o sono, há aumento da produção de colágeno e regeneração celular. Dormir mal acelera o envelhecimento e causa olheiras. Sabia que o termo 'sono de beleza' vem justamente dessa relação entre descanso e aparência saudável?",
+    "palavras_chave": ["pele", "sono", "colágeno", "envelhecimento", "descanso"]
+  },
+  {
+    "pergunta": "O que é o ritmo ultradiano?",
+    "resposta": "O ritmo ultradiano são ciclos menores dentro das 24 horas do dia, como os de 90 minutos do sono. Eles regulam períodos de foco, energia e descanso. Sabia que fazer pausas breves a cada 90 minutos de trabalho segue esse mesmo princípio biológico?",
+    "palavras_chave": ["ritmo ultradiano", "sono", "energia", "descanso", "biologia"]
+  },
+  {
+    "pergunta": "Por que acordar cedo pode melhorar o humor?",
+    "resposta": "A luz da manhã regula o relógio biológico e estimula a produção de serotonina, o hormônio do bem-estar. Pessoas que têm rotina matinal costumam ser mais produtivas e equilibradas. Sabia que dez minutos de sol ao acordar já ajudam a sincronizar o ciclo circadiano?",
+    "palavras_chave": ["acordar cedo", "serotonina", "luz", "sono", "humor"]
+  },
+  {
+    "pergunta": "Como o sono influencia o desempenho físico?",
+    "resposta": "Dormir bem melhora a coordenação, a recuperação muscular e a resistência física. Atletas que dormem mais apresentam melhor desempenho e menor risco de lesões. Sabia que o jogador LeBron James dorme cerca de 10 horas por noite durante a temporada?",
+    "palavras_chave": ["sono", "atletas", "desempenho", "músculos", "descanso"]
+  },
+  {
+    "pergunta": "Por que é mais difícil dormir quando estamos doentes?",
+    "resposta": "Durante infecções, o corpo libera substâncias inflamatórias que alteram a temperatura e o ritmo biológico, dificultando o sono. Ao mesmo tempo, o organismo tenta descansar para se curar. Sabia que a febre noturna é uma resposta natural para combater vírus e bactérias?",
+    "palavras_chave": ["sono", "doença", "febre", "inflamação", "descanso"]
+  },
+  {
+    "pergunta": "Como o trabalho noturno afeta o sono?",
+    "resposta": "Trabalhar à noite desregula o ciclo circadiano e afeta a produção de melatonina, prejudicando a recuperação do corpo. Isso aumenta o risco de fadiga e doenças metabólicas. Sabia que trabalhadores noturnos têm até 40% mais chances de desenvolver distúrbios do sono?",
+    "palavras_chave": ["trabalho noturno", "sono", "melatonina", "fadiga", "ciclo circadiano"]
+  },
+  {
+    "pergunta": "Por que o colchão e o travesseiro fazem tanta diferença?",
+    "resposta": "Colchões e travesseiros adequados sustentam a coluna e reduzem a tensão muscular, melhorando o sono e prevenindo dores. Sabia que o colchão ideal deve se ajustar ao corpo, sem ser nem muito rígido nem muito macio?",
+    "palavras_chave": ["colchão", "travesseiro", "sono", "coluna", "descanso"]
+  },
+  {
+    "pergunta": "Dormir em horários diferentes todos os dias faz mal?",
+    "resposta": "Sim, essa irregularidade confunde o relógio biológico e afeta a qualidade do sono. O corpo não sabe quando liberar hormônios como a melatonina. Sabia que manter uma rotina fixa de sono é mais importante do que dormir muito em um único dia?",
+    "palavras_chave": ["rotina", "sono", "melatonina", "ciclo circadiano", "descanso"]
+  },
+  {
+    "pergunta": "Como o ambiente influencia o sono das crianças?",
+    "resposta": "Um ambiente silencioso, escuro e com temperatura agradável ajuda as crianças a dormir melhor. Rotinas de leitura e luz baixa sinalizam ao corpo que é hora de descansar. Sabia que o uso de telas antes de dormir é uma das principais causas de insônia infantil?",
+    "palavras_chave": ["crianças", "sono", "ambiente", "rotina", "descanso"]
+  },
+  {
+    "pergunta": "Por que o corpo acorda naturalmente antes do despertador às vezes?",
+    "resposta": "O corpo possui um mecanismo interno que antecipa o despertar com base na rotina. Ele libera hormônios de alerta minutos antes do horário habitual. Sabia que isso acontece porque o cérebro associa o padrão de sono a estímulos externos, como a luz e o som?",
+    "palavras_chave": ["sono", "despertar", "rotina", "hormônios", "cérebro"]
+  },
+  {
+    "pergunta": "Como o estresse afeta o sono?",
+    "resposta": "O estresse estimula a liberação de cortisol, o hormônio do alerta, que dificulta o relaxamento necessário para dormir. Por isso, preocupações noturnas e ansiedade atrapalham tanto o descanso. Sabia que praticar respiração profunda antes de deitar reduz o cortisol e melhora o sono?",
+    "palavras_chave": ["estresse", "sono", "cortisol", "relaxamento", "ansiedade"]
+  },
+  {
+    "pergunta": "O que é o relógio biológico?",
+    "resposta": "O relógio biológico é um mecanismo interno que regula o ciclo de sono, fome e temperatura corporal. Ele é controlado pelo ciclo circadiano, influenciado pela luz solar. Sabia que trabalhar de madrugada ou trocar muito de fuso horário pode desregular esse relógio natural?",
+    "palavras_chave": ["relógio biológico", "sono", "ciclo circadiano", "luz", "fuso horário"]
+  },
+  {
+    "pergunta": "Dormir demais faz mal?",
+    "resposta": "Sim, o excesso de sono pode indicar desequilíbrio hormonal, depressão ou distúrbios metabólicos. Além disso, dormir demais pode gerar cansaço e dores musculares. Sabia que o ideal para a maioria dos adultos é entre sete e nove horas de sono por noite?",
+    "palavras_chave": ["sono", "excesso", "descanso", "saúde", "hormônios"]
+  },
+  {
+    "pergunta": "Por que as crianças precisam dormir mais que os adultos?",
+    "resposta": "O sono infantil é essencial para o crescimento, pois é nesse período que o corpo libera o hormônio do crescimento e consolida o aprendizado. Sabia que bebês chegam a dormir até 16 horas por dia nos primeiros meses de vida?",
+    "palavras_chave": ["crianças", "sono", "crescimento", "hormônio", "aprendizado"]
+  },
+  {
+    "pergunta": "Como a alimentação influencia o sono?",
+    "resposta": "Comidas pesadas, cafeína e álcool antes de dormir dificultam o sono. Já alimentos ricos em triptofano, como banana e aveia, ajudam a relaxar. Sabia que o magnésio presente nas folhas verdes também favorece o descanso noturno?",
+    "palavras_chave": ["alimentação", "sono", "triptofano", "cafeína", "magnésio"]
+  },
+  {
+    "pergunta": "O que é higiene do sono?",
+    "resposta": "Higiene do sono é o conjunto de hábitos que melhoram a qualidade do descanso, como evitar telas antes de dormir, manter horários regulares e criar um ambiente escuro e tranquilo. Sabia que só reduzir a luminosidade do quarto já ajuda o corpo a produzir mais melatonina?",
+    "palavras_chave": ["higiene do sono", "rotina", "melatonina", "descanso", "telas"]
+  },
+  {
+    "pergunta": "Por que dormir mal causa irritabilidade?",
+    "resposta": "Quando dormimos pouco, o cérebro reduz o controle emocional e aumenta a atividade da amígdala, área ligada à raiva e ansiedade. Sabia que apenas uma noite mal dormida já pode alterar o humor e o nível de paciência no dia seguinte?",
+    "palavras_chave": ["sono", "emoções", "cérebro", "irritabilidade", "ansiedade"]
+  },
+  {
+    "pergunta": "Como o exercício físico afeta o sono?",
+    "resposta": "Praticar atividades físicas melhora o sono, pois reduz o estresse e equilibra os hormônios. Mas fazer exercícios intensos muito tarde pode ter o efeito contrário. Sabia que treinos matinais ajudam a regular o relógio biológico?",
+    "palavras_chave": ["exercício", "sono", "hormônios", "descanso", "relógio biológico"]
+  },
+  {
+    "pergunta": "Por que bebês acordam tanto durante a noite?",
+    "resposta": "Nos primeiros meses, o ciclo de sono dos bebês é mais curto e dividido entre sono leve e sono REM, o que faz com que acordem com frequência. Sabia que esse comportamento é natural e serve como mecanismo de proteção biológica?",
+    "palavras_chave": ["bebês", "sono", "rem", "descanso", "ciclo"]
+  },
+  {
+    "pergunta": "Como a temperatura do quarto afeta o sono?",
+    "resposta": "Temperaturas elevadas dificultam o início do sono, pois o corpo precisa esfriar para descansar. O ideal é entre 18°C e 22°C. Sabia que um banho morno antes de dormir ajuda a regular essa temperatura corporal?",
+    "palavras_chave": ["temperatura", "sono", "descanso", "ambiente", "banho"]
+  },
+  {
+    "pergunta": "Por que o sono REM é tão importante?",
+    "resposta": "Durante o sono REM, o cérebro processa emoções e consolida memórias, além de ser o estágio onde ocorrem os sonhos mais vívidos. Sabia que essa fase ocupa cerca de 25% de uma noite de sono completa?",
+    "palavras_chave": ["sono rem", "memória", "emoções", "sonhos", "descanso"]
+  },
+  {
+    "pergunta": "O que é apneia do sono?",
+    "resposta": "A apneia do sono é uma condição em que a respiração é interrompida por breves períodos durante o sono. Isso causa fadiga e aumenta o risco de doenças cardíacas. Sabia que o ronco alto pode ser um dos primeiros sinais de apneia?",
+    "palavras_chave": ["apneia", "sono", "respiração", "ronco", "fadiga"]
+  },
+  {
+    "pergunta": "Por que sonhamos?",
+    "resposta": "Os sonhos são interpretações que o cérebro faz das experiências e emoções do dia. Eles ajudam no processamento emocional e na criatividade. Sabia que a maioria dos sonhos acontece na fase REM e dura poucos minutos?",
+    "palavras_chave": ["sonhos", "sono", "emoções", "rem", "criatividade"]
+  },
+  {
+    "pergunta": "O que é insônia crônica?",
+    "resposta": "A insônia crônica é a dificuldade persistente para dormir ou manter o sono por mais de três meses. Pode estar relacionada à ansiedade, depressão ou hábitos inadequados. Sabia que terapia cognitivo-comportamental é mais eficaz do que remédios em muitos casos?",
+    "palavras_chave": ["insônia", "sono", "ansiedade", "terapia", "descanso"]
+  },
+  {
+    "pergunta": "Dormir com música é bom ou ruim?",
+    "resposta": "Depende do tipo de música! Sons suaves e sem letra ajudam o corpo a relaxar, enquanto músicas agitadas podem manter o cérebro desperto. Sabia que frequências entre 60 e 80 batimentos por minuto induzem o sono naturalmente?",
+    "palavras_chave": ["música", "sono", "relaxamento", "frequência", "descanso"]
+  },
+  {
+    "pergunta": "Por que acordamos cansados mesmo dormindo o suficiente?",
+    "resposta": "Isso pode acontecer por sono fragmentado, apneia, ansiedade ou baixa qualidade do sono profundo. Dormir horas suficientes não garante descanso real. Sabia que o ambiente e a alimentação noturna influenciam tanto quanto a quantidade de sono?",
+    "palavras_chave": ["sono", "cansaço", "qualidade", "descanso", "apneia"]
+  },
+  {
+    "pergunta": "Como o álcool afeta o sono?",
+    "resposta": "Apesar de causar sonolência inicial, o álcool interrompe as fases profundas do sono e provoca despertares noturnos. Sabia que ele reduz a duração do sono REM e aumenta o ronco em muitas pessoas?",
+    "palavras_chave": ["álcool", "sono", "rem", "ronco", "descanso"]
+  },
+  {
+    "pergunta": "Por que é mais difícil acordar no inverno?",
+    "resposta": "No frio e na baixa luminosidade, o corpo produz mais melatonina e tende a permanecer em modo de descanso. Sabia que tomar sol logo ao acordar ajuda a regular esse ciclo e despertar mais rápido?",
+    "palavras_chave": ["inverno", "sono", "melatonina", "luz", "despertar"]
+  },
+  {
+    "pergunta": "Como o sono afeta a saúde mental?",
+    "resposta": "Dormir bem equilibra neurotransmissores e ajuda a lidar melhor com o estresse. A falta de sono pode intensificar sintomas de ansiedade e depressão. Sabia que a insônia é um dos primeiros sinais de desequilíbrio emocional?",
+    "palavras_chave": ["sono", "saúde mental", "ansiedade", "depressão", "neurotransmissores"]
+  },
+  {
+    "pergunta": "O que é jet lag social?",
+    "resposta": "Jet lag social é o descompasso entre o relógio biológico e os horários sociais, como dormir tarde e acordar cedo para o trabalho. Sabia que mudar os horários aos poucos ajuda o corpo a se ajustar sem prejuízos ao sono?",
+    "palavras_chave": ["jet lag social", "sono", "relógio biológico", "rotina", "descanso"]
+  },
+  {
+    "pergunta": "Por que as siestas são comuns em alguns países?",
+    "resposta": "Em lugares quentes, como Espanha e México, as siestas servem para recuperar energia no meio do dia e enfrentar melhor o calor. Sabia que estudos mostram que cochilos de até 30 minutos aumentam o foco e reduzem o estresse?",
+    "palavras_chave": ["siesta", "sono", "cochilo", "descanso", "energia"]
+  },
+  {
+    "pergunta": "Como a tecnologia pode ajudar a dormir melhor?",
+    "resposta": "Aplicativos de meditação, monitoramento de sono e sons relaxantes podem ajudar a criar uma rotina saudável. Sabia que relógios inteligentes conseguem identificar as fases do sono e sugerir melhorias?",
+    "palavras_chave": ["tecnologia", "sono", "aplicativos", "monitoramento", "relaxamento"]
+  },
+  {
+    "pergunta": "Por que sentimos tanto sono depois do almoço?",
+    "resposta": "Após comer, o corpo direciona energia para a digestão, e há um leve aumento da melatonina. Sabia que esse fenômeno é chamado de 'queda pós-prandial' e é completamente natural?",
+    "palavras_chave": ["sono", "alimentação", "digestão", "melatonina", "pós-prandial"]
+  },
+  {
+    "pergunta": "Dormir em posição errada pode causar dores?",
+    "resposta": "Sim! Dormir em posições inadequadas sobrecarrega músculos e articulações. Sabia que dormir de lado com um travesseiro entre os joelhos ajuda a alinhar a coluna e reduzir dores?",
+    "palavras_chave": ["sono", "posição", "coluna", "dores", "descanso"]
+  },
+  {
+    "pergunta": "O que são cochilos energéticos?",
+    "resposta": "Cochilos energéticos são sonecas curtas, de 10 a 20 minutos, usadas para restaurar foco e disposição. Sabia que eles melhoram o desempenho cognitivo sem causar sonolência após acordar?",
+    "palavras_chave": ["cochilo", "sono", "energia", "foco", "descanso"]
+  },
+  {
+    "pergunta": "Como a meditação melhora o sono?",
+    "resposta": "A meditação reduz a atividade mental e o estresse, facilitando o adormecer. Técnicas de atenção plena ajudam a desacelerar o corpo e a mente. Sabia que a prática regular pode aumentar a duração do sono profundo?",
+    "palavras_chave": ["meditação", "sono", "relaxamento", "atenção plena", "descanso"]
+  },
+  {
+    "pergunta": "Por que sentimos sonolência ao ler ou estudar?",
+    "resposta": "Ler em ambientes silenciosos e com pouca iluminação reduz o estímulo cerebral, levando à sonolência. Sabia que pequenas pausas e luz adequada ajudam a manter o foco e evitar o sono?",
+    "palavras_chave": ["leitura", "sono", "concentração", "luz", "foco"]
+  },
+  {
+    "pergunta": "Como o café afeta o sono se tomado à tarde?",
+    "resposta": "A cafeína bloqueia a adenosina, substância que induz o sono. Por isso, mesmo uma xícara à tarde pode atrasar o adormecer. Sabia que o efeito da cafeína pode durar até oito horas no organismo?",
+    "palavras_chave": ["cafeína", "sono", "adenosina", "energia", "descanso"]
+  },
+  {
+    "pergunta": "Por que dormir pouco aumenta o apetite?",
+    "resposta": "A falta de sono reduz a leptina, hormônio da saciedade, e aumenta a grelina, que estimula a fome. Sabia que quem dorme menos tende a preferir alimentos ricos em açúcar e gordura?",
+    "palavras_chave": ["sono", "apetite", "leptina", "grelina", "alimentação"]
+  },
+  {
+    "pergunta": "O que acontece com o cérebro durante o sono profundo?",
+    "resposta": "Durante o sono profundo, o cérebro diminui a atividade elétrica e realiza processos de reparo e consolidação de memória. Sabia que essa fase é essencial para restaurar a energia mental?",
+    "palavras_chave": ["cérebro", "sono profundo", "memória", "energia", "descanso"]
+  },
+  {
+    "pergunta": "Por que acordamos no mesmo horário mesmo sem despertador?",
+    "resposta": "O corpo cria um padrão hormonal e térmico regular ao longo dos dias, ajustando-se ao horário habitual de acordar. Sabia que esse fenômeno é controlado por um grupo de neurônios chamado núcleo supraquiasmático?",
+    "palavras_chave": ["sono", "despertar", "hormônios", "rotina", "cérebro"]
+  }
+]

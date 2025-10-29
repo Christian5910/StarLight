@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "O que foi o programa Apollo e qual seu maior feito?",
+    "resposta": "O programa Apollo foi uma iniciativa da NASA, lançada nos anos 1960, com o objetivo de levar humanos à Lua. Ele representou um marco na exploração espacial, impulsionado pela Corrida Espacial entre EUA e União Soviética. O maior feito foi a Apollo 11, em 1969, quando Neil Armstrong e Buzz Aldrin se tornaram os primeiros humanos a pisar na Lua. Esse momento não só demonstrou o poder da tecnologia aeroespacial, mas também uniu o mundo em torno de um feito histórico. A missão exigiu inovações como o foguete Saturn V e sistemas de navegação avançados. Curiosamente, sabia que as pegadas deixadas na Lua pelos astronautas ainda estão lá, pois não há vento ou chuva para apagá-las?",
+    "palavras_chave": ["programa apollo", "lua", "nasa", "apollo 11", "corrida espacial"]
+  },
+  {
+    "pergunta": "Como os foguetes espaciais funcionam?",
+    "resposta": "Foguetes espaciais operam com base na terceira lei de Newton: para cada ação, há uma reação igual e oposta. Eles queimam combustível em câmaras de combustão, expelindo gases quentes a altíssima velocidade por um bico, o que gera o empuxo necessário para subir. O combustível, geralmente uma mistura de oxigênio líquido e hidrogênio, é armazenado em tanques enormes. Um exemplo famoso é o Saturn V, usado nas missões Apollo. A precisão é crucial, já que pequenos erros podem desviar a trajetória. Sabia que os foguetes modernos, como os da SpaceX, são parcialmente reutilizáveis, reduzindo custos e revolucionando a exploração espacial?",
+    "palavras_chave": ["foguete", "empuxo", "combustível", "newton", "spacex"]
+  },
+  {
+    "pergunta": "O que é a Estação Espacial Internacional e para que serve?",
+    "resposta": "A Estação Espacial Internacional, ou ISS, é um laboratório orbital habitado, construído por uma colaboração entre várias nações, como EUA, Rússia, Japão e países europeus. Ela orbita a Terra a cerca de 400 km de altitude e serve como um centro de pesquisas científicas em microgravidade. Experimentos lá vão desde biologia até física de materiais, ajudando a desenvolver tecnologias para futuras missões espaciais e até para a vida na Terra. A ISS também é um símbolo de cooperação internacional. Sabia que astronautas na ISS veem 16 nasceres do sol por dia, devido à sua órbita rápida?",
+    "palavras_chave": ["iss", "microgravidade", "pesquisa", "órbita", "cooperação internacional"]
+  },
+  {
+    "pergunta": "Por que usamos rovers em Marte?",
+    "resposta": "Rovers são robôs móveis enviados a Marte para explorar sua superfície, coletar dados e buscar sinais de vida passada ou condições habitáveis. Diferente de sondas orbitais, rovers como o Curiosity e o Perseverance podem analisar rochas, solo e atmosfera de perto, com instrumentos como câmeras e espectrômetros. Eles ajudam a entender a geologia marciana e preparam o terreno para futuras missões humanas. A análise crítica aqui é que, apesar de incríveis, rovers são limitados pela comunicação lenta com a Terra. Sabia que o Perseverance carrega um pequeno helicóptero, o Ingenuity, que fez o primeiro voo controlado em outro planeta?",
+    "palavras_chave": ["rovers", "marte", "perseverance", "curiosity", "ingenuity"]
+  },
+  {
+    "pergunta": "Qual é o papel dos satélites na exploração espacial?",
+    "resposta": "Satélites são essenciais na exploração espacial, funcionando como olhos e ouvidos no espaço. Eles coletam dados sobre o clima, a superfície terrestre, corpos celestes e até sinais de rádio do universo. Satélites como o Hubble observam galáxias distantes, enquanto outros, como os de comunicação, conectam o mundo. Eles usam tecnologias como painéis solares e sensores avançados. Uma crítica é que a órbita terrestre está ficando lotada, aumentando o risco de colisões. Sabia que o lixo espacial, como satélites desativados, é um problema crescente, com mais de 27 mil objetos rastreados?",
+    "palavras_chave": ["satélites", "hubble", "lixo espacial", "órbita", "comunicação"]
+  },
+  {
+    "pergunta": "O que são trajes espaciais e por que são tão complexos?",
+    "resposta": "Trajes espaciais são roupas especializadas que protegem astronautas no vácuo do espaço, fornecendo oxigênio, controle de temperatura e proteção contra radiação e micrometeoritos. Eles são como naves espaciais individuais, com sistemas de suporte à vida, comunicações e mobilidade. O desenvolvimento exige materiais avançados, como kevlar, e designs ergonômicos. Uma crítica é o custo elevado e a dificuldade de torná-los mais leves. Sabia que o traje usado na Lua pela Apollo pesava 80 kg na Terra, mas apenas 13 kg na gravidade lunar?",
+    "palavras_chave": ["traje espacial", "vácuo", "astronauta", "radiação", "apollo"]
+  },
+  {
+    "pergunta": "Como a SpaceX mudou a exploração espacial?",
+    "resposta": "A SpaceX, fundada por Elon Musk, revolucionou a exploração espacial ao introduzir foguetes reutilizáveis, como o Falcon 9, que reduz drasticamente os custos de lançamento. Eles também desenvolveram a Starship, projetada para missões a Marte. A empresa tornou o espaço mais acessível, lançando satélites e levando astronautas à ISS. Uma crítica é que a busca por lucro pode priorizar projetos comerciais sobre ciência pura. Sabia que a SpaceX foi a primeira empresa privada a enviar uma nave tripulada à ISS, em 2020?",
+    "palavras_chave": ["spacex", "falcon 9", "starship", "reutilização", "elon musk"]
+  },
+  {
+    "pergunta": "O que é o telescópio James Webb e o que ele faz?",
+    "resposta": "O Telescópio Espacial James Webb, lançado em 2021, é o sucessor do Hubble. Ele observa o universo em infravermelho, captando luz de estrelas e galáxias distantes, algumas formadas logo após o Big Bang. Com seu espelho de 6,5 metros, ele estuda desde exoplanetas até buracos negros. A tecnologia é tão avançada que exige resfriamento a -223°C para funcionar. Uma crítica é o alto custo, cerca de 10 bilhões de dólares. Sabia que o Webb está a 1,5 milhão de km da Terra, em um ponto chamado L2?",
+    "palavras_chave": ["james webb", "infravermelho", "hubble", "exoplanetas", "big bang"]
+  },
+  {
+    "pergunta": "Por que é tão difícil enviar humanos a Marte?",
+    "resposta": "Enviar humanos a Marte é um desafio por causa da distância, que varia de 78 a 400 milhões de km, exigindo viagens de 6 a 9 meses. A radiação cósmica é um risco à saúde, e a gravidade reduzida pode causar problemas musculares e ósseos. Além disso, é preciso garantir suprimentos, oxigênio e proteção contra o ambiente marciano. A análise crítica é que a tecnologia atual ainda não resolve todos esses problemas de forma acessível. Sabia que a NASA planeja missões tripuladas a Marte para os anos 2030?",
+    "palavras_chave": ["marte", "radiação", "viagem espacial", "nasa", "gravidade"]
+  },
+  {
+    "pergunta": "O que é o conceito de propulsão iônica e como ele funciona?",
+    "resposta": "Propulsão iônica é uma tecnologia que usa eletricidade para acelerar íons, geralmente de xenônio, criando um empuxo suave, mas contínuo. Diferente dos foguetes químicos, ela é mais eficiente para longas viagens espaciais, como missões a asteroides ou planetas distantes. Um exemplo é a sonda Dawn, que explorou Vesta e Ceres. A crítica é que o empuxo baixo exige muito tempo para acelerar. Sabia que a propulsão iônica pode operar por anos, permitindo missões de longa duração?",
+    "palavras_chave": ["propulsão iônica", "íons", "dawn", "eficiência", "xenônio"]
+  },
+  {
+    "pergunta": "Como os astronautas se preparam para missões espaciais?",
+    "resposta": "Astronautas passam por anos de treinamento, que inclui simulações em microgravidade, mergulhos em piscinas para replicar caminhadas espaciais e estudo de sistemas da nave. Eles também aprendem ciência, idiomas e até sobrevivência, caso a missão tenha imprevistos. O treinamento é intenso para garantir segurança e eficiência. Uma crítica é que o processo é caro e demorado. Sabia que astronautas treinam em centrífugas para suportar forças de até 8 vezes a gravidade terrestre?",
+    "palavras_chave": ["astronautas", "treinamento", "microgravidade", "caminhada espacial", "centrífuga"]
+  },
+  {
+    "pergunta": "O que é o ponto de Lagrange e por que ele é útil?",
+    "resposta": "Os pontos de Lagrange são cinco posições no espaço onde as forças gravitacionais de dois corpos, como a Terra e o Sol, se equilibram, permitindo que objetos, como satélites, fiquem estacionários em relação a eles. O ponto L2, por exemplo, é usado pelo telescópio James Webb por sua estabilidade e visão clara do universo. Eles economizam combustível em missões espaciais. Uma crítica é que nem todos os pontos são igualmente estáveis. Sabia que o L1 é usado para monitorar o clima espacial do Sol?",
+    "palavras_chave": ["lagrange", "gravidade", "james webb", "satélites", "estabilidade"]
+  },
+  {
+    "pergunta": "Como os painéis solares são usados no espaço?",
+    "resposta": "Painéis solares convertem luz solar em eletricidade para alimentar naves, satélites e estações como a ISS. Eles são feitos de células fotovoltaicas, projetadas para resistir ao ambiente espacial. Um exemplo é a sonda Juno, que usa painéis solares mesmo estando tão longe do Sol, em Júpiter. A crítica é que eles podem ser danificados por detritos ou radiação. Sabia que os painéis da ISS geram até 120 kW, o suficiente para abastecer uma pequena vila?",
+    "palavras_chave": ["painéis solares", "eletricidade", "iss", "juno", "fotovoltaica"]
+  },
+  {
+    "pergunta": "O que é o programa Artemis e qual seu objetivo?",
+    "resposta": "O programa Artemis é uma iniciativa da NASA para retornar humanos à Lua até o final dos anos 2020, com foco em estabelecer uma presença sustentável. Ele usa o foguete SLS e a cápsula Orion, além de planejar uma estação orbital lunar chamada Gateway. A ideia é usar a Lua como base para futuras missões a Marte. Uma crítica é o alto custo e os atrasos no cronograma. Sabia que Artemis planeja levar a primeira mulher e a primeira pessoa não branca à Lua?",
+    "palavras_chave": ["artemis", "lua", "nasa", "gateway", "orion"]
+  },
+  {
+    "pergunta": "Por que usamos sondas para explorar planetas distantes?",
+    "resposta": "Sondas são naves não tripuladas enviadas para estudar planetas, luas e asteroides distantes, onde humanos ainda não podem ir. Equipadas com câmeras, espectrômetros e outros instrumentos, elas coletam dados sobre composição, atmosfera e geologia. A Voyager 2, por exemplo, explorou Urano e Netuno. A crítica é que sondas dependem de energia limitada e comunicações demoradas. Sabia que a Voyager 1, lançada em 1977, ainda envia sinais da borda do sistema solar?",
+    "palavras_chave": ["sondas", "voyager", "exploração", "planetas", "instrumentos"]
+  },
+  {
+    "pergunta": "O que é o conceito de mineração espacial?",
+    "resposta": "Mineração espacial é a ideia de extrair recursos, como água, metais ou gases, de asteroides, luas ou planetas. Água pode ser convertida em combustível, e metais raros, como platina, têm valor econômico. Empresas como a Planetary Resources já exploram essa possibilidade. A crítica é que a tecnologia ainda é cara e os impactos ambientais no espaço são incertos. Sabia que um único asteroide pode conter mais platina do que já foi minerado na Terra?",
+    "palavras_chave": ["mineração espacial", "asteroides", "recursos", "platina", "água"]
+  },
+  {
+    "pergunta": "Como a realidade virtual é usada no treinamento de astronautas?",
+    "resposta": "Realidade virtual (VR) é usada para simular ambientes espaciais, como a superfície da Lua ou a ISS, permitindo que astronautas pratiquem caminhadas espaciais ou operações complexas. A VR cria cenários realistas, reduzindo riscos e custos. Por exemplo, a NASA usa VR para treinar reparos na ISS. A crítica é que a tecnologia não substitui completamente a experiência real. Sabia que a VR também ajuda astronautas a lidar com o isolamento psicológico no espaço?",
+    "palavras_chave": ["realidade virtual", "treinamento", "astronautas", "iss", "simulação"]
+  },
+  {
+    "pergunta": "O que é o foguete SLS e para que ele serve?",
+    "resposta": "O Space Launch System (SLS) é um foguete poderoso da NASA, projetado para missões de espaço profundo, como o programa Artemis. Ele pode carregar grandes cargas, como a cápsula Orion, para a Lua ou além. Sua capacidade é maior que a do Saturn V. Uma crítica é que seu desenvolvimento foi caro e sofreu atrasos. Sabia que o SLS pode levar até 46 toneladas à órbita lunar, quase o peso de um avião comercial?",
+    "palavras_chave": ["sls", "artemis", "espaço profundo", "orion", "carga"]
+  },
+  {
+    "pergunta": "Como a inteligência artificial ajuda na exploração espacial?",
+    "resposta": "A inteligência artificial (IA) é usada para processar dados de sondas, navegar rovers e otimizar missões. Por exemplo, o rover Perseverance usa IA para escolher alvos de estudo em Marte de forma autônoma. Ela também analisa imagens de telescópios para encontrar exoplanetas. A crítica é que a IA ainda precisa de supervisão humana para decisões críticas. Sabia que a IA ajudou a identificar mais de 300 exoplanetas em dados do telescópio Kepler?",
+    "palavras_chave": ["inteligência artificial", "rovers", "exoplanetas", "perseverance", "kepler"]
+  },
+  {
+    "pergunta": "O que é a estação lunar Gateway?",
+    "resposta": "O Gateway é uma estação espacial planejada para orbitar a Lua, parte do programa Artemis. Ela servirá como base para astronautas, ponto de pesquisa e parada para missões à superfície lunar ou a Marte. Equipada com módulos habitáveis e laboratórios, ela será menor que a ISS. A crítica é que sua construção depende de colaboração internacional, o que pode gerar atrasos. Sabia que o Gateway será posicionado em uma órbita elíptica única, chamada NRHO?",
+    "palavras_chave": ["gateway", "artemis", "lua", "órbita", "estação espacial"]
+  },
+  {
+    "pergunta": "Por que a exploração de asteroides é importante?",
+    "resposta": "Explorar asteroides ajuda a entender a formação do sistema solar, já que eles são resquícios de material primordial. Além disso, asteroides podem conter água e minerais valiosos, úteis para missões espaciais ou economia terrestre. A sonda OSIRIS-REx, por exemplo, coletou amostras do asteroide Bennu. A crítica é que o retorno financeiro ainda é incerto. Sabia que alguns asteroides são tão grandes que têm suas próprias luas?",
+    "palavras_chave": ["asteroides", "mineração", "osiris-rex", "bennu", "sistema solar"]
+  },
+  {
+    "pergunta": "O que é o conceito de vela solar e como ela funciona?",
+    "resposta": "Velas solares são dispositivos que usam a pressão da luz solar para propelir naves espaciais. Feitas de materiais leves e reflexivos, como mylar, elas refletem fótons do Sol, gerando um empuxo pequeno, mas contínuo. A sonda LightSail 2 demonstrou essa tecnologia em 2019. A crítica é que velas solares são lentas e dependem da proximidade do Sol. Sabia que elas poderiam, teoricamente, alcançar velocidades altíssimas em viagens interestelares?",
+    "palavras_chave": ["vela solar", "lightsail", "propulsão", "fótons", "espaço"]
+  },
+  {
+    "pergunta": "Como as comunicações no espaço funcionam?",
+    "resposta": "Comunicações espaciais dependem de ondas de rádio enviadas entre naves, satélites e estações terrestres, como a Rede de Espaço Profundo da NASA. Antenas parabólicas captam e transmitem sinais, que podem levar minutos ou horas, dependendo da distância. A crítica é que a latência em planetas distantes, como Marte, atrasa operações. Sabia que a Voyager 1, a 24 bilhões de km da Terra, ainda envia sinais, mas com um atraso de 22 horas?",
+    "palavras_chave": ["comunicações", "ondas de rádio", "voyager", "latência", "nasa"]
+  },
+  {
+    "pergunta": "O que é a cápsula Orion e para que ela serve?",
+    "resposta": "A cápsula Orion é uma nave espacial da NASA projetada para missões tripuladas de espaço profundo, como as do programa Artemis. Ela pode levar até quatro astronautas e tem sistemas avançados de suporte à vida e proteção contra radiação. Sua versatilidade permite missões à Lua e, futuramente, a Marte. A crítica é que seu desenvolvimento foi caro e demorado. Sabia que a Orion sobreviveu a um teste de reentrada na atmosfera a 32 mil km/h?",
+    "palavras_chave": ["orion", "artemis", "espaço profundo", "astronautas", "reentrada"]
+  },
+  {
+    "pergunta": "Como os telescópios espaciais diferem dos terrestres?",
+    "resposta": "Telescópios espaciais, como o Hubble e o James Webb, estão fora da atmosfera terrestre, o que elimina distorções causadas por poluição luminosa ou turbulência atmosférica. Isso permite imagens mais nítidas de objetos distantes, como galáxias e nebulosas. Telescópios terrestres, apesar de mais baratos, enfrentam essas limitações. A crítica é que telescópios espaciais são caros e difíceis de reparar. Sabia que o Hubble foi consertado por astronautas em órbita cinco vezes?",
+    "palavras_chave": ["telescópios", "hubble", "james webb", "atmosfera", "imagens"]
+  },
+  {
+    "pergunta": "O que é a Corrida Espacial e por que ela foi importante?",
+    "resposta": "A Corrida Espacial foi uma competição entre os EUA e a União Soviética, durante a Guerra Fria, para alcançar supremacia na exploração espacial. Começou com o lançamento do Sputnik, em 1957, e culminou com a chegada à Lua em 1969. Esse período acelerou inovações tecnológicas, como satélites e computadores, e inspirou gerações. Uma crítica é que o foco era mais político do que científico. Sabia que o Sputnik, o primeiro satélite, era do tamanho de uma bola de basquete?",
+    "palavras_chave": ["corrida espacial", "sputnik", "lua", "guerra fria", "tecnologia"]
+  },
+  {
+    "pergunta": "Como os computadores são usados em missões espaciais?",
+    "resposta": "Computadores são o cérebro das missões espaciais, controlando desde a navegação até a coleta de dados. Eles processam informações de sensores, ajustam trajetórias e gerenciam comunicações. Por exemplo, o computador da Apollo 11 tinha menos poder que um smartphone atual, mas guiou astronautas à Lua. A crítica é que falhas de software podem comprometer missões inteiras. Sabia que os computadores de naves são protegidos contra radiação com escudos especiais?",
+    "palavras_chave": ["computadores", "navegação", "apollo 11", "radiação", "software"]
+  },
+  {
+    "pergunta": "O que é a Rede de Espaço Profundo da NASA?",
+    "resposta": "A Rede de Espaço Profundo (DSN) é um sistema de antenas gigantes, localizadas na Austrália, Espanha e EUA, que se comunica com naves espaciais distantes. Ela envia comandos e recebe dados de sondas como a Voyager e o Perseverance. A DSN é crucial para missões interplanetárias, mas sua capacidade é limitada, causando gargalos. Sabia que as antenas da DSN podem captar sinais tão fracos quanto um bilionésimo de watt?",
+    "palavras_chave": ["dsn", "antenas", "voyager", "perseverance", "comunicação"]
+  },
+  {
+    "pergunta": "Por que a microgravidade é usada em experimentos espaciais?",
+    "resposta": "A microgravidade, como na ISS, permite experimentos que não seriam possíveis na Terra, onde a gravidade interfere. Por exemplo, cientistas estudam o crescimento de cristais ou o comportamento de fluidos em microgravidade, com aplicações em medicina e tecnologia. A crítica é que o acesso à microgravidade é caro e limitado. Sabia que medicamentos como vacinas foram aprimorados com estudos em microgravidade?",
+    "palavras_chave": ["microgravidade", "iss", "experimentos", "cristais", "medicina"]
+  },
+  {
+    "pergunta": "O que é o programa Voyager e o que ele descobriu?",
+    "resposta": "O programa Voyager, da NASA, lançou duas sondas em 1977 para explorar os planetas externos do sistema solar. A Voyager 2 foi a única a visitar Urano e Netuno, revelando detalhes como anéis e luas desconhecidas. Ambas ainda enviam dados do espaço interestelar. Uma crítica é que a tecnologia antiga limita a análise atual. Sabia que as Voyagers carregam discos de ouro com sons e imagens da Terra para possíveis alienígenas?",
+    "palavras_chave": ["voyager", "planetas externos", "disco de ouro", "urano", "netuno"]
+  },
+  {
+    "pergunta": "Como os escudos térmicos protegem as naves espaciais?",
+    "resposta": "Escudos térmicos protegem naves da intensa fricção e calor gerados ao entrar na atmosfera terrestre ou de outros planetas, que pode atingir milhares de graus. Eles são feitos de materiais ablativos, que queimam controladamente, ou cerâmicas resistentes. A cápsula Orion, por exemplo, usa um escudo para reentradas a alta velocidade. A crítica é que esses sistemas aumentam o peso da nave. Sabia que o escudo da Apollo 11 perdeu 50% de sua massa durante a reentrada?",
+    "palavras_chave": ["escudo térmico", "reentrada", "orion", "atmosfera", "calor"]
+  },
+  {
+    "pergunta": "O que são exoplanetas e como os detectamos?",
+    "resposta": "Exoplanetas são planetas fora do nosso sistema solar. Usamos telescópios como o Kepler para detectá-los por métodos como o trânsito, que observa quedas na luz estelar quando um planeta passa na frente de sua estrela. A tecnologia permitiu descobrir milhares de exoplanetas, alguns potencialmente habitáveis. A crítica é que confirmar habitabilidade é extremamente difícil. Sabia que o primeiro exoplaneta foi descoberto em 1995, orbitando a estrela 51 Pegasi?",
+    "palavras_chave": ["exoplanetas", "kepler", "trânsito", "habitabilidade", "telescópio"]
+  },
+  {
+    "pergunta": "Como a impressão 3D pode ajudar na exploração espacial?",
+    "resposta": "A impressão 3D permite criar ferramentas, peças sobressalentes e até habitats no espaço, reduzindo a dependência de suprimentos da Terra. Na ISS, astronautas já imprimiram chaves e suportes. No futuro, pode ser usada para construir bases lunares com regolito. A crítica é que a tecnologia ainda é lenta para grandes estruturas. Sabia que a NASA testou impressoras 3D que usam poeira lunar simulada?",
+    "palavras_chave": ["impressão 3d", "iss", "regolito", "habitat", "ferramentas"]
+  },
+  {
+    "pergunta": "O que é a sonda OSIRIS-REx e o que ela fez?",
+    "resposta": "A OSIRIS-REx é uma missão da NASA que coletou amostras do asteroide Bennu em 2020 e as trouxe de volta à Terra em 2023. O objetivo era estudar a composição de asteroides, que podem revelar segredos sobre a formação do sistema solar. A missão foi um sucesso, mas enfrentou desafios na análise das amostras. Sabia que Bennu tem chance de colidir com a Terra em 2182, embora pequena?",
+    "palavras_chave": ["osiris-rex", "bennu", "asteroide", "amostras", "sistema solar"]
+  },
+  {
+    "pergunta": "Por que a exploração de luas como Europa é importante?",
+    "resposta": "Luas como Europa, de Júpiter, são alvos de exploração por terem oceanos subterrâneos que podem abrigar vida. A sonda Europa Clipper, planejada para 2024, estudará sua superfície gelada e composição. Esses estudos ajudam a entender a habitabilidade em outros mundos. A crítica é que acessar esses oceanos é tecnologicamente desafiador. Sabia que o oceano de Europa pode ter mais água que todos os oceanos da Terra?",
+    "palavras_chave": ["europa", "oceanos", "vida", "europa clipper", "júpiter"]
+  },
+  {
+    "pergunta": "O que é o conceito de habitat inflável no espaço?",
+    "resposta": "Habitats infláveis são estruturas expansíveis, como tendas, usadas para criar espaços habitáveis no espaço ou em superfícies planetárias. Eles são leves, fáceis de transportar e podem ser expandidos na órbita ou na Lua. A empresa Bigelow Aerospace testou módulos infláveis na ISS. A crítica é que eles são vulneráveis a perfurações. Sabia que um módulo inflável da ISS foi testado por dois anos sem falhas?",
+    "palavras_chave": ["habitat inflável", "iss", "bigelow", "lua", "expansível"]
+  },
+  {
+    "pergunta": "Como os lasers são usados na exploração espacial?",
+    "resposta": "Lasers são usados para comunicações de alta velocidade e medições precisas no espaço. Por exemplo, a tecnologia LIDAR mapeia superfícies planetárias, como em missões a Marte. Lasers também podem transmitir dados entre naves e a Terra mais rápido que ondas de rádio. A crítica é que a tecnologia é cara e requer alinhamento preciso. Sabia que a missão LRO usou LIDAR para criar um mapa 3D da Lua?",
+    "palavras_chave": ["lasers", "lidar", "comunicação", "mapeamento", "lro"]
+  },
+  {
+    "pergunta": "O que é a Starship da SpaceX e qual seu propósito?",
+    "resposta": "A Starship é um foguete reutilizável da SpaceX, projetado para missões de longo alcance, como colonizar Marte ou levar cargas à Lua. Com capacidade para 100 pessoas, é o maior foguete já construído. Sua reutilização visa baratear o acesso ao espaço. A crítica é que os testes iniciais tiveram explosões, mostrando desafios técnicos. Sabia que a Starship pode levar até 150 toneladas à órbita terrestre?",
+    "palavras_chave": ["starship", "spacex", "marte", "reutilização", "carga"]
+  },
+  {
+    "pergunta": "Como os sistemas de suporte à vida funcionam no espaço?",
+    "resposta": "Sistemas de suporte à vida, como os da ISS, fornecem oxigênio, controlam temperatura e removem dióxido de carbono. Eles reciclam água e ar, usando filtros e processos químicos. Esses sistemas são cruciais para missões longas, mas podem falhar, exigindo reparos complexos. Sabia que a ISS recicla cerca de 90% da água usada, incluindo suor e urina dos astronautas?",
+    "palavras_chave": ["suporte à vida", "iss", "reciclagem", "oxigênio", "água"]
+  },
+  {
+    "pergunta": "O que é a missão DART e qual seu objetivo?",
+    "resposta": "A missão DART (Double Asteroid Redirection Test), da NASA, testou a defesa planetária ao colidir uma nave com o asteroide Dimorphos em 2022, alterando sua órbita. O objetivo é desenvolver técnicas para desviar asteroides que ameacem a Terra. A missão foi bem-sucedida, mas a crítica é que a tecnologia precisa de mais testes. Sabia que a colisão da DART criou uma nuvem de detritos visível da Terra?",
+    "palavras_chave": ["dart", "asteroide", "dimorphos", "defesa planetária", "colisão"]
+  },
+  {
+    "pergunta": "Por que usamos robôs para explorar o espaço profundo?",
+    "resposta": "Robôs, como sondas e rovers, são ideais para o espaço profundo porque podem operar em ambientes extremos sem risco humano. Eles coletam dados em locais como Titã ou Plutão, onde humanos não chegariam. A New Horizons, por exemplo, revelou detalhes sobre Plutão em 2015. A crítica é que robôs têm autonomia limitada. Sabia que a sonda Cassini passou 13 anos estudando Saturno antes de se autodestruir em sua atmosfera?",
+    "palavras_chave": ["robôs", "espaço profundo", "new horizons", "cassini", "autonomia"]
+  },
+  {
+    "pergunta": "O que é o programa CLPS da NASA?",
+    "resposta": "O programa CLPS (Commercial Lunar Payload Services) da NASA contrata empresas privadas, como Astrobotic e Intuitive Machines, para enviar cargas científicas à Lua. Ele apoia o programa Artemis, testando tecnologias e coletando dados. A crítica é que a dependência de empresas privadas pode gerar atrasos. Sabia que a primeira missão CLPS, em 2024, tentou o primeiro pouso lunar privado dos EUA?",
+    "palavras_chave": ["clps", "lua", "artemis", "empresas privadas", "cargas"]
+  },
+  {
+    "pergunta": "Como a tecnologia GPS ajuda na exploração espacial?",
+    "resposta": "O GPS, embora projetado para a Terra, inspira sistemas de navegação para naves espaciais. Satélites em órbita lunar ou marciana podem usar sinais semelhantes para guiar rovers ou landers com precisão. A crítica é que o GPS não funciona no espaço profundo, exigindo outras soluções. Sabia que a NASA está desenvolvendo um 'GPS lunar' para as missões Artemis?",
+    "palavras_chave": ["gps", "navegação", "artemis", "rovers", "lua"]
+  },
+  {
+    "pergunta": "O que é a sonda Juno e o que ela estuda?",
+    "resposta": "A sonda Juno, lançada pela NASA em 2011, orbita Júpiter para estudar seu campo magnético, atmosfera e estrutura interna. Seus dados ajudam a entender como planetas gasosos se formam. Juno usa painéis solares, apesar da distância do Sol. A crítica é que sua órbita polar expõe a sonda a alta radiação. Sabia que Juno revelou tempestades gigantes na atmosfera de Júpiter, maiores que a Terra?",
+    "palavras_chave": ["juno", "júpiter", "campo magnético", "atmosfera", "radiação"]
+  },
+  {
+    "pergunta": "Por que a colonização de Marte é um objetivo da exploração espacial?",
+    "resposta": "Colonizar Marte é um objetivo para garantir a sobrevivência da humanidade, caso a Terra enfrente catástrofes, e para expandir nosso conhecimento. Marte tem água congelada e uma atmosfera fina, mas exige tecnologias avançadas para habitats e agricultura. A crítica é que os custos e riscos éticos são enormes. Sabia que Elon Musk planeja enviar 1 milhão de pessoas a Marte até 2050?",
+    "palavras_chave": ["colonização", "marte", "humanidade", "habitats", "elon musk"]
+  },
+  {
+    "pergunta": "O que é o conceito de elevador espacial?",
+    "resposta": "Um elevador espacial é uma ideia teórica de um cabo que conecta a Terra a uma estação orbital, permitindo transporte de cargas sem foguetes. Ele usaria materiais superfortes, como nanotubos de carbono. A crítica é que a tecnologia atual não suporta a tensão do cabo. Sabia que o conceito foi popularizado pelo escritor de ficção científica Arthur C. Clarke?",
+    "palavras_chave": ["elevador espacial", "nanotubos", "órbita", "transporte", "arthur c. clarke"]
+  },
+  {
+    "pergunta": "Como os espectrômetros ajudam na exploração espacial?",
+    "resposta": "Espectrômetros analisam a luz refletida ou emitida por planetas, luas e asteroides para identificar sua composição química. Eles detectam água, minerais e gases, como na sonda Curiosity, que encontrou compostos orgânicos em Marte. A crítica é que os dados precisam de interpretação complexa. Sabia que espectrômetros confirmaram a presença de gelo em crateras lunares escuras?",
+    "palavras_chave": ["espectrômetros", "composição", "curiosity", "água", "lua"]
+  },
+  {
+    "pergunta": "O que é a missão Psyche e o que ela estuda?",
+    "resposta": "A missão Psyche, da NASA, lançada em 2023, explora o asteroide metálico Psyche, que pode ser o núcleo exposto de um protoplaneta. A sonda estuda sua composição para entender a formação de planetas rochosos. A crítica é que o asteroide está muito distante, exigindo anos de viagem. Sabia que Psyche pode conter metais valiosos, como ferro e níquel, no valor de trilhões de dólares?",
+    "palavras_chave": ["psyche", "asteroide", "metais", "formação planetária", "nasa"]
+  },
+  {
+    "pergunta": "Como a realidade aumentada é usada na exploração espacial?",
+    "resposta": "Realidade aumentada (AR) é usada para melhorar o controle de rovers e auxiliar astronautas em reparos na ISS. Ela sobrepõe dados digitais, como instruções, em visores ou telas. A crítica é que a AR ainda está em fase inicial para uso no espaço. Sabia que a Microsoft HoloLens foi testada na ISS para guiar astronautas em tarefas complexas?",
+    "palavras_chave": ["realidade aumentada", "rovers", "iss", "hololens", "astronautas"]
+  },
+  {
+    "pergunta": "O que é o conceito de terraformação e por que é estudado?",
+    "resposta": "Terraformação é a ideia de transformar planetas, como Marte, para torná-los habitáveis, ajustando atmosfera, temperatura e água. Isso envolveria tecnologias como liberação de gases de efeito estufa ou cultivo de plantas. A crítica é que o processo levaria séculos e tem questões éticas. Sabia que Carl Sagan propôs a terraformação de Marte já na década de 1970?",
+    "palavras_chave": ["terraformação", "marte", "habitabilidade", "atmosfera", "carl sagan"]
+  },
+  {
+    "pergunta": "O que é o programa Sputnik e qual foi seu impacto?",
+    "resposta": "O programa Sputnik, da União Soviética, lançou o primeiro satélite artificial, o Sputnik 1, em 1957, marcando o início da era espacial. Ele era uma esfera simples com antenas, mas provou que objetos poderiam orbitar a Terra. Isso desencadeou a Corrida Espacial, estimulando avanços em tecnologia e ciência. Uma crítica é que o programa foi mais um golpe político do que científico. Sabia que o Sputnik 1 orbitou a Terra por três meses antes de queimar na atmosfera?",
+    "palavras_chave": ["sputnik", "satélite", "corrida espacial", "união soviética", "órbita"]
+  },
+  {
+    "pergunta": "Como os sistemas de navegação inercial funcionam em naves espaciais?",
+    "resposta": "Sistemas de navegação inercial usam giroscópios e acelerômetros para rastrear a posição e orientação de uma nave sem depender de sinais externos. Eles medem mudanças no movimento e calculam trajetórias, como na Apollo. São essenciais no espaço profundo, mas acumulam pequenos erros ao longo do tempo. Sabia que os giroscópios modernos usam lasers para maior precisão?",
+    "palavras_chave": ["navegação inercial", "giroscópios", "acelerômetros", "apollo", "espaço profundo"]
+  },
+  {
+    "pergunta": "O que é a missão Cassini e o que ela revelou sobre Saturno?",
+    "resposta": "A missão Cassini, lançada pela NASA em 1997, estudou Saturno, seus anéis e luas por 13 anos. Ela revelou detalhes sobre a atmosfera de Saturno, descobriu lagos de metano em Titã e gêiseres em Encélado. A missão terminou com um mergulho na atmosfera do planeta. A crítica é que o custo foi alto, cerca de 3,2 bilhões de dólares. Sabia que Cassini enviou mais de 450 mil imagens de Saturno?",
+    "palavras_chave": ["cassini", "saturno", "titã", "encélado", "anéis"]
+  },
+  {
+    "pergunta": "Por que a radiação é um desafio na exploração espacial?",
+    "resposta": "A radiação cósmica e solar no espaço pode danificar equipamentos e causar problemas de saúde, como câncer, em astronautas. Naves e trajes usam escudos, mas missões longas, como a Marte, exigem soluções avançadas. A crítica é que ainda não temos proteção eficaz para viagens prolongadas. Sabia que astronautas na ISS recebem em um ano a radiação equivalente a 10 anos na Terra?",
+    "palavras_chave": ["radiação", "astronautas", "escudos", "marte", "iss"]
+  },
+  {
+    "pergunta": "O que é a sonda New Horizons e o que ela descobriu?",
+    "resposta": "A New Horizons, lançada pela NASA em 2006, explorou Plutão e o Cinturão de Kuiper. Em 2015, revelou que Plutão tem montanhas de gelo e uma atmosfera fina. Em 2019, estudou o objeto Ultima Thule. A crítica é que a distância limita a transmissão de dados. Sabia que a New Horizons viajou 5 bilhões de km para chegar a Plutão?",
+    "palavras_chave": ["new horizons", "plutão", "cinturão de kuiper", "ultima thule", "exploração"]
+  },
+  {
+    "pergunta": "Como os sistemas de propulsão nuclear podem mudar a exploração espacial?",
+    "resposta": "Propulsão nuclear usa energia de reações nucleares para gerar empuxo ou eletricidade, permitindo viagens mais rápidas ao espaço profundo. Projetos como o NTP (Nuclear Thermal Propulsion) estão em estudo pela NASA. A crítica é que a tecnologia é cara e gera preocupações de segurança. Sabia que a propulsão nuclear poderia reduzir a viagem a Marte para 3 meses?",
+    "palavras_chave": ["propulsão nuclear", "ntp", "marte", "espaço profundo", "energia"]
+  },
+  {
+    "pergunta": "O que é o telescópio Kepler e o que ele descobriu?",
+    "resposta": "O telescópio Kepler, lançado em 2009, foi projetado para encontrar exoplanetas pelo método de trânsito, observando quedas na luz estelar. Ele descobriu mais de 2.600 exoplanetas, muitos em zonas habitáveis. A crítica é que ele se limitava a uma pequena região do céu. Sabia que o Kepler revelou que há mais planetas do que estrelas na nossa galáxia?",
+    "palavras_chave": ["kepler", "exoplanetas", "trânsito", "zona habitável", "telescópio"]
+  },
+  {
+    "pergunta": "Como os drones espaciais, como o Ingenuity, são usados?",
+    "resposta": "Drones espaciais, como o helicóptero Ingenuity em Marte, exploram terrenos difíceis, mapeiam áreas e apoiam rovers. O Ingenuity fez o primeiro voo controlado em outro planeta em 2021. Eles oferecem mobilidade, mas são limitados por energia e comunicação. Sabia que o Ingenuity voou mais de 70 vezes, superando todas as expectativas?",
+    "palavras_chave": ["ingenuity", "drones", "marte", "voo", "mapeamento"]
+  },
+  {
+    "pergunta": "O que é o programa Luna da Rússia e qual seu objetivo?",
+    "resposta": "O programa Luna, da agência espacial russa Roscosmos, busca explorar a Lua com missões robóticas. A Luna 25, lançada em 2023, tentou pousar no polo sul lunar, mas falhou. O objetivo é estudar recursos como água e preparar missões tripuladas. A crítica é que o programa sofreu atrasos por questões financeiras. Sabia que a última missão lunar soviética foi em 1976?",
+    "palavras_chave": ["luna", "roscosmos", "lua", "água", "missões robóticas"]
+  },
+  {
+    "pergunta": "Por que usamos simuladores para treinar missões espaciais?",
+    "resposta": "Simuladores recriam condições espaciais, como microgravidade ou superfícies planetárias, para treinar astronautas e testar equipamentos. Eles ajudam a prever problemas, como na Apollo 13, que usou simuladores para resolver uma crise real. A crítica é que simuladores não replicam perfeitamente o espaço. Sabia que a NASA tem uma piscina gigante para simular caminhadas espaciais?",
+    "palavras_chave": ["simuladores", "treinamento", "microgravidade", "apollo 13", "nasa"]
+  },
+  {
+    "pergunta": "O que é a missão Chang’e da China e o que ela conquistou?",
+    "resposta": "O programa Chang’e, da China, explora a Lua com sondas e rovers. A Chang’e 4, em 2019, foi a primeira a pousar no lado oculto da Lua, estudando sua geologia. A Chang’e 5 trouxe amostras lunares em 2020. A crítica é que a colaboração internacional é limitada. Sabia que o rover Yutu-2 ainda opera no lado oculto da Lua?",
+    "palavras_chave": ["chang’e", "lua", "yutu-2", "lado oculto", "amostras"]
+  },
+  {
+    "pergunta": "Como os sistemas de reciclagem de água funcionam na ISS?",
+    "resposta": "Na ISS, sistemas de reciclagem convertem urina, suor e condensação em água potável usando filtros, destilação e tratamentos químicos. Eles recuperam até 90% da água usada, essencial para missões longas. A crítica é que o processo consome energia. Sabia que os astronautas bebem água reciclada que é mais pura que muitas fontes terrestres?",
+    "palavras_chave": ["reciclagem de água", "iss", "filtros", "astronautas", "energia"]
+  },
+  {
+    "pergunta": "O que é a missão Europa Clipper e por que ela é importante?",
+    "resposta": "A Europa Clipper, planejada pela NASA para 2024, estudará a lua Europa de Júpiter, que tem um oceano sob sua crosta gelada. A missão buscará sinais de habitabilidade com radar e espectrômetros. É crucial para entender a possibilidade de vida extraterrestre. A crítica é que não pousará na superfície. Sabia que Europa pode ter um oceano com o dobro do volume dos oceanos terrestres?",
+    "palavras_chave": ["europa clipper", "europa", "oceano", "vida", "júpiter"]
+  },
+  {
+    "pergunta": "Como a energia solar é armazenada no espaço?",
+    "resposta": "No espaço, a energia solar é captada por painéis e armazenada em baterias de íons de lítio para uso quando a nave está na sombra. A ISS, por exemplo, depende dessas baterias durante a noite orbital. A crítica é que as baterias degradam com o tempo. Sabia que as baterias da ISS foram substituídas por astronautas em caminhadas espaciais?",
+    "palavras_chave": ["energia solar", "baterias", "iss", "painéis solares", "órbita"]
+  },
+  {
+    "pergunta": "O que é o programa Skylab e o que ele ensinou?",
+    "resposta": "Skylab foi a primeira estação espacial dos EUA, lançada em 1973. Ela permitiu experimentos em microgravidade e observações solares, com três missões tripuladas. Ensinou como humanos podem viver no espaço por longos períodos. A crítica é que o Skylab caiu na Terra em 1979. Sabia que astronautas do Skylab consertaram um painel solar danificado em uma caminhada espacial arriscada?",
+    "palavras_chave": ["skylab", "estação espacial", "microgravidade", "sol", "caminhada espacial"]
+  },
+  {
+    "pergunta": "Por que a exploração de Titã é um foco de estudo?",
+    "resposta": "Titã, lua de Saturno, tem uma atmosfera densa e lagos de metano, tornando-a um alvo para buscar condições de vida. A missão Dragonfly, planejada para 2034, usará um drone para explorar sua superfície. A crítica é que a distância torna a missão complexa. Sabia que Titã é a única lua conhecida com uma atmosfera mais espessa que a da Terra?",
+    "palavras_chave": ["titã", "dragonfly", "metano", "atmosfera", "saturno"]
+  },
+  {
+    "pergunta": "O que é a tecnologia de reentrada atmosférica?",
+    "resposta": "Reentrada atmosférica é o processo de uma nave retornar à Terra, enfrentando calor extremo e fricção. Escudos térmicos e ângulos precisos são usados para proteger a nave, como na cápsula Orion. A crítica é que pequenos erros podem ser fatais. Sabia que a reentrada gera temperaturas de até 2.700°C, mais quente que lava vulcânica?",
+    "palavras_chave": ["reentrada", "escudo térmico", "orion", "atmosfera", "calor"]
+  },
+  {
+    "pergunta": "Como os sensores de imagem ajudam na exploração espacial?",
+    "resposta": "Sensores de imagem, como câmeras e espectrômetros, capturam fotos e dados químicos de planetas e luas. A sonda MRO, por exemplo, mapeou Marte em alta resolução. Eles são essenciais para planejar missões e estudar superfícies. A crítica é que os dados requerem processamento intensivo. Sabia que as imagens da MRO revelaram fluxos sazonais de água em Marte?",
+    "palavras_chave": ["sensores de imagem", "mro", "marte", "mapeamento", "câmeras"]
+  },
+  {
+    "pergunta": "O que é a missão Hayabusa e o que ela conseguiu?",
+    "resposta": "A missão Hayabusa, da agência espacial japonesa JAXA, coletou amostras do asteroide Itokawa em 2005 e as trouxe à Terra em 2010. A Hayabusa 2 repetiu o feito no asteroide Ryugu em 2020. Essas amostras revelam a história do sistema solar. A crítica é que as quantidades coletadas são pequenas. Sabia que a Hayabusa 2 usou explosivos para criar uma cratera em Ryugu?",
+    "palavras_chave": ["hayabusa", "asteroide", "ryugu", "amostras", "jaxa"]
+  },
+  {
+    "pergunta": "Por que a órbita baixa da Terra é usada para satélites?",
+    "resposta": "A órbita baixa da Terra, entre 160 e 2.000 km, é ideal para satélites de comunicação, observação terrestre e ciência, como o Hubble. Ela permite proximidade e baixo atraso de sinal, mas está lotada, aumentando o risco de colisões. Sabia que mais de 80% dos satélites ativos estão nessa órbita?",
+    "palavras_chave": ["órbita baixa", "satélites", "hubble", "comunicação", "lixo espacial"]
+  },
+  {
+    "pergunta": "O que é a missão Lucy e o que ela estuda?",
+    "resposta": "A missão Lucy, da NASA, lançada em 2021, explora os asteroides troianos de Júpiter, que compartilham sua órbita. Eles são resquícios do sistema solar primitivo, ajudando a entender sua formação. A missão visitará sete asteroides até 2033. A crítica é que a viagem longa exige paciência. Sabia que Lucy é nomeada em homenagem a um fóssil humano que revelou segredos da evolução?",
+    "palavras_chave": ["lucy", "asteroides troianos", "júpiter", "sistema solar", "nasa"]
+  },
+  {
+    "pergunta": "Como os sistemas de telemetria funcionam no espaço?",
+    "resposta": "Telemetria é o processo de coletar e transmitir dados de naves, como temperatura, velocidade e posição, para a Terra. Antenas e sensores enviam essas informações via ondas de rádio. É essencial para monitorar missões, mas a latência é um desafio. Sabia que a telemetria da Apollo 11 permitiu ajustes em tempo real durante o pouso lunar?",
+    "palavras_chave": ["telemetria", "dados", "apollo 11", "antenas", "monitoramento"]
+  },
+  {
+    "pergunta": "O que é a missão Dragonfly e por que é inovadora?",
+    "resposta": "Dragonfly é uma missão da NASA, planejada para 2034, que enviará um drone para explorar Titã, lua de Saturno. O drone voará entre locais, estudando a química e habitabilidade. É inovadora por usar mobilidade aérea em outro mundo. A crítica é que Titã está muito distante. Sabia que o drone de Dragonfly terá oito rotores, como um quadricóptero gigante?",
+    "palavras_chave": ["dragonfly", "titã", "drone", "saturno", "habitabilidade"]
+  },
+  {
+    "pergunta": "Como os sistemas de propulsão química diferem dos elétricos?",
+    "resposta": "Propulsão química, como nos foguetes Saturn V, queima combustíveis para gerar empuxo rápido e poderoso, ideal para lançamentos. Propulsão elétrica, como a iônica, usa eletricidade para acelerar íons, sendo mais eficiente, mas lenta. A crítica é que cada uma tem limitações específicas. Sabia que a propulsão elétrica pode operar por anos, diferente da química, que dura minutos?",
+    "palavras_chave": ["propulsão química", "propulsão elétrica", "saturn v", "íons", "eficiência"]
+  },
+  {
+    "pergunta": "Por que a colaboração internacional é importante na exploração espacial?",
+    "resposta": "Colaboração internacional, como na ISS, reúne recursos, conhecimento e tecnologia de vários países, reduzindo custos e acelerando avanços. Projetos como o Gateway dependem disso. A crítica é que diferenças políticas podem causar atrasos. Sabia que a ISS envolve 15 nações, incluindo EUA, Rússia e Japão?",
+    "palavras_chave": ["colaboração internacional", "iss", "gateway", "recursos", "tecnologia"]
+  },
+  {
+    "pergunta": "O que é o programa Vostok e qual foi seu marco histórico?",
+    "resposta": "O programa Vostok, da União Soviética, foi uma série de missões espaciais nos anos 1960 que colocou o primeiro humano no espaço. Em 1961, Yuri Gagarin, a bordo da Vostok 1, completou uma órbita terrestre, marcando um marco na história. Isso impulsionou a Corrida Espacial e a tecnologia de voos tripulados. A crítica é que as missões eram arriscadas devido à tecnologia inicial. Sabia que Gagarin foi ejetado da cápsula e pousou de paraquedas?",
+    "palavras_chave": ["vostok", "yuri gagarin", "órbita", "corrida espacial", "voo tripulado"]
+  },
+  {
+    "pergunta": "Como os sistemas de controle térmico funcionam em naves espaciais?",
+    "resposta": "Sistemas de controle térmico regulam a temperatura de naves, que enfrentam extremos de calor e frio no espaço. Eles usam radiadores, isolantes e fluidos para dissipar ou reter calor. Por exemplo, a ISS tem radiadores que liberam calor no vácuo. A crítica é que esses sistemas são complexos e pesados. Sabia que o James Webb usa um escudo solar de cinco camadas para se manter frio?",
+    "palavras_chave": ["controle térmico", "iss", "james webb", "radiadores", "escudo solar"]
+  },
+  {
+    "pergunta": "O que é a missão InSight e o que ela estudou em Marte?",
+    "resposta": "A missão InSight, da NASA, pousou em Marte em 2018 para estudar o interior do planeta, como sua crosta, manto e núcleo. Com um sismômetro, detectou 'martemotos' e mediu o fluxo de calor interno. Isso ajudou a entender a formação de planetas rochosos. A crítica é que poeira nos painéis solares limitou sua duração. Sabia que a InSight registrou mais de 1.300 tremores em Marte?",
+    "palavras_chave": ["insight", "marte", "sismômetro", "martemotos", "formação planetária"]
+  },
+  {
+    "pergunta": "Por que a exploração de Vênus é tão desafiadora?",
+    "resposta": "Vênus tem uma atmosfera densa, temperaturas de 460°C e pressão 92 vezes maior que a da Terra, dificultando a sobrevivência de sondas. A sonda Venera 7, da União Soviética, foi a primeira a pousar em 1970, mas durou pouco. Novas missões, como a DAVINCI, buscam superar esses desafios. A crítica é que a tecnologia atual ainda é limitada. Sabia que a superfície de Vênus é mais quente que a de Mercúrio, apesar de estar mais longe do Sol?",
+    "palavras_chave": ["vênus", "venera", "atmosfera", "davinci", "temperatura"]
+  },
+  {
+    "pergunta": "O que é o programa Gemini e qual foi sua importância?",
+    "resposta": "O programa Gemini, da NASA, nos anos 1960, foi um passo intermediário entre as missões Mercury e Apollo. Ele testou técnicas de caminhada espacial, acoplagem e voos longos, cruciais para o pouso na Lua. A crítica é que os custos foram altos para um programa de transição. Sabia que a Gemini 7 ficou 14 dias em órbita, um recorde na época?",
+    "palavras_chave": ["gemini", "caminhada espacial", "acoplagem", "apollo", "nasa"]
+  },
+  {
+    "pergunta": "Como os sistemas de acoplagem funcionam no espaço?",
+    "resposta": "Sistemas de acoplagem permitem que naves ou módulos se conectem, como na ISS ou nas missões Apollo. Eles usam mecanismos precisos, como travas e sensores, para alinhar e unir as partes. A acoplagem da SpaceX Crew Dragon com a ISS é um exemplo moderno. A crítica é que falhas podem comprometer missões. Sabia que a primeira acoplagem internacional foi entre uma nave Apollo e uma Soyuz em 1975?",
+    "palavras_chave": ["acoplagem", "iss", "crew dragon", "apollo-soyuz", "sensores"]
+  },
+  {
+    "pergunta": "O que é a missão Parker Solar Probe e o que ela estuda?",
+    "resposta": "A Parker Solar Probe, lançada pela NASA em 2018, estuda o Sol, aproximando-se de sua corona a apenas 6 milhões de km. Ela analisa ventos solares e campos magnéticos, ajudando a prever tempestades espaciais. A crítica é que a sonda enfrenta temperaturas extremas, exigindo escudos avançados. Sabia que a Parker é a nave mais rápida já construída, atingindo 700 mil km/h?",
+    "palavras_chave": ["parker solar probe", "sol", "corona", "ventos solares", "velocidade"]
+  },
+  {
+    "pergunta": "Como a tecnologia de pouso suave é usada em missões planetárias?",
+    "resposta": "Pouso suave permite que sondas ou rovers cheguem à superfície de planetas ou luas sem danos, usando retrofoguetes, paraquedas ou airbags. O rover Perseverance usou um sistema de 'guindaste aéreo' para pousar em Marte. A crítica é que cada planeta exige um sistema específico. Sabia que a Curiosity usou um pouso tão preciso que acertou um alvo do tamanho de um campo de futebol?",
+    "palavras_chave": ["pouso suave", "perseverance", "curiosity", "retrofogutes", "marte"]
+  },
+  {
+    "pergunta": "O que é o programa Soyuz e por que ele é relevante?",
+    "resposta": "O programa Soyuz, da Rússia, iniciado nos anos 1960, é um dos mais duradouros da exploração espacial. Suas naves transportam astronautas e cargas à ISS até hoje. São confiáveis, mas criticadas por tecnologia antiga. Sabia que a Soyuz é a única nave que levou humanos à órbita após o fim do programa Ônibus Espacial em 2011?",
+    "palavras_chave": ["soyuz", "iss", "rússia", "astronautas", "confiabilidade"]
+  },
+  {
+    "pergunta": "Como os sistemas de realidade mista ajudam astronautas?",
+    "resposta": "Realidade mista combina realidade virtual e aumentada para treinar astronautas ou guiar tarefas em tempo real. Na ISS, óculos de realidade mista, como o HoloLens, mostram instruções sobrepostas ao ambiente. A crítica é que a tecnologia depende de conexões estáveis. Sabia que a realidade mista ajudou astronautas a reparar equipamentos complexos sem ajuda direta da Terra?",
+    "palavras_chave": ["realidade mista", "hololens", "iss", "treinamento", "reparos"]
+  },
+  {
+    "pergunta": "O que é o conceito de colônias espaciais flutuantes?",
+    "resposta": "Colônias espaciais flutuantes, como as propostas por O’Neill, são habitats orbitais que giram para criar gravidade artificial. Eles poderiam abrigar milhares de pessoas, com agricultura e energia solar. A crítica é que a construção exige materiais e custos astronômicos. Sabia que o conceito inspirou filmes de ficção científica como ‘2001: Uma Odisseia no Espaço’?",
+    "palavras_chave": ["colônias espaciais", "o’neill", "gravidade artificial", "habitat", "energia solar"]
+  },
+  {
+    "pergunta": "Como os sensores de radiação são usados no espaço?",
+    "resposta": "Sensores de radiação monitoram níveis de radiação cósmica e solar em naves e estações, protegendo astronautas e equipamentos. Eles ajudam a prever tempestades solares, como na ISS. A crítica é que os sensores não evitam danos, apenas alertam. Sabia que a sonda Parker Solar Probe usa sensores para estudar radiação a poucos milhões de km do Sol?",
+    "palavras_chave": ["sensores de radiação", "iss", "parker solar probe", "tempestades solares", "astronautas"]
+  },
+  {
+    "pergunta": "O que é a missão BepiColombo e o que ela estuda?",
+    "resposta": "A BepiColombo, uma missão da ESA e JAXA, lançada em 2018, estuda Mercúrio, analisando sua superfície, campo magnético e atmosfera fina. Ela usa duas sondas orbitais para coletar dados. A crítica é que a órbita complexa levou anos para chegar ao destino. Sabia que Mercúrio tem um campo magnético inesperado, descoberto por missões anteriores?",
+    "palavras_chave": ["bepicolombo", "mercúrio", "campo magnético", "esa", "jaxa"]
+  },
+  {
+    "pergunta": "Por que a exploração do Cinturão de Kuiper é importante?",
+    "resposta": "O Cinturão de Kuiper, além de Netuno, contém objetos primitivos que revelam a formação do sistema solar. A New Horizons estudou Ultima Thule, um desses objetos, em 2019. A exploração ajuda a entender planetas anões como Plutão. A crítica é que a distância exige missões longas. Sabia que o Cinturão de Kuiper tem mais de 100 mil objetos com diâmetro superior a 100 km?",
+    "palavras_chave": ["cinturão de kuiper", "new horizons", "ultima thule", "sistema solar", "plutão"]
+  },
+  {
+    "pergunta": "O que é o conceito de propulsionamento por plasma?",
+    "resposta": "Propulsionamento por plasma acelera partículas carregadas usando campos magnéticos, criando empuxo eficiente para missões de longo alcance. O motor VASIMR é um exemplo em desenvolvimento. A crítica é que ainda não foi testado em missões reais. Sabia que o VASIMR poderia reduzir viagens a Marte para 39 dias, em teoria?",
+    "palavras_chave": ["propulsão por plasma", "vasimr", "marte", "campos magnéticos", "eficiência"]
+  },
+  {
+    "pergunta": "Como a tecnologia de agricultura espacial é desenvolvida?",
+    "resposta": "Agricultura espacial envolve cultivar plantas em ambientes controlados, como na ISS, usando hidroponia e luzes LED. Isso é crucial para missões longas, fornecendo comida e oxigênio. A crítica é que o cultivo em larga escala ainda é inviável. Sabia que astronautas na ISS já comeram alface cultivada no espaço?",
+    "palavras_chave": ["agricultura espacial", "iss", "hidroponia", "alimentos", "led"]
+  },
+  {
+    "pergunta": "O que é a missão TESS e o que ela faz?",
+    "resposta": "O TESS (Transiting Exoplanet Survey Satellite), lançado pela NASA em 2018, procura exoplanetas observando trânsitos estelares em todo o céu. Ele já descobriu milhares de candidatos a planetas, incluindo alguns do tamanho da Terra. A crítica é que os dados precisam de confirmação por outros telescópios. Sabia que o TESS observa 200 mil estrelas em cada setor do céu?",
+    "palavras_chave": ["tess", "exoplanetas", "trânsito", "nasa", "estrelas"]
+  },
+  {
+    "pergunta": "Como os sistemas de proteção contra micrometeoritos funcionam?",
+    "resposta": "Sistemas de proteção contra micrometeoritos usam camadas de materiais resistentes, como kevlar e alumínio, para absorver ou desviar impactos de detritos espaciais. A ISS tem escudos Whipple, que fragmentam partículas. A crítica é que impactos maiores ainda são perigosos. Sabia que a ISS já foi atingida por detritos, mas sem danos graves?",
+    "palavras_chave": ["micrometeoritos", "iss", "escudos whipple", "detritos", "kevlar"]
+  },
+  {
+    "pergunta": "O que é a missão Venera e o que ela descobriu?",
+    "resposta": "O programa Venera, da União Soviética, enviou sondas a Vênus entre os anos 1960 e 1980. A Venera 13 enviou as primeiras fotos coloridas da superfície em 1982, revelando um terreno rochoso e vulcânico. A crítica é que as sondas duravam pouco devido às condições extremas. Sabia que a Venera 13 sobreviveu apenas 127 minutos na superfície de Vênus?",
+    "palavras_chave": ["venera", "vênus", "fotos", "superfície", "vulcanismo"]
+  },
+  {
+    "pergunta": "Por que a exploração de cometas é importante?",
+    "resposta": "Cometas são resquícios do sistema solar primitivo, contendo gelo, poeira e compostos orgânicos. A missão Rosetta, da ESA, estudou o cometa 67P, revelando moléculas que podem estar ligadas à origem da vida. A crítica é que pousos em cometas, como o Philae, são arriscados. Sabia que a Rosetta encontrou aminoácidos, blocos básicos da vida, no 67P?",
+    "palavras_chave": ["cometas", "rosetta", "67p", "vida", "esa"]
+  },
+  {
+    "pergunta": "O que é o conceito de internet interplanetária?",
+    "resposta": "Internet interplanetária é uma rede de comunicações para conectar naves, rovers e bases em outros planetas, usando protocolos resistentes a atrasos, como o DTN. Isso permitiria operações mais rápidas em Marte. A crítica é que a infraestrutura é complexa e cara. Sabia que testes de DTN já foram feitos entre a Terra e a ISS?",
+    "palavras_chave": ["internet interplanetária", "dtn", "marte", "comunicações", "iss"]
+  },
+  {
+    "pergunta": "Como os sistemas de orientação por estrelas funcionam?",
+    "resposta": "Sistemas de orientação por estrelas usam câmeras para identificar constelações e determinar a posição de uma nave no espaço. Eles são precisos e não dependem de sinais da Terra, como na Voyager. A crítica é que nuvens de poeira podem obscurecer estrelas. Sabia que esses sistemas foram usados desde as missões Apollo para navegação?",
+    "palavras_chave": ["orientação por estrelas", "voyager", "apollo", "navegação", "constelações"]
+  },
+  {
+    "pergunta": "O que é a missão Artemis Accords e qual seu propósito?",
+    "resposta": "Os Artemis Accords são um conjunto de acordos internacionais, liderados pela NASA, para regular a exploração lunar sustentável e pacífica. Eles estabelecem regras para mineração, segurança e cooperação. A crítica é que nem todos os países espaciais assinaram. Sabia que mais de 40 nações já aderiram aos acordos até 2025?",
+    "palavras_chave": ["artemis accords", "lua", "cooperação", "mineração", "nasa"]
+  },
+  {
+    "pergunta": "Como os sistemas de energia nuclear são usados no espaço?",
+    "resposta": "Sistemas de energia nuclear, como RTGs (geradores termoelétricos de radioisótopos), fornecem eletricidade para sondas em missões distantes, como a Voyager e a Curiosity. Eles usam o calor de decaimento radioativo. A crítica é que o material radioativo gera preocupações de segurança. Sabia que o RTG da Curiosity gera energia suficiente para um pequeno aquecedor doméstico?",
+    "palavras_chave": ["energia nuclear", "rtg", "curiosity", "voyager", "eletricidade"]
+  },
+  {
+    "pergunta": "Por que a exploração do polo sul lunar é uma prioridade?",
+    "resposta": "O polo sul da Lua tem crateras permanentemente sombreadas com gelo, que pode ser usado para água, oxigênio e combustível. Missões como Artemis e Luna 25 visam explorar essa região. A crítica é que o terreno acidentado dificulta pousos. Sabia que o gelo lunar pode ser mais antigo que o sistema solar?",
+    "palavras_chave": ["polo sul lunar", "artemis", "gelo", "água", "crateras"]
+  }
+]

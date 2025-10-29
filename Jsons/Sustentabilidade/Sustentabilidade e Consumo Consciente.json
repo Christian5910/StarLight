@@ -1,0 +1,507 @@
+[
+  {
+    "pergunta": "O que significa consumo consciente na prática do dia a dia?",
+    "resposta": "Consumo consciente é quando a gente pensa antes de comprar ou usar algo, avaliando se realmente precisa, de onde vem e para onde vai depois. É uma mudança de mentalidade: deixar de consumir por impulso e começar a agir com responsabilidade social e ambiental. Exemplos simples são levar sacola reutilizável, evitar desperdício de comida e preferir produtos locais. Sabia que pequenas escolhas assim, somadas por milhões de pessoas, reduzem toneladas de lixo por ano?",
+    "palavras_chave": ["consumo", "sustentabilidade", "responsabilidade", "meio ambiente", "conscientização"]
+  },
+  {
+    "pergunta": "Por que o consumo desenfreado causa tantos impactos ambientais?",
+    "resposta": "Porque quanto mais a gente compra, mais recursos naturais são extraídos, mais energia é gasta e mais lixo é gerado. O problema é o ritmo: estamos usando os recursos da Terra mais rápido do que ela consegue se regenerar. Esse padrão, chamado de consumo linear, não é sustentável. Sabia que, segundo a Global Footprint Network, o planeta entra no ‘déficit ecológico’ todo ano cada vez mais cedo?",
+    "palavras_chave": ["impacto ambiental", "recursos naturais", "lixo", "produção", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Qual a diferença entre consumo sustentável e consumo consciente?",
+    "resposta": "Os dois estão ligados, mas há uma nuance: o consumo consciente é uma atitude individual de reflexão e responsabilidade nas escolhas, enquanto o consumo sustentável envolve também empresas, governos e sistemas produtivos comprometidos com a preservação ambiental. Ou seja, um depende do outro para funcionar. Sabia que o termo ‘consumo consciente’ começou a ser difundido no Brasil nos anos 2000 pelo Instituto Akatu?",
+    "palavras_chave": ["consumo", "sustentabilidade", "instituto akatu", "responsabilidade", "meio ambiente"]
+  },
+  {
+    "pergunta": "Como as embalagens influenciam no consumo sustentável?",
+    "resposta": "As embalagens são um ponto crítico: elas protegem os produtos, mas também geram grande volume de resíduos, principalmente plásticos. Optar por embalagens recicláveis, retornáveis ou biodegradáveis é uma atitude de consumo consciente. Empresas que investem em design sustentável reduzem custos e impacto ambiental. Sabia que existem embalagens feitas de mandioca e milho que se decompõem em poucos meses?",
+    "palavras_chave": ["embalagem", "reciclagem", "plástico", "biodegradável", "resíduos"]
+  },
+  {
+    "pergunta": "De que forma o marketing influencia o consumo excessivo?",
+    "resposta": "O marketing cria desejos e impulsos de compra, muitas vezes desconectados de necessidades reais. Isso alimenta o consumismo e o descarte rápido. No entanto, o marketing também pode ser aliado da sustentabilidade quando valoriza transparência, durabilidade e responsabilidade social. Sabia que o termo ‘greenwashing’ surgiu justamente para denunciar campanhas que fingem ser ecológicas, mas não são?",
+    "palavras_chave": ["marketing", "consumismo", "publicidade", "greenwashing", "ética"]
+  },
+  {
+    "pergunta": "O que é o greenwashing e como reconhecê-lo?",
+    "resposta": "Greenwashing é quando uma empresa tenta parecer sustentável, mas na prática continua com hábitos poluentes. Normalmente usa palavras vagas como ‘eco’, ‘verde’ ou imagens de natureza para enganar o consumidor. A dica é sempre verificar certificações reais e transparência nas práticas. Sabia que o termo foi criado nos anos 1980, quando hotéis pediam para os hóspedes reutilizarem toalhas, mas não tinham nenhuma outra política ambiental?",
+    "palavras_chave": ["greenwashing", "empresas", "publicidade", "sustentabilidade", "transparência"]
+  },
+  {
+    "pergunta": "Como o consumo consciente pode gerar impacto social positivo?",
+    "resposta": "Quando escolhemos produtos de cooperativas, marcas locais ou que respeitam direitos trabalhistas, estamos apoiando comunidades e fortalecendo a economia justa. O consumo consciente não é só sobre meio ambiente — é também sobre pessoas. Sabia que o movimento do comércio justo surgiu na Europa justamente para garantir renda digna a pequenos produtores?",
+    "palavras_chave": ["consumo consciente", "impacto social", "comércio justo", "economia solidária", "trabalho digno"]
+  },
+  {
+    "pergunta": "Por que comprar de produtores locais é uma atitude sustentável?",
+    "resposta": "Porque produtos locais reduzem emissões de transporte, fortalecem a economia da região e estimulam cadeias produtivas mais curtas e transparentes. Além disso, costumam ser mais frescos e gerar menos embalagens. Sabia que em alguns países há feiras chamadas ‘farmers markets’ que reúnem produtores da área para incentivar exatamente esse tipo de consumo?",
+    "palavras_chave": ["produção local", "transporte", "emissões", "economia", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como o desperdício de alimentos afeta o meio ambiente?",
+    "resposta": "Desperdiçar comida significa desperdiçar água, solo, energia e transporte usados na produção. Além disso, os restos orgânicos em aterros liberam metano, um gás de efeito estufa potente. Planejar refeições, armazenar corretamente e aproveitar integralmente os alimentos são atitudes simples, mas eficazes. Sabia que cerca de um terço de toda a comida produzida no mundo é desperdiçada?",
+    "palavras_chave": ["alimentos", "desperdício", "meio ambiente", "metano", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é economia circular e como ela se relaciona ao consumo consciente?",
+    "resposta": "A economia circular propõe que tudo o que é produzido volte a ser reutilizado, reciclado ou regenerado, substituindo o modelo de ‘produzir, usar e descartar’. Ela inspira empresas e consumidores a pensar em ciclos, não em fim de linha. Sabia que a União Europeia já tem metas obrigatórias para transição total à economia circular até 2050?",
+    "palavras_chave": ["economia circular", "reciclagem", "reutilização", "sustentabilidade", "produção"]
+  },
+  {
+    "pergunta": "Por que produtos sustentáveis costumam ser mais caros?",
+    "resposta": "Em muitos casos, é porque eles envolvem produção ética, materiais certificados e processos que respeitam o meio ambiente. O custo real de um produto barato geralmente está escondido — alguém ou algo pagou por ele, seja um trabalhador mal remunerado ou um rio contaminado. Sabia que o conceito de ‘custo invisível’ vem sendo usado para calcular o verdadeiro impacto das compras?",
+    "palavras_chave": ["produtos sustentáveis", "preço", "ética", "produção", "impacto ambiental"]
+  },
+  {
+    "pergunta": "Como identificar se uma empresa é realmente sustentável?",
+    "resposta": "Uma empresa sustentável é transparente: publica relatórios ambientais, usa matérias-primas responsáveis, trata bem seus funcionários e tem metas de redução de impacto. Certificações como B Corp e ISO 14001 são bons sinais. Sabia que a Natura foi uma das primeiras empresas brasileiras a receber o selo B Corp, reconhecendo sua atuação socioambiental?",
+    "palavras_chave": ["empresas", "sustentabilidade", "transparência", "certificação", "responsabilidade social"]
+  },
+  {
+    "pergunta": "O que é pegada ecológica e como ela se calcula?",
+    "resposta": "A pegada ecológica mede quanto da natureza precisamos para sustentar nosso modo de vida — energia, alimentos, água, transporte. Quando nossa pegada ultrapassa a capacidade da Terra, entramos em déficit ambiental. Existem calculadoras online que mostram quantos ‘planetas Terra’ seriam necessários se todos vivessem como nós. Sabia que o brasileiro médio consome o equivalente a quase dois planetas?",
+    "palavras_chave": ["pegada ecológica", "recursos naturais", "sustentabilidade", "meio ambiente", "impacto"]
+  },
+  {
+    "pergunta": "Como o consumo consciente pode ser ensinado nas escolas?",
+    "resposta": "As escolas podem incentivar projetos de reciclagem, hortas comunitárias, trocas de roupas e debates sobre publicidade e consumo. Ensinar desde cedo a refletir sobre o que compramos cria adultos mais responsáveis. Sabia que algumas escolas já usam moedas sociais simbólicas para ensinar economia solidária?",
+    "palavras_chave": ["educação", "escola", "consumo consciente", "reciclagem", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Qual o papel das redes sociais no incentivo ao consumo?",
+    "resposta": "As redes sociais aceleram o consumo por meio de tendências, influenciadores e compras instantâneas. Mas também podem ser ferramentas poderosas de conscientização, compartilhando práticas sustentáveis e campanhas ecológicas. Sabia que o termo ‘desinfluencer’ surgiu justamente para criticar o consumismo digital?",
+    "palavras_chave": ["redes sociais", "consumo", "influenciadores", "tendências", "conscientização"]
+  },
+  {
+    "pergunta": "O que significa upcycling e como ele ajuda o meio ambiente?",
+    "resposta": "Upcycling é transformar algo descartado em um novo produto de maior valor. Diferente da reciclagem, ele mantém o material original e reduz o desperdício criativamente. Por exemplo, roupas antigas viram bolsas, pallets viram móveis. Sabia que há marcas inteiras dedicadas apenas a upcycling de jeans?",
+    "palavras_chave": ["upcycling", "reciclagem", "reutilização", "criatividade", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Por que o fast fashion é considerado um problema ambiental?",
+    "resposta": "Porque ele estimula o consumo excessivo, produz toneladas de roupas baratas e descartáveis e explora mão de obra em condições precárias. A indústria têxtil é uma das que mais polui o planeta. Sabia que para produzir uma única calça jeans podem ser usados até 10 mil litros de água?",
+    "palavras_chave": ["fast fashion", "moda", "poluição", "consumo", "trabalho"]
+  },
+  {
+    "pergunta": "O que é slow fashion e como ele se opõe ao fast fashion?",
+    "resposta": "O slow fashion valoriza qualidade, durabilidade e ética. É uma moda feita para durar, respeitando o trabalhador e o meio ambiente. Marcas que seguem esse modelo produzem menos, mas com mais propósito. Sabia que esse movimento nasceu inspirado no ‘slow food’, que também prega ritmo mais humano e sustentável?",
+    "palavras_chave": ["slow fashion", "moda", "ética", "sustentabilidade", "qualidade"]
+  },
+  {
+    "pergunta": "Como a obsolescência programada estimula o consumo inconsciente?",
+    "resposta": "É quando produtos são fabricados para durar pouco ou ficarem rapidamente desatualizados, forçando novas compras. Isso gera lixo eletrônico e desperdício de recursos. Sabia que esse conceito surgiu na década de 1920, com lâmpadas propositalmente feitas para queimar mais rápido?",
+    "palavras_chave": ["obsolescência programada", "tecnologia", "consumo", "lixo eletrônico", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Qual a relação entre minimalismo e consumo consciente?",
+    "resposta": "O minimalismo propõe ter menos, mas melhor: reduzir excessos, priorizar o essencial e valorizar experiências em vez de coisas. Essa filosofia é uma aliada natural do consumo consciente. Sabia que o Japão é um dos países que mais influenciou o minimalismo moderno com a cultura do ‘menos é mais’?",
+    "palavras_chave": ["minimalismo", "consumo consciente", "filosofia", "simplicidade", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como a tecnologia pode ajudar na sustentabilidade do consumo?",
+    "resposta": "A tecnologia permite rastrear cadeias produtivas, otimizar o uso de energia e criar aplicativos que conectam consumidores a produtos éticos. Também facilita o compartilhamento e a economia colaborativa. Sabia que já existem apps que mostram o impacto ambiental de cada produto escaneado no mercado?",
+    "palavras_chave": ["tecnologia", "sustentabilidade", "aplicativos", "rastreamento", "inovação"]
+  },
+  {
+    "pergunta": "Por que reciclar nem sempre é suficiente?",
+    "resposta": "Porque reciclar ainda consome energia e nem todo material é reciclável. O ideal é seguir a hierarquia dos 5 Rs: repensar, recusar, reduzir, reutilizar e, só por último, reciclar. Sabia que no Brasil menos de 5% do lixo reciclável realmente é reciclado?",
+    "palavras_chave": ["reciclagem", "resíduos", "5 rs", "sustentabilidade", "lixo"]
+  },
+  {
+    "pergunta": "Como o consumo consciente contribui para o combate às mudanças climáticas?",
+    "resposta": "Ao reduzir o desperdício, escolher produtos de baixo impacto e apoiar energias limpas, diminuímos emissões de gases do efeito estufa. Cada compra é um voto pelo tipo de planeta que queremos. Sabia que a alimentação baseada em plantas é uma das escolhas individuais com maior impacto positivo no clima?",
+    "palavras_chave": ["mudanças climáticas", "emissões", "alimentação", "sustentabilidade", "consumo"]
+  },
+  {
+    "pergunta": "O que é economia compartilhada e por que ela é sustentável?",
+    "resposta": "A economia compartilhada é o uso coletivo de bens e serviços — como caronas, aluguel de ferramentas ou troca de roupas — para reduzir desperdícios. Em vez de cada um ter tudo, compartilhamos o que já existe. Sabia que o Airbnb e a Uber nasceram dessa lógica de otimizar o que já está disponível?",
+    "palavras_chave": ["economia compartilhada", "consumo", "sustentabilidade", "colaboração", "recursos"]
+  },
+  {
+    "pergunta": "Como pequenas mudanças domésticas podem reduzir o impacto ambiental?",
+    "resposta": "Trocar lâmpadas por LED, reduzir o tempo no banho, compostar resíduos orgânicos e evitar plásticos descartáveis são atitudes simples que fazem diferença. Sustentabilidade começa dentro de casa. Sabia que se cada família brasileira economizasse cinco minutos de banho, economizaríamos bilhões de litros de água por ano?",
+    "palavras_chave": ["consumo doméstico", "energia", "água", "resíduos", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Por que é importante conhecer a origem dos produtos que consumimos?",
+    "resposta": "Saber de onde vem o que compramos é essencial para entender o impacto social e ambiental de cada produto. Quando conhecemos a cadeia produtiva, podemos escolher opções mais éticas e sustentáveis. Por exemplo, preferir alimentos de agricultura familiar ou roupas produzidas sem exploração. Sabia que a rastreabilidade já é uma exigência em muitos setores, como o alimentício e o da madeira?",
+    "palavras_chave": ["origem", "cadeia produtiva", "rastreamento", "ética", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é consumo colaborativo?",
+    "resposta": "Consumo colaborativo é o compartilhamento de bens e serviços entre pessoas, como aluguel, troca ou empréstimo. Ele reduz o desperdício e fortalece relações comunitárias. Plataformas de caronas, brechós online e bibliotecas de ferramentas são bons exemplos. Sabia que essa ideia ganhou força após a crise de 2008, quando muita gente buscou alternativas mais econômicas e sustentáveis?",
+    "palavras_chave": ["colaboração", "compartilhamento", "economia", "sustentabilidade", "comunidade"]
+  },
+  {
+    "pergunta": "Como o consumo consciente pode influenciar o comportamento das empresas?",
+    "resposta": "Quando os consumidores escolhem marcas sustentáveis, as empresas percebem a demanda e se adaptam. Esse poder de escolha pressiona o mercado por práticas mais éticas e transparentes. É o chamado ‘voto com a carteira’. Sabia que muitas marcas passaram a eliminar testes em animais justamente pela pressão dos consumidores?",
+    "palavras_chave": ["empresas", "mercado", "consumidor", "ética", "pressão social"]
+  },
+  {
+    "pergunta": "Por que o plástico é um dos maiores desafios da sustentabilidade?",
+    "resposta": "Porque ele é durável, barato e está presente em tudo — mas demora séculos para se decompor. Grande parte vai parar nos oceanos, prejudicando a vida marinha. O ideal é reduzir o uso e buscar alternativas biodegradáveis. Sabia que já existem bactérias capazes de decompor plástico PET em poucos dias?",
+    "palavras_chave": ["plástico", "poluição", "oceano", "biodegradável", "resíduos"]
+  },
+  {
+    "pergunta": "Como o transporte influencia o consumo sustentável?",
+    "resposta": "O modo como nos deslocamos afeta diretamente o meio ambiente. Transportes coletivos, bicicletas e carros elétricos reduzem emissões e poluição. Além disso, preferir produtos locais diminui a necessidade de transporte de longa distância. Sabia que o setor de transporte é responsável por quase 25% das emissões globais de CO₂?",
+    "palavras_chave": ["transporte", "emissões", "mobilidade", "sustentabilidade", "energia"]
+  },
+  {
+    "pergunta": "Qual o impacto da indústria da tecnologia no consumo e na sustentabilidade?",
+    "resposta": "A tecnologia é essencial, mas também gera grandes volumes de lixo eletrônico e extração de metais raros. O desafio é equilibrar inovação com responsabilidade. Reaproveitar equipamentos e reciclar componentes são caminhos importantes. Sabia que o ouro contido nos eletrônicos descartados por ano é suficiente para fabricar milhões de anéis?",
+    "palavras_chave": ["tecnologia", "lixo eletrônico", "reciclagem", "metais raros", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como o consumo consciente se relaciona com a justiça social?",
+    "resposta": "O consumo consciente também é uma questão de justiça: escolher produtos que respeitam direitos humanos e combatem desigualdades. Ao apoiar empresas responsáveis, ajudamos a construir uma economia mais equilibrada. Sabia que movimentos como o Fairtrade nasceram justamente para garantir preços justos a pequenos produtores?",
+    "palavras_chave": ["justiça social", "consumo consciente", "direitos humanos", "economia", "igualdade"]
+  },
+  {
+    "pergunta": "Por que o lixo eletrônico é um problema crescente?",
+    "resposta": "Porque os eletrônicos têm vida útil curta e contêm metais tóxicos, como chumbo e mercúrio. Quando descartados de forma incorreta, contaminam solo e água. A solução está em reciclagem especializada e design sustentável. Sabia que apenas 17% do lixo eletrônico global é reciclado corretamente?",
+    "palavras_chave": ["lixo eletrônico", "reciclagem", "poluição", "resíduos", "tecnologia"]
+  },
+  {
+    "pergunta": "O que são os 5 Rs da sustentabilidade?",
+    "resposta": "Os 5 Rs são um guia simples: repensar, recusar, reduzir, reutilizar e reciclar. Eles mostram que a sustentabilidade começa na escolha e não no descarte. É um ciclo de responsabilidade que muda hábitos. Sabia que algumas escolas e empresas já usam os 5 Rs como princípio oficial em seus programas ambientais?",
+    "palavras_chave": ["5 rs", "sustentabilidade", "reciclagem", "educação", "responsabilidade"]
+  },
+  {
+    "pergunta": "Como as feiras de troca ajudam no consumo consciente?",
+    "resposta": "Feiras de troca permitem circular objetos sem gerar novos resíduos. Em vez de comprar, as pessoas trocam o que já têm. É uma forma prática de economia circular e de conexão entre comunidades. Sabia que as primeiras feiras desse tipo surgiram em movimentos ecológicos dos anos 1970?",
+    "palavras_chave": ["troca", "consumo", "comunidade", "reciclagem", "economia circular"]
+  },
+  {
+    "pergunta": "Por que reduzir o consumo de carne é uma prática sustentável?",
+    "resposta": "A pecuária intensiva é uma das maiores emissoras de gases do efeito estufa e consome muita água e terra. Reduzir o consumo de carne, mesmo que um pouco, já ajuda o planeta. Sabia que se cada pessoa ficasse um dia por semana sem carne, a redução de emissões seria equivalente a tirar milhões de carros das ruas?",
+    "palavras_chave": ["alimentação", "pecuária", "emissões", "sustentabilidade", "meio ambiente"]
+  },
+  {
+    "pergunta": "Como o design sustentável contribui para o consumo consciente?",
+    "resposta": "O design sustentável cria produtos duráveis, recicláveis e com menor impacto ambiental. Ele considera todo o ciclo de vida, desde a extração de materiais até o descarte. Sabia que já existem cadeiras feitas 100% de garrafas PET recicladas, sem perder conforto ou estilo?",
+    "palavras_chave": ["design", "sustentabilidade", "reciclagem", "produto", "inovação"]
+  },
+  {
+    "pergunta": "O que é desperdício zero?",
+    "resposta": "O movimento ‘lixo zero’ busca eliminar o máximo possível de resíduos, priorizando reutilização e compostagem. A ideia é fechar o ciclo dos materiais. Sabia que cidades como San Francisco já reaproveitam mais de 80% de todo o lixo gerado?",
+    "palavras_chave": ["lixo zero", "reciclagem", "resíduos", "compostagem", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como o consumo afeta os recursos hídricos?",
+    "resposta": "Cada produto carrega uma ‘pegada hídrica’, que é a quantidade de água usada em sua produção. Por exemplo, uma camiseta de algodão pode usar até 2.700 litros de água. Consumir menos e escolher materiais sustentáveis é uma forma de preservar esse recurso vital. Sabia que o conceito de pegada hídrica foi criado por pesquisadores holandeses nos anos 2000?",
+    "palavras_chave": ["água", "pegada hídrica", "recursos naturais", "consumo", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Por que as empresas investem em relatórios de sustentabilidade?",
+    "resposta": "Esses relatórios mostram compromissos ambientais, sociais e de governança. Além de transparência, atraem consumidores e investidores responsáveis. Sabia que a sigla ESG, tão falada hoje, vem justamente desses três pilares: Environmental, Social e Governance?",
+    "palavras_chave": ["empresas", "esg", "transparência", "relatórios", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como o turismo sustentável se relaciona com o consumo consciente?",
+    "resposta": "Turismo sustentável valoriza culturas locais, reduz desperdício e respeita a natureza. O viajante consciente escolhe destinos e serviços com menor impacto ambiental. Sabia que existem certificações específicas para hotéis e operadoras sustentáveis?",
+    "palavras_chave": ["turismo", "sustentabilidade", "meio ambiente", "cultura local", "viagem"]
+  },
+  {
+    "pergunta": "O que é consumo responsável de energia?",
+    "resposta": "É o uso racional da energia elétrica, evitando desperdícios e escolhendo fontes limpas, como solar e eólica. Trocar aparelhos ineficientes e apagar luzes desnecessárias já faz diferença. Sabia que o Brasil é um dos países com maior potencial de energia solar do mundo?",
+    "palavras_chave": ["energia", "sustentabilidade", "eficiência", "solar", "economia"]
+  },
+  {
+    "pergunta": "Como o consumo consciente ajuda na preservação da biodiversidade?",
+    "resposta": "Ao evitar produtos que causam desmatamento, poluição ou exploração de animais, protegemos ecossistemas inteiros. Escolhas conscientes mantêm o equilíbrio da natureza. Sabia que o cultivo da soja e a pecuária são os maiores motores do desmatamento na Amazônia?",
+    "palavras_chave": ["biodiversidade", "desmatamento", "consumo", "preservação", "meio ambiente"]
+  },
+  {
+    "pergunta": "O que é economia verde?",
+    "resposta": "É um modelo econômico que busca crescimento com responsabilidade ambiental e inclusão social. Investe em energias renováveis, transporte limpo e inovação sustentável. Sabia que o termo foi popularizado pela ONU durante a Rio+20, em 2012?",
+    "palavras_chave": ["economia verde", "energia", "inovação", "meio ambiente", "onu"]
+  },
+  {
+    "pergunta": "Como as cooperativas de reciclagem contribuem para a sustentabilidade?",
+    "resposta": "Elas dão destino correto aos resíduos e geram renda para trabalhadores. Além de reduzir o lixo nos aterros, fortalecem a economia solidária. Sabia que no Brasil há mais de 800 mil catadores atuando nesse setor?",
+    "palavras_chave": ["reciclagem", "cooperativas", "trabalho", "economia solidária", "resíduos"]
+  },
+  {
+    "pergunta": "O que é o consumo ético?",
+    "resposta": "É escolher produtos que respeitam o meio ambiente, os direitos humanos e os animais. O consumidor ético pesquisa, questiona e valoriza transparência. Sabia que existem aplicativos que avaliam o comportamento ético das marcas?",
+    "palavras_chave": ["ética", "consumo", "sustentabilidade", "direitos humanos", "marcas"]
+  },
+  {
+    "pergunta": "Por que o descarte incorreto de óleo de cozinha é perigoso?",
+    "resposta": "Porque um litro de óleo pode contaminar milhares de litros de água. O ideal é armazenar e entregar para reciclagem, onde pode virar sabão ou biodiesel. Sabia que já existem pontos de coleta específicos em várias cidades brasileiras?",
+    "palavras_chave": ["óleo de cozinha", "reciclagem", "água", "poluição", "biodiesel"]
+  },
+  {
+    "pergunta": "Como o consumo de papel pode ser mais sustentável?",
+    "resposta": "Optar por papel reciclado, usar frente e verso e evitar impressões desnecessárias reduz muito o impacto ambiental. A digitalização também ajuda. Sabia que o Brasil é um dos maiores recicladores de papel da América Latina?",
+    "palavras_chave": ["papel", "reciclagem", "digitalização", "sustentabilidade", "florestas"]
+  },
+  {
+    "pergunta": "O que são selos de certificação sustentável?",
+    "resposta": "São marcas que comprovam que um produto segue critérios ambientais e sociais, como FSC para madeira ou Orgânico Brasil para alimentos. Eles ajudam o consumidor a fazer escolhas seguras. Sabia que existem mais de 400 tipos de certificações ecológicas no mundo?",
+    "palavras_chave": ["certificação", "sustentabilidade", "produtos", "meio ambiente", "fsc"]
+  },
+  {
+    "pergunta": "Como o consumo consciente pode começar dentro das empresas?",
+    "resposta": "Empresas podem adotar práticas sustentáveis ao reduzir desperdícios, otimizar energia e incentivar colaboradores a agir de forma responsável. Programas de conscientização interna e metas de sustentabilidade fazem diferença. Sabia que companhias que adotam políticas verdes costumam ter funcionários mais engajados e produtivos?",
+    "palavras_chave": ["empresas", "sustentabilidade", "colaboradores", "energia", "responsabilidade"]
+  },
+  {
+    "pergunta": "O que é consumo regenerativo?",
+    "resposta": "O consumo regenerativo vai além da sustentabilidade: ele busca devolver mais à natureza do que retira. Isso inclui produtos feitos com materiais que restauram o solo ou projetos que plantam árvores. Sabia que algumas marcas de calçados já produzem tênis que removem carbono da atmosfera?",
+    "palavras_chave": ["consumo", "regenerativo", "carbono", "natureza", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como a publicidade pode ajudar na educação ambiental?",
+    "resposta": "A publicidade tem grande poder de influência. Quando usa esse poder para informar e inspirar atitudes sustentáveis, torna-se uma ferramenta de transformação social. Campanhas educativas sobre reciclagem ou economia de água são bons exemplos. Sabia que a ONU criou um prêmio para reconhecer campanhas de comunicação sustentável?",
+    "palavras_chave": ["publicidade", "educação ambiental", "comunicação", "influência", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Por que o descarte de baterias e pilhas requer cuidado especial?",
+    "resposta": "Porque elas contêm metais pesados que contaminam o solo e a água se jogadas no lixo comum. Devem ser entregues em pontos de coleta específicos para reciclagem segura. Sabia que em muitas cidades é possível entregar pilhas usadas em supermercados e escolas?",
+    "palavras_chave": ["baterias", "pilhas", "reciclagem", "poluição", "metais pesados"]
+  },
+  {
+    "pergunta": "Como a agricultura sustentável se relaciona com o consumo consciente?",
+    "resposta": "A agricultura sustentável usa menos agrotóxicos, preserva o solo e respeita os ciclos naturais. Quando escolhemos alimentos orgânicos ou de produtores locais, incentivamos essas práticas. Sabia que a agroecologia é uma das principais ferramentas para garantir segurança alimentar com baixo impacto ambiental?",
+    "palavras_chave": ["agricultura", "orgânicos", "agroecologia", "sustentabilidade", "alimentos"]
+  },
+  {
+    "pergunta": "O que é consumo emocional e por que ele pode ser prejudicial?",
+    "resposta": "O consumo emocional acontece quando compramos para aliviar sentimentos como ansiedade ou tristeza. Esse comportamento leva ao desperdício e ao endividamento. O consumo consciente propõe refletir antes de agir. Sabia que estudos mostram que o prazer da compra impulsiva dura menos de 10 minutos?",
+    "palavras_chave": ["consumo", "emoções", "impulsividade", "comportamento", "consciência"]
+  },
+  {
+    "pergunta": "Como os aplicativos de troca e revenda estimulam o consumo sustentável?",
+    "resposta": "Esses apps prolongam a vida útil dos produtos, conectando quem não usa mais algo com quem precisa. É uma forma moderna de economia circular. Sabia que o mercado de revenda de roupas cresce mais rápido que o de moda nova em vários países?",
+    "palavras_chave": ["aplicativos", "revenda", "economia circular", "tecnologia", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é pegada de carbono e por que devemos reduzi-la?",
+    "resposta": "A pegada de carbono mede a quantidade de gases de efeito estufa que emitimos em nossas atividades diárias. Reduzi-la significa optar por transporte limpo, economia de energia e consumo responsável. Sabia que existem sites que calculam sua pegada e sugerem formas de compensar as emissões?",
+    "palavras_chave": ["pegada de carbono", "emissões", "efeito estufa", "energia", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Por que o consumo infantil precisa de atenção especial?",
+    "resposta": "Crianças são alvos fáceis da publicidade e aprendem hábitos de consumo desde cedo. Ensinar desde a infância o valor da responsabilidade e da reutilização é essencial. Sabia que o excesso de brinquedos pode até reduzir a criatividade infantil, segundo alguns estudos?",
+    "palavras_chave": ["infância", "educação", "publicidade", "consumo", "hábitos"]
+  },
+  {
+    "pergunta": "Como o conceito de economia solidária incentiva o consumo consciente?",
+    "resposta": "A economia solidária valoriza a cooperação, o comércio justo e a produção local. Em vez de competir, as pessoas colaboram. Isso cria redes de confiança e sustentabilidade. Sabia que esse modelo é praticado em centenas de feiras e cooperativas pelo Brasil?",
+    "palavras_chave": ["economia solidária", "cooperação", "comércio justo", "sustentabilidade", "comunidade"]
+  },
+  {
+    "pergunta": "O que é design ecológico?",
+    "resposta": "Design ecológico é criar produtos com menor impacto ambiental em todo o seu ciclo de vida. Isso inclui materiais renováveis, fácil reciclagem e durabilidade. Sabia que há móveis feitos com resíduos de café e impressos em 3D de forma sustentável?",
+    "palavras_chave": ["design ecológico", "materiais", "reciclagem", "inovação", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como o consumo consciente se relaciona com a felicidade?",
+    "resposta": "Pesquisas mostram que a felicidade está mais ligada a experiências e relacionamentos do que à posse de objetos. O consumo consciente ajuda a focar no que realmente importa, reduzindo o estresse materialista. Sabia que países mais sustentáveis tendem a ter índices maiores de bem-estar social?",
+    "palavras_chave": ["felicidade", "consumo consciente", "bem-estar", "materialismo", "valores"]
+  },
+  {
+    "pergunta": "Por que comprar produtos usados é uma atitude sustentável?",
+    "resposta": "Porque prolonga a vida útil dos objetos e reduz a demanda por novos recursos. Brechós, antiquários e plataformas online transformam o consumo em algo mais circular. Sabia que o termo ‘second hand’ é usado desde o século XIX para esse tipo de comércio?",
+    "palavras_chave": ["produtos usados", "reutilização", "brechós", "economia circular", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como o consumo consciente pode combater o desperdício de moda?",
+    "resposta": "Ao comprar menos e valorizar peças de qualidade, reduzimos o descarte têxtil. Customizar, doar e trocar roupas também faz parte da solução. Sabia que o Brasil descarta mais de 170 mil toneladas de resíduos têxteis por ano?",
+    "palavras_chave": ["moda", "desperdício", "roupas", "reciclagem", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é produção sustentável?",
+    "resposta": "É quando as empresas produzem de forma a minimizar o impacto ambiental e social, respeitando recursos e pessoas. Isso envolve energia limpa, materiais renováveis e responsabilidade trabalhista. Sabia que o conceito de ‘produção limpa’ foi formalizado pela ONU nos anos 1990?",
+    "palavras_chave": ["produção", "sustentabilidade", "meio ambiente", "energia limpa", "trabalho"]
+  },
+  {
+    "pergunta": "Como os hábitos alimentares impactam o meio ambiente?",
+    "resposta": "Cada alimento tem um custo ambiental diferente. Carnes e ultraprocessados geram mais emissões e desperdício. Já alimentos locais e sazonais reduzem o impacto. Sabia que frutas da estação exigem menos energia para serem cultivadas e transportadas?",
+    "palavras_chave": ["alimentação", "emissões", "meio ambiente", "saudável", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Por que os eletrônicos duráveis são aliados da sustentabilidade?",
+    "resposta": "Produtos duráveis reduzem o descarte e a extração de matérias-primas. Comprar um aparelho de qualidade, mesmo mais caro, é um investimento sustentável. Sabia que a União Europeia discute leis para garantir o ‘direito ao reparo’, permitindo que qualquer pessoa conserte seus aparelhos?",
+    "palavras_chave": ["eletrônicos", "durabilidade", "reparo", "consumo", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como a logística reversa ajuda no consumo consciente?",
+    "resposta": "A logística reversa garante que produtos e embalagens voltem ao fabricante após o uso, para reaproveitamento ou descarte adequado. É uma parceria entre consumidor e empresa. Sabia que no Brasil isso é obrigatório para pneus, baterias e eletroeletrônicos?",
+    "palavras_chave": ["logística reversa", "reciclagem", "resíduos", "empresas", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é consumo local e por que ele fortalece comunidades?",
+    "resposta": "Comprar de pequenos produtores e comércios da região mantém o dinheiro circulando localmente e reduz emissões de transporte. Além disso, fortalece laços sociais. Sabia que economias locais são mais resilientes a crises globais?",
+    "palavras_chave": ["consumo local", "economia", "comunidade", "sustentabilidade", "produção"]
+  },
+  {
+    "pergunta": "Como os bancos podem incentivar o consumo sustentável?",
+    "resposta": "Bancos sustentáveis investem em projetos verdes, oferecem crédito para energia limpa e evitam financiar empresas poluentes. Sabia que já existem bancos com carteiras 100% voltadas à economia de impacto?",
+    "palavras_chave": ["bancos", "finanças sustentáveis", "investimento", "impacto", "economia verde"]
+  },
+  {
+    "pergunta": "Por que o consumo consciente depende também de políticas públicas?",
+    "resposta": "Porque o poder público pode incentivar hábitos sustentáveis com leis, incentivos fiscais e programas de educação ambiental. Sozinho, o consumidor tem alcance limitado. Sabia que vários países já taxam plásticos descartáveis como forma de reduzir o uso?",
+    "palavras_chave": ["políticas públicas", "educação", "sustentabilidade", "leis", "incentivos"]
+  },
+  {
+    "pergunta": "Como a cultura do descarte influencia a sociedade moderna?",
+    "resposta": "Vivemos num modelo que valoriza o novo e o rápido, o que gera desperdício e frustração. O consumo consciente propõe desacelerar e dar valor ao que já temos. Sabia que o termo ‘descartável’ só se popularizou depois da Segunda Guerra Mundial, com o plástico?",
+    "palavras_chave": ["descartável", "sociedade", "consumo", "história", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é consumo responsável de moda?",
+    "resposta": "É pensar antes de comprar, preferir marcas éticas, reparar e reutilizar roupas. Valorizar o estilo próprio em vez de seguir tendências passageiras. Sabia que a França já criou leis contra o desperdício de roupas novas?",
+    "palavras_chave": ["moda", "consumo responsável", "ética", "reutilização", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como os jovens estão influenciando o consumo sustentável?",
+    "resposta": "As novas gerações cobram transparência e propósito das marcas, e isso muda o mercado. Jovens priorizam experiências e causas ambientais. Sabia que o movimento Fridays for Future, criado por Greta Thunberg, inspirou milhões a repensar o consumo?",
+    "palavras_chave": ["jovens", "ativismo", "sustentabilidade", "consumo", "mudança"]
+  },
+  {
+    "pergunta": "Por que o consumo sustentável é uma questão global?",
+    "resposta": "Porque os recursos naturais e os impactos ambientais não têm fronteiras. O que é produzido em um país afeta o outro. Por isso, a ONU incluiu o consumo responsável como um dos Objetivos de Desenvolvimento Sustentável. Sabia que é o ODS número 12?",
+    "palavras_chave": ["onu", "ods 12", "sustentabilidade", "global", "recursos naturais"]
+  },
+  {
+    "pergunta": "Como a tecnologia pode ser usada para promover o consumo consciente?",
+    "resposta": "Aplicativos, plataformas de compartilhamento e inteligência artificial podem ajudar a reduzir o desperdício e otimizar recursos. Desde apps que medem pegada de carbono até sistemas que controlam energia em casa, a tecnologia é uma grande aliada. Sabia que já existem geladeiras inteligentes que alertam sobre alimentos prestes a vencer?",
+    "palavras_chave": ["tecnologia", "inovação", "sustentabilidade", "pegada de carbono", "eficiência"]
+  },
+  {
+    "pergunta": "O que são selos verdes e por que eles são importantes?",
+    "resposta": "Selos verdes certificam que um produto foi fabricado de forma sustentável, respeitando o meio ambiente e os direitos humanos. Eles ajudam o consumidor a fazer escolhas mais conscientes. Sabia que o selo FSC garante que o papel vem de florestas manejadas de forma responsável?",
+    "palavras_chave": ["selos verdes", "certificação", "produtos", "meio ambiente", "consumo"]
+  },
+  {
+    "pergunta": "Como o turismo sustentável estimula o consumo responsável?",
+    "resposta": "O turismo sustentável prioriza o respeito à natureza, às culturas locais e à economia da comunidade. Escolher hospedagens ecológicas e evitar desperdícios faz parte desse conceito. Sabia que existem selos internacionais que certificam hotéis sustentáveis?",
+    "palavras_chave": ["turismo", "sustentabilidade", "comunidade", "viagem", "responsabilidade"]
+  },
+  {
+    "pergunta": "Por que o descarte irregular de lixo eletrônico é um problema crescente?",
+    "resposta": "O lixo eletrônico contém metais pesados e materiais tóxicos que contaminam o solo e a água. Com o aumento do consumo de tecnologia, o volume desse tipo de resíduo disparou. Sabia que o Brasil é o quinto maior gerador de lixo eletrônico do mundo?",
+    "palavras_chave": ["lixo eletrônico", "reciclagem", "poluição", "resíduos", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é economia do compartilhamento?",
+    "resposta": "É um modelo em que as pessoas dividem bens e serviços em vez de comprar novos, como caronas, coworkings e aluguel de ferramentas. Essa prática reduz o consumo e promove colaboração. Sabia que esse conceito nasceu do avanço da internet e da cultura digital?",
+    "palavras_chave": ["compartilhamento", "economia", "colaboração", "sustentabilidade", "inovação"]
+  },
+  {
+    "pergunta": "Como o consumo consciente pode transformar cidades?",
+    "resposta": "Cidades com cidadãos conscientes reduzem resíduos, demandam transporte limpo e pressionam governos por políticas sustentáveis. O impacto é coletivo e visível. Sabia que há cidades que já implantaram moedas locais sustentáveis para incentivar o comércio ecológico?",
+    "palavras_chave": ["cidades", "transporte", "resíduos", "políticas públicas", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Por que é importante conhecer a origem dos produtos que compramos?",
+    "resposta": "Saber de onde vem o que consumimos revela práticas éticas ou não por trás das marcas. Isso nos ajuda a apoiar empresas responsáveis e evitar exploração. Sabia que o conceito de 'rastreabilidade' está sendo adotado até para o café e o chocolate?",
+    "palavras_chave": ["origem", "produtos", "ética", "rastreabilidade", "consumo consciente"]
+  },
+  {
+    "pergunta": "Como a moda circular difere da moda tradicional?",
+    "resposta": "A moda circular busca manter os produtos em uso o máximo possível, reaproveitando materiais e reduzindo o descarte. Já a moda tradicional é linear: produz, consome e descarta. Sabia que algumas marcas recolhem roupas antigas para transformá-las em novas coleções?",
+    "palavras_chave": ["moda circular", "reutilização", "reciclagem", "sustentabilidade", "indústria têxtil"]
+  },
+  {
+    "pergunta": "O que significa consumo consciente de energia?",
+    "resposta": "É usar energia de forma eficiente, evitando desperdícios e optando por fontes renováveis. Pequenas atitudes, como desligar luzes e escolher aparelhos com selo A, fazem diferença. Sabia que casas sustentáveis podem reduzir até 50% do gasto energético?",
+    "palavras_chave": ["energia", "eficiência", "fontes renováveis", "economia", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como o consumismo afeta a saúde mental?",
+    "resposta": "O excesso de consumo pode gerar ansiedade, comparação e frustração. O consumo consciente ajuda a encontrar equilíbrio, focando em experiências e propósito. Sabia que estudos apontam correlação entre minimalismo e maior bem-estar emocional?",
+    "palavras_chave": ["consumismo", "saúde mental", "minimalismo", "bem-estar", "consciência"]
+  },
+  {
+    "pergunta": "Por que o plástico é um dos maiores desafios ambientais?",
+    "resposta": "Porque ele demora séculos para se decompor e está presente em quase tudo. O consumo consciente inclui reduzir plásticos de uso único e preferir alternativas biodegradáveis. Sabia que já existem plásticos feitos de mandioca e cana-de-açúcar?",
+    "palavras_chave": ["plástico", "biodegradável", "poluição", "reciclagem", "meio ambiente"]
+  },
+  {
+    "pergunta": "O que é consumo sustentável na internet?",
+    "resposta": "Até o uso digital tem impacto! Cada e-mail e vídeo online consome energia em servidores. Diminuir o envio de spam e usar nuvens verdes é parte do consumo consciente digital. Sabia que a internet já representa cerca de 4% das emissões globais de carbono?",
+    "palavras_chave": ["internet", "digital", "energia", "consumo", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como o consumo consciente pode reduzir desigualdades sociais?",
+    "resposta": "Ao priorizar produtos de comércio justo e apoiar pequenos produtores, ajudamos a distribuir melhor a renda. Escolhas éticas fortalecem comunidades locais. Sabia que o selo Fair Trade garante preços justos para agricultores em países em desenvolvimento?",
+    "palavras_chave": ["comércio justo", "desigualdade", "produtores", "consumo", "justiça social"]
+  },
+  {
+    "pergunta": "Por que o desperdício de alimentos é um problema global?",
+    "resposta": "Porque um terço dos alimentos produzidos no mundo vai parar no lixo, enquanto milhões passam fome. Planejar compras e aproveitar sobras são atitudes simples, mas poderosas. Sabia que o desperdício alimentar gera mais gases de efeito estufa do que todo o setor aéreo?",
+    "palavras_chave": ["alimentos", "desperdício", "fome", "planejamento", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como o consumo consciente pode ser ensinado nas escolas?",
+    "resposta": "Com projetos práticos, como hortas, oficinas de reciclagem e debates sobre propaganda e consumo. Ensinar desde cedo cria gerações mais críticas e responsáveis. Sabia que escolas sustentáveis têm impacto positivo também na saúde e na alimentação dos alunos?",
+    "palavras_chave": ["educação", "escolas", "reciclagem", "consumo consciente", "aprendizado"]
+  },
+  {
+    "pergunta": "O que é economia verde?",
+    "resposta": "É um modelo econômico que busca o desenvolvimento aliado à preservação ambiental. Prioriza energia limpa, reciclagem e inovação sustentável. Sabia que o Brasil tem um dos maiores potenciais do mundo para liderar essa transição por causa da sua biodiversidade?",
+    "palavras_chave": ["economia verde", "inovação", "meio ambiente", "desenvolvimento", "energia limpa"]
+  },
+  {
+    "pergunta": "Como a pandemia mudou o comportamento de consumo?",
+    "resposta": "Durante a pandemia, muitas pessoas repensaram prioridades e passaram a valorizar o essencial. O consumo local e o cuidado com a saúde ganharam força. Sabia que o interesse por produtos ecológicos aumentou mais de 30% nesse período?",
+    "palavras_chave": ["pandemia", "comportamento", "consumo", "saúde", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Por que a transparência das empresas é importante para o consumo consciente?",
+    "resposta": "Transparência significa saber como e onde um produto foi feito. Empresas que divulgam seus processos conquistam consumidores mais fiéis e conscientes. Sabia que há aplicativos que mostram o impacto ambiental de marcas populares?",
+    "palavras_chave": ["transparência", "empresas", "produtos", "ética", "consumo consciente"]
+  },
+  {
+    "pergunta": "Como os resíduos orgânicos podem ser reaproveitados?",
+    "resposta": "Restos de alimentos podem virar adubo por meio da compostagem, reduzindo o lixo e enriquecendo o solo. Sabia que até em apartamentos é possível fazer compostagem com minhocas ou baldes específicos?",
+    "palavras_chave": ["compostagem", "resíduos", "orgânicos", "reciclagem", "adubo"]
+  },
+  {
+    "pergunta": "O que é consumo colaborativo?",
+    "resposta": "É quando pessoas compartilham bens e serviços, como caronas, ferramentas e hospedagens. Essa prática reduz o consumo e fortalece comunidades. Sabia que o Airbnb e o Uber nasceram dessa lógica colaborativa?",
+    "palavras_chave": ["consumo colaborativo", "compartilhamento", "comunidade", "sustentabilidade", "inovação"]
+  },
+  {
+    "pergunta": "Por que o transporte público é uma escolha sustentável?",
+    "resposta": "Usar transporte coletivo reduz emissões, congestionamentos e consumo de combustível. É uma ação simples com impacto enorme. Sabia que um ônibus cheio pode substituir até 30 carros nas ruas?",
+    "palavras_chave": ["transporte público", "emissões", "mobilidade", "energia", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Como o minimalismo se conecta com o consumo consciente?",
+    "resposta": "O minimalismo propõe viver com menos, mas com mais propósito. Ele ajuda a distinguir o necessário do supérfluo, reduzindo o desperdício. Sabia que essa filosofia tem origem no Japão e influenciou o design moderno?",
+    "palavras_chave": ["minimalismo", "propósito", "consumo consciente", "desperdício", "estilo de vida"]
+  },
+  {
+    "pergunta": "O que é consumo ético?",
+    "resposta": "É aquele que leva em conta os impactos sociais e ambientais das escolhas. Envolve pensar nas condições de trabalho e na origem dos produtos. Sabia que o termo surgiu nos anos 1980, junto ao crescimento das ONGs ambientais?",
+    "palavras_chave": ["ética", "consumo", "trabalho", "sustentabilidade", "sociedade"]
+  },
+  {
+    "pergunta": "Como pequenas atitudes domésticas podem gerar grande impacto ambiental?",
+    "resposta": "Coisas simples como separar o lixo, economizar água e evitar desperdício de energia, quando feitas em conjunto por milhões de pessoas, transformam o planeta. Sabia que se cada pessoa desligasse uma lâmpada desnecessária por uma hora, economizaríamos energia suficiente para abastecer uma cidade pequena?",
+    "palavras_chave": ["atitudes", "lar", "energia", "água", "sustentabilidade"]
+  },
+  {
+    "pergunta": "Por que o consumo sustentável é uma questão de futuro?",
+    "resposta": "Porque o modelo atual de exploração de recursos não é viável a longo prazo. Se quisermos garantir qualidade de vida para as próximas gerações, precisamos mudar agora. Sabia que a ONU estima que precisaremos de quase dois planetas Terra se mantivermos o ritmo atual de consumo?",
+    "palavras_chave": ["futuro", "recursos naturais", "sustentabilidade", "consumo", "planeta"]
+  },
+  {
+    "pergunta": "Como o consumo consciente pode fortalecer a cidadania?",
+    "resposta": "Escolher produtos e empresas que respeitam o meio ambiente e as pessoas é também um ato político. Cada compra é um voto por um mundo mais justo. Sabia que esse conceito é chamado de ‘voto com a carteira’?",
+    "palavras_chave": ["cidadania", "consumo", "política", "justiça", "sustentabilidade"]
+  },
+  {
+    "pergunta": "O que é a pegada hídrica e como podemos reduzi-la?",
+    "resposta": "A pegada hídrica mede o volume de água usado direta e indiretamente para produzir bens e serviços. Reduzi-la envolve economizar água e consumir produtos menos intensivos. Sabia que uma simples camiseta de algodão pode gastar até 2.700 litros de água para ser feita?",
+    "palavras_chave": ["água", "pegada hídrica", "consumo", "sustentabilidade", "recursos"]
+  }
+]

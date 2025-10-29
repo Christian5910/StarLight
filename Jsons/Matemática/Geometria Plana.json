@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "O que é um polígono em geometria plana?",
+    "resposta": "Um polígono é uma figura fechada formada por segmentos de reta, chamados lados, que se encontram apenas nas extremidades, os vértices. Pense num triângulo ou num quadrado: são exemplos simples de polígonos. Eles são fundamentais na geometria plana porque ajudam a entender formas e calcular áreas. Um detalhe importante é que os lados não podem se cruzar, senão a figura deixa de ser um polígono simples. Sabia que os polígonos estão por trás de muitas construções, como azulejos em mosaicos, porque se encaixam perfeitamente em padrões?",
+    "palavras_chave": ["polígono", "lados", "vértices", "figura fechada", "geometria plana"]
+  },
+  {
+    "pergunta": "Como calcular a área de um triângulo?",
+    "resposta": "Para calcular a área de um triângulo, você usa a fórmula: área igual a base vezes altura, dividido por dois. A base é qualquer lado do triângulo, e a altura é a distância perpendicular desse lado até o vértice oposto. Por exemplo, se a base é 6 cm e a altura é 4 cm, a área será 6 vezes 4, que dá 24, dividido por 2, igual a 12 centímetros quadrados. Essa fórmula funciona para qualquer tipo de triângulo, seja ele equilátero, isósceles ou escaleno. Sabia que essa fórmula foi descoberta pelos antigos egípcios para medir terrenos às margens do Nilo?",
+    "palavras_chave": ["triângulo", "área", "base", "altura", "fórmula"]
+  },
+  {
+    "pergunta": "O que caracteriza um quadrado?",
+    "resposta": "Um quadrado é um polígono com quatro lados iguais e quatro ângulos retos, ou seja, 90 graus cada. Ele é um caso especial de retângulo, mas com a particularidade de que todos os lados têm o mesmo comprimento. Isso faz dele uma figura super simétrica, usada em coisas como tabuleiros de xadrez ou pixels em telas digitais. A área do quadrado é só o lado ao quadrado, e o perímetro é quatro vezes o lado. Sabia que, na Grécia Antiga, o quadrado era visto como símbolo de perfeição por causa da sua simetria?",
+    "palavras_chave": ["quadrado", "lados iguais", "ângulos retos", "simetria", "área"]
+  },
+  {
+    "pergunta": "Por que o círculo não é considerado um polígono?",
+    "resposta": "O círculo não é um polígono porque ele não é formado por segmentos de reta, mas por uma curva contínua, chamada circunferência, que envolve todos os pontos equidistantes de um centro. Polígonos têm lados retos e vértices definidos, enquanto o círculo é 'infinito' em termos de lados, já que a curva não tem começo nem fim. Essa diferença faz o círculo ser estudado à parte na geometria plana, com fórmulas próprias, como a área, que é pi vezes o raio ao quadrado. Sabia que o círculo é uma das formas mais eficientes na natureza, como em bolhas de sabão, por minimizar a superfície?",
+    "palavras_chave": ["círculo", "polígono", "circunferência", "curva", "área"]
+  },
+  {
+    "pergunta": "Como encontrar o perímetro de um retângulo?",
+    "resposta": "O perímetro de um retângulo é a soma de todos os seus lados. Como ele tem dois lados iguais de comprimento e dois de largura, a fórmula é: perímetro igual a dois vezes o comprimento mais dois vezes a largura. Por exemplo, se um retângulo tem 5 cm de comprimento e 3 cm de largura, o perímetro é 2 vezes 5 mais 2 vezes 3, que dá 10 mais 6, igual a 16 cm. Essa medida é útil em coisas como cercar um terreno. Sabia que os retângulos são tão comuns que até o formato da maioria dos smartphones segue essa forma?",
+    "palavras_chave": ["retângulo", "perímetro", "comprimento", "largura", "fórmula"]
+  },
+  {
+    "pergunta": "O que é um ângulo reto?",
+    "resposta": "Um ângulo reto é um ângulo que mede exatamente 90 graus. Ele é aquele canto 'perfeito' que você vê em quadrados ou retângulos, onde as linhas formam uma espécie de 'L'. É super importante na geometria plana porque define figuras como o quadrado e serve de base para construções, como paredes de prédios. Quando você vê um triângulo com um ângulo reto, ele é chamado de triângulo retângulo, e o teorema de Pitágoras pode ser usado nele. Sabia que os egípcios usavam cordas com nós para criar ângulos retos ao construir as pirâmides?",
+    "palavras_chave": ["ângulo reto", "90 graus", "triângulo retângulo", "construção", "pitágoras"]
+  },
+  {
+    "pergunta": "Qual é a soma dos ângulos internos de um triângulo?",
+    "resposta": "A soma dos ângulos internos de qualquer triângulo é sempre 180 graus. Isso é uma propriedade fundamental da geometria plana. Por exemplo, num triângulo retângulo, você tem um ângulo de 90 graus, então os outros dois juntos precisam somar 90 graus. Essa regra ajuda a resolver problemas de ângulos desconhecidos. É interessante porque funciona para qualquer triângulo, seja ele grande, pequeno, ou de qualquer tipo. Sabia que essa propriedade foi provada por Euclides, um matemático grego, há mais de 2 mil anos?",
+    "palavras_chave": ["triângulo", "ângulos internos", "180 graus", "euclides", "geometria"]
+  },
+  {
+    "pergunta": "O que é o teorema de Pitágoras?",
+    "resposta": "O teorema de Pitágoras diz que, num triângulo retângulo, a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa. Em termos simples, se os catetos têm comprimentos 'a' e 'b', e a hipotenusa é 'c', então a² + b² = c². Por exemplo, se os catetos medem 3 cm e 4 cm, a hipotenusa será a raiz quadrada de 9 + 16, que é 5 cm. Esse teorema é usado em tudo, desde arquitetura até navegação. Sabia que ele foi descoberto em várias culturas, como na Babilônia e na Índia, antes mesmo de Pitágoras?",
+    "palavras_chave": ["pitágoras", "triângulo retângulo", "catetos", "hipotenusa", "fórmula"]
+  },
+  {
+    "pergunta": "Como calcular a área de um círculo?",
+    "resposta": "A área de um círculo é calculada pela fórmula: área igual a pi vezes o raio ao quadrado. O raio é a distância do centro até a borda do círculo. Por exemplo, se o raio é 2 cm, a área é pi vezes 2 ao quadrado, ou seja, 4pi, que dá cerca de 12,56 cm². Essa fórmula é essencial em várias áreas, como engenharia e design. A constante pi, aproximadamente 3,14, é o que torna o círculo tão especial. Sabia que o valor de pi foi calculado com precisão por Arquimedes na Grécia Antiga?",
+    "palavras_chave": ["círculo", "área", "raio", "pi", "arquimedes"]
+  },
+  {
+    "pergunta": "O que é um paralelogramo?",
+    "resposta": "Um paralelogramo é um polígono de quatro lados onde os lados opostos são iguais e paralelos. Exemplos clássicos são o retângulo, o quadrado, o losango e o parallelogramo 'comum'. A área dele é calculada multiplicando a base pela altura, que é a distância perpendicular entre as bases. Por exemplo, um paralelogramo com base 5 cm e altura 3 cm tem área 15 cm². Ele é muito usado em design e engenharia por sua estabilidade. Sabia que as asas de alguns aviões têm formato de paralelogramo para melhorar a aerodinâmica?",
+    "palavras_chave": ["paralelogramo", "lados opostos", "área", "base", "altura"]
+  },
+  {
+    "pergunta": "Como identificar um triângulo equilátero?",
+    "resposta": "Um triângulo equilátero é aquele em que todos os lados têm o mesmo comprimento e todos os ângulos medem 60 graus. Ele é o mais simétrico dos triângulos, o que o torna comum em designs, como logotipos ou padrões geométricos. Para identificá-lo, basta verificar se os três lados são iguais. Sua área pode ser calculada com a fórmula: lado ao quadrado vezes raiz de 3, dividido por 4. Sabia que o triângulo equilátero aparece em cristais, como o quartzo, por sua estabilidade natural?",
+    "palavras_chave": ["triângulo equilátero", "lados iguais", "60 graus", "simetria", "área"]
+  },
+  {
+    "pergunta": "O que é a mediana de um triângulo?",
+    "resposta": "A mediana de um triângulo é um segmento de reta que vai de um vértice ao ponto médio do lado oposto. Cada triângulo tem três medianas, e elas sempre se encontram num ponto chamado baricentro, que é como o 'centro de massa' da figura. Por exemplo, se você tem um triângulo com um lado de 6 cm, a mediana parte do vértice oposto e chega no ponto que divide esse lado em duas partes de 3 cm. Isso é útil em física e engenharia. Sabia que o baricentro divide cada mediana numa proporção de 2 para 1?",
+    "palavras_chave": ["mediana", "triângulo", "baricentro", "ponto médio", "geometria"]
+  },
+  {
+    "pergunta": "Como calcular a área de um trapézio?",
+    "resposta": "A área de um trapézio é calculada pela fórmula: área igual à soma das bases, vezes a altura, dividido por dois. As bases são os lados paralelos, e a altura é a distância perpendicular entre eles. Por exemplo, se as bases são 4 cm e 6 cm, e a altura é 3 cm, a área é (4 + 6) vezes 3, dividido por 2, que dá 15 cm². Trapézios aparecem muito em arquitetura, como em telhados. Sabia que a forma de trapézio é usada em pontes para distribuir melhor o peso?",
+    "palavras_chave": ["trapézio", "área", "bases", "altura", "fórmula"]
+  },
+  {
+    "pergunta": "O que é uma bissetriz em um triângulo?",
+    "resposta": "A bissetriz de um triângulo é uma reta que divide um ângulo em dois ângulos iguais e vai do vértice até o lado oposto. Cada triângulo tem três bissetrizes, e elas se cruzam num ponto chamado incentro, que é o centro do círculo inscrito no triângulo. Isso é útil para encontrar o equilíbrio em figuras geométricas. Por exemplo, numa construção, a bissetriz pode ajudar a dividir ângulos com precisão. Sabia que o incentro é sempre equidistante dos lados do triângulo?",
+    "palavras_chave": ["bissetriz", "triângulo", "incentro", "ângulo", "círculo inscrito"]
+  },
+  {
+    "pergunta": "O que define um losango?",
+    "resposta": "Um losango é um paralelogramo com todos os lados de mesmo comprimento. Diferente do quadrado, ele não precisa ter ângulos retos, mas seus ângulos opostos são iguais, e os consecutivos somam 180 graus. A área do losango é calculada multiplicando suas diagonais e dividindo por dois. Por exemplo, se as diagonais são 8 cm e 6 cm, a área é 8 vezes 6, dividido por 2, igual a 24 cm². Sabia que o losango é comum em joias, como o formato de diamantes lapidados?",
+    "palavras_chave": ["losango", "paralelogramo", "diagonais", "área", "simetria"]
+  },
+  {
+    "pergunta": "Como calcular a circunferência de um círculo?",
+    "resposta": "A circunferência de um círculo é o comprimento da sua 'borda', calculada pela fórmula: circunferência igual a 2 vezes pi vezes o raio. Se o raio é 3 cm, por exemplo, a circunferência é 2 vezes 3,14 vezes 3, que dá cerca de 18,84 cm. Essa medida é essencial em coisas como rodas de carro ou pistas de corrida. A constante pi torna tudo mais interessante, porque é um número irracional! Sabia que os babilônios já usavam uma aproximação de pi, cerca de 3,125, para cálculos circulares?",
+    "palavras_chave": ["circunferência", "círculo", "raio", "pi", "comprimento"]
+  },
+  {
+    "pergunta": "O que é um triângulo isósceles?",
+    "resposta": "Um triângulo isósceles é aquele que tem pelo menos dois lados de mesmo comprimento, chamados lados congruentes. Isso faz com que os ângulos opostos a esses lados também sejam iguais. Ele é comum em estruturas, como telhados, por sua simetria parcial. Por exemplo, se dois lados têm 5 cm, o triângulo já é isósceles. A área segue a fórmula padrão: base vezes altura, dividido por dois. Sabia que o triângulo isósceles aparece em muitos logotipos por ser visualmente equilibrado?",
+    "palavras_chave": ["triângulo isósceles", "lados congruentes", "ângulos iguais", "simetria", "área"]
+  },
+  {
+    "pergunta": "Por que a soma dos ângulos internos de um quadrilátero é 360 graus?",
+    "resposta": "A soma dos ângulos internos de um quadrilátero é sempre 360 graus porque qualquer quadrilátero pode ser dividido em dois triângulos, e cada triângulo tem ângulos que somam 180 graus. Dois triângulos juntos, então, dão 360 graus. Isso vale para retângulos, trapézios, losangos, qualquer um! Por exemplo, num quadrado, cada ângulo é 90 graus, então 4 vezes 90 é 360. Sabia que essa propriedade é usada em computação gráfica para modelar formas 3D a partir de quadriláteros?",
+    "palavras_chave": ["quadrilátero", "ângulos internos", "360 graus", "triângulos", "geometria"]
+  },
+  {
+    "pergunta": "O que é uma altura em um triângulo?",
+    "resposta": "A altura de um triângulo é uma linha perpendicular traçada de um vértice até a reta que contém o lado oposto, chamado base. Cada triângulo tem três alturas, uma para cada vértice, e elas se cruzam num ponto chamado ortocentro. A altura é essencial para calcular a área, já que a fórmula é base vezes altura, dividido por dois. Por exemplo, num triângulo com base 10 cm e altura 5 cm, a área é 25 cm². Sabia que, em triângulos obtusos, a altura pode ficar fora da figura?",
+    "palavras_chave": ["altura", "triângulo", "ortocentro", "área", "base"]
+  },
+  {
+    "pergunta": "Como calcular o perímetro de um polígono regular?",
+    "resposta": "O perímetro de um polígono regular é calculado multiplicando o comprimento de um lado pelo número de lados. Como todos os lados são iguais, é bem simples. Por exemplo, num pentágono regular com lado de 4 cm, o perímetro é 5 vezes 4, igual a 20 cm. Essa fórmula é usada em projetos como cercas ou desenhos geométricos. A regularidade do polígono facilita cálculos em design e arquitetura. Sabia que polígonos regulares, como o hexágono, são comuns em colmeias por sua eficiência espacial?",
+    "palavras_chave": ["polígono regular", "perímetro", "lados iguais", "cálculo", "hexágono"]
+  },
+  {
+    "pergunta": "O que é um ângulo agudo?",
+    "resposta": "Um ângulo agudo é qualquer ângulo que mede menos de 90 graus. Pense num ângulo de 45 graus, como o canto de um triângulo isósceles: ele é agudo. Esses ângulos aparecem muito em figuras como triângulos agudos, onde todos os ângulos são menores que 90 graus. Eles são importantes em trigonometria, porque funções como seno e cosseno variam bastante nesses ângulos. Sabia que ângulos agudos são comuns em designs aerodinâmicos, como asas de aviões, por reduzirem a resistência do ar?",
+    "palavras_chave": ["ângulo agudo", "menos de 90", "triângulo", "trigonometria", "design"]
+  },
+  {
+    "pergunta": "O que diferencia um triângulo escaleno?",
+    "resposta": "Um triângulo escaleno é aquele em que todos os lados têm comprimentos diferentes, e, consequentemente, todos os ângulos também são diferentes. Ele é o menos simétrico dos triângulos, o que o torna interessante em aplicações onde a irregularidade é necessária, como em terrenos com formas variadas. A área ainda segue a fórmula base vezes altura, dividido por dois, mas pode ser mais complexa de calcular. Sabia que triângulos escalenos são comuns em mapas topográficos para representar terrenos irregulares?",
+    "palavras_chave": ["triângulo escaleno", "lados diferentes", "ângulos diferentes", "área", "topografia"]
+  },
+  {
+    "pergunta": "Como encontrar o centro de um círculo inscrito num triângulo?",
+    "resposta": "O centro de um círculo inscrito num triângulo, chamado incentro, é o ponto onde as três bissetrizes dos ângulos do triângulo se encontram. O círculo inscrito toca todos os lados do triângulo, e o incentro é equidistante desses lados. Para encontrá-lo, você pode traçar as bissetrizes usando régua e compasso ou resolver algebricamente com as equações dos ângulos. É uma construção usada em design e engenharia. Sabia que o incentro é usado em algoritmos de computação gráfica para otimizar formas?",
+    "palavras_chave": ["incentro", "círculo inscrito", "bissetriz", "triângulo", "geometria"]
+  },
+  {
+    "pergunta": "O que é um polígono convexo?",
+    "resposta": "Um polígono convexo é aquele em que todos os ângulos internos são menores que 180 graus, e qualquer segmento de reta que conecta dois pontos dentro dele fica inteiramente dentro da figura. Quadrados, triângulos e pentágonos regulares são exemplos de polígonos convexos. Eles são mais simples de estudar porque não têm 'reentrâncias'. Essa propriedade é útil em áreas como robótica para planejar trajetórias. Sabia que polígonos convexos são preferidos em design de jogos para simplificar colisões?",
+    "palavras_chave": ["polígono convexo", "ângulos internos", "figura fechada", "geometria", "robótica"]
+  },
+  {
+    "pergunta": "Por que o quadrado é considerado um polígono regular?",
+    "resposta": "O quadrado é um polígono regular porque tem todos os lados de mesmo comprimento e todos os ângulos iguais, que são 90 graus. Essa regularidade o torna um caso especial de polígono, onde a simetria é máxima. Ele é usado em tudo, desde azulejos até telas de computadores, por sua uniformidade. A área é simplesmente o lado ao quadrado, e o perímetro, quatro vezes o lado. Sabia que o quadrado inspirou o conceito de 'pixel', que vem de 'picture element', nas telas digitais?",
+    "palavras_chave": ["quadrado", "polígono regular", "simetria", "área", "pixel"]
+  },
+  {
+    "pergunta": "O que é um ângulo obtuso em geometria plana?",
+    "resposta": "Um ângulo obtuso é aquele que mede mais de 90 graus, mas menos de 180 graus. Pense num ângulo de 120 graus, comum em triângulos obtusos, onde um dos ângulos é maior que 90. Esses ângulos aparecem em figuras como trapézios ou triângulos irregulares e são importantes para entender formas menos simétricas. Eles afetam cálculos, como os de área, porque mudam a disposição dos lados. Sabia que ângulos obtusos são usados em design de móveis, como cadeiras inclinadas, para maior conforto?",
+    "palavras_chave": ["ângulo obtuso", "triângulo", "mais de 90", "geometria", "design"]
+  },
+  {
+    "pergunta": "Como calcular a área de um paralelogramo?",
+    "resposta": "A área de um paralelogramo é calculada multiplicando a base pela altura, que é a distância perpendicular entre a base e o lado oposto. Por exemplo, se a base tem 8 cm e a altura 5 cm, a área é 8 vezes 5, igual a 40 cm². Essa fórmula funciona para qualquer paralelogramo, como retângulos ou losangos. É muito usada em projetos de engenharia, como vigas inclinadas. Sabia que o paralelogramo inspirou o estudo de forças em física, como o 'paralelogramo de forças'?",
+    "palavras_chave": ["paralelogramo", "área", "base", "altura", "engenharia"]
+  },
+  {
+    "pergunta": "O que é o ortocentro de um triângulo?",
+    "resposta": "O ortocentro é o ponto onde as três alturas de um triângulo se cruzam. Cada altura é uma reta perpendicular que vai de um vértice ao lado oposto (ou sua extensão). Esse ponto é importante porque ajuda a entender o equilíbrio geométrico da figura. Por exemplo, num triângulo retângulo, o ortocentro coincide com o vértice do ângulo reto. Sabia que, em triângulos obtusos, o ortocentro fica fora da figura, o que surpreende muita gente?",
+    "palavras_chave": ["ortocentro", "altura", "triângulo", "geometria", "interseção"]
+  },
+  {
+    "pergunta": "Por que o triângulo retângulo é tão importante na geometria?",
+    "resposta": "O triângulo retângulo é essencial porque tem um ângulo de 90 graus, o que simplifica cálculos com o teorema de Pitágoras e funções trigonométricas, como seno e cosseno. Ele aparece em tudo: desde medir distâncias em mapas até projetar pontes. Por exemplo, se você sabe que os catetos são 3 cm e 4 cm, a hipotenusa é 5 cm, graças a Pitágoras. Sabia que os antigos gregos usavam triângulos retângulos para alinhar construções astronômicas?",
+    "palavras_chave": ["triângulo retângulo", "pitágoras", "trigonometria", "ângulo reto", "construção"]
+  },
+  {
+    "pergunta": "O que é um polígono regular?",
+    "resposta": "Um polígono regular é uma figura com todos os lados de mesmo comprimento e todos os ângulos internos iguais. Exemplos são o triângulo equilátero, o quadrado e o pentágono regular. Essa simetria os torna úteis em design, arquitetura e até na natureza, como em flocos de neve. A área e o perímetro são mais fáceis de calcular por causa da regularidade. Sabia que o pentágono regular é usado no design do Pentágono, a sede do Departamento de Defesa dos EUA?",
+    "palavras_chave": ["polígono regular", "simetria", "lados iguais", "ângulos iguais", "pentágono"]
+  },
+  {
+    "pergunta": "Como calcular a diagonal de um quadrado?",
+    "resposta": "A diagonal de um quadrado é calculada multiplicando o lado pela raiz de 2. Por exemplo, se o lado é 4 cm, a diagonal é 4 vezes 1,414, que dá cerca de 5,66 cm. Isso vem do teorema de Pitágoras, já que a diagonal forma um triângulo retângulo com dois lados do quadrado. Essa medida é útil em coisas como corte de materiais ou design gráfico. Sabia que a diagonal do quadrado é irracional porque a raiz de 2 não pode ser expressa como fração?",
+    "palavras_chave": ["quadrado", "diagonal", "raiz de 2", "pitágoras", "cálculo"]
+  },
+  {
+    "pergunta": "O que é o baricentro de um triângulo?",
+    "resposta": "O baricentro é o ponto onde as três medianas de um triângulo se encontram. Cada mediana liga um vértice ao ponto médio do lado oposto. Ele é como o 'centro de gravidade' do triângulo, onde a figura ficaria equilibrada se fosse pendurada. Por exemplo, em construções, o baricentro ajuda a determinar pontos de suporte. Sabia que o baricentro sempre divide as medianas na proporção 2:1, sendo mais próximo do vértice?",
+    "palavras_chave": ["baricentro", "mediana", "triângulo", "centro de gravidade", "geometria"]
+  },
+  {
+    "pergunta": "O que é um círculo circunscrito a um triângulo?",
+    "resposta": "Um círculo circunscrito é aquele que passa por todos os três vértices de um triângulo, e seu centro, chamado circuncentro, é o ponto onde as mediatrizes dos lados se cruzam. A mediatriz é a reta perpendicular que divide cada lado ao meio. Esse círculo é útil em geometria para estudar propriedades do triângulo. Sabia que, em triângulos retângulos, o circuncentro fica exatamente na hipotenusa, no ponto médio dela?",
+    "palavras_chave": ["círculo circunscrito", "circuncentro", "mediatriz", "triângulo", "geometria"]
+  },
+  {
+    "pergunta": "Como calcular a área de um losango?",
+    "resposta": "A área de um losango é calculada multiplicando o comprimento de suas duas diagonais e dividindo por dois. Por exemplo, se uma diagonal mede 10 cm e a outra 6 cm, a área é 10 vezes 6, dividido por 2, igual a 30 cm². Essa fórmula é prática porque as diagonais se cruzam em ângulos retos. Losangos são comuns em padrões decorativos. Sabia que o losango é usado em kitesurf, porque sua forma ajuda a capturar o vento?",
+    "palavras_chave": ["losango", "área", "diagonais", "geometria", "padrões"]
+  },
+  {
+    "pergunta": "O que é uma mediatriz em geometria?",
+    "resposta": "A mediatriz é uma reta perpendicular que divide um segmento de reta ao meio. Em um triângulo, por exemplo, cada lado tem uma mediatriz, e elas se cruzam no circuncentro, o centro do círculo que passa pelos três vértices. É uma ferramenta poderosa para construções geométricas, como encontrar o centro de um círculo. Sabia que as mediatrizes são usadas em GPS para determinar posições exatas com base em distâncias?",
+    "palavras_chave": ["mediatriz", "perpendicular", "circuncentro", "triângulo", "geometria"]
+  },
+  {
+    "pergunta": "Por que o hexágono regular é tão eficiente na natureza?",
+    "resposta": "O hexágono regular tem seis lados iguais e ângulos de 120 graus, o que o torna incrivelmente eficiente para cobrir superfícies sem deixar espaços, como em colmeias de abelhas. Sua área é calculada com a fórmula: 3 vezes raiz de 3, vezes o lado ao quadrado, dividido por 2. Essa eficiência maximiza o espaço e minimiza o material usado. Sabia que o hexágono é usado em engenharia para estruturas leves e resistentes, como em painéis solares?",
+    "palavras_chave": ["hexágono regular", "eficiência", "colmeias", "área", "engenharia"]
+  },
+  {
+    "pergunta": "O que é um ângulo complementar?",
+    "resposta": "Dois ângulos são complementares quando somam exatamente 90 graus. Por exemplo, 30 graus e 60 graus são complementares. Isso é comum em triângulos retângulos, onde os dois ângulos agudos sempre se complementam. Essa propriedade é usada em trigonometria, porque o seno de um ângulo é igual ao cosseno do seu complementar. Sabia que ângulos complementares são usados em navegação para calcular direções precisas?",
+    "palavras_chave": ["ângulo complementar", "90 graus", "trigonometria", "triângulo retângulo", "navegação"]
+  },
+  {
+    "pergunta": "Como calcular o perímetro de um triângulo?",
+    "resposta": "O perímetro de um triângulo é a soma dos comprimentos dos seus três lados. Por exemplo, se os lados medem 5 cm, 6 cm e 7 cm, o perímetro é 5 + 6 + 7, igual a 18 cm. Essa medida é usada em situações práticas, como cercar um terreno triangular. Não importa o tipo de triângulo, a soma é sempre direta. Sabia que o perímetro de triângulos é usado em competições de vela para calcular trajetos?",
+    "palavras_chave": ["perímetro", "triângulo", "lados", "soma", "aplicação prática"]
+  },
+  {
+    "pergunta": "O que é um pentágono regular?",
+    "resposta": "Um pentágono regular é um polígono com cinco lados de mesmo comprimento e cinco ângulos internos iguais, cada um medindo 108 graus. Sua área pode ser calculada com fórmulas específicas, como dividir o pentágono em triângulos. Ele é comum em designs simétricos, como estrelas de cinco pontas. Sabia que o pentágono regular está presente na proporção áurea, usada em arte e arquitetura desde a Grécia Antiga?",
+    "palavras_chave": ["pentágono regular", "lados iguais", "ângulos iguais", "proporção áurea", "geometria"]
+  },
+  {
+    "pergunta": "Como usar o teorema de Tales na geometria plana?",
+    "resposta": "O teorema de Tales diz que, se duas retas são cortadas por paralelas, os segmentos formados são proporcionais. Por exemplo, se uma reta paralela divide os lados de um triângulo, as razões dos segmentos são iguais. Isso é útil para medir alturas inacessíveis, como a de uma árvore, usando sombras. Tales usou esse princípio para medir pirâmides. Sabia que o teorema de Tales é usado em cartografia para escalonar mapas?",
+    "palavras_chave": ["teorema de tales", "proporção", "retas paralelas", "triângulo", "cartografia"]
+  },
+  {
+    "pergunta": "O que é um segmento de reta em geometria?",
+    "resposta": "Um segmento de reta é uma parte de uma reta limitada por dois pontos, chamados extremidades. Ele é a base de muitas figuras, como lados de polígonos. Por exemplo, o lado de um triângulo é um segmento de reta. Ele tem comprimento definido, diferente de uma reta, que é infinita. Sabia que segmentos de reta são usados em computação gráfica para criar modelos 3D a partir de polígonos?",
+    "palavras_chave": ["segmento de reta", "extremidades", "polígono", "comprimento", "computação gráfica"]
+  },
+  {
+    "pergunta": "Por que o triângulo é a figura mais rígida?",
+    "resposta": "O triângulo é a figura mais rígida porque é a única forma geométrica plana que não pode ser deformada sem mudar o comprimento dos lados. Isso acontece porque seus ângulos e lados estão completamente determinados. Por isso, triângulos são usados em estruturas como pontes e torres. Sabia que a Torre Eiffel usa triângulos em sua estrutura para garantir estabilidade contra ventos fortes?",
+    "palavras_chave": ["triângulo", "rigidez", "estrutura", "estabilidade", "engenharia"]
+  },
+  {
+    "pergunta": "O que é uma reta perpendicular?",
+    "resposta": "Uma reta perpendicular é aquela que cruza outra formando um ângulo de 90 graus. Esse conceito é crucial em geometria, como na construção de alturas de triângulos ou mediatrizes. Por exemplo, a altura de um triângulo é sempre perpendicular à base. Perpendicularidade garante precisão em projetos arquitetônicos. Sabia que a perpendicularidade é usada em topografia para alinhar mapas com exatidão?",
+    "palavras_chave": ["reta perpendicular", "90 graus", "altura", "mediatriz", "topografia"]
+  },
+  {
+    "pergunta": "Como calcular a área de um pentágono regular?",
+    "resposta": "A área de um pentágono regular pode ser calculada com a fórmula: área igual a 5 vezes o lado ao quadrado, vezes a constante 0,688, que vem da trigonometria. Por exemplo, se o lado é 3 cm, a área é cerca de 15,48 cm². Essa fórmula é útil em design e arquitetura. Sabia que o pentágono regular aparece em padrões de mosaicos islâmicos por sua beleza simétrica?",
+    "palavras_chave": ["pentágono regular", "área", "trigonometria", "simetria", "mosaicos"]
+  },
+  {
+    "pergunta": "O que é um ângulo suplementar?",
+    "resposta": "Dois ângulos são suplementares quando somam 180 graus. Por exemplo, 110 graus e 70 graus são suplementares. Isso é comum em figuras como paralelogramos, onde ângulos consecutivos são suplementares. Essa propriedade ajuda em cálculos de design e navegação. Sabia que ângulos suplementares são usados em astronomia para calcular posições de estrelas?",
+    "palavras_chave": ["ângulo suplementar", "180 graus", "paralelogramo", "navegação", "astronomia"]
+  },
+  {
+    "pergunta": "O que é um trapézio isósceles?",
+    "resposta": "Um trapézio isósceles é um trapézio com as bases paralelas e os lados não paralelos de mesmo comprimento. Isso faz os ângulos adjacentes às bases serem iguais, dando simetria à figura. Sua área é a soma das bases vezes a altura, dividida por dois. É comum em telhados simétricos. Sabia que o trapézio isósceles aparece em logotipos por sua aparência equilibrada?",
+    "palavras_chave": ["trapézio isósceles", "bases paralelas", "simetria", "área", "design"]
+  },
+  {
+    "pergunta": "Como encontrar o raio de um círculo inscrito num triângulo?",
+    "resposta": "O raio do círculo inscrito num triângulo é calculado dividindo a área do triângulo pelo semiperímetro (metade do perímetro). O semiperímetro é a soma dos lados dividida por dois. Por exemplo, num triângulo com lados 3, 4 e 5 cm, o semiperímetro é 6 cm, e se a área é 6 cm², o raio é 6 dividido por 6, igual a 1 cm. Sabia que esse cálculo é usado em otimização de materiais em engenharia?",
+    "palavras_chave": ["círculo inscrito", "raio", "área", "semiperímetro", "engenharia"]
+  },
+  {
+    "pergunta": "O que é um polígono côncavo?",
+    "resposta": "Um polígono côncavo tem pelo menos um ângulo interno maior que 180 graus, criando uma 'reentrância' na figura. Diferente dos convexos, ele parece 'afundado' em alguma parte. Um exemplo é uma estrela. Esses polígonos são mais complexos de estudar, mas aparecem em design gráfico. Sabia que polígonos côncavos são usados em jogos para criar formas de obstáculos mais dinâmicas?",
+    "palavras_chave": ["polígono côncavo", "ângulo interno", "reentrância", "design gráfico", "geometria"]
+  },
+  {
+    "pergunta": "Como calcular o comprimento de um arco de círculo?",
+    "resposta": "O comprimento de um arco de círculo é calculado pela fórmula: comprimento igual a (ângulo do arco em radianos) vezes o raio. Se o ângulo está em graus, multiplique por pi/180 para converter. Por exemplo, um arco de 60 graus com raio 5 cm tem comprimento (60 vezes pi/180) vezes 5, cerca de 5,24 cm. É útil em engenharia, como em trilhos curvos. Sabia que arcos de círculo são usados em arcos de pontes para suportar peso?",
+    "palavras_chave": ["arco", "círculo", "comprimento", "radianos", "engenharia"]
+  },
+  {
+    "pergunta": "O que é a simetria em geometria plana?",
+    "resposta": "Simetria em geometria plana é quando uma figura pode ser dividida de modo que uma metade seja o reflexo da outra. Por exemplo, um quadrado tem quatro eixos de simetria, enquanto um círculo tem infinitos. A simetria é usada em arte e arquitetura para criar equilíbrio visual. Sabia que a simetria é estudada em biologia para entender formas de organismos, como borboletas?",
+    "palavras_chave": ["simetria", "reflexo", "geometria", "arte", "biologia"]
+  },
+  {
+    "pergunta": "O que é o circuncentro de um triângulo?",
+    "resposta": "O circuncentro é o ponto onde as mediatrizes dos três lados de um triângulo se cruzam. Ele é o centro do círculo circunscrito, que passa por todos os vértices do triângulo. Por exemplo, num triângulo retângulo, o circuncentro fica no ponto médio da hipotenusa. Esse ponto é útil em construções geométricas e design. Sabia que o circuncentro é usado em sistemas de navegação para triangulação de posições?",
+    "palavras_chave": ["circuncentro", "mediatriz", "círculo circunscrito", "triângulo", "navegação"]
+  },
+  {
+    "pergunta": "Como calcular a área de um hexágono regular?",
+    "resposta": "A área de um hexágono regular é calculada pela fórmula: área igual a 3 vezes a raiz de 3, vezes o lado ao quadrado, dividido por 2. Por exemplo, se o lado é 4 cm, a área é cerca de 41,57 cm². Essa fórmula vem da divisão do hexágono em seis triângulos equiláteros. Hexágonos são comuns em engenharia por sua eficiência. Sabia que hexágonos regulares aparecem em favos de mel por otimizarem espaço e material?",
+    "palavras_chave": ["hexágono regular", "área", "triângulo equilátero", "eficiência", "favos de mel"]
+  },
+  {
+    "pergunta": "O que é uma reta paralela na geometria plana?",
+    "resposta": "Retas paralelas são retas que nunca se cruzam, não importa o quanto sejam esticadas, e mantêm a mesma distância entre si. Elas têm a mesma inclinação. Por exemplo, os lados opostos de um paralelogramo são paralelos. Esse conceito é fundamental em construções e design gráfico. Sabia que retas paralelas são usadas em ferrovias para garantir que os trilhos nunca se toquem?",
+    "palavras_chave": ["reta paralela", "inclinação", "paralelogramo", "construção", "ferrovias"]
+  },
+  {
+    "pergunta": "Por que o teorema de Pitágoras só vale para triângulos retângulos?",
+    "resposta": "O teorema de Pitágoras (a² + b² = c²) só funciona em triângulos retângulos porque o ângulo reto cria uma relação única entre os catetos e a hipotenusa. Essa relação depende da perpendicularidade dos catetos, que formam um ângulo de 90 graus. Em outros triângulos, a soma dos quadrados dos lados não segue essa regra. Sabia que Pitágoras não foi o primeiro a descobrir essa relação? Babilônios já a usavam em tábuas de argila!",
+    "palavras_chave": ["pitágoras", "triângulo retângulo", "catetos", "hipotenusa", "babilônios"]
+  },
+  {
+    "pergunta": "O que é um triângulo obtuso?",
+    "resposta": "Um triângulo obtuso tem um ângulo interno maior que 90 graus. Isso faz com que os outros dois ângulos sejam agudos, e a figura pareça 'aberta'. A área ainda é base vezes altura dividido por dois, mas a altura pode estar fora do triângulo. Esses triângulos são comuns em terrenos irregulares. Sabia que triângulos obtusos são usados em design de velas de barcos para capturar vento?",
+    "palavras_chave": ["triângulo obtuso", "ângulo maior", "área", "design", "terrenos"]
+  },
+  {
+    "pergunta": "Como calcular o perímetro de um círculo?",
+    "resposta": "O perímetro de um círculo, chamado circunferência, é calculado pela fórmula: 2 vezes pi vezes o raio. Por exemplo, se o raio é 5 cm, a circunferência é 2 vezes 3,14 vezes 5, igual a 31,4 cm. Essa medida é usada em coisas como rodas ou tubos. A constante pi é o que torna o cálculo tão elegante. Sabia que a circunferência foi estudada por Arquimedes para aproximar o valor de pi?",
+    "palavras_chave": ["circunferência", "círculo", "raio", "pi", "arquimedes"]
+  },
+  {
+    "pergunta": "O que é um polígono inscrito num círculo?",
+    "resposta": "Um polígono inscrito num círculo é aquele cujos vértices estão todos sobre a circunferência do círculo. Por exemplo, um triângulo equilátero pode ser inscrito num círculo, com o circuncentro como centro. Essa propriedade é usada em design e trigonometria. Sabia que polígonos inscritos foram estudados por Euclides para aproximar a área de círculos?",
+    "palavras_chave": ["polígono inscrito", "círculo", "vértices", "euclides", "trigonometria"]
+  },
+  {
+    "pergunta": "Como calcular a diagonal de um retângulo?",
+    "resposta": "A diagonal de um retângulo é calculada usando o teorema de Pitágoras: raiz quadrada da soma dos quadrados do comprimento e da largura. Por exemplo, se o retângulo tem 6 cm de comprimento e 8 cm de largura, a diagonal é a raiz de 6² + 8², ou seja, raiz de 100, que é 10 cm. É útil em construções, como escadas. Sabia que diagonais de retângulos são usadas em telas de TV para medir o tamanho em polegadas?",
+    "palavras_chave": ["retângulo", "diagonal", "pitágoras", "construção", "tela"]
+  },
+  {
+    "pergunta": "O que é um ângulo de 180 graus?",
+    "resposta": "Um ângulo de 180 graus é chamado de ângulo raso e forma uma linha reta. Ele aparece, por exemplo, quando dois ângulos adjacentes em um paralelogramo são suplementares. Esse ângulo é importante em geometria para entender alinhamentos. Sabia que ângulos rasos são usados em astronomia para calcular a posição relativa de planetas em oposição?",
+    "palavras_chave": ["ângulo raso", "180 graus", "linha reta", "paralelogramo", "astronomia"]
+  },
+  {
+    "pergunta": "O que caracteriza um trapézio retângulo?",
+    "resposta": "Um trapézio retângulo tem duas bases paralelas e pelo menos dois ângulos retos, geralmente adjacentes a uma das bases. Sua área é calculada como a soma das bases vezes a altura, dividido por dois. É comum em projetos arquitetônicos, como rampas. Sabia que trapézios retângulos são usados em design de escadas para criar inclinações uniformes?",
+    "palavras_chave": ["trapézio retângulo", "ângulos retos", "área", "arquitetura", "escadas"]
+  },
+  {
+    "pergunta": "Como encontrar o ângulo externo de um polígono regular?",
+    "resposta": "O ângulo externo de um polígono regular é calculado dividindo 360 graus pelo número de lados. Por exemplo, num pentágono regular (5 lados), cada ângulo externo é 360 dividido por 5, igual a 72 graus. Esses ângulos são úteis em design de padrões. Sabia que a soma dos ângulos externos de qualquer polígono convexo é sempre 360 graus?",
+    "palavras_chave": ["ângulo externo", "polígono regular", "360 graus", "lados", "padrões"]
+  },
+  {
+    "pergunta": "O que é uma ceviana em um triângulo?",
+    "resposta": "Uma ceviana é qualquer segmento de reta que conecta um vértice de um triângulo a um ponto no lado oposto (ou sua extensão). Medianas, bissetrizes e alturas são tipos de cevianas. Elas são importantes para estudar propriedades geométricas, como o baricentro ou o incentro. Sabia que cevianas são usadas em física para calcular centros de massa em estruturas triangulares?",
+    "palavras_chave": ["ceviana", "triângulo", "baricentro", "incentro", "física"]
+  },
+  {
+    "pergunta": "Por que o círculo é considerado uma figura simétrica?",
+    "resposta": "O círculo é simétrico porque qualquer linha que passe pelo seu centro divide a figura em duas metades idênticas. Ele tem infinitos eixos de simetria, o que o torna único entre as formas geométricas. Essa propriedade é usada em design e engenharia. Sabia que a simetria do círculo inspirou a invenção da roda, uma das maiores inovações humanas?",
+    "palavras_chave": ["círculo", "simetria", "eixo de simetria", "design", "roda"]
+  },
+  {
+    "pergunta": "Como calcular a soma dos ângulos internos de um polígono?",
+    "resposta": "A soma dos ângulos internos de um polígono é dada pela fórmula: (n - 2) vezes 180 graus, onde 'n' é o número de lados. Por exemplo, num pentágono (5 lados), a soma é (5 - 2) vezes 180, igual a 540 graus. Essa fórmula vem da divisão do polígono em triângulos. Sabia que essa propriedade é usada em computação gráfica para modelar formas complexas?",
+    "palavras_chave": ["ângulos internos", "polígono", "fórmula", "triângulos", "computação gráfica"]
+  },
+  {
+    "pergunta": "O que é um triângulo acutângulo?",
+    "resposta": "Um triângulo acutângulo tem todos os ângulos internos menores que 90 graus. Ele parece mais 'fechado' que outros triângulos e é comum em designs simétricos. Sua área segue a fórmula padrão: base vezes altura dividido por dois. Sabia que triângulos acutângulos são usados em aerodinâmica por sua forma compacta e estável?",
+    "palavras_chave": ["triângulo acutângulo", "ângulos agudos", "área", "aerodinâmica", "simetria"]
+  },
+  {
+    "pergunta": "Como calcular a área de um setor circular?",
+    "resposta": "A área de um setor circular é calculada pela fórmula: (ângulo do setor em graus vezes pi vezes o raio ao quadrado) dividido por 360. Por exemplo, um setor de 90 graus com raio 4 cm tem área (90 vezes 3,14 vezes 16) dividido por 360, cerca de 12,56 cm². É útil em projetos como fatias de pizza ou rodas dentadas. Sabia que setores circulares são usados em gráficos de pizza para representar dados?",
+    "palavras_chave": ["setor circular", "área", "ângulo", "raio", "gráficos"]
+  },
+  {
+    "pergunta": "O que é um polígono circunscrito a um círculo?",
+    "resposta": "Um polígono circunscrito a um círculo é aquele em que todos os lados tocam o círculo, que é chamado de círculo inscrito. O centro do círculo é o incentro do polígono. Essa propriedade é usada em trigonometria e design geométrico. Sabia que polígonos circunscritos aparecem em ornamentos arquitetônicos, como rosetas góticas?",
+    "palavras_chave": ["polígono circunscrito", "círculo inscrito", "incentro", "design", "arquitetura"]
+  },
+  {
+    "pergunta": "Como usar a razão de semelhança em triângulos?",
+    "resposta": "A razão de semelhança entre dois triângulos semelhantes é a proporção entre os comprimentos de seus lados correspondentes. Se os lados de um triângulo são o dobro do outro, a razão é 2:1, e as áreas têm razão 4:1 (ao quadrado). Isso é útil para escalonar figuras, como em maquetes. Sabia que a razão de semelhança é usada em fotografia para manter proporções em ampliações?",
+    "palavras_chave": ["razão de semelhança", "triângulos semelhantes", "proporção", "área", "fotografia"]
+  },
+  {
+    "pergunta": "O que é um ângulo adjacente?",
+    "resposta": "Ângulos adjacentes são dois ângulos que compartilham um lado comum e um vértice, sem se sobreporem. Por exemplo, em um paralelogramo, os ângulos consecutivos são adjacentes e suplementares. Essa propriedade é usada em cálculos geométricos e design. Sabia que ângulos adjacentes são fundamentais em animações 3D para calcular rotações?",
+    "palavras_chave": ["ângulo adjacente", "paralelogramo", "suplementar", "design", "animação"]
+  },
+  {
+    "pergunta": "Por que o quadrado tem quatro eixos de simetria?",
+    "resposta": "O quadrado tem quatro eixos de simetria porque pode ser dividido ao meio de quatro formas diferentes (pelas diagonais e pelas linhas que passam pelo meio dos lados opostos), criando metades idênticas. Essa alta simetria o torna ideal para padrões visuais. Sabia que a simetria do quadrado é usada em logotipos para transmitir estabilidade e equilíbrio?",
+    "palavras_chave": ["quadrado", "eixo de simetria", "simetria", "padrões", "logotipos"]
+  },
+  {
+    "pergunta": "O que é o raio de um círculo?",
+    "resposta": "O raio de um círculo é a distância do centro a qualquer ponto da circunferência. Ele é a base para calcular área (pi vezes raio ao quadrado) e circunferência (2 vezes pi vezes raio). Por exemplo, um círculo com raio 3 cm tem área de cerca de 28,26 cm². Sabia que o raio é usado em astronomia para estimar o tamanho de órbitas planetárias?",
+    "palavras_chave": ["raio", "círculo", "área", "circunferência", "astronomia"]
+  },
+  {
+    "pergunta": "Como calcular a área de um triângulo usando a fórmula de Heron?",
+    "resposta": "A fórmula de Heron calcula a área de um triângulo a partir dos comprimentos dos lados. Primeiro, calcula-se o semiperímetro (soma dos lados dividida por dois). A área é a raiz quadrada de s vezes (s menos lado a) vezes (s menos lado b) vezes (s menos lado c). Por exemplo, para lados 3, 4 e 5 cm, o semiperímetro é 6, e a área é raiz de 6 vezes 3 vezes 2 vezes 1, igual a 6 cm². Sabia que essa fórmula é usada em topografia para terrenos irregulares?",
+    "palavras_chave": ["fórmula de heron", "área", "semiperímetro", "triângulo", "topografia"]
+  },
+  {
+    "pergunta": "O que é um octógono regular?",
+    "resposta": "Um octógono regular é um polígono com oito lados de mesmo comprimento e ângulos internos iguais, cada um medindo 135 graus. Sua área pode ser calculada dividindo-o em triângulos ou usando a fórmula: 2 vezes (1 + raiz de 2) vezes o lado ao quadrado. É comum em placas de trânsito, como o 'Pare'. Sabia que octógonos regulares aparecem em azulejos islâmicos por sua estética?",
+    "palavras_chave": ["octógono regular", "lados iguais", "ângulos iguais", "área", "azulejos"]
+  },
+  {
+    "pergunta": "Como identificar triângulos semelhantes?",
+    "resposta": "Triângulos semelhantes têm ângulos correspondentes iguais e lados proporcionais. Eles podem ser identificados por critérios como AA (dois ângulos iguais) ou LLL (lados proporcionais). Por exemplo, dois triângulos com ângulos de 30°, 60° e 90° são semelhantes. Isso é usado em escalonamento de projetos. Sabia que a semelhança de triângulos é usada em computação gráfica para criar zoom sem distorção?",
+    "palavras_chave": ["triângulos semelhantes", "ângulos iguais", "proporção", "computação gráfica", "escalonamento"]
+  },
+  {
+    "pergunta": "O que é um ângulo central em um círculo?",
+    "resposta": "Um ângulo central é formado por dois raios que partem do centro do círculo e tocam a circunferência. Ele é igual ao ângulo do arco que ele intercepta. Por exemplo, um ângulo central de 60 graus corresponde a um arco de 60 graus. É usado em cálculos de setores circulares. Sabia que ângulos centrais são usados em astronomia para medir arcos celestes?",
+    "palavras_chave": ["ângulo central", "círculo", "arco", "setor circular", "astronomia"]
+  },
+  {
+    "pergunta": "O que é um ângulo inscrito em um círculo?",
+    "resposta": "Um ângulo inscrito é formado por duas cordas que compartilham um vértice na circunferência do círculo. Ele mede a metade do arco que ele intercepta. Por exemplo, se o arco entre as cordas é de 80 graus, o ângulo inscrito é 40 graus. Esse conceito é crucial em trigonometria e construções geométricas. Sabia que ângulos inscritos são usados em astronomia para calcular posições de estrelas em um arco celeste?",
+    "palavras_chave": ["ângulo inscrito", "círculo", "arco", "trigonometria", "astronomia"]
+  },
+  {
+    "pergunta": "Como calcular a área de um octógono regular?",
+    "resposta": "A área de um octógono regular é calculada pela fórmula: 2 vezes (1 + raiz de 2) vezes o lado ao quadrado. Por exemplo, se o lado é 3 cm, a área é cerca de 28,97 cm². Essa fórmula vem da divisão do octógono em triângulos. É usada em design, como em placas de 'Pare'. Sabia que octógonos regulares são comuns em arquitetura islâmica por sua simetria estética?",
+    "palavras_chave": ["octógono regular", "área", "simetria", "design", "arquitetura"]
+  },
+  {
+    "pergunta": "O que é uma corda em um círculo?",
+    "resposta": "Uma corda é um segmento de reta que conecta dois pontos na circunferência de um círculo. Por exemplo, a linha reta entre dois pontos opostos em uma roda é uma corda. Ela é usada em cálculos de arcos e ângulos inscritos. A maior corda é o diâmetro, que passa pelo centro. Sabia que cordas são usadas em engenharia para projetar arcos de pontes?",
+    "palavras_chave": ["corda", "círculo", "circunferência", "diâmetro", "engenharia"]
+  },
+  {
+    "pergunta": "Por que a soma dos ângulos externos de um polígono é sempre 360 graus?",
+    "resposta": "A soma dos ângulos externos de qualquer polígono convexo é 360 graus porque, ao 'desdobrar' o polígono, os ângulos externos formam um círculo completo ao redor de um ponto. Por exemplo, num triângulo, cada ângulo externo contribui para essa soma. Isso é útil em design de padrões. Sabia que essa propriedade foi usada por arquitetos gregos para criar mosaicos circulares?",
+    "palavras_chave": ["ângulos externos", "polígono", "360 graus", "design", "mosaicos"]
+  },
+  {
+    "pergunta": "O que é um triângulo retângulo isósceles?",
+    "resposta": "Um triângulo retângulo isósceles tem um ângulo reto (90 graus) e dois lados iguais, chamados catetos, com ângulos de 45 graus cada. Por exemplo, se os catetos medem 5 cm, a hipotenusa é 5 vezes a raiz de 2, cerca de 7,07 cm, pelo teorema de Pitágoras. É comum em construções simétricas. Sabia que esse triângulo é usado em design gráfico para criar ângulos perfeitos em logotipos?",
+    "palavras_chave": ["triângulo retângulo", "isósceles", "45 graus", "pitágoras", "design"]
+  },
+  {
+    "pergunta": "Como calcular o comprimento de uma corda em um círculo?",
+    "resposta": "O comprimento de uma corda pode ser calculado usando a fórmula: 2 vezes o raio vezes o seno do ângulo central dividido por 2. Por exemplo, se o raio é 4 cm e o ângulo central é 60 graus, a corda é 2 vezes 4 vezes seno de 30 graus, igual a 4 cm. Essa fórmula é usada em engenharia de precisão. Sabia que cordas são usadas em música para calcular tensões em cordas de instrumentos?",
+    "palavras_chave": ["corda", "círculo", "ângulo central", "seno", "engenharia"]
+  },
+  {
+    "pergunta": "O que é um polígono estrelado?",
+    "resposta": "Um polígono estrelado é um polígono cujos lados se cruzam, formando uma figura com aparência de estrela, como o pentagrama. Ele é côncavo e não convexo, com pontos que se projetam para fora. É usado em arte e simbolismo. Sabia que o pentagrama, um polígono estrelado, era um símbolo de proteção na Idade Média?",
+    "palavras_chave": ["polígono estrelado", "pentagrama", "côncavo", "arte", "simbolismo"]
+  },
+  {
+    "pergunta": "Como calcular a área de um trapézio isósceles?",
+    "resposta": "A área de um trapézio isósceles é calculada pela fórmula: soma das bases vezes a altura, dividido por dois. Por exemplo, se as bases são 6 cm e 10 cm, e a altura é 4 cm, a área é (6 + 10) vezes 4, dividido por 2, igual a 32 cm². É comum em projetos simétricos. Sabia que trapézios isósceles são usados em telhados para equilibrar peso?",
+    "palavras_chave": ["trapézio isósceles", "área", "bases", "altura", "telhados"]
+  },
+  {
+    "pergunta": "O que é o diâmetro de um círculo?",
+    "resposta": "O diâmetro é um segmento de reta que passa pelo centro do círculo e conecta dois pontos opostos na circunferência. Ele é o dobro do raio. Por exemplo, se o raio é 3 cm, o diâmetro é 6 cm. É usado em cálculos de rodas e tubos. Sabia que o diâmetro é essencial em astronomia para medir o tamanho aparente de planetas?",
+    "palavras_chave": ["diâmetro", "círculo", "raio", "circunferência", "astronomia"]
+  },
+  {
+    "pergunta": "Como usar o teorema da bissetriz em um triângulo?",
+    "resposta": "O teorema da bissetriz diz que, se uma bissetriz divide um ângulo de um triângulo, ela divide o lado oposto em segmentos proporcionais aos lados adjacentes. Por exemplo, se a bissetriz de um ângulo divide o lado oposto em dois, a razão desses segmentos é igual à razão dos outros lados. É útil em cálculos de proporção. Sabia que esse teorema é usado em óptica para dividir feixes de luz?",
+    "palavras_chave": ["teorema da bissetriz", "triângulo", "proporção", "segmentos", "óptica"]
+  },
+  {
+    "pergunta": "O que é um ângulo oposto pelo vértice?",
+    "resposta": "Ângulos opostos pelo vértice são formados quando duas retas se cruzam, criando ângulos iguais em lados opostos do ponto de interseção. Por exemplo, se uma reta cruza outra, os ângulos opostos são congruentes. Essa propriedade é usada em construções geométricas. Sabia que esses ângulos são cruciais em física para calcular reflexões de luz?",
+    "palavras_chave": ["ângulo oposto", "vértice", "retas cruzadas", "congruente", "física"]
+  },
+  {
+    "pergunta": "Por que o losango não é necessariamente um quadrado?",
+    "resposta": "Um losango tem todos os lados iguais, mas seus ângulos não precisam ser retos, enquanto um quadrado tem lados iguais e ângulos de 90 graus. O quadrado é um caso especial de losango. Por exemplo, um losango pode ter ângulos de 60 e 120 graus. Sabia que losangos são usados em joalheria para lapidar diamantes por sua forma elegante?",
+    "palavras_chave": ["losango", "quadrado", "ângulos", "simetria", "joalheria"]
+  },
+  {
+    "pergunta": "Como calcular o ângulo interno de um polígono regular?",
+    "resposta": "O ângulo interno de um polígono regular é calculado pela fórmula: [(n - 2) vezes 180] dividido por n, onde n é o número de lados. Por exemplo, num hexágono (6 lados), o ângulo interno é (6 - 2) vezes 180, dividido por 6, igual a 120 graus. É útil em design de padrões. Sabia que essa fórmula é usada em arquitetura para criar cúpulas poligonais?",
+    "palavras_chave": ["ângulo interno", "polígono regular", "fórmula", "design", "arquitetura"]
+  },
+  {
+    "pergunta": "O que é um setor circular?",
+    "resposta": "Um setor circular é uma parte do círculo limitada por dois raios e um arco da circunferência, como uma fatia de pizza. Sua área é calculada pela fórmula: (ângulo do setor vezes pi vezes raio ao quadrado) dividido por 360. É usado em gráficos e engenharia. Sabia que setores circulares são usados em turbinas para otimizar fluxo de ar?",
+    "palavras_chave": ["setor circular", "área", "raio", "arco", "turbinas"]
+  },
+  {
+    "pergunta": "Como calcular a área de um triângulo equilátero?",
+    "resposta": "A área de um triângulo equilátero é calculada pela fórmula: (lado ao quadrado vezes raiz de 3) dividido por 4. Por exemplo, se o lado é 6 cm, a área é 36 vezes raiz de 3, dividido por 4, cerca de 15,59 cm². É usado em designs simétricos. Sabia que triângulos equiláteros aparecem em cristais por sua estabilidade molecular?",
+    "palavras_chave": ["triângulo equilátero", "área", "raiz de 3", "simetria", "cristais"]
+  },
+  {
+    "pergunta": "O que é um ponto notável em um triângulo?",
+    "resposta": "Pontos notáveis em um triângulo são pontos especiais como o baricentro, circuncentro, incentro e ortocentro, onde medianas, mediatrizes, bissetrizes ou alturas se cruzam. Cada um tem uma função geométrica específica. Por exemplo, o incentro é o centro do círculo inscrito. Sabia que pontos notáveis são usados em robótica para calcular centros de equilíbrio?",
+    "palavras_chave": ["pontos notáveis", "triângulo", "incentro", "baricentro", "robótica"]
+  },
+  {
+    "pergunta": "Como calcular o perímetro de um losango?",
+    "resposta": "O perímetro de um losango é calculado somando os comprimentos dos quatro lados, ou simplesmente 4 vezes o comprimento de um lado, já que todos são iguais. Por exemplo, se o lado é 5 cm, o perímetro é 20 cm. É usado em design de cercas ou padrões. Sabia que losangos são usados em bandeiras, como a do Brasil, por sua estética?",
+    "palavras_chave": ["losango", "perímetro", "lados iguais", "design", "bandeiras"]
+  },
+  {
+    "pergunta": "O que é um arco em um círculo?",
+    "resposta": "Um arco é uma parte da circunferência de um círculo, definida por dois pontos. Ele pode ser menor (menos de 180 graus) ou maior (mais de 180 graus). O comprimento do arco é calculado com base no ângulo central e no raio. Sabia que arcos são usados em arquitetura para criar cúpulas e abóbadas?",
+    "palavras_chave": ["arco", "círculo", "circunferência", "ângulo central", "arquitetura"]
+  },
+  {
+    "pergunta": "Como usar o teorema de Ceva em triângulos?",
+    "resposta": "O teorema de Ceva diz que, em um triângulo, três cevianas (linhas de um vértice a um ponto no lado oposto) são concorrentes se os produtos das razões dos segmentos formados nos lados são iguais a 1. É usado para provar concorrência de linhas, como medianas. Sabia que o teorema de Ceva é usado em física para analisar forças em equilíbrio?",
+    "palavras_chave": ["teorema de ceva", "cevianas", "triângulo", "concorrência", "física"]
+  },
+  {
+    "pergunta": "O que é um ângulo vertical em geometria?",
+    "resposta": "Ângulos verticais são ângulos opostos formados pelo cruzamento de duas retas, sendo sempre iguais. Por exemplo, se duas retas se cruzam, os ângulos opostos no ponto de interseção são verticais. São usados em cálculos geométricos e óptica. Sabia que ângulos verticais são cruciais em fotografia para alinhar lentes?",
+    "palavras_chave": ["ângulo vertical", "retas cruzadas", "igualdade", "óptica", "fotografia"]
+  },
+  {
+    "pergunta": "Como calcular a área de um polígono regular qualquer?",
+    "resposta": "A área de um polígono regular é calculada pela fórmula: (perímetro vezes apótema) dividido por 2, onde o apótema é a distância do centro ao ponto médio de um lado. Por exemplo, num pentágono regular com lado 4 cm e apótema 2,75 cm, a área é (20 vezes 2,75) dividido por 2, igual a 27,5 cm². Sabia que essa fórmula é usada em urbanismo para planejar praças poligonais?",
+    "palavras_chave": ["polígono regular", "área", "apótema", "perímetro", "urbanismo"]
+  },
+  {
+    "pergunta": "O que é o apótema de um polígono regular?",
+    "resposta": "O apótema é o segmento de reta que vai do centro de um polígono regular ao ponto médio de um de seus lados, perpendicularmente. Ele é usado para calcular a área: perímetro vezes apótema, dividido por dois. Por exemplo, num hexágono, o apótema facilita cálculos de área. Sabia que o apótema é usado em design de rodas dentadas para eficiência?",
+    "palavras_chave": ["apótema", "polígono regular", "área", "perpendicular", "design"]
+  },
+  {
+    "pergunta": "Por que o círculo é a figura com maior área para um dado perímetro?",
+    "resposta": "O círculo maximiza a área para um perímetro fixo porque sua forma distribui o espaço de maneira uniforme, sem ângulos ou lados retos que desperdiçam área. Isso é chamado de problema isoperimétrico. Por exemplo, um círculo com perímetro 12,56 cm tem mais área que um quadrado com o mesmo perímetro. Sabia que bolhas de sabão são circulares por essa propriedade?",
+    "palavras_chave": ["círculo", "área", "perímetro", "isoperimétrico", "bolhas"]
+  },
+  {
+    "pergunta": "Como calcular o ângulo entre duas retas?",
+    "resposta": "O ângulo entre duas retas pode ser calculado usando a tangente da diferença de suas inclinações. Se as inclinações são m1 e m2, a fórmula é: tangente do ângulo igual a |(m1 - m2) / (1 + m1*m2)|. É usado em física e engenharia para calcular interseções. Sabia que esse cálculo é usado em navegação para determinar ângulos de colisão?",
+    "palavras_chave": ["ângulo entre retas", "inclinação", "tangente", "navegação", "engenharia"]
+  },
+  {
+    "pergunta": "O que é a proporção áurea em geometria plana?",
+    "resposta": "A proporção áurea é uma razão onde a divisão de um segmento em duas partes faz com que a razão do todo para a parte maior seja igual à da parte maior para a menor, aproximadamente 1,618. É comum em retângulos áureos, usados em arte e arquitetura. Sabia que a proporção áurea aparece no Partenon, em Atenas, por sua harmonia visual?",
+    "palavras_chave": ["proporção áurea", "retângulo áureo", "razão", "arte", "arquitetura"]
+  }
+]

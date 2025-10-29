@@ -1,0 +1,517 @@
+[
+  {
+    "pergunta": "O que significa somar números inteiros?",
+    "resposta": "Somar números inteiros é combinar quantidades positivas e negativas para obter um resultado único. Quando ambos são positivos, o total cresce; quando um é negativo, ocorre uma compensação. Por exemplo, 5 + (-2) resulta em 3. Essa ideia é essencial para entender ganhos e perdas, como em finanças ou temperaturas. Sabia que o conceito de números negativos surgiu na China, há mais de 2000 anos, para representar dívidas?",
+    "palavras_chave": ["adição", "números inteiros", "positivos", "negativos", "compensação"]
+  },
+  {
+    "pergunta": "Por que subtrair é considerado o inverso da adição?",
+    "resposta": "A subtração é chamada de operação inversa da adição porque desfaz o que a soma faz. Por exemplo, se 8 + 2 = 10, então 10 - 2 = 8. Esse conceito é a base para entender como as operações se relacionam e se equilibram. Em contextos práticos, usamos isso o tempo todo — como quando ajustamos um troco ou corrigimos um erro num cálculo. Sabia que o símbolo de subtração (−) vem do século XV e significa literalmente 'menos' em latim?",
+    "palavras_chave": ["subtração", "adição", "inverso", "operações", "símbolos"]
+  },
+  {
+    "pergunta": "Como funciona a multiplicação como soma repetida?",
+    "resposta": "A multiplicação pode ser entendida como uma soma de parcelas iguais. Por exemplo, 4 × 3 é o mesmo que 3 + 3 + 3 + 3. Esse raciocínio ajuda a visualizar o crescimento proporcional e é especialmente útil na aprendizagem inicial. Com o tempo, a ideia se amplia para números fracionários e decimais. Sabia que a palavra 'multiplicação' vem do latim 'multiplicare', que significa 'aumentar várias vezes'?",
+    "palavras_chave": ["multiplicação", "soma repetida", "proporcionalidade", "números", "origem"]
+  },
+  {
+    "pergunta": "Por que a divisão é considerada o inverso da multiplicação?",
+    "resposta": "Dividir é o processo de repartir ou descobrir quantas vezes um número cabe em outro, desfazendo o que a multiplicação faz. Por exemplo, se 4 × 5 = 20, então 20 ÷ 5 = 4. Essa relação é crucial para o raciocínio algébrico e para resolver equações. Sabia que o símbolo ÷, chamado de obelus, começou a ser usado na Inglaterra no século XVII?",
+    "palavras_chave": ["divisão", "multiplicação", "inverso", "obelus", "equações"]
+  },
+  {
+    "pergunta": "O que é o elemento neutro da adição?",
+    "resposta": "O elemento neutro da adição é o número 0, pois somá-lo a qualquer outro número não altera o valor. Por exemplo, 9 + 0 = 9. Esse conceito está presente em várias operações matemáticas e tem grande importância na álgebra, pois define a identidade aditiva. Sabia que o zero foi introduzido na matemática ocidental pelos árabes, mas surgiu originalmente na Índia?",
+    "palavras_chave": ["elemento neutro", "adição", "zero", "identidade", "álgebra"]
+  },
+  {
+    "pergunta": "O que é o elemento neutro da multiplicação?",
+    "resposta": "Na multiplicação, o número 1 é o elemento neutro, pois qualquer número multiplicado por 1 mantém seu valor. Por exemplo, 1 × 7 = 7. Esse princípio é essencial para entender propriedades de identidade e para resolver equações. Sabia que essa ideia se mantém mesmo em matrizes e conjuntos numéricos mais complexos?",
+    "palavras_chave": ["multiplicação", "elemento neutro", "identidade", "um", "propriedades"]
+  },
+  {
+    "pergunta": "Por que multiplicar por zero sempre resulta em zero?",
+    "resposta": "Quando multiplicamos por zero, estamos dizendo que não há grupos a somar. Por exemplo, 6 × 0 é o mesmo que somar zero seis vezes, resultando em 0. Isso mostra que o zero é o elemento absorvente da multiplicação. Sabia que, durante séculos, o zero foi visto com desconfiança por filósofos que achavam estranho representar o 'nada'?",
+    "palavras_chave": ["zero", "multiplicação", "elemento absorvente", "grupos", "nada"]
+  },
+  {
+    "pergunta": "O que é a propriedade comutativa da adição?",
+    "resposta": "A propriedade comutativa da adição diz que a ordem dos números não altera o resultado. Ou seja, 3 + 5 é o mesmo que 5 + 3. Essa regra vale para a multiplicação também, mas não para subtração ou divisão. É uma forma de mostrar que a soma é uma operação simétrica. Sabia que o termo 'comutativo' vem do latim 'commutare', que significa trocar?",
+    "palavras_chave": ["comutativa", "adição", "ordem", "simetria", "conceito"]
+  },
+  {
+    "pergunta": "A propriedade comutativa também vale para a multiplicação?",
+    "resposta": "Sim! Na multiplicação, a propriedade comutativa afirma que trocar a ordem dos fatores não muda o produto. Por exemplo, 4 × 7 é igual a 7 × 4. Isso torna os cálculos mais flexíveis e é uma das bases da aritmética. Sabia que essa propriedade também se aplica em algumas operações de matrizes e vetores, mas nem sempre?",
+    "palavras_chave": ["comutativa", "multiplicação", "produto", "fatores", "aritmética"]
+  },
+  {
+    "pergunta": "O que é a propriedade associativa da adição?",
+    "resposta": "A propriedade associativa mostra que, ao somar três ou mais números, a forma de agrupá-los não muda o resultado. Por exemplo, (2 + 3) + 4 é igual a 2 + (3 + 4). Essa ideia facilita cálculos mentais e o uso de parênteses em expressões. Sabia que essa propriedade também aparece em operações de vetores e matrizes?",
+    "palavras_chave": ["associativa", "adição", "agrupamento", "parênteses", "vetores"]
+  },
+  {
+    "pergunta": "A multiplicação também é associativa?",
+    "resposta": "Sim, a multiplicação também obedece à propriedade associativa. Isso quer dizer que (2 × 3) × 4 tem o mesmo resultado que 2 × (3 × 4). Essa característica torna possível reorganizar cálculos mais extensos sem alterar o produto final. Sabia que essa propriedade é essencial em programação para simplificar algoritmos matemáticos?",
+    "palavras_chave": ["associativa", "multiplicação", "produto", "reorganização", "algoritmos"]
+  },
+  {
+    "pergunta": "O que é a propriedade distributiva?",
+    "resposta": "A propriedade distributiva relaciona a multiplicação com a adição ou subtração. Ela diz que multiplicar um número por uma soma é o mesmo que multiplicá-lo por cada termo e somar os resultados. Por exemplo, 3 × (2 + 4) = 3×2 + 3×4. Essa regra é fundamental na álgebra e simplificação de expressões. Sabia que essa propriedade é usada até em cálculos mentais rápidos, como 9×7 = 9×(5+2)?",
+    "palavras_chave": ["distributiva", "multiplicação", "adição", "álgebra", "expressões"]
+  },
+  {
+    "pergunta": "Qual a diferença entre propriedades comutativa e associativa?",
+    "resposta": "A comutativa trata da troca de ordem dos números, enquanto a associativa lida com o modo de agrupamento. Por exemplo, 2 + 3 = 3 + 2 (comutativa) e (2 + 3) + 4 = 2 + (3 + 4) (associativa). As duas facilitam o cálculo e a compreensão das operações. Sabia que essas propriedades foram formalizadas apenas no século XIX com o avanço da álgebra abstrata?",
+    "palavras_chave": ["comutativa", "associativa", "diferença", "agrupamento", "ordem"]
+  },
+  {
+    "pergunta": "O que é o elemento oposto de um número?",
+    "resposta": "O elemento oposto é o número que, somado ao original, resulta em zero. Por exemplo, o oposto de +5 é -5. Essa ideia é importante na subtração e na resolução de equações. Sabia que o conceito de oposto está ligado à ideia filosófica de simetria e equilíbrio?",
+    "palavras_chave": ["elemento oposto", "números inteiros", "zero", "equações", "simetria"]
+  },
+  {
+    "pergunta": "Como identificar o inverso multiplicativo de um número?",
+    "resposta": "O inverso multiplicativo de um número é aquele que, multiplicado por ele, resulta em 1. Por exemplo, o inverso de 4 é 1/4. Essa noção é fundamental em frações e equações racionais. Sabia que números inteiros diferentes de zero têm inverso apenas no conjunto dos racionais?",
+    "palavras_chave": ["inverso", "multiplicativo", "frações", "racionais", "um"]
+  },
+  {
+    "pergunta": "Por que a divisão por zero é impossível?",
+    "resposta": "Dividir por zero é impossível porque não existe número que, multiplicado por 0, gere um valor diferente de 0. Em outras palavras, a operação não tem sentido matemático definido. Sabia que o matemático indiano Brahmagupta já discutia esse problema no século VII?",
+    "palavras_chave": ["divisão", "zero", "impossível", "multiplicação", "indeterminação"]
+  },
+  {
+    "pergunta": "Como as propriedades numéricas ajudam no cálculo mental?",
+    "resposta": "As propriedades, como a comutativa, associativa e distributiva, permitem reorganizar cálculos para facilitar resultados rápidos. Por exemplo, em 7 × 9, é possível pensar como 7 × (10 − 1), o que dá 70 − 7 = 63. Sabia que muitas técnicas de cálculo rápido orientam o cérebro a usar essas propriedades automaticamente?",
+    "palavras_chave": ["cálculo mental", "propriedades", "comutativa", "distributiva", "estratégias"]
+  },
+  {
+    "pergunta": "O que acontece quando somamos dois números negativos?",
+    "resposta": "Somar dois números negativos resulta em outro número negativo, pois estamos combinando débitos ou perdas. Por exemplo, (−3) + (−2) = −5. Esse conceito é importante em contextos de temperatura, finanças e movimento. Sabia que os gregos antigos não aceitavam números negativos como válidos?",
+    "palavras_chave": ["números negativos", "adição", "temperatura", "finanças", "história"]
+  },
+  {
+    "pergunta": "Como funciona a subtração de números negativos?",
+    "resposta": "Subtrair um número negativo é o mesmo que somar seu oposto. Por exemplo, 6 − (−2) é igual a 6 + 2 = 8. Essa regra pode parecer estranha, mas faz sentido se pensarmos em direções opostas na reta numérica. Sabia que essa é uma das operações que mais confundem estudantes no início do ensino fundamental?",
+    "palavras_chave": ["subtração", "números negativos", "oposto", "reta numérica", "regra"]
+  },
+  {
+    "pergunta": "Por que a multiplicação de dois negativos dá positivo?",
+    "resposta": "A multiplicação de dois números negativos dá um número positivo porque o sinal de cada um inverte a direção na reta numérica. Assim, duas inversões cancelam-se. Por exemplo, (−3) × (−2) = +6. Sabia que essa regra vem da necessidade de manter a coerência das propriedades da multiplicação?",
+    "palavras_chave": ["negativos", "multiplicação", "sinais", "reta numérica", "coerência"]
+  },
+  {
+    "pergunta": "Como a reta numérica ajuda a entender as operações básicas?",
+    "resposta": "A reta numérica é uma ferramenta visual que mostra como os números se relacionam. Nela, somar significa mover-se para a direita, e subtrair, para a esquerda. Essa representação ajuda a compreender o comportamento dos números positivos e negativos. Sabia que a reta numérica foi criada no século XVII para representar quantidades contínuas e discretas ao mesmo tempo?",
+    "palavras_chave": ["reta numérica", "adição", "subtração", "positivos", "negativos"]
+  },
+  {
+    "pergunta": "O que significa o sinal de igual em uma operação?",
+    "resposta": "O sinal de igual (=) indica que os valores dos dois lados têm o mesmo resultado. Ele simboliza equilíbrio, e não apenas 'a resposta'. Por exemplo, em 2 + 3 = 5, estamos dizendo que a soma e o número 5 representam a mesma quantidade. Sabia que o símbolo foi criado em 1557 pelo matemático Robert Recorde, que disse que 'nada é mais igual do que duas linhas paralelas'?",
+    "palavras_chave": ["igualdade", "símbolo", "equilíbrio", "recorde", "história"]
+  },
+  {
+    "pergunta": "Como identificar quando usar parênteses em operações?",
+    "resposta": "Usamos parênteses para indicar a ordem em que as operações devem ser feitas. Por exemplo, em 3 × (4 + 2), a soma vem primeiro. Eles ajudam a evitar ambiguidades e são essenciais em expressões complexas. Sabia que, na notação moderna, os parênteses substituíram palavras e símbolos antigos usados pelos babilônios?",
+    "palavras_chave": ["parênteses", "ordem", "operações", "expressões", "notação"]
+  },
+  {
+    "pergunta": "Por que existe uma ordem para resolver operações?",
+    "resposta": "A ordem das operações garante que todos interpretem uma expressão da mesma forma. Primeiro resolvemos parênteses, depois multiplicações e divisões, e por último somas e subtrações. Essa convenção evita resultados diferentes para a mesma expressão. Sabia que esse padrão foi estabelecido apenas no século XIX?",
+    "palavras_chave": ["ordem", "operações", "parênteses", "multiplicação", "divisão"]
+  },
+  {
+    "pergunta": "O que é uma expressão numérica?",
+    "resposta": "Uma expressão numérica é uma sequência de números e operações que devem ser resolvidas de acordo com regras específicas. Por exemplo, 5 + 2 × (3 − 1). Resolver uma expressão é aplicar as propriedades e a ordem correta das operações. Sabia que o uso de expressões numéricas já existia nos papiros egípcios, há mais de 3.000 anos?",
+    "palavras_chave": ["expressão numérica", "operações", "ordem", "regras", "história"]
+  },
+  {
+    "pergunta": "Como a propriedade distributiva facilita cálculos mentais?",
+    "resposta": "A distributiva permite decompor números para facilitar multiplicações. Por exemplo, 8 × 13 pode ser feito como 8 × (10 + 3), resultando em 80 + 24 = 104. Essa técnica é muito usada em cálculos rápidos e estimativas. Sabia que essa propriedade é a base do método japonês de multiplicação com linhas?",
+    "palavras_chave": ["distributiva", "multiplicação", "cálculo mental", "decomposição", "estratégia"]
+  },
+  {
+    "pergunta": "O que acontece quando multiplicamos um número por 10, 100 ou 1000?",
+    "resposta": "Multiplicar por 10, 100 ou 1000 desloca o número uma, duas ou três casas para a direita na forma decimal. Por exemplo, 4,5 × 10 = 45. Essa regra simplifica cálculos com potências de dez. Sabia que o sistema decimal foi criado na Índia e se espalhou pelo mundo através dos árabes?",
+    "palavras_chave": ["multiplicação", "potências de dez", "sistema decimal", "casas decimais", "história"]
+  },
+  {
+    "pergunta": "E o que ocorre ao dividir por 10, 100 ou 1000?",
+    "resposta": "Dividir por 10, 100 ou 1000 desloca o número uma, duas ou três casas para a esquerda. Por exemplo, 36 ÷ 100 = 0,36. Essa ideia é essencial para entender notação científica e medidas. Sabia que essa forma de simplificar cálculos já era usada pelos árabes no século IX?",
+    "palavras_chave": ["divisão", "potências de dez", "sistema decimal", "notação científica", "casas decimais"]
+  },
+  {
+    "pergunta": "Por que as propriedades são chamadas de leis das operações?",
+    "resposta": "Elas são chamadas de leis porque se aplicam a todos os números de um conjunto, sem exceção. São regras universais que tornam os cálculos previsíveis e coerentes. Sem elas, a matemática seria ambígua. Sabia que os matemáticos chamam essas leis de 'axiomas operatórios' em álgebra?",
+    "palavras_chave": ["propriedades", "leis", "operações", "axiomas", "álgebra"]
+  },
+  {
+    "pergunta": "Como a simetria aparece nas operações numéricas?",
+    "resposta": "A simetria está na ideia de equilíbrio entre operações opostas, como adição e subtração ou multiplicação e divisão. Ela garante que cada operação tenha um 'contrário' que desfaz seu efeito. Sabia que essa noção de equilíbrio vem da filosofia pitagórica, que via os números como harmonia do universo?",
+    "palavras_chave": ["simetria", "operações", "equilíbrio", "pitágoras", "harmonia"]
+  },
+  {
+    "pergunta": "O que são operações inversas?",
+    "resposta": "Operações inversas são aquelas que se anulam mutuamente. A adição é inversa da subtração, e a multiplicação é inversa da divisão. Elas são fundamentais para resolver equações e problemas cotidianos. Sabia que o conceito de inversão aparece até em linguagens de programação e criptografia?",
+    "palavras_chave": ["operações inversas", "adição", "subtração", "multiplicação", "divisão"]
+  },
+  {
+    "pergunta": "Como a multiplicação se relaciona com a divisão?",
+    "resposta": "As duas operações são inversas: multiplicar é repetir um número, e dividir é repartir ou descobrir quantas vezes ele cabe em outro. Essa relação ajuda a verificar resultados e resolver equações simples. Sabia que essa conexão é o princípio por trás das tabuada e das frações equivalentes?",
+    "palavras_chave": ["multiplicação", "divisão", "inverso", "relação", "frações"]
+  },
+  {
+    "pergunta": "Por que o zero é um número tão especial nas operações?",
+    "resposta": "O zero é neutro na adição e absorvente na multiplicação, o que o torna único. Ele representa a ausência de quantidade e também é essencial para o sistema de numeração posicional. Sabia que algumas civilizações antigas, como os romanos, não tinham símbolo para o zero?",
+    "palavras_chave": ["zero", "neutro", "absorvente", "sistema posicional", "história"]
+  },
+  {
+    "pergunta": "Como as operações ajudam a resolver problemas do dia a dia?",
+    "resposta": "As operações permitem representar situações reais como ganhos, perdas, repartições ou multiplicações de recursos. Desde calcular trocos até dividir tempo, elas organizam o raciocínio lógico. Sabia que a palavra 'cálculo' vem do latim 'calculus', que significa pedrinha, usada para contar?",
+    "palavras_chave": ["operações", "problemas", "raciocínio", "cotidiano", "cálculo"]
+  },
+  {
+    "pergunta": "O que é um múltiplo de um número?",
+    "resposta": "Um múltiplo é o resultado da multiplicação de um número por qualquer inteiro. Por exemplo, os múltiplos de 3 são 3, 6, 9, 12 e assim por diante. Essa ideia é importante em divisibilidade e frações equivalentes. Sabia que o estudo dos múltiplos é base da teoria dos números?",
+    "palavras_chave": ["múltiplos", "divisibilidade", "números inteiros", "teoria dos números", "frações"]
+  },
+  {
+    "pergunta": "O que é um divisor de um número?",
+    "resposta": "Um divisor é um número que divide outro exatamente, sem deixar resto. Por exemplo, 4 é divisor de 12 porque 12 ÷ 4 = 3. Entender divisores ajuda em simplificações e fatorações. Sabia que o maior divisor comum entre números é chamado de MDC?",
+    "palavras_chave": ["divisor", "divisão exata", "resto", "mdc", "fatoração"]
+  },
+  {
+    "pergunta": "Qual a diferença entre múltiplos e divisores?",
+    "resposta": "Múltiplos são os resultados da multiplicação de um número, enquanto divisores são os que cabem nele exatamente. Por exemplo, 3 é divisor de 12 e 12 é múltiplo de 3. Essa relação é recíproca e importante na construção de frações equivalentes. Sabia que o conceito é o mesmo usado para calcular o mínimo múltiplo comum (MMC)?",
+    "palavras_chave": ["múltiplos", "divisores", "relação", "mmc", "mdc"]
+  },
+  {
+    "pergunta": "O que é a decomposição em fatores primos?",
+    "resposta": "Decompor um número em fatores primos é expressá-lo como produto de números primos. Por exemplo, 60 = 2² × 3 × 5. Isso é útil em frações, divisibilidade e criptografia. Sabia que a segurança de muitos sistemas digitais depende dessa ideia simples?",
+    "palavras_chave": ["fatores primos", "decomposição", "divisibilidade", "frações", "criptografia"]
+  },
+  {
+    "pergunta": "Por que o número 1 não é considerado primo?",
+    "resposta": "O número 1 tem apenas um divisor, ele mesmo. Números primos precisam ter dois divisores distintos: 1 e ele próprio. Por isso, 2 é o primeiro primo. Sabia que essa definição foi ajustada no século XIX para manter a coerência das propriedades numéricas?",
+    "palavras_chave": ["números primos", "um", "divisores", "definição", "história"]
+  },
+  {
+    "pergunta": "Como identificar se um número é par ou ímpar?",
+    "resposta": "Um número é par se termina em 0, 2, 4, 6 ou 8, e ímpar se termina em 1, 3, 5, 7 ou 9. Isso se deve à divisibilidade por 2. Sabia que, nas antigas escolas gregas, os números pares eram considerados femininos e os ímpares, masculinos?",
+    "palavras_chave": ["números pares", "ímpares", "divisibilidade", "dois", "gregos"]
+  },
+  {
+    "pergunta": "Como o conceito de dobro e metade se relaciona à multiplicação e à divisão?",
+    "resposta": "Dobrar um número é multiplicá-lo por 2, e encontrar a metade é dividi-lo por 2. Esses conceitos aparecem em medidas, receitas e proporções. Sabia que as civilizações antigas já usavam a ideia de dobrar e dividir muito antes de dominar a multiplicação formal?",
+    "palavras_chave": ["dobro", "metade", "multiplicação", "divisão", "proporção"]
+  },
+  {
+    "pergunta": "Por que as propriedades numéricas são importantes na álgebra?",
+    "resposta": "As propriedades garantem que as manipulações algébricas sejam válidas. Quando aplicamos comutatividade ou distributividade, estamos reorganizando expressões sem mudar seus valores. Sabia que a álgebra moderna nasceu justamente da generalização dessas propriedades?",
+    "palavras_chave": ["propriedades", "álgebra", "comutatividade", "distributividade", "expressões"]
+  },
+  {
+    "pergunta": "Como a adição pode ser representada em situações reais?",
+    "resposta": "A adição aparece em situações de juntar ou aumentar quantidades, como somar pontos em um jogo ou juntar dinheiro de duas pessoas. É a operação que representa crescimento. Sabia que os primeiros registros de adição estão em tábuas de argila da Mesopotâmia, há mais de 4 mil anos?",
+    "palavras_chave": ["adição", "quantidades", "situações reais", "história", "mesopotâmia"]
+  },
+  {
+    "pergunta": "Como a subtração é usada no cotidiano?",
+    "resposta": "A subtração aparece quando comparamos, retiramos ou encontramos diferenças, como calcular o troco ou descobrir quantos dias faltam para um evento. Sabia que os antigos egípcios representavam a subtração com símbolos de retirada em hieróglifos?",
+    "palavras_chave": ["subtração", "diferença", "cotidiano", "história", "egípcios"]
+  },
+  {
+    "pergunta": "O que significa multiplicar por zero?",
+    "resposta": "Multiplicar qualquer número por zero resulta em zero, pois representa a ausência total de grupos ou quantidades. É uma das propriedades mais curiosas da matemática. Sabia que o zero levou séculos para ser aceito na Europa, por parecer 'contraditório'?",
+    "palavras_chave": ["multiplicação", "zero", "propriedade", "ausência", "história"]
+  },
+  {
+    "pergunta": "Por que dividir por zero é impossível?",
+    "resposta": "Dividir por zero é impossível porque não há número que multiplicado por zero dê um valor diferente de zero. Isso quebra a lógica das operações. Sabia que essa proibição vem dos estudos de matemática indiana no século IX?",
+    "palavras_chave": ["divisão", "zero", "impossível", "lógica", "história"]
+  },
+  {
+    "pergunta": "Como funciona a propriedade associativa da adição?",
+    "resposta": "A propriedade associativa permite agrupar números de diferentes formas sem alterar o resultado: (2 + 3) + 4 = 2 + (3 + 4). Isso facilita cálculos mentais e simplifica expressões. Sabia que essa ideia inspirou o conceito de 'agrupamento' em álgebra?",
+    "palavras_chave": ["associativa", "adição", "agrupamento", "expressões", "álgebra"]
+  },
+  {
+    "pergunta": "E a propriedade associativa da multiplicação?",
+    "resposta": "Ela funciona da mesma forma: o modo de agrupar não muda o resultado. Por exemplo, (2 × 5) × 3 = 2 × (5 × 3). Essa flexibilidade é útil em cálculos grandes e programações matemáticas. Sabia que computadores usam essa propriedade para otimizar cálculos?",
+    "palavras_chave": ["associativa", "multiplicação", "agrupamento", "programação", "computadores"]
+  },
+  {
+    "pergunta": "O que é a propriedade comutativa da adição?",
+    "resposta": "Na comutativa, a ordem dos números não altera o resultado: 4 + 7 = 7 + 4. Isso mostra que somar é uma operação simétrica. Sabia que essa propriedade é a base do conceito de simetria em operações matemáticas?",
+    "palavras_chave": ["comutativa", "adição", "ordem", "simetria", "propriedade"]
+  },
+  {
+    "pergunta": "E a propriedade comutativa da multiplicação?",
+    "resposta": "Ela afirma que mudar a ordem dos fatores não muda o produto: 6 × 3 = 3 × 6. É muito usada em simplificações e cálculos mentais. Sabia que essa propriedade não vale para subtração nem para divisão?",
+    "palavras_chave": ["comutativa", "multiplicação", "ordem", "produto", "propriedade"]
+  },
+  {
+    "pergunta": "O que é a propriedade distributiva da multiplicação sobre a adição?",
+    "resposta": "A distributiva permite multiplicar um número por uma soma: 3 × (4 + 2) = (3 × 4) + (3 × 2). É uma das mais usadas para simplificar expressões e resolver equações. Sabia que essa propriedade é essencial na expansão de polinômios?",
+    "palavras_chave": ["distributiva", "multiplicação", "adição", "expressões", "polinômios"]
+  },
+  {
+    "pergunta": "Como o valor absoluto está relacionado às operações?",
+    "resposta": "O valor absoluto mostra a distância de um número até o zero na reta numérica, sem considerar o sinal. Ele ajuda em cálculos com números negativos e medidas de diferença. Sabia que o símbolo |x| foi introduzido apenas no século XIX?",
+    "palavras_chave": ["valor absoluto", "reta numérica", "negativos", "distância", "símbolo"]
+  },
+  {
+    "pergunta": "Como identificar padrões nas operações?",
+    "resposta": "Padrões aparecem quando observamos regularidades, como em tabuadas, somas consecutivas ou potências. Reconhecê-los ajuda a prever resultados. Sabia que descobrir padrões foi o primeiro passo para a criação da álgebra?",
+    "palavras_chave": ["padrões", "operações", "regularidades", "tabuada", "álgebra"]
+  },
+  {
+    "pergunta": "O que é uma potência?",
+    "resposta": "Potência é uma forma resumida de multiplicar um número por ele mesmo várias vezes. Por exemplo, 3³ = 3 × 3 × 3 = 27. É muito usada para representar crescimento rápido. Sabia que potências surgiram no estudo de áreas e volumes na Antiguidade?",
+    "palavras_chave": ["potência", "multiplicação", "expoente", "crescimento", "história"]
+  },
+  {
+    "pergunta": "E o que é uma raiz quadrada?",
+    "resposta": "A raiz quadrada é a operação inversa da potência de expoente 2. Por exemplo, √49 = 7, porque 7² = 49. É muito usada em geometria e física. Sabia que o símbolo √ surgiu no século XVI e vem de uma letra 'r' de radix, que significa 'raiz' em latim?",
+    "palavras_chave": ["raiz quadrada", "potência", "inverso", "geometria", "história"]
+  },
+  {
+    "pergunta": "Como a potência e a multiplicação se relacionam?",
+    "resposta": "A potência é uma multiplicação repetida do mesmo número. Ela simplifica o registro e facilita operações grandes. Sabia que as potências são a base da notação científica usada em cálculos astronômicos?",
+    "palavras_chave": ["potência", "multiplicação", "notação científica", "repetição", "cálculos"]
+  },
+  {
+    "pergunta": "Por que é importante dominar as operações básicas?",
+    "resposta": "Dominar adição, subtração, multiplicação e divisão permite resolver problemas de qualquer área da matemática. Elas são a base para tudo, da álgebra à estatística. Sabia que são chamadas de 'operações fundamentais' exatamente por isso?",
+    "palavras_chave": ["operações básicas", "adição", "subtração", "fundamentais", "matemática"]
+  },
+  {
+    "pergunta": "Como a divisão se relaciona com frações?",
+    "resposta": "A fração representa uma divisão entre dois números: o numerador é o que se divide, e o denominador é por quanto se divide. Por exemplo, ¾ significa 3 ÷ 4. Sabia que a barra de fração foi criada pelos árabes e depois adotada pelos europeus?",
+    "palavras_chave": ["frações", "divisão", "numerador", "denominador", "história"]
+  },
+  {
+    "pergunta": "O que é o inverso multiplicativo de um número?",
+    "resposta": "É o número que, multiplicado pelo original, resulta em 1. Por exemplo, o inverso de 5 é 1/5. Essa ideia é essencial em frações e equações. Sabia que o inverso multiplicativo é usado até em algoritmos de criptografia moderna?",
+    "palavras_chave": ["inverso multiplicativo", "frações", "equações", "algoritmos", "criptografia"]
+  },
+  {
+    "pergunta": "O que é o elemento neutro da adição?",
+    "resposta": "O elemento neutro da adição é o 0, pois somar zero a qualquer número não altera seu valor: 7 + 0 = 7. Ele garante estabilidade nas operações. Sabia que essa ideia é tão importante que aparece até em álgebra abstrata?",
+    "palavras_chave": ["elemento neutro", "adição", "zero", "propriedade", "álgebra"]
+  },
+  {
+    "pergunta": "E o elemento neutro da multiplicação?",
+    "resposta": "O elemento neutro da multiplicação é o número 1, porque multiplicar qualquer número por 1 mantém seu valor: 9 × 1 = 9. Essa propriedade é usada em simplificações e equivalências. Sabia que o 1 também é chamado de 'identidade multiplicativa'?",
+    "palavras_chave": ["elemento neutro", "multiplicação", "um", "identidade", "propriedade"]
+  },
+  {
+    "pergunta": "O que significa fatorar um número?",
+    "resposta": "Fatorar é decompor um número em produtos de fatores menores, geralmente primos. Isso ajuda a simplificar frações e resolver divisões. Sabia que a fatoração é usada até em cálculos de segurança digital e compressão de dados?",
+    "palavras_chave": ["fatoração", "números primos", "frações", "decomposição", "criptografia"]
+  },
+  {
+    "pergunta": "Como identificar o múltiplo comum entre dois números?",
+    "resposta": "O múltiplo comum é aquele que pertence à lista de múltiplos dos dois números. O menor deles é o MMC, usado para somar ou subtrair frações. Sabia que há métodos rápidos de MMC baseados em fatoração?",
+    "palavras_chave": ["múltiplos comuns", "mmc", "frações", "fatoração", "divisibilidade"]
+  },
+  {
+    "pergunta": "Como encontrar o maior divisor comum entre dois números?",
+    "resposta": "O maior divisor comum (MDC) é o número que divide ambos sem deixar resto. Pode ser encontrado pela fatoração ou pelo algoritmo de Euclides. Sabia que esse algoritmo é um dos mais antigos da matemática, criado há mais de 2 mil anos?",
+    "palavras_chave": ["mdc", "divisor", "algoritmo de euclides", "divisibilidade", "história"]
+  },
+  {
+    "pergunta": "O que são números opostos?",
+    "resposta": "São números que têm o mesmo valor absoluto, mas sinais contrários, como +5 e −5. Somados, sempre resultam em zero. Sabia que essa ideia é usada em vetores e forças físicas na ciência?",
+    "palavras_chave": ["números opostos", "valor absoluto", "sinal", "zero", "vetores"]
+  },
+  {
+    "pergunta": "Por que entender sinais é essencial nas operações com inteiros?",
+    "resposta": "Os sinais indicam direção e sentido nas operações. Somar e subtrair inteiros exige interpretar positivos e negativos corretamente. Sabia que essa convenção dos sinais foi introduzida por matemáticos alemães no século XV?",
+    "palavras_chave": ["sinais", "números inteiros", "positivos", "negativos", "história"]
+  },
+  {
+    "pergunta": "O que é o oposto de uma soma?",
+    "resposta": "O oposto de uma soma é a soma dos opostos. Por exemplo, −(a + b) = −a − b. Essa regra é útil para resolver expressões algébricas. Sabia que esse princípio aparece até na simplificação de equações lineares?",
+    "palavras_chave": ["oposto", "soma", "expressões", "álgebra", "equações"]
+  },
+  {
+    "pergunta": "Como estimar resultados de operações rapidamente?",
+    "resposta": "Podemos arredondar números para facilitar cálculos mentais. Por exemplo, 198 + 203 ≈ 200 + 200 = 400. Estimar ajuda a verificar se o resultado faz sentido. Sabia que a estimativa é uma das estratégias mais usadas em provas de raciocínio lógico?",
+    "palavras_chave": ["estimativa", "cálculo mental", "arredondamento", "verificação", "estratégia"]
+  },
+  {
+    "pergunta": "Por que o número 2 é considerado especial na matemática?",
+    "resposta": "O 2 é o único número par primo e base de vários sistemas, como o binário usado em computadores. Sabia que os gregos chamavam o 2 de 'número da dualidade', simbolizando equilíbrio?",
+    "palavras_chave": ["dois", "número primo", "binário", "par", "dualidade"]
+  },
+  {
+    "pergunta": "O que é uma expressão numérica?",
+    "resposta": "Uma expressão numérica é uma sequência de números e operações que deve ser resolvida seguindo uma ordem específica. Por exemplo: 2 + 3 × 4 deve ser resolvido primeiro pela multiplicação, depois pela soma. Sabia que essa regra é chamada de prioridade das operações?",
+    "palavras_chave": ["expressão numérica", "ordem", "operações", "prioridade", "cálculo"]
+  },
+  {
+    "pergunta": "Qual é a ordem correta das operações em uma expressão?",
+    "resposta": "A ordem é: primeiro parênteses, depois potências, em seguida multiplicações e divisões, e por fim adições e subtrações. Esse padrão garante resultados consistentes em qualquer cálculo. Sabia que essa convenção é conhecida como regra PEMDAS ou ordem das operações?",
+    "palavras_chave": ["ordem", "operações", "parênteses", "potências", "pemdas"]
+  },
+  {
+    "pergunta": "O que são números recíprocos?",
+    "resposta": "Dois números são recíprocos quando seu produto é igual a 1. Por exemplo, 4 e 1/4. Essa relação é essencial na divisão e nas frações. Sabia que o conceito de recíproco é usado também em física, em grandezas como frequência e período?",
+    "palavras_chave": ["números recíprocos", "produto", "frações", "divisão", "física"]
+  },
+  {
+    "pergunta": "Como a multiplicação pode representar uma soma repetida?",
+    "resposta": "A multiplicação é uma forma mais rápida de somar o mesmo número várias vezes. Por exemplo, 4 × 3 equivale a 3 + 3 + 3 + 3. Sabia que essa ideia de repetição é o que permite criar potências e progressões numéricas?",
+    "palavras_chave": ["multiplicação", "soma repetida", "repetição", "potência", "progressão"]
+  },
+  {
+    "pergunta": "O que é o princípio da igualdade nas operações?",
+    "resposta": "O princípio da igualdade afirma que, se fazemos a mesma operação nos dois lados de uma igualdade, ela continua verdadeira. Por exemplo, se 5 + 2 = 7, então 5 + 2 + 3 = 7 + 3. Sabia que esse princípio é a base da resolução de equações?",
+    "palavras_chave": ["igualdade", "equações", "operações", "princípio", "matemática"]
+  },
+  {
+    "pergunta": "Como a distributiva ajuda a resolver expressões com parênteses?",
+    "resposta": "A distributiva permite eliminar parênteses multiplicando cada termo de dentro pelo número de fora. Por exemplo, 2 × (3 + 4) = 2×3 + 2×4. Sabia que essa propriedade é usada até em planilhas eletrônicas para cálculos automáticos?",
+    "palavras_chave": ["distributiva", "parênteses", "expressões", "propriedade", "planilhas"]
+  },
+  {
+    "pergunta": "O que é uma potência de base 10?",
+    "resposta": "É uma potência em que o número 10 é multiplicado por ele mesmo. Por exemplo, 10³ = 1000. Esse tipo de potência é usado para expressar grandes quantidades. Sabia que o sistema decimal se baseia exatamente nisso?",
+    "palavras_chave": ["potência", "base 10", "sistema decimal", "quantidade", "expoente"]
+  },
+  {
+    "pergunta": "Por que o sistema decimal é tão usado?",
+    "resposta": "O sistema decimal é prático porque se baseia em dez símbolos (0 a 9) e combinações de potências de 10. Ele foi popularizado pelos hindus e árabes. Sabia que o zero foi o último símbolo a ser adicionado a esse sistema?",
+    "palavras_chave": ["sistema decimal", "números", "zero", "história", "hindus"]
+  },
+  {
+    "pergunta": "O que são potências de expoente zero?",
+    "resposta": "Qualquer número diferente de zero elevado a zero é igual a 1. Isso acontece porque manter a coerência das propriedades das potências exige esse valor. Sabia que essa convenção foi estabelecida apenas no século XVII?",
+    "palavras_chave": ["potência", "expoente zero", "propriedades", "convenção", "história"]
+  },
+  {
+    "pergunta": "O que é o quadrado de um número?",
+    "resposta": "O quadrado de um número é o resultado da sua multiplicação por ele mesmo. Por exemplo, 6² = 36. O nome vem da geometria, porque representa a área de um quadrado com lado igual ao número. Sabia que por isso usamos o termo 'quadrado' até hoje?",
+    "palavras_chave": ["quadrado", "potência", "área", "geometria", "lado"]
+  },
+  {
+    "pergunta": "Como as potências de base 2 aparecem na tecnologia?",
+    "resposta": "O sistema binário usa apenas os números 0 e 1, e cada posição representa uma potência de 2. É assim que computadores armazenam e processam dados. Sabia que 1 kilobyte equivale a 2¹⁰ bytes, ou 1024 bytes?",
+    "palavras_chave": ["potência", "base 2", "binário", "computadores", "dados"]
+  },
+  {
+    "pergunta": "Como comparar frações de denominadores diferentes?",
+    "resposta": "Para comparar, é preciso igualar os denominadores, usando o MMC, e depois observar os numeradores. Sabia que esse método é o mesmo usado na soma e subtração de frações?",
+    "palavras_chave": ["frações", "comparação", "mmc", "numerador", "denominador"]
+  },
+  {
+    "pergunta": "Como transformar uma fração em número decimal?",
+    "resposta": "Basta dividir o numerador pelo denominador. Por exemplo, 3/4 = 0,75. Esse processo mostra que as frações e os decimais representam a mesma ideia: partes de um todo. Sabia que os decimais foram introduzidos na Europa no século XVI?",
+    "palavras_chave": ["frações", "decimais", "divisão", "representação", "história"]
+  },
+  {
+    "pergunta": "O que é uma dízima periódica?",
+    "resposta": "É um número decimal em que uma sequência de algarismos se repete infinitamente, como 0,333... ou 1,2727.... Sabia que é possível transformar qualquer dízima em fração exata?",
+    "palavras_chave": ["dízima periódica", "decimais", "frações", "repetição", "números racionais"]
+  },
+  {
+    "pergunta": "O que são operações inversas?",
+    "resposta": "São operações que se 'desfazem' mutuamente: adição e subtração, multiplicação e divisão. Compreender isso ajuda a resolver equações e verificar resultados. Sabia que esse conceito é usado até na lógica de programação?",
+    "palavras_chave": ["operações inversas", "adição", "subtração", "multiplicação", "divisão"]
+  },
+  {
+    "pergunta": "Como a decomposição facilita o cálculo mental?",
+    "resposta": "Decompor um número é separá-lo em partes menores e mais fáceis de somar ou multiplicar. Por exemplo, 47 + 36 pode virar (40 + 30) + (7 + 6). Sabia que essa técnica é usada até em métodos de cálculo védico indiano?",
+    "palavras_chave": ["decomposição", "cálculo mental", "adição", "estratégia", "védico"]
+  },
+  {
+    "pergunta": "O que é uma operação combinada?",
+    "resposta": "É uma expressão que envolve mais de uma operação, como 3 + 2 × 5. Nesse caso, é preciso seguir a ordem correta das operações. Sabia que resolver expressões combinadas ajuda no raciocínio lógico?",
+    "palavras_chave": ["operação combinada", "expressão", "ordem", "operações", "raciocínio"]
+  },
+  {
+    "pergunta": "Como o zero influencia as operações de adição e multiplicação?",
+    "resposta": "Na adição, o zero é neutro; na multiplicação, anula qualquer número. Essa dualidade torna o zero um elemento especial nas propriedades matemáticas. Sabia que o nome 'zero' vem do árabe sifr, que significa vazio?",
+    "palavras_chave": ["zero", "adição", "multiplicação", "neutro", "história"]
+  },
+  {
+    "pergunta": "O que significa elevar um número a uma potência negativa?",
+    "resposta": "Significa tomar o inverso da potência positiva. Por exemplo, 2⁻³ = 1 / 2³ = 1/8. Essa regra é essencial em cálculos com números muito pequenos. Sabia que esse conceito foi consolidado por matemáticos franceses no século XVII?",
+    "palavras_chave": ["potência negativa", "inverso", "expoente", "números pequenos", "história"]
+  },
+  {
+    "pergunta": "Como reconhecer quando uma operação envolve números inteiros negativos?",
+    "resposta": "Os sinais indicam se o número está acima ou abaixo do zero. Somar negativos diminui o resultado, e subtrair negativos o aumenta. Sabia que essa convenção vem das ideias de dívida e crédito usadas na contabilidade antiga?",
+    "palavras_chave": ["números inteiros", "negativos", "sinais", "subtração", "história"]
+  },
+  {
+    "pergunta": "O que é uma potência de expoente fracionário?",
+    "resposta": "Potências com expoente fracionário representam raízes. Por exemplo, 8^(1/3) é a raiz cúbica de 8, que é 2. Sabia que essa forma de escrever raízes foi criada para facilitar cálculos algébricos?",
+    "palavras_chave": ["potência", "expoente fracionário", "raízes", "álgebra", "cálculo"]
+  },
+  {
+    "pergunta": "Como saber se uma operação tem resultado positivo ou negativo?",
+    "resposta": "Depende dos sinais. Na multiplicação e na divisão, sinais iguais dão positivo; diferentes, negativo. Essa regra também vale para potências com base negativa. Sabia que isso garante coerência entre todas as operações?",
+    "palavras_chave": ["sinais", "positivo", "negativo", "multiplicação", "divisão"]
+  },
+  {
+    "pergunta": "Por que entender propriedades é essencial na matemática?",
+    "resposta": "As propriedades garantem que as operações sigam padrões lógicos e previsíveis. Sem elas, os cálculos perderiam sentido. Sabia que estudar propriedades é o primeiro passo para compreender estruturas algébricas mais complexas?",
+    "palavras_chave": ["propriedades", "operações", "lógica", "padrões", "álgebra"]
+  },
+  {
+    "pergunta": "Como as potências simplificam expressões longas?",
+    "resposta": "Em vez de multiplicar várias vezes o mesmo número, usamos potências para resumir o cálculo. Isso torna expressões mais curtas e elegantes. Sabia que essa notação foi criada por René Descartes?",
+    "palavras_chave": ["potência", "expressões", "simplificação", "descartes", "notação"]
+  },
+  {
+    "pergunta": "O que são números compostos e primos?",
+    "resposta": "Números primos têm apenas dois divisores: 1 e ele mesmo. Os compostos têm mais divisores. Por exemplo, 7 é primo, mas 8 é composto. Sabia que os gregos já estudavam números primos há mais de 2000 anos?",
+    "palavras_chave": ["números primos", "números compostos", "divisores", "gregos", "história"]
+  },
+  {
+    "pergunta": "O que são operações com parênteses aninhados?",
+    "resposta": "São expressões com parênteses dentro de outros. Resolve-se de dentro para fora, respeitando a hierarquia. Sabia que essa estrutura é parecida com a lógica de programação moderna?",
+    "palavras_chave": ["parênteses", "expressões", "hierarquia", "operações", "programação"]
+  },
+  {
+    "pergunta": "Como usar estimativas para conferir resultados de operações?",
+    "resposta": "Ao arredondar números e comparar resultados aproximados, podemos verificar se um cálculo faz sentido. É uma forma prática de checar erros. Sabia que essa técnica é usada em engenharia e finanças?",
+    "palavras_chave": ["estimativa", "verificação", "cálculos", "arredondamento", "estratégia"]
+  },
+  {
+    "pergunta": "O que é uma sequência de operações?",
+    "resposta": "É uma série de cálculos interligados, onde o resultado de uma operação é usado na próxima. Sabia que as sequências são a base das funções matemáticas?",
+    "palavras_chave": ["sequência", "operações", "funções", "cálculos", "matemática"]
+  },
+  {
+    "pergunta": "Como o conhecimento das operações ajuda em problemas do dia a dia?",
+    "resposta": "Saber aplicar operações permite planejar gastos, medir tempos, dividir tarefas e resolver desafios práticos. Sabia que o raciocínio matemático está por trás até das decisões de compra?",
+    "palavras_chave": ["operações", "cotidiano", "raciocínio", "planejamento", "decisões"]
+  },
+  {
+    "pergunta": "Por que o número 1 é tão importante nas propriedades matemáticas?",
+    "resposta": "O 1 é a base da identidade multiplicativa e referência de unidade. Ele mantém o valor dos números e dá sentido à multiplicação e divisão. Sabia que o número 1 nem sempre foi considerado 'número' na Antiguidade?",
+    "palavras_chave": ["um", "identidade", "multiplicação", "divisão", "história"]
+  },
+  {
+    "pergunta": "Como representar operações com sinais em expressões algébricas?",
+    "resposta": "Os sinais indicam se um termo é positivo ou negativo e determinam a forma como são combinados. Saber lidar com eles é essencial para simplificar expressões. Sabia que os sinais '+' e '−' surgiram no século XV?",
+    "palavras_chave": ["sinais", "expressões algébricas", "adição", "subtração", "história"]
+  },
+  {
+    "pergunta": "Como as operações se aplicam em potências de 10 e notação científica?",
+    "resposta": "Potências de 10 são usadas para expressar números muito grandes ou muito pequenos. A notação científica combina um número entre 1 e 10 com uma potência de 10. Sabia que os astrônomos foram os primeiros a usá-la amplamente?",
+    "palavras_chave": ["potência de 10", "notação científica", "números grandes", "astronomia", "expoente"]
+  },
+  {
+    "pergunta": "Por que é importante saber simplificar expressões numéricas?",
+    "resposta": "Simplificar expressões torna cálculos mais rápidos e ajuda a enxergar padrões. É uma habilidade que melhora o raciocínio lógico. Sabia que os simplificadores simbólicos são usados até em softwares de matemática?",
+    "palavras_chave": ["simplificação", "expressões", "raciocínio lógico", "cálculos", "software"]
+  },
+  {
+    "pergunta": "O que significa elevar um número a uma potência fracionária maior que 1?",
+    "resposta": "Significa combinar multiplicação e raiz. Por exemplo, 8^(3/2) = (√8)³. Essa ideia aparece em fórmulas da física e geometria. Sabia que esse tipo de potência é chamado de 'irracional' quando gera resultados não exatos?",
+    "palavras_chave": ["potência", "expoente fracionário", "raízes", "irracionais", "física"]
+  }
+]

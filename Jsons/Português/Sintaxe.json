@@ -1,0 +1,397 @@
+[
+    {
+        "pergunta": "O que é concordância verbal?",
+        "resposta": "Concordância verbal é a regra que exige que o verbo se ajuste em número e pessoa ao sujeito. Exemplo: 'Os alunos estudam' (plural) e 'O aluno estuda' (singular). Sabia que em casos como 'um dos que' o verbo pode ficar no singular ou plural, dependendo da ênfase?",
+        "palavras_chave": ["concordância verbal", "verbo", "número e pessoa", "um dos que", "sintaxe", "regra gramatical"]
+    },
+    {
+        "pergunta": "O que é concordância nominal?",
+        "resposta": "Concordância nominal é quando adjetivos, pronomes e artigos precisam concordar em gênero e número com o substantivo. Exemplo: 'As casas bonitas'. Sabia que em compostos como 'olhos castanho-escuros', o adjetivo só concorda com o último núcleo?",
+        "palavras_chave": ["concordância nominal", "adjetivos", "artigos", "gênero", "número", "gramática"]
+    },
+    {
+        "pergunta": "Qual a diferença entre complemento nominal e objeto indireto?",
+        "resposta": "O objeto indireto completa o sentido de um verbo e vem com preposição, como em 'Preciso de ajuda'. Já o complemento nominal completa um nome (substantivo, adjetivo ou advérbio), como 'Tenho amor à música'. Sabia que a chave está em observar se o núcleo é verbo ou nome?",
+        "palavras_chave": ["complemento nominal", "objeto indireto", "verbo", "nome", "preposição", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é regência verbal?",
+        "resposta": "Regência verbal estuda a relação entre o verbo e os termos que o completam. Exemplo: 'Assisti ao filme' (assistir exige preposição 'a'). Sabia que muitos erros acontecem por influência da fala, como 'assistir o filme' sem preposição?",
+        "palavras_chave": ["regência verbal", "verbo", "complementos", "assistir", "gramática", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é regência nominal?",
+        "resposta": "Regência nominal mostra como substantivos, adjetivos e advérbios se ligam a outros termos por meio de preposição. Exemplo: 'Orgulho de você' ou 'Ansioso por novidades'. Sabia que diferentes palavras pedem preposições diferentes, como 'amor a' e 'amor por'?",
+        "palavras_chave": ["regência nominal", "substantivo", "adjetivo", "advérbio", "preposição", "gramática"]
+    },
+    {
+        "pergunta": "O que é predicativo do sujeito?",
+        "resposta": "Predicativo do sujeito é o termo que atribui uma característica ao sujeito por meio de verbo de ligação. Exemplo: 'O dia está lindo'. Sabia que, em muitos casos, confunde-se com adjunto adnominal, mas a diferença é que o predicativo depende do verbo?",
+        "palavras_chave": ["predicativo do sujeito", "característica", "verbo de ligação", "diferença adjunto", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é predicativo do objeto?",
+        "resposta": "Predicativo do objeto caracteriza o objeto da oração, geralmente após verbos transitivos. Exemplo: 'Chamei-o inteligente'. Sabia que esse termo expressa uma qualidade atribuída ao objeto direto ou indireto?",
+        "palavras_chave": ["predicativo do objeto", "caracteriza objeto", "verbo transitivo", "sintaxe"]
+    },
+    {
+        "pergunta": "O que são orações coordenadas adversativas?",
+        "resposta": "Orações coordenadas adversativas estabelecem oposição entre ideias. Exemplo: 'Quis sair, mas estava chovendo'. Sabia que, além de 'mas', podem aparecer conectores como 'porém', 'todavia', 'contudo'?",
+        "palavras_chave": ["oração adversativa", "oposição", "mas", "porém", "todavia", "sintaxe"]
+    },
+    {
+        "pergunta": "O que são orações coordenadas alternativas?",
+        "resposta": "Orações coordenadas alternativas indicam alternância ou escolha. Exemplo: 'Ou você estuda, ou será reprovado'. Sabia que podem vir repetidas (ou...ou, ora...ora, já...já)?",
+        "palavras_chave": ["oração alternativa", "alternância", "ou...ou", "sintaxe"]
+    },
+    {
+        "pergunta": "O que são orações coordenadas conclusivas?",
+        "resposta": "Orações coordenadas conclusivas trazem ideia de conclusão. Exemplo: 'Estava cansado, portanto não saiu'. Sabia que marcadores típicos são 'logo', 'portanto', 'por isso'?",
+        "palavras_chave": ["oração conclusiva", "conclusão", "portanto", "logo", "sintaxe"]
+    },
+    {
+        "pergunta": "O que são orações coordenadas explicativas?",
+        "resposta": "Orações coordenadas explicativas apresentam motivo ou justificativa. Exemplo: 'Estude, pois a prova será difícil'. Sabia que o 'pois' aqui equivale a 'porque' e costuma vir antes do verbo?",
+        "palavras_chave": ["oração explicativa", "motivo", "pois", "porque", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada substantiva subjetiva?",
+        "resposta": "É a oração que funciona como sujeito do verbo principal. Exemplo: 'É necessário que todos estudem'. Sabia que pode ser substituída por um substantivo, como 'O estudo é necessário'?",
+        "palavras_chave": ["oração substantiva subjetiva", "sujeito", "é necessário que", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada substantiva objetiva direta?",
+        "resposta": "É a oração que exerce a função de objeto direto de um verbo. Exemplo: 'Quero que você venha'. Sabia que responde à pergunta 'o quê' feita ao verbo?",
+        "palavras_chave": ["oração substantiva", "objetiva direta", "objeto direto", "quero que você venha", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada substantiva objetiva indireta?",
+        "resposta": "É a oração que exerce a função de objeto indireto do verbo. Exemplo: 'Preciso de que você me ajude'. Sabia que sempre vem introduzida por preposição exigida pelo verbo?",
+        "palavras_chave": ["oração substantiva", "objetiva indireta", "objeto indireto", "preciso de que", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada substantiva completiva nominal?",
+        "resposta": "É a oração que completa o sentido de um nome (substantivo, adjetivo ou advérbio). Exemplo: 'Tenho certeza de que ele virá'. Sabia que se parece muito com o complemento nominal simples, mas em forma de oração?",
+        "palavras_chave": ["oração substantiva", "completiva nominal", "certeza de que", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada substantiva apositiva?",
+        "resposta": "É a oração que explica um termo anterior, funcionando como aposto. Exemplo: 'Só desejo uma coisa: que você seja feliz'. Sabia que costuma vir depois de dois-pontos?",
+        "palavras_chave": ["oração substantiva", "apositiva", "aposto", "dois-pontos", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada adjetiva restritiva?",
+        "resposta": "É a oração que restringe ou especifica o substantivo antecedente. Exemplo: 'Os alunos que estudaram passaram'. Sabia que não se usa vírgula nesse tipo de oração?",
+        "palavras_chave": ["oração adjetiva", "restritiva", "sem vírgula", "os alunos que estudaram", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada adjetiva explicativa?",
+        "resposta": "É a oração que acrescenta uma informação extra sobre o substantivo, sem restringi-lo. Exemplo: 'Os alunos, que estudaram bastante, passaram'. Sabia que esse tipo sempre vem entre vírgulas?",
+        "palavras_chave": ["oração adjetiva", "explicativa", "com vírgulas", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada adverbial causal?",
+        "resposta": "É a oração que expressa a causa da ação principal. Exemplo: 'Não saí porque estava chovendo'. Sabia que pode ser substituída por advérbios como 'pois' ou 'já que'?",
+        "palavras_chave": ["oração adverbial", "causal", "porque", "já que", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada adverbial condicional?",
+        "resposta": "É a oração que expressa condição. Exemplo: 'Se estudar, passará'. Sabia que a conjunção mais comum é 'se', mas também podem ser usadas 'caso', 'contanto que'?",
+        "palavras_chave": ["oração adverbial", "condicional", "se estudar", "contanto que", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada adverbial concessiva?",
+        "resposta": "É a oração que expressa uma ideia contrária, mas que não impede a ação principal. Exemplo: 'Embora estivesse cansado, continuou estudando'. Sabia que também pode usar 'ainda que', 'mesmo que'?",
+        "palavras_chave": ["oração adverbial", "concessiva", "embora", "ainda que", "mesmo que", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada adverbial final?",
+        "resposta": "É a oração que indica finalidade ou objetivo. Exemplo: 'Estudou para que passasse'. Sabia que a conjunção típica é 'para que'?",
+        "palavras_chave": ["oração adverbial", "finalidade", "para que", "objetivo", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada adverbial temporal?",
+        "resposta": "É a oração que indica tempo em relação à ação principal. Exemplo: 'Quando cheguei, todos aplaudiram'. Sabia que pode vir no início ou no fim da oração principal?",
+        "palavras_chave": ["oração adverbial", "temporal", "quando", "tempo", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada adverbial consecutiva?",
+        "resposta": "É a oração que expressa consequência. Exemplo: 'Estudou tanto que passou'. Sabia que geralmente vem com a estrutura 'tão...que' ou 'tanto...que'?",
+        "palavras_chave": ["oração adverbial", "consecutiva", "tão que", "tanto que", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada adverbial comparativa?",
+        "resposta": "É a oração que compara duas ideias. Exemplo: 'Ele corre mais do que eu corro'. Sabia que comparações podem ser de igualdade, superioridade ou inferioridade?",
+        "palavras_chave": ["oração adverbial", "comparativa", "mais do que", "igualdade", "superioridade", "inferioridade", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada adverbial proporcional?",
+        "resposta": "É a oração que indica proporção. Exemplo: 'Quanto mais estuda, mais aprende'. Sabia que repete estruturas como 'quanto mais... tanto mais'?",
+        "palavras_chave": ["oração adverbial", "proporcional", "quanto mais", "tanto mais", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada reduzida de infinitivo?",
+        "resposta": "É a oração reduzida cujo verbo está no infinitivo. Exemplo: 'É preciso estudar muito'. Sabia que esse tipo de oração costuma ser mais enxuto e direto?",
+        "palavras_chave": ["oração reduzida", "infinitivo", "é preciso estudar", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada reduzida de gerúndio?",
+        "resposta": "É a oração reduzida cujo verbo está no gerúndio. Exemplo: 'Chegando cedo, conseguiu lugar'. Sabia que muitas vezes equivale a uma adverbial temporal?",
+        "palavras_chave": ["oração reduzida", "gerúndio", "chegando cedo", "temporal", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada reduzida de particípio?",
+        "resposta": "É a oração reduzida cujo verbo está no particípio. Exemplo: 'Terminada a prova, saíram da sala'. Sabia que costuma indicar tempo ou condição?",
+        "palavras_chave": ["oração reduzida", "particípio", "terminada a prova", "temporal", "condicional", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é uma oração subordinada adjetiva?",
+        "resposta": "Oração subordinada adjetiva tem função de adjetivo, ou seja, caracteriza ou explica um substantivo. Exemplo: 'que é azul' em 'Comprei o carro que é azul'. Pode ser explicativa, quando acrescenta informação, ou restritiva, quando limita o sentido do substantivo. Sabia que sempre vem introduzida por pronomes relativos como 'que', 'o qual' ou 'cujo'?",
+        "palavras_chave": ["oração subordinada adjetiva", "caracteriza substantivo", "que é azul", "explicativa", "restritiva", "pronome relativo", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é uma oração subordinada adverbial?",
+        "resposta": "Oração subordinada adverbial desempenha o papel de adjunto adverbial, indicando circunstâncias como tempo, causa, finalidade ou condição. Exemplo: 'para estudar' em 'Fui à biblioteca para estudar'. Sabia que existem diferentes tipos de orações adverbiais, como causais, condicionais, concessivas e finais?",
+        "palavras_chave": ["oração subordinada adverbial", "adjunto adverbial", "para estudar", "circunstância", "causa", "condição", "finalidade", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é uma oração subordinada substantiva?",
+        "resposta": "Oração subordinada substantiva exerce função de substantivo, podendo ser sujeito, objeto ou complemento nominal. Exemplo: 'que ele virá' em 'Sei que ele virá'. Sabia que elas podem ser subjetivas, objetivas diretas ou indiretas, predicativas, completivas nominais ou apositivas?",
+        "palavras_chave": ["oração subordinada substantiva", "função substantivo", "sei que ele virá", "subjetiva", "objetiva", "completiva nominal", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é uma oração coordenada?",
+        "resposta": "Oração coordenada é aquela que não depende de outra para ter sentido completo, mantendo independência sintática. Exemplo: 'Cheguei cedo e saí tarde'. Sabia que podem ser assindéticas, quando não têm conjunção, ou sindéticas, quando possuem conjunção?",
+        "palavras_chave": ["oração coordenada", "independente", "cheguei cedo", "assindética", "sindética", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é uma oração coordenada sindética?",
+        "resposta": "Oração coordenada sindética é unida por uma conjunção, estabelecendo diferentes relações de sentido, como adição, oposição ou alternativa. Exemplo: 'Estudei e aprendi'. Sabia que podem ser classificadas em aditivas, adversativas, alternativas, conclusivas ou explicativas?",
+        "palavras_chave": ["oração coordenada sindética", "conjunção", "estudei e aprendi", "aditiva", "adversativa", "explicativa", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é uma oração coordenada assindética?",
+        "resposta": "Oração coordenada assindética aparece sem conjunção, unindo orações apenas por vírgula. Exemplo: 'Cheguei, comi, dormi'. Sabia que o uso frequente desse tipo dá ritmo rápido e sequencial ao texto?",
+        "palavras_chave": ["oração coordenada assindética", "sem conjunção", "cheguei comi dormi", "vírgula", "ritmo", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é um objeto direto?",
+        "resposta": "Objeto direto é o termo que completa o sentido do verbo sem precisar de preposição. Exemplo: 'o livro' em 'Li o livro'. Sabia que pode aparecer sob forma simples, pleonástica (repetição para reforço) ou até mesmo preposicionado em casos de ênfase ou clareza?",
+        "palavras_chave": ["objeto direto", "sem preposição", "li o livro", "pleonástico", "preposicionado", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é um objeto indireto?",
+        "resposta": "Objeto indireto completa o verbo com preposição obrigatória. Exemplo: 'a Ana' em 'Dei o livro a Ana'. Sabia que verbos como 'assistir', 'obedecer' e 'precisar' sempre exigem preposição?",
+        "palavras_chave": ["objeto indireto", "com preposição", "dei a Ana", "assistir a", "precisar de", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é um complemento nominal?",
+        "resposta": "Complemento nominal é o termo que completa o sentido de substantivos, adjetivos ou advérbios, obrigatoriamente com preposição. Exemplo: 'de estudar' em 'Tenho vontade de estudar'. Sabia que ele nunca pode ser confundido com objeto, já que não completa verbo e sim nome?",
+        "palavras_chave": ["complemento nominal", "substantivo", "adjetivo", "advérbio", "vontade de estudar", "preposição", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é um adjunto adnominal?",
+        "resposta": "Adjunto adnominal é o termo que caracteriza ou determina um substantivo, podendo ser artigo, pronome, adjetivo ou numeral. Exemplo: 'novo' em 'O carro novo'. Sabia que se distingue do complemento nominal porque o adjunto tem valor mais próximo e direto do substantivo?",
+        "palavras_chave": ["adjunto adnominal", "caracteriza substantivo", "carro novo", "artigos", "pronomes", "adjetivos", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é um adjunto adverbial?",
+        "resposta": "Adjunto adverbial indica circunstância em relação ao verbo, podendo expressar tempo, lugar, modo, causa, finalidade e outras relações. Exemplo: 'de manhã' em 'Corri de manhã'. Sabia que vários adjuntos podem aparecer juntos na mesma frase, como em 'Ele saiu cedo, silenciosamente, de casa'?",
+        "palavras_chave": ["adjunto adverbial", "circunstância", "tempo", "modo", "lugar", "causa", "finalidade", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é o aposto?",
+        "resposta": "Aposto é um termo que explica, especifica ou resume outro termo da oração. Exemplo: 'minha amiga' em 'Joana, minha amiga, chegou'. Pode ser explicativo, especificativo, resumidor, comparativo ou distributivo. Sabia que normalmente vem separado por vírgulas ou dois-pontos?",
+        "palavras_chave": ["aposto", "explica termo", "minha amiga", "explicativo", "especificativo", "resumidor", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é o vocativo?",
+        "resposta": "Vocativo é usado para chamar, interpelar ou invocar alguém. Exemplo: 'Ana' em 'Ana, venha cá!'. Sempre aparece isolado por vírgulas, travessões ou dois-pontos. Sabia que pode ser usado tanto em textos coloquiais quanto literários para criar proximidade?",
+        "palavras_chave": ["vocativo", "chamada", "interpelação", "Ana", "vírgula", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é o núcleo do sujeito?",
+        "resposta": "Núcleo do sujeito é a palavra mais importante do sujeito, normalmente um substantivo ou pronome. Exemplo: 'gato' em 'O gato preto correu'. Sabia que os termos que acompanham o núcleo são apenas adjuntos adnominais ou complementos?",
+        "palavras_chave": ["núcleo do sujeito", "palavra principal", "substantivo", "pronome", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é o núcleo do predicado?",
+        "resposta": "Núcleo do predicado é o verbo ou locução verbal que expressa a ação ou estado do sujeito. Exemplo: 'corre' em 'O gato corre'. Sabia que em locuções verbais como 'está estudando' ou 'vai viajar', o núcleo é o verbo principal, e não o auxiliar?",
+        "palavras_chave": ["núcleo do predicado", "verbo principal", "locução verbal", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é um predicado verbal?",
+        "resposta": "Predicado verbal tem como núcleo um verbo de ação, descrevendo o que o sujeito faz. Exemplo: 'canta alto' em 'Ela canta alto'. Sabia que é o tipo mais comum em narrativas e descrições de ações?",
+        "palavras_chave": ["predicado verbal", "verbo de ação", "canta alto", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é um predicado nominal?",
+        "resposta": "Predicado nominal caracteriza o sujeito por meio de um verbo de ligação e de um predicativo. Exemplo: 'é feliz' em 'Ela é feliz'. Sabia que o núcleo é o predicativo, pois é ele quem dá a característica ao sujeito?",
+        "palavras_chave": ["predicado nominal", "verbo de ligação", "predicativo do sujeito", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é um predicado verbo-nominal?",
+        "resposta": "Predicado verbo-nominal combina ação e estado em uma mesma estrutura. Exemplo: 'chegou cansada' em 'Ela chegou cansada'. Sabia que possui dois núcleos: o verbo (ação) e o predicativo (estado ou característica)?",
+        "palavras_chave": ["predicado verbo-nominal", "ação e estado", "chegou cansada", "dois núcleos", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é agente da passiva?",
+        "resposta": "Agente da passiva é o termo que pratica a ação na voz passiva, introduzido geralmente pela preposição 'por'. Exemplo: 'por Maria' em 'O texto foi escrito por Maria'. Sabia que em muitos textos o agente pode ser omitido, quando não é relevante indicar o autor da ação?",
+        "palavras_chave": ["agente da passiva", "voz passiva", "por Maria", "omitido", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é a voz ativa?",
+        "resposta": "Na voz ativa, o sujeito é o agente da ação verbal. Exemplo: 'Pedro construiu a casa'. Sabia que a voz ativa é a mais direta e clara, por isso é a mais usada em textos do dia a dia?",
+        "palavras_chave": ["voz ativa", "sujeito agente", "Pedro construiu", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é a voz passiva?",
+        "resposta": "Na voz passiva, o sujeito é paciente, ou seja, sofre a ação expressa pelo verbo. Exemplo: 'A casa foi construída'. Sabia que pode aparecer de duas formas: analítica ('foi construída') e sintética ('construiu-se')?",
+        "palavras_chave": ["voz passiva", "sujeito paciente", "analítica", "sintética", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é sujeito simples?",
+        "resposta": "Sujeito simples apresenta apenas um núcleo. Exemplo: 'O menino' em 'O menino corre'. Sabia que, mesmo acompanhado de adjuntos, continua sendo simples se o núcleo for único?",
+        "palavras_chave": ["sujeito simples", "um núcleo", "o menino corre", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é sujeito composto?",
+        "resposta": "Sujeito composto tem dois ou mais núcleos. Exemplo: 'João e Maria' em 'João e Maria estudam'. Sabia que o verbo geralmente vai para o plural, acompanhando todos os núcleos?",
+        "palavras_chave": ["sujeito composto", "dois núcleos", "João e Maria", "plural", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é sujeito oculto?",
+        "resposta": "Sujeito oculto não aparece explicitamente, mas pode ser identificado pela forma verbal. Exemplo: 'Chegamos cedo', em que o sujeito 'nós' está subentendido. Sabia que também pode ser chamado de sujeito elíptico?",
+        "palavras_chave": ["sujeito oculto", "implícito", "chegamos cedo", "elíptico", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é sujeito indeterminado?",
+        "resposta": "Sujeito indeterminado é aquele que não pode ou não se quer identificar. Exemplo: 'Vive-se bem aqui'. Pode ser expresso pelo verbo na 3ª pessoa do plural ou pela forma 'se'. Sabia que é muito usado em textos para generalizar uma ação?",
+        "palavras_chave": ["sujeito indeterminado", "vive-se bem", "3ª pessoa plural", "generalização", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração reduzida?",
+        "resposta": "Oração reduzida é uma oração que aparece no infinitivo, gerúndio ou particípio, sem conjunção explícita. Exemplo: 'Ao entrar na sala, sorriu'. Sabia que apesar de não ter conectivo, mantém valor de oração subordinada?",
+        "palavras_chave": ["oração reduzida", "infinitivo", "gerúndio", "particípio", "sem conjunção", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é período simples?",
+        "resposta": "Período simples é formado por apenas uma oração. Exemplo: 'Eu estudo todos os dias'. Sabia que frases curtas e diretas costumam ser períodos simples?",
+        "palavras_chave": ["período simples", "uma oração", "eu estudo", "frase curta", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é período composto?",
+        "resposta": "Período composto apresenta duas ou mais orações. Exemplo: 'Eu estudo porque quero passar'. Pode se formar por coordenação (orações independentes) ou por subordinação (uma depende da outra). Sabia que esse recurso torna os textos mais complexos e ricos?",
+        "palavras_chave": ["período composto", "duas orações", "coordenação", "subordinação", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração principal?",
+        "resposta": "Oração principal é aquela que sustenta o período composto, não dependendo de outra para existir. Exemplo: 'Disse' em 'Disse que viria'. Sabia que ela pode aparecer sozinha, mas geralmente acompanha orações subordinadas?",
+        "palavras_chave": ["oração principal", "não depende", "disse que viria", "sustenta subordinada", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é oração subordinada?",
+        "resposta": "Oração subordinada é aquela que depende de outra para ter sentido completo. Exemplo: 'que viria' em 'Disse que viria'. Sabia que existem três grandes tipos: substantivas, adjetivas e adverbiais?",
+        "palavras_chave": ["oração subordinada", "depende", "que viria", "substantiva", "adjetiva", "adverbial", "sintaxe"]
+    },
+    {
+        "pergunta": "O que é um substantivo concreto?",
+        "resposta": "Substantivo concreto é aquele que designa seres que existem por si mesmos, de forma independente, como 'cachorro', 'mesa', 'professor'. Sabia que até seres imaginários como 'fada' ou 'dragão' também entram nessa categoria, já que podem ser concebidos como entidades independentes?",
+        "palavras_chave": ["substantivo concreto", "independência", "seres", "fada", "dragão", "morfologia"]
+    },
+    {
+        "pergunta": "O que é um substantivo abstrato?",
+        "resposta": "Substantivo abstrato é aquele que depende de outro ser para existir, geralmente expressando ações, qualidades, sentimentos ou estados. Exemplos: 'beleza', 'tristeza', 'corrida'. Sabia que muitas vezes eles derivam de adjetivos ou verbos, como 'felicidade' (de feliz) ou 'canto' (de cantar)?",
+        "palavras_chave": ["substantivo abstrato", "qualidades", "sentimentos", "ação", "morfologia"]
+    },
+    {
+        "pergunta": "O que são substantivos coletivos?",
+        "resposta": "São substantivos que, mesmo no singular, indicam um conjunto de seres da mesma espécie. Exemplo: 'cardume' (conjunto de peixes), 'alcateia' (conjunto de lobos). Sabia que muitos têm uso específico, e por isso são bastante cobrados em provas de português?",
+        "palavras_chave": ["substantivo coletivo", "conjunto", "cardume", "alcateia", "morfologia"]
+    },
+    {
+        "pergunta": "O que é adjetivo pátrio?",
+        "resposta": "Adjetivo pátrio indica a origem geográfica de algo ou alguém. Exemplo: 'brasileiro', 'paulista', 'carioca'. Sabia que alguns têm formas menos conhecidas, como 'fluminense' (do estado do Rio de Janeiro) e 'lisboeta' (de Lisboa)?",
+        "palavras_chave": ["adjetivo pátrio", "origem", "brasileiro", "lisboeta", "morfologia"]
+    },
+    {
+        "pergunta": "O que é grau comparativo do adjetivo?",
+        "resposta": "É a forma do adjetivo usada para comparar qualidades entre dois ou mais seres. Pode ser de igualdade ('tão alto quanto'), superioridade ('mais alto que') ou inferioridade ('menos alto que'). Sabia que em alguns casos existem formas irregulares, como 'melhor' em vez de 'mais bom'?",
+        "palavras_chave": ["adjetivo", "grau comparativo", "igualdade", "superioridade", "inferioridade", "morfologia"]
+    },
+    {
+        "pergunta": "O que é grau superlativo do adjetivo?",
+        "resposta": "É quando se intensifica a qualidade expressa pelo adjetivo. Pode ser absoluto ('felicíssimo', 'muito bom') ou relativo ('o mais inteligente da turma'). Sabia que o superlativo absoluto pode ser sintético (formado por sufixo) ou analítico (com advérbio)?",
+        "palavras_chave": ["adjetivo", "grau superlativo", "absoluto", "relativo", "sintético", "analítico", "morfologia"]
+    },
+    {
+        "pergunta": "O que são advérbios de intensidade?",
+        "resposta": "São advérbios que modificam verbos, adjetivos ou outros advérbios, indicando intensidade. Exemplos: 'muito', 'demais', 'bastante'. Sabia que, além de reforçar, eles podem atenuar, como em 'pouco feliz' ou 'quase pronto'?",
+        "palavras_chave": ["advérbio", "intensidade", "muito", "demais", "quase", "morfologia"]
+    },
+    {
+        "pergunta": "O que são pronomes possessivos?",
+        "resposta": "São pronomes que indicam posse em relação às três pessoas do discurso. Exemplos: 'meu', 'teu', 'seu', 'nosso', 'vosso'. Sabia que o pronome 'seu' pode gerar ambiguidade, sendo às vezes substituído por 'dele' ou 'dela' para maior clareza?",
+        "palavras_chave": ["pronomes possessivos", "meu", "teu", "nosso", "ambiguidade", "morfologia"]
+    },
+    {
+        "pergunta": "O que são pronomes demonstrativos?",
+        "resposta": "Pronomes demonstrativos situam algo no espaço, no tempo ou no discurso, em relação às pessoas do discurso. Exemplos: 'este' (perto de quem fala), 'esse' (perto de quem ouve) e 'aquele' (longe de ambos). Sabia que eles também podem indicar retomada ou antecipação de ideias no texto?",
+        "palavras_chave": ["pronomes demonstrativos", "este", "esse", "aquele", "retomada", "morfologia"]
+    },
+    {
+        "pergunta": "O que é artigo definido?",
+        "resposta": "Artigo definido é a palavra que acompanha o substantivo, determinando-o de forma precisa. Exemplos: 'o', 'a', 'os', 'as'. Sabia que ele individualiza o substantivo, distinguindo-o de outros, como em 'o menino' (um específico)?",
+        "palavras_chave": ["artigo definido", "o", "a", "precisão", "morfologia"]
+    },
+    {
+        "pergunta": "O que é artigo indefinido?",
+        "resposta": "Artigo indefinido introduz o substantivo de forma genérica ou não específica. Exemplos: 'um', 'uma', 'uns', 'umas'. Sabia que, em narrativas, é comum o uso de artigo indefinido para apresentar personagens ou objetos pela primeira vez?",
+        "palavras_chave": ["artigo indefinido", "um", "uma", "genérico", "morfologia"]
+    },
+    {
+        "pergunta": "O que são conjunções coordenativas aditivas?",
+        "resposta": "São conjunções que ligam orações ou termos semelhantes, expressando soma de ideias. Exemplo: 'e', 'nem', 'mas também'. Sabia que, quando o 'e' vem repetido ('e...e'), reforça ainda mais a ideia de acumulação?",
+        "palavras_chave": ["conjunção aditiva", "e", "nem", "mas também", "soma", "morfologia"]
+    },
+    {
+        "pergunta": "O que são conjunções subordinativas causais?",
+        "resposta": "São conjunções que introduzem orações subordinadas indicando causa. Exemplos: 'porque', 'como', 'já que'. Sabia que a posição da conjunção pode mudar o efeito do período, como 'não fui à escola porque estava doente' (causa) e 'porque estava doente, não fui à escola' (ênfase)?",
+        "palavras_chave": ["conjunção subordinativa", "causal", "porque", "como", "já que", "morfologia"]
+    },
+    {
+        "pergunta": "O que são interjeições?",
+        "resposta": "Interjeições são palavras ou expressões que transmitem emoções, sensações ou reações instantâneas. Exemplos: 'ah!', 'puxa!', 'oba!'. Sabia que elas podem expressar alegria, dor, surpresa, despedida e até pedidos, dependendo do contexto?",
+        "palavras_chave": ["interjeição", "emoção", "reações", "ah!", "puxa!", "morfologia"]
+    },
+    {
+        "pergunta": "O que é onomatopeia?",
+        "resposta": "Onomatopeia é uma figura de linguagem em que se tenta reproduzir sons ou ruídos por meio de palavras. Exemplos: 'tic-tac' (relógio), 'miau' (gato), 'boom' (explosão). Sabia que em HQs e quadrinhos as onomatopeias são um recurso fundamental para dar vivacidade às cenas?",
+        "palavras_chave": ["onomatopeia", "som", "tic-tac", "miau", "boom", "estilística"]
+    },
+    {
+        "pergunta": "O que é metáfora?",
+        "resposta": "Metáfora é uma figura de linguagem em que se transfere o sentido de uma palavra para outra, criando comparação implícita. Exemplo: 'Ele é uma fera nos estudos'. Sabia que a metáfora é um dos recursos mais usados na literatura para intensificar significados?",
+        "palavras_chave": ["metáfora", "comparação implícita", "figura de linguagem", "literatura", "estilística"]
+    },
+    {
+        "pergunta": "O que é metonímia?",
+        "resposta": "Metonímia é uma figura de linguagem em que se substitui uma palavra por outra com a qual mantém relação de proximidade. Exemplo: 'Li Machado de Assis' (autor no lugar da obra). Sabia que também ocorre quando se usa 'o copo' no lugar de 'a bebida'?",
+        "palavras_chave": ["metonímia", "figura de linguagem", "autor pela obra", "parte pelo todo", "estilística"]
+    },
+    {
+        "pergunta": "O que é hipérbole?",
+        "resposta": "Hipérbole é a figura de linguagem que intensifica uma ideia por meio do exagero. Exemplo: 'Morreu de rir'. Sabia que é muito usada na fala cotidiana para dar expressividade e também em textos literários para enfatizar emoções?",
+        "palavras_chave": ["hipérbole", "exagero", "figura de linguagem", "expressividade", "estilística"]
+    },
+    {
+        "pergunta": "O que é eufemismo?",
+        "resposta": "Eufemismo é a figura de linguagem usada para suavizar expressões consideradas duras ou desagradáveis. Exemplo: 'Ele partiu' em vez de 'Ele morreu'. Sabia que o eufemismo também é usado em discursos políticos e publicitários para amenizar ideias negativas?",
+        "palavras_chave": ["eufemismo", "suavização", "figura de linguagem", "partiu", "estilística"]
+    },
+    {
+        "pergunta": "O que é ironia?",
+        "resposta": "Ironia é a figura de linguagem em que se diz o contrário do que realmente se quer expressar, geralmente para criticar ou provocar humor. Exemplo: 'Que pessoa educada!' para alguém grosseiro. Sabia que a entonação ou o contexto é fundamental para identificar a ironia?",
+        "palavras_chave": ["ironia", "contrário", "crítica", "humor", "figura de linguagem", "estilística"]
+    }
+]

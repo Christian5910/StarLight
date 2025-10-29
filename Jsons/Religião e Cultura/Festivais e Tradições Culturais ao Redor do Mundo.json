@@ -1,0 +1,457 @@
+[
+  {
+    "pergunta": "O que é o festival de Diwali na Índia?",
+    "resposta": "O Diwali, ou Deepavali, é o festival hindu das luzes, celebrado por milhões de pessoas na Índia e em comunidades hindus pelo mundo. Ele marca a vitória da luz sobre a escuridão e do bem sobre o mal, geralmente associado à história do retorno do deus Rama após derrotar o demônio Ravana. Durante cinco dias, as pessoas acendem lamparinas de óleo, trocam presentes e compartilham doces. É uma celebração vibrante, com fogos de artifício e rangolis, que são desenhos coloridos feitos no chão. A análise crítica aqui é que o Diwali também reflete a diversidade cultural da Índia, já que diferentes regiões celebram com tradições locais, mas mantém a essência da união familiar. Sabia que, em algumas partes da Índia, o Diwali também marca o ano novo financeiro, com comerciantes iniciando novos livros contábeis?",
+    "palavras_chave": ["diwali", "hinduísmo", "luz", "rama", "rangoli"]
+  },
+  {
+    "pergunta": "Como o Ano Novo Lunar é celebrado na China?",
+    "resposta": "O Ano Novo Lunar, ou Festival da Primavera, é a maior celebração da China, ligada à cultura confucionista e taoísta, mas com raízes espirituais antigas. Ele marca o início do calendário lunar e dura cerca de 15 dias, terminando com o Festival das Lanternas. Famílias se reúnem para jantares, limpam suas casas para afastar má sorte e decoram com lanternas vermelhas, símbolo de prosperidade. Fogos de artifício e danças do dragão são comuns. Criticamente, o festival reflete valores de renovação e união, mas também levanta debates sobre consumismo moderno. Sabia que cada ano é associado a um animal do zodíaco chinês, como o dragão ou a cobra?",
+    "palavras_chave": ["ano novo lunar", "china", "lanternas", "zodíaco", "dragão"]
+  },
+  {
+    "pergunta": "O que significa o festival de Eid al-Fitr no islamismo?",
+    "resposta": "O Eid al-Fitr é uma das principais festas islâmicas, marcando o fim do Ramadã, o mês de jejum. Celebrado por muçulmanos em todo o mundo, envolve orações comunitárias, refeições festivas e atos de caridade, como o Zakat al-Fitr, uma doação para os necessitados. É um momento de gratidão e renovação espiritual. Culturalmente, varia bastante: no Egito, por exemplo, as pessoas preparam doces como kahk, enquanto na Turquia há trocas de presentes. Uma análise crítica é que o Eid reforça laços comunitários, mas também destaca desigualdades, já que nem todos têm recursos para celebrar plenamente. Sabia que o calendário islâmico é lunar, então a data do Eid muda a cada ano no calendário gregoriano?",
+    "palavras_chave": ["eid al-fitr", "islamismo", "ramadã", "zakat", "comunidade"]
+  },
+  {
+    "pergunta": "Por que o Carnaval é importante no Brasil?",
+    "resposta": "O Carnaval brasileiro é uma festa profundamente enraizada na tradição católica, celebrada antes da Quaresma, período de penitência. Ele mistura influências europeias, africanas e indígenas, criando uma explosão de música, dança e fantasias, especialmente no samba do Rio de Janeiro e nos frevos de Pernambuco. É um momento de catarse social, onde hierarquias se dissolvem temporariamente. Criticamente, o Carnaval também é alvo de debates por seu impacto econômico e, às vezes, por excessos. Sabia que o Carnaval de Salvador é considerado o maior festival de rua do mundo, atraindo milhões de pessoas?",
+    "palavras_chave": ["carnaval", "brasil", "samba", "quaresma", "cultura"]
+  },
+  {
+    "pergunta": "O que é o festival de Hanukkah no judaísmo?",
+    "resposta": "Hanukkah, ou Festival das Luzes, é uma celebração judaica que dura oito dias, lembrando a rededicação do Templo de Jerusalém no século II a.C., após a revolta dos Macabeus. A tradição central é acender a menorá, um candelabro de nove braços, adicionando uma vela por noite. Famílias compartilham alimentos fritos, como latkes, e jogam dreidel, um pião com letras hebraicas. Hanukkah reforça a resiliência cultural do povo judeu, mas também levanta questões sobre assimilação em contextos modernos. Sabia que o milagre do óleo, que durou oito dias, é o coração da história de Hanukkah?",
+    "palavras_chave": ["hanukkah", "judaísmo", "menorá", "macabeus", "dreidel"]
+  },
+  {
+    "pergunta": "Como é celebrado o Vesak no budismo?",
+    "resposta": "O Vesak é o festival mais sagrado do budismo, marcando o nascimento, iluminação e morte de Buda. Celebrado em países como Sri Lanka, Tailândia e Vietnã, envolve meditação, oferendas em templos e atos de bondade, como libertar pássaros. Lanternas e procissões iluminadas são comuns, simbolizando a luz da sabedoria. Criticamente, o Vesak reflete a diversidade do budismo, com práticas variando entre tradições Theravada e Mahayana. Sabia que, em alguns países, o Vesak é feriado nacional, com escolas e escritórios fechados?",
+    "palavras_chave": ["vesak", "budismo", "buda", "lanternas", "meditação"]
+  },
+  {
+    "pergunta": "O que é o festival de Obon no Japão?",
+    "resposta": "O Obon é uma tradição budista japonesa que honra os espíritos dos antepassados. Celebrado em agosto, as famílias limpam túmulos, acendem lanternas e realizam danças tradicionais, como o Bon Odori, para guiar os espíritos. É um momento de conexão familiar e reflexão sobre a mortalidade. Criticamente, o Obon equilibra espiritualidade e cultura popular, mas pode ser visto como menos religioso entre os jovens. Sabia que, no final do Obon, lanternas flutuantes são lançadas em rios para simbolizar a partida dos espíritos?",
+    "palavras_chave": ["obon", "japão", "budismo", "bon odori", "antepassados"]
+  },
+  {
+    "pergunta": "Qual é o significado do festival de Holi na Índia?",
+    "resposta": "O Holi, conhecido como festival das cores, é uma celebração hindu que marca a chegada da primavera e a vitória do bem sobre o mal, ligada à lenda de Krishna e Radha. Pessoas jogam pós coloridos e água umas nas outras, dançam e cantam. É uma festa de igualdade, onde castas e classes sociais se misturam. Criticamente, o Holi promove alegria, mas também enfrenta críticas por questões ambientais devido ao uso de tintas químicas. Sabia que o Holi inspirou festivais de cores em outros países, como eventos musicais no Ocidente?",
+    "palavras_chave": ["holi", "hinduísmo", "cores", "krishna", "primavera"]
+  },
+  {
+    "pergunta": "Como o Natal é celebrado em comunidades cristãs da Etiópia?",
+    "resposta": "Na Etiópia, o Natal, chamado Ganna, é celebrado em 7 de janeiro, seguindo o calendário ortodoxo copta. As pessoas participam de longas missas à luz de velas, vestidas de branco, e jogam um jogo tradicional chamado ganna, semelhante ao hóquei. Não há troca de presentes, mas sim foco na espiritualidade e na comunidade. Criticamente, o Ganna reflete a forte identidade cristã etíope, mas também sua resistência a influências ocidentais do Natal. Sabia que muitos etíopes jejuam no dia anterior ao Ganna, em um ritual chamado Tsome Ganna?",
+    "palavras_chave": ["ganna", "natal", "etiópia", "cristianismo", "jejum"]
+  },
+  {
+    "pergunta": "O que é o festival de Songkran na Tailândia?",
+    "resposta": "O Songkran é o Ano Novo tailandês, celebrado em abril com rituais budistas e grandes batalhas de água nas ruas, simbolizando purificação e renovação. As pessoas visitam templos, fazem oferendas a monges e lavam imagens de Buda. É uma celebração que une espiritualidade e diversão. Criticamente, o Songkran atrai turistas, mas isso pode diluir seu significado religioso. Sabia que, em Chiang Mai, o Songkran dura até uma semana, com desfiles e concursos de beleza?",
+    "palavras_chave": ["songkran", "tailândia", "budismo", "água", "ano novo"]
+  },
+  {
+    "pergunta": "Por que o Día de los Muertos é tão importante no México?",
+    "resposta": "O Día de los Muertos, celebrado em 1 e 2 de novembro, é uma tradição mexicana que mistura crenças católicas e indígenas para honrar os mortos. Famílias criam altares com oferendas, como flores de cempasúchil e alimentos favoritos dos falecidos. É uma celebração da vida e da memória, não de tristeza. Criticamente, o festival resiste à comercialização, mas enfrenta desafios com sua popularização global. Sabia que o Día de los Muertos inspirou o filme 'Viva – A Vida é uma Festa' da Pixar?",
+    "palavras_chave": ["día de los muertos", "méxico", "catolicismo", "altares", "cempasúchil"]
+  },
+  {
+    "pergunta": "O que é o festival de Loy Krathong na Tailândia?",
+    "resposta": "Loy Krathong é uma celebração tailandesa onde as pessoas lançam cestas flutuantes, ou krathongs, em rios e lagos, como oferenda à deusa das águas, Phra Mae Khongkha. É um momento de gratidão e purificação, com velas e flores iluminando as águas à noite. A tradição reflete a espiritualidade budista, mas também é um espetáculo visual. Criticamente, o festival enfrenta preocupações ambientais devido ao lixo gerado. Sabia que, em algumas regiões, balões de ar quente também são lançados durante o Loy Krathong?",
+    "palavras_chave": ["loy krathong", "tailândia", "budismo", "krathong", "rio"]
+  },
+  {
+    "pergunta": "Como o festival de Ramadan é observado pelos muçulmanos?",
+    "resposta": "O Ramadã é o mês sagrado do islamismo, dedicado ao jejum, oração e reflexão. Do nascer ao pôr do sol, muçulmanos se abstêm de comida e bebida, fortalecendo a disciplina espiritual. À noite, quebram o jejum com o iftar, uma refeição comunitária. A prática varia: no Marrocos, por exemplo, há sopas tradicionais como harira. Criticamente, o Ramadã promove empatia pelos menos favorecidos, mas pode ser desafiador em regiões de calor extremo. Sabia que o Ramadã termina com o Eid al-Fitr, uma grande festa?",
+    "palavras_chave": ["ramadã", "islamismo", "jejum", "iftar", "oração"]
+  },
+  {
+    "pergunta": "O que é o festival de Pongal no sul da Índia?",
+    "resposta": "Pongal é um festival hindu de quatro dias no estado de Tamil Nadu, celebrando a colheita e agradecendo ao deus Sol, Surya. Famílias cozinham um prato especial de arroz e lentilha, também chamado Pongal, que transborda como símbolo de prosperidade. Há danças e decoração com kolams, desenhos no chão. Criticamente, o Pongal reforça laços rurais, mas sua relevância diminui em áreas urbanas. Sabia que o terceiro dia do Pongal é dedicado às vacas, consideradas sagradas?",
+    "palavras_chave": ["pongal", "hinduísmo", "colheita", "surya", "kolam"]
+  },
+  {
+    "pergunta": "Como é celebrado o Yom Kippur no judaísmo?",
+    "resposta": "O Yom Kippur, ou Dia do Perdão, é o dia mais sagrado do judaísmo, dedicado à expiação e ao arrependimento. Judeus jejuam por 25 horas, participam de orações intensas e refletem sobre suas ações. É um momento de introspecção e renovação espiritual. Criticamente, o Yom Kippur promove humildade, mas sua observância varia entre judeus ortodoxos e reformistas. Sabia que, em Israel, o Yom Kippur paralisa o país, com ruas vazias e até o tráfego aéreo suspenso?",
+    "palavras_chave": ["yom kippur", "judaísmo", "jejum", "expiação", "oração"]
+  },
+  {
+    "pergunta": "O que é o festival de Navratri na Índia?",
+    "resposta": "Navratri é um festival hindu de nove noites que celebra a deusa Durga e suas várias formas. Cada noite é dedicada a um aspecto da deusa, com danças como garba e dandiya em Gujarat. As pessoas jejuam, oram e participam de rituais vibrantes. Criticamente, o Navratri reflete a diversidade regional da Índia, mas também levanta questões sobre inclusão de gênero em algumas práticas. Sabia que o décimo dia, chamado Dussehra, celebra a vitória de Durga sobre o demônio Mahishasura?",
+    "palavras_chave": ["navratri", "hinduísmo", "durga", "garba", "dussehra"]
+  },
+  {
+    "pergunta": "Como o festival de Corpus Christi é celebrado em Portugal?",
+    "resposta": "Corpus Christi é uma festa católica que celebra a presença de Cristo na Eucaristia, observada em Portugal com procissões solenes e ruas decoradas com tapetes de flores. Em cidades como Braga, as celebrações são marcadas por missas e hinos. A tradição reforça a identidade católica, mas sua relevância diminui entre os jovens. Sabia que, em algumas vilas portuguesas, crianças vestidas de anjos jogam pétalas durante a procissão?",
+    "palavras_chave": ["corpus christi", "catolicismo", "portugal", "procissão", "eucaristia"]
+  },
+  {
+    "pergunta": "O que é o festival de Inti Raymi no Peru?",
+    "resposta": "Inti Raymi é uma celebração inca que honra o deus Sol, Inti, realizada no solstício de inverno em junho. Em Cusco, no Peru, há encenações teatrais, danças e oferendas, recriando rituais antigos. É uma forma de preservar a cultura indígena, mas também atrai turistas, o que gera debates sobre autenticidade. Sabia que o Inti Raymi foi proibido pelos colonizadores espanhóis, mas foi revivido no século XX?",
+    "palavras_chave": ["inti raymi", "inca", "peru", "sol", "cusco"]
+  },
+  {
+    "pergunta": "Como o festival de Eid al-Adha é celebrado pelos muçulmanos?",
+    "resposta": "O Eid al-Adha, ou Festa do Sacrifício, é uma celebração islâmica que honra a disposição de Abraão de sacrificar seu filho em obediência a Deus. Muçulmanos realizam orações, sacrificam animais (como ovelhas) e dividem a carne com familiares e necessitados. É um momento de caridade e reflexão. Criticamente, o festival promove solidariedade, mas enfrenta críticas por questões de bem-estar animal. Sabia que o Eid al-Adha coincide com o final do Hajj, a peregrinação a Meca?",
+    "palavras_chave": ["eid al-adha", "islamismo", "sacrifício", "hajj", "caridade"]
+  },
+  {
+    "pergunta": "O que é o festival de Chuseok na Coreia do Sul?",
+    "resposta": "Chuseok é o festival de colheita da Coreia do Sul, com raízes confucionistas, celebrado na lua cheia de outono. Famílias se reúnem para honrar antepassados com oferendas de comida, como songpyeon, um bolinho de arroz. Há danças e jogos tradicionais, como a luta ssireum. Criticamente, o Chuseok reforça laços familiares, mas a urbanização reduz sua prática em áreas modernas. Sabia que o Chuseok é tão importante que é feriado de três dias na Coreia?",
+    "palavras_chave": ["chuseok", "coreia", "colheita", "songpyeon", "antepassados"]
+  },
+  {
+    "pergunta": "Como o festival de Páscoa é celebrado na Grécia?",
+    "resposta": "Na Grécia, a Páscoa ortodoxa é a maior festa cristã, celebrada com missas à meia-noite, fogos de artifício e o compartilhamento de ovos vermelhos, que simbolizam o sangue de Cristo. Famílias assam cordeiros e preparam sopa magiritsa. A celebração une espiritualidade e comunidade, mas pode ser menos intensa em áreas urbanas. Sabia que, em algumas ilhas gregas, há competições para quebrar os ovos vermelhos uns contra os outros?",
+    "palavras_chave": ["páscoa", "grécia", "cristianismo", "ovos vermelhos", "magiritsa"]
+  },
+  {
+    "pergunta": "O que é o festival de Makar Sankranti na Índia?",
+    "resposta": "Makar Sankranti é um festival hindu que marca a transição do sol para o signo de Capricórnio, celebrando a colheita e o fim do inverno. As pessoas tomam banhos rituais, voam pipas e preparam doces com gergelim e açúcar. É uma celebração de renovação, mas também reflete disparidades regionais na Índia. Sabia que, em Gujarat, o festival é famoso por competições de pipas que atraem milhares de participantes?",
+    "palavras_chave": ["makar sankranti", "hinduísmo", "colheita", "pipas", "gergelim"]
+  },
+  {
+    "pergunta": "Como o festival de Vaisakhi é celebrado pelos sikhs?",
+    "resposta": "Vaisakhi é uma festa sikh que celebra a fundação do Khalsa, a comunidade sikh, em 1699, e também marca a colheita na região do Punjab. Há procissões coloridas, danças bhangra e giddha, e visitas aos gurdwaras, templos sikhs. O festival reforça a identidade comunitária, mas também enfrenta desafios em diásporas sikhs. Sabia que o Vaisakhi é celebrado com grandes desfiles em cidades como Londres e Vancouver?",
+    "palavras_chave": ["vaisakhi", "sikhismo", "khalsa", "bhangra", "gurdwara"]
+  },
+  {
+    "pergunta": "O que é o festival de La Tomatina na Espanha?",
+    "resposta": "La Tomatina é um festival popular em Buñol, Espanha, onde milhares de pessoas se reúnem para jogar tomates umas nas outras. Embora não tenha raízes religiosas profundas, está ligado à cultura católica local e ocorre na última quarta-feira de agosto. É uma celebração de diversão e comunidade, mas gera debates sobre desperdício de alimentos. Sabia que a tradição começou em 1945, supostamente após uma briga em um desfile local?",
+    "palavras_chave": ["la tomatina", "espanha", "tomates", "festival", "buñol"]
+  },
+  {
+    "pergunta": "Como o festival de Wesak é celebrado no Sri Lanka?",
+    "resposta": "No Sri Lanka, o Wesak, ou Vesak, é o principal festival budista, celebrando o nascimento, iluminação e morte de Buda. Casas e ruas são decoradas com lanternas de papel, e há procissões com imagens de Buda. As pessoas praticam dana, oferecendo comida aos monges e necessitados. O festival promove generosidade, mas também enfrenta desafios com a comercialização. Sabia que as lanternas do Wesak são feitas à mão, muitas vezes por famílias, como parte da tradição?",
+    "palavras_chave": ["wesak", "sri lanka", "budismo", "lanternas", "dana"]
+  },
+  {
+    "pergunta": "O que é o festival de Ganesh Chaturthi na Índia?",
+    "resposta": "Ganesh Chaturthi é um festival hindu que celebra o nascimento de Ganesha, o deus da sabedoria e removedor de obstáculos. Durante dez dias, comunidades constroem altares com estátuas de Ganesha, fazem orações e oferecem doces, como modak. No final, as estátuas são imersas em rios ou mares, simbolizando o ciclo da vida. É especialmente vibrante em Mumbai. Criticamente, o festival une comunidades, mas levanta questões ambientais devido à poluição causada pelas imersões. Sabia que algumas cidades agora usam estátuas biodegradáveis para reduzir o impacto ambiental?",
+    "palavras_chave": ["ganesh chaturthi", "hinduísmo", "ganesha", "modak", "imersão"]
+  },
+  {
+    "pergunta": "Como o festival de Nowruz é celebrado no Irã?",
+    "resposta": "Nowruz é o Ano Novo persa, com raízes zoroástricas, celebrado no equinócio de primavera, geralmente em 21 de março. No Irã, famílias preparam uma mesa chamada Haft-Sin, com sete itens que começam com a letra 'S', como maçãs e trigo, simbolizando renovação. Há visitas familiares, troca de presentes e rituais de purificação, como pular fogueiras. O Nowruz reforça a identidade cultural iraniana, mas também enfrenta tensões em contextos políticos. Sabia que o Nowruz é reconhecido pela UNESCO como patrimônio cultural imaterial?",
+    "palavras_chave": ["nowruz", "zoroastrismo", "irã", "haft-sin", "primavera"]
+  },
+  {
+    "pergunta": "O que significa o festival de Rosh Hashanah no judaísmo?",
+    "resposta": "Rosh Hashanah é o Ano Novo judaico, marcando o início do ano no calendário hebraico. É um momento de reflexão e oração, com o toque do shofar, um chifre de carneiro, chamando ao arrependimento. As pessoas comem maçãs com mel, simbolizando um ano doce. Criticamente, o festival enfatiza renovação espiritual, mas sua prática varia entre comunidades ortodoxas e reformistas. Sabia que Rosh Hashanah é seguido pelos Dez Dias de Arrependimento, culminando no Yom Kippur?",
+    "palavras_chave": ["rosh hashanah", "judaísmo", "shofar", "arrependimento", "ano novo"]
+  },
+  {
+    "pergunta": "Como é celebrado o festival de Semana Santa na Espanha?",
+    "resposta": "A Semana Santa na Espanha é uma das maiores celebrações católicas, marcando a Paixão, Morte e Ressurreição de Jesus. Em cidades como Sevilha, há procissões impressionantes com imagens religiosas carregadas por confrarias. Os participantes, chamados nazarenos, usam capuzes pontudos e velas. A tradição reflete a forte herança católica, mas também atrai turismo, o que pode diluir seu significado espiritual. Sabia que algumas procissões duram até 12 horas, com participantes caminhando em silêncio?",
+    "palavras_chave": ["semana santa", "espanha", "catolicismo", "procissões", "nazarenos"]
+  },
+  {
+    "pergunta": "O que é o festival de Baisakhi no Paquistão?",
+    "resposta": "Baisakhi, similar ao Vaisakhi dos sikhs, é celebrado no Paquistão, especialmente no Punjab, marcando a colheita e, para os sikhs, a fundação do Khalsa. Há danças bhangra, feiras e visitas aos gurdwaras. No Paquistão, a festa também tem um caráter cultural, unindo comunidades rurais. Criticamente, o festival promove harmonia, mas é menos proeminente em áreas urbanas. Sabia que o Baisakhi no Paquistão coincide com feiras agrícolas históricas, como a de Lahore?",
+    "palavras_chave": ["baisakhi", "paquistão", "sikhismo", "bhangra", "colheita"]
+  },
+  {
+    "pergunta": "Por que o festival de Las Fallas é celebrado em Valência, Espanha?",
+    "resposta": "Las Fallas é um festival em Valência que combina devoção católica a São José com arte e sátira. Enormes esculturas de madeira e papelão, chamadas fallas, são construídas e queimadas em grandes fogueiras, simbolizando renovação. Há desfiles, fogos de artifício e oferendas de flores à Virgem Maria. Criticamente, o festival é uma expressão cultural única, mas enfrenta críticas por riscos de incêndio. Sabia que as fallas são criadas por artistas locais e podem custar milhares de euros?",
+    "palavras_chave": ["las fallas", "valência", "catolicismo", "fogueiras", "são josé"]
+  },
+  {
+    "pergunta": "O que é o festival de Tsagaan Sar na Mongólia?",
+    "resposta": "Tsagaan Sar é o Ano Novo lunar da Mongólia, com influências budistas e xamanistas. Celebrado em fevereiro, envolve reuniões familiares, troca de presentes e consumo de alimentos tradicionais, como bolinhos buuz. As pessoas vestem trajes tradicionais e visitam idosos para mostrar respeito. O festival reforça laços familiares, mas a modernização reduz sua prática em áreas urbanas. Sabia que o Tsagaan Sar inclui rituais para purificar a casa, como queimar ervas?",
+    "palavras_chave": ["tsagaan sar", "mongólia", "budismo", "buuz", "ano novo"]
+  },
+  {
+    "pergunta": "Como o festival de Durga Puja é celebrado em Bengala, Índia?",
+    "resposta": "Durga Puja é um festival hindu que celebra a vitória da deusa Durga sobre o demônio Mahishasura, especialmente popular em Bengala. Durante dez dias, altares elaborados com estátuas de Durga são montados, e há danças, músicas e teatro. No final, as estátuas são imersas em rios. O festival une arte e espiritualidade, mas também enfrenta críticas por seu impacto ambiental. Sabia que Kolkata, durante a Durga Puja, atrai milhões de visitantes e é considerada a maior celebração pública da Índia?",
+    "palavras_chave": ["durga puja", "hinduísmo", "bengala", "durga", "imersão"]
+  },
+  {
+    "pergunta": "O que é o festival de Araw ng mga Patay nas Filipinas?",
+    "resposta": "Araw ng mga Patay, ou Dia dos Mortos, é uma tradição católica nas Filipinas, celebrada em 1 e 2 de novembro para honrar os falecidos. Famílias visitam cemitérios, limpam túmulos e oferecem flores e velas. É um momento de memória e união familiar, mas também reflete influências coloniais espanholas. Sabia que, em algumas regiões, as pessoas passam a noite nos cemitérios, compartilhando comida e histórias?",
+    "palavras_chave": ["araw ng mga patay", "filipinas", "catolicismo", "cemitérios", "memória"]
+  },
+  {
+    "pergunta": "Como é celebrado o festival de Guru Nanak Jayanti no sikhismo?",
+    "resposta": "Guru Nanak Jayanti celebra o nascimento de Guru Nanak, o fundador do sikhismo. Sikhs participam de orações nos gurdwaras, cantam hinos e organizam langar, uma refeição comunitária gratuita. Procissões, chamadas Nagar Kirtan, enchem as ruas de música e cores. O festival reforça valores de igualdade, mas sua prática varia na diáspora. Sabia que o langar durante o Guru Nanak Jayanti pode servir milhares de pessoas em um único dia?",
+    "palavras_chave": ["guru nanak jayanti", "sikhismo", "langar", "gurdwara", "procissões"]
+  },
+  {
+    "pergunta": "O que é o festival de La Diablada na Bolívia?",
+    "resposta": "La Diablada é uma dança folclórica do festival de Carnaval em Oruro, Bolívia, que mistura tradições católicas e indígenas andinas. Dançarinos vestidos como demônios e anjos encenam a luta entre o bem e o mal, honrando a Virgem do Socavón. É uma expressão vibrante de sincretismo cultural, mas enfrenta desafios de preservação. Sabia que La Diablada foi declarada Patrimônio Cultural Imaterial pela UNESCO em 2001?",
+    "palavras_chave": ["la diablada", "bolívia", "carnaval", "sincretismo", "oruro"]
+  },
+  {
+    "pergunta": "Como o festival de Advento é celebrado pelos cristãos?",
+    "resposta": "O Advento é o período de quatro semanas antes do Natal, observado por cristãos, especialmente católicos e protestantes, como preparação espiritual para o nascimento de Jesus. Envolve a iluminação de velas em coroas de Advento e reflexões sobre esperança e paz. Em países como a Alemanha, há mercados natalinos. O Advento promove introspecção, mas pode ser ofuscado pelo consumismo natalino. Sabia que a coroa de Advento, com quatro velas, simboliza as quatro semanas de espera?",
+    "palavras_chave": ["advento", "cristianismo", "natal", "coroa", "esperança"]
+  },
+  {
+    "pergunta": "O que é o festival de Boun Ok Phansa no Laos?",
+    "resposta": "Boun Ok Phansa marca o fim do retiro budista de três meses durante a estação chuvosa no Laos. Monges retornam às comunidades, e as pessoas oferecem alimentos e participam de procissões com barcos iluminados flutuando nos rios. É um momento de gratidão e renovação espiritual. Criticamente, o festival mantém tradições budistas, mas a urbanização reduz sua prática. Sabia que, em Vientiane, competições de barcos iluminados atraem multidões?",
+    "palavras_chave": ["boun ok phansa", "laos", "budismo", "barcos", "retiro"]
+  },
+  {
+    "pergunta": "Como o festival de Janmashtami celebra Krishna na Índia?",
+    "resposta": "Janmashtami é o festival hindu que celebra o nascimento do deus Krishna. As pessoas jejuam, cantam hinos devocionais e encenam episódios da vida de Krishna, como o Dahi Handi, onde jovens formam pirâmides humanas para quebrar potes de iogurte. É uma celebração vibrante, mas enfrenta críticas por questões de segurança em eventos como o Dahi Handi. Sabia que, em Mathura, cidade natal de Krishna, o Janmashtami atrai milhares de peregrinos?",
+    "palavras_chave": ["janmashtami", "hinduísmo", "krishna", "dahi handi", "jejum"]
+  },
+  {
+    "pergunta": "O que é o festival de Obzhor na Bulgária?",
+    "resposta": "Obzhor, ou Dia de São Constantino e Santa Helena, é uma tradição cristã ortodoxa na Bulgária, onde pessoas caminham sobre brasas ardentes em rituais chamados nestinarstvo. A prática combina espiritualidade cristã com crenças pagãs, simbolizando purificação. É uma tradição rara, mas enfrenta desafios de preservação cultural. Sabia que o nestinarstvo é reconhecido pela UNESCO como patrimônio imaterial?",
+    "palavras_chave": ["obzhor", "bulgária", "cristianismo", "nestinarstvo", "brasas"]
+  },
+  {
+    "pergunta": "Como o festival de Mawlid celebra o nascimento de Maomé?",
+    "resposta": "Mawlid, ou Mawlid al-Nabi, é a celebração do nascimento do profeta Maomé, observada por muitos muçulmanos, especialmente sunitas e xiitas. Há recitações do Alcorão, hinos e distribuição de doces. Em países como o Egito, há procissões coloridas. O festival promove devoção, mas é controverso em algumas correntes islâmicas que o consideram inovação. Sabia que, no Paquistão, o Mawlid é feriado nacional com mesquitas iluminadas?",
+    "palavras_chave": ["mawlid", "islamismo", "maomé", "procissões", "devoção"]
+  },
+  {
+    "pergunta": "O que é o festival de Cherry Blossom no Japão?",
+    "resposta": "O festival de Cherry Blossom, ou Hanami, é uma tradição japonesa que celebra a floração das cerejeiras, com raízes no xintoísmo e budismo. As pessoas fazem piqueniques sob as árvores, apreciando a beleza efêmera das flores. É um momento de reflexão sobre a transitoriedade da vida, mas também atrai turismo em massa. Sabia que o Hanami tem registros históricos que datam do século VIII?",
+    "palavras_chave": ["hanami", "japão", "cerejeiras", "xintoísmo", "transitoriedade"]
+  },
+  {
+    "pergunta": "Como o festival de São João é celebrado no Brasil?",
+    "resposta": "O festival de São João, no Brasil, é uma celebração católica em homenagem a São João Batista, especialmente popular no Nordeste. Há fogueiras, danças de quadrilha, comidas típicas como canjica e milho assado, e balões (embora proibidos em algumas áreas). A festa reflete a cultura rural, mas enfrenta desafios com a modernização. Sabia que o São João de Campina Grande é considerado o maior do mundo, durando 30 dias?",
+    "palavras_chave": ["são joão", "brasil", "catolicismo", "fogueiras", "quadrilha"]
+  },
+  {
+    "pergunta": "O que é o festival de Asalha Puja na Tailândia?",
+    "resposta": "Asalha Puja é um festival budista que comemora o primeiro sermão de Buda, conhecido como Dhammacakkappavattana Sutta, na Tailândia. Monges e fiéis meditam, fazem oferendas e participam de procissões com velas. É um momento de reflexão espiritual, mas sua prática é menos comum entre jovens urbanos. Sabia que o Asalha Puja marca o início do retiro budista de três meses, chamado Vassa?",
+    "palavras_chave": ["asalha puja", "tailândia", "budismo", "buda", "vassa"]
+  },
+  {
+    "pergunta": "Como o festival de Todos os Santos é celebrado na Polônia?",
+    "resposta": "O Dia de Todos os Santos, em 1º de novembro, é uma tradição católica na Polônia, onde famílias visitam cemitérios para homenagear os mortos, acendendo velas e deixando flores nos túmulos. À noite, os cemitérios ficam iluminados, criando uma atmosfera solene. O festival reforça laços familiares, mas pode ser emocionalmente intenso. Sabia que as velas acesas criam um espetáculo visual conhecido como 'Zaduszki' na Polônia?",
+    "palavras_chave": ["todos os santos", "polônia", "catolicismo", "cemitérios", "velas"]
+  },
+  {
+    "pergunta": "O que é o festival de Beltane na tradição celta?",
+    "resposta": "Beltane é um festival pagão celta, celebrado em 1º de maio, marcando o início do verão. Com raízes espirituais, inclui fogueiras, danças e rituais de fertilidade, como o Maypole. Modernamente, é revivido por comunidades neopagãs, especialmente na Irlanda e Escócia. Criticamente, o Beltane promove conexão com a natureza, mas sua autenticidade é debatida. Sabia que as fogueiras de Beltane eram usadas para purificar o gado na antiguidade?",
+    "palavras_chave": ["beltane", "celta", "fogueiras", "maypole", "verão"]
+  },
+  {
+    "pergunta": "Como o festival de Magha Puja é celebrado no Camboja?",
+    "resposta": "Magha Puja é um festival budista no Camboja que comemora a reunião de Buda com seus discípulos. As pessoas visitam templos, oferecem velas e participam de procissões à luz da lua cheia. É um momento de renovação espiritual, mas menos praticado em áreas urbanas. Sabia que o Magha Puja é feriado nacional no Camboja, com templos lotados à noite?",
+    "palavras_chave": ["magha puja", "camboja", "budismo", "procissões", "lua cheia"]
+  },
+  {
+    "pergunta": "O que é o festival de San Fermín na Espanha?",
+    "resposta": "San Fermín, em Pamplona, é um festival católico em homenagem a São Fermino, famoso pela corrida de touros pelas ruas. Há missas, desfiles e eventos culturais, mas as corridas atraem mais atenção. O festival reflete a cultura espanhola, mas gera debates sobre crueldade animal. Sabia que o escritor Ernest Hemingway popularizou San Fermín em seu romance 'O Sol Também se Levanta'?",
+    "palavras_chave": ["san fermín", "espanha", "catolicismo", "touros", "pamplona"]
+  },
+  {
+    "pergunta": "Como o festival de Tet é celebrado no Vietnã?",
+    "resposta": "Tet, ou Ano Novo Lunar vietnamita, é a maior celebração do país, com influências budistas e confucionistas. As pessoas limpam suas casas, pagam dívidas e preparam bolos de arroz chamados banh chung. Há visitas familiares e oferendas aos antepassados. O Tet promove união, mas pode ser financeiramente desafiador para algumas famílias. Sabia que o Tet é associado a flores de pessegueiro e damasqueiro, que simbolizam boa sorte?",
+    "palavras_chave": ["tet", "vietnã", "ano novo", "banh chung", "antepassados"]
+  },
+  {
+    "pergunta": "O que é o festival de Pchum Ben no Camboja?",
+    "resposta": "Pchum Ben é um festival budista cambojano que honra os antepassados durante 15 dias. As pessoas oferecem comida, especialmente bolinhos de arroz, aos monges para beneficiar os espíritos dos mortos. Há visitas a pagodes e rituais à meia-noite. O festival reforça laços familiares, mas sua prática diminui em áreas urbanas. Sabia que, segundo a crença, os espíritos dos antepassados podem sofrer se não receberem oferendas durante o Pchum Ben?",
+    "palavras_chave": ["pchum ben", "camboja", "budismo", "antepassados", "oferendas"]
+  },
+  {
+    "pergunta": "O que é o festival de Raksha Bandhan na Índia?",
+    "resposta": "Raksha Bandhan é um festival hindu que celebra o laço entre irmãos e irmãs. Irmãs amarram uma pulseira sagrada, chamada rakhi, no pulso dos irmãos, que prometem protegê-las. Há troca de presentes, doces e orações por prosperidade. O festival reforça laços familiares, mas também levanta discussões sobre papéis de gênero tradicionais. Sabia que, em algumas comunidades, o rakhi é amarrado em amigos próximos, simbolizando laços além da família?",
+    "palavras_chave": ["raksha bandhan", "hinduísmo", "rakhi", "irmãos", "proteção"]
+  },
+  {
+    "pergunta": "Como o festival de Pasaka é celebrado no Nepal?",
+    "resposta": "Pasaka, ou Buddha Jayanti, é a celebração budista do nascimento, iluminação e morte de Buda, especialmente importante no Nepal, onde ele nasceu. Monges e fiéis visitam stupas, como Swayambhunath, para meditar e oferecer flores. Há procissões e atos de caridade. O festival promove paz, mas sua relevância varia entre hindus e budistas no Nepal. Sabia que Lumbini, local de nascimento de Buda, é um ponto central das celebrações de Pasaka?",
+    "palavras_chave": ["pasaka", "nepal", "budismo", "lumbini", "stupa"]
+  },
+  {
+    "pergunta": "O que significa o festival de Shavuot no judaísmo?",
+    "resposta": "Shavuot é um festival judaico que celebra a entrega da Torá no Monte Sinai e a colheita de trigo. Judeus passam a noite estudando textos sagrados, uma prática chamada Tikkun Leil Shavuot, e consomem laticínios, como cheesecake. O festival conecta espiritualidade e agricultura, mas sua prática é menos comum entre judeus seculares. Sabia que Shavuot também marca a história de Rute, um símbolo de lealdade no judaísmo?",
+    "palavras_chave": ["shavuot", "judaísmo", "torá", "colheita", "rute"]
+  },
+  {
+    "pergunta": "Como o festival de Corpus Christi é celebrado no Peru?",
+    "resposta": "No Peru, Corpus Christi é uma festa católica que celebra a Eucaristia, especialmente vibrante em Cusco. Há procissões com imagens religiosas, danças folclóricas e altares decorados. Indígenas andinos incorporam elementos de sincretismo, como oferendas à Pachamama. O festival une fé e cultura, mas enfrenta desafios com a secularização. Sabia que, em Cusco, 15 santos e virgens são levados em procissão, cada um representando uma comunidade local?",
+    "palavras_chave": ["corpus christi", "peru", "catolicismo", "procissões", "sincretismo"]
+  },
+  {
+    "pergunta": "O que é o festival de Loi Krathong no Camboja?",
+    "resposta": "Loi Krathong, no Camboja, é uma celebração budista onde cestas flutuantes com velas e flores são lançadas em rios para homenagear os espíritos aquáticos e pedir bênçãos. É semelhante ao festival tailandês, mas com toques locais, como danças tradicionais khmer. O festival promove conexão espiritual, mas enfrenta preocupações com poluição dos rios. Sabia que, em Siem Reap, o festival coincide com competições de barcos iluminados?",
+    "palavras_chave": ["loi krathong", "camboja", "budismo", "cestas", "rio"]
+  },
+  {
+    "pergunta": "Como o festival de São Patrício é celebrado na Irlanda?",
+    "resposta": "O Dia de São Patrício, em 17 de março, celebra o padroeiro da Irlanda com desfiles, música e trajes verdes, refletindo a herança cristã e celta. Em Dublin, há festivais de rua e missas. O evento reforça a identidade irlandesa, mas sua comercialização global gera críticas. Sabia que o verde, associado a São Patrício, era originalmente azul, mas mudou devido à conexão com o trevo, símbolo da Trindade?",
+    "palavras_chave": ["são patrício", "irlanda", "cristianismo", "desfiles", "trevo"]
+  },
+  {
+    "pergunta": "O que é o festival de Onam em Kerala, Índia?",
+    "resposta": "Onam é um festival hindu de Kerala que celebra a colheita e a lenda do rei Mahabali, cuja visita anual é honrada. As pessoas criam tapetes de flores (pookalam), preparam banquetes com pratos como sadya e realizam danças tradicionais, como Kathakali. O festival promove unidade, mas reflete tensões entre modernidade e tradição. Sabia que Onam inclui corridas de barcos-canoa, chamadas Vallam Kali, em rios de Kerala?",
+    "palavras_chave": ["onam", "hinduísmo", "kerala", "pookalam", "mahabali"]
+  },
+  {
+    "pergunta": "Como o festival de Ashura é observado pelos muçulmanos xiitas?",
+    "resposta": "Ashura é um dia sagrado para muçulmanos, especialmente xiitas, que marca o martírio do Imam Hussein em Karbala. Xiitas realizam procissões com lamentações e encenações teatrais. O festival é um momento de luto e reflexão, mas pode gerar tensões sectárias em algumas regiões. Sabia que, para muçulmanos sunitas, Ashura também comemora o dia em que Moisés libertou os israelitas do Egito?",
+    "palavras_chave": ["ashura", "islamismo", "xiismo", "hussein", "karbala"]
+  },
+  {
+    "pergunta": "O que é o festival de Losar no Tibete?",
+    "resposta": "Losar é o Ano Novo tibetano, com raízes budistas e bön, celebrado por três dias em fevereiro ou março. Inclui rituais de purificação, danças tradicionais e oferendas em mosteiros. Famílias preparam pratos como momos e trocam presentes. O festival mantém a cultura tibetana viva, mas é desafiado pela diáspora. Sabia que o Losar é calculado com base em um calendário lunissolar, variando anualmente?",
+    "palavras_chave": ["losar", "tibete", "budismo", "purificação", "momos"]
+  },
+  {
+    "pergunta": "Como o festival de Pentecostes é celebrado pelos cristãos?",
+    "resposta": "Pentecostes é uma festa cristã que celebra a descida do Espírito Santo sobre os apóstolos, 50 dias após a Páscoa. Em igrejas, há missas com hinos e leituras bíblicas. Em países como Itália, pétalas de rosas são jogadas do teto das igrejas, simbolizando línguas de fogo. O festival reforça a fé, mas sua relevância varia entre denominações. Sabia que Pentecostes é considerado o 'aniversário' da Igreja Cristã?",
+    "palavras_chave": ["pentecostes", "cristianismo", "espírito santo", "igreja", "fogo"]
+  },
+  {
+    "pergunta": "O que é o festival de Gion Matsuri no Japão?",
+    "resposta": "Gion Matsuri é um festival xintoísta em Quioto, Japão, que honra o santuário Yasaka e protege contra pestes. Durante julho, há desfiles de carros alegóricos gigantes, chamados yamaboko, decorados com tapeçarias. É uma celebração de tradição, mas atrai turismo em massa. Sabia que o Gion Matsuri, com mais de mil anos, é um dos festivais mais antigos do Japão?",
+    "palavras_chave": ["gion matsuri", "japão", "xintoísmo", "yamaboko", "yasaka"]
+  },
+  {
+    "pergunta": "Como o festival de Kumbh Mela é celebrado na Índia?",
+    "resposta": "Kumbh Mela é um festival hindu que ocorre a cada 12 anos em quatro cidades sagradas da Índia, como Prayagraj. Milhões de peregrinos se banham em rios sagrados, como o Ganges, para purificação espiritual. Há discursos de gurus e rituais. O festival é um feito logístico, mas enfrenta desafios de saneamento. Sabia que o Kumbh Mela de 2019 atraiu mais de 240 milhões de pessoas, sendo o maior encontro humano do mundo?",
+    "palavras_chave": ["kumbh mela", "hinduísmo", "ganges", "peregrinação", "purificação"]
+  },
+  {
+    "pergunta": "O que é o festival de Samhain na tradição celta?",
+    "resposta": "Samhain é um festival pagão celta, celebrado em 31 de outubro, marcando o fim da colheita e o início do inverno. Acreditava-se que o véu entre os mundos dos vivos e mortos se afinava, permitindo contato com espíritos. Hoje, é revivido por neopagãos com fogueiras e rituais. O festival inspirou o Halloween, mas sua essência espiritual é mais profunda. Sabia que o Samhain é considerado o precursor direto do Halloween moderno?",
+    "palavras_chave": ["samhain", "celta", "halloween", "fogueiras", "espíritos"]
+  },
+  {
+    "pergunta": "Como o festival de Eid al-Ghadeer é celebrado pelos xiitas?",
+    "resposta": "Eid al-Ghadeer é uma festa xiita que comemora a nomeação de Ali como sucessor de Maomé, segundo a tradição. Celebrada com orações, banquetes e atos de caridade, é especialmente importante no Irã e no Iraque. O festival reforça a identidade xiita, mas é menos conhecido entre sunitas. Sabia que o Eid al-Ghadeer ocorre no 18º dia do mês de Dhu al-Hijjah no calendário islâmico?",
+    "palavras_chave": ["eid al-ghadeer", "xiismo", "ali", "islamismo", "caridade"]
+  },
+  {
+    "pergunta": "O que é o festival de Ati-Atihan nas Filipinas?",
+    "resposta": "Ati-Atihan é um festival católico e indígena em Kalibo, Filipinas, que honra o Menino Jesus e celebra a amizade entre colonos e povos Ati. Há desfiles com fantasias coloridas, danças de rua e tambores. O festival reflete sincretismo cultural, mas enfrenta desafios de comercialização. Sabia que os participantes pintam o rosto de preto em homenagem aos povos indígenas Ati?",
+    "palavras_chave": ["ati-atihan", "filipinas", "catolicismo", "sincretismo", "danças"]
+  },
+  {
+    "pergunta": "Como o festival de Boun That Luang é celebrado no Laos?",
+    "resposta": "Boun That Luang é um festival budista no Laos que honra a stupa That Luang em Vientiane, um símbolo nacional. Durante a lua cheia de novembro, há procissões, oferendas a monges e feiras. O festival une espiritualidade e orgulho nacional, mas atrai turistas, o que pode diluir seu significado. Sabia que o That Luang é considerado o monumento mais sagrado do Laos?",
+    "palavras_chave": ["boun that luang", "laos", "budismo", "stupa", "procissões"]
+  },
+  {
+    "pergunta": "O que é o festival de Karva Chauth na Índia?",
+    "resposta": "Karva Chauth é um festival hindu celebrado principalmente no norte da Índia, onde mulheres casadas jejuam do nascer ao pôr do sol, orando pela longevidade de seus maridos. À noite, elas quebram o jejum após verem a lua através de uma peneira. É uma tradição que reforça laços matrimoniais, mas é criticada por alguns por reforçar papéis de gênero tradicionais. Sabia que, hoje, muitos casais modernos celebram o Karva Chauth juntos, com homens também jejuando em apoio às esposas?",
+    "palavras_chave": ["karva chauth", "hinduísmo", "jejum", "casamento", "lua"]
+  },
+  {
+    "pergunta": "Como o festival de Obon é celebrado na diáspora japonesa?",
+    "resposta": "Na diáspora japonesa, como no Havaí ou no Brasil, o Obon, uma tradição budista, honra os antepassados com danças Bon Odori, lanternas e oferendas em altares. Comunidades se reúnem em centros culturais, mantendo a essência da celebração japonesa. O festival preserva a identidade cultural, mas adapta-se a contextos locais. Sabia que, no Brasil, o Obon de São Paulo é um dos maiores fora do Japão, atraindo milhares de pessoas?",
+    "palavras_chave": ["obon", "diáspora", "budismo", "bon odori", "antepassados"]
+  },
+  {
+    "pergunta": "O que é o festival de Purim no judaísmo?",
+    "resposta": "Purim é um festival judaico que celebra a salvação dos judeus do plano de Hamã, narrado no Livro de Ester. As pessoas leem a Megillah, trocam presentes, doam aos pobres e se fantasiam. É uma festa alegre, mas também reflete resiliência histórica. Sabia que, em Israel, Purim é marcado por desfiles coloridos chamados Adloyada?",
+    "palavras_chave": ["purim", "judaísmo", "megillah", "ester", "adloyada"]
+  },
+  {
+    "pergunta": "Como o festival de Círio de Nazaré é celebrado no Brasil?",
+    "resposta": "O Círio de Nazaré, em Belém do Pará, é uma das maiores festas católicas do Brasil, honrando Nossa Senhora de Nazaré. Milhões participam de uma procissão com a imagem da Virgem, carregada por uma corda de 400 metros. Há missas e cânticos. O festival une fé e cultura amazônica, mas enfrenta desafios logísticos. Sabia que o Círio é reconhecido como Patrimônio Cultural Imaterial do Brasil?",
+    "palavras_chave": ["círio de nazaré", "catolicismo", "belém", "procissão", "virgem"]
+  },
+  {
+    "pergunta": "O que é o festival de Songkran no Camboja?",
+    "resposta": "Songkran, no Camboja, é o Ano Novo Khmer, celebrado em abril com rituais budistas e batalhas de água, simbolizando purificação. Famílias visitam pagodes, fazem oferendas e jogam talco. O festival mantém tradições, mas o turismo pode diluir seu significado espiritual. Sabia que, em Phnom Penh, o Songkran inclui apresentações de danças tradicionais Apsara?",
+    "palavras_chave": ["songkran", "camboja", "budismo", "água", "ano novo"]
+  },
+  {
+    "pergunta": "Como o festival de Diwali é celebrado na diáspora indiana?",
+    "resposta": "Na diáspora indiana, como em Londres ou Nova York, o Diwali, festival hindu das luzes, é celebrado com lamparinas, fogos de artifício e banquetes. Comunidades organizam eventos culturais com danças e músicas. O festival promove identidade cultural, mas pode ser menos espiritual em contextos ocidentais. Sabia que, em Leicester, Reino Unido, o Diwali é uma das maiores celebrações fora da Índia?",
+    "palavras_chave": ["diwali", "diáspora", "hinduísmo", "lamparinas", "cultura"]
+  },
+  {
+    "pergunta": "O que é o festival de Yule na tradição pagã?",
+    "resposta": "Yule é um festival pagão germânico, celebrado no solstício de inverno, marcando o retorno da luz. Modernos neopagãos acendem fogueiras, decoram árvores e trocam presentes, influenciando tradições natalinas. O festival conecta com a natureza, mas sua prática é pequena. Sabia que a árvore de Natal tem raízes em rituais pagãos de Yule?",
+    "palavras_chave": ["yule", "paganismo", "solstício", "fogueiras", "árvore"]
+  },
+  {
+    "pergunta": "Como o festival de Eid al-Fitr é celebrado na Indonésia?",
+    "resposta": "Na Indonésia, maior país muçulmano do mundo, o Eid al-Fitr, que marca o fim do Ramadã, é chamado Idul Fitri. Há orações em mesquitas, visitas familiares e pratos tradicionais como ketupat. É um momento de perdão e união, mas também reflete desigualdades econômicas. Sabia que muitos indonésios viajam para suas cidades natais em um êxodo chamado mudik durante o Eid?",
+    "palavras_chave": ["eid al-fitr", "indonésia", "islamismo", "ketupat", "mudik"]
+  },
+  {
+    "pergunta": "O que é o festival de Bumba Meu Boi no Brasil?",
+    "resposta": "Bumba Meu Boi é uma festa folclórica brasileira, com raízes católicas e indígenas, especialmente no Maranhão. Conta a história de um boi que morre e é ressuscitado, com danças, músicas e fantasias. O festival celebra a cultura nordestina, mas enfrenta desafios de preservação. Sabia que o Bumba Meu Boi varia entre estilos, como o boi de zabumba e o boi de matraca?",
+    "palavras_chave": ["bumba meu boi", "brasil", "folclore", "maranhão", "danças"]
+  },
+  {
+    "pergunta": "Como o festival de Vesak é celebrado em Myanmar?",
+    "resposta": "Em Myanmar, o Vesak, ou Dia de Buda, celebra o nascimento, iluminação e morte de Buda. Templos são decorados com lanternas, e fiéis regam a árvore Bodhi, símbolo da iluminação. Há atos de caridade, como doar comida. O festival reforça o budismo Theravada, mas é menos praticado em áreas urbanas. Sabia que, em Yangon, o Vesak inclui procissões noturnas com velas?",
+    "palavras_chave": ["vesak", "myanmar", "budismo", "bodhi", "caridade"]
+  },
+  {
+    "pergunta": "O que é o festival de Uphellyaa na Escócia?",
+    "resposta": "Uphellyaa é um festival viking em Shetland, Escócia, com raízes pagãs, celebrado em janeiro. Inclui uma procissão com tochas e a queima de um barco viking, simbolizando renovação. É uma celebração da herança nórdica, mas atrai turismo. Sabia que o Uphellyaa é liderado por um 'Guizer Jarl', um chefe viking eleito anualmente?",
+    "palavras_chave": ["uphellyaa", "escócia", "viking", "tochas", "barco"]
+  },
+  {
+    "pergunta": "Como o festival de Holi é celebrado em Fiji?",
+    "resposta": "Em Fiji, o Holi, festival hindu das cores, é celebrado pela comunidade indiana com pós coloridos, danças e músicas devocionais. É um momento de alegria e igualdade, mas adapta-se à cultura fijiana, com menos ênfase em rituais religiosos. Sabia que o Holi em Fiji é conhecido como 'Festival da Amizade' entre os locais?",
+    "palavras_chave": ["holi", "fiji", "hinduísmo", "cores", "amizade"]
+  },
+  {
+    "pergunta": "O que é o festival de Nag Panchami na Índia?",
+    "resposta": "Nag Panchami é um festival hindu que venera serpentes, consideradas sagradas em algumas tradições. Devotos oferecem leite e flores a imagens de cobras e visitam templos. O festival reflete a relação com a natureza, mas é criticado por práticas que podem prejudicar serpentes. Sabia que, em algumas regiões, cobras vivas são usadas nos rituais, levantando preocupações éticas?",
+    "palavras_chave": ["nag panchami", "hinduísmo", "serpentes", "oferendas", "natureza"]
+  },
+  {
+    "pergunta": "Como o festival de Natal é celebrado na Nigéria?",
+    "resposta": "Na Nigéria, o Natal, uma festa cristã, é celebrado com missas, danças e banquetes com pratos como jollof rice. Famílias decoram casas e trocam presentes, mas a ênfase está na comunidade. O festival reflete diversidade cultural, mas enfrenta desafios em regiões de conflito. Sabia que, em Lagos, o Natal inclui carnavais de rua com máscaras tradicionais?",
+    "palavras_chave": ["natal", "nigéria", "cristianismo", "jollof rice", "comunidade"]
+  },
+  {
+    "pergunta": "O que é o festival de Timkat na Etiópia?",
+    "resposta": "Timkat é a celebração ortodoxa etíope da Epifania, em janeiro, marcando o batismo de Jesus. Há procissões com réplicas da Arca da Aliança, banhos rituais e danças. O festival reforça a fé copta, mas é menos acessível em áreas rurais. Sabia que, em Gondar, o Timkat inclui mergulhos em piscinas sagradas?",
+    "palavras_chave": ["timkat", "etiópia", "cristianismo", "epifania", "procissões"]
+  },
+  {
+    "pergunta": "Como o festival de Baisakhi é celebrado no Canadá?",
+    "resposta": "No Canadá, o Baisakhi, festival sikh, é celebrado pela diáspora com desfiles coloridos, chamados Nagar Kirtan, danças bhangra e orações em gurdwaras. É um momento de orgulho cultural, mas adapta-se ao contexto ocidental. Sabia que o Baisakhi em Surrey, Canadá, é um dos maiores fora da Índia, atraindo dezenas de milhares?",
+    "palavras_chave": ["baisakhi", "canadá", "sikhismo", "nagar kirtan", "bhangra"]
+  },
+  {
+    "pergunta": "O que é o festival de Loy Krathong no Vietnã?",
+    "resposta": "No Vietnã, o Loy Krathong, ou Festival das Lanternas Flutuantes, é uma celebração budista onde lanternas são lançadas em rios para homenagear os espíritos e pedir bênçãos. É menos comum que na Tailândia, mas inclui danças e oferendas. O festival promove espiritualidade, mas enfrenta desafios ambientais. Sabia que, em Hoi An, o festival coincide com noites de lua cheia iluminadas?",
+    "palavras_chave": ["loy krathong", "vietnã", "budismo", "lanternas", "rio"]
+  },
+  {
+    "pergunta": "Como o festival de Páscoa é celebrado na Rússia?",
+    "resposta": "Na Rússia, a Páscoa ortodoxa é a maior festa cristã, marcada por missas à meia-noite e a saudação 'Cristo ressuscitou!'. As pessoas trocam ovos pintados e comem pão doce chamado kulich. O festival reforça a fé, mas é menos praticado por jovens urbanos. Sabia que os ovos russos, chamados pysanky, são decorados com símbolos intricados?",
+    "palavras_chave": ["páscoa", "rússia", "cristianismo", "pysanky", "kulich"]
+  },
+  {
+    "pergunta": "O que é o festival de Pongal na diáspora tâmil?",
+    "resposta": "Na diáspora tâmil, como no Canadá ou Reino Unido, o Pongal, festival hindu de colheita, é celebrado com o prato tradicional de arroz e lentilha, danças e orações ao deus Sol. Comunidades organizam eventos culturais. O festival mantém a identidade tâmil, mas é menos rural. Sabia que, em Toronto, o Pongal inclui feiras culturais com kolam e música clássica?",
+    "palavras_chave": ["pongal", "diáspora", "hinduísmo", "colheita", "kolam"]
+  },
+  {
+    "pergunta": "Como o festival de Mawlid é celebrado no Marrocos?",
+    "resposta": "No Marrocos, o Mawlid, que celebra o nascimento do profeta Maomé, é marcado por orações, recitações do Alcorão e banquetes com pratos como cuscuz. Há procissões em cidades como Fez. O festival promove devoção, mas é menos intenso em áreas urbanas. Sabia que, em algumas regiões, o Mawlid inclui apresentações de música sufi?",
+    "palavras_chave": ["mawlid", "marrocos", "islamismo", "sufismo", "procissões"]
+  },
+  {
+    "pergunta": "O que é o festival de Aomori Nebuta no Japão?",
+    "resposta": "Aomori Nebuta é um festival xintoísta no Japão, realizado em agosto, com desfiles de carros alegóricos iluminados que retratam guerreiros e mitos. As pessoas dançam e cantam, atraindo multidões. O festival preserva tradições regionais, mas é criticado por seu impacto turístico. Sabia que os carros alegóricos do Nebuta podem pesar até quatro toneladas?",
+    "palavras_chave": ["aomori nebuta", "japão", "xintoísmo", "carros alegóricos", "danças"]
+  },
+  {
+    "pergunta": "Como o festival de Todos os Santos é celebrado no México?",
+    "resposta": "No México, o Dia de Todos os Santos, em 1º de novembro, é parte do Día de los Muertos, com altares para crianças falecidas. Famílias oferecem doces e brinquedos, celebrando a memória com alegria. O festival reflete sincretismo, mas enfrenta comercialização. Sabia que os altares para crianças são chamados 'ofrendas de angelitos'?",
+    "palavras_chave": ["todos os santos", "méxico", "catolicismo", "ofrendas", "angelitos"]
+  },
+  {
+    "pergunta": "O que é o festival de Chhath Puja na Índia?",
+    "resposta": "Chhath Puja é um festival hindu do norte da Índia, dedicado ao deus Sol e à deusa Chhathi Maiya. Devotos jejuam, banham-se em rios e oferecem frutas ao nascer e pôr do sol. O festival é profundamente espiritual, mas enfrenta desafios ambientais. Sabia que o Chhath Puja é uma das poucas tradições hindus onde não há sacerdotes, sendo conduzido diretamente pelos devotos?",
+    "palavras_chave": ["chhath puja", "hinduísmo", "sol", "jejum", "rio"]
+  },
+  {
+    "pergunta": "Como o festival de Losar é celebrado no Butão?",
+    "resposta": "No Butão, o Losar, Ano Novo tibetano, é celebrado com danças tradicionais, oferendas em mosteiros e banquetes com pratos como thukpa. Famílias limpam casas para renovação. O festival reforça a cultura budista, mas é menos praticado por jovens. Sabia que, no Butão, o Losar inclui competições de arco e flecha, esporte nacional?",
+    "palavras_chave": ["losar", "butão", "budismo", "thukpa", "arco"]
+  },
+  {
+    "pergunta": "O que é o festival de La Candelaria na Colômbia?",
+    "resposta": "La Candelaria, em 2 de fevereiro, é uma festa católica na Colômbia que celebra a apresentação de Jesus no templo. Há missas, procissões com velas e oferendas à Virgem de Candelaria. O festival une fé e cultura, mas é menos popular entre jovens. Sabia que, em Cartagena, o festival inclui danças folclóricas como cumbia?",
+    "palavras_chave": ["la candelaria", "colômbia", "catolicismo", "velas", "cumbia"]
+  }
+]

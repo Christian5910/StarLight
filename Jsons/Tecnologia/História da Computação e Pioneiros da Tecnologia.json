@@ -1,0 +1,377 @@
+[
+  {
+    "pergunta": "Quem foi Alan Turing e qual foi seu impacto na história da computação?",
+    "resposta": "Alan Turing foi um matemático britânico que lançou as bases da computação moderna. Durante a Segunda Guerra Mundial, ele trabalhou na decodificação de mensagens nazistas, usando a máquina Enigma. Sua criação, a Máquina de Turing, é um modelo teórico que define o que é um computador: algo que processa instruções de forma lógica. Ele também contribuiu para a inteligência artificial com o famoso 'Teste de Turing'. Sua visão moldou a computação como conhecemos hoje, apesar de ter enfrentado perseguição por sua homossexualidade. Sabia que o trabalho de Turing ajudou a encurtar a guerra em cerca de dois anos, segundo historiadores?",
+    "palavras_chave": ["alan turing", "máquina de turing", "enigma", "inteligência artificial", "computação"]
+  },
+  {
+    "pergunta": "O que foi o ENIAC e por que ele é tão importante?",
+    "resposta": "O ENIAC, ou Electronic Numerical Integrator and Computer, foi o primeiro computador eletrônico de grande escala, concluído em 1945 nos EUA. Ele ocupava uma sala inteira, usava válvulas a vácuo e era programado manualmente com cabos e interruptores. Desenvolvido para cálculos balísticos na Segunda Guerra, ele marcou o início da era dos computadores digitais. Apesar de lento pelos padrões atuais, o ENIAC era revolucionário por realizar milhares de cálculos por segundo. Sabia que as programadoras do ENIAC, muitas delas mulheres, foram pioneiras em programação, mas só receberam reconhecimento décadas depois?",
+    "palavras_chave": ["eniac", "computador digital", "válvulas a vácuo", "programação", "segunda guerra"]
+  },
+  {
+    "pergunta": "Como Charles Babbage contribuiu para a história da computação?",
+    "resposta": "Charles Babbage, um matemático inglês do século XIX, é conhecido como o 'pai do computador'. Ele projetou a Máquina Analítica, um dispositivo mecânico que, em teoria, podia realizar cálculos complexos e armazenar dados. Embora nunca tenha sido concluída por limitações tecnológicas da época, a máquina tinha conceitos modernos como memória e programação. Ada Lovelace, que trabalhou com ele, escreveu os primeiros 'programas' para a máquina. Sabia que a Máquina Analítica inspirou gerações de cientistas, mesmo sendo apenas um projeto no papel?",
+    "palavras_chave": ["charles babbage", "máquina analítica", "ada lovelace", "programação", "computação"]
+  },
+  {
+    "pergunta": "Qual foi o papel de Ada Lovelace na computação?",
+    "resposta": "Ada Lovelace, matemática do século XIX, é considerada a primeira programadora do mundo. Trabalhando com Charles Babbage, ela escreveu notas detalhadas sobre a Máquina Analítica, incluindo o primeiro algoritmo para ser processado por uma máquina. Ada também previu que computadores poderiam ir além de cálculos, como compor música. Sua visão sobre o potencial das máquinas foi revolucionária. Sabia que o Dia da Ada Lovelace é celebrado para inspirar mulheres na tecnologia?",
+    "palavras_chave": ["ada lovelace", "programação", "máquina analítica", "algoritmo", "computação"]
+  },
+  {
+    "pergunta": "O que é a Máquina de Turing e por que ela é relevante?",
+    "resposta": "A Máquina de Turing, proposta por Alan Turing em 1936, é um modelo teórico que descreve como um computador funciona. Ela é uma máquina imaginária que manipula símbolos em uma fita infinita, seguindo regras específicas. Esse conceito é a base para entender o que pode ser computado e define os limites da computação. É tão fundamental que qualquer computador moderno é, em essência, uma Máquina de Turing. Sabia que ela também ajudou a provar que alguns problemas, como o 'Problema da Parada', são insolúveis por máquinas?",
+    "palavras_chave": ["máquina de turing", "computação", "alan turing", "algoritmo", "teoria"]
+  },
+  {
+    "pergunta": "Como o Colossus influenciou a criptografia na Segunda Guerra?",
+    "resposta": "O Colossus foi o primeiro computador eletrônico programável, desenvolvido pelos britânicos em 1943 para quebrar códigos nazistas, como os da máquina Lorenz. Ele usava válvulas e lia fitas perfuradas para processar mensagens cifradas, ajudando os Aliados a interceptar comunicações inimigas. Foi um marco na automação de cálculos complexos. Sabia que o Colossus era tão secreto que seus criadores, como Tommy Flowers, só receberam crédito décadas depois, quando o sigilo foi suspenso?",
+    "palavras_chave": ["colossus", "criptografia", "segunda guerra", "tommy flowers", "computador"]
+  },
+  {
+    "pergunta": "Quem foi Konrad Zuse e o que ele criou?",
+    "resposta": "Konrad Zuse, engenheiro alemão, construiu o Z3 em 1941, considerado o primeiro computador digital funcional do mundo. Diferente de máquinas analógicas, o Z3 usava sistema binário e era programável com fitas perfuradas. Ele foi usado para cálculos de engenharia, mas destruído na guerra. Zuse abriu caminho para computadores modernos. Sabia que ele também criou a Plankalkül, uma das primeiras linguagens de programação, ainda na década de 1940?",
+    "palavras_chave": ["konrad zuse", "z3", "sistema binário", "programação", "computador"]
+  },
+  {
+    "pergunta": "O que foi o Projeto Whirlwind e seu impacto?",
+    "resposta": "O Projeto Whirlwind, iniciado nos anos 1940 nos EUA, resultou em um dos primeiros computadores digitais em tempo real, usado inicialmente para simulações de voo. Ele introduziu inovações como memória de núcleo magnético, essencial para computadores modernos. O Whirlwind influenciou o desenvolvimento de sistemas interativos e de controle. Sabia que ele foi a base para o SAGE, um sistema de defesa aérea que conectava computadores em rede, algo revolucionário na época?",
+    "palavras_chave": ["whirlwind", "memória magnética", "computador", "sage", "tempo real"]
+  },
+  {
+    "pergunta": "Por que o UNIVAC foi um marco na computação comercial?",
+    "resposta": "O UNIVAC I, lançado em 1951 nos EUA, foi o primeiro computador comercialmente disponível. Diferente de máquinas militares, ele foi projetado para empresas, processando dados como folhas de pagamento e censos. Sua capacidade de armazenar e processar grandes quantidades de dados abriu as portas para a computação empresarial. Sabia que o UNIVAC previu corretamente a vitória de Eisenhower nas eleições de 1952, surpreendendo analistas da época?",
+    "palavras_chave": ["univac", "computação comercial", "dados", "eleições", "computador"]
+  },
+  {
+    "pergunta": "Como a invenção do transistor mudou a computação?",
+    "resposta": "O transistor, inventado em 1947 pela Bell Labs, substituiu as válvulas a vácuo, que eram grandes e consumiam muita energia. Ele é um componente eletrônico pequeno, confiável e eficiente, que permitiu a criação de computadores menores, mais rápidos e baratos. Sem os transistores, não teríamos os dispositivos compactos de hoje. Sabia que os primeiros transistores eram feitos de germânio, mas o silício se tornou o padrão por ser mais abundante e estável?",
+    "palavras_chave": ["transistor", "válvulas", "computador", "silício", "bell labs"]
+  },
+  {
+    "pergunta": "O que foi o IBM 650 e por que ele foi popular?",
+    "resposta": "O IBM 650, lançado em 1954, foi um dos primeiros computadores produzidos em massa. Ele usava tambores magnéticos para armazenar dados e era acessível para empresas e universidades. Sua popularidade veio da versatilidade e do custo relativamente baixo, ajudando a popularizar a computação. Sabia que o IBM 650 foi usado para ensinar programação em universidades, formando a primeira geração de programadores?",
+    "palavras_chave": ["ibm 650", "computador", "tambor magnético", "programação", "universidades"]
+  },
+  {
+    "pergunta": "Quem foi Grace Hopper e qual foi sua contribuição?",
+    "resposta": "Grace Hopper foi uma cientista da computação e almirante da Marinha dos EUA. Ela desenvolveu o primeiro compilador, que traduz código de alto nível para linguagem de máquina, facilitando a programação. Também ajudou a criar a linguagem COBOL, usada em negócios. Sua visão tornou a programação mais acessível. Sabia que o termo 'debugging' surgiu quando ela removeu um inseto de um computador que causava falhas?",
+    "palavras_chave": ["grace hopper", "compilador", "cobol", "programação", "debugging"]
+  },
+  {
+    "pergunta": "O que foi o PDP-1 e seu impacto na computação?",
+    "resposta": "O PDP-1, lançado pela DEC em 1959, foi um dos primeiros minicomputadores, acessível para laboratórios e universidades. Ele permitiu interatividade, com teclado e monitor, e rodou o primeiro jogo de computador, Spacewar!. O PDP-1 democratizou o acesso à computação. Sabia que Spacewar! inspirou a indústria de videogames, influenciando gerações de desenvolvedores?",
+    "palavras_chave": ["pdp-1", "minicomputador", "spacewar", "interatividade", "computação"]
+  },
+  {
+    "pergunta": "Como o conceito de 'bit' surgiu na computação?",
+    "resposta": "O termo 'bit', abreviação de 'binary digit', foi cunhado por Claude Shannon em 1948. Ele representa a menor unidade de informação digital, podendo ser 0 ou 1. Essa ideia veio da teoria da informação, que Shannon desenvolveu para quantificar dados. Bits são a base de todos os sistemas digitais modernos. Sabia que o conceito de bit foi inspirado em trabalhos de matemática e lógica do século XIX, como os de George Boole?",
+    "palavras_chave": ["bit", "claude shannon", "teoria da informação", "digital", "computação"]
+  },
+  {
+    "pergunta": "O que foi o Altair 8800 e por que ele é famoso?",
+    "resposta": "O Altair 8800, lançado em 1975 pela MITS, foi um dos primeiros computadores pessoais. Vendido como um kit para entusiastas, ele usava o processador Intel 8080 e não tinha teclado nem monitor, apenas luzes e interruptores. Inspirou hackers como Bill Gates a criar software, como o BASIC da Microsoft. Sabia que o Altair foi capa da revista Popular Electronics, desencadeando a revolução dos PCs?",
+    "palavras_chave": ["altair 8800", "computador pessoal", "intel 8080", "basic", "microsoft"]
+  },
+  {
+    "pergunta": "Quem foi Claude Shannon e qual sua importância?",
+    "resposta": "Claude Shannon, matemático americano, é considerado o pai da teoria da informação. Em 1948, ele publicou um trabalho que definiu como medir e transmitir informação digital, introduzindo o conceito de bit. Suas ideias são a base para redes, compressão de dados e computação moderna. Sabia que Shannon também construiu máquinas curiosas, como um robô que jogava xadrez, só por diversão?",
+    "palavras_chave": ["claude shannon", "teoria da informação", "bit", "computação", "redes"]
+  },
+  {
+    "pergunta": "Como o microprocessador revolucionou os computadores?",
+    "resposta": "O microprocessador, introduzido pela Intel em 1971 com o 4004, é um chip que integra as funções de uma CPU. Ele tornou os computadores menores, mais baratos e acessíveis, permitindo a criação de PCs. Antes, CPUs ocupavam salas inteiras. O microprocessador impulsionou a revolução digital. Sabia que o Intel 4004 tinha apenas 2.300 transistores, enquanto os chips modernos têm bilhões?",
+    "palavras_chave": ["microprocessador", "intel 4004", "cpu", "computador pessoal", "transistores"]
+  },
+  {
+    "pergunta": "O que foi o Apple I e quem o criou?",
+    "resposta": "O Apple I, lançado em 1976, foi o primeiro computador da Apple, projetado por Steve Wozniak, com ajuda de Steve Jobs. Era um kit básico, sem teclado ou monitor, mas marcou o início da computação pessoal acessível. Vendido por US$666,66, ele atraiu entusiastas. Sabia que apenas cerca de 200 unidades do Apple I foram produzidas, e hoje são itens de colecionador valiosos?",
+    "palavras_chave": ["apple i", "steve wozniak", "steve jobs", "computador pessoal", "tecnologia"]
+  },
+  {
+    "pergunta": "Por que o IBM PC de 1981 foi um marco?",
+    "resposta": "O IBM PC, lançado em 1981, popularizou os computadores pessoais ao oferecer um sistema aberto, com componentes de terceiros e software como o MS-DOS. Ele se tornou um padrão para empresas e lares, impulsionando a indústria de PCs. Sabia que o sucesso do IBM PC inspirou clones, como os da Compaq, que expandiram o mercado de computadores pessoais?",
+    "palavras_chave": ["ibm pc", "computador pessoal", "ms-dos", "sistema aberto", "tecnologia"]
+  },
+  {
+    "pergunta": "O que foi o ARPANET e sua relação com a internet?",
+    "resposta": "O ARPANET, criado em 1969 pelo Departamento de Defesa dos EUA, foi uma das primeiras redes de computadores. Ele conectava universidades e centros de pesquisa, usando protocolos como o TCP/IP. É considerado o embrião da internet moderna. Sabia que o primeiro e-mail da história foi enviado pelo ARPANET em 1971, por Ray Tomlinson, que criou o símbolo @?",
+    "palavras_chave": ["arpanet", "internet", "tcp/ip", "e-mail", "redes"]
+  },
+  {
+    "pergunta": "Quem foi Dennis Ritchie e o que ele desenvolveu?",
+    "resposta": "Dennis Ritchie, cientista da computação americano, criou a linguagem de programação C nos anos 1970 no Bell Labs. Ele também co-desenvolveu o sistema operacional Unix, que influenciou sistemas como Linux e macOS. A linguagem C é usada até hoje em software e sistemas operacionais. Sabia que Ritchie ganhou o Prêmio Turing, o 'Nobel da computação', por suas contribuições?",
+    "palavras_chave": ["dennis ritchie", "linguagem c", "unix", "programação", "sistemas"]
+  },
+  {
+    "pergunta": "Como o Xerox Alto influenciou os computadores modernos?",
+    "resposta": "O Xerox Alto, criado em 1973, foi o primeiro computador com interface gráfica, mouse e janelas. Desenvolvido no Xerox PARC, ele inspirou o Apple Macintosh e o Windows. Embora nunca tenha sido comercializado, suas ideias moldaram a computação pessoal. Sabia que Steve Jobs visitou o PARC e se inspirou no Alto para criar o Macintosh?",
+    "palavras_chave": ["xerox alto", "interface gráfica", "mouse", "apple", "computação"]
+  },
+  {
+    "pergunta": "O que foi o MOS 6502 e seu papel na computação?",
+    "resposta": "O MOS 6502, lançado em 1975, foi um microprocessador acessível e poderoso, usado em computadores como o Apple II, Atari 2600 e Commodore 64. Seu baixo custo ajudou a popularizar os computadores pessoais e consoles de videogame. Sabia que o 6502 foi projetado por uma equipe que saiu da Motorola, liderada por Chuck Peddle, para criar chips mais baratos?",
+    "palavras_chave": ["mos 6502", "microprocessador", "apple ii", "videogame", "computador"]
+  },
+  {
+    "pergunta": "Quem foi John von Neumann e sua contribuição?",
+    "resposta": "John von Neumann, matemático húngaro-americano, propôs a arquitetura de computadores que leva seu nome, usada na maioria dos computadores modernos. Ela separa memória, processador e entrada/saída, permitindo flexibilidade na programação. Suas ideias foram cruciais para computadores digitais. Sabia que von Neumann também contribuiu para a teoria dos jogos e a bomba atômica?",
+    "palavras_chave": ["john von neumann", "arquitetura", "computador", "memória", "programação"]
+  },
+  {
+    "pergunta": "O que foi o Commodore 64 e por que ele foi tão popular?",
+    "resposta": "O Commodore 64, lançado em 1982, foi um dos computadores pessoais mais vendidos da história. Com gráficos e som avançados para a época, ele era acessível e versátil, usado para jogos, programação e tarefas básicas. Sua popularidade veio do preço baixo e da vasta biblioteca de software. Sabia que o Commodore 64 ainda tem uma comunidade ativa de entusiastas que criam jogos e programas novos?",
+    "palavras_chave": ["commodore 64", "computador pessoal", "jogos", "programação", "tecnologia"]
+  },
+  {
+    "pergunta": "O que foi o Apple II e por que ele se destacou?",
+    "resposta": "O Apple II, lançado em 1977 por Steve Wozniak e Steve Jobs, foi um dos primeiros computadores pessoais a alcançar grande sucesso comercial. Diferente do Apple I, ele vinha montado, com teclado, monitor colorido e suporte a disquetes. Sua facilidade de uso e software como o VisiCalc, o primeiro programa de planilhas, o tornaram popular em casas e empresas. Sabia que o Apple II foi usado em escolas americanas, introduzindo milhões de crianças à computação?",
+    "palavras_chave": ["apple ii", "computador pessoal", "visicalc", "steve wozniak", "educação"]
+  },
+  {
+    "pergunta": "Como o sistema operacional Unix influenciou a tecnologia?",
+    "resposta": "O Unix, criado nos anos 1970 por Ken Thompson e Dennis Ritchie no Bell Labs, é um sistema operacional robusto e flexível. Ele introduziu conceitos como multitarefa e hierarquia de arquivos, usados em sistemas modernos como Linux e macOS. Sua portabilidade permitiu que fosse adotado em diversas máquinas. Sabia que o Unix foi inicialmente escrito em assembly, mas reescrito em C, o que o tornou mais acessível e influente?",
+    "palavras_chave": ["unix", "sistema operacional", "dennis ritchie", "linguagem c", "multitarefa"]
+  },
+  {
+    "pergunta": "Quem foi Tim Berners-Lee e o que ele criou?",
+    "resposta": "Tim Berners-Lee, cientista britânico, inventou a World Wide Web em 1989 no CERN. Ele desenvolveu o conceito de hipertexto, criou o primeiro navegador e servidor web, e definiu protocolos como HTTP e HTML. A web transformou a internet em uma ferramenta acessível para todos. Sabia que Berners-Lee disponibilizou a web gratuitamente, rejeitando lucros para garantir seu impacto global?",
+    "palavras_chave": ["tim berners-lee", "world wide web", "hipertexto", "http", "html"]
+  },
+  {
+    "pergunta": "O que foi o Xerox PARC e seu impacto na tecnologia?",
+    "resposta": "O Xerox PARC, laboratório de pesquisa fundado nos anos 1970, foi um celeiro de inovações. Lá foram criados a interface gráfica, o mouse, redes Ethernet e impressoras a laser. Embora a Xerox não tenha capitalizado essas invenções, elas inspiraram o Apple Macintosh e outros sistemas modernos. Sabia que o PARC também desenvolveu o conceito de computação ubíqua, prevendo dispositivos conectados por toda parte?",
+    "palavras_chave": ["xerox parc", "interface gráfica", "mouse", "ethernet", "inovação"]
+  },
+  {
+    "pergunta": "Como o MS-DOS moldou a computação pessoal?",
+    "resposta": "O MS-DOS, lançado pela Microsoft em 1981, foi o sistema operacional do IBM PC. Baseado em comandos de texto, ele era simples, mas poderoso, permitindo que usuários e desenvolvedores criassem softwares para PCs. Seu sucesso estabeleceu a Microsoft como líder em software. Sabia que o MS-DOS foi inspirado no CP/M, mas a Microsoft o adaptou rapidamente para o IBM PC, garantindo seu domínio?",
+    "palavras_chave": ["ms-dos", "sistema operacional", "ibm pc", "microsoft", "computação"]
+  },
+  {
+    "pergunta": "O que foi o VisiCalc e por que ele foi revolucionário?",
+    "resposta": "O VisiCalc, lançado em 1979 para o Apple II, foi a primeira planilha eletrônica. Ele permitia cálculos automáticos e modelagem financeira, atraindo empresas para os computadores pessoais. Antes, planilhas eram feitas à mão, o que era lento e propenso a erros. Sabia que o VisiCalc é considerado o primeiro 'killer app', pois justificava a compra de um computador só para usá-lo?",
+    "palavras_chave": ["visicalc", "planilha eletrônica", "apple ii", "killer app", "computação"]
+  },
+  {
+    "pergunta": "Quem foi Bill Gates e como ele influenciou a tecnologia?",
+    "resposta": "Bill Gates, cofundador da Microsoft, transformou a computação pessoal ao criar o MS-DOS e o Windows. Ele e Paul Allen desenvolveram o BASIC para o Altair 8800, fundando a Microsoft em 1975. Sua visão de um PC em cada casa impulsionou a adoção de computadores. Sabia que Gates abandonou Harvard para focar na Microsoft, apostando tudo no futuro dos PCs?",
+    "palavras_chave": ["bill gates", "microsoft", "ms-dos", "windows", "computador pessoal"]
+  },
+  {
+    "pergunta": "O que foi o Macintosh e por que ele foi inovador?",
+    "resposta": "O Macintosh, lançado pela Apple em 1984, foi o primeiro computador pessoal com interface gráfica acessível ao público. Com mouse, ícones e janelas, ele tornou a computação intuitiva. Inspirado no Xerox Alto, o Mac popularizou a interface gráfica. Sabia que o comercial de lançamento do Macintosh, dirigido por Ridley Scott, é considerado um marco na publicidade?",
+    "palavras_chave": ["macintosh", "interface gráfica", "apple", "mouse", "publicidade"]
+  },
+  {
+    "pergunta": "Como a linguagem BASIC impactou a computação?",
+    "resposta": "O BASIC, criado em 1964 por John Kemeny e Thomas Kurtz, foi uma linguagem de programação simples, voltada para iniciantes. Ela tornou a programação acessível, especialmente em PCs como o Altair e o Apple II. Versões como o Microsoft BASIC impulsionaram a criação de softwares caseiros. Sabia que o BASIC foi usado para ensinar programação em escolas, formando gerações de desenvolvedores?",
+    "palavras_chave": ["basic", "programação", "computador pessoal", "microsoft", "educação"]
+  },
+  {
+    "pergunta": "O que foi o TCP/IP e sua importância para a internet?",
+    "resposta": "O TCP/IP, desenvolvido por Vinton Cerf e Robert Kahn nos anos 1970, é um conjunto de protocolos que permite a comunicação entre computadores em redes. Ele é a espinha dorsal da internet, garantindo que dados sejam enviados e recebidos corretamente. Sua adoção unificou redes globais. Sabia que o TCP/IP foi testado com sucesso em 1973, conectando computadores em diferentes continentes?",
+    "palavras_chave": ["tcp/ip", "internet", "protocolos", "vinton cerf", "redes"]
+  },
+  {
+    "pergunta": "Quem foi Steve Wozniak e o que ele projetou?",
+    "resposta": "Steve Wozniak, engenheiro e cofundador da Apple, projetou o Apple I e o Apple II, computadores que popularizaram a computação pessoal. Conhecido como 'Woz', ele era um gênio em eletrônica, criando máquinas eficientes e acessíveis. Sua parceria com Steve Jobs foi crucial para a Apple. Sabia que Wozniak projetou o Apple II quase sozinho, cuidando de hardware e software?",
+    "palavras_chave": ["steve wozniak", "apple ii", "computador pessoal", "eletrônica", "apple"]
+  },
+  {
+    "pergunta": "O que foi o CP/M e por que ele foi importante?",
+    "resposta": "O CP/M, criado por Gary Kildall em 1974, foi um dos primeiros sistemas operacionais para microcomputadores. Ele oferecia um ambiente para rodar programas em diferentes máquinas, influenciando o MS-DOS. O CP/M ajudou a padronizar a computação pessoal antes do domínio da IBM. Sabia que a recusa de Kildall em vender o CP/M para a IBM abriu espaço para a Microsoft dominar o mercado?",
+    "palavras_chave": ["cp/m", "sistema operacional", "gary kildall", "ms-dos", "microcomputador"]
+  },
+  {
+    "pergunta": "Como o mouse mudou a interação com computadores?",
+    "resposta": "O mouse, inventado por Douglas Engelbart nos anos 1960 e popularizado pelo Xerox Alto e Macintosh, revolucionou a interação com computadores. Ele permitiu apontar e clicar em interfaces gráficas, tornando a computação mais intuitiva do que comandos de texto. Sabia que Engelbart demonstrou o mouse em 1968, em um evento chamado 'A Mãe de Todas as Demonstrações'?",
+    "palavras_chave": ["mouse", "interface gráfica", "douglas engelbart", "macintosh", "interação"]
+  },
+  {
+    "pergunta": "O que foi o Projeto Manhattan e sua relação com a computação?",
+    "resposta": "O Projeto Manhattan, que desenvolveu a bomba atômica na Segunda Guerra, usou os primeiros computadores para cálculos complexos, como simulações nucleares. Máquinas como o Harvard Mark I foram empregadas. Isso impulsionou o desenvolvimento de computadores digitais. Sabia que o Harvard Mark I, usado no projeto, era eletromecânico e ocupava uma sala inteira?",
+    "palavras_chave": ["projeto manhattan", "computador", "harvard mark i", "cálculos", "segunda guerra"]
+  },
+  {
+    "pergunta": "Quem foi Vinton Cerf e sua contribuição para a internet?",
+    "resposta": "Vinton Cerf, junto com Robert Kahn, criou o TCP/IP, os protocolos que permitem a comunicação na internet. Nos anos 1970, ele trabalhou na ARPANET, estabelecendo as bases para a rede global. Sua visão conectou o mundo digital. Sabia que Cerf é conhecido como um dos 'pais da internet' e ainda defende a neutralidade da rede?",
+    "palavras_chave": ["vinton cerf", "tcp/ip", "internet", "arpanet", "protocolos"]
+  },
+  {
+    "pergunta": "O que foi o Altair BASIC e quem o desenvolveu?",
+    "resposta": "O Altair BASIC, lançado em 1975, foi a primeira linguagem de programação para o Altair 8800, desenvolvida por Bill Gates e Paul Allen, fundadores da Microsoft. Ele permitiu que entusiastas escrevessem programas para PCs, impulsionando a revolução da computação pessoal. Sabia que Gates e Allen escreveram o BASIC em um prazo apertado, sem acesso ao Altair, usando um emulador?",
+    "palavras_chave": ["altair basic", "microsoft", "bill gates", "paul allen", "programação"]
+  },
+  {
+    "pergunta": "Como o IBM 360 transformou a computação corporativa?",
+    "resposta": "O IBM 360, lançado em 1964, foi uma família de computadores projetada para empresas, com modelos escaláveis para diferentes necessidades. Ele introduziu compatibilidade entre sistemas, permitindo que empresas atualizassem sem reescrever softwares. Isso o tornou um padrão corporativo. Sabia que o IBM 360 foi um dos maiores investimentos da IBM, custando bilhões na época?",
+    "palavras_chave": ["ibm 360", "computação corporativa", "compatibilidade", "sistemas", "empresas"]
+  },
+  {
+    "pergunta": "O que foi o Ethernet e quem o criou?",
+    "resposta": "O Ethernet, desenvolvido por Robert Metcalfe no Xerox PARC em 1973, é uma tecnologia para conectar computadores em redes locais. Ele permitiu a criação de LANs, fundamentais para escritórios e, mais tarde, para a internet. Sua simplicidade e escalabilidade o tornaram um padrão global. Sabia que o nome 'Ethernet' foi inspirado na ideia de 'éter', um meio imaginário para propagação de ondas?",
+    "palavras_chave": ["ethernet", "robert metcalfe", "redes", "xerox parc", "lan"]
+  },
+  {
+    "pergunta": "Quem foi Douglas Engelbart e sua principal invenção?",
+    "resposta": "Douglas Engelbart, engenheiro americano, inventou o mouse nos anos 1960 e foi pioneiro em interfaces de usuário. Sua visão de computação interativa incluía hipertexto e colaboração em rede, demonstrada em 1968. Ele influenciou interfaces modernas. Sabia que Engelbart também criou o conceito de 'aumentação da inteligência humana' com computadores?",
+    "palavras_chave": ["douglas engelbart", "mouse", "hipertexto", "interface", "computação"]
+  },
+  {
+    "pergunta": "O que foi o Windows 1.0 e seu impacto?",
+    "resposta": "O Windows 1.0, lançado pela Microsoft em 1985, foi a primeira tentativa de um sistema operacional com interface gráfica. Embora limitado, com janelas que não se sobrepunham, ele abriu caminho para versões mais avançadas, como o Windows 3.0. Foi o início do domínio da Microsoft nos PCs. Sabia que o Windows 1.0 incluía jogos simples, como Reversi, para atrair usuários?",
+    "palavras_chave": ["windows 1.0", "interface gráfica", "microsoft", "sistema operacional", "computador"]
+  },
+  {
+    "pergunta": "Como a linguagem C influenciou o desenvolvimento de software?",
+    "resposta": "A linguagem C, criada por Dennis Ritchie nos anos 1970, é poderosa e flexível, usada em sistemas operacionais como Unix e softwares modernos. Sua sintaxe clara e eficiência a tornaram base para linguagens como C++ e Python. Sabia que o kernel do Linux, usado em bilhões de dispositivos, é escrito principalmente em C?",
+    "palavras_chave": ["linguagem c", "dennis ritchie", "unix", "programação", "linux"]
+  },
+  {
+    "pergunta": "O que foi o Z80 e seu papel na computação?",
+    "resposta": "O Z80, lançado pela Zilog em 1976, foi um microprocessador popular em computadores pessoais como o ZX Spectrum e o TRS-80. Barato e versátil, ele impulsionou a computação doméstica e os primeiros videogames. Sua arquitetura influenciou chips modernos. Sabia que o Z80 ainda é usado em sistemas embarcados, como calculadoras e eletrodomésticos?",
+    "palavras_chave": ["z80", "microprocessador", "zx spectrum", "computação doméstica", "sistemas embarcados"]
+  },
+  {
+    "pergunta": "Quem foi Linus Torvalds e o que ele criou?",
+    "resposta": "Linus Torvalds, programador finlandês, criou o kernel Linux em 1991, um sistema operacional de código aberto baseado no Unix. Usado em servidores, smartphones e supercomputadores, o Linux é mantido por uma comunidade global. Sabia que Torvalds criou o Linux como um projeto universitário, inicialmente para rodar em seu próprio PC?",
+    "palavras_chave": ["linus torvalds", "linux", "sistema operacional", "código aberto", "unix"]
+  },
+  {
+    "pergunta": "O que foi o TRS-80 e por que ele foi popular?",
+    "resposta": "O TRS-80, lançado pela Tandy em 1977, foi um dos primeiros computadores pessoais acessíveis, vendido nas lojas RadioShack. Com teclado integrado e monitor, ele competiu com o Apple II e atraiu entusiastas e pequenas empresas. Sabia que o TRS-80 era apelidado de 'Trash-80' por críticos, mas ainda assim vendeu milhões de unidades?",
+    "palavras_chave": ["trs-80", "computador pessoal", "radioshack", "tecnologia", "acessibilidade"]
+  },
+  {
+    "pergunta": "Como o conceito de código aberto surgiu na computação?",
+    "resposta": "O movimento de código aberto começou nos anos 1980 com Richard Stallman, que fundou o Projeto GNU e a licença GPL. Ele defendia software livre, que qualquer um pudesse usar, modificar e compartilhar. Isso levou ao Linux e a uma cultura de colaboração global. Sabia que o termo 'open source' foi criado em 1998 para tornar o conceito mais atraente para empresas?",
+    "palavras_chave": ["código aberto", "richard stallman", "gnu", "linux", "software livre"]
+  },
+  {
+    "pergunta": "O que foi o Sinclair ZX Spectrum e por que ele foi tão popular?",
+    "resposta": "O Sinclair ZX Spectrum, lançado em 1982 pela Sinclair Research, foi um computador pessoal acessível, especialmente popular na Europa. Com gráficos coloridos e som básico, ele era usado para jogos e programação. Seu preço baixo o tornou um sucesso entre jovens, impulsionando a indústria de games. Sabia que o ZX Spectrum inspirou uma geração de desenvolvedores, muitos dos quais criaram empresas de jogos como a Rare?",
+    "palavras_chave": ["zx spectrum", "computador pessoal", "jogos", "sinclair", "programação"]
+  },
+  {
+    "pergunta": "Quem foi Richard Stallman e qual foi sua contribuição?",
+    "resposta": "Richard Stallman, programador americano, fundou o movimento do software livre nos anos 1980. Ele criou o Projeto GNU e a licença GPL, promovendo softwares que qualquer um pode usar, modificar e compartilhar. Suas ideias levaram ao desenvolvimento do Linux e à cultura de código aberto. Sabia que Stallman viveu por anos sem um celular, por preocupações com privacidade e liberdade digital?",
+    "palavras_chave": ["richard stallman", "software livre", "gnu", "licença gpl", "código aberto"]
+  },
+  {
+    "pergunta": "O que foi o Amiga e por que ele se destacou?",
+    "resposta": "O Amiga, lançado pela Commodore em 1985, foi um computador pessoal com gráficos e som avançados, ideal para jogos, animações e música. Ele competiu com o Macintosh e era adorado por artistas e gamers. Sua multitarefa e hardware inovador o tornaram um marco. Sabia que o Amiga foi usado para criar efeitos visuais em filmes como 'Jurassic Park'?",
+    "palavras_chave": ["amiga", "commodore", "gráficos", "multitarefa", "jogos"]
+  },
+  {
+    "pergunta": "Como o disquete revolucionou o armazenamento de dados?",
+    "resposta": "O disquete, introduzido pela IBM nos anos 1970, era um meio portátil de armazenamento, inicialmente de 8 polegadas e depois de 3,5 polegadas. Ele permitiu que usuários transferissem dados e programas entre computadores, algo inédito na época. Disquetes dominaram até os CDs. Sabia que o disquete de 3,5 polegadas podia armazenar apenas 1,44 MB, mas era suficiente para softwares da época?",
+    "palavras_chave": ["disquete", "armazenamento", "ibm", "dados", "portabilidade"]
+  },
+  {
+    "pergunta": "O que foi o Compaq Portable e seu impacto?",
+    "resposta": "O Compaq Portable, lançado em 1983, foi um dos primeiros computadores 'portáteis', compatível com o IBM PC. Pesando mais de 12 kg, ele permitia que empresas usassem softwares do IBM PC em movimento. Seu sucesso mostrou a viabilidade de clones do IBM PC. Sabia que a Compaq superou a IBM em vendas de PCs no início dos anos 1990?",
+    "palavras_chave": ["compaq portable", "ibm pc", "computador portátil", "clones", "tecnologia"]
+  },
+  {
+    "pergunta": "Quem foi Gordon Moore e o que é a Lei de Moore?",
+    "resposta": "Gordon Moore, cofundador da Intel, previu em 1965 que o número de transistores em um chip dobraria a cada dois anos, aumentando o poder computacional. Essa ideia, chamada Lei de Moore, guiou a indústria de semicondutores por décadas. Sabia que, embora a Lei de Moore tenha desacelerado, ela ainda influencia o design de chips modernos?",
+    "palavras_chave": ["gordon moore", "lei de moore", "transistores", "intel", "semicondutores"]
+  },
+  {
+    "pergunta": "O que foi o Atari 2600 e sua importância?",
+    "resposta": "O Atari 2600, lançado em 1977, foi um console de videogame que popularizou jogos em casa. Com cartuchos intercambiáveis, ele trouxe títulos como 'Pac-Man' e 'Space Invaders' para o público. O Atari 2600 criou a indústria moderna de games. Sabia que ele foi um dos primeiros a usar o microprocessador MOS 6507, derivado do 6502?",
+    "palavras_chave": ["atari 2600", "videogame", "cartuchos", "mos 6507", "jogos"]
+  },
+  {
+    "pergunta": "Como o conceito de GUI mudou a computação?",
+    "resposta": "A Interface Gráfica de Usuário (GUI), popularizada pelo Xerox Alto e Macintosh, substituiu comandos de texto por ícones, janelas e mouse. Isso tornou os computadores acessíveis a não especialistas, revolucionando a interação com tecnologia. Sabia que a primeira GUI comercial foi testada no Xerox Star em 1981, mas era cara demais para o mercado?",
+    "palavras_chave": ["gui", "interface gráfica", "xerox alto", "macintosh", "usabilidade"]
+  },
+  {
+    "pergunta": "O que foi o HyperCard e por que ele foi inovador?",
+    "resposta": "O HyperCard, lançado pela Apple em 1987, foi um software que permitia criar aplicativos interativos com hipertexto, combinando texto, imagens e links. Ele inspirou a World Wide Web e foi usado por artistas e educadores. Sabia que o jogo 'Myst', um marco dos anos 1990, foi criado usando o HyperCard?",
+    "palavras_chave": ["hypercard", "hipertexto", "apple", "myst", "interatividade"]
+  },
+  {
+    "pergunta": "Quem foi John McCarthy e o que ele criou?",
+    "resposta": "John McCarthy, cientista americano, criou a linguagem Lisp nos anos 1950 e cunhou o termo 'inteligência artificial'. Lisp foi usada em pesquisa de IA e influenciou linguagens modernas. McCarthy também propôs o conceito de timesharing, permitindo múltiplos usuários em um computador. Sabia que McCarthy ganhou o Prêmio Turing por suas contribuições à IA?",
+    "palavras_chave": ["john mccarthy", "lisp", "inteligência artificial", "timesharing", "programação"]
+  },
+  {
+    "pergunta": "O que foi o IBM PCjr e por que ele fracassou?",
+    "resposta": "O IBM PCjr, lançado em 1984, foi uma tentativa da IBM de entrar no mercado doméstico com um PC mais barato. Apesar de compatível com o IBM PC, ele tinha um teclado ruim e desempenho limitado, o que afastou consumidores. Sabia que o PCjr inspirou a IBM a focar em computadores corporativos, deixando o mercado doméstico para Apple e clones?",
+    "palavras_chave": ["ibm pcjr", "computador pessoal", "ibm", "teclado", "fracasso"]
+  },
+  {
+    "pergunta": "Como o CD-ROM mudou a computação?",
+    "resposta": "O CD-ROM, introduzido nos anos 1980, revolucionou o armazenamento com sua capacidade de 650 MB, muito superior aos disquetes. Ele permitiu a distribuição de softwares, jogos e multimídia, como enciclopédias interativas. Sabia que o jogo 'The 7th Guest' popularizou o CD-ROM por seus gráficos e vídeos em 1993?",
+    "palavras_chave": ["cd-rom", "armazenamento", "multimídia", "jogos", "tecnologia"]
+  },
+  {
+    "pergunta": "O que foi o Intel 8086 e seu impacto?",
+    "resposta": "O Intel 8086, lançado em 1978, foi um microprocessador que serviu de base para o IBM PC. Sua arquitetura x86 tornou-se o padrão para PCs, usada até hoje em processadores modernos. Ele trouxe poder computacional para o mercado de massa. Sabia que o 8086 foi escolhido para o IBM PC por sua compatibilidade com softwares existentes?",
+    "palavras_chave": ["intel 8086", "microprocessador", "x86", "ibm pc", "computação"]
+  },
+  {
+    "pergunta": "Quem foi An Wang e o que ele contribuiu?",
+    "resposta": "An Wang, engenheiro chinês-americano, fundou a Wang Laboratories e inventou a memória de núcleo magnético nos anos 1940, usada em computadores como o IBM 360. Ele também criou processadores de texto dedicados, populares em escritórios. Sabia que Wang foi um dos primeiros a patentear tecnologias de memória, ganhando milhões com royalties?",
+    "palavras_chave": ["an wang", "memória magnética", "wang laboratories", "processador de texto", "computação"]
+  },
+  {
+    "pergunta": "O que foi o Osborne 1 e por que ele foi significativo?",
+    "resposta": "O Osborne 1, lançado em 1981, foi o primeiro computador portátil comercialmente viável. Pesando 10 kg, ele vinha com tela, teclado e disquetes, além de softwares incluídos. Ele abriu o mercado de computação móvel, apesar de limitações. Sabia que o Osborne 1 faliu sua empresa devido a anúncios prematuros de um modelo sucessor, o 'efeito Osborne'?",
+    "palavras_chave": ["osborne 1", "computador portátil", "disquetes", "efeito osborne", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o BASIC da Microsoft impulsionou os PCs?",
+    "resposta": "O Microsoft BASIC, criado por Bill Gates e Paul Allen, foi a primeira linguagem amplamente usada em computadores pessoais, como o Altair e o Apple II. Sua simplicidade permitiu que amadores criassem programas, fomentando a cultura de software caseiro. Sabia que o BASIC foi adaptado para quase todos os PCs dos anos 1970 e 1980?",
+    "palavras_chave": ["microsoft basic", "programação", "computador pessoal", "bill gates", "software"]
+  },
+  {
+    "pergunta": "O que foi o PDP-11 e seu papel na computação?",
+    "resposta": "O PDP-11, lançado pela DEC em 1970, foi um minicomputador popular em universidades e empresas. Ele rodava o Unix e influenciou o design de sistemas operacionais modernos. Sua arquitetura inspirou microprocessadores como o Motorola 68000. Sabia que o PDP-11 era tão confiável que foi usado em sistemas de controle industrial por décadas?",
+    "palavras_chave": ["pdp-11", "minicomputador", "unix", "dec", "sistemas"]
+  },
+  {
+    "pergunta": "Quem foi Robert Noyce e sua contribuição?",
+    "resposta": "Robert Noyce, cofundador da Intel, coinventou o circuito integrado nos anos 1950, miniaturizando componentes eletrônicos. Isso tornou possível criar microprocessadores e computadores menores. Conhecido como o 'prefeito do Vale do Silício', ele moldou a indústria de tecnologia. Sabia que Noyce também ajudou a fundar a Fairchild Semiconductor, berço de muitas startups do Vale?",
+    "palavras_chave": ["robert noyce", "circuito integrado", "intel", "vale do silício", "microprocessador"]
+  },
+  {
+    "pergunta": "O que foi o Altair 8800 e sua influência?",
+    "resposta": "O Altair 8800, lançado em 1975, foi um dos primeiros computadores pessoais, vendido como kit. Ele inspirou a criação do Microsoft BASIC e atraiu entusiastas, iniciando a revolução dos PCs. Embora primitivo, ele mostrou o potencial dos computadores domésticos. Sabia que o Altair foi projetado por Ed Roberts, que fundou a MITS com base em uma visão de computação acessível?",
+    "palavras_chave": ["altair 8800", "computador pessoal", "microsoft basic", "ed roberts", "tecnologia"]
+  },
+  {
+    "pergunta": "Como o conceito de timesharing mudou a computação?",
+    "resposta": "O timesharing, desenvolvido nos anos 1960, permitiu que múltiplos usuários compartilhassem um computador simultaneamente, dividindo o tempo de processamento. Isso tornou a computação mais acessível, especialmente em universidades, e influenciou sistemas como o Unix. Sabia que o MIT foi pioneiro no timesharing com o sistema CTSS, precursor do multitasking moderno?",
+    "palavras_chave": ["timesharing", "computação", "unix", "ctss", "multitasking"]
+  },
+  {
+    "pergunta": "O que foi o Motorola 68000 e seu impacto?",
+    "resposta": "O Motorola 68000, lançado em 1979, foi um microprocessador poderoso usado em computadores como o Macintosh, Amiga e Atari ST. Sua arquitetura de 32 bits trouxe gráficos e desempenho avançados, ideais para jogos e multimídia. Sabia que o 68000 foi usado no Sega Genesis, um dos consoles mais populares dos anos 1990?",
+    "palavras_chave": ["motorola 68000", "microprocessador", "macintosh", "sega genesis", "gráficos"]
+  },
+  {
+    "pergunta": "Quem foi Seymour Cray e o que ele criou?",
+    "resposta": "Seymour Cray, engenheiro americano, foi o 'pai dos supercomputadores'. Ele projetou o Cray-1 em 1976, um supercomputador com design inovador, usado em simulações científicas e militares. Seus projetos na Cray Research estabeleceram padrões para computação de alto desempenho. Sabia que o Cray-1 era tão rápido que foi usado para prever o clima e simular explosões nucleares?",
+    "palavras_chave": ["seymour cray", "cray-1", "supercomputador", "computação", "simulações"]
+  },
+  {
+    "pergunta": "O que foi o PET 2001 da Commodore?",
+    "resposta": "O PET 2001, lançado pela Commodore em 1977, foi um computador pessoal completo, com teclado, monitor e gravador de fita. Competiu com o Apple II e o TRS-80, sendo popular em escolas e pequenas empresas. Sabia que o PET 2001 foi um dos primeiros computadores a incluir um interpretador BASIC embutido?",
+    "palavras_chave": ["pet 2001", "commodore", "computador pessoal", "basic", "educação"]
+  },
+  {
+    "pergunta": "Como a linguagem COBOL impactou os negócios?",
+    "resposta": "O COBOL, criado por Grace Hopper e outros nos anos 1950, foi projetado para aplicações comerciais, como folhas de pagamento e contabilidade. Sua sintaxe semelhante ao inglês facilitou o uso em empresas, e ele ainda é usado em bancos. Sabia que cerca de 70% das transações financeiras globais ainda dependem de sistemas COBOL?",
+    "palavras_chave": ["cobol", "grace hopper", "aplicações comerciais", "bancos", "programação"]
+  },
+  {
+    "pergunta": "O que foi o IBM System/360 e sua importância?",
+    "resposta": "O IBM System/360, lançado em 1964, foi uma família de computadores que introduziu compatibilidade entre modelos, permitindo que empresas escalassem seus sistemas sem reescrever softwares. Ele dominou a computação corporativa por décadas. Sabia que o System/360 foi um dos maiores projetos da IBM, custando mais do que o Projeto Manhattan?",
+    "palavras_chave": ["ibm system/360", "compatibilidade", "computação corporativa", "ibm", "sistemas"]
+  }
+]

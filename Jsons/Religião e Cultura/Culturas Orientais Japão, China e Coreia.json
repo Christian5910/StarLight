@@ -1,0 +1,502 @@
+[
+  {
+    "pergunta": "O que é o xintoísmo no Japão?",
+    "resposta": "O xintoísmo é a religião tradicional do Japão, centrada na reverência aos kami, espíritos associados à natureza, ancestrais ou forças sagradas. Não tem um fundador ou escrituras fixas, mas está profundamente enraizado na cultura japonesa, influenciando festivais e rituais. Por exemplo, o santuário Meiji, em Tóquio, é um local onde se honra o imperador Meiji como kami. A prática valoriza a harmonia com a natureza, mas pode ser criticada por sua associação histórica com o nacionalismo japonês. Sabia que muitos japoneses combinam o xintoísmo com o budismo, participando de rituais de ambas as tradições sem conflito?",
+    "palavras_chave": ["xintoísmo", "kami", "natureza", "santuário", "japão"]
+  },
+  {
+    "pergunta": "Como o confucionismo influencia a sociedade chinesa?",
+    "resposta": "O confucionismo, fundado por Confúcio no século V a.C., é mais uma filosofia do que uma religião, mas molda profundamente a cultura chinesa. Ele enfatiza a ética, a lealdade familiar, o respeito aos mais velhos e a ordem social. Por exemplo, o conceito de 'xiao' (piedade filial) orienta como filhos devem honrar os pais. Apesar de críticas por reforçar hierarquias rígidas, ele promove harmonia social. Sabia que, durante a Revolução Cultural, o confucionismo foi atacado, mas hoje é promovido pelo governo chinês como base cultural?",
+    "palavras_chave": ["confucionismo", "ética", "piedade filial", "china", "hierarquia"]
+  },
+  {
+    "pergunta": "O que são os festivais matsuri no Japão?",
+    "resposta": "Os matsuri são festivais xintoístas no Japão, celebrando kami, estações ou eventos históricos. Eles incluem procissões, danças e oferendas, como no Gion Matsuri, em Quioto, com seus carros alegóricos gigantes. São momentos de união comunitária, mas podem ser vistos como excessivamente tradicionais por jovens urbanos. Os matsuri reforçam a identidade cultural japonesa. Sabia que alguns matsuri, como o Kanamara Matsuri, celebram temas inusitados, como a fertilidade, com símbolos bem peculiares?",
+    "palavras_chave": ["matsuri", "xintoísmo", "festival", "japão", "comunidade"]
+  },
+  {
+    "pergunta": "Qual o papel do taoísmo na cultura chinesa?",
+    "resposta": "O taoísmo, baseado nos ensinamentos de Laozi, é uma filosofia e religião que busca a harmonia com o Tao, o princípio universal. Na China, influencia a medicina tradicional, artes marciais e até a culinária, promovendo equilíbrio. Templos taoístas, como o Monte Tai, são centros de prática. Alguns criticam seu misticismo, mas ele inspira uma visão holística da vida. Sabia que o conceito de yin-yang, tão popular no ocidente, vem diretamente do taoísmo?",
+    "palavras_chave": ["taoísmo", "yin-yang", "harmonia", "china", "laozi"]
+  },
+  {
+    "pergunta": "Como o budismo chegou à Coreia?",
+    "resposta": "O budismo chegou à Coreia por volta do século IV, vindo da China, durante o período dos Três Reinos. Foi adotado por elites e reis, como no reino de Baekje, que construíram templos como o Bulguksa. Ele trouxe ideias de compaixão e meditação, mas enfrentou resistência do confucionismo na era Joseon. Hoje, é uma força cultural. Sabia que a Coreia tem uma das estátuas de Buda mais antigas do mundo, a Seokguram, esculpida no século VIII?",
+    "palavras_chave": ["budismo", "coreia", "três reinos", "templo", "meditação"]
+  },
+  {
+    "pergunta": "O que é o conceito de kami no xintoísmo?",
+    "resposta": "Kami são os espíritos ou divindades do xintoísmo, que podem ser forças da natureza, ancestrais ou até objetos sagrados. No Japão, acredita-se que kami habitam montanhas, rios ou árvores, como o kami do Monte Fuji. Essa visão anima a relação com o meio ambiente, mas pode parecer vaga para quem busca uma teologia estruturada. Sabia que até celebridades modernas, como atletas famosos, já foram considerados kami em alguns contextos?",
+    "palavras_chave": ["kami", "xintoísmo", "natureza", "japão", "divindade"]
+  },
+  {
+    "pergunta": "Por que o confucionismo valoriza tanto a educação na China?",
+    "resposta": "Na China, o confucionismo vê a educação como um caminho para a virtude e a melhoria social. Confúcio defendia que estudar clássicos e praticar a ética formavam líderes justos. O sistema de exames imperiais, que selecionava funcionários públicos, era baseado nisso. Críticos dizem que isso cria pressão excessiva nos estudantes. Sabia que o Dia do Professor na China é celebrado em 10 de setembro, em homenagem ao nascimento de Confúcio?",
+    "palavras_chave": ["confucionismo", "educação", "china", "ética", "exames"]
+  },
+  {
+    "pergunta": "Como o xintoísmo influencia a arquitetura japonesa?",
+    "resposta": "O xintoísmo molda a arquitetura japonesa com santuários simples, feitos de madeira, como o Ise Jingu, que enfatizam a pureza e a conexão com a natureza. Eles evitam cores vibrantes e usam formas minimalistas. Essa estética inspira até a arquitetura moderna, mas pode ser criticada por sua rigidez tradicional. Sabia que o Ise Jingu é reconstruído a cada 20 anos para simbolizar renovação?",
+    "palavras_chave": ["xintoísmo", "arquitetura", "santuário", "japão", "minimalismo"]
+  },
+  {
+    "pergunta": "O que é o conceito de wu wei no taoísmo?",
+    "resposta": "Wu wei, ou 'não ação', é um princípio taoísta que sugere agir em harmonia com o fluxo natural do universo, sem forçar resultados. Na China, isso inspira desde a meditação até estratégias políticas. Por exemplo, um líder sábio pode resolver conflitos deixando as coisas se ajustarem naturalmente. Alguns veem isso como passividade excessiva. Sabia que o wu wei influenciou o estilo fluido das artes marciais, como o tai chi?",
+    "palavras_chave": ["taoísmo", "wu wei", "harmonia", "china", "tai chi"]
+  },
+  {
+    "pergunta": "Como o budismo zen se desenvolveu no Japão?",
+    "resposta": "O budismo zen chegou ao Japão no século XII, vindo da China, e enfatiza a meditação (zazen) para alcançar a iluminação. Foi adotado por samurais, que valorizavam sua disciplina mental. Templos como o Daitoku-ji, em Quioto, são centros zen. Críticos dizem que sua austeridade pode ser inacessível. Sabia que o zen inspirou a cerimônia do chá, valorizando a simplicidade e o momento presente?",
+    "palavras_chave": ["budismo zen", "meditação", "japão", "samurais", "zazen"]
+  },
+  {
+    "pergunta": "O que é o culto aos ancestrais na Coreia?",
+    "resposta": "Na Coreia, o culto aos ancestrais, ligado ao confucionismo, envolve rituais como o 'jesa', onde se oferecem alimentos para honrar os mortos. Esses rituais reforçam laços familiares, mas podem ser vistos como conservadores por gerações mais jovens. Templos familiares ainda são comuns em áreas rurais. Sabia que o feriado Chuseok é dedicado a esses rituais, com milhões de coreanos viajando para suas cidades natais?",
+    "palavras_chave": ["ancestrais", "confucionismo", "jesa", "coreia", "chuseok"]
+  },
+  {
+    "pergunta": "Como o taoísmo influencia a medicina chinesa?",
+    "resposta": "O taoísmo deu origem à medicina tradicional chinesa, que busca equilibrar o qi (energia vital) com práticas como acupuntura e fitoterapia. A ideia é harmonizar yin e yang no corpo. Clínicas modernas ainda usam esses conceitos, mas há debates sobre sua base científica. Sabia que o livro taoísta 'Huangdi Neijing' é considerado o texto fundador da medicina chinesa?",
+    "palavras_chave": ["taoísmo", "medicina", "qi", "china", "acupuntura"]
+  },
+  {
+    "pergunta": "O que são os torii nos santuários xintoístas?",
+    "resposta": "Os torii são portais vermelhos ou de madeira que marcam a entrada de santuários xintoístas no Japão, simbolizando a transição do profano para o sagrado. O torii do santuário Itsukushima, que parece flutuar na água, é famoso. Alguns criticam sua manutenção cara. Sabia que o maior torii do Japão, em Kumano, tem 33 metros de altura?",
+    "palavras_chave": ["torii", "xintoísmo", "santuário", "japão", "sagrado"]
+  },
+  {
+    "pergunta": "Como o confucionismo afeta a política na Coreia?",
+    "resposta": "Na Coreia, o confucionismo moldou a política, especialmente na dinastia Joseon, promovendo governantes virtuosos e hierarquia social. Hoje, influencia o respeito por autoridades, mas pode gerar críticas por inibir questionamentos. Por exemplo, a deferência a líderes idosos ainda é comum. Sabia que a Academia Seonggyungwan, fundada em 1398, era um centro confucionista de formação de líderes?",
+    "palavras_chave": ["confucionismo", "política", "coreia", "joseon", "hierarquia"]
+  },
+  {
+    "pergunta": "Por que o budismo é tão presente na arte coreana?",
+    "resposta": "O budismo inspirou a arte coreana, especialmente durante os períodos Silla e Goryeo, com estátuas de Buda e pinturas detalhadas em templos como Haeinsa. Ele reflete a busca pela serenidade, mas algumas obras foram destruídas durante repressões confucionistas. Sabia que o Tripitaka Koreana, um conjunto de 80 mil tábuas budistas, é um tesouro nacional?",
+    "palavras_chave": ["budismo", "arte", "coreia", "templo", "tripitaka"]
+  },
+  {
+    "pergunta": "O que é o conceito de ren no confucionismo?",
+    "resposta": "Ren, no confucionismo, é a virtude da humanidade, bondade e compaixão, vista como a base para uma sociedade harmoniosa. Na China, é praticada em gestos simples, como ajudar um vizinho, mas pode ser idealizada demais para contextos modernos. Confúcio dizia que ren é a essência de ser humano. Sabia que ren inspirou até códigos de ética em empresas chinesas modernas?",
+    "palavras_chave": ["confucionismo", "ren", "humanidade", "china", "ética"]
+  },
+  {
+    "pergunta": "Como o xintoísmo se relaciona com a natureza?",
+    "resposta": "No xintoísmo, a natureza é sagrada, pois kami habitam rios, montanhas e árvores. Isso leva a práticas como proteger florestas ao redor de santuários, como em Nikko. Alguns criticam a falta de engajamento com questões ambientais modernas. Sabia que o Monte Fuji, além de um símbolo cultural, é um local de peregrinação xintoísta?",
+    "palavras_chave": ["xintoísmo", "natureza", "kami", "japão", "fuji"]
+  },
+  {
+    "pergunta": "O que é o festival Qingming na China?",
+    "resposta": "O Qingming é um feriado chinês ligado ao confucionismo e ao taoísmo, onde se honra os mortos varrendo túmulos e fazendo oferendas. É um momento de reflexão familiar, mas pode ser visto como ritualístico demais por jovens urbanos. Ocorre em abril, com famílias visitando cemitérios. Sabia que, durante o Qingming, as pessoas também empinam pipas para simbolizar a elevação espiritual?",
+    "palavras_chave": ["qingming", "confucionismo", "taoísmo", "china", "ancestrais"]
+  },
+  {
+    "pergunta": "Como o budismo influencia a cultura pop coreana?",
+    "resposta": "O budismo inspira a cultura pop coreana, com temas de compaixão e equilíbrio aparecendo em dramas e músicas K-pop. Templos como Jogyesa atraem jovens em busca de meditação. Alguns criticam a comercialização dessas práticas. Sabia que o grupo BTS já usou referências budistas, como mandalas, em seus clipes?",
+    "palavras_chave": ["budismo", "k-pop", "coreia", "meditação", "cultura"]
+  },
+  {
+    "pergunta": "O que é o conceito de li no confucionismo?",
+    "resposta": "Li, no confucionismo, refere-se a rituais, etiqueta e conduta apropriada para manter a harmonia social. Na China, isso inclui desde cumprimentos formais até cerimônias de casamento. Críticos dizem que o li pode ser rígido, mas ele dá estrutura à sociedade. Sabia que o li influenciou até a forma como os chineses organizam banquetes oficiais?",
+    "palavras_chave": ["confucionismo", "li", "etiqueta", "china", "harmonia"]
+  },
+  {
+    "pergunta": "Como o taoísmo se reflete na poesia chinesa?",
+    "resposta": "O taoísmo inspira a poesia chinesa com imagens de natureza e busca pela simplicidade, como nas obras de Li Bai, que celebram o fluir do Tao. Poemas muitas vezes retratam montanhas e rios como metáforas espirituais. Alguns veem isso como escapismo. Sabia que Li Bai, um dos maiores poetas chineses, era conhecido por seu amor ao vinho, que ele via como um caminho para o Tao?",
+    "palavras_chave": ["taoísmo", "poesia", "li bai", "china", "natureza"]
+  },
+  {
+    "pergunta": "O que são os omikuji no xintoísmo japonês?",
+    "resposta": "Omikuji são tiras de papel com previsões de sorte distribuídas em santuários xintoístas. No Japão, as pessoas as leem para saber sobre amor, trabalho ou saúde, e as amarram em árvores se forem negativas. Alguns veem isso como superstição, mas é uma prática cultural forte. Sabia que, em alguns santuários, há omikuji em inglês para turistas?",
+    "palavras_chave": ["omikuji", "xintoísmo", "sorte", "japão", "santuário"]
+  },
+  {
+    "pergunta": "Como o budismo moldou a arquitetura coreana?",
+    "resposta": "O budismo influenciou a arquitetura coreana com templos como Bulguksa, que combinam simetria e conexão com a natureza. Essas estruturas usam madeira e telhados curvos, refletindo harmonia. Algumas foram destruídas em invasões, mas preservam a herança cultural. Sabia que o templo Haeinsa guarda o Tripitaka Koreana, protegido por sua arquitetura única?",
+    "palavras_chave": ["budismo", "arquitetura", "coreia", "templo", "bulguksa"]
+  },
+  {
+    "pergunta": "O que é o conceito de yin-yang no taoísmo?",
+    "resposta": "Yin-yang é a ideia taoísta de que forças opostas, como luz e escuridão, são interdependentes e criam equilíbrio. Na China, influencia desde a filosofia até o design de jardins. Alguns questionam sua relevância em contextos científicos modernos. Sabia que o símbolo yin-yang é usado até em logotipos de empresas chinesas modernas?",
+    "palavras_chave": ["yin-yang", "taoísmo", "equilíbrio", "china", "filosofia"]
+  },
+  {
+    "pergunta": "Como o xintoísmo influencia os casamentos japoneses?",
+    "resposta": "No Japão, casamentos xintoístas são comuns, realizados em santuários com rituais como o 'san-san-kudo', onde o casal bebe saquê para selar a união. A cerimônia valoriza pureza e harmonia, mas pode ser cara, o que gera críticas. Sabia que, apesar da popularidade, muitos japoneses modernos optam por casamentos ocidentais em capelas?",
+    "palavras_chave": ["xintoísmo", "casamento", "japão", "ritual", "san-san-kudo"]
+  },
+  {
+    "pergunta": "O que é o feriado Obon no Japão?",
+    "resposta": "O Obon é um festival budista japonês que honra os espíritos dos ancestrais. Celebrado em agosto, inclui danças (bon odori) e lanternas para guiar os espíritos. Por exemplo, em Hiroshima, lanternas flutuam nos rios. É um momento de união familiar, mas pode ser criticado por sua comercialização. Sabia que o Obon varia entre regiões, com datas diferentes em Tóquio e Quioto?",
+    "palavras_chave": ["obon", "budismo", "ancestrais", "japão", "lanternas"]
+  },
+  {
+    "pergunta": "Como o confucionismo influencia a família chinesa?",
+    "resposta": "Na China, o confucionismo enfatiza a piedade filial, onde filhos respeitam e cuidam dos pais. Isso molda laços familiares, como cuidar dos idosos em casa. Críticos apontam que isso pode pressionar as gerações mais jovens. Ainda hoje, famílias celebram o Ano Novo Lunar com rituais confucionistas. Sabia que o confucionismo inspirou leis chinesas antigas sobre herança familiar?",
+    "palavras_chave": ["confucionismo", "família", "piedade filial", "china", "tradição"]
+  },
+  {
+    "pergunta": "O que é a cerimônia do chá no Japão?",
+    "resposta": "A cerimônia do chá, ou 'chanoyu', é uma prática zen-budista que valoriza simplicidade e mindfulness. No Japão, mestres como Sen no Rikyu a refinaram no século XVI, usando utensílios minimalistas. É uma arte meditativa, mas pode ser vista como elitista. Sabia que uma cerimônia completa pode durar até quatro horas?",
+    "palavras_chave": ["chanoyu", "budismo zen", "japão", "meditação", "tradição"]
+  },
+  {
+    "pergunta": "Como o taoísmo afeta a arte chinesa?",
+    "resposta": "O taoísmo influencia a arte chinesa com pinturas de paisagens que refletem o equilíbrio do Tao, como as obras de Fan Kuan, que retratam montanhas majestosas. A estética busca harmonia, mas pode ser considerada distante da realidade urbana. Sabia que muitos artistas taoístas viviam como eremitas para se inspirar na natureza?",
+    "palavras_chave": ["taoísmo", "arte", "paisagem", "china", "harmonia"]
+  },
+  {
+    "pergunta": "O que é o xamanismo na cultura coreana?",
+    "resposta": "O xamanismo coreano, ou 'muism', é uma prática antiga onde xamãs (mudang) mediam entre humanos e espíritos. Rituais como o 'gut' buscam cura ou bênçãos. Apesar de marginalizado na era moderna, ainda é praticado em áreas rurais. Sabia que muitas mudang são mulheres, vistas como poderosas mediadoras espirituais?",
+    "palavras_chave": ["xamanismo", "muism", "coreia", "mudang", "ritual"]
+  },
+  {
+    "pergunta": "Como o xintoísmo se relaciona com o imperador japonês?",
+    "resposta": "No xintoísmo, o imperador do Japão é visto como descendente da deusa Amaterasu, a kami do sol. Isso legitimou seu poder até 1945, quando o imperador renunciou à divindade. Hoje, ele ainda participa de rituais xintoístas. Alguns criticam essa ligação por seu passado imperialista. Sabia que o atual imperador, Naruhito, ainda realiza cerimônias no Palácio Imperial?",
+    "palavras_chave": ["xintoísmo", "imperador", "amaterasu", "japão", "rituais"]
+  },
+  {
+    "pergunta": "O que é o festival do Barco-Dragão na China?",
+    "resposta": "O festival do Barco-Dragão, ligado ao taoísmo e à cultura chinesa, celebra o poeta Qu Yuan com corridas de barcos e bolinhos de arroz (zongzi). É um feriado vibrante, mas pode ser criticado por seu foco comercial hoje. Ocorre em junho, com competições nacionais. Sabia que o festival também marca o início do verão no calendário lunar?",
+    "palavras_chave": ["barco-dragão", "taoísmo", "qu yuan", "china", "festival"]
+  },
+  {
+    "pergunta": "Como o budismo influencia a literatura coreana?",
+    "resposta": "O budismo moldou a literatura coreana com contos e poemas que exploram a impermanência, como os hansi da era Goryeo. Textos budistas, como os sutras, inspiraram escritores. Alguns veem esses textos como abstratos demais para leitores modernos. Sabia que o romance 'Hyecho’s Journey' retrata um monge coreano viajando pela Ásia?",
+    "palavras_chave": ["budismo", "literatura", "coreia", "sutras", "goryeo"]
+  },
+  {
+    "pergunta": "O que são os ema no xintoísmo japonês?",
+    "resposta": "Ema são placas de madeira onde os japoneses escrevem pedidos aos kami em santuários xintoístas. Por exemplo, no santuário Yasaka, em Quioto, pessoas pedem saúde ou sucesso. É uma prática acessível, mas alguns a veem como superstição. Sabia que os ema são queimados em cerimônias para enviar os pedidos aos kami?",
+    "palavras_chave": ["ema", "xintoísmo", "santuário", "japão", "pedidos"]
+  },
+  {
+    "pergunta": "Como o confucionismo molda a ética nos negócios chineses?",
+    "resposta": "Na China, o confucionismo promove a ética nos negócios com valores como confiança e respeito mútuo. Por exemplo, negociações valorizam a construção de 'guanxi' (relações). Críticos dizem que isso pode levar a favoritismos. Sabia que grandes empresas chinesas, como a Huawei, incentivam cursos de confucionismo para executivos?",
+    "palavras_chave": ["confucionismo", "ética", "guanxi", "china", "negócios"]
+  },
+  {
+    "pergunta": "O que é o conceito de zazen no budismo zen?",
+    "resposta": "Zazen é a prática de meditação sentada no budismo zen, usada no Japão para alcançar clareza mental. Monges em templos como Eiheiji praticam por horas. É elogiada por sua disciplina, mas pode ser desafiadora para iniciantes. Sabia que o zazen influenciou práticas de mindfulness no ocidente?",
+    "palavras_chave": ["zazen", "budismo zen", "meditação", "japão", "mindfulness"]
+  },
+  {
+    "pergunta": "Como o taoísmo influencia a culinária chinesa?",
+    "resposta": "O taoísmo influencia a culinária chinesa com a ideia de equilibrar sabores (doce, salgado, azedo) para harmonizar o corpo. Pratos como sopas medicinais refletem isso. Alguns veem essas práticas como pseudociência. Sabia que monges taoístas criaram dietas vegetarianas para promover longevidade?",
+    "palavras_chave": ["taoísmo", "culinária", "equilíbrio", "china", "vegetarianismo"]
+  },
+  {
+    "pergunta": "O que é o feriado Chuseok na Coreia?",
+    "resposta": "Chuseok é o feriado coreano de ação de graças, ligado ao confucionismo, onde famílias honram ancestrais com rituais jesa e compartilham pratos como songpyeon. É um momento de união, mas pode sobrecarregar as mulheres, que preparam as oferendas. Sabia que o Chuseok é um dos poucos feriados em que Seul fica quase vazia?",
+    "palavras_chave": ["chuseok", "confucionismo", "jesa", "coreia", "ancestrais"]
+  },
+  {
+    "pergunta": "Como o xintoísmo influencia a cultura pop japonesa?",
+    "resposta": "O xintoísmo inspira a cultura pop japonesa, com kami e santuários aparecendo em animes como 'Spirited Away'. Essas referências celebram a tradição, mas podem simplificar crenças complexas. Estúdios como Ghibli usam o xintoísmo para criar narrativas místicas. Sabia que o filme 'Your Name' inclui um ritual xintoísta central à trama?",
+    "palavras_chave": ["xintoísmo", "cultura pop", "anime", "japão", "ghibli"]
+  },
+  {
+    "pergunta": "O que é o conceito de qi no taoísmo?",
+    "resposta": "Qi é a energia vital no taoísmo, que flui pelo corpo e pela natureza. Na China, práticas como qigong buscam equilibrar o qi para saúde. Críticos questionam sua base científica, mas ele inspira a medicina tradicional. Sabia que o qi é central nas artes marciais, como o kung fu?",
+    "palavras_chave": ["qi", "taoísmo", "energia", "china", "qigong"]
+  },
+  {
+    "pergunta": "Como o budismo afeta a educação na Coreia?",
+    "resposta": "O budismo influenciou a educação coreana, especialmente na era Silla, com monges ensinando escrita e ética em templos. Hoje, escolas budistas como a Dongguk University mantêm essa tradição. Alguns criticam seu foco espiritual em vez de prático. Sabia que a Dongguk formou líderes como o ex-presidente Park Chung-hee?",
+    "palavras_chave": ["budismo", "educação", "coreia", "templo", "dongguk"]
+  },
+  {
+    "pergunta": "O que são os norito no xintoísmo japonês?",
+    "resposta": "Norito são orações rituais no xintoísmo, recitadas por sacerdotes em santuários para invocar kami. São poéticas, mas podem parecer arcaicas para jovens. Usadas em eventos como casamentos, reforçam a espiritualidade japonesa. Sabia que os norito são escritos em japonês clássico, difícil até para falantes nativos?",
+    "palavras_chave": ["norito", "xintoísmo", "oração", "japão", "santuário"]
+  },
+  {
+    "pergunta": "Como o confucionismo influencia o direito na China?",
+    "resposta": "O confucionismo moldou o direito chinês, promovendo leis baseadas na moral e na ordem social. Na dinastia Han, códigos legais refletiam a piedade filial. Hoje, influencia a mediação de conflitos. Críticos dizem que isso pode limitar liberdades individuais. Sabia que tribunais modernos na China ainda usam princípios confucionistas em disputas familiares?",
+    "palavras_chave": ["confucionismo", "direito", "china", "moral", "mediação"]
+  },
+  {
+    "pergunta": "O que é o festival Seollal na Coreia?",
+    "resposta": "Seollal é o Ano Novo Lunar coreano, com rituais confucionistas como o charye, onde se honra ancestrais. Famílias se reúnem, comem tteokguk e fazem reverências. É uma tradição forte, mas pode ser vista como formal demais. Sabia que crianças recebem dinheiro (sebaetdon) após as reverências no Seollal?",
+    "palavras_chave": ["seollal", "confucionismo", "coreia", "ancestrais", "tteokguk"]
+  },
+  {
+    "pergunta": "Como o taoísmo influencia o feng shui?",
+    "resposta": "O taoísmo deu origem ao feng shui, a prática chinesa de organizar espaços para harmonizar o fluxo de qi. Usado em casas e escritórios, promove equilíbrio, mas é criticado como superstição. Sabia que o feng shui é tão popular que arquitetos modernos na China o incorporam em projetos?",
+    "palavras_chave": ["taoísmo", "feng shui", "qi", "china", "harmonia"]
+  },
+  {
+    "pergunta": "O que é o budismo Seon na Coreia?",
+    "resposta": "O budismo Seon, equivalente ao zen japonês, enfatiza a meditação para alcançar a iluminação. Na Coreia, templos como Haeinsa são centros Seon. É valorizado por sua simplicidade, mas pode ser austero demais. Sabia que o monge Seongcheol, ícone do Seon, inspirou o movimento de meditação moderna na Coreia?",
+    "palavras_chave": ["seon", "budismo", "meditação", "coreia", "haeinsa"]
+  },
+  {
+    "pergunta": "Como o xintoísmo influencia o esporte no Japão?",
+    "resposta": "O xintoísmo influencia esportes japoneses como o sumô, que inclui rituais para purificar o ringue (dohyo). Atletas muitas vezes visitam santuários para bênçãos. Alguns veem isso como tradicionalismo excessivo. Sabia que lutadores de sumô participam de cerimônias xintoístas antes de torneios importantes?",
+    "palavras_chave": ["xintoísmo", "sumô", "ritual", "japão", "esporte"]
+  },
+  {
+    "pergunta": "O que é o culto ao dragão na cultura chinesa?",
+    "resposta": "Na China, o dragão é um símbolo taoísta e cultural de poder e boa sorte, venerado em festivais e templos. Ele representa força, mas seu culto pode ser visto como mitologia ultrapassada. Sabia que o dragão é um dos 12 signos do zodíaco chinês, considerado o mais auspicioso?",
+    "palavras_chave": ["dragão", "taoísmo", "símbolo", "china", "zodíaco"]
+  },
+  {
+    "pergunta": "Como o budismo influencia a música coreana?",
+    "resposta": "O budismo inspirou a música coreana, com hinos e cânticos em templos como Bongeunsa, usados em meditações. Instrumentos como o moktak acompanham rituais. Alguns acham essas práticas muito tradicionais. Sabia que a música budista coreana influenciou o gênero pansori, um estilo narrativo tradicional?",
+    "palavras_chave": ["budismo", "música", "coreia", "moktak", "pansori"]
+  },
+  {
+    "pergunta": "O que é o conceito de jing no taoísmo?",
+    "resposta": "Jing, no taoísmo, é a essência vital do corpo, ligada à saúde e longevidade. Na China, práticas como qigong buscam preservá-lo. É valorizado, mas criticado por falta de comprovação científica. Sabia que o jing é visto como uma das 'três joias' do taoísmo, junto com qi e shen?",
+    "palavras_chave": ["jing", "taoísmo", "longevidade", "china", "qigong"]
+  },
+  {
+    "pergunta": "O que é o festival Tanabata no Japão?",
+    "resposta": "O Tanabata é um festival japonês inspirado em uma lenda chinesa, mas com raízes xintoístas, que celebra o encontro de dois amantes celestiais, representados pelas estrelas Vega e Altair. As pessoas escrevem desejos em tiras de papel (tanzaku) e penduram em bambus. É popular em Sendai, mas pode ser criticado por sua comercialização. Sabia que o Tanabata é celebrado em 7 de julho ou agosto, dependendo do calendário lunar ou solar?",
+    "palavras_chave": ["tanabata", "xintoísmo", "festival", "japão", "tanzaku"]
+  },
+  {
+    "pergunta": "Como o confucionismo influencia a educação coreana?",
+    "resposta": "Na Coreia, o confucionismo valoriza a educação como meio de cultivar virtude e liderança. Durante a dinastia Joseon, academias como as seowon formavam estudiosos. Hoje, a ênfase em exames reflete essa herança, mas pode gerar estresse nos alunos. Sabia que a Coreia do Sul tem uma das maiores taxas de matrícula universitária do mundo, influenciada por esse legado?",
+    "palavras_chave": ["confucionismo", "educação", "coreia", "seowon", "virtude"]
+  },
+  {
+    "pergunta": "O que é o conceito de shen no taoísmo?",
+    "resposta": "Shen, no taoísmo, é a energia espiritual ou consciência que conecta a mente ao universo. Na China, práticas como meditação e alquimia buscam cultivá-lo. É valorizado por sua profundidade, mas pode parecer esotérico. Sabia que o shen é uma das 'três joias' do taoísmo, junto com qi e jing?",
+    "palavras_chave": ["shen", "taoísmo", "espiritualidade", "china", "meditação"]
+  },
+  {
+    "pergunta": "Como o budismo zen influencia a arte japonesa?",
+    "resposta": "O budismo zen moldou a arte japonesa com a estética wabi-sabi, que valoriza a simplicidade e a imperfeição, vista em pinturas de tinta sumi-e ou jardins de pedra, como o de Ryoanji. É admirada por sua serenidade, mas pode ser inacessível para alguns. Sabia que o zen inspirou artistas como Sesshu, cujas obras são tesouros nacionais?",
+    "palavras_chave": ["budismo zen", "arte", "wabi-sabi", "japão", "sumi-e"]
+  },
+  {
+    "pergunta": "O que é o ritual gut no xamanismo coreano?",
+    "resposta": "O gut é um ritual xamanista coreano, realizado por mudang, para apaziguar espíritos ou curar enfermidades. Envolve danças, músicas e oferendas, como em cerimônias para boa colheita. É culturalmente rico, mas marginalizado por religiões modernas. Sabia que o gut pode durar dias, dependendo do propósito do ritual?",
+    "palavras_chave": ["gut", "xamanismo", "mudang", "coreia", "ritual"]
+  },
+  {
+    "pergunta": "Como o xintoísmo influencia os jardins japoneses?",
+    "resposta": "No Japão, o xintoísmo inspira jardins que refletem a sacralidade da natureza, com elementos como pedras e lagos simbolizando kami. Jardins como o de Kinkaku-ji são exemplos. Alguns criticam sua manutenção cara. Sabia que muitos jardins xintoístas são projetados para mudar com as estações, simbolizando impermanência?",
+    "palavras_chave": ["xintoísmo", "jardins", "natureza", "japão", "kami"]
+  },
+  {
+    "pergunta": "O que é o culto à deusa Mazu na China?",
+    "resposta": "Mazu é uma deusa taoísta venerada na China como protetora dos pescadores. Seus templos, como o de Meizhou, atraem peregrinos. A devoção reflete a cultura marítima, mas pode ser vista como superstição. Sabia que Mazu é tão popular que tem festivais em Taiwan e Hong Kong também?",
+    "palavras_chave": ["mazu", "taoísmo", "pescadores", "china", "peregrinação"]
+  },
+  {
+    "pergunta": "Como o budismo influencia a dança coreana?",
+    "resposta": "O budismo inspirou danças coreanas como a seungmu, realizada por monges com movimentos meditativos. Essas danças, vistas em templos como Bongeunsa, expressam espiritualidade, mas podem ser pouco acessíveis ao público moderno. Sabia que a seungmu é considerada um tesouro cultural intangível na Coreia?",
+    "palavras_chave": ["budismo", "dança", "seungmu", "coreia", "templo"]
+  },
+  {
+    "pergunta": "O que são os amuletos omamori no Japão?",
+    "resposta": "Omamori são amuletos xintoístas ou budistas vendidos em santuários japoneses para proteção, saúde ou sucesso. Por exemplo, estudantes compram omamori para exames. São populares, mas alguns os veem como comerciais demais. Sabia que os omamori devem ser devolvidos ao santuário após um ano para serem queimados ritualmente?",
+    "palavras_chave": ["omamori", "xintoísmo", "budismo", "japão", "proteção"]
+  },
+  {
+    "pergunta": "Como o confucionismo afeta a liderança na China?",
+    "resposta": "O confucionismo promove líderes éticos e benevolentes na China, com ênfase em servir o povo, como ensinou Confúcio. Isso influenciou governantes históricos e ainda inspira discursos políticos. Críticos dizem que pode justificar autoritarismo. Sabia que Xi Jinping já citou Confúcio em falas sobre governança?",
+    "palavras_chave": ["confucionismo", "liderança", "ética", "china", "governança"]
+  },
+  {
+    "pergunta": "O que é a prática de qigong no taoísmo?",
+    "resposta": "Qigong é uma prática taoísta chinesa que combina respiração, movimento e meditação para equilibrar o qi. É usada para saúde e espiritualidade, mas criticada por falta de evidências científicas. Parques na China têm grupos praticando qigong ao amanhecer. Sabia que o qigong foi banido temporariamente na China por associações com grupos espirituais?",
+    "palavras_chave": ["qigong", "taoísmo", "qi", "china", "meditação"]
+  },
+  {
+    "pergunta": "Como o budismo Seon influencia a poesia coreana?",
+    "resposta": "O budismo Seon inspira a poesia coreana com versos minimalistas que exploram a impermanência, como os poemas de Han Yong-un. Reflete a estética zen, mas pode ser abstrata para leitores casuais. Sabia que Han Yong-un usou o Seon para expressar resistência ao colonialismo japonês?",
+    "palavras_chave": ["seon", "poesia", "coreia", "han yong-un", "zen"]
+  },
+  {
+    "pergunta": "O que é o santuário Yasukuni no Japão?",
+    "resposta": "O santuário Yasukuni, em Tóquio, é um local xintoísta que honra os mortos em guerras, incluindo soldados e figuras controversas. É um símbolo de memória, mas criticado por glorificar o militarismo. Políticos que o visitam geram polêmica internacional. Sabia que o Yasukuni tem um museu que narra a história militar japonesa?",
+    "palavras_chave": ["yasukuni", "xintoísmo", "guerra", "japão", "memória"]
+  },
+  {
+    "pergunta": "Como o confucionismo influencia os casamentos na Coreia?",
+    "resposta": "Na Coreia, o confucionismo molda casamentos com rituais que enfatizam respeito e harmonia familiar, como o pyebaek, onde os noivos reverenciam os pais. É uma tradição forte, mas pode ser vista como rígida. Sabia que o pyebaek inclui oferendas de castanhas e tâmaras para desejar fertilidade?",
+    "palavras_chave": ["confucionismo", "casamento", "pyebaek", "coreia", "tradição"]
+  },
+  {
+    "pergunta": "O que é o conceito de wabi-sabi no budismo zen?",
+    "resposta": "Wabi-sabi, ligado ao budismo zen japonês, celebra a beleza da imperfeição e da transitoriedade, como em cerâmicas rústicas ou jardins assimétricos. É uma filosofia estética, mas pode ser difícil de aplicar em contextos modernos. Sabia que o wabi-sabi inspirou designers como Issey Miyake?",
+    "palavras_chave": ["wabi-sabi", "budismo zen", "estética", "japão", "imperfeição"]
+  },
+  {
+    "pergunta": "Como o taoísmo influencia a caligrafia chinesa?",
+    "resposta": "O taoísmo inspira a caligrafia chinesa com traços fluidos que refletem o fluxo do Tao. Artistas como Wang Xizhi buscavam harmonia em cada pincelada. É uma arte meditativa, mas requer anos de prática. Sabia que a caligrafia taoísta era usada em talismãs para proteção espiritual?",
+    "palavras_chave": ["taoísmo", "caligrafia", "wang xizhi", "china", "harmonia"]
+  },
+  {
+    "pergunta": "O que é o festival Hangeul na Coreia?",
+    "resposta": "O Hangeul Day, embora não religioso, tem influências confucionistas por celebrar a criação do alfabeto coreano por Sejong, um rei confucionista. É um feriado cultural, mas menos enfatizado entre jovens. Sabia que o Hangeul foi criado para promover educação para todos, refletindo valores confucionistas?",
+    "palavras_chave": ["hangeul", "confucionismo", "sejong", "coreia", "alfabeto"]
+  },
+  {
+    "pergunta": "Como o xintoísmo influencia a culinária japonesa?",
+    "resposta": "O xintoísmo valoriza a pureza na culinária japonesa, com pratos como o osechi, servido no Ano Novo, usando ingredientes frescos para honrar os kami. É uma tradição que celebra a natureza, mas pode ser cara. Sabia que o osechi é servido em caixas lacadas para simbolizar bênçãos?",
+    "palavras_chave": ["xintoísmo", "culinária", "osechi", "japão", "pureza"]
+  },
+  {
+    "pergunta": "O que é o culto ao Jade Emperor na China?",
+    "resposta": "O Jade Emperor é uma divindade taoísta, considerado o governante dos céus. Templos como o Yuhuangding, em Shandong, celebram-no com oferendas. É central na mitologia chinesa, mas alguns o veem como folclore. Sabia que o Ano Novo Chinês inclui rituais para o Jade Emperor?",
+    "palavras_chave": ["jade emperor", "taoísmo", "mitologia", "china", "templo"]
+  },
+  {
+    "pergunta": "Como o budismo influencia os festivais coreanos?",
+    "resposta": "O budismo molda festivais coreanos como o Buddha’s Birthday, com lanternas coloridas iluminando templos como Jogyesa. É um momento de celebração, mas pode ser ofuscado por feriados modernos. Sabia que as lanternas formam desenhos gigantes, como mandalas, durante o festival?",
+    "palavras_chave": ["budismo", "festival", "lanternas", "coreia", "jogyesa"]
+  },
+  {
+    "pergunta": "O que são os kagura no xintoísmo japonês?",
+    "resposta": "Kagura são danças sagradas xintoístas realizadas em santuários para entreter os kami. No Japão, como no santuário Kasuga, combinam música e movimento. São culturalmente ricas, mas menos populares entre jovens. Sabia que algumas kagura remontam ao século VIII, narrando mitos antigos?",
+    "palavras_chave": ["kagura", "xintoísmo", "dança", "japão", "santuário"]
+  },
+  {
+    "pergunta": "Como o confucionismo influencia a música chinesa?",
+    "resposta": "O confucionismo valoriza a música como meio de promover harmonia e virtude na China. Instrumentos como o guqin eram usados em rituais. É uma tradição respeitada, mas pode parecer formal. Sabia que Confúcio era um músico talentoso e via a música como essencial para a educação?",
+    "palavras_chave": ["confucionismo", "música", "guqin", "china", "harmonia"]
+  },
+  {
+    "pergunta": "O que é o conceito de koan no budismo zen?",
+    "resposta": "Koan é uma história ou pergunta paradoxal usada no budismo zen japonês para desafiar a mente e levar à iluminação. Por exemplo, 'Qual é o som de uma mão batendo palma?' é famoso. É intrigante, mas pode frustrar iniciantes. Sabia que koans são usados em treinamentos de monges em templos como Daitoku-ji?",
+    "palavras_chave": ["koan", "budismo zen", "meditação", "japão", "iluminação"]
+  },
+  {
+    "pergunta": "Como o taoísmo influencia os jardins chineses?",
+    "resposta": "O taoísmo inspira jardins chineses, como o Jardim do Mestre das Redes, em Suzhou, que refletem o equilíbrio do yin-yang com rochas e água. São espaços meditativos, mas sua manutenção é cara. Sabia que esses jardins eram projetados para imitar a natureza em miniatura?",
+    "palavras_chave": ["taoísmo", "jardins", "yin-yang", "china", "suzhou"]
+  },
+  {
+    "pergunta": "O que é o ritual charye na Coreia?",
+    "resposta": "Charye é um ritual confucionista coreano, realizado em feriados como Seollal, onde se oferecem alimentos aos ancestrais em altares domésticos. Reforça laços familiares, mas pode ser visto como arcaico. Sabia que o charye inclui uma disposição específica de pratos para agradar os espíritos?",
+    "palavras_chave": ["charye", "confucionismo", "ancestrais", "coreia", "ritual"]
+  },
+  {
+    "pergunta": "Como o xintoísmo influencia os festivais de Ano Novo no Japão?",
+    "resposta": "No Japão, o xintoísmo marca o Ano Novo com rituais como o hatsumode, a primeira visita ao santuário para orar por bênçãos. Milhões vão a lugares como o Meiji Jingu, em Tóquio. É uma tradição que une comunidades, mas pode ser vista como formal por jovens. Sabia que muitos japoneses compram amuletos omamori durante o hatsumode para proteção anual?",
+    "palavras_chave": ["xintoísmo", "ano novo", "hatsumode", "japão", "santuário"]
+  },
+  {
+    "pergunta": "O que é o conceito de xiao no confucionismo?",
+    "resposta": "Xiao, ou piedade filial, é um pilar do confucionismo que enfatiza o respeito e cuidado com os pais e ancestrais. Na China, isso se reflete em atitudes como cuidar dos idosos. Críticos dizem que pode gerar pressão social. Sabia que o xiao inspirou leis chinesas que obrigam filhos a visitar os pais idosos?",
+    "palavras_chave": ["confucionismo", "xiao", "piedade filial", "china", "família"]
+  },
+  {
+    "pergunta": "Como o budismo zen influencia a culinária japonesa?",
+    "resposta": "O budismo zen inspira a culinária japonesa com a shojin ryori, uma cozinha vegetariana de monges que valoriza ingredientes simples e sazonais. Servida em templos como Daitoku-ji, promove mindfulness. Alguns acham restritiva demais. Sabia que a shojin ryori influenciou o conceito de umami na culinária global?",
+    "palavras_chave": ["budismo zen", "culinária", "shojin ryori", "japão", "umami"]
+  },
+  {
+    "pergunta": "O que é o festival do Meio Outono na China?",
+    "resposta": "O festival do Meio Outono, ligado ao taoísmo e à cultura chinesa, celebra a lua cheia com bolos lunares e reuniões familiares. É um momento de harmonia, mas pode ser criticado por seu foco comercial. Sabia que a lenda da deusa Chang’e, que vive na lua, é central nesse feriado?",
+    "palavras_chave": ["meio outono", "taoísmo", "bolos lunares", "china", "chang’e"]
+  },
+  {
+    "pergunta": "Como o xamanismo coreano influencia a medicina tradicional?",
+    "resposta": "O xamanismo coreano, ou muism, usa rituais como o gut para curar doenças, acreditando que espíritos afetam a saúde. Xamãs (mudang) combinam ervas e cânticos. É culturalmente significativo, mas marginalizado pela medicina moderna. Sabia que algumas práticas xamanistas se misturam com a medicina tradicional coreana, como a acupuntura?",
+    "palavras_chave": ["xamanismo", "medicina", "mudang", "coreia", "gut"]
+  },
+  {
+    "pergunta": "O que é o santuário Ise Jingu no Japão?",
+    "resposta": "O Ise Jingu é o santuário xintoísta mais sagrado do Japão, dedicado à deusa Amaterasu. Localizado em Mie, é um centro espiritual, mas sua exclusividade gera críticas. É reconstruído a cada 20 anos para simbolizar renovação. Sabia que apenas a família imperial e sacerdotes podem entrar em suas áreas mais sagradas?",
+    "palavras_chave": ["ise jingu", "xintoísmo", "amaterasu", "japão", "santuário"]
+  },
+  {
+    "pergunta": "Como o confucionismo influencia a arte chinesa?",
+    "resposta": "O confucionismo molda a arte chinesa com pinturas e caligrafias que refletem virtude e harmonia, como as obras de Gu Kaizhi. Valoriza a moralidade, mas pode ser vista como rígida. Sabia que muitos artistas confucionistas eram também funcionários públicos, unindo arte e ética?",
+    "palavras_chave": ["confucionismo", "arte", "caligrafia", "china", "virtude"]
+  },
+  {
+    "pergunta": "O que é a prática de kendo no Japão?",
+    "resposta": "O kendo, influenciado pelo budismo zen, é uma arte marcial japonesa que combina espada e disciplina mental. Praticantes buscam clareza e respeito, mas o esporte pode ser visto como elitista. Sabia que os kendokas gritam (kiai) para expressar espírito durante os combates?",
+    "palavras_chave": ["kendo", "budismo zen", "arte marcial", "japão", "disciplina"]
+  },
+  {
+    "pergunta": "Como o taoísmo influencia a astrologia chinesa?",
+    "resposta": "O taoísmo molda a astrologia chinesa, com o zodíaco e previsões baseadas no equilíbrio do qi. É usada para casamentos e negócios, mas criticada como superstição. Sabia que o zodíaco chinês, com 12 animais, é baseado em um mito taoísta sobre uma corrida celestial?",
+    "palavras_chave": ["taoísmo", "astrologia", "zodíaco", "china", "qi"]
+  },
+  {
+    "pergunta": "O que é o templo Bulguksa na Coreia?",
+    "resposta": "Bulguksa é um templo budista em Gyeongju, Coreia, construído no século VIII. Representa a harmonia budista com sua arquitetura, mas sofreu destruições históricas. É um patrimônio da Unesco. Sabia que Bulguksa abriga a caverna Seokguram, com uma estátua de Buda esculpida na rocha?",
+    "palavras_chave": ["bulguksa", "budismo", "templo", "coreia", "seokguram"]
+  },
+  {
+    "pergunta": "Como o xintoísmo influencia a moda japonesa?",
+    "resposta": "O xintoísmo inspira a moda japonesa com quimonos usados em cerimônias, como casamentos, que simbolizam pureza. Designers modernos, como Issey Miyake, adaptam esses conceitos. Alguns veem isso como tradicionalismo excessivo. Sabia que quimonos xintoístas usam cores específicas para cada ritual?",
+    "palavras_chave": ["xintoísmo", "moda", "quimono", "japão", "pureza"]
+  },
+  {
+    "pergunta": "O que é o conceito de de no confucionismo?",
+    "resposta": "De, no confucionismo, é a virtude moral que guia ações éticas e benevolentes. Na China, líderes são incentivados a praticá-lo para governar com justiça. Críticos dizem que pode ser idealizado. Sabia que o de era central nos exames imperiais para selecionar funcionários?",
+    "palavras_chave": ["confucionismo", "de", "virtude", "china", "ética"]
+  },
+  {
+    "pergunta": "Como o budismo Seon influencia a caligrafia coreana?",
+    "resposta": "O budismo Seon inspira a caligrafia coreana com traços simples que refletem meditação e equilíbrio, como nas obras de monges em Haeinsa. É uma prática espiritual, mas menos popular hoje. Sabia que a caligrafia Seon usa o alfabeto Hangeul para expressar sutras budistas?",
+    "palavras_chave": ["seon", "caligrafia", "coreia", "budismo", "hangeul"]
+  },
+  {
+    "pergunta": "O que é o culto ao Deus da Riqueza na China?",
+    "resposta": "O Deus da Riqueza, ou Caishen, é uma figura taoísta venerada na China por trazer prosperidade. Templos e altares domésticos oferecem incenso em seu nome. É popular, mas criticado por promover materialismo. Sabia que durante o Ano Novo Chinês, imagens de Caishen são colocadas nas portas?",
+    "palavras_chave": ["caishen", "taoísmo", "prosperidade", "china", "ano novo"]
+  },
+  {
+    "pergunta": "Como o xintoísmo influencia a literatura japonesa?",
+    "resposta": "O xintoísmo inspira a literatura japonesa com mitos sobre kami, como no 'Kojiki', um texto antigo que narra a criação do Japão. Influencia obras modernas, mas pode ser visto como folclórico. Sabia que o 'Kojiki' é uma das fontes mais antigas da mitologia japonesa, escrita em 712?",
+    "palavras_chave": ["xintoísmo", "literatura", "kojiki", "japão", "mitologia"]
+  },
+  {
+    "pergunta": "O que é o festival de lanternas na China?",
+    "resposta": "O festival de lanternas, ligado ao taoísmo, marca o fim do Ano Novo Chinês com lanternas coloridas e adivinhações. É celebrado em cidades como Nanjing, mas pode ser comercializado demais. Sabia que as adivinhações nas lanternas desafiam as pessoas a resolver enigmas poéticos?",
+    "palavras_chave": ["lanternas", "taoísmo", "ano novo", "china", "adivinhações"]
+  },
+  {
+    "pergunta": "Como o budismo influencia a moda coreana?",
+    "resposta": "O budismo inspira a moda coreana com vestimentas de monges, como o hanbok adaptado em templos. Designers modernos usam esses elementos em coleções minimalistas. Alguns veem isso como nicho. Sabia que o hanbok budista é feito sem costuras para simbolizar simplicidade?",
+    "palavras_chave": ["budismo", "moda", "hanbok", "coreia", "minimalismo"]
+  },
+  {
+    "pergunta": "O que são os shide no xintoísmo japonês?",
+    "resposta": "Shide são fitas de papel ziguezague usadas em rituais xintoístas para purificação, vistas em santuários como Fushimi Inari. Simbolizam a presença dos kami, mas são pouco conhecidas fora do Japão. Sabia que os shide são feitos à mão por sacerdotes em cerimônias específicas?",
+    "palavras_chave": ["shide", "xintoísmo", "purificação", "japão", "santuário"]
+  },
+  {
+    "pergunta": "Como o confucionismo influencia a diplomacia chinesa?",
+    "resposta": "O confucionismo molda a diplomacia chinesa com ênfase na harmonia e no respeito mútuo, como no conceito de 'he'. Isso guia negociações, mas pode ser visto como fachada para interesses políticos. Sabia que a China criou Institutos Confúcio para promover sua cultura globalmente?",
+    "palavras_chave": ["confucionismo", "diplomacia", "he", "china", "harmonia"]
+  },
+  {
+    "pergunta": "O que é a prática de ikebana no Japão?",
+    "resposta": "Ikebana, influenciada pelo budismo zen, é a arte japonesa de arranjos florais que busca equilíbrio e simplicidade. Escolas como Ikenobo ensinam essa prática meditativa. Alguns acham elitista. Sabia que o ikebana era originalmente usado em altares budistas?",
+    "palavras_chave": ["ikebana", "budismo zen", "arranjos florais", "japão", "simplicidade"]
+  },
+  {
+    "pergunta": "Como o taoísmo influencia a dança chinesa?",
+    "resposta": "O taoísmo inspira a dança chinesa com movimentos fluidos que imitam o fluxo do Tao, como nas danças de leques. Reflete harmonia, mas pode ser menos acessível ao público moderno. Sabia que danças taoístas eram usadas em rituais para apaziguar deuses?",
+    "palavras_chave": ["taoísmo", "dança", "harmonia", "china", "leques"]
+  },
+  {
+    "pergunta": "O que é o templo Haeinsa na Coreia?",
+    "resposta": "Haeinsa é um templo budista na Coreia, conhecido por abrigar o Tripitaka Koreana, um conjunto de tábuas budistas. É um centro do budismo Seon, mas enfrenta desafios de preservação. Sabia que Haeinsa foi projetado com ventilação especial para proteger as tábuas do mofo?",
+    "palavras_chave": ["haeinsa", "budismo", "tripitaka", "coreia", "seon"]
+  },
+  {
+    "pergunta": "Como o xintoísmo influencia a educação japonesa?",
+    "resposta": "O xintoísmo influencia a educação japonesa com valores como respeito e harmonia, refletidos em cerimônias escolares. Alguns criticam sua ligação com o nacionalismo histórico. Sabia que muitas escolas japonesas têm pequenos santuários xintoístas no campus?",
+    "palavras_chave": ["xintoísmo", "educação", "harmonia", "japão", "santuário"]
+  },
+  {
+    "pergunta": "O que é o conceito de zhong no confucionismo?",
+    "resposta": "Zhong, no confucionismo, é a lealdade e a sinceridade no dever, especialmente em relação à família e ao estado. Na China, guia relações sociais, mas pode ser visto como rígido. Sabia que o zhong era um critério para selecionar funcionários na China imperial?",
+    "palavras_chave": ["confucionismo", "zhong", "lealdade", "china", "dever"]
+  },
+  {
+    "pergunta": "Como o budismo zen influencia a literatura japonesa?",
+    "resposta": "O budismo zen inspira a literatura japonesa com haikus que capturam o momento presente, como os de Matsuo Bashô. Reflete simplicidade, mas pode ser abstrato. Sabia que Bashô viajava pelo Japão para encontrar inspiração em paisagens zen?",
+    "palavras_chave": ["budismo zen", "literatura", "haiku", "japão", "bashô"]
+  }
+]
